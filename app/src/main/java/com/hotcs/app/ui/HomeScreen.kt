@@ -24,6 +24,13 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.animation.core.animateFloatAsState
+import androidx.compose.foundation.LocalIndication
+import androidx.compose.foundation.interaction.MutableInteractionSource
+import androidx.compose.foundation.interaction.collectIsPressedAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
+import androidx.compose.ui.draw.scale
 import com.hotcs.app.data.HotItem
 
 val sourceNames = mapOf(
@@ -73,7 +80,11 @@ fun HomeScreen(
                 contentPadding = PaddingValues(vertical = 2.dp)
             ) {
                 items(items, key = { it.id }) { item ->
-                    HotRow(item = item, onClick = { onOpen(item.id) })
+                    HotRow(
+                        item = item,
+                        onClick = { onOpen(item.id) },
+                        modifier = Modifier.animateItem()
+                    )
                 }
             }
         }
@@ -99,11 +110,19 @@ fun HomeScreen(
 }
 
 @Composable
-fun HotRow(item: HotItem, onClick: () -> Unit) {
+fun HotRow(item: HotItem, onClick: () -> Unit, modifier: Modifier = Modifier) {
+    val interactionSource = remember { MutableInteractionSource() }
+    val pressed by interactionSource.collectIsPressedAsState()
+    val scale by animateFloatAsState(if (pressed) 0.97f else 1f, label = "press")
     Column(
-        Modifier
+        modifier
             .fillMaxWidth()
-            .clickable(onClick = onClick)
+            .scale(scale)
+            .clickable(
+                interactionSource = interactionSource,
+                indication = LocalIndication.current,
+                onClick = onClick
+            )
             .padding(horizontal = 14.dp, vertical = 10.dp)
     ) {
         Row(verticalAlignment = Alignment.CenterVertically) {

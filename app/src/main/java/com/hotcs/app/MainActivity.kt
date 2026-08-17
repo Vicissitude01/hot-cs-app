@@ -8,6 +8,11 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.result.contract.ActivityResultContracts
+import androidx.compose.animation.core.tween
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.slideInHorizontally
+import androidx.compose.animation.slideOutHorizontally
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
@@ -88,7 +93,14 @@ fun App() {
         }
     }
 
-    NavHost(nav, startDestination = "home") {
+    NavHost(
+        nav,
+        startDestination = "home",
+        enterTransition = { fadeIn(tween(250)) + slideInHorizontally(tween(300)) { it / 12 } },
+        exitTransition = { fadeOut(tween(200)) },
+        popEnterTransition = { fadeIn(tween(250)) },
+        popExitTransition = { fadeOut(tween(200)) + slideOutHorizontally(tween(300)) { it / 12 } }
+    ) {
         composable("home") {
             HomeScreen(
                 items = items,
