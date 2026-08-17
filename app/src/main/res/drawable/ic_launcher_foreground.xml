@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 终端提示符 ">_" 图标，珊瑚橙 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#D97757"
+        android:pathData="M45,32 L67,54 L45,76 L39,70 L55,54 L39,38 Z" />
+    <path
+        android:fillColor="#D97757"
+        android:pathData="M40,84 L70,84 L70,79 L40,79 Z" />
+</vector>
