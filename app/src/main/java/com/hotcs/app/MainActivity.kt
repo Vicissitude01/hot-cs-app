@@ -1,9 +1,15 @@
 package com.hotcs.app
 
+import android.Manifest
+import android.app.Activity
+import android.content.pm.PackageManager
+import android.os.Build
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -13,9 +19,9 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.hotcs.app.data.HotItem
 import com.hotcs.app.data.HotRepository
 import com.hotcs.app.data.Settings
+import com.hotcs.app.notify.Notifier
 import com.hotcs.app.ui.DetailScreen
 import com.hotcs.app.ui.HomeScreen
 import com.hotcs.app.ui.SettingsScreen
@@ -24,7 +30,19 @@ import kotlinx.coroutines.launch
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        Notifier.ensureChannel(this)
+        if (Settings.notifyEnabled(this)) Notifier.schedule(this)
+        requestNotifyPermission()
         setContent { App() }
+    }
+
+    private fun requestNotifyPermission() {
+        if (Build.VERSION.SDK_INT >= 33 &&
+            checkSelfPermission(Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED
+        ) {
+            val launcher = registerForActivityResult(ActivityResultContracts.RequestPermission()) {}
+            launcher.launch(Manifest.permission.POST_NOTIFICATIONS)
+        }
     }
 }
 
@@ -50,6 +68,18 @@ fun App() {
     }
 
     val nav = rememberNavController()
+    val activity = LocalContext.current as? Activity
+    var pendingId by remember { mutableStateOf(activity?.intent?.getStringExtra("itemId")) }
+
+    // 点通知进入：等列表加载出目标条目后跳详情
+    LaunchedEffect(pendingId, items) {
+        val id = pendingId
+        if (id != null && items.any { it.id == id }) {
+            nav.navigate("detail/$id")
+            pendingId = null
+        }
+    }
+
     NavHost(nav, startDestination = "home") {
         composable("home") {
             HomeScreen(

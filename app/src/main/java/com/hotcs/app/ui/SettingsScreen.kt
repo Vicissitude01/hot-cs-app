@@ -35,6 +35,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import com.hotcs.app.data.HotRepository
 import com.hotcs.app.data.Settings
+import com.hotcs.app.notify.Notifier
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -117,6 +118,7 @@ fun SettingsScreen(onBack: () -> Unit) {
                 Switch(checked = notify, onCheckedChange = { v ->
                     notify = v
                     Settings.setNotifyEnabled(context, v)
+                    if (v) Notifier.schedule(context) else Notifier.cancel(context)
                 })
             }
 
