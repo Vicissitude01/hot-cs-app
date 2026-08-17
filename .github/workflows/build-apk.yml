@@ -26,51 +26,58 @@ jobs:
           gradle-version: "8.9"
       - uses: android-actions/setup-android@v3
       - name: Run unit tests
-        run: gradle :app:testDebugUnitTest --stacktrace 2>&1 | tee /tmp/test-log.txt
+        run: |
+          set -o pipefail
+          gradle :app:testDebugUnitTest --stacktrace 2>&1 | tee /tmp/test-log.txt
       - name: Build release APK
         run: |
-          gradle :app:assembleRelease --stacktrace 2>&1 | tee -a /tmp/test-log.txt
-          echo "### assembleRelease 后 app/build 下的文件" >> /tmp/diag.txt
-          find app/build -type f 2>/dev/null | head -40 >> /tmp/diag.txt || echo "(无 app/build)" >> /tmp/diag.txt
-      - name: Locate and stage APK
-        run: |
-          echo "### APK 查找结果" >> /tmp/diag.txt
-          find app/build/outputs -name "*.apk" 2>/dev/null | head -5 >> /tmp/diag.txt || true
-          APK=$(find app/build/outputs -name "*.apk" 2>/dev/null | head -1)
-          if [ -n "$APK" ]; then
-            mkdir -p dist && cp "$APK" dist/app-release.apk
-            echo "已复制到 dist/app-release.apk" >> /tmp/diag.txt
-          else
-            echo "!! 未找到任何 APK 文件" >> /tmp/diag.txt
-          fi
-      - name: Show build log (always)
+          set -o pipefail
+          gradle :app:assembleRelease --stacktrace 2>&1 | tee /tmp/build-log.txt
+      - name: Collect diagnostics
         if: always()
         run: |
-          echo "### 编译错误行" >> /tmp/diag.txt
-          grep -nE "e: |error:|FAILED|Compilation error" /tmp/test-log.txt 2>/dev/null | head -40 >> /tmp/diag.txt || true
-          echo "### 构建输出（末尾）" >> /tmp/diag.txt
-          tail -150 /tmp/test-log.txt >> /tmp/diag.txt 2>/dev/null || true
+          {
+            echo "### 编译错误行"
+            grep -nE "^e: |error:|FAILURE:|FAILED|Compilation error" /tmp/test-log.txt /tmp/build-log.txt 2>/dev/null | head -60
+            echo
+            echo "### build-log 末尾 200 行"
+            tail -200 /tmp/build-log.txt 2>/dev/null || echo "(无 build 日志)"
+          } > /tmp/diag.txt
+          echo "diagnostic lines: $(wc -l < /tmp/diag.txt)"
       - name: Upload APK artifact
+        if: success()
         uses: actions/upload-artifact@v4
         with:
           name: apk
-          path: dist/
+          path: app/build/outputs/apk/release/*.apk
           if-no-files-found: error
       - name: Publish latest release
+        if: success()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create latest --title "最新版" --notes "直接下载 app-release.apk 安装即可；首次打开请允许通知权限。" \
-            dist/app-release.apk 2>/dev/null || \
-          gh release upload latest dist/app-release.apk --clobber
+          gh release create latest --title "最新版" --notes "直接下载 app-release.apk 安装即可" \
+            app/build/outputs/apk/release/*.apk 2>/dev/null || \
+          gh release upload latest app/build/outputs/apk/release/*.apk --clobber
       - name: Create diagnostic issue on failure
         if: failure()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          NUM=$(gh issue list --search "构建诊断" --state open --json number -q '.[0].number' 2>/dev/null)
-          if [ -n "$NUM" ]; then
-            gh issue edit "$NUM" --body "$(cat /tmp/diag.txt)" 2>/dev/null || true
-          else
-            gh issue create --title "[build] 构建诊断" --body "$(cat /tmp/diag.txt)" 2>/dev/null || true
-          fi
+          python3 - <<'PYEOF'
+          import json, os, urllib.request
+          body = open('/tmp/diag.txt', encoding='utf-8').read()
+          repo = os.environ['GITHUB_REPOSITORY']; token = os.environ['GH_TOKEN']
+          req = urllib.request.Request(
+              f'https://api.github.com/repos/{repo}/issues?state=open&per_page=100',
+              headers={'Authorization': f'Bearer {token}', 'Accept': 'application/vnd.github+json'})
+          issues = json.load(urllib.request.urlopen(req))
+          num = next((i['number'] for i in issues if '构建诊断' in i.get('title', '')), None)
+          payload = json.dumps({'title': '[build] 构建诊断', 'body': body}).encode()
+          url = f'https://api.github.com/repos/{repo}/issues' + (f'/{num}' if num else '')
+          method = 'PATCH' if num else 'POST'
+          req = urllib.request.Request(url, data=payload, method=method,
+              headers={'Authorization': f'Bearer {token}', 'Accept': 'application/vnd.github+json',
+                       'Content-Type': 'application/json'})
+          print('issue', urllib.request.urlopen(req).status)
+          PYEOF
