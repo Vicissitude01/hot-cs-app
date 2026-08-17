@@ -46,6 +46,8 @@ jobs:
       - name: Show build log (always)
         if: always()
         run: |
+          echo "### 编译错误行" >> /tmp/diag.txt
+          grep -nE "e: |error:|FAILED|Compilation error" /tmp/test-log.txt 2>/dev/null | head -40 >> /tmp/diag.txt || true
           echo "### 构建输出（末尾）" >> /tmp/diag.txt
           tail -150 /tmp/test-log.txt >> /tmp/diag.txt 2>/dev/null || true
       - name: Upload APK artifact
