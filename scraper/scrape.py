@@ -34,7 +34,11 @@ def run(api_key=None, base_url=None, model=None):
             print(f"[warn] source {name} failed: {e}", file=sys.stderr)
     items, new = merge.merge(existing, fresh)
     if new:
-        llm.summarize(new, api_key, base_url, model)
+        try:
+            llm.summarize(new, api_key, base_url, model)
+        except Exception as e:
+            # LLM 失败不阻塞抓取（API Key 无效/超时等）
+            print(f"[warn] LLM summarize failed: {e}", file=sys.stderr)
     save(items)
     print(f"ok: {len(items)} items, {len(new)} new")
     return items
