@@ -1,5 +1,55 @@
 [
   {
+    "id": "lobsters:fx9pic",
+    "title": "AI;DR (AI; Didn’t Read)",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-17T15:14:47.873-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49289898",
+    "title": "The oldest bar in every state",
+    "url": "https://www.businessinsider.com/oldest-bar-every-state",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-08-13T18:14:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49336672",
+    "title": "Will you have spent more of your life with computers than your family?",
+    "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-08-17T19:56:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49336573",
+    "title": "AI;DR (AI; Didn't Read)",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "source": "hackernews",
+    "score": 192.0,
+    "published_at": "2026-08-17T19:47:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49336304",
+    "title": "India has paved the way for charging merchants a fee on UPI transactions",
+    "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-08-17T19:25:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ttrnw5",
     "title": "How Go detects struct copies with sync.noCopy",
     "url": "https://func25.dev/posts/go-sync-nocopy/",
