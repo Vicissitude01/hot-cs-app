@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:wya4zt",
+    "title": "A Preview of DuckDB v2.0",
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-17T11:13:25.964-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ltm5qj",
+    "title": "Starting a Decompilation Project from Zero: Claude Code and 51% of a 2001 GBA Game",
+    "url": "https://gambiconf.substack.com/p/starting-a-decompilation-project",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-17T11:10:21.748-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:k7myyp",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-17T09:39:34.042-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:akitaonrails/ai-memory",
+    "title": "ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331625",
+    "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+    "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-08-17T14:30:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331555",
+    "title": "The only known trebuchet casualty in history",
+    "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-08-17T14:26:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331551",
+    "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+    "url": "https://saggar.marginalutility.dev/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-17T14:25:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49332981",
+    "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "source": "hackernews",
+    "score": 183.0,
+    "published_at": "2026-08-17T15:49:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49270194",
+    "title": "Olo (Color)",
+    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-08-12T10:26:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49332751",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "url": "https://speko.ai/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-08-17T15:36:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:xhliz8",
     "title": "Human Interface Guidelines from various platforms",
     "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
