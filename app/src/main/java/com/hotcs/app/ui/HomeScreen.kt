@@ -1,6 +1,7 @@
 package com.hotcs.app.ui
 
 import androidx.compose.foundation.background
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
@@ -13,35 +14,18 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
-import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Settings
-import androidx.compose.material3.Button
-import androidx.compose.material3.Card
-import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
-import androidx.compose.material3.LinearProgressIndicator
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Scaffold
+import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Text
-import androidx.compose.material3.TopAppBar
+import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.draw.clip
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import com.hotcs.app.data.HotItem
 
-val sourceColors = mapOf(
-    "hackernews" to Color(0xFFF0652F),
-    "github-trending" to Color(0xFF24292E),
-    "juejin" to Color(0xFF1E80FF),
-    "v2ex" to Color(0xFF52616B),
-    "lobsters" to Color(0xFFAC130D),
-)
 val sourceNames = mapOf(
     "hackernews" to "HN",
     "github-trending" to "GitHub",
@@ -50,7 +34,6 @@ val sourceNames = mapOf(
     "lobsters" to "Lobsters",
 )
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun HomeScreen(
     items: List<HotItem>,
@@ -59,82 +42,95 @@ fun HomeScreen(
     onOpen: (String) -> Unit,
     onSettings: () -> Unit
 ) {
-    Scaffold(
-        topBar = {
-            TopAppBar(
-                title = { Text("CS 热点") },
-                actions = {
-                    IconButton(onClick = onSettings) {
-                        Icon(Icons.Filled.Settings, contentDescription = "设置")
-                    }
-                }
-            )
+    Column(
+        Modifier
+            .fillMaxSize()
+            .background(ClaudeBg)
+    ) {
+        Row(
+            Modifier
+                .fillMaxWidth()
+                .padding(horizontal = 14.dp, vertical = 12.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text("┌─ CS 热点", color = ClaudeCoral, fontWeight = FontWeight.Bold, fontSize = 15.sp)
+            Spacer(Modifier.weight(1f))
+            Text("${items.size} 条", color = ClaudeMuted, fontSize = 12.sp)
         }
-    ) { padding ->
+        HorizontalDivider(color = ClaudeOutline)
+
         if (items.isEmpty() && !loading) {
-            Box(Modifier.fillMaxSize().padding(padding), contentAlignment = Alignment.Center) {
+            Box(Modifier.weight(1f).fillMaxWidth(), contentAlignment = Alignment.Center) {
                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                    Text("还没有数据，先在设置里填后端地址")
-                    Spacer(Modifier.height(12.dp))
-                    Button(onClick = onSettings) { Text("去设置") }
-                    Spacer(Modifier.height(8.dp))
-                    Button(onClick = onRefresh) { Text("刷新") }
+                    Text("还没有数据，先在设置里填后端地址", color = ClaudeMuted, fontSize = 13.sp)
+                    Spacer(Modifier.height(10.dp))
+                    TextButton(onClick = onSettings) { Text("[ 去设置 ]", color = ClaudeCoral) }
                 }
             }
         } else {
             LazyColumn(
-                modifier = Modifier.fillMaxSize().padding(padding),
-                contentPadding = PaddingValues(12.dp)
+                modifier = Modifier.weight(1f),
+                contentPadding = PaddingValues(vertical = 2.dp)
             ) {
-                if (loading) {
-                    item { LinearProgressIndicator(Modifier.fillMaxWidth().padding(bottom = 6.dp)) }
-                }
                 items(items, key = { it.id }) { item ->
-                    HotCard(item = item, onClick = { onOpen(item.id) })
+                    HotRow(item = item, onClick = { onOpen(item.id) })
                 }
             }
+        }
+
+        HorizontalDivider(color = ClaudeOutline)
+        Row(
+            Modifier
+                .fillMaxWidth()
+                .background(ClaudeSurface)
+                .padding(horizontal = 14.dp, vertical = 8.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text(">", color = ClaudeCoral, fontWeight = FontWeight.Bold)
+            Spacer(Modifier.width(10.dp))
+            TextButton(onClick = onSettings) { Text("[ 设置 ]", color = ClaudeText, fontSize = 13.sp) }
+            TextButton(onClick = onRefresh) {
+                Text(if (loading) "[ 刷新中… ]" else "[ 刷新 ]", color = ClaudeText, fontSize = 13.sp)
+            }
+            Spacer(Modifier.weight(1f))
+            Text("hot-cs", color = ClaudeMuted, fontSize = 11.sp)
         }
     }
 }
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun HotCard(item: HotItem, onClick: () -> Unit) {
-    Card(onClick = onClick, modifier = Modifier.fillMaxWidth().padding(vertical = 6.dp)) {
-        Column(Modifier.padding(14.dp)) {
-            Row(verticalAlignment = Alignment.CenterVertically) {
-                SourceBadge(item.source)
-                Spacer(Modifier.width(8.dp))
-                Text("热度 ${item.score}", style = MaterialTheme.typography.labelSmall)
-            }
-            Spacer(Modifier.height(6.dp))
+fun HotRow(item: HotItem, onClick: () -> Unit) {
+    Column(
+        Modifier
+            .fillMaxWidth()
+            .clickable(onClick = onClick)
+            .padding(horizontal = 14.dp, vertical = 10.dp)
+    ) {
+        Row(verticalAlignment = Alignment.CenterVertically) {
+            Text("[${sourceNames[item.source] ?: item.source}]", color = ClaudeCoral, fontSize = 12.sp)
+            Spacer(Modifier.width(8.dp))
             Text(
                 item.title,
-                style = MaterialTheme.typography.titleMedium,
-                fontWeight = FontWeight.SemiBold
+                color = ClaudeText,
+                fontSize = 14.sp,
+                fontWeight = FontWeight.SemiBold,
+                maxLines = 2,
+                overflow = TextOverflow.Ellipsis,
+                modifier = Modifier.weight(1f)
             )
-            if (item.summary.isNotBlank()) {
-                Spacer(Modifier.height(6.dp))
-                Text(
-                    item.summary,
-                    style = MaterialTheme.typography.bodySmall,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant
-                )
-            }
+            Spacer(Modifier.width(8.dp))
+            Text("(${item.score})", color = ClaudeMuted, fontSize = 12.sp)
+        }
+        if (item.summary.isNotBlank()) {
+            Spacer(Modifier.height(5.dp))
+            Text(
+                "  └ " + item.summary,
+                color = ClaudeGreen,
+                fontSize = 12.sp,
+                maxLines = 2,
+                overflow = TextOverflow.Ellipsis
+            )
         }
     }
-}
-
-@Composable
-fun SourceBadge(source: String) {
-    val name = sourceNames[source] ?: source
-    val color = sourceColors[source] ?: Color(0xFF757575)
-    Box(
-        Modifier
-            .clip(RoundedCornerShape(4.dp))
-            .background(color)
-            .padding(horizontal = 6.dp, vertical = 2.dp)
-    ) {
-        Text(name, color = Color.White, style = MaterialTheme.typography.labelSmall)
-    }
+    HorizontalDivider(color = ClaudeOutline.copy(alpha = 0.6f))
 }

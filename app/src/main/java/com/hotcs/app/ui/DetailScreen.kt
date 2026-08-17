@@ -2,6 +2,8 @@ package com.hotcs.app.ui
 
 import android.content.Intent
 import android.net.Uri
+import androidx.compose.foundation.BorderStroke
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -13,87 +15,108 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.automirrored.filled.ArrowBack
-import androidx.compose.material3.Button
-import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Scaffold
+import androidx.compose.material3.HorizontalDivider
+import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
-import androidx.compose.material3.TopAppBar
+import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import com.hotcs.app.data.HotItem
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun DetailScreen(item: HotItem?, onBack: () -> Unit) {
     val context = LocalContext.current
-    Scaffold(
-        topBar = {
-            TopAppBar(
-                title = { Text("详情") },
-                navigationIcon = {
-                    IconButton(onClick = onBack) {
-                        Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "返回")
-                    }
-                }
-            )
-        }
-    ) { padding ->
-        if (item == null) {
-            Box(Modifier.fillMaxSize().padding(padding), contentAlignment = Alignment.Center) {
-                Text("未找到该热点")
+    Column(
+        Modifier
+            .fillMaxSize()
+            .background(ClaudeBg)
+    ) {
+        Row(
+            Modifier
+                .fillMaxWidth()
+                .padding(horizontal = 14.dp, vertical = 10.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            TextButton(onClick = onBack, contentPadding = androidx.compose.foundation.layout.PaddingValues(0.dp)) {
+                Text("←", color = ClaudeText, fontSize = 15.sp)
             }
-            return@Scaffold
+            Text("┌─ 详情", color = ClaudeCoral, fontWeight = FontWeight.Bold, fontSize = 15.sp)
         }
+        HorizontalDivider(color = ClaudeOutline)
+
+        if (item == null) {
+            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Text("未找到该热点", color = ClaudeMuted)
+            }
+            return@Column
+        }
+
         Column(
             Modifier
                 .fillMaxSize()
-                .padding(padding)
                 .verticalScroll(rememberScrollState())
                 .padding(16.dp)
         ) {
-            SourceBadge(item.source)
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Text("[${sourceNames[item.source] ?: item.source}]", color = ClaudeCoral, fontSize = 12.sp)
+                Spacer(Modifier.width(8.dp))
+                Text("(${item.score})", color = ClaudeMuted, fontSize = 12.sp)
+                Spacer(Modifier.width(8.dp))
+                if (item.publishedAt.isNotBlank()) {
+                    Text(item.publishedAt, color = ClaudeMuted, fontSize = 12.sp)
+                }
+            }
             Spacer(Modifier.height(10.dp))
             Text(
                 item.title,
-                style = MaterialTheme.typography.headlineSmall,
+                color = ClaudeText,
+                fontSize = 18.sp,
                 fontWeight = FontWeight.Bold
             )
-            Spacer(Modifier.height(8.dp))
-            Text(
-                "热度 ${item.score}" +
-                    if (item.publishedAt.isNotBlank()) " · ${item.publishedAt}" else "",
-                style = MaterialTheme.typography.labelMedium
-            )
             Spacer(Modifier.height(16.dp))
-            Button(
-                onClick = { context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(item.url))) },
-                modifier = Modifier.fillMaxWidth()
+
+            Surface(
+                modifier = Modifier.fillMaxWidth(),
+                border = BorderStroke(1.dp, ClaudeOutline),
+                color = ClaudeSurface
             ) {
-                Text("在浏览器打开原文")
+                TextButton(
+                    onClick = { context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(item.url))) },
+                    modifier = Modifier.fillMaxWidth()
+                ) {
+                    Text("› 在浏览器打开原文", color = ClaudeText)
+                }
             }
+
             if (item.summary.isNotBlank()) {
                 Spacer(Modifier.height(20.dp))
-                Text("AI 解读", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.SemiBold)
+                Text("┌ 解读", color = ClaudeCoral, fontWeight = FontWeight.Bold, fontSize = 13.sp)
                 Spacer(Modifier.height(6.dp))
-                Text(item.summary)
+                Surface(
+                    modifier = Modifier.fillMaxWidth(),
+                    border = BorderStroke(1.dp, ClaudeOutline),
+                    color = ClaudeSurface
+                ) {
+                    Text(
+                        item.summary,
+                        color = ClaudeGreen,
+                        fontSize = 13.sp,
+                        modifier = Modifier.padding(12.dp)
+                    )
+                }
             }
+
             if (item.keyPoints.isNotEmpty()) {
                 Spacer(Modifier.height(20.dp))
-                Text("要点", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.SemiBold)
+                Text("┌ 要点", color = ClaudeCoral, fontWeight = FontWeight.Bold, fontSize = 13.sp)
+                Spacer(Modifier.height(6.dp))
                 item.keyPoints.forEach { kp ->
-                    Row(Modifier.padding(vertical = 4.dp)) {
-                        Text("• ", color = MaterialTheme.colorScheme.primary)
-                        Text(kp)
-                    }
+                    Text("•  $kp", color = ClaudeText, fontSize = 13.sp, modifier = Modifier.padding(vertical = 4.dp))
                 }
             }
         }

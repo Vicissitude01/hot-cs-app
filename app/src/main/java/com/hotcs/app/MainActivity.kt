@@ -8,6 +8,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.result.contract.ActivityResultContracts
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
@@ -22,6 +23,8 @@ import androidx.navigation.compose.rememberNavController
 import com.hotcs.app.data.HotRepository
 import com.hotcs.app.data.Settings
 import com.hotcs.app.notify.Notifier
+import com.hotcs.app.ui.ClaudeColors
+import com.hotcs.app.ui.ClaudeTypography
 import com.hotcs.app.ui.DetailScreen
 import com.hotcs.app.ui.HomeScreen
 import com.hotcs.app.ui.SettingsScreen
@@ -33,7 +36,11 @@ class MainActivity : ComponentActivity() {
         Notifier.ensureChannel(this)
         if (Settings.notifyEnabled(this)) Notifier.schedule(this)
         requestNotifyPermission()
-        setContent { App() }
+        setContent {
+            MaterialTheme(colorScheme = ClaudeColors, typography = ClaudeTypography) {
+                App()
+            }
+        }
     }
 
     private fun requestNotifyPermission() {
