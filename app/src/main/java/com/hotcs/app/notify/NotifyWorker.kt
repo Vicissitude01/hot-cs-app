@@ -27,7 +27,7 @@ class NotifyWorker(context: Context, params: WorkerParameters) : CoroutineWorker
                     val item = items.first { it.id == id }
                     Notifier.show(ctx, item.id, item.title, item.summary)
                 }
-                repo.saveNotifiedIds((already + newIds).takeLast(200))
+                repo.saveNotifiedIds((already + newIds).toList().takeLast(200).toSet())
             }
             Result.success()
         } catch (e: Exception) {

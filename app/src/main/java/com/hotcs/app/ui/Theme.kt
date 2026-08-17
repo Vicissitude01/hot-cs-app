@@ -1,8 +1,12 @@
 package com.hotcs.app.ui
 
-import androidx.compose.material3.Typography
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalTextStyle
+import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
 
 // Claude Code 终端风配色
@@ -27,4 +31,15 @@ val ClaudeColors = darkColorScheme(
     onSecondary = Color(0xFF14110E),
 )
 
-val ClaudeTypography = Typography(defaultFontFamily = FontFamily.Monospace)
+// 全局等宽字体：material3 的 Typography 没有 defaultFontFamily 参数，
+// 用 LocalTextStyle 注入 FontFamily.Monospace（ponytail: 最省事做法）
+@Composable
+fun ClaudeTheme(content: @Composable () -> Unit) {
+    MaterialTheme(colorScheme = ClaudeColors) {
+        CompositionLocalProvider(
+            LocalTextStyle provides TextStyle(fontFamily = FontFamily.Monospace)
+        ) {
+            content()
+        }
+    }
+}
