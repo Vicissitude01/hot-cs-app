@@ -28,6 +28,11 @@ jobs:
         run: gradle :app:testDebugUnitTest --stacktrace 2>&1 | tee /tmp/test-log.txt
       - name: Build release APK
         run: gradle :app:assembleRelease 2>&1 | tee -a /tmp/test-log.txt
+      - name: Inspect APK output
+        run: |
+          echo "### APK 输出目录" >> "$GITHUB_STEP_SUMMARY"
+          ls -la app/build/outputs/apk/release/ 2>/dev/null >> "$GITHUB_STEP_SUMMARY" || echo "(目录不存在)" >> "$GITHUB_STEP_SUMMARY"
+          find app/build/outputs -name "*.apk" 2>/dev/null | head -5 >> "$GITHUB_STEP_SUMMARY"
       - name: Show build log (always)
         if: always()
         run: |
@@ -37,14 +42,12 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: apk
-          path: app/build/outputs/apk/release/app-release.apk
+          path: app/build/outputs/apk/release/
+          if-no-files-found: error
       - name: Publish latest release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: latest
-          name: 最新版
-          body: |
-            - 直接下载 `app-release.apk` 安装即可
-            - 首次打开请允许通知权限
-            - 装机后到「设置」里填你的后端地址
-          files: app/build/outputs/apk/release/app-release.apk
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create latest --title "最新版" --notes "直接下载 app-release.apk 安装即可；首次打开请允许通知权限。" \
+            app/build/outputs/apk/release/*.apk 2>/dev/null || \
+          gh release upload latest app/build/outputs/apk/release/*.apk --clobber
