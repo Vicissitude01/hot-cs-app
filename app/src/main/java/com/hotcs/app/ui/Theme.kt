@@ -1,10 +1,9 @@
 package com.hotcs.app.ui
 
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Typography
 import androidx.compose.material3.darkColorScheme
-import androidx.compose.foundation.text.LocalTextStyle
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
@@ -31,15 +30,29 @@ val ClaudeColors = darkColorScheme(
     onSecondary = Color(0xFF14110E),
 )
 
-// 全局等宽字体：material3 的 Typography 没有 defaultFontFamily 参数，
-// 用 LocalTextStyle 注入 FontFamily.Monospace（ponytail: 最省事做法）
+// 全局等宽字体：把 material3 的每个文字级别都替换成等宽字体（保留原始字号/字重）
+private val baseType = Typography()
+val ClaudeTypography = Typography(
+    displayLarge = baseType.displayLarge.copy(fontFamily = FontFamily.Monospace),
+    displayMedium = baseType.displayMedium.copy(fontFamily = FontFamily.Monospace),
+    displaySmall = baseType.displaySmall.copy(fontFamily = FontFamily.Monospace),
+    headlineLarge = baseType.headlineLarge.copy(fontFamily = FontFamily.Monospace),
+    headlineMedium = baseType.headlineMedium.copy(fontFamily = FontFamily.Monospace),
+    headlineSmall = baseType.headlineSmall.copy(fontFamily = FontFamily.Monospace),
+    titleLarge = baseType.titleLarge.copy(fontFamily = FontFamily.Monospace),
+    titleMedium = baseType.titleMedium.copy(fontFamily = FontFamily.Monospace),
+    titleSmall = baseType.titleSmall.copy(fontFamily = FontFamily.Monospace),
+    bodyLarge = baseType.bodyLarge.copy(fontFamily = FontFamily.Monospace),
+    bodyMedium = baseType.bodyMedium.copy(fontFamily = FontFamily.Monospace),
+    bodySmall = baseType.bodySmall.copy(fontFamily = FontFamily.Monospace),
+    labelLarge = baseType.labelLarge.copy(fontFamily = FontFamily.Monospace),
+    labelMedium = baseType.labelMedium.copy(fontFamily = FontFamily.Monospace),
+    labelSmall = baseType.labelSmall.copy(fontFamily = FontFamily.Monospace),
+)
+
 @Composable
 fun ClaudeTheme(content: @Composable () -> Unit) {
-    MaterialTheme(colorScheme = ClaudeColors) {
-        CompositionLocalProvider(
-            LocalTextStyle provides TextStyle(fontFamily = FontFamily.Monospace)
-        ) {
-            content()
-        }
+    MaterialTheme(colorScheme = ClaudeColors, typography = ClaudeTypography) {
+        content()
     }
 }
