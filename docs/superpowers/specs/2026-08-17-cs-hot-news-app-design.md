@@ -60,9 +60,9 @@
 |---|---|
 | hackernews | HN 官方 topstories API |
 | github-trending | GitHub Trending 页面解析 |
-| zhihu | 知乎热榜 API |
 | juejin | 掘金热榜 API |
 | v2ex | V2EX API |
+| lobsters | Lobsters 热榜 JSON API（原设计知乎因接口需登录鉴权，实现时替换为 Lobsters） |
 
 ## 后端流程（scrape workflow）
 
