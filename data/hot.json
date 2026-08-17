@@ -1,5 +1,135 @@
 [
   {
+    "id": "lobsters:izrwdc",
+    "title": "GitHub has alternatives, but no replacement",
+    "url": "https://lalitm.com/post/github-alternatives/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-08-17T12:12:44.421-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49335163",
+    "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
+    "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-17T18:06:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49333932",
+    "title": "Buy Your Friends Batteries",
+    "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-08-17T16:45:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49334991",
+    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "url": "https://arxiv.org/abs/2608.13759",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-17T17:54:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49272891",
+    "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
+    "url": "https://www.nature.com/articles/d41586-026-02498-1",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-08-12T14:26:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49335292",
+    "title": "How I Over-Engineered My Book",
+    "url": "https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-17T18:15:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49335001",
+    "title": "We Are Forking dotenvy into dotenv-ng",
+    "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-17T17:55:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49335017",
+    "title": "Llama.cpp v0.1.0",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-17T17:56:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49333344",
+    "title": "Judge sets framework for Nine PBS to retrieve archival data",
+    "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-08-17T16:11:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49333824",
+    "title": "Sun Clock",
+    "url": "https://sunclock.net/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-08-17T16:37:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49335600",
+    "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
+    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-17T18:34:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49330597",
+    "title": "Incident with Github.com",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "source": "hackernews",
+    "score": 291.0,
+    "published_at": "2026-08-17T13:35:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49334544",
+    "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-08-17T17:25:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:wya4zt",
     "title": "A Preview of DuckDB v2.0",
     "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
