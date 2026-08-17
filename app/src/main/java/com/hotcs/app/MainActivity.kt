@@ -26,7 +26,9 @@ import com.hotcs.app.ui.ClaudeTheme
 import com.hotcs.app.ui.DetailScreen
 import com.hotcs.app.ui.HomeScreen
 import com.hotcs.app.ui.SettingsScreen
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -65,7 +67,8 @@ fun App() {
             scope.launch {
                 val url = Settings.url(context)
                 if (url.isNotBlank()) {
-                    runCatching { repo.fetch(url) }.onSuccess { items = it }
+                    runCatching { withContext(Dispatchers.IO) { repo.fetch(url) } }
+                        .onSuccess { items = it }
                 }
                 loading = false
             }

@@ -36,7 +36,9 @@ import androidx.compose.ui.unit.sp
 import com.hotcs.app.data.HotRepository
 import com.hotcs.app.data.Settings
 import com.hotcs.app.notify.Notifier
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 @Composable
 fun SettingsScreen(onBack: () -> Unit) {
@@ -105,7 +107,7 @@ fun SettingsScreen(onBack: () -> Unit) {
                         Settings.setUrl(context, url.trim())
                         scope.launch {
                             testMsg = runCatching {
-                                val n = HotRepository(context).fetch(url.trim())
+                                val n = withContext(Dispatchers.IO) { HotRepository(context).fetch(url.trim()) }
                                 "连接成功，拉到 $n 条热点"
                             }.getOrElse { "连接失败：${it.message}" }
                         }
