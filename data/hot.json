@@ -1,0 +1,952 @@
+[
+  {
+    "id": "lobsters:xhliz8",
+    "title": "Human Interface Guidelines from various platforms",
+    "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-08-16T14:56:03.732-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mekgva",
+    "title": "Stratum 1 PTP Grandmaster: CM4 + SR1723U10 (Part 1)",
+    "url": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-17T08:01:50.289-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vnpw9j",
+    "title": "Pony's Arena Allocator",
+    "url": "https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-08-16T18:48:45.737-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:irgjfw",
+    "title": "Build-time systemd schedule",
+    "url": "https://gvolpe.com/blog/systemd-schedule/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-17T02:49:03.855-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wqkycj",
+    "title": "People of ACM - Russ Cox",
+    "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+    "source": "lobsters",
+    "score": 21.0,
+    "published_at": "2026-08-16T11:23:20.561-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cgpbme",
+    "title": "Models Are Getting Dumber on Purpose",
+    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "source": "lobsters",
+    "score": 17.0,
+    "published_at": "2026-08-16T15:11:41.294-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qcasbd",
+    "title": "SCM_RIGHTS API quirks (2019)",
+    "url": "https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-08-16T23:12:33.205-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8izobt",
+    "title": "You can just choose how many bugs you want now",
+    "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
+    "source": "lobsters",
+    "score": 18.0,
+    "published_at": "2026-08-16T13:18:51.555-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:i9u22k",
+    "title": "(What Comes) After FOSS?",
+    "url": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-17T02:47:10.749-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fxv1u9",
+    "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0",
+    "url": "https://labs.leaningtech.com/blog/browserpod-rust.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-17T08:49:54.499-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:joyawz",
+    "title": "AI Software Development – What Does The Data Say?",
+    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+    "source": "lobsters",
+    "score": 18.0,
+    "published_at": "2026-08-16T19:08:04.567-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gk7fpf",
+    "title": "AppleWorks on the Apple II",
+    "url": "https://stonetools.ghost.io/appleworks-apple2/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-08-17T07:41:57.609-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:o5vcbw",
+    "title": "MuQSS CPU scheduler for Linux 7.2 by Con Kolivas",
+    "url": "https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-08-17T07:24:02.871-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:snhfrq",
+    "title": "Four levels of in-place initialization",
+    "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-08-17T02:50:22.196-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hnx6id",
+    "title": "Protecting the Rust standard library from accidental breakage",
+    "url": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
+    "source": "lobsters",
+    "score": 47.0,
+    "published_at": "2026-08-16T08:59:09.800-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gwc2me",
+    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
+    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-17T08:33:00.140-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5p0kgt",
+    "title": "What are you doing this week?",
+    "url": "https://lobste.rs/s/5p0kgt",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-08-17T02:30:46.700-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:usr2t2",
+    "title": "Thinking about tests: assertions and matchers",
+    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-17T05:35:27.967-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6i1at9",
+    "title": "Writing a Fast Compiler",
+    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-08-17T06:13:33.472-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:os20fa",
+    "title": "Vetted AI code is hard to justify",
+    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-17T06:11:39.353-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nrnwc6",
+    "title": "Passphrase-less reboots using kexec under NixOS",
+    "url": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-08-17T04:53:54.741-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ii5tun",
+    "title": "Every Fucking Website",
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "source": "lobsters",
+    "score": 89.0,
+    "published_at": "2026-08-16T11:26:05.865-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ln3dao",
+    "title": "A faster way to calculate the day-of-the-week",
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "source": "lobsters",
+    "score": 60.0,
+    "published_at": "2026-08-16T15:52:12.026-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wpyhdh",
+    "title": "I thought I was building a C replacement. I was wrong",
+    "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+    "source": "lobsters",
+    "score": 97.0,
+    "published_at": "2026-08-16T09:05:05.789-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0zdh32",
+    "title": "Does it make sense to switch to a Github Alternative ?",
+    "url": "https://lobste.rs/s/0zdh32",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-08-17T09:03:05.555-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1234881",
+    "title": "codex 自动发外链： submify v2 版本升级+内置 3k 外链，发到吐。。。",
+    "url": "https://www.v2ex.com/t/1234881",
+    "source": "v2ex",
+    "score": 148.0,
+    "published_at": "2026-08-17T01:56:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1234880",
+    "title": "爱快被黑，速自查",
+    "url": "https://www.v2ex.com/t/1234880",
+    "source": "v2ex",
+    "score": 150.0,
+    "published_at": "2026-08-17T01:54:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1234873",
+    "title": "沈腾的龙餐馆看着有些别扭呀",
+    "url": "https://www.v2ex.com/t/1234873",
+    "source": "v2ex",
+    "score": 156.0,
+    "published_at": "2026-08-17T01:41:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1234971",
+    "title": "发个相亲很无语的吐槽",
+    "url": "https://www.v2ex.com/t/1234971",
+    "source": "v2ex",
+    "score": 202.0,
+    "published_at": "2026-08-17T05:24:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1234869",
+    "title": "各位 v 友，什么时候几百块钱都不算钱了？",
+    "url": "https://www.v2ex.com/t/1234869",
+    "source": "v2ex",
+    "score": 240.0,
+    "published_at": "2026-08-17T01:37:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1234866",
+    "title": "人生很迷茫，去 KTV 应聘男公关了，被要求减重到 125 斤，体脂率不超过 15%",
+    "url": "https://www.v2ex.com/t/1234866",
+    "source": "v2ex",
+    "score": 244.0,
+    "published_at": "2026-08-17T01:31:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1234867",
+    "title": "有站友去看《牛来》了吗，太抽象了，想去品鉴一下",
+    "url": "https://www.v2ex.com/t/1234867",
+    "source": "v2ex",
+    "score": 262.0,
+    "published_at": "2026-08-17T01:32:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1234938",
+    "title": "回看 41 岁程序员人生的三次“押注”",
+    "url": "https://www.v2ex.com/t/1234938",
+    "source": "v2ex",
+    "score": 286.0,
+    "published_at": "2026-08-17T03:30:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1234841",
+    "title": "“万 1 免 5”股票 etf 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.17 日~8.24 日]",
+    "url": "https://www.v2ex.com/t/1234841",
+    "source": "v2ex",
+    "score": 292.0,
+    "published_at": "2026-08-17T00:29:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1234854",
+    "title": "[Bytecat] 欢迎赛博领鸡蛋，注册就送 10 刀，叠加倍率可到 50 刀! 支持企业对接，稳定性价比~",
+    "url": "https://www.v2ex.com/t/1234854",
+    "source": "v2ex",
+    "score": 488.0,
+    "published_at": "2026-08-17T01:20:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673508580561649699",
+    "title": "别再用 nohup java -jar 了：Spring Boot 生产环境该怎么守护？",
+    "url": "https://juejin.cn/post/7673508580561649699",
+    "source": "juejin",
+    "score": 0.18499959,
+    "published_at": "2026-08-14T07:30:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673939385731022882",
+    "title": "前端完不完蛋我不知道，先爽了再说",
+    "url": "https://juejin.cn/post/7673939385731022882",
+    "source": "juejin",
+    "score": 0.24467083,
+    "published_at": "2026-08-15T14:58:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674645475095167028",
+    "title": "DeepSeek 调价正式生效：一夜涨 11 倍，靠低价薅羊毛的日子结束了",
+    "url": "https://juejin.cn/post/7674645475095167028",
+    "source": "juejin",
+    "score": 1.11784042,
+    "published_at": "2026-08-17T01:52:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674686524114944050",
+    "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
+    "url": "https://juejin.cn/post/7674686524114944050",
+    "source": "juejin",
+    "score": 1.62304075,
+    "published_at": "2026-08-17T05:29:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674372498315460658",
+    "title": "AI写长篇小说为什么30章必崩",
+    "url": "https://juejin.cn/post/7674372498315460658",
+    "source": "juejin",
+    "score": 0.49660531,
+    "published_at": "2026-08-16T09:09:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674802907378303028",
+    "title": "DeepSeek Harness必装的10个插件",
+    "url": "https://juejin.cn/post/7674802907378303028",
+    "source": "juejin",
+    "score": 2.71687952,
+    "published_at": "2026-08-17T06:57:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673978658780332083",
+    "title": "给 DeepSeek Harness 装个\"应用商店\"：一条命令，595 个插件随你逛",
+    "url": "https://juejin.cn/post/7673978658780332083",
+    "source": "juejin",
+    "score": 0.33835052,
+    "published_at": "2026-08-15T15:22:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674686524115353650",
+    "title": "为什么跳槽涨薪 30% 的时代彻底结束了？聊聊 2026 前端薪资的天花板",
+    "url": "https://juejin.cn/post/7674686524115353650",
+    "source": "juejin",
+    "score": 2.85078702,
+    "published_at": "2026-08-17T06:10:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674383173651824682",
+    "title": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
+    "url": "https://juejin.cn/post/7674383173651824682",
+    "source": "juejin",
+    "score": 1.36612134,
+    "published_at": "2026-08-17T00:53:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673809185193099300",
+    "title": "GLM5.3慢而稳，重点感谢DeepSeek衬托！",
+    "url": "https://juejin.cn/post/7673809185193099300",
+    "source": "juejin",
+    "score": 0.61850154,
+    "published_at": "2026-08-15T07:14:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673861180655026212",
+    "title": "DeepSeek Harness 最新邪修曝光！被吹成核弹的极简模式，真的夯吗？",
+    "url": "https://juejin.cn/post/7673861180655026212",
+    "source": "juejin",
+    "score": 0.59607833,
+    "published_at": "2026-08-15T16:33:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673413097325559843",
+    "title": "Jetpack Compose 8 月版正式发布，核心模块 1.12",
+    "url": "https://juejin.cn/post/7673413097325559843",
+    "source": "juejin",
+    "score": 0.41535875,
+    "published_at": "2026-08-14T00:36:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673872542772838451",
+    "title": "AI 时代 SVG 画图的潜力",
+    "url": "https://juejin.cn/post/7673872542772838451",
+    "source": "juejin",
+    "score": 0.872934,
+    "published_at": "2026-08-14T20:38:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674372498314936370",
+    "title": "一行代码集成 DWG/DXF 图纸查看：测量批注，数据不出站",
+    "url": "https://juejin.cn/post/7674372498314936370",
+    "source": "juejin",
+    "score": 1.3245424,
+    "published_at": "2026-08-16T06:30:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673875524200808494",
+    "title": "让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南",
+    "url": "https://juejin.cn/post/7673875524200808494",
+    "source": "juejin",
+    "score": 1.10292572,
+    "published_at": "2026-08-16T02:25:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673897632196919348",
+    "title": "给运营导个 CSV，在 ksql 里用 \\copy 就够了",
+    "url": "https://juejin.cn/post/7673897632196919348",
+    "source": "juejin",
+    "score": 1.40336748,
+    "published_at": "2026-08-15T05:32:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673897632197001268",
+    "title": "鸿蒙健康教练接入蓝耘：一句话打卡，模型估热量，网关记账",
+    "url": "https://juejin.cn/post/7673897632197001268",
+    "source": "juejin",
+    "score": 0.69991607,
+    "published_at": "2026-08-15T05:34:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673810995882672128",
+    "title": "DeepSeek Harness开源第一天我就上手了——和Claude Code的差距比想象中大",
+    "url": "https://juejin.cn/post/7673810995882672128",
+    "source": "juejin",
+    "score": 1.2071866,
+    "published_at": "2026-08-14T11:23:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674215005011951654",
+    "title": "别再被 AI 骗了：我把腾讯云 4 个 Skill 做成了个「AI 打假侦探」，过程的一个小配置坑惨了我",
+    "url": "https://juejin.cn/post/7674215005011951654",
+    "source": "juejin",
+    "score": 4.38755002,
+    "published_at": "2026-08-16T15:19:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673855455463800847",
+    "title": "为什么越来越多人用 Pi ？ - 苏三说技术",
+    "url": "https://juejin.cn/post/7673855455463800847",
+    "source": "juejin",
+    "score": 3.17133597,
+    "published_at": "2026-08-15T01:54:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:agalwood/Motrix",
+    "title": "Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cordiverse/cordis",
+    "title": "cordis",
+    "url": "https://github.com/cordiverse/cordis",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:immich-app/immich",
+    "title": "immich",
+    "url": "https://github.com/immich-app/immich",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:jundot/omlx",
+    "title": "omlx",
+    "url": "https://github.com/jundot/omlx",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:santifer/career-ops",
+    "title": "career-ops",
+    "url": "https://github.com/santifer/career-ops",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:AlexsJones/llmfit",
+    "title": "llmfit",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mukul975/Anthropic-Cybersecurity-Skills",
+    "title": "Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:nautechsystems/nautilus_trader",
+    "title": "nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:usestrix/strix",
+    "title": "strix",
+    "url": "https://github.com/usestrix/strix",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:harry0703/MoneyPrinterTurbo",
+    "title": "MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49325714",
+    "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+    "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+    "source": "hackernews",
+    "score": 117.0,
+    "published_at": "2026-08-17T01:45:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49330246",
+    "title": "Speeding Up the Plush Garbage Collector",
+    "url": "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-17T13:09:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49325061",
+    "title": "Reticulum – Decentralized Mesh Network",
+    "url": "https://reticulum.network/",
+    "source": "hackernews",
+    "score": 177.0,
+    "published_at": "2026-08-16T23:59:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49319556",
+    "title": "Claude: System Prompts",
+    "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+    "source": "hackernews",
+    "score": 722.0,
+    "published_at": "2026-08-16T12:48:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49278577",
+    "title": "My Ten Years in No Man's Sky",
+    "url": "https://nmsspot.com/2026/08/09/my-ten-years-in-no-mans-sky/",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-08-12T21:07:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49326816",
+    "title": "Linear algebra done right",
+    "url": "https://linear.axler.net/",
+    "source": "hackernews",
+    "score": 167.0,
+    "published_at": "2026-08-17T05:21:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331288",
+    "title": "Show HN: Learn Flags Quiz",
+    "url": "https://flagquizzes.com/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-17T14:11:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49321717",
+    "title": "A third world engineer responds to “RISC-V: They should have known better”",
+    "url": "https://rvembedded.com/blog_post/12/",
+    "source": "hackernews",
+    "score": 577.0,
+    "published_at": "2026-08-16T17:01:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331607",
+    "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
+    "url": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-17T14:29:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49330456",
+    "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-08-17T13:24:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49327643",
+    "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+    "url": "https://desktopcolors.com",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-08-17T07:51:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49325789",
+    "title": "On A.I. regulation and messaging",
+    "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "source": "hackernews",
+    "score": 179.0,
+    "published_at": "2026-08-17T01:59:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49324087",
+    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "source": "hackernews",
+    "score": 562.0,
+    "published_at": "2026-08-16T21:53:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331599",
+    "title": "Show HN: Eve Software Factory",
+    "url": "https://github.com/vercel-labs/eve-software-factory-template/tree/main",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-17T14:28:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49323474",
+    "title": "How I developed an Am29000 C compiler and web browser",
+    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-16T20:41:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331033",
+    "title": "Ask HN: Alternatives to GitHub",
+    "url": "https://news.ycombinator.com/item?id=49331033",
+    "source": "hackernews",
+    "score": 119.0,
+    "published_at": "2026-08-17T13:59:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49284983",
+    "title": "How Go detects struct copies with sync.noCopy",
+    "url": "https://func25.dev/posts/go-sync-nocopy/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-08-13T12:33:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49329583",
+    "title": "Mexico Crackdown on Coastal Development Underway",
+    "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-08-17T12:10:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49330978",
+    "title": "How to ship a database every day",
+    "url": "https://turbopuffer.com/blog/control-plane",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-17T13:56:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49324985",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "source": "hackernews",
+    "score": 681.0,
+    "published_at": "2026-08-16T23:45:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49291411",
+    "title": "File Recovery in Process",
+    "url": "https://gwolf.org/2026/08/file-recovery-in-process.html",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-13T20:28:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49330215",
+    "title": "Show HN: Sokoban AI Solver",
+    "url": "https://mkornreich.me/projects/sokoban/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-08-17T13:07:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49330632",
+    "title": "GitHub down again? no PR access",
+    "url": "https://news.ycombinator.com/item?id=49330632",
+    "source": "hackernews",
+    "score": 173.0,
+    "published_at": "2026-08-17T13:37:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331474",
+    "title": "How to put 170 atoms in an atom",
+    "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-08-17T14:21:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49330684",
+    "title": "Incident with Github.com",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "source": "hackernews",
+    "score": 511.0,
+    "published_at": "2026-08-17T13:40:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331220",
+    "title": "How to disable or avoid intrusive AI",
+    "url": "https://www.librarian.net/notoai/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-08-17T14:07:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49329575",
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "source": "hackernews",
+    "score": 144.0,
+    "published_at": "2026-08-17T12:09:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331423",
+    "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-08-17T14:18:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49330781",
+    "title": "A Preview of DuckDB v2.0",
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "source": "hackernews",
+    "score": 105.0,
+    "published_at": "2026-08-17T13:46:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331222",
+    "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+    "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-08-17T14:07:59+00:00",
+    "summary": "",
+    "key_points": []
+  }
+]
