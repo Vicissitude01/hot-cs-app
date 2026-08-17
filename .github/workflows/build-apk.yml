@@ -25,9 +25,14 @@ jobs:
           gradle-version: "8.9"
       - uses: android-actions/setup-android@v3
       - name: Run unit tests
-        run: gradle :app:testDebugUnitTest
+        run: gradle :app:testDebugUnitTest --stacktrace 2>&1 | tee /tmp/test-log.txt
       - name: Build release APK
-        run: gradle :app:assembleRelease
+        run: gradle :app:assembleRelease 2>&1 | tee -a /tmp/test-log.txt
+      - name: Show build log (always)
+        if: always()
+        run: |
+          echo "### 构建输出（末尾）" >> "$GITHUB_STEP_SUMMARY"
+          tail -150 /tmp/test-log.txt >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "(无日志)" >> "$GITHUB_STEP_SUMMARY"
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
