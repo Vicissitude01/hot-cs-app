@@ -28,11 +28,18 @@ jobs:
         run: gradle :app:testDebugUnitTest --stacktrace 2>&1 | tee /tmp/test-log.txt
       - name: Build release APK
         run: gradle :app:assembleRelease 2>&1 | tee -a /tmp/test-log.txt
-      - name: Inspect APK output
+      - name: Locate and stage APK
         run: |
-          echo "### APK 输出目录" >> "$GITHUB_STEP_SUMMARY"
-          ls -la app/build/outputs/apk/release/ 2>/dev/null >> "$GITHUB_STEP_SUMMARY" || echo "(目录不存在)" >> "$GITHUB_STEP_SUMMARY"
-          find app/build/outputs -name "*.apk" 2>/dev/null | head -5 >> "$GITHUB_STEP_SUMMARY"
+          echo "### APK 查找结果" >> "$GITHUB_STEP_SUMMARY"
+          find app/build/outputs -name "*.apk" 2>/dev/null | head -5 >> "$GITHUB_STEP_SUMMARY" || echo "(无)" >> "$GITHUB_STEP_SUMMARY"
+          APK=$(find app/build/outputs -name "*.apk" 2>/dev/null | head -1)
+          if [ -n "$APK" ]; then
+            mkdir -p dist
+            cp "$APK" dist/app-release.apk
+            echo "已复制到 dist/app-release.apk" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "!! 未找到任何 APK 文件" >> "$GITHUB_STEP_SUMMARY"
+          fi
       - name: Show build log (always)
         if: always()
         run: |
@@ -42,12 +49,12 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: apk
-          path: app/build/outputs/apk/release/
+          path: dist/
           if-no-files-found: error
       - name: Publish latest release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh release create latest --title "最新版" --notes "直接下载 app-release.apk 安装即可；首次打开请允许通知权限。" \
-            app/build/outputs/apk/release/*.apk 2>/dev/null || \
-          gh release upload latest app/build/outputs/apk/release/*.apk --clobber
+            dist/app-release.apk 2>/dev/null || \
+          gh release upload latest dist/app-release.apk --clobber
