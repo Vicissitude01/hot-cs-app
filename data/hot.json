@@ -1,5 +1,125 @@
 [
   {
+    "id": "lobsters:01lxuf",
+    "title": "Mojo is now open source",
+    "url": "https://www.modular.com/blog/mojo-open-source",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-18T11:34:21.524-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1235270",
+    "title": "有没有人需要 Codex 获得 1000 额度的邀请",
+    "url": "https://www.v2ex.com/t/1235270",
+    "source": "v2ex",
+    "score": 146.0,
+    "published_at": "2026-08-18T05:27:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49347178",
+    "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+    "url": "https://github.com/therepanic/openleetcode",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-18T15:30:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49346444",
+    "title": "The coolest anti-surveillance tools at Defcon [video]",
+    "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-08-18T14:49:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49340710",
+    "title": "California's new tire efficiency rules could save drivers $1B a year",
+    "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-08-18T02:58:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49346135",
+    "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+    "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-18T14:29:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49313346",
+    "title": "Ask HN: Ive quit six systems for tracking my illness. What works?",
+    "url": "https://news.ycombinator.com/item?id=49313346",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-15T19:09:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49334960",
+    "title": "Memory prices climb 500% in 12 months",
+    "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+    "source": "hackernews",
+    "score": 110.0,
+    "published_at": "2026-08-17T17:52:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49348136",
+    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+    "url": "https://machine0.io",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-18T16:26:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49336392",
+    "title": "How I Under-Engineered My Book",
+    "url": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-08-17T19:31:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49348163",
+    "title": "Claude: Degraded Performance for Multiple Models",
+    "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-18T16:28:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49348055",
+    "title": "Apple announces changes for apps in the European Union",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-18T16:21:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:8vihvm",
     "title": "Shading Motion",
     "url": "https://blog.maximeheckel.com/posts/shading-motion/",
