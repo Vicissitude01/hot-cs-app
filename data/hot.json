@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:agafnk",
+    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "url": "https://arxiv.org/pdf/2608.13759",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-18T07:16:41.027-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hisxut",
+    "title": "Fairphone 6 + PostmarketOS working main camera",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-18T07:29:02.109-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6prwje",
+    "title": "Tsampi BFT: Leaderless One-Round Voting with Parameterized Finality",
+    "url": "https://www.tsampi.com/tsampi-bft-1.1.pdf",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-18T07:10:59.967-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nsywuo",
+    "title": "How I browse the Web with uBlock (Hard Mode)",
+    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-18T07:30:18.351-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:n7i1jn",
+    "title": "Using the railway network as a flatbed scanner",
+    "url": "https://philo.gay/linecam/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-18T06:42:04.403-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49344643",
+    "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+    "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-18T12:22:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49344114",
+    "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+    "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-08-18T11:27:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49272631",
+    "title": "Teaching my kid to code with a modern MUD",
+    "url": "https://tau.dev/2026/08/07/canon",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-08-12T14:07:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:jin8t5",
     "title": "Selective Applicative Functors",
     "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
