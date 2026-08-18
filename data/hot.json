@@ -1,5 +1,135 @@
 [
   {
+    "id": "lobsters:qo7eyx",
+    "title": "CSS: the bomb inside your inbox",
+    "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-18T08:30:46.091-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49345091",
+    "title": "Show HN: A local MitM proxy to control TLS fingerprints",
+    "url": "https://github.com/ytkoka/impersonate-proxy",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-18T13:07:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49345094",
+    "title": "Kent Beck: Composable Tests",
+    "url": "https://newsletter.kentbeck.com/p/composable-tests",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-18T13:08:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49345070",
+    "title": "Deus Ex creator Warren Spector is retiring from game development",
+    "url": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-08-18T13:06:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49345320",
+    "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+    "url": "https://github.com/pitiflautico/neobrowser",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-18T13:25:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49345013",
+    "title": "Things That Used to Be Normal and Are Now a Luxury",
+    "url": "https://albertogalca.com/5-things-that-used-to-be-normal-and-are-now-a-luxury",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-18T13:01:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49344654",
+    "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+    "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-08-18T12:23:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49345438",
+    "title": "A group of Gandalfs protest outside the home of Peter Thiel in Argentina",
+    "url": "https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-18T13:35:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49305969",
+    "title": "Baking a Model: A Metaphor for LLM Training",
+    "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-14T23:46:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49345154",
+    "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+    "url": "https://github.com/mukundzha/avouch",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-18T13:13:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49344811",
+    "title": "Fairphone is now officially available in the United States",
+    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-08-18T12:42:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49345220",
+    "title": "Fixing a Bricked Framework Laptop",
+    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-18T13:18:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49344825",
+    "title": "Using the railway network as a flatbed scanner",
+    "url": "https://philo.gay/linecam/",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-08-18T12:43:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:agafnk",
     "title": "GPU Offload in Rust: Portable, Safe, and Fast",
     "url": "https://arxiv.org/pdf/2608.13759",
