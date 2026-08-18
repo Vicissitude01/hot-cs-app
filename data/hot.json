@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:8vihvm",
+    "title": "Shading Motion",
+    "url": "https://blog.maximeheckel.com/posts/shading-motion/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-18T07:11:07.312-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:phisnd",
+    "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
+    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-18T10:07:47.813-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:khm6np",
+    "title": "Why I reimplemented LVM (with worse guarantees)",
+    "url": "https://depot.dev/blog/why-i-reimplemented-lvm",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-18T09:08:36.322-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ttxwdz",
+    "title": "What software do you use daily in 2026?",
+    "url": "https://lobste.rs/s/ttxwdz",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-18T09:31:11.824-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674826322239258662",
+    "title": "开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透",
+    "url": "https://juejin.cn/post/7674826322239258662",
+    "source": "juejin",
+    "score": 0.27001312,
+    "published_at": "2026-08-17T06:00:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49346538",
+    "title": "Code-native generation of highly programmable 3D assets (2026)",
+    "url": "https://arxiv.org/abs/2607.22738",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-18T14:54:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49310602",
+    "title": "Splitting a Git Commit",
+    "url": "https://blog.gnoack.org/post/git-history-split",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-15T13:56:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49346312",
+    "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
+    "url": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-08-18T14:40:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49346404",
+    "title": "JPEG XL converter and .jxl viewer",
+    "url": "https://jpegxlconvert.com/en/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-18T14:46:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49347055",
+    "title": "One Oakland police officer made $490k in overtime",
+    "url": "https://oaklandside.org/2026/01/29/oakland-police-overtime/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-18T15:24:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:wj7pei",
     "title": "CSS-in-JS Arena Bamboo, StyleX and Panda on Pixel-Identical Apps",
     "url": "https://github.com/gajus/css-in-js-arena",
