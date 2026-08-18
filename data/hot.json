@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:jin8t5",
+    "title": "Selective Applicative Functors",
+    "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-17T21:36:25.169-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:OpenCut-app/OpenCut",
+    "title": "OpenCut",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:genlayerlabs/genlayer-project-boilerplate",
+    "title": "genlayer-project-boilerplate",
+    "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:bojieli/ai-agent-book",
+    "title": "ai-agent-book",
+    "url": "https://github.com/bojieli/ai-agent-book",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:NawfalMotii79/PLFM_RADAR",
+    "title": "PLFM_RADAR",
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:basecamp/omarchy",
+    "title": "omarchy",
+    "url": "https://github.com/basecamp/omarchy",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:public-apis/public-apis",
+    "title": "public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:volcengine/OpenViking",
+    "title": "OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:chaitanyagiri/munder-difflin",
+    "title": "munder-difflin",
+    "url": "https://github.com/chaitanyagiri/munder-difflin",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49342472",
+    "title": "Finger: Social network that never died",
+    "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-18T07:21:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49315217",
+    "title": "The key that never exists: a threshold signing ceremony in the browser",
+    "url": "https://808bits.com/articles/threshold-signing-ceremony-in-your-browser/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-15T23:20:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "juejin:7674783303284326450",
     "title": "代码越改越乱？来试试前端领域模型驱动设计（DDD）",
     "url": "https://juejin.cn/post/7674783303284326450",
