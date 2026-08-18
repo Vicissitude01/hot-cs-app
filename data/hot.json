@@ -1,5 +1,25 @@
 [
   {
+    "id": "lobsters:ap9w8i",
+    "title": "When str.lower() is a security vulnerability in Python",
+    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-18T17:57:41.264-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49353618",
+    "title": "Programmable Property-Based Testing",
+    "url": "https://dl.acm.org/doi/10.1145/3828685",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-18T22:22:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49353603",
     "title": "Who owns the code?",
     "url": "https://whoownsthecode.com/",
