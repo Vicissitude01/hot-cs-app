@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:wvwqro",
+    "title": "Sing-song: a speakable encoding for long numbers and keys",
+    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-19T15:28:07.404-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vpmzvx",
+    "title": "Ploopy A+ (external trackball)",
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-19T13:23:56.431-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49366115",
+    "title": "From Quantum Relative Entropy to the Semiclassical Einstein Equations",
+    "url": "https://arxiv.org/abs/2510.24491",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-19T19:31:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49314109",
+    "title": "The little-known winstart.bat batch file",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-15T20:37:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49366704",
+    "title": "Copper Shortage Threatens the Green Transition",
+    "url": "https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-19T20:22:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49366067",
+    "title": "Ramp Launches a Model Router",
+    "url": "https://router.com",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-08-19T19:26:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49365841",
+    "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+    "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-08-19T19:06:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49366264",
+    "title": "Pixel 11 Pro Fold feels like the end of an era",
+    "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-08-19T19:43:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:q0wkpe",
     "title": "Go 1.27 Release Notes",
     "url": "https://go.dev/doc/go1.27",
