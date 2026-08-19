@@ -1,5 +1,45 @@
 [
   {
+    "id": "lobsters:5gcd3t",
+    "title": "HTML Can Do That",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-19T05:55:29.500-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674581715802308658",
+    "title": "AI Agent 都在疯狂加功能，它说：我全砍了",
+    "url": "https://juejin.cn/post/7674581715802308658",
+    "source": "juejin",
+    "score": 0.2421951,
+    "published_at": "2026-08-17T09:35:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49298283",
+    "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite",
+    "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-14T13:17:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49359425",
+    "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+    "url": "https://theremin.bizibah.com/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-08-19T10:15:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9oy4ao",
     "title": "Liquid Types as a behavioural sandbox for agents",
     "url": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
