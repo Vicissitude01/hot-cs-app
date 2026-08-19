@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:r8x9et",
+    "title": "Claude and I built an app",
+    "url": "https://folkwolf.net/claude-and-i-built-an-app/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-18T21:05:35.740-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1235276",
+    "title": "Codex 1000 额度邀请，有需要的留邮箱吧，三个",
+    "url": "https://www.v2ex.com/t/1235276",
+    "source": "v2ex",
+    "score": 104.0,
+    "published_at": "2026-08-18T05:49:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1235259",
+    "title": "今日份的阿里不带云笑话。。踩坑进行时。。",
+    "url": "https://www.v2ex.com/t/1235259",
+    "source": "v2ex",
+    "score": 110.0,
+    "published_at": "2026-08-18T04:37:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1235235",
+    "title": "今年好看的电视剧真多啊",
+    "url": "https://www.v2ex.com/t/1235235",
+    "source": "v2ex",
+    "score": 142.0,
+    "published_at": "2026-08-18T03:07:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674878323555385387",
+    "title": "Flutter 3.47 首坑，analysis_options 问题连环回归",
+    "url": "https://juejin.cn/post/7674878323555385387",
+    "source": "juejin",
+    "score": 0.57296185,
+    "published_at": "2026-08-18T00:55:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674907190973775882",
+    "title": "苏神百万年薪简历翻车：一个包装争议，给后端同学的 5 个工程视角警示",
+    "url": "https://juejin.cn/post/7674907190973775882",
+    "source": "juejin",
+    "score": 0.47848689,
+    "published_at": "2026-08-18T03:15:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49279352",
+    "title": "I stopped caring about programming terms",
+    "url": "https://teadriven.com/blog/why-i-stopped-caring-about-terminology/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-12T22:17:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49355360",
+    "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
+    "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-19T01:22:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49355606",
+    "title": "OpenLogi",
+    "url": "https://openlogi.org/en",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-19T01:58:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49355825",
+    "title": "Meta's blockbuster trial draws parallels to big tobacco",
+    "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-19T02:24:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:vbaang",
     "title": "dgit: Git forge on Durable Objects",
     "url": "https://github.com/littledivy/dgit",
