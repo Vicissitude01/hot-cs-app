@@ -1,5 +1,65 @@
 [
   {
+    "id": "lobsters:hdef54",
+    "title": "Easy to use Entity Component System (ECS) crafted with Odin",
+    "url": "https://github.com/helioscout/moecs",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-19T15:59:50.670-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49366270",
+    "title": "Digital Immortality",
+    "url": "https://dogdogfish.com/blog/2026/08/19/digital-immortality/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-19T19:44:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49366792",
+    "title": "DFlash 2: Keep Drafting Parallel",
+    "url": "https://inco.ai/blog/dflash2/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-19T20:28:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49317632",
+    "title": "A portable, sensitive, low power, analog Geiger counter",
+    "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-16T07:12:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49366474",
+    "title": "XWayland 26.1-rc1 Released Two Years After the Last Release",
+    "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-19T20:03:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49366597",
+    "title": "Pressed Penny Machine Map",
+    "url": "https://pennypresses.net/home/map.php",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-08-19T20:13:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:wvwqro",
     "title": "Sing-song: a speakable encoding for long numbers and keys",
     "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
