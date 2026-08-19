@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:yaoves",
+    "title": "On the Capacity, Performance, and Reliability of microSD Cards",
+    "url": "https://www.bahjeez.com/the-great-microsd-card-survey/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-19T07:33:03.516-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kj1bvt",
+    "title": "Why I still hand write my commit messages",
+    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-19T08:01:00.885-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:marceloprates/prettymaps",
+    "title": "prettymaps",
+    "url": "https://github.com/marceloprates/prettymaps",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:amadeusprotocol/node",
+    "title": "node",
+    "url": "https://github.com/amadeusprotocol/node",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:obra/superpowers",
+    "title": "superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mattpocock/skills",
+    "title": "skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49361395",
+    "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+    "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-19T13:33:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49286987",
+    "title": "Taffy: A flexible, high-performance, cross-platform UI layout library",
+    "url": "https://github.com/DioxusLabs/taffy",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-13T14:56:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49361279",
+    "title": "PostgreSQL for Everything",
+    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-19T13:21:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49360015",
+    "title": "A joke domain purchase turned in geopolitical warfare",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-08-19T11:21:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:rdcyoc",
     "title": "Aiki Alpha 2 Released",
     "url": "https://decuser.github.io/posts/aiki-alpha-2-release/",
