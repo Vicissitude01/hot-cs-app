@@ -1,5 +1,65 @@
 [
   {
+    "id": "lobsters:ppvyr1",
+    "title": "Packing Malware in Rosetta 2",
+    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-19T17:05:09.957-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7v1wvd",
+    "title": "Reclaim the terminal",
+    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-19T17:10:12.631-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49305415",
+    "title": "IDE Nostalgia (2022)",
+    "url": "https://davidsmaynard.com/blog/keyset",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-14T22:30:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49367836",
+    "title": "Collaborative Human Agent Protocol (CHAP)",
+    "url": "https://github.com/BrightbeamAI/chap",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-19T22:09:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49348189",
+    "title": "Sol Loves to Cheat",
+    "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-18T16:29:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49367256",
+    "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+    "url": "https://os8088.com/spotlight/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-19T21:11:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:hdef54",
     "title": "Easy to use Entity Component System (ECS) crafted with Odin",
     "url": "https://github.com/helioscout/moecs",
