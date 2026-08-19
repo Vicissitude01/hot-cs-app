@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:q0wkpe",
+    "title": "Go 1.27 Release Notes",
+    "url": "https://go.dev/doc/go1.27",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-19T13:15:04.770-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49364745",
+    "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+    "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-19T17:47:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49365733",
+    "title": "Police officer used Flock cameras to track estranged wife 717 times",
+    "url": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-19T18:58:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49365383",
+    "title": "The A.I. In Google's New Pixel 11 Is Not Helpful",
+    "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-08-19T18:32:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49364721",
+    "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+    "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-19T17:45:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49365419",
+    "title": "Rules of Good Social Skills",
+    "url": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-19T18:34:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49365443",
+    "title": "Unsloth Dynamic 3.0 GGUFs",
+    "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-19T18:36:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49365405",
+    "title": "Go 1.27",
+    "url": "https://go.dev/blog/go1.27",
+    "source": "hackernews",
+    "score": 97.0,
+    "published_at": "2026-08-19T18:33:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:smrw3n",
     "title": "Go 1.27 is released - The Go Programming Language",
     "url": "https://go.dev/blog/go1.27",
