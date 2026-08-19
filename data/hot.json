@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:gmherj",
+    "title": "SQLite for Everything",
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-19T10:17:39.350-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vt7qpp",
+    "title": "Opinions About Compiler Building",
+    "url": "https://programmingsimplicity.substack.com/p/opinions-about-compiler-building",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-19T10:18:20.878-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49362728",
+    "title": "Mathematics in the Age of AI",
+    "url": "https://arxiv.org/abs/2608.16753",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-19T15:14:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49362887",
+    "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
+    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-08-19T15:28:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49362401",
+    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+    "url": "https://ornith.ai/ornith_1_5.html",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-08-19T14:48:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49362934",
+    "title": "Remote workers report the highest well-being in study of 7,700 employees",
+    "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-08-19T15:32:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49363710",
+    "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+    "url": "https://github.com/onecli/onecli",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-19T16:29:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49363433",
+    "title": "Civic Hygiene – avoid building technologies that could be used by a police state",
+    "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-08-19T16:07:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "juejin:7674870309704351759",
     "title": "写了三天 Next.js，我的 React 世界观被拆了又装回去",
     "url": "https://juejin.cn/post/7674870309704351759",
