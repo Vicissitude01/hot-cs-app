@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:qmx2sh",
+    "title": "Extreme Programming: A Gentle Introduction",
+    "url": "http://www.extremeprogramming.org/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-19T10:54:25.226-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:3tbpsd",
+    "title": "capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM",
+    "url": "https://capri.hexdocs.pm/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-19T12:07:12.447-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lxo74i",
+    "title": "Introducing Microlighter",
+    "url": "https://daverupert.com/2026/08/microlighter/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-19T11:32:36.318-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675273747710001206",
+    "title": "DeepSeek Harness 值得安装的 15 款插件",
+    "url": "https://juejin.cn/post/7675273747710001206",
+    "source": "juejin",
+    "score": 0.92956566,
+    "published_at": "2026-08-19T00:05:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49363665",
+    "title": "How Kubernetes Probes Work",
+    "url": "https://ngrok.com/blog/probes",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-19T16:25:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49319745",
+    "title": "A recipe for drone racing with reinforcement learning",
+    "url": "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-16T13:12:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49363587",
+    "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+    "url": "https://arxiv.org/abs/2503.08679",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-19T16:18:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49363668",
+    "title": "Extensible Software in the Age of LLMs",
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-19T16:26:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gmherj",
     "title": "SQLite for Everything",
     "url": "https://joecode.com/2026-08-19-sqlite3/",
