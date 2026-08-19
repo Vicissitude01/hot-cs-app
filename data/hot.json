@@ -1,5 +1,75 @@
 [
   {
+    "id": "lobsters:smrw3n",
+    "title": "Go 1.27 is released - The Go Programming Language",
+    "url": "https://go.dev/blog/go1.27",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-19T12:53:45.830-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:i4lxyt",
+    "title": "Plain Text Accounting is Pretty Cool",
+    "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-08-19T11:55:49.945-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49364789",
+    "title": "Cop Explains Why He Used License Plate Reader to Stalk Woman",
+    "url": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-19T17:50:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49364223",
+    "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+    "url": "https://demo.frugaltokens.com/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-19T17:07:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49302127",
+    "title": "Turning molecules into reliable electronic devices",
+    "url": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-14T17:45:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49365326",
+    "title": "Introducing MicroLighter",
+    "url": "https://daverupert.com/2026/08/microlighter/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-19T18:28:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49364559",
+    "title": "Openrouter is joining Stripe",
+    "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+    "source": "hackernews",
+    "score": 130.0,
+    "published_at": "2026-08-19T17:32:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qmx2sh",
     "title": "Extreme Programming: A Gentle Introduction",
     "url": "http://www.extremeprogramming.org/",
