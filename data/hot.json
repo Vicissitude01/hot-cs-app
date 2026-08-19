@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:xftgtd",
+    "title": "a filename when none exists",
+    "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-19T02:29:33.007-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1235516",
+    "title": "读程序人的 7 年有感",
+    "url": "https://www.v2ex.com/t/1235516",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-08-19T02:45:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675272903249625107",
+    "title": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
+    "url": "https://juejin.cn/post/7675272903249625107",
+    "source": "juejin",
+    "score": 4.59811285,
+    "published_at": "2026-08-19T03:16:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49358327",
+    "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+    "url": "https://www.modular.com/blog/modcon-announcements",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-19T07:47:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49318311",
+    "title": "The Two Factions of C++",
+    "url": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-16T09:12:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49358220",
+    "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+    "url": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-19T07:35:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49357501",
+    "title": "λλ: A Programming Language for Silicon Photonics",
+    "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-19T06:09:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49357967",
+    "title": "Berd",
+    "url": "https://berd.xyz",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-19T07:06:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49358259",
+    "title": "Where Human Sleep Went Wrong",
+    "url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-08-19T07:40:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qrbu3o",
     "title": "Fargate Is Not Firecracker (2024)",
     "url": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
