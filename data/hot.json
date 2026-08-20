@@ -1,5 +1,125 @@
 [
   {
+    "id": "lobsters:vcqcgl",
+    "title": "Why compiling Rust to WebAssembly is slow",
+    "url": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-20T07:32:22.598-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:otifxs",
+    "title": "AI didn't erase the junior's value. It increased it",
+    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-20T07:39:27.319-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mlishw",
+    "title": "NASA's System Modeling Language, FPP",
+    "url": "https://ieeexplore.ieee.org/document/9843754",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-20T07:45:37.451-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:b0olmy",
+    "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-20T07:57:51.671-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xgxp9m",
+    "title": "If this is true, the hyperscalers are toast",
+    "url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-20T06:53:16.760-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49373123",
+    "title": "Australia passes law to levy tech giants that fail to pay for local news",
+    "url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-20T11:23:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49312446",
+    "title": "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
+    "url": "https://qdrant.tech/articles/filtered-vector-search-acorn/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-15T17:27:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49372661",
+    "title": "Risk Engineering",
+    "url": "https://risk-engineering.org/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-20T10:18:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49373616",
+    "title": "Browser De-Slop",
+    "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-20T12:19:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49372994",
+    "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+    "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-20T11:03:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49373423",
+    "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+    "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-08-20T12:00:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49373456",
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-08-20T12:04:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:8mjvrb",
     "title": "Pitfalls of Benchmarking on Modern Systems",
     "url": "https://stefan-marr.de/2026/08/pitfalls-of-benchmarking-on-modern-systems/",
@@ -4876,126 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:AlexsJones/llmfit",
-    "title": "llmfit",
-    "url": "https://github.com/AlexsJones/llmfit",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mukul975/Anthropic-Cybersecurity-Skills",
-    "title": "Anthropic-Cybersecurity-Skills",
-    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:nautechsystems/nautilus_trader",
-    "title": "nautilus_trader",
-    "url": "https://github.com/nautechsystems/nautilus_trader",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:usestrix/strix",
-    "title": "strix",
-    "url": "https://github.com/usestrix/strix",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:harry0703/MoneyPrinterTurbo",
-    "title": "MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49325714",
-    "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-    "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-    "source": "hackernews",
-    "score": 117.0,
-    "published_at": "2026-08-17T01:45:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49330246",
-    "title": "Speeding Up the Plush Garbage Collector",
-    "url": "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-17T13:09:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49325061",
-    "title": "Reticulum – Decentralized Mesh Network",
-    "url": "https://reticulum.network/",
-    "source": "hackernews",
-    "score": 177.0,
-    "published_at": "2026-08-16T23:59:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49319556",
-    "title": "Claude: System Prompts",
-    "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "source": "hackernews",
-    "score": 722.0,
-    "published_at": "2026-08-16T12:48:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49278577",
-    "title": "My Ten Years in No Man's Sky",
-    "url": "https://nmsspot.com/2026/08/09/my-ten-years-in-no-mans-sky/",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-08-12T21:07:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49326816",
-    "title": "Linear algebra done right",
-    "url": "https://linear.axler.net/",
-    "source": "hackernews",
-    "score": 167.0,
-    "published_at": "2026-08-17T05:21:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49331288",
-    "title": "Show HN: Learn Flags Quiz",
-    "url": "https://flagquizzes.com/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-17T14:11:17+00:00",
     "summary": "",
     "key_points": []
   }
