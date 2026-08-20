@@ -1,5 +1,45 @@
 [
   {
+    "id": "lobsters:ope7za",
+    "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can",
+    "url": "https://zerotistic.blog/posts/find-my-people-linux/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-20T04:02:49.657-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:oaybfe",
+    "title": "What Zig felt like, coming from Rust",
+    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-20T02:53:17.055-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675696159576326159",
+    "title": "Vibe作品广场首发挑战来啦！发布作品，赢富士拍立得等千元好礼",
+    "url": "https://juejin.cn/post/7675696159576326159",
+    "source": "juejin",
+    "score": 14.09440713,
+    "published_at": "2026-08-20T08:01:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49318113",
+    "title": "RAPx: A static analysis tool for Rust programs",
+    "url": "https://github.com/safer-rust/RAPx",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-16T08:37:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1235779",
     "title": "[Codex 中转站] HyperAPI 的新老用户们，来领鸡蛋了",
     "url": "https://www.v2ex.com/t/1235779",
@@ -4956,46 +4996,6 @@
     "source": "hackernews",
     "score": 20.0,
     "published_at": "2026-08-17T14:21:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49330684",
-    "title": "Incident with Github.com",
-    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "source": "hackernews",
-    "score": 511.0,
-    "published_at": "2026-08-17T13:40:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49331220",
-    "title": "How to disable or avoid intrusive AI",
-    "url": "https://www.librarian.net/notoai/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-08-17T14:07:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49329575",
-    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-    "source": "hackernews",
-    "score": 144.0,
-    "published_at": "2026-08-17T12:09:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49331423",
-    "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-08-17T14:18:38+00:00",
     "summary": "",
     "key_points": []
   }
