@@ -1,5 +1,65 @@
 [
   {
+    "id": "lobsters:d52jy6",
+    "title": "Poisoned Postgres connection pools",
+    "url": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-20T00:00:50.655-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fboohk",
+    "title": "Parsing IP addresses in C# at crazy speeds",
+    "url": "https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-20T01:40:47.402-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674818974896685098",
+    "title": "一个不会游戏开发的人，用 AI 把一款小游戏做到上线了",
+    "url": "https://juejin.cn/post/7674818974896685098",
+    "source": "juejin",
+    "score": 0.15008022,
+    "published_at": "2026-08-17T07:43:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675265690036273158",
+    "title": "社区版 Dart macros？一个可以解决 JSON 序列化的Fluter “宏编程”第三方包",
+    "url": "https://juejin.cn/post/7675265690036273158",
+    "source": "juejin",
+    "score": 0.48238715,
+    "published_at": "2026-08-19T00:50:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49321934",
+    "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
+    "url": "https://github.com/cesarblum/sectorforth",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-16T17:29:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49371006",
+    "title": "Windows brings out the Rorschach test in everyone",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-20T06:16:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49315372",
     "title": "Rewriting in Rust",
     "url": "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/",
