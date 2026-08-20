@@ -1,5 +1,55 @@
 [
   {
+    "id": "hackernews:49380671",
+    "title": "Scientists Release Biggest 2D Map of the Universe",
+    "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-20T21:42:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49295112",
+    "title": "Speeding Up (Small) Ruby Hashes",
+    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-14T05:45:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49380226",
+    "title": "The Wonders of the Male Human Pelvis",
+    "url": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-20T21:01:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49380482",
+    "title": "Code as an Artifact",
+    "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-20T21:24:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49380491",
+    "title": "Citizen Devs: Everyone is an engineer now",
+    "url": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-08-20T21:25:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:yigyaq",
     "title": "Zero-Knowledge Proofs Aren’t Age Verification Silver Bullets",
     "url": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
@@ -4946,56 +4996,6 @@
     "source": "hackernews",
     "score": 37.0,
     "published_at": "2026-08-17T18:10:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49288644",
-    "title": "Marketers are Addicted to Bad Data (2020)",
-    "url": "https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-13T16:47:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49336050",
-    "title": "AirTag reveals Amazon is trashing rare books to train AI",
-    "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-17T19:06:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49335517",
-    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
-    "url": "https://blog.roboflow.com/roboflow-playground/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-17T18:28:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:izrwdc",
-    "title": "GitHub has alternatives, but no replacement",
-    "url": "https://lalitm.com/post/github-alternatives/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-08-17T12:12:44.421-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49335163",
-    "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
-    "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-17T18:06:30+00:00",
     "summary": "",
     "key_points": []
   }
