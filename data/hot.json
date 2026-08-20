@@ -1,5 +1,175 @@
 [
   {
+    "id": "lobsters:n7kpm6",
+    "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
+    "url": "https://www.ethanheilman.com/x/33/index.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-20T10:24:43.059-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mxnn9v",
+    "title": "Double-double: 31 digits of precision without leaving the FPU",
+    "url": "https://marekfiser.com/blog/double-double-arithmetic",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-20T10:31:17.514-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:eesu8d",
+    "title": "Bun 1.4",
+    "url": "https://bun.com/blog/bun-v1.4",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-08-20T09:37:52.628-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674686524114944050",
+    "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
+    "url": "https://juejin.cn/post/7674686524114944050",
+    "source": "juejin",
+    "score": 0.497737,
+    "published_at": "2026-08-17T05:29:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674383173651824682",
+    "title": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
+    "url": "https://juejin.cn/post/7674383173651824682",
+    "source": "juejin",
+    "score": 0.4826898,
+    "published_at": "2026-08-17T00:53:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49375237",
+    "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+    "url": "https://pub.doub.ly/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-20T14:38:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49375244",
+    "title": "Show HN: Open-source Stripe Connect alternative",
+    "url": "https://zoneless.com",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-20T14:38:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49375719",
+    "title": "Anti-AI fonts are useless and harmful",
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-20T15:06:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49333091",
+    "title": "Theory of Fluids Enters the 21st Century",
+    "url": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-08-17T15:56:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49336772",
+    "title": "Nearly 1,400 live streams from Japan",
+    "url": "https://tomarigi.me/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-08-17T20:03:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49322868",
+    "title": "Double-double: 31 digits of precision without leaving the FPU",
+    "url": "https://marekfiser.com/blog/double-double-arithmetic/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-16T19:25:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49376038",
+    "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+    "url": "https://github.com/runvendo/vendo",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-20T15:29:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49376332",
+    "title": "How to compromise your system with a job interview",
+    "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-20T15:50:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49375996",
+    "title": "Clean up Claude 5's token vomit with a separate LLM",
+    "url": "https://github.com/zachahn/vomit",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-20T15:26:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49368886",
+    "title": "CIA funding helped keep NeXT afloat in the 80s",
+    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-08-20T00:15:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49376287",
+    "title": "I Am Morally Opposed to Updating My Claude.md",
+    "url": "https://alex-jacobs.com/posts/claudemd/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-20T15:47:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49347543",
+    "title": "I like 'em thick: an apology to my English teachers",
+    "url": "https://www.experimental-history.com/p/i-like-em-thick",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-08-18T15:50:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:0rggrb",
     "title": "Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)",
     "url": "https://github.com/yaoshiu/opus",
@@ -4826,176 +4996,6 @@
     "source": "lobsters",
     "score": 5.0,
     "published_at": "2026-08-17T02:47:10.749-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fxv1u9",
-    "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0",
-    "url": "https://labs.leaningtech.com/blog/browserpod-rust.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-17T08:49:54.499-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:joyawz",
-    "title": "AI Software Development – What Does The Data Say?",
-    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-    "source": "lobsters",
-    "score": 18.0,
-    "published_at": "2026-08-16T19:08:04.567-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gk7fpf",
-    "title": "AppleWorks on the Apple II",
-    "url": "https://stonetools.ghost.io/appleworks-apple2/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-08-17T07:41:57.609-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:o5vcbw",
-    "title": "MuQSS CPU scheduler for Linux 7.2 by Con Kolivas",
-    "url": "https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-08-17T07:24:02.871-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:snhfrq",
-    "title": "Four levels of in-place initialization",
-    "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-08-17T02:50:22.196-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hnx6id",
-    "title": "Protecting the Rust standard library from accidental breakage",
-    "url": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
-    "source": "lobsters",
-    "score": 47.0,
-    "published_at": "2026-08-16T08:59:09.800-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gwc2me",
-    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
-    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-08-17T08:33:00.140-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5p0kgt",
-    "title": "What are you doing this week?",
-    "url": "https://lobste.rs/s/5p0kgt",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-08-17T02:30:46.700-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:usr2t2",
-    "title": "Thinking about tests: assertions and matchers",
-    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-17T05:35:27.967-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6i1at9",
-    "title": "Writing a Fast Compiler",
-    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-08-17T06:13:33.472-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:os20fa",
-    "title": "Vetted AI code is hard to justify",
-    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-08-17T06:11:39.353-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nrnwc6",
-    "title": "Passphrase-less reboots using kexec under NixOS",
-    "url": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-08-17T04:53:54.741-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ii5tun",
-    "title": "Every Fucking Website",
-    "url": "https://op.tngl.io/every-fucking-website/",
-    "source": "lobsters",
-    "score": 89.0,
-    "published_at": "2026-08-16T11:26:05.865-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ln3dao",
-    "title": "A faster way to calculate the day-of-the-week",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "source": "lobsters",
-    "score": 60.0,
-    "published_at": "2026-08-16T15:52:12.026-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wpyhdh",
-    "title": "I thought I was building a C replacement. I was wrong",
-    "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
-    "source": "lobsters",
-    "score": 97.0,
-    "published_at": "2026-08-16T09:05:05.789-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0zdh32",
-    "title": "Does it make sense to switch to a Github Alternative ?",
-    "url": "https://lobste.rs/s/0zdh32",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-08-17T09:03:05.555-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234881",
-    "title": "codex 自动发外链： submify v2 版本升级+内置 3k 外链，发到吐。。。",
-    "url": "https://www.v2ex.com/t/1234881",
-    "source": "v2ex",
-    "score": 148.0,
-    "published_at": "2026-08-17T01:56:11+00:00",
     "summary": "",
     "key_points": []
   }
