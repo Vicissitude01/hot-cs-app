@@ -1,5 +1,145 @@
 [
   {
+    "id": "lobsters:8mjvrb",
+    "title": "Pitfalls of Benchmarking on Modern Systems",
+    "url": "https://stefan-marr.de/2026/08/pitfalls-of-benchmarking-on-modern-systems/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-20T05:49:58.764-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674878323556237355",
+    "title": "ECharts 太平面？试试这款 Vue 3D 图表库",
+    "url": "https://juejin.cn/post/7674878323556237355",
+    "source": "juejin",
+    "score": 0.18835037,
+    "published_at": "2026-08-18T02:12:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:RyanCodrai/turbovec",
+    "title": "turbovec",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Tencent/AI-Infra-Guard",
+    "title": "AI-Infra-Guard",
+    "url": "https://github.com/Tencent/AI-Infra-Guard",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:makeplane/plane",
+    "title": "plane",
+    "url": "https://github.com/makeplane/plane",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:JuliusBrussee/caveman",
+    "title": "caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mahlernim/google-timeline-visualizer",
+    "title": "google-timeline-visualizer",
+    "url": "https://github.com/mahlernim/google-timeline-visualizer",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:PostHog/posthog",
+    "title": "posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:agent-substrate/substrate",
+    "title": "substrate",
+    "url": "https://github.com/agent-substrate/substrate",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cursor/plugins",
+    "title": "plugins",
+    "url": "https://github.com/cursor/plugins",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:AprilNEA/OpenLogi",
+    "title": "OpenLogi",
+    "url": "https://github.com/AprilNEA/OpenLogi",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:modular/modular",
+    "title": "modular",
+    "url": "https://github.com/modular/modular",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49310990",
+    "title": "YACS 2.0 – Yet Another Curta Simulator",
+    "url": "https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-15T14:41:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49372792",
+    "title": "If this is true, the hyperscalers are toast",
+    "url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-20T10:38:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:dns8du",
     "title": "Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat",
     "url": "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack",
@@ -4856,146 +4996,6 @@
     "source": "hackernews",
     "score": 3.0,
     "published_at": "2026-08-17T14:11:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49321717",
-    "title": "A third world engineer responds to “RISC-V: They should have known better”",
-    "url": "https://rvembedded.com/blog_post/12/",
-    "source": "hackernews",
-    "score": 577.0,
-    "published_at": "2026-08-16T17:01:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49331607",
-    "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
-    "url": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-17T14:29:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49330456",
-    "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-08-17T13:24:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49327643",
-    "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
-    "url": "https://desktopcolors.com",
-    "source": "hackernews",
-    "score": 82.0,
-    "published_at": "2026-08-17T07:51:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49325789",
-    "title": "On A.I. regulation and messaging",
-    "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-    "source": "hackernews",
-    "score": 179.0,
-    "published_at": "2026-08-17T01:59:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49324087",
-    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "source": "hackernews",
-    "score": 562.0,
-    "published_at": "2026-08-16T21:53:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49331599",
-    "title": "Show HN: Eve Software Factory",
-    "url": "https://github.com/vercel-labs/eve-software-factory-template/tree/main",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-17T14:28:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49323474",
-    "title": "How I developed an Am29000 C compiler and web browser",
-    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-16T20:41:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49331033",
-    "title": "Ask HN: Alternatives to GitHub",
-    "url": "https://news.ycombinator.com/item?id=49331033",
-    "source": "hackernews",
-    "score": 119.0,
-    "published_at": "2026-08-17T13:59:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49284983",
-    "title": "How Go detects struct copies with sync.noCopy",
-    "url": "https://func25.dev/posts/go-sync-nocopy/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-08-13T12:33:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49329583",
-    "title": "Mexico Crackdown on Coastal Development Underway",
-    "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-08-17T12:10:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49330978",
-    "title": "How to ship a database every day",
-    "url": "https://turbopuffer.com/blog/control-plane",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-17T13:56:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49324985",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "source": "hackernews",
-    "score": 681.0,
-    "published_at": "2026-08-16T23:45:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49291411",
-    "title": "File Recovery in Process",
-    "url": "https://gwolf.org/2026/08/file-recovery-in-process.html",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-13T20:28:21+00:00",
     "summary": "",
     "key_points": []
   }
