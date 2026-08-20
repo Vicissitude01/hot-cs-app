@@ -1,5 +1,55 @@
 [
   {
+    "id": "v2ex:1235779",
+    "title": "[Codex 中转站] HyperAPI 的新老用户们，来领鸡蛋了",
+    "url": "https://www.v2ex.com/t/1235779",
+    "source": "v2ex",
+    "score": 138.0,
+    "published_at": "2026-08-20T01:57:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7674817329578606619",
+    "title": "面试官说\"打开你的AI工具\"——我才发现，他考的根本不是写代码",
+    "url": "https://juejin.cn/post/7674817329578606619",
+    "source": "juejin",
+    "score": 0.1467723,
+    "published_at": "2026-08-17T12:08:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675247670898032692",
+    "title": "DeepSeek Harness 插件：HTML 实时可视化编辑",
+    "url": "https://juejin.cn/post/7675247670898032692",
+    "source": "juejin",
+    "score": 10.12033383,
+    "published_at": "2026-08-18T17:27:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49325037",
+    "title": "The Chauffeur Problem",
+    "url": "https://engines.egr.uh.edu/episode/1495",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-16T23:55:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49371857",
+    "title": "Don't Paste the AI, please",
+    "url": "https://dontpastetheai.com/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-08-20T08:20:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:psxjb4",
     "title": "Understanding the limitations of Pubsub systems",
     "url": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
@@ -4946,26 +4996,6 @@
     "source": "hackernews",
     "score": 41.0,
     "published_at": "2026-08-17T14:18:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49330781",
-    "title": "A Preview of DuckDB v2.0",
-    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-    "source": "hackernews",
-    "score": 105.0,
-    "published_at": "2026-08-17T13:46:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49331222",
-    "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
-    "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-    "source": "hackernews",
-    "score": 102.0,
-    "published_at": "2026-08-17T14:07:59+00:00",
     "summary": "",
     "key_points": []
   }
