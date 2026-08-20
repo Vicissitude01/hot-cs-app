@@ -1,5 +1,65 @@
 [
   {
+    "id": "hackernews:49378305",
+    "title": "Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
+    "url": "https://kandelo.dev/20260819-demo/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-20T18:25:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49290082",
+    "title": "Gauguin, Descartes, Bayes: A Diurnal Golem's Brain",
+    "url": "https://dl.acm.org/doi/10.1145/3759429.3762631",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-13T18:30:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49378957",
+    "title": "The August 17 outage, and the work ahead",
+    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-20T19:22:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49378768",
+    "title": "Show HN: Huzzah – a novel approach to coding with AI",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-20T19:05:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49378243",
+    "title": "Consumer Rights Wiki",
+    "url": "https://consumerrights.wiki/w/Main_Page",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-20T18:19:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49378630",
+    "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+    "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-08-20T18:54:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49377155",
     "title": "AI at Home Part 2: Multi-GPU Drifting",
     "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
@@ -4936,66 +4996,6 @@
     "source": "hackernews",
     "score": 11.0,
     "published_at": "2026-08-17T18:34:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49330597",
-    "title": "Incident with Github.com",
-    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "source": "hackernews",
-    "score": 291.0,
-    "published_at": "2026-08-17T13:35:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49334544",
-    "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-    "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-08-17T17:25:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wya4zt",
-    "title": "A Preview of DuckDB v2.0",
-    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-17T11:13:25.964-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ltm5qj",
-    "title": "Starting a Decompilation Project from Zero: Claude Code and 51% of a 2001 GBA Game",
-    "url": "https://gambiconf.substack.com/p/starting-a-decompilation-project",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-17T11:10:21.748-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:k7myyp",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-08-17T09:39:34.042-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:akitaonrails/ai-memory",
-    "title": "ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
