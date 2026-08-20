@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:0rggrb",
+    "title": "Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)",
+    "url": "https://github.com/yaoshiu/opus",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-20T09:34:50.607-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fsd1mf",
+    "title": "The Idea Processor, or “What is the use case?”",
+    "url": "https://forum.malleable.systems/t/the-idea-processor-or-what-is-the-use-case/357",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-20T09:43:45.052-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:exrno8",
+    "title": "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years - Phoronix",
+    "url": "https://www.phoronix.com/news/X.Org-Server-26.1-RC1",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-20T08:32:05.380-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8cq6jl",
+    "title": "Going freestanding",
+    "url": "https://antonz.org/going-freestanding/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-20T09:35:27.468-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675540232994783251",
+    "title": "「速通Shell」Shell编程的错误处理与日志",
+    "url": "https://juejin.cn/post/7675540232994783251",
+    "source": "juejin",
+    "score": 1.46800925,
+    "published_at": "2026-08-19T14:17:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:santifer/career-ops",
+    "title": "career-ops",
+    "url": "https://github.com/santifer/career-ops",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49373884",
+    "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
+    "url": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-20T12:45:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49332754",
+    "title": "Bufo pulls the andon cord",
+    "url": "https://hatchet.run/blog/andon-cord",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-17T15:36:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49373269",
+    "title": "AI didn't erase the junior engineer's value, it increased it it",
+    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-08-20T11:42:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374503",
+    "title": "CI jobs artifacts should not be difficult",
+    "url": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-20T13:44:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49360140",
+    "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+    "url": "https://arxiv.org/abs/2504.09762",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-08-19T11:35:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374635",
+    "title": "Every Model Cheats",
+    "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-20T13:56:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374797",
+    "title": "Bun 1.4",
+    "url": "https://bun.com/blog/bun-v1.4",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-08-20T14:10:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374873",
+    "title": "An elliptic curve of rank ≥ 30",
+    "url": "https://elliptic-rank.icarm.cloud/curve/273",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-20T14:14:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49373932",
+    "title": "Xorg-Server 26.0.99.901",
+    "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-20T12:50:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49321515",
+    "title": "An American Mosaic (interactive map of ancestry census data)",
+    "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-16T16:32:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49348141",
+    "title": "Git at any scale",
+    "url": "https://cursor.com/blog/git-at-any-scale",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-08-18T16:26:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49348079",
+    "title": "Mojo is now open source",
+    "url": "https://www.modular.com/blog/mojo-open-source",
+    "source": "hackernews",
+    "score": 168.0,
+    "published_at": "2026-08-18T16:23:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49362689",
+    "title": "HTML Can Do That",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-08-19T15:11:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374965",
+    "title": "Slack Code",
+    "url": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-20T14:21:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374772",
+    "title": "Hacking with Claude on a $27 Smart Watch",
+    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-08-20T14:08:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374738",
+    "title": "Stwipe Acquires OpenWouter",
+    "url": "https://stwipe.com/",
+    "source": "hackernews",
+    "score": 108.0,
+    "published_at": "2026-08-20T14:04:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374920",
+    "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+    "url": "https://www.bbc.com/news/articles/clyq011414eo",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-08-20T14:18:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:q8whub",
     "title": "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
     "url": "https://www.datadoghq.com/blog/engineering/gitretriever/",
@@ -4766,236 +4996,6 @@
     "source": "v2ex",
     "score": 148.0,
     "published_at": "2026-08-17T01:56:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234880",
-    "title": "爱快被黑，速自查",
-    "url": "https://www.v2ex.com/t/1234880",
-    "source": "v2ex",
-    "score": 150.0,
-    "published_at": "2026-08-17T01:54:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234873",
-    "title": "沈腾的龙餐馆看着有些别扭呀",
-    "url": "https://www.v2ex.com/t/1234873",
-    "source": "v2ex",
-    "score": 156.0,
-    "published_at": "2026-08-17T01:41:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234971",
-    "title": "发个相亲很无语的吐槽",
-    "url": "https://www.v2ex.com/t/1234971",
-    "source": "v2ex",
-    "score": 202.0,
-    "published_at": "2026-08-17T05:24:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234869",
-    "title": "各位 v 友，什么时候几百块钱都不算钱了？",
-    "url": "https://www.v2ex.com/t/1234869",
-    "source": "v2ex",
-    "score": 240.0,
-    "published_at": "2026-08-17T01:37:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234866",
-    "title": "人生很迷茫，去 KTV 应聘男公关了，被要求减重到 125 斤，体脂率不超过 15%",
-    "url": "https://www.v2ex.com/t/1234866",
-    "source": "v2ex",
-    "score": 244.0,
-    "published_at": "2026-08-17T01:31:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234867",
-    "title": "有站友去看《牛来》了吗，太抽象了，想去品鉴一下",
-    "url": "https://www.v2ex.com/t/1234867",
-    "source": "v2ex",
-    "score": 262.0,
-    "published_at": "2026-08-17T01:32:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234938",
-    "title": "回看 41 岁程序员人生的三次“押注”",
-    "url": "https://www.v2ex.com/t/1234938",
-    "source": "v2ex",
-    "score": 286.0,
-    "published_at": "2026-08-17T03:30:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234841",
-    "title": "“万 1 免 5”股票 etf 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.17 日~8.24 日]",
-    "url": "https://www.v2ex.com/t/1234841",
-    "source": "v2ex",
-    "score": 292.0,
-    "published_at": "2026-08-17T00:29:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234854",
-    "title": "[Bytecat] 欢迎赛博领鸡蛋，注册就送 10 刀，叠加倍率可到 50 刀! 支持企业对接，稳定性价比~",
-    "url": "https://www.v2ex.com/t/1234854",
-    "source": "v2ex",
-    "score": 488.0,
-    "published_at": "2026-08-17T01:20:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673508580561649699",
-    "title": "别再用 nohup java -jar 了：Spring Boot 生产环境该怎么守护？",
-    "url": "https://juejin.cn/post/7673508580561649699",
-    "source": "juejin",
-    "score": 0.18499959,
-    "published_at": "2026-08-14T07:30:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673939385731022882",
-    "title": "前端完不完蛋我不知道，先爽了再说",
-    "url": "https://juejin.cn/post/7673939385731022882",
-    "source": "juejin",
-    "score": 0.24467083,
-    "published_at": "2026-08-15T14:58:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674645475095167028",
-    "title": "DeepSeek 调价正式生效：一夜涨 11 倍，靠低价薅羊毛的日子结束了",
-    "url": "https://juejin.cn/post/7674645475095167028",
-    "source": "juejin",
-    "score": 1.11784042,
-    "published_at": "2026-08-17T01:52:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674686524114944050",
-    "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
-    "url": "https://juejin.cn/post/7674686524114944050",
-    "source": "juejin",
-    "score": 1.62304075,
-    "published_at": "2026-08-17T05:29:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674372498315460658",
-    "title": "AI写长篇小说为什么30章必崩",
-    "url": "https://juejin.cn/post/7674372498315460658",
-    "source": "juejin",
-    "score": 0.49660531,
-    "published_at": "2026-08-16T09:09:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674802907378303028",
-    "title": "DeepSeek Harness必装的10个插件",
-    "url": "https://juejin.cn/post/7674802907378303028",
-    "source": "juejin",
-    "score": 2.71687952,
-    "published_at": "2026-08-17T06:57:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673978658780332083",
-    "title": "给 DeepSeek Harness 装个\"应用商店\"：一条命令，595 个插件随你逛",
-    "url": "https://juejin.cn/post/7673978658780332083",
-    "source": "juejin",
-    "score": 0.33835052,
-    "published_at": "2026-08-15T15:22:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674686524115353650",
-    "title": "为什么跳槽涨薪 30% 的时代彻底结束了？聊聊 2026 前端薪资的天花板",
-    "url": "https://juejin.cn/post/7674686524115353650",
-    "source": "juejin",
-    "score": 2.85078702,
-    "published_at": "2026-08-17T06:10:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674383173651824682",
-    "title": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
-    "url": "https://juejin.cn/post/7674383173651824682",
-    "source": "juejin",
-    "score": 1.36612134,
-    "published_at": "2026-08-17T00:53:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673809185193099300",
-    "title": "GLM5.3慢而稳，重点感谢DeepSeek衬托！",
-    "url": "https://juejin.cn/post/7673809185193099300",
-    "source": "juejin",
-    "score": 0.61850154,
-    "published_at": "2026-08-15T07:14:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673861180655026212",
-    "title": "DeepSeek Harness 最新邪修曝光！被吹成核弹的极简模式，真的夯吗？",
-    "url": "https://juejin.cn/post/7673861180655026212",
-    "source": "juejin",
-    "score": 0.59607833,
-    "published_at": "2026-08-15T16:33:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673413097325559843",
-    "title": "Jetpack Compose 8 月版正式发布，核心模块 1.12",
-    "url": "https://juejin.cn/post/7673413097325559843",
-    "source": "juejin",
-    "score": 0.41535875,
-    "published_at": "2026-08-14T00:36:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673872542772838451",
-    "title": "AI 时代 SVG 画图的潜力",
-    "url": "https://juejin.cn/post/7673872542772838451",
-    "source": "juejin",
-    "score": 0.872934,
-    "published_at": "2026-08-14T20:38:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674372498314936370",
-    "title": "一行代码集成 DWG/DXF 图纸查看：测量批注，数据不出站",
-    "url": "https://juejin.cn/post/7674372498314936370",
-    "source": "juejin",
-    "score": 1.3245424,
-    "published_at": "2026-08-16T06:30:49+00:00",
     "summary": "",
     "key_points": []
   }
