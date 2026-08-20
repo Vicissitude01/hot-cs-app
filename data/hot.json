@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:q8whub",
+    "title": "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
+    "url": "https://www.datadoghq.com/blog/engineering/gitretriever/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-20T08:03:09.452-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:juekuk",
+    "title": "How to fix Claude 5's token vomit",
+    "url": "https://zachahn.com/posts/1787191554",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-20T09:05:05.352-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sfi9te",
+    "title": "How a joke domain purchase turned into geopolitical warfare",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-20T07:21:41.581-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1235899",
+    "title": "chatgpt 邀请好友 1000 额度 速发邮箱",
+    "url": "https://www.v2ex.com/t/1235899",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-08-20T07:47:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:harry0703/MoneyPrinterTurbo",
+    "title": "MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49303545",
+    "title": "Show HN: Streambench – Native Mac Client for Kafka and NATS",
+    "url": "https://streambench.app",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-14T19:32:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374162",
+    "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+    "url": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-20T13:12:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374036",
+    "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+    "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-20T12:58:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374067",
+    "title": "UK internet age checks have boosted rogue adult sites, says Pornhub",
+    "url": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-08-20T13:01:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374287",
+    "title": "DiffusionGemma Technical Report",
+    "url": "https://arxiv.org/abs/2608.00146",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-20T13:24:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374269",
+    "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-08-20T13:23:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:vcqcgl",
     "title": "Why compiling Rust to WebAssembly is slow",
     "url": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
@@ -4886,116 +4996,6 @@
     "source": "juejin",
     "score": 1.3245424,
     "published_at": "2026-08-16T06:30:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673875524200808494",
-    "title": "让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南",
-    "url": "https://juejin.cn/post/7673875524200808494",
-    "source": "juejin",
-    "score": 1.10292572,
-    "published_at": "2026-08-16T02:25:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673897632196919348",
-    "title": "给运营导个 CSV，在 ksql 里用 \\copy 就够了",
-    "url": "https://juejin.cn/post/7673897632196919348",
-    "source": "juejin",
-    "score": 1.40336748,
-    "published_at": "2026-08-15T05:32:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673897632197001268",
-    "title": "鸿蒙健康教练接入蓝耘：一句话打卡，模型估热量，网关记账",
-    "url": "https://juejin.cn/post/7673897632197001268",
-    "source": "juejin",
-    "score": 0.69991607,
-    "published_at": "2026-08-15T05:34:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673810995882672128",
-    "title": "DeepSeek Harness开源第一天我就上手了——和Claude Code的差距比想象中大",
-    "url": "https://juejin.cn/post/7673810995882672128",
-    "source": "juejin",
-    "score": 1.2071866,
-    "published_at": "2026-08-14T11:23:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674215005011951654",
-    "title": "别再被 AI 骗了：我把腾讯云 4 个 Skill 做成了个「AI 打假侦探」，过程的一个小配置坑惨了我",
-    "url": "https://juejin.cn/post/7674215005011951654",
-    "source": "juejin",
-    "score": 4.38755002,
-    "published_at": "2026-08-16T15:19:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673855455463800847",
-    "title": "为什么越来越多人用 Pi ？ - 苏三说技术",
-    "url": "https://juejin.cn/post/7673855455463800847",
-    "source": "juejin",
-    "score": 3.17133597,
-    "published_at": "2026-08-15T01:54:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:agalwood/Motrix",
-    "title": "Motrix",
-    "url": "https://github.com/agalwood/Motrix",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cordiverse/cordis",
-    "title": "cordis",
-    "url": "https://github.com/cordiverse/cordis",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:immich-app/immich",
-    "title": "immich",
-    "url": "https://github.com/immich-app/immich",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:jundot/omlx",
-    "title": "omlx",
-    "url": "https://github.com/jundot/omlx",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:santifer/career-ops",
-    "title": "career-ops",
-    "url": "https://github.com/santifer/career-ops",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
