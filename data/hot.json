@@ -1,5 +1,35 @@
 [
   {
+    "id": "lobsters:dns8du",
+    "title": "Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat",
+    "url": "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-20T04:54:06.012-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49317965",
+    "title": "Free v4 front end for your v6 site",
+    "url": "https://v4-frontend.netiter.com/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-16T08:13:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49372583",
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-20T10:08:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ope7za",
     "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can",
     "url": "https://zerotistic.blog/posts/find-my-people-linux/",
@@ -4966,36 +4996,6 @@
     "source": "hackernews",
     "score": 10.0,
     "published_at": "2026-08-13T20:28:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49330215",
-    "title": "Show HN: Sokoban AI Solver",
-    "url": "https://mkornreich.me/projects/sokoban/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-17T13:07:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49330632",
-    "title": "GitHub down again? no PR access",
-    "url": "https://news.ycombinator.com/item?id=49330632",
-    "source": "hackernews",
-    "score": 173.0,
-    "published_at": "2026-08-17T13:37:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49331474",
-    "title": "How to put 170 atoms in an atom",
-    "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-08-17T14:21:25+00:00",
     "summary": "",
     "key_points": []
   }
