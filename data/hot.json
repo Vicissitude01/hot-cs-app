@@ -1,5 +1,85 @@
 [
   {
+    "id": "github-trending:akitaonrails/ai-memory",
+    "title": "ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49379550",
+    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-08-20T20:07:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49312797",
+    "title": "Fossilisation processes and our reading of animal antiquity",
+    "url": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00137-4",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-15T18:06:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49378446",
+    "title": "Why Aren't Smart People Happier?",
+    "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-20T18:38:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49379026",
+    "title": "GitHub, autoscaling, and the component substitution fallacy",
+    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-20T19:28:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49378950",
+    "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+    "url": "https://tidalcycles.org/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-20T19:21:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49378933",
+    "title": "SpacetimeDB: A Short Technical Review",
+    "url": "https://strn.cat/posts/spacetime/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-20T19:19:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49379253",
+    "title": "Stop eating lady gaga's oreos",
+    "url": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-08-20T19:46:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49378305",
     "title": "Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
     "url": "https://kandelo.dev/20260819-demo/",
@@ -4916,86 +4996,6 @@
     "source": "hackernews",
     "score": 94.0,
     "published_at": "2026-08-17T16:45:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49334991",
-    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-    "url": "https://arxiv.org/abs/2608.13759",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-17T17:54:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49272891",
-    "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
-    "url": "https://www.nature.com/articles/d41586-026-02498-1",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-08-12T14:26:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49335292",
-    "title": "How I Over-Engineered My Book",
-    "url": "https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-17T18:15:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49335001",
-    "title": "We Are Forking dotenvy into dotenv-ng",
-    "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-17T17:55:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49335017",
-    "title": "Llama.cpp v0.1.0",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-17T17:56:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49333344",
-    "title": "Judge sets framework for Nine PBS to retrieve archival data",
-    "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-08-17T16:11:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49333824",
-    "title": "Sun Clock",
-    "url": "https://sunclock.net/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-08-17T16:37:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49335600",
-    "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
-    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-17T18:34:09+00:00",
     "summary": "",
     "key_points": []
   }
