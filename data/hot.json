@@ -1,5 +1,45 @@
 [
   {
+    "id": "lobsters:ygsics",
+    "title": "Decoding Magic School Lunar's Save Game Format",
+    "url": "http://mistys-internet.website/blog/blog/2026/08/01/decoding-magic-school-lunars-save-game-format",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-20T17:18:54.482-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ikhwaz",
+    "title": "Emacs 31.1 will release on 8/24",
+    "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-20T11:58:11.479-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49381311",
+    "title": "Detecting scraper bots through scroll behaviour",
+    "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-20T22:47:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49335490",
+    "title": "In Which I Lose My Mind over Embeddings (HPLM Chapter 2)",
+    "url": "https://www.maayanroth.com/blog/posts/hundred-page-lm-book-chapter-2.html",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-17T18:26:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49380671",
     "title": "Scientists Release Biggest 2D Map of the Universe",
     "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
@@ -4956,46 +4996,6 @@
     "source": "hackernews",
     "score": 37.0,
     "published_at": "2026-08-17T19:56:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49336573",
-    "title": "AI;DR (AI; Didn't Read)",
-    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-    "source": "hackernews",
-    "score": 192.0,
-    "published_at": "2026-08-17T19:47:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49336304",
-    "title": "India has paved the way for charging merchants a fee on UPI transactions",
-    "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-08-17T19:25:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ttrnw5",
-    "title": "How Go detects struct copies with sync.noCopy",
-    "url": "https://func25.dev/posts/go-sync-nocopy/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-17T13:43:40.171-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49335216",
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-08-17T18:10:16+00:00",
     "summary": "",
     "key_points": []
   }
