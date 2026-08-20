@@ -1,5 +1,55 @@
 [
   {
+    "id": "lobsters:wphnca",
+    "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong - gingerBill",
+    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-20T12:22:35.131-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374830",
+    "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
+    "url": "https://github.com/paulsp94/omacosy",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-20T14:12:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49377249",
+    "title": "The Defense-Tech Bubble Is Headed for Consolidation",
+    "url": "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-20T17:01:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49377535",
+    "title": "URL shortener links stored in your ATProto PDS",
+    "url": "https://atpr.to/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-20T17:23:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49377660",
+    "title": "Show HN: We chased a weather balloon across Montana and never found it",
+    "url": "https://radi8.dev/blog/uplink/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-20T17:33:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ikeag0",
     "title": "A Personal Computer For Children Of All Cultures",
     "url": "https://www.deconstructconf.com/2019/ramsey-nasser-a-personal-computer-for-children-of-all-cultures",
@@ -4946,56 +4996,6 @@
     "source": "hackernews",
     "score": 55.0,
     "published_at": "2026-08-12T10:26:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49332751",
-    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-    "url": "https://speko.ai/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-08-17T15:36:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xhliz8",
-    "title": "Human Interface Guidelines from various platforms",
-    "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-08-16T14:56:03.732-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mekgva",
-    "title": "Stratum 1 PTP Grandmaster: CM4 + SR1723U10 (Part 1)",
-    "url": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-17T08:01:50.289-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vnpw9j",
-    "title": "Pony's Arena Allocator",
-    "url": "https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-08-16T18:48:45.737-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:irgjfw",
-    "title": "Build-time systemd schedule",
-    "url": "https://gvolpe.com/blog/systemd-schedule/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-17T02:49:03.855-05:00",
     "summary": "",
     "key_points": []
   }
