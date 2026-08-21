@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:pfnai9",
+    "title": "Survival Guide for a Censored Internet",
+    "url": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-20T21:42:17.234-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236027",
+    "title": "你的余额宝会放很多钱吗？",
+    "url": "https://www.v2ex.com/t/1236027",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-08-21T00:06:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236064",
+    "title": "我们开始倒班考勤了",
+    "url": "https://www.v2ex.com/t/1236064",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-08-21T02:08:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236041",
+    "title": "统计一下大家现在 vibe coding 的方案",
+    "url": "https://www.v2ex.com/t/1236041",
+    "source": "v2ex",
+    "score": 92.0,
+    "published_at": "2026-08-21T01:25:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675447922214191150",
+    "title": "做了 3 年 Spring Boot，老板让我一周搭个 AI Agent，上线当天被安全叫停：Java 团队落地 AI 的三道坎，我替你踩完了",
+    "url": "https://juejin.cn/post/7675447922214191150",
+    "source": "juejin",
+    "score": 0.27008274,
+    "published_at": "2026-08-19T02:23:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49329919",
+    "title": "Captain Zilog",
+    "url": "https://www.zilog.com/captain_zilog/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-17T12:42:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49383326",
+    "title": "Codex on AWS bedrock bug causing 10x charges",
+    "url": "https://github.com/openai/codex/issues/37674",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-21T03:17:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49383026",
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "source": "hackernews",
+    "score": 129.0,
+    "published_at": "2026-08-21T02:37:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1235817",
     "title": "想请教一下大家，都是怎么订阅 Codex 的？",
     "url": "https://www.v2ex.com/t/1235817",
@@ -4916,86 +4996,6 @@
     "source": "hackernews",
     "score": 29.0,
     "published_at": "2026-08-17T20:13:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49337392",
-    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-    "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-08-17T20:46:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49338953",
-    "title": "Puppy PPE",
-    "url": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-17T23:10:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49269966",
-    "title": "The Road to MS-DOS 2.0",
-    "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-12T09:57:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bx8zu1",
-    "title": "A practical workflow for LLM-assisted development",
-    "url": "https://yogthos.net/posts/2026-08-17-llm-workflow.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-17T16:45:53.106-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49338272",
-    "title": "'Buy Now, Pay Later' Lenders Pitch Loans for Needs Like Electricity and Rent",
-    "url": "https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-17T21:59:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5odlru",
-    "title": "How AI text watermarking works: a visual guide",
-    "url": "https://declaude.org/watermarking/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-17T11:49:04.146-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:j5xjf2",
-    "title": "Quake Shareware, a CD-ROM just a little too full",
-    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-17T17:58:03.027-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674826322238930982",
-    "title": "✌️ 让 Rust 再次伟大，pnpm 12 抛弃 TypeScript，移植 Rust 原地起飞！",
-    "url": "https://juejin.cn/post/7674826322238930982",
-    "source": "juejin",
-    "score": 0.85814868,
-    "published_at": "2026-08-17T05:33:49+00:00",
     "summary": "",
     "key_points": []
   }
