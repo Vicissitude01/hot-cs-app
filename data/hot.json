@@ -1,5 +1,45 @@
 [
   {
+    "id": "lobsters:zstki6",
+    "title": "Homebrew 68K Machine Has A PCI Bus",
+    "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-21T15:24:46.035-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49392877",
+    "title": "Church of the TigerBeetle: A Look at Tech Evangelism",
+    "url": "https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-21T19:35:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49392465",
+    "title": "Tumble Forth – from assembly to OS with C compiler",
+    "url": "https://tumbleforth.hardcoded.net/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-21T18:59:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49393051",
+    "title": "Quick impressions: A week of using Codex more than Claude",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-21T19:51:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49332812",
     "title": "Using an old Android phone as a music player",
     "url": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
@@ -4956,46 +4996,6 @@
     "source": "v2ex",
     "score": 146.0,
     "published_at": "2026-08-18T05:27:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49347178",
-    "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
-    "url": "https://github.com/therepanic/openleetcode",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-18T15:30:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49346444",
-    "title": "The coolest anti-surveillance tools at Defcon [video]",
-    "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-08-18T14:49:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49340710",
-    "title": "California's new tire efficiency rules could save drivers $1B a year",
-    "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-08-18T02:58:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49346135",
-    "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
-    "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-18T14:29:20+00:00",
     "summary": "",
     "key_points": []
   }
