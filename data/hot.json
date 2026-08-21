@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:hbjeir",
+    "title": "Announcing Rust 1.98.0",
+    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-20T19:38:21.813-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1235839",
+    "title": "做了一个删文字改剧情的游戏",
+    "url": "https://www.v2ex.com/t/1235839",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-08-20T04:07:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1235783",
+    "title": "手机选择",
+    "url": "https://www.v2ex.com/t/1235783",
+    "source": "v2ex",
+    "score": 98.0,
+    "published_at": "2026-08-20T02:04:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236025",
+    "title": "如何把尿道结石排出来?",
+    "url": "https://www.v2ex.com/t/1236025",
+    "source": "v2ex",
+    "score": 134.0,
+    "published_at": "2026-08-21T00:00:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675626442046832694",
+    "title": "三星安卓系统BUG排查记录：云闪付、铁路12306、个人所得税、中国移动等App，长期闪退的根本原因分析",
+    "url": "https://juejin.cn/post/7675626442046832694",
+    "source": "juejin",
+    "score": 0.94914759,
+    "published_at": "2026-08-19T16:05:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49330246",
+    "title": "Speeding Up the Plush Garbage Collector",
+    "url": "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-17T13:09:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49328758",
+    "title": "My Microscope Is a Dashcam",
+    "url": "https://xecaz.com/reverse.engineering/tomlovdm9/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-17T10:24:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49381896",
+    "title": "Stealth Model",
+    "url": "https://openrouter.ai/stealth/ox-alpha",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-08-20T23:56:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49382200",
+    "title": "It is a sign of the times that Amazon gets to call this fair use",
+    "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-21T00:34:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49382152",
+    "title": "There's no such thing as a small software team anymore",
+    "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-21T00:28:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49382041",
+    "title": "Copyright does not protect AI-generated content in EU",
+    "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+    "source": "hackernews",
+    "score": 77.0,
+    "published_at": "2026-08-21T00:15:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ygsics",
     "title": "Decoding Magic School Lunar's Save Game Format",
     "url": "http://mistys-internet.website/blog/blog/2026/08/01/decoding-magic-school-lunars-save-game-format",
@@ -4886,116 +4996,6 @@
     "source": "hackernews",
     "score": 8.0,
     "published_at": "2026-08-17T22:15:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49279146",
-    "title": "Intriguing Stories in Computer Science",
-    "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-12T21:56:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49338285",
-    "title": "Fairphone 6 and PostmarketOS working main camera",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-17T22:01:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49338459",
-    "title": "Bluesky draws its logo on screenshots",
-    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-17T22:20:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:flcpeu",
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-17T12:54:19.965-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49334209",
-    "title": "Cursor launches Origin, GitHub alternative",
-    "url": "https://cursor.com/changelog/origin-code-hosting",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-08-17T17:02:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49295179",
-    "title": "A simple fix for LLM tail latency",
-    "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-14T05:58:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49334409",
-    "title": "An update on leaving Gmail for Fastmail",
-    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-08-17T17:15:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49336909",
-    "title": "The Origin of Consciousness (2008)",
-    "url": "https://blog.plover.com/brain/Jaynes.html",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-17T20:12:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fx9pic",
-    "title": "AI;DR (AI; Didn’t Read)",
-    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-17T15:14:47.873-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49289898",
-    "title": "The oldest bar in every state",
-    "url": "https://www.businessinsider.com/oldest-bar-every-state",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-08-13T18:14:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49336672",
-    "title": "Will you have spent more of your life with computers than your family?",
-    "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-08-17T19:56:30+00:00",
     "summary": "",
     "key_points": []
   }
