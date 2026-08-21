@@ -1,5 +1,55 @@
 [
   {
+    "id": "lobsters:chhsuf",
+    "title": "Data races and the memory model in Go",
+    "url": "https://func25.dev/posts/go-memory-visibility/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-21T08:11:08.739-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49312903",
+    "title": "Four Levels of In-Place Initialization (Rust)",
+    "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-15T18:20:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49386699",
+    "title": "I'm Becoming AI-Blind",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-21T11:48:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49387856",
+    "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+    "url": "https://arxiv.org/abs/2608.18214",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-21T13:35:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49387497",
+    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+    "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-08-21T13:04:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:mfo0fd",
     "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
     "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
@@ -4946,56 +4996,6 @@
     "source": "hackernews",
     "score": 73.0,
     "published_at": "2026-08-18T07:51:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ykq7ym",
-    "title": "Rethinking Database Programming",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-18T03:34:54.508-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qhs0pn",
-    "title": "Encoding vcmpps and vcmppd",
-    "url": "https://www.corsix.org/content/encoding-vcmpps-vcmppd",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-18T00:28:48.361-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235234",
-    "title": "体验完 DeepSeek Harness，我打算放弃开发了两年的客户端",
-    "url": "https://www.v2ex.com/t/1235234",
-    "source": "v2ex",
-    "score": 114.0,
-    "published_at": "2026-08-18T03:06:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674910507414159403",
-    "title": "为什么同一段代码在 Safari 上永远有 Bug？",
-    "url": "https://juejin.cn/post/7674910507414159403",
-    "source": "juejin",
-    "score": 3.70240279,
-    "published_at": "2026-08-18T02:07:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49341411",
-    "title": "Exercise intensity modulates interorgan communication and is associated with",
-    "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-18T04:51:33+00:00",
     "summary": "",
     "key_points": []
   }
