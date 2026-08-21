@@ -1,5 +1,105 @@
 [
   {
+    "id": "github-trending:microsoft/onnxruntime",
+    "title": "onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:elder-plinius/OBLITERATUS",
+    "title": "OBLITERATUS",
+    "url": "https://github.com/elder-plinius/OBLITERATUS",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:protocolbuffers/protobuf",
+    "title": "protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:apache/maka",
+    "title": "maka",
+    "url": "https://github.com/apache/maka",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ruvnet/ruflo",
+    "title": "ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:TryGhost/Ghost",
+    "title": "Ghost",
+    "url": "https://github.com/TryGhost/Ghost",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:affaan-m/ECC",
+    "title": "ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:microsoft/TypeScript",
+    "title": "TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49394028",
+    "title": "Remotely Unlocking Electric Scooters",
+    "url": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-21T21:32:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49333557",
+    "title": "The Size of the World Wide Web",
+    "url": "https://www.worldwidewebsize.com/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-17T16:22:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49346135",
     "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
     "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
@@ -4896,106 +4996,6 @@
     "source": "juejin",
     "score": 0.18729977,
     "published_at": "2026-08-16T09:47:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49309248",
-    "title": "Evolve: An incremental game about evolving a civilization",
-    "url": "https://pmotschmann.github.io/Evolve/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-15T09:58:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49349159",
-    "title": "Show HN: macOS data protection keychain for Electron apps",
-    "url": "https://github.com/biw/keychain-store",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-18T17:25:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49348751",
-    "title": "Claude Code May–August 2026 weekly limits promotion",
-    "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-    "source": "hackernews",
-    "score": 210.0,
-    "published_at": "2026-08-18T17:02:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49349984",
-    "title": "How does IKEA come up with names for its products?",
-    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-18T18:11:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49349898",
-    "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-    "url": "https://github.com/RyanCodrai/turbovec",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-08-18T18:07:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49349147",
-    "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-    "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-    "source": "hackernews",
-    "score": 121.0,
-    "published_at": "2026-08-18T17:24:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49348627",
-    "title": "Why your Amazon order confirmation emails have become so unhelpful",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-18T16:54:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49348356",
-    "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-18T16:40:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49332495",
-    "title": "Ask HN: GitHub employees what's going on? Why?",
-    "url": "https://news.ycombinator.com/item?id=49332495",
-    "source": "hackernews",
-    "score": 114.0,
-    "published_at": "2026-08-17T15:19:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49348152",
-    "title": "Superpowers, Not Superintelligence",
-    "url": "https://bond.now/news/superpowers-not-superintelligence",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-18T16:27:41+00:00",
     "summary": "",
     "key_points": []
   }
