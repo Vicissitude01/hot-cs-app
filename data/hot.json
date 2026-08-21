@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:khphqe",
+    "title": "Bringing Primary Constructors to Dart",
+    "url": "https://dart.dev/blog/bringing-primary-constructors-to-dart",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-21T01:44:53.126-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236086",
+    "title": "[中转站] plus 炸了你们用什么？来我这 0.03 opus4.6，无敌平替",
+    "url": "https://www.v2ex.com/t/1236086",
+    "source": "v2ex",
+    "score": 80.0,
+    "published_at": "2026-08-21T02:39:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236047",
+    "title": "半夜腰疼",
+    "url": "https://www.v2ex.com/t/1236047",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-08-21T01:30:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675538244907221001",
+    "title": "我把 DeepSeek Harness 跑了一遍，终于知道它和 Codex 差在哪了",
+    "url": "https://juejin.cn/post/7675538244907221001",
+    "source": "juejin",
+    "score": 0.28200853,
+    "published_at": "2026-08-19T08:15:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675899462443122726",
+    "title": "DeepSeek Harness 这波，搞得全世界都在安装 Node.js",
+    "url": "https://juejin.cn/post/7675899462443122726",
+    "source": "juejin",
+    "score": 0.64613005,
+    "published_at": "2026-08-20T06:58:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49336358",
+    "title": "Version Control for Everything",
+    "url": "https://tyoverby.com/posts/version-control-for-everything-else/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-17T19:28:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49384180",
+    "title": "Japan tried to build an operating system for the world, the US intervened",
+    "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-08-21T05:31:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49384224",
+    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+    "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-21T05:39:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:umey8v",
     "title": "Btrfs Snapshot Integration in KDE",
     "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
@@ -4916,86 +4996,6 @@
     "source": "juejin",
     "score": 1.09838968,
     "published_at": "2026-08-17T07:12:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49339599",
-    "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
-    "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-08-18T00:29:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49285139",
-    "title": "Shattered skeleton is first confirmed death from trebuchet",
-    "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-13T12:47:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wlofzl",
-    "title": "The benchmarkpocalypse",
-    "url": "https://danluu.com/benchpocalypse/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-17T19:47:13.022-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:izkimy",
-    "title": "Retrofitting a build system into a compiler",
-    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-17T17:42:21.702-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234957",
-    "title": "ChatGPT 的重置让我有点烦了",
-    "url": "https://www.v2ex.com/t/1234957",
-    "source": "v2ex",
-    "score": 100.0,
-    "published_at": "2026-08-17T04:09:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234981",
-    "title": "个人是否应该投资购买 DGX Spark 之类的硬件来跑开源模型？既是自用，也是某种防止硬件涨价的投资？",
-    "url": "https://www.v2ex.com/t/1234981",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-08-17T05:56:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234887",
-    "title": "我的中转注册突破百人了，开启新一波福利放送！",
-    "url": "https://www.v2ex.com/t/1234887",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-08-17T02:07:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234960",
-    "title": "下次人口普查会在 10 亿人右吗",
-    "url": "https://www.v2ex.com/t/1234960",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-08-17T04:33:20+00:00",
     "summary": "",
     "key_points": []
   }
