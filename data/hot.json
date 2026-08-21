@@ -1,5 +1,15 @@
 [
   {
+    "id": "hackernews:49327408",
+    "title": "People of ACM – Russ Cox",
+    "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-17T07:12:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:pywde0",
     "title": "Felony Bench: Be AI, Do Crime",
     "url": "https://www.felonybench.com/",
@@ -4986,16 +4996,6 @@
     "source": "hackernews",
     "score": 110.0,
     "published_at": "2026-08-17T17:52:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49348136",
-    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
-    "url": "https://machine0.io",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-18T16:26:42+00:00",
     "summary": "",
     "key_points": []
   }
