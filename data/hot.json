@@ -1,5 +1,125 @@
 [
   {
+    "id": "lobsters:pywde0",
+    "title": "Felony Bench: Be AI, Do Crime",
+    "url": "https://www.felonybench.com/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-21T12:23:02.886-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5ddcd1",
+    "title": "War is not god, neither is AI",
+    "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-21T13:32:43.064-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49390206",
+    "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
+    "url": "https://github.com/aravpanwar/decayfmt",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-21T16:09:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49390066",
+    "title": "LLMs are proof that Unix won",
+    "url": "https://bastian.rieck.me/blog/2026/unix/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-21T15:59:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49390775",
+    "title": "Another better lower bound for n=17 square packing",
+    "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-21T16:50:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49390739",
+    "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+    "url": "https://github.com/proliferate-ai/proliferate",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-21T16:47:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49391348",
+    "title": "Galactic Compass 2: now with new augmented reality mode",
+    "url": "https://interconnected.org/home/2026/08/21/galactic",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-21T17:30:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374853",
+    "title": "A look under our trunk: what's in our compute",
+    "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-20T14:13:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49293983",
+    "title": "Quantifying the honey bee dance floor",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-14T02:01:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49392200",
+    "title": "Scientists release biggest 2D map of the universe",
+    "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-21T18:36:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49389441",
+    "title": "I ran Photoshop on a £0.60 computer chip",
+    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-08-21T15:17:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49357530",
+    "title": "AI boosted homework scores, then exam scores dropped: study",
+    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-08-19T06:13:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ry92nr",
     "title": "Unfortunately you sometimes need to do the thing",
     "url": "https://griffinberlste.in/blog/do-the-thing/",
@@ -4876,126 +4996,6 @@
     "source": "hackernews",
     "score": 3.0,
     "published_at": "2026-08-18T16:26:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49336392",
-    "title": "How I Under-Engineered My Book",
-    "url": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-08-17T19:31:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49348163",
-    "title": "Claude: Degraded Performance for Multiple Models",
-    "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-18T16:28:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49348055",
-    "title": "Apple announces changes for apps in the European Union",
-    "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-08-18T16:21:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8vihvm",
-    "title": "Shading Motion",
-    "url": "https://blog.maximeheckel.com/posts/shading-motion/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-18T07:11:07.312-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:phisnd",
-    "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
-    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-18T10:07:47.813-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:khm6np",
-    "title": "Why I reimplemented LVM (with worse guarantees)",
-    "url": "https://depot.dev/blog/why-i-reimplemented-lvm",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-18T09:08:36.322-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ttxwdz",
-    "title": "What software do you use daily in 2026?",
-    "url": "https://lobste.rs/s/ttxwdz",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-08-18T09:31:11.824-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674826322239258662",
-    "title": "开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透",
-    "url": "https://juejin.cn/post/7674826322239258662",
-    "source": "juejin",
-    "score": 0.27001312,
-    "published_at": "2026-08-17T06:00:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49346538",
-    "title": "Code-native generation of highly programmable 3D assets (2026)",
-    "url": "https://arxiv.org/abs/2607.22738",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-18T14:54:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49310602",
-    "title": "Splitting a Git Commit",
-    "url": "https://blog.gnoack.org/post/git-history-split",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-15T13:56:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49346312",
-    "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
-    "url": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-18T14:40:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49346404",
-    "title": "JPEG XL converter and .jxl viewer",
-    "url": "https://jpegxlconvert.com/en/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-18T14:46:36+00:00",
     "summary": "",
     "key_points": []
   }
