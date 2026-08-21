@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:qxvz7f",
+    "title": "Better Batteries",
+    "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-21T02:47:50.174-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vvdveb",
+    "title": "Vibe coding personal apps in mid-2026",
+    "url": "https://www.flourish.org/2026/08/personal-apps/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-21T02:16:33.318-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236151",
+    "title": "刚刚看到 Tibo 说 Codex 额度用的太快是 sub2api 的问题",
+    "url": "https://www.v2ex.com/t/1236151",
+    "source": "v2ex",
+    "score": 98.0,
+    "published_at": "2026-08-21T05:45:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676162994423119918",
+    "title": "从零封装一个合同审查助手：用 WorkBuddy + 腾讯云 OCR 三件套跑通 5 种格式合同的自动审阅",
+    "url": "https://juejin.cn/post/7676162994423119918",
+    "source": "juejin",
+    "score": 2.66442512,
+    "published_at": "2026-08-21T00:41:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49310857",
+    "title": "I Ported Moonshine to JavaScript",
+    "url": "https://petewarden.com/2026/08/15/why-i-ported-moonshine-to-javascript/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-15T14:26:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49384477",
+    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+    "url": "https://Argentic.network",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-21T06:24:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49384113",
+    "title": "Seed: Minimal, self-modifying agent harness",
+    "url": "https://github.com/vivekhaldar/seed",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-21T05:20:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49384716",
+    "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+    "url": "https://encore.dev/blog/firecracker-apple-silicon",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-21T06:59:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49384896",
+    "title": "The Lost Treasure of Sid Meier's Pirates",
+    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-21T07:23:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:khphqe",
     "title": "Bringing Primary Constructors to Dart",
     "url": "https://dart.dev/blog/bringing-primary-constructors-to-dart",
@@ -4906,96 +4996,6 @@
     "source": "hackernews",
     "score": 5.0,
     "published_at": "2026-08-15T20:19:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49323983",
-    "title": "Wellington second-hand bookstore's mysterious orders",
-    "url": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-16T21:40:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lqelb1",
-    "title": "Why BQN Wins",
-    "url": "https://github.com/codereport/max-odd-binary/blob/main/WHY_BQN_WINS.md",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-17T19:57:16.681-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1234926",
-    "title": "opencode go 的 deepseek 涨价并缩减了用量",
-    "url": "https://www.v2ex.com/t/1234926",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-08-17T03:17:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235180",
-    "title": "碰到这种熊孩子咋办?",
-    "url": "https://www.v2ex.com/t/1235180",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-08-18T01:29:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235140",
-    "title": "有没有人需要 Codex 获得 1,000 额度的邀请,有 3 个名额，需要的留下邮箱",
-    "url": "https://www.v2ex.com/t/1235140",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-08-17T15:28:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235163",
-    "title": "送永久码~~ 双屏工作多年，我最终还是自己写了一个「调暗屏幕」的工具",
-    "url": "https://www.v2ex.com/t/1235163",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-08-18T00:54:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235142",
-    "title": "女朋友说在我家呆着不舒服，再也不想来我家了",
-    "url": "https://www.v2ex.com/t/1235142",
-    "source": "v2ex",
-    "score": 170.0,
-    "published_at": "2026-08-17T15:46:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674624290600976411",
-    "title": "又一个华为天才少年，离职了！",
-    "url": "https://juejin.cn/post/7674624290600976411",
-    "source": "juejin",
-    "score": 1.48086418,
-    "published_at": "2026-08-17T12:33:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674794074013024310",
-    "title": "高级前端开发职业规划（2026—2035）",
-    "url": "https://juejin.cn/post/7674794074013024310",
-    "source": "juejin",
-    "score": 1.09838968,
-    "published_at": "2026-08-17T07:12:48+00:00",
     "summary": "",
     "key_points": []
   }
