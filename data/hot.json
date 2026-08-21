@@ -1,5 +1,75 @@
 [
   {
+    "id": "lobsters:ry92nr",
+    "title": "Unfortunately you sometimes need to do the thing",
+    "url": "https://griffinberlste.in/blog/do-the-thing/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-21T11:15:41.123-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49331391",
+    "title": "Does whispering to agents in docs help?",
+    "url": "https://passo.uno/if-you-are-an-agent-read-this/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-17T14:16:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49390463",
+    "title": "A self hosted AI software factory",
+    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-21T16:27:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49391389",
+    "title": "Rebuilding our Electron meeting-recording engine in Swift",
+    "url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-21T17:33:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49390308",
+    "title": "What happens when a GPU reads memory",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-21T16:16:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49390910",
+    "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+    "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-08-21T17:00:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49390427",
+    "title": "Kobo can run apps now",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-08-21T16:25:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:faggqv",
     "title": "The Atproto Spaces Alpha is Live",
     "url": "https://atproto.com/blog/atproto-spaces-alpha",
@@ -4926,76 +4996,6 @@
     "source": "hackernews",
     "score": 5.0,
     "published_at": "2026-08-18T14:46:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49347055",
-    "title": "One Oakland police officer made $490k in overtime",
-    "url": "https://oaklandside.org/2026/01/29/oakland-police-overtime/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-18T15:24:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wj7pei",
-    "title": "CSS-in-JS Arena Bamboo, StyleX and Panda on Pixel-Identical Apps",
-    "url": "https://github.com/gajus/css-in-js-arena",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-18T09:24:05.072-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49345843",
-    "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
-    "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-18T14:06:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49295118",
-    "title": "Oxford Electric Bell",
-    "url": "https://en.wikipedia.org/wiki/Oxford_Electric_Bell",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-14T05:46:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49345476",
-    "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-08-18T13:38:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49345263",
-    "title": "The Amazon Tax",
-    "url": "https://seths.blog/2026/08/the-amazon-tax/",
-    "source": "hackernews",
-    "score": 88.0,
-    "published_at": "2026-08-18T13:22:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qo7eyx",
-    "title": "CSS: the bomb inside your inbox",
-    "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-18T08:30:46.091-05:00",
     "summary": "",
     "key_points": []
   }
