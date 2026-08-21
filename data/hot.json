@@ -1,5 +1,135 @@
 [
   {
+    "id": "lobsters:5mlinc",
+    "title": "Small, native web tricks worth remembering",
+    "url": "https://htmlcat.net",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-21T09:32:54.139-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:am0xtj",
+    "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage",
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-21T09:29:38.398-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:3giezs",
+    "title": "Enabling the next-generation trait solver on nightly | Rust Blog",
+    "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-21T10:15:16.747-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:volcengine/OpenViking",
+    "title": "OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:chaitanyagiri/munder-difflin",
+    "title": "munder-difflin",
+    "url": "https://github.com/chaitanyagiri/munder-difflin",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49388682",
+    "title": "WPD won't replace stolen Flock cameras, citing public trust",
+    "url": "https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-21T14:27:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49388694",
+    "title": "Zig's Io.Threaded Is Neat",
+    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-21T14:28:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49387221",
+    "title": "Nothing Doing",
+    "url": "https://www.futilitycloset.com/2026/08/10/nothing-doing-12/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-21T12:40:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49321549",
+    "title": "John Berger: From Life by Tom Overton review – a vibrant biography",
+    "url": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-16T16:37:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49387915",
+    "title": "Getting silly with C, part and((int*)-8)[3]",
+    "url": "https://blog.coredump.cx/p/getting-silly-with-c-part-and-int1",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-21T13:40:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49389491",
+    "title": "The B-right/V R2 Operating System",
+    "url": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-21T15:20:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49389392",
+    "title": "c100",
+    "url": "https://caligra.com/c100/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-21T15:14:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49388752",
+    "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-08-21T14:31:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:zcgvtz",
     "title": "Music theory for programmers",
     "url": "https://runjs.app/blog/music-theory-for-programmers",
@@ -4866,136 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-08-18T13:18:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49344825",
-    "title": "Using the railway network as a flatbed scanner",
-    "url": "https://philo.gay/linecam/",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-08-18T12:43:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:agafnk",
-    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-    "url": "https://arxiv.org/pdf/2608.13759",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-18T07:16:41.027-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hisxut",
-    "title": "Fairphone 6 + PostmarketOS working main camera",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-18T07:29:02.109-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6prwje",
-    "title": "Tsampi BFT: Leaderless One-Round Voting with Parameterized Finality",
-    "url": "https://www.tsampi.com/tsampi-bft-1.1.pdf",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-18T07:10:59.967-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nsywuo",
-    "title": "How I browse the Web with uBlock (Hard Mode)",
-    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-18T07:30:18.351-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:n7i1jn",
-    "title": "Using the railway network as a flatbed scanner",
-    "url": "https://philo.gay/linecam/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-08-18T06:42:04.403-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49344643",
-    "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-    "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-18T12:22:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49344114",
-    "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-    "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-08-18T11:27:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49272631",
-    "title": "Teaching my kid to code with a modern MUD",
-    "url": "https://tau.dev/2026/08/07/canon",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-08-12T14:07:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jin8t5",
-    "title": "Selective Applicative Functors",
-    "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-17T21:36:25.169-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:OpenCut-app/OpenCut",
-    "title": "OpenCut",
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:genlayerlabs/genlayer-project-boilerplate",
-    "title": "genlayer-project-boilerplate",
-    "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:bojieli/ai-agent-book",
-    "title": "ai-agent-book",
-    "url": "https://github.com/bojieli/ai-agent-book",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
