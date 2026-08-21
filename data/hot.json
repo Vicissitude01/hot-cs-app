@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:faggqv",
+    "title": "The Atproto Spaces Alpha is Live",
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-21T07:32:51.259-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676098169974292530",
+    "title": "16 个超火的 DeepSeek Harness 插件，大肥鱼已经落后 N 个版本了。。。",
+    "url": "https://juejin.cn/post/7676098169974292530",
+    "source": "juejin",
+    "score": 2.11492968,
+    "published_at": "2026-08-21T03:28:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49390099",
+    "title": "I Just Want to Search",
+    "url": "https://www.0xsid.com/blog/just-want-to-search",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-21T16:00:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49323227",
+    "title": "Making stinkarm stink less, or more?",
+    "url": "https://xnacly.me/posts/2026/making-stinkarm-stink-less/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-16T20:12:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49389952",
+    "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
+    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-21T15:51:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49389339",
+    "title": "Code Obfuscation via Local Mixing",
+    "url": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-21T15:11:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49388963",
+    "title": "I came to write THAT paper with Leslie Lamport",
+    "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-21T14:46:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49389430",
+    "title": "Felony Bench",
+    "url": "https://www.felonybench.com/",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-08-21T15:17:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49389524",
+    "title": "Cancer-Related Mortality Among US Pilots and Flight Attendants",
+    "url": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-08-21T15:23:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49389565",
+    "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+    "url": "https://canews24.online/?p=71",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-08-21T15:25:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49390132",
+    "title": "Omacom Foundation Launches with $8M",
+    "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-08-21T16:03:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:5mlinc",
     "title": "Small, native web tricks worth remembering",
     "url": "https://htmlcat.net",
@@ -4886,116 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-08-18T08:30:46.091-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49345091",
-    "title": "Show HN: A local MitM proxy to control TLS fingerprints",
-    "url": "https://github.com/ytkoka/impersonate-proxy",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-18T13:07:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49345094",
-    "title": "Kent Beck: Composable Tests",
-    "url": "https://newsletter.kentbeck.com/p/composable-tests",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-18T13:08:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49345070",
-    "title": "Deus Ex creator Warren Spector is retiring from game development",
-    "url": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-18T13:06:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49345320",
-    "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
-    "url": "https://github.com/pitiflautico/neobrowser",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-18T13:25:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49345013",
-    "title": "Things That Used to Be Normal and Are Now a Luxury",
-    "url": "https://albertogalca.com/5-things-that-used-to-be-normal-and-are-now-a-luxury",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-18T13:01:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49344654",
-    "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
-    "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-08-18T12:23:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49345438",
-    "title": "A group of Gandalfs protest outside the home of Peter Thiel in Argentina",
-    "url": "https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-18T13:35:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49305969",
-    "title": "Baking a Model: A Metaphor for LLM Training",
-    "url": "https://newsletter.kentbeck.com/p/baking-a-model",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-14T23:46:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49345154",
-    "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
-    "url": "https://github.com/mukundzha/avouch",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-18T13:13:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49344811",
-    "title": "Fairphone is now officially available in the United States",
-    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-08-18T12:42:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49345220",
-    "title": "Fixing a Bricked Framework Laptop",
-    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-18T13:18:40+00:00",
     "summary": "",
     "key_points": []
   }
