@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:mfo0fd",
+    "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+    "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-21T07:47:30.402-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ittn74",
+    "title": "What are you doing this weekend?",
+    "url": "https://lobste.rs/s/ittn74",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-21T06:47:03.677-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:c9xng0",
+    "title": "The road to ACID transactions in Cassandra 6",
+    "url": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-21T07:08:34.779-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dyswyz",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-08-21T07:05:00.528-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676301268526530560",
+    "title": "在这个独属于ai的时代，我终究是被裁员了",
+    "url": "https://juejin.cn/post/7676301268526530560",
+    "source": "juejin",
+    "score": 5.69439819,
+    "published_at": "2026-08-21T09:21:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49318718",
+    "title": "Siemens PC-X (2015)",
+    "url": "https://www.geekdot.com/siemens-pc-x/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-16T10:28:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49386895",
+    "title": "Felony charges for citizen deleting phone data at US Border",
+    "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-08-21T12:10:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49319733",
+    "title": "The Mystery of Dark Oxygen",
+    "url": "https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-16T13:11:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49386383",
+    "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
+    "url": "https://github.com/yaroslav/kino",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-21T11:06:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49386659",
+    "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+    "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-08-21T11:43:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49385994",
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "url": "https://annas-archive.pk/blog/physical-destruction.html",
+    "source": "hackernews",
+    "score": 159.0,
+    "published_at": "2026-08-21T10:05:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:dxjbaj",
     "title": "Bazzite Deck 44 Launches Today",
     "url": "https://universal-blue.discourse.group/t/bazzites-biggest-update-deck-44-has-launched-happy-birthday-to-universal-blue/12373",
@@ -4886,116 +4996,6 @@
     "source": "hackernews",
     "score": 10.0,
     "published_at": "2026-08-18T04:51:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49311115",
-    "title": "Ranking the Most Brilliantly Colored Birds with Data",
-    "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-15T14:55:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ih4bmy",
-    "title": "Biboumi – XMPP gateway to IRC",
-    "url": "https://biboumi.codeberg.page/doc/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-18T02:37:53.232-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235241",
-    "title": "中转站真赚麻了",
-    "url": "https://www.v2ex.com/t/1235241",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-08-18T03:21:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49341774",
-    "title": "Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028",
-    "url": "https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-18T05:51:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49318607",
-    "title": "Climbing Guide as a Shared Infrastructure",
-    "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-16T10:10:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235158",
-    "title": "#抽奖｜“万一免五”低佣低两融老倔驴开户巨靠谱！ 抽解压神器—灵狐指尖陀螺 3 个～～[39 期]",
-    "url": "https://www.v2ex.com/t/1235158",
-    "source": "v2ex",
-    "score": 88.0,
-    "published_at": "2026-08-18T00:17:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235193",
-    "title": "韩国生育率这事 我看国内宣传的主要是外取，似乎不仅仅是这样",
-    "url": "https://www.v2ex.com/t/1235193",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-08-18T01:50:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49288129",
-    "title": "The 37signals Manager Playbook",
-    "url": "https://basecamp.com/managers",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-08-13T16:12:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235023",
-    "title": "完全隐蔽，终端里打德州扑克",
-    "url": "https://www.v2ex.com/t/1235023",
-    "source": "v2ex",
-    "score": 76.0,
-    "published_at": "2026-08-17T07:43:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235175",
-    "title": "《牛来》电影为什么爆火？以及：这样是真实能过审批的吗？",
-    "url": "https://www.v2ex.com/t/1235175",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-08-18T01:15:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49324256",
-    "title": "Ghosts of the Past and Devils of the Present",
-    "url": "https://thenewcuriosityshop.substack.com/p/ghosts-of-the-past-and-devils-of",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-16T22:11:43+00:00",
     "summary": "",
     "key_points": []
   }
