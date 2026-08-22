@@ -1,5 +1,45 @@
 [
   {
+    "id": "lobsters:mbmn1f",
+    "title": "You should never be angry at work",
+    "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-22T07:41:39.341-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675272903248920595",
+    "title": "国产模型越来越强了：DeepSeek V4、Kimi K3 与 GLM 最新进展",
+    "url": "https://juejin.cn/post/7675272903248920595",
+    "source": "juejin",
+    "score": 0.21442335,
+    "published_at": "2026-08-19T02:08:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49392099",
+    "title": "How Thailand Resisted Colonization",
+    "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-08-21T18:28:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49398904",
+    "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+    "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-22T12:07:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1236328",
     "title": "扫拖机器人 哪款比较好？",
     "url": "https://www.v2ex.com/t/1236328",
@@ -4956,46 +4996,6 @@
     "source": "juejin",
     "score": 0.33589146,
     "published_at": "2026-08-18T02:15:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674123634786484260",
-    "title": "破坏性更新 - 解读 Jetpack Compose 1.12",
-    "url": "https://juejin.cn/post/7674123634786484260",
-    "source": "juejin",
-    "score": 0.18965627,
-    "published_at": "2026-08-16T15:06:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674574367976046655",
-    "title": "AI 编程工程化：实战——从 0 到 1 搭建 AI 编程工作流",
-    "url": "https://juejin.cn/post/7674574367976046655",
-    "source": "juejin",
-    "score": 0.1786235,
-    "published_at": "2026-08-17T04:00:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49295071",
-    "title": "Looking for Missed Alarm Bugs in a Formal Verification Tool",
-    "url": "https://blog.regehr.org/archives/2124",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-14T05:37:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:l5rmvg",
-    "title": "Susan Kare: Designing Icons & Graphics For the Original Mac",
-    "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-19T00:25:07.863-05:00",
     "summary": "",
     "key_points": []
   }
