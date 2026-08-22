@@ -1,5 +1,35 @@
 [
   {
+    "id": "lobsters:eyaz5f",
+    "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+    "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-22T11:04:51.303-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qvlroc",
+    "title": "nss-userhosts - hosts files for unprivileged users",
+    "url": "https://codeberg.org/felixs/nss-userhosts",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-22T10:56:18.816-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49400408",
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "url": "https://quantumi.sh/public/labs.html",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-08-22T14:54:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:2mvgzt",
     "title": "InjectionBunny, a NTFS3 SUID injection for privilege escalation",
     "url": "https://lore.kernel.org/ntfs3/CAGBKPgPiXyKWtjgYSACnugmG1XPs=mPg-Zu-xQziUZ1k921+qA@mail.gmail.com/T/#mc251816dfcb7d4dcbf07368f0d288dbfb1b8e1c9",
@@ -4966,36 +4996,6 @@
     "source": "lobsters",
     "score": 1.0,
     "published_at": "2026-08-19T05:16:54.678-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dajsxn",
-    "title": "Solo: a .so loader for static Linux binaries",
-    "url": "https://github.com/pg83/solo",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-19T04:34:14.811-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235528",
-    "title": "[BeefAPI] 已稳定运行 4 个月， 0 客诉｜ Claude/GPT 平价中转，新用户评论区留 id 送 5 刀额度",
-    "url": "https://www.v2ex.com/t/1235528",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-08-19T03:08:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674461849706381363",
-    "title": "奇耻大辱,我的网站被挂马,服务器已沦陷三个月",
-    "url": "https://juejin.cn/post/7674461849706381363",
-    "source": "juejin",
-    "score": 0.18805105,
-    "published_at": "2026-08-16T15:44:29+00:00",
     "summary": "",
     "key_points": []
   }
