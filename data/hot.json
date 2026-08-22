@@ -1,5 +1,45 @@
 [
   {
+    "id": "lobsters:er8kot",
+    "title": "The immortal 1984 Macintosh (restoration diary)",
+    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-22T18:17:44.833-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236404",
+    "title": "白菜用甲醛防腐..还有啥是安全的吗",
+    "url": "https://www.v2ex.com/t/1236404",
+    "source": "v2ex",
+    "score": 60.0,
+    "published_at": "2026-08-22T08:00:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49373822",
+    "title": "Conway's Game of Life in real life",
+    "url": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-08-20T12:40:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49404380",
+    "title": "NanoGPT Speedrun Frontier",
+    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-22T22:14:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49402202",
     "title": "Thinking in Python by Bruce Eckel",
     "url": "https://thinkinginpython.com/",
@@ -4956,46 +4996,6 @@
     "source": "hackernews",
     "score": 97.0,
     "published_at": "2026-08-19T18:33:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:smrw3n",
-    "title": "Go 1.27 is released - The Go Programming Language",
-    "url": "https://go.dev/blog/go1.27",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-08-19T12:53:45.830-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:i4lxyt",
-    "title": "Plain Text Accounting is Pretty Cool",
-    "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-08-19T11:55:49.945-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49364789",
-    "title": "Cop Explains Why He Used License Plate Reader to Stalk Woman",
-    "url": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-19T17:50:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49364223",
-    "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-    "url": "https://demo.frugaltokens.com/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-08-19T17:07:35+00:00",
     "summary": "",
     "key_points": []
   }
