@@ -1,5 +1,35 @@
 [
   {
+    "id": "lobsters:2mvgzt",
+    "title": "InjectionBunny, a NTFS3 SUID injection for privilege escalation",
+    "url": "https://lore.kernel.org/ntfs3/CAGBKPgPiXyKWtjgYSACnugmG1XPs=mPg-Zu-xQziUZ1k921+qA@mail.gmail.com/T/#mc251816dfcb7d4dcbf07368f0d288dbfb1b8e1c9",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-22T10:25:07.555-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675272903249625107",
+    "title": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
+    "url": "https://juejin.cn/post/7675272903249625107",
+    "source": "juejin",
+    "score": 1.26364406,
+    "published_at": "2026-08-19T03:16:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49397947",
+    "title": "Embedded AI",
+    "url": "https://nostarch.com/embedded-ai",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-22T09:07:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:zibquu",
     "title": "There continue to be reasons for software to be slow",
     "url": "https://typesanitizer.com/blog/performance-issues.html",
@@ -4966,36 +4996,6 @@
     "source": "juejin",
     "score": 0.18805105,
     "published_at": "2026-08-16T15:44:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49300272",
-    "title": "Activation Energy is a good model for a lot of things",
-    "url": "https://homosabiens.substack.com/p/activation-energy-is-a-good-model",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-14T15:40:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xftgtd",
-    "title": "a filename when none exists",
-    "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-19T02:29:33.007-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235516",
-    "title": "读程序人的 7 年有感",
-    "url": "https://www.v2ex.com/t/1235516",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-08-19T02:45:32+00:00",
     "summary": "",
     "key_points": []
   }
