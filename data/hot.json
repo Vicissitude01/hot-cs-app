@@ -1,5 +1,75 @@
 [
   {
+    "id": "lobsters:lzgbrv",
+    "title": "The cool things of Gleam",
+    "url": "https://a.baez.link/3mtdbbp2dmc27",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-22T01:16:08.504-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ku4v3b",
+    "title": "Compile-Time Improvements in LLVM 23",
+    "url": "https://aengelke.net/llvm23-ct.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-22T01:37:19.262-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236270",
+    "title": "[送码] 那个爱看星星的小孩，三十年后终于奖励了自己一个大玩具",
+    "url": "https://www.v2ex.com/t/1236270",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-08-21T10:39:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236332",
+    "title": "网传：程序员失业后，被离婚周期是半年，可信度多少？",
+    "url": "https://www.v2ex.com/t/1236332",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-08-22T00:12:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236307",
+    "title": "迁到 DeepSeek Harness 后，我发现开发团队可以裁掉了",
+    "url": "https://www.v2ex.com/t/1236307",
+    "source": "v2ex",
+    "score": 58.0,
+    "published_at": "2026-08-21T14:38:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49391661",
+    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+    "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-21T17:54:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49396590",
+    "title": "GPT 5.6 Sol 20% price reduction",
+    "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-08-22T04:33:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:bhzp2z",
     "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
     "url": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
@@ -4926,76 +4996,6 @@
     "source": "hackernews",
     "score": 13.0,
     "published_at": "2026-08-19T01:22:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49355606",
-    "title": "OpenLogi",
-    "url": "https://openlogi.org/en",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-19T01:58:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49355825",
-    "title": "Meta's blockbuster trial draws parallels to big tobacco",
-    "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-19T02:24:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vbaang",
-    "title": "dgit: Git forge on Durable Objects",
-    "url": "https://github.com/littledivy/dgit",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-18T12:41:01.585-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ljhgcd",
-    "title": "Incident Report for GitHub outage on 2026-08-17",
-    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-18T15:18:46.617-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:m0okh1",
-    "title": "Mastodon 5.0: Laying the foundation",
-    "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-08-18T19:03:41.500-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235236",
-    "title": "我又来种草了，推荐电动车/电摩都从铅酸电池换成锂电池",
-    "url": "https://www.v2ex.com/t/1235236",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-08-18T03:14:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235213",
-    "title": "买件衣服退了 3 次，我终于把自己买麻了",
-    "url": "https://www.v2ex.com/t/1235213",
-    "source": "v2ex",
-    "score": 124.0,
-    "published_at": "2026-08-18T02:36:23+00:00",
     "summary": "",
     "key_points": []
   }
