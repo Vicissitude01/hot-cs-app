@@ -1,5 +1,35 @@
 [
   {
+    "id": "lobsters:twaqbs",
+    "title": "Guitar Tuner (2015)",
+    "url": "https://aerotwist.com/blog/guitar-tuner/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-21T22:13:04.773-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236256",
+    "title": "多年后回想起来，人们可能会发现，让程序员指挥 AI 写代码，可能是我们人类走过的一段弯路。",
+    "url": "https://www.v2ex.com/t/1236256",
+    "source": "v2ex",
+    "score": 70.0,
+    "published_at": "2026-08-21T10:02:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49396086",
+    "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+    "url": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-22T02:37:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gwktul",
     "title": "Zero-Knowledge Proof of Wasta with Applications in Lebanon",
     "url": "https://eprint.gacr.info/2025/003.pdf",
@@ -4966,36 +4996,6 @@
     "source": "hackernews",
     "score": 26.0,
     "published_at": "2026-08-19T00:28:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ap9w8i",
-    "title": "When str.lower() is a security vulnerability in Python",
-    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-18T17:57:41.264-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49353618",
-    "title": "Programmable Property-Based Testing",
-    "url": "https://dl.acm.org/doi/10.1145/3828685",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-18T22:22:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49353603",
-    "title": "Who owns the code?",
-    "url": "https://whoownsthecode.com/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-08-18T22:21:30+00:00",
     "summary": "",
     "key_points": []
   }
