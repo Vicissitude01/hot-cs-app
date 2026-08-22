@@ -1,5 +1,125 @@
 [
   {
+    "id": "lobsters:pdx6jg",
+    "title": "Exim 4.100 released",
+    "url": "https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-21T15:54:08.896-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236141",
+    "title": "由于爱快拉跨，准备全面更换为 ros，并把家庭网络架构重构一下",
+    "url": "https://www.v2ex.com/t/1236141",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-08-21T04:55:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236157",
+    "title": "似乎找到了自己在 V 站的定位",
+    "url": "https://www.v2ex.com/t/1236157",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-08-21T06:01:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236222",
+    "title": "ChatGPT 5X 一个月 800 多舍不得",
+    "url": "https://www.v2ex.com/t/1236222",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-08-21T08:26:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236273",
+    "title": "大家对最近的 12306 两人三张票三座 怎么看,个人反对!",
+    "url": "https://www.v2ex.com/t/1236273",
+    "source": "v2ex",
+    "score": 100.0,
+    "published_at": "2026-08-21T10:58:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236071",
+    "title": "苹果 9 月初 iphone18 发布会， iphone17 会降价？",
+    "url": "https://www.v2ex.com/t/1236071",
+    "source": "v2ex",
+    "score": 104.0,
+    "published_at": "2026-08-21T02:17:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49326852",
+    "title": "Show HN: Rex, a parallel functional language for scientific workflows",
+    "url": "https://github.com/peterkelly/rex",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-17T05:28:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49376769",
+    "title": "Everyone says assembly is untyped—everyone is wrong",
+    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-08-20T16:22:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49376197",
+    "title": "Autolith: A programming agent with a live runtime",
+    "url": "https://www.lambda-symbolics.com/autolith",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-20T15:40:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49391553",
+    "title": "OTel isn't going well (and I made a spreadsheet about it)",
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-21T17:45:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49395171",
+    "title": "HN: The Good Parts (2016)",
+    "url": "https://danluu.com/hn-comments/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-21T23:53:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49393052",
+    "title": "Rust Glancer: Rust LSP using 100x less RAM",
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-08-21T19:51:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49395040",
     "title": "Paul Atkins Misreads Adam Smith and the American Founding",
     "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
@@ -4876,126 +4996,6 @@
     "source": "hackernews",
     "score": 3.0,
     "published_at": "2026-08-18T21:08:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49352794",
-    "title": "Companies promote incompetent employees to management tolimit damage they can do",
-    "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-18T21:13:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:aqwiot",
-    "title": "Organizing in Layer 8 – Building Tech in Democratic Socialists of America",
-    "url": "https://www.youtube.com/watch?v=-koLM6yT5FY",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-18T13:39:18.293-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49321298",
-    "title": "Being Ambitious and Being a Dad",
-    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-16T16:08:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49352806",
-    "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-18T21:14:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:omsqyf",
-    "title": "Experiment in reducing target directory size on nightly",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-18T13:39:06.108-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7673804310606889023",
-    "title": "「速通Shell」Shell 循环与遍历",
-    "url": "https://juejin.cn/post/7673804310606889023",
-    "source": "juejin",
-    "score": 0.18358461,
-    "published_at": "2026-08-15T12:50:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49308058",
-    "title": "Mycorrhizal Infrastructure Map",
-    "url": "https://a-hidden-infrastructure.spun.earth/map",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-15T05:59:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49351330",
-    "title": "Norway Should Buy OpenAI",
-    "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-    "source": "hackernews",
-    "score": 122.0,
-    "published_at": "2026-08-18T19:30:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49351324",
-    "title": "Beware Management Consultants",
-    "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-    "source": "hackernews",
-    "score": 91.0,
-    "published_at": "2026-08-18T19:29:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:loltt2",
-    "title": "Odin's New Inline Assembly Templates",
-    "url": "https://odin-lang.org/docs/inline-asm/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-18T14:20:45.217-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49350031",
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-18T18:14:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49350637",
-    "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
-    "url": "https://pantheongpu.com/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-18T18:47:51+00:00",
     "summary": "",
     "key_points": []
   }
