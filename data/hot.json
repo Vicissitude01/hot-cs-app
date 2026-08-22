@@ -1,5 +1,145 @@
 [
   {
+    "id": "lobsters:qpm7tl",
+    "title": "PiKVM project has gained support for web-camera forwarding",
+    "url": "https://docs.pikvm.org/camera/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-22T13:41:43.723-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:a23bk3",
+    "title": "NetBSD and my life (2005)",
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-22T14:08:47.868-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:obra/superpowers",
+    "title": "superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mattpocock/skills",
+    "title": "skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49389846",
+    "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+    "url": "https://www.pianoify.net/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-21T15:44:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49364296",
+    "title": "Show HN: terminal-code – VS Code inside the terminal",
+    "url": "https://terminal-code.com",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-08-19T17:13:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49393537",
+    "title": "The Creation of Abulafia",
+    "url": "https://blog.veitheller.de/abulafia.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-21T20:42:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49392536",
+    "title": "One night in Uzbekistan: Why was this one data point so influential?",
+    "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-21T19:05:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49352470",
+    "title": "Mythic's analog compute-in-memory architecture",
+    "url": "https://www.mythic.ai",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-18T20:47:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49374729",
+    "title": "Guess which of these LLM outputs is watermarked",
+    "url": "https://sgoedecke.github.io/watermark-quiz/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-08-20T14:03:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49402781",
+    "title": "NetBSD and My Life (2005)",
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-22T19:07:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49387959",
+    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-08-21T13:43:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49402189",
+    "title": "Scrap",
+    "url": "https://twitter.com/moxie/status/2091218652133732491",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-08-22T18:08:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49402741",
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-08-22T19:04:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ssw0gv",
     "title": "An arcade fighting game over SSH",
     "url": "https://sshfighter.com",
@@ -4856,146 +4996,6 @@
     "source": "hackernews",
     "score": 10.0,
     "published_at": "2026-08-16T13:12:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49363587",
-    "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
-    "url": "https://arxiv.org/abs/2503.08679",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-19T16:18:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49363668",
-    "title": "Extensible Software in the Age of LLMs",
-    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-19T16:26:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gmherj",
-    "title": "SQLite for Everything",
-    "url": "https://joecode.com/2026-08-19-sqlite3/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-19T10:17:39.350-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vt7qpp",
-    "title": "Opinions About Compiler Building",
-    "url": "https://programmingsimplicity.substack.com/p/opinions-about-compiler-building",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-19T10:18:20.878-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49362728",
-    "title": "Mathematics in the Age of AI",
-    "url": "https://arxiv.org/abs/2608.16753",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-19T15:14:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49362887",
-    "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
-    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-08-19T15:28:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49362401",
-    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-    "url": "https://ornith.ai/ornith_1_5.html",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-08-19T14:48:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49362934",
-    "title": "Remote workers report the highest well-being in study of 7,700 employees",
-    "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-08-19T15:32:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49363710",
-    "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-    "url": "https://github.com/onecli/onecli",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-19T16:29:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49363433",
-    "title": "Civic Hygiene – avoid building technologies that could be used by a police state",
-    "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
-    "source": "hackernews",
-    "score": 88.0,
-    "published_at": "2026-08-19T16:07:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674870309704351759",
-    "title": "写了三天 Next.js，我的 React 世界观被拆了又装回去",
-    "url": "https://juejin.cn/post/7674870309704351759",
-    "source": "juejin",
-    "score": 0.24940135,
-    "published_at": "2026-08-17T15:28:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49306415",
-    "title": "Show HN: Nikon F100 Film Camera Repair Notes",
-    "url": "https://github.com/enthdegree/f100",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-15T00:50:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49347477",
-    "title": "Microgpt in pure C hits 10M tps on Apple m5",
-    "url": "https://github.com/vixhal-baraiya/microgpt-c",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-08-18T15:46:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:th7q3y",
-    "title": "Geolocating Random Islet Image Using Geometry & CUDA GPU Programming",
-    "url": "https://yassa9.github.io/osint/gralhix-004/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-19T09:17:38.059-05:00",
     "summary": "",
     "key_points": []
   }
