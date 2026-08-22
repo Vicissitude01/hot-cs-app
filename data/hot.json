@@ -1,5 +1,25 @@
 [
   {
+    "id": "hackernews:49402202",
+    "title": "Thinking in Python by Bruce Eckel",
+    "url": "https://thinkinginpython.com/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-22T18:10:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49404282",
+    "title": "A New Kind of Science by Stephen Wolfram: Monster Raving Egomania",
+    "url": "https://bactra.org/reviews/wolfram/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-22T22:00:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ate5gb",
     "title": "KDE Linux experiences",
     "url": "https://akselmo.dev/posts/kde-linux-experiences/",
@@ -4976,26 +4996,6 @@
     "source": "hackernews",
     "score": 15.0,
     "published_at": "2026-08-19T17:07:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49302127",
-    "title": "Turning molecules into reliable electronic devices",
-    "url": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-14T17:45:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49365326",
-    "title": "Introducing MicroLighter",
-    "url": "https://daverupert.com/2026/08/microlighter/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-19T18:28:48+00:00",
     "summary": "",
     "key_points": []
   }
