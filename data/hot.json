@@ -1,5 +1,55 @@
 [
   {
+    "id": "lobsters:zibquu",
+    "title": "There continue to be reasons for software to be slow",
+    "url": "https://typesanitizer.com/blog/performance-issues.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-22T09:31:21.289-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236410",
+    "title": "[Android 封闭测试] 找几位朋友帮忙体验《像素数织》，送完整内容兑换码",
+    "url": "https://www.v2ex.com/t/1236410",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-08-22T08:31:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49399941",
+    "title": "Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+    "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-22T14:13:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49391168",
+    "title": "Show HN: Rotation via Double Reflection",
+    "url": "https://static.laszlokorte.de/rotor-reflect/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-21T17:18:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49399898",
+    "title": "A Friendly Introduction to Racket",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-22T14:08:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:r77bda",
     "title": "Stalking the Wily Hacker: 40 years later",
     "url": "https://youtu.be/656058JxTM0",
@@ -4946,56 +4996,6 @@
     "source": "v2ex",
     "score": 96.0,
     "published_at": "2026-08-19T02:45:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675272903249625107",
-    "title": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
-    "url": "https://juejin.cn/post/7675272903249625107",
-    "source": "juejin",
-    "score": 4.59811285,
-    "published_at": "2026-08-19T03:16:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49358327",
-    "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
-    "url": "https://www.modular.com/blog/modcon-announcements",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-19T07:47:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49318311",
-    "title": "The Two Factions of C++",
-    "url": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-16T09:12:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49358220",
-    "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
-    "url": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-19T07:35:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49357501",
-    "title": "λλ: A Programming Language for Silicon Photonics",
-    "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-19T06:09:16+00:00",
     "summary": "",
     "key_points": []
   }
