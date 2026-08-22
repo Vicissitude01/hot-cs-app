@@ -1,5 +1,45 @@
 [
   {
+    "id": "lobsters:r77bda",
+    "title": "Stalking the Wily Hacker: 40 years later",
+    "url": "https://youtu.be/656058JxTM0",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-22T08:48:24.474-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49398710",
+    "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+    "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-22T11:39:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49399591",
+    "title": "The New MCP Roadmap",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-22T13:31:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49399524",
+    "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+    "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-08-22T13:24:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:jwzbqi",
     "title": "Espressif releases Linux BSP for ESP32-S31 RISC-V boards",
     "url": "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/",
@@ -4956,46 +4996,6 @@
     "source": "hackernews",
     "score": 12.0,
     "published_at": "2026-08-19T06:09:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49357967",
-    "title": "Berd",
-    "url": "https://berd.xyz",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-19T07:06:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49358259",
-    "title": "Where Human Sleep Went Wrong",
-    "url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-08-19T07:40:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qrbu3o",
-    "title": "Fargate Is Not Firecracker (2024)",
-    "url": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-19T01:42:07.026-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235485",
-    "title": "现在小区房的隔音问题真的无解了",
-    "url": "https://www.v2ex.com/t/1235485",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-08-19T01:47:09+00:00",
     "summary": "",
     "key_points": []
   }
