@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:ssw0gv",
+    "title": "An arcade fighting game over SSH",
+    "url": "https://sshfighter.com",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-22T13:24:43.595-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:83yugk",
+    "title": "A 2026 Survey of Rust GUI Libraries",
+    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-22T12:52:17.884-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676092674903408682",
+    "title": "腾讯又开源了一个新项目，用起来真优雅！",
+    "url": "https://juejin.cn/post/7676092674903408682",
+    "source": "juejin",
+    "score": 0.32847822,
+    "published_at": "2026-08-21T01:49:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49361478",
+    "title": "Show HN: Anonymous age verification with passkey-powered encryption",
+    "url": "https://loginwithone.com/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-19T13:41:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49399642",
+    "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+    "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-22T13:39:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49370284",
+    "title": "MiniageOS: \"Dumbphone\" Version of LineageOS",
+    "url": "https://github.com/ofdryads/miniageOS",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-20T04:07:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49375176",
+    "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary",
+    "url": "https://vetto.ai/companies/programbench-vetted.html",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-20T14:35:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49381991",
+    "title": "Dynamical dark energy and the week that broke cosmology",
+    "url": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-08-21T00:10:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49360643",
+    "title": "What's in a PowerPoint File?",
+    "url": "https://editide.com/blog/what-is-a-pptx-file/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-19T12:28:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49379732",
+    "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-20T20:22:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49377316",
+    "title": "Why it might be time to rethink the human family tree",
+    "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-20T17:07:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49380128",
+    "title": "Ameliorate",
+    "url": "https://ameliorate.app/",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-08-20T20:52:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49346854",
+    "title": "typ.ing",
+    "url": "https://typ.ing/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-08-18T15:12:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49351802",
+    "title": "Hister – A private, full content search index that you control",
+    "url": "https://hister.org/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-08-18T20:00:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49355659",
+    "title": "RF Cafe",
+    "url": "https://www.rfcafe.com/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-08-19T02:05:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49401549",
     "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
     "url": "https://twitter.com/argofowl/status/2091150597374537729",
@@ -4846,156 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-08-19T09:17:38.059-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49362044",
-    "title": "Proposal to prohibit vibe coded projects from being hosted on Sourcehut",
-    "url": "https://lists.sr.ht/~sircmpwn/sr.ht-discuss/%3CDKSTMKM0ZD9N.2FTBDFREZH699@ddevault.org%3E",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-19T14:22:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yaoves",
-    "title": "On the Capacity, Performance, and Reliability of microSD Cards",
-    "url": "https://www.bahjeez.com/the-great-microsd-card-survey/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-19T07:33:03.516-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kj1bvt",
-    "title": "Why I still hand write my commit messages",
-    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-19T08:01:00.885-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:marceloprates/prettymaps",
-    "title": "prettymaps",
-    "url": "https://github.com/marceloprates/prettymaps",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:amadeusprotocol/node",
-    "title": "node",
-    "url": "https://github.com/amadeusprotocol/node",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:obra/superpowers",
-    "title": "superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mattpocock/skills",
-    "title": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49361395",
-    "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
-    "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-19T13:33:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49286987",
-    "title": "Taffy: A flexible, high-performance, cross-platform UI layout library",
-    "url": "https://github.com/DioxusLabs/taffy",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-13T14:56:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49361279",
-    "title": "PostgreSQL for Everything",
-    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-19T13:21:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49360015",
-    "title": "A joke domain purchase turned in geopolitical warfare",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-08-19T11:21:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rdcyoc",
-    "title": "Aiki Alpha 2 Released",
-    "url": "https://decuser.github.io/posts/aiki-alpha-2-release/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-19T07:43:32.578-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49286258",
-    "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",
-    "url": "https://kolja.rs/algorithm-d/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-13T14:11:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49283455",
-    "title": "Win-V combo from Windows on Ubuntu",
-    "url": "https://leo98ml.github.io/win-v/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-13T09:18:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49360545",
-    "title": "Geolocating a random island using geometry and CUDA programming",
-    "url": "https://yassa9.github.io/osint/gralhix-004/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-19T12:19:52+00:00",
     "summary": "",
     "key_points": []
   }
