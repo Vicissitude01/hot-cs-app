@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:gwktul",
+    "title": "Zero-Knowledge Proof of Wasta with Applications in Lebanon",
+    "url": "https://eprint.gacr.info/2025/003.pdf",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-21T16:16:52.014-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236180",
+    "title": "编程效果对比 本地 Qwen3.8-27B vs Deepseek",
+    "url": "https://www.v2ex.com/t/1236180",
+    "source": "v2ex",
+    "score": 64.0,
+    "published_at": "2026-08-21T06:55:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236131",
+    "title": "为什么上班之后就很容易胖？",
+    "url": "https://www.v2ex.com/t/1236131",
+    "source": "v2ex",
+    "score": 68.0,
+    "published_at": "2026-08-21T04:21:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236135",
+    "title": "一条 12.8 万播放的 B 站视频，给我的 App 带来了 18 个下载",
+    "url": "https://www.v2ex.com/t/1236135",
+    "source": "v2ex",
+    "score": 74.0,
+    "published_at": "2026-08-21T04:33:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236240",
+    "title": "在这个独属于 ai 的时代，我终究是被裁员了。",
+    "url": "https://www.v2ex.com/t/1236240",
+    "source": "v2ex",
+    "score": 76.0,
+    "published_at": "2026-08-21T09:19:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675187455231475727",
+    "title": "我做了一个软著 Skill，可以一键生成申请材料",
+    "url": "https://juejin.cn/post/7675187455231475727",
+    "source": "juejin",
+    "score": 0.20276459,
+    "published_at": "2026-08-18T09:07:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49395663",
+    "title": "US Debt-to-GDP Ratio",
+    "url": "https://www.us-debt-clock.com/debt-to-gdp",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-22T01:18:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49381542",
+    "title": "Ozone: The fault is not in our trees, but in ourselves",
+    "url": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-20T23:11:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49380303",
+    "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-08-20T21:08:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49395605",
+    "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+    "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-22T01:02:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49395628",
+    "title": "There's no reason for software to be slow anymore",
+    "url": "https://danluu.com/perf-opt/",
+    "source": "hackernews",
+    "score": 84.0,
+    "published_at": "2026-08-22T01:06:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:pdx6jg",
     "title": "Exim 4.100 released",
     "url": "https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html",
@@ -4886,116 +4996,6 @@
     "source": "hackernews",
     "score": 30.0,
     "published_at": "2026-08-18T22:21:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49348912",
-    "title": "And then the men with guns tell you to do it anyway",
-    "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-    "source": "hackernews",
-    "score": 109.0,
-    "published_at": "2026-08-18T17:11:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49295369",
-    "title": "How a giant battery is transforming a town centre in Cannington, Ontario",
-    "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-14T06:36:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49353432",
-    "title": "AI usage patterns in software teams",
-    "url": "https://linear.app/data",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-18T22:08:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49353753",
-    "title": "The Microsoft Rebrand Registry",
-    "url": "https://www.msrebrandregistry.com/analysis.html",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-18T22:33:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49353407",
-    "title": "GLM-5.3 Artificial Analysis Benchmarks",
-    "url": "https://artificialanalysis.ai/models/glm-5-3",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-08-18T22:06:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49353339",
-    "title": "fx :Tiny, open, native coding agent.",
-    "url": "https://fx.sh",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-08-18T22:00:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tmlrxs",
-    "title": "Hyper-Customized One-Off Software for Cheap",
-    "url": "https://blog.gnoack.org/post/hyper-customized-one-off-software",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-18T12:51:23.150-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49353181",
-    "title": "Flock impersonates journalist in order to cancel his hotel reservations",
-    "url": "https://xcancel.com/bennjordan/status/2089430236945342508",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-08-18T21:48:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49311814",
-    "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
-    "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-08-15T16:17:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49353221",
-    "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-    "url": "https://github.com/DenisSergeevitch/desktop-fly",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-18T21:50:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49352737",
-    "title": "Find Chicago Parking Cops",
-    "url": "https://www.secondcitycitation.com",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-18T21:08:40+00:00",
     "summary": "",
     "key_points": []
   }
