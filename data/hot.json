@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:aujfn1",
+    "title": "JIT Compiling Code in 5μs",
+    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-23T02:44:50.155-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236441",
+    "title": "自己捣鼓了一套 [爬宠智能温湿度控温箱] ，成本到了 500+，有商业价值或迭代必要吗？",
+    "url": "https://www.v2ex.com/t/1236441",
+    "source": "v2ex",
+    "score": 32.0,
+    "published_at": "2026-08-22T11:55:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236559",
+    "title": "Codex 又要重置了",
+    "url": "https://www.v2ex.com/t/1236559",
+    "source": "v2ex",
+    "score": 32.0,
+    "published_at": "2026-08-23T06:32:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236519",
+    "title": "Antigravity 支持远程控制了",
+    "url": "https://www.v2ex.com/t/1236519",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-08-23T02:38:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676375370356047899",
+    "title": "华为新上Pura X View阔直板手机，特殊屏幕比例设备下，前端应该怎么去适配更完美？送你一套完整工具代码",
+    "url": "https://juejin.cn/post/7676375370356047899",
+    "source": "juejin",
+    "score": 10.58748774,
+    "published_at": "2026-08-22T00:12:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675992325919244331",
+    "title": "从 8 行报错到一条故障链：我用蓝耘 MaaS 做了一个 AI 日志分析助手",
+    "url": "https://juejin.cn/post/7675992325919244331",
+    "source": "juejin",
+    "score": 0.08635146,
+    "published_at": "2026-08-20T10:07:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676106249126314047",
+    "title": "LC 239 滑动窗口最大值：从暴力超时到单调队列一遍过",
+    "url": "https://juejin.cn/post/7676106249126314047",
+    "source": "juejin",
+    "score": 0.07106091,
+    "published_at": "2026-08-20T15:27:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676362565910282266",
+    "title": "跑了3个Docker容器后，我终于搞懂镜像和容器到底啥关系",
+    "url": "https://juejin.cn/post/7676362565910282266",
+    "source": "juejin",
+    "score": 0.23838811,
+    "published_at": "2026-08-21T16:08:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676369124041654307",
+    "title": "AI 时代写给前端同行：什么在贬值，什么在涨价",
+    "url": "https://juejin.cn/post/7676369124041654307",
+    "source": "juejin",
+    "score": 0.16653431,
+    "published_at": "2026-08-21T09:55:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49406285",
+    "title": "Fast and Hard Code",
+    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-23T05:39:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:r1ezk0",
     "title": "Foundational Verification of Running-Time Bounds for Interactive Programs",
     "url": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
@@ -4896,106 +4996,6 @@
     "source": "hackernews",
     "score": 12.0,
     "published_at": "2026-08-14T03:24:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235767",
-    "title": "我也有 1000 credits 的邀请名额，有资格的兄弟们来",
-    "url": "https://www.v2ex.com/t/1235767",
-    "source": "v2ex",
-    "score": 80.0,
-    "published_at": "2026-08-20T01:20:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235743",
-    "title": "想买 iPad Pro M5 13 寸，该怎么买？",
-    "url": "https://www.v2ex.com/t/1235743",
-    "source": "v2ex",
-    "score": 80.0,
-    "published_at": "2026-08-20T00:09:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235632",
-    "title": "已经失业的小伙伴们，你们是真找不到合适工作了吗？还是说不想找，就只是想躺平而已？",
-    "url": "https://www.v2ex.com/t/1235632",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-08-19T08:16:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235756",
-    "title": "AI 受害者 2",
-    "url": "https://www.v2ex.com/t/1235756",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-08-20T01:01:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235801",
-    "title": "之前答应给全楼送永久 VIP 的 jav.hk 上线了",
-    "url": "https://www.v2ex.com/t/1235801",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-08-20T02:48:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235529",
-    "title": "Giffgaff 卡又复活了",
-    "url": "https://www.v2ex.com/t/1235529",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-08-19T03:08:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235640",
-    "title": "是不是过了 35 对什么都不感兴趣了",
-    "url": "https://www.v2ex.com/t/1235640",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-08-19T08:38:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235748",
-    "title": "各位有多少人白头发了？有什么解决办法吗",
-    "url": "https://www.v2ex.com/t/1235748",
-    "source": "v2ex",
-    "score": 164.0,
-    "published_at": "2026-08-20T00:34:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674145872716513280",
-    "title": "LangChain 们的丧钟？DeepSeek 把 Agent 开发变成了拼乐高",
-    "url": "https://juejin.cn/post/7674145872716513280",
-    "source": "juejin",
-    "score": 0.18274717,
-    "published_at": "2026-08-16T11:04:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49310128",
-    "title": "Xorshift Generators",
-    "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-08-15T12:47:52+00:00",
     "summary": "",
     "key_points": []
   }
