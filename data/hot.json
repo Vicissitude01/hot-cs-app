@@ -1,5 +1,75 @@
 [
   {
+    "id": "v2ex:1236556",
+    "title": "很多过去认为在 apple 上不可能的实现的事现在都实现了",
+    "url": "https://www.v2ex.com/t/1236556",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-08-23T06:18:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236551",
+    "title": "你们都是怎么给 chatgpt plus 充值的？",
+    "url": "https://www.v2ex.com/t/1236551",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-08-23T06:02:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676091857219076134",
+    "title": "从零开发一个 Coding Agent（十二）：实现版本化 JSONL 与真实 CLI 入口",
+    "url": "https://juejin.cn/post/7676091857219076134",
+    "source": "juejin",
+    "score": 0.15411411,
+    "published_at": "2026-08-20T13:13:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676366523024392243",
+    "title": "「速通Shell」Shell 脚本测试详解",
+    "url": "https://juejin.cn/post/7676366523024392243",
+    "source": "juejin",
+    "score": 0.2168046,
+    "published_at": "2026-08-21T15:47:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676369124008296448",
+    "title": "告别 ARouter！基于 Google 官方 Navigation 3 + KSP 打造 Compose 时代的双轨制路由框架",
+    "url": "https://juejin.cn/post/7676369124008296448",
+    "source": "juejin",
+    "score": 0.06513116,
+    "published_at": "2026-08-21T06:58:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49407341",
+    "title": "The Sloppification of Peptides",
+    "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-23T09:32:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49407305",
+    "title": "Doomscrolling at work wastes time, but the real cost is what happens after",
+    "url": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-23T09:26:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49405083",
     "title": "Mathematicians will probably become obsolete before anyone else [pdf]",
     "url": "https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf",
@@ -4926,76 +4996,6 @@
     "source": "hackernews",
     "score": 8.0,
     "published_at": "2026-08-20T06:16:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49315372",
-    "title": "Rewriting in Rust",
-    "url": "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-08-15T23:43:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49370440",
-    "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-20T04:42:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ixxtwz",
-    "title": "Goroutines 101: A basic walkthrough",
-    "url": "https://func25.dev/posts/go-goroutines-basics/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-19T23:52:18.673-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235773",
-    "title": "把每天和 AI 对话记录公开了",
-    "url": "https://www.v2ex.com/t/1235773",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-08-20T01:49:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235714",
-    "title": "开源项目 gin-vue-admin 借用 npm 分发恶意遥测代码",
-    "url": "https://www.v2ex.com/t/1235714",
-    "source": "v2ex",
-    "score": 90.0,
-    "published_at": "2026-08-19T13:16:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235820",
-    "title": "三年前谈了一个月的女生现在找我复合，还有必要重新试试吗？",
-    "url": "https://www.v2ex.com/t/1235820",
-    "source": "v2ex",
-    "score": 138.0,
-    "published_at": "2026-08-20T03:22:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674461849685966858",
-    "title": "千万别误用Android Skills",
-    "url": "https://juejin.cn/post/7674461849685966858",
-    "source": "juejin",
-    "score": 0.12749496,
-    "published_at": "2026-08-16T03:41:51+00:00",
     "summary": "",
     "key_points": []
   }
