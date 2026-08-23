@@ -1,5 +1,45 @@
 [
   {
+    "id": "juejin:7676826408547041289",
+    "title": "JWT 3：为什么 Token 要放进 Authorization？Axios 拦截器到底解决了什么？",
+    "url": "https://juejin.cn/post/7676826408547041289",
+    "source": "juejin",
+    "score": 0.83845226,
+    "published_at": "2026-08-23T11:02:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49411800",
+    "title": "Training AI to Paint with Code",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-23T19:39:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49413004",
+    "title": "The Planet Now Has More Trees Than It Did 35 Years Ago",
+    "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-23T21:55:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49412947",
+    "title": "A complex structure on S^6 [pdf]",
+    "url": "https://alpo.ge/s6.pdf",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-23T21:47:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9i36rv",
     "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
     "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
@@ -4956,46 +4996,6 @@
     "source": "hackernews",
     "score": 14.0,
     "published_at": "2026-08-16T19:25:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49376038",
-    "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-    "url": "https://github.com/runvendo/vendo",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-20T15:29:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49376332",
-    "title": "How to compromise your system with a job interview",
-    "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-20T15:50:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49375996",
-    "title": "Clean up Claude 5's token vomit with a separate LLM",
-    "url": "https://github.com/zachahn/vomit",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-20T15:26:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49368886",
-    "title": "CIA funding helped keep NeXT afloat in the 80s",
-    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-08-20T00:15:01+00:00",
     "summary": "",
     "key_points": []
   }
