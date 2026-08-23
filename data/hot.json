@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:r1ezk0",
+    "title": "Foundational Verification of Running-Time Bounds for Interactive Programs",
+    "url": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T01:56:45.797-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236407",
+    "title": "新人第一贴，先放一个自己 vibe 一下午的割草小游戏吧",
+    "url": "https://www.v2ex.com/t/1236407",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-08-22T08:14:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675992325912887315",
+    "title": "Show me your works & token -稀土掘金上线内测作品广场和用量统计",
+    "url": "https://juejin.cn/post/7675992325912887315",
+    "source": "juejin",
+    "score": 0.18734813,
+    "published_at": "2026-08-20T09:36:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676277362519113763",
+    "title": "给 AI 时代找工作的同学一些实用建议",
+    "url": "https://juejin.cn/post/7676277362519113763",
+    "source": "juejin",
+    "score": 0.09655246,
+    "published_at": "2026-08-21T03:05:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675346841391104051",
+    "title": "用 TRAE Work 自动处理 Excel + 企业微信批量发送，再也不用一个个手动截图了",
+    "url": "https://juejin.cn/post/7675346841391104051",
+    "source": "juejin",
+    "score": 0.11311986,
+    "published_at": "2026-08-19T03:13:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676098169944047643",
+    "title": "从零开发一个 Coding Agent（十三）：实现安全的 read 文件读取工具",
+    "url": "https://juejin.cn/post/7676098169944047643",
+    "source": "juejin",
+    "score": 0.21526644,
+    "published_at": "2026-08-20T13:23:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675914752422805514",
+    "title": "Go 1.27 升了一波，泛型方法和 JSON v2 真香但有个坑",
+    "url": "https://juejin.cn/post/7675914752422805514",
+    "source": "juejin",
+    "score": 0.1731574,
+    "published_at": "2026-08-20T07:23:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676641074035605550",
+    "title": "为什么越来越多人用 kkFileView？",
+    "url": "https://juejin.cn/post/7676641074035605550",
+    "source": "juejin",
+    "score": 0.42854118,
+    "published_at": "2026-08-22T02:57:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676709710489419786",
+    "title": "这个本地模型，让我 token 自由了",
+    "url": "https://juejin.cn/post/7676709710489419786",
+    "source": "juejin",
+    "score": 0.63007245,
+    "published_at": "2026-08-22T10:37:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1236534",
     "title": "2026 年键盘求推荐",
     "url": "https://www.v2ex.com/t/1236534",
@@ -4906,96 +4996,6 @@
     "source": "hackernews",
     "score": 51.0,
     "published_at": "2026-08-15T12:47:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49274336",
-    "title": "How do payments work in the US, China, and Brazil?",
-    "url": "https://andrewacomb.substack.com/p/a-tale-of-three-refunds",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-12T15:50:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49369408",
-    "title": "Turns are Better than Radians",
-    "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-20T01:29:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49323795",
-    "title": "A faster way to calculate the day of the week",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-16T21:20:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235715",
-    "title": "开发了一款懂你的实时预览 Markdown 编辑器 [送码]",
-    "url": "https://www.v2ex.com/t/1235715",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-08-19T13:24:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235525",
-    "title": "带孩子旅行的意义",
-    "url": "https://www.v2ex.com/t/1235525",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-08-19T03:00:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49273010",
-    "title": "Simulacra and Simulation",
-    "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-12T14:33:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49318377",
-    "title": "Why travellers are obsessed with foreign supermarkets",
-    "url": "https://www.bbc.com/travel/article/20260811-the-supermarket-is-becoming-a-tourist-attraction",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-16T09:25:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49368828",
-    "title": "Universality of Gradient Descent Neural Network Training",
-    "url": "https://arxiv.org/abs/2007.13664",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-20T00:05:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49362001",
-    "title": "Manabu Kosaka's Handmade Paper Sculptures",
-    "url": "https://coca11272000.wixsite.com/manabukosaka",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-19T14:20:10+00:00",
     "summary": "",
     "key_points": []
   }
