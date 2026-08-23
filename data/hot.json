@@ -1,5 +1,75 @@
 [
   {
+    "id": "lobsters:jzr2ey",
+    "title": "Wild AI-related reliability incidents are coming",
+    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T14:04:41.948-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:o0z5aw",
+    "title": "My experience as a first time speaker",
+    "url": "https://blog.guillheu.dev/articles/first-time-speaker/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T14:16:54.661-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:p92osu",
+    "title": "RSoC 2026: EEVDF for Redox",
+    "url": "https://www.redox-os.org/news/rsoc-eevdf/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-23T11:45:43.216-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49411102",
+    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-23T18:16:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49410697",
+    "title": "Dutch regulator fines Uber $966M for automating driver suspensions",
+    "url": "https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-08-23T17:32:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49411395",
+    "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+    "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-23T18:55:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49411020",
+    "title": "Explain it to me like I'm ten",
+    "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-23T18:08:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49410628",
     "title": "We must not grant AI agents legal personhood",
     "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
@@ -4926,76 +4996,6 @@
     "source": "hackernews",
     "score": 22.0,
     "published_at": "2026-08-20T14:08:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49374738",
-    "title": "Stwipe Acquires OpenWouter",
-    "url": "https://stwipe.com/",
-    "source": "hackernews",
-    "score": 108.0,
-    "published_at": "2026-08-20T14:04:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49374920",
-    "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
-    "url": "https://www.bbc.com/news/articles/clyq011414eo",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-08-20T14:18:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:q8whub",
-    "title": "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
-    "url": "https://www.datadoghq.com/blog/engineering/gitretriever/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-20T08:03:09.452-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:juekuk",
-    "title": "How to fix Claude 5's token vomit",
-    "url": "https://zachahn.com/posts/1787191554",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-20T09:05:05.352-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sfi9te",
-    "title": "How a joke domain purchase turned into geopolitical warfare",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-08-20T07:21:41.581-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235899",
-    "title": "chatgpt 邀请好友 1000 额度 速发邮箱",
-    "url": "https://www.v2ex.com/t/1235899",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-08-20T07:47:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:harry0703/MoneyPrinterTurbo",
-    "title": "MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
