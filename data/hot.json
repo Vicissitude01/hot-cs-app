@@ -1,5 +1,45 @@
 [
   {
+    "id": "hackernews:49412483",
+    "title": "Residential proxies scraping your site? Drain their bandwidth",
+    "url": "https://layer3intel.com/blog/residential-proxy-bandwidth-drain",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-23T20:50:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49412467",
+    "title": "Declarative WebGPU with S-Expressions",
+    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-23T20:47:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49412909",
+    "title": "Implementation of GPT-2 in pure CMake",
+    "url": "https://github.com/AlpinDale/gpt2.cmake",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-23T21:41:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49413320",
+    "title": "Everything I own, owned",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-08-23T22:41:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ft1wfv",
     "title": "My DIY DEF CON Choker Has a Screen On It",
     "url": "https://www.scd31.com/posts/defcon-choker",
@@ -4956,46 +4996,6 @@
     "source": "hackernews",
     "score": 14.0,
     "published_at": "2026-08-20T14:38:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49375244",
-    "title": "Show HN: Open-source Stripe Connect alternative",
-    "url": "https://zoneless.com",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-20T14:38:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49375719",
-    "title": "Anti-AI fonts are useless and harmful",
-    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-20T15:06:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49333091",
-    "title": "Theory of Fluids Enters the 21st Century",
-    "url": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-08-17T15:56:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49336772",
-    "title": "Nearly 1,400 live streams from Japan",
-    "url": "https://tomarigi.me/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-08-17T20:03:55+00:00",
     "summary": "",
     "key_points": []
   }
