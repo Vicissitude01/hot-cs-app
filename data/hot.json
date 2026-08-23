@@ -1,5 +1,25 @@
 [
   {
+    "id": "lobsters:au6oho",
+    "title": "eh: a minimalist vi-like editor",
+    "url": "https://codeberg.org/SirWumpus/eh",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T10:10:59.415-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236570",
+    "title": "每个用过 DeepSeek Harness 的人都会觉得 DSH 很先进吧？",
+    "url": "https://www.v2ex.com/t/1236570",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-08-23T08:04:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gybcec",
     "title": "My favorite Computer Science books, and why",
     "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
@@ -4976,26 +4996,6 @@
     "source": "hackernews",
     "score": 1.0,
     "published_at": "2026-08-20T12:00:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49373456",
-    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-08-20T12:04:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8mjvrb",
-    "title": "Pitfalls of Benchmarking on Modern Systems",
-    "url": "https://stefan-marr.de/2026/08/pitfalls-of-benchmarking-on-modern-systems/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-20T05:49:58.764-05:00",
     "summary": "",
     "key_points": []
   }
