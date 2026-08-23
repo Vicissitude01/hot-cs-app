@@ -1,5 +1,15 @@
 [
   {
+    "id": "hackernews:49410628",
+    "title": "We must not grant AI agents legal personhood",
+    "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-23T17:25:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:x8cyxy",
     "title": "Where are the data workers behind AI?",
     "url": "https://www.ai-materiality-map.org/data-workers/",
@@ -4986,16 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49303545",
-    "title": "Show HN: Streambench – Native Mac Client for Kafka and NATS",
-    "url": "https://streambench.app",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-14T19:32:59+00:00",
     "summary": "",
     "key_points": []
   }
