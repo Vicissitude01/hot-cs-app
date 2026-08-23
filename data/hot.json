@@ -1,5 +1,35 @@
 [
   {
+    "id": "lobsters:rlcsrg",
+    "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+    "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T00:23:46.393-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jspua4",
+    "title": "Integrating Discord SDK into EVE Frontier",
+    "url": "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T00:39:03.456-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49406069",
+    "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+    "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-23T04:28:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:vikit1",
     "title": "Why aren't my two Cortex-A9 cores cache coherent?",
     "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
@@ -4966,36 +4996,6 @@
     "source": "hackernews",
     "score": 4.0,
     "published_at": "2026-08-19T22:09:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49348189",
-    "title": "Sol Loves to Cheat",
-    "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-18T16:29:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49367256",
-    "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-    "url": "https://os8088.com/spotlight/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-19T21:11:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hdef54",
-    "title": "Easy to use Entity Component System (ECS) crafted with Odin",
-    "url": "https://github.com/helioscout/moecs",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-19T15:59:50.670-05:00",
     "summary": "",
     "key_points": []
   }
