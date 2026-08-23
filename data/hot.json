@@ -1,5 +1,25 @@
 [
   {
+    "id": "lobsters:x8cyxy",
+    "title": "Where are the data workers behind AI?",
+    "url": "https://www.ai-materiality-map.org/data-workers/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T12:36:51.416-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49410149",
+    "title": "Vit D assoc w better cognition in those w sleep disturb./mild cognitive impair",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S1389945726001991?via%3Dihub",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-23T16:30:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9hb9ou",
     "title": "Are 15% of all commits fixes? (2025)",
     "url": "https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/",
@@ -4976,26 +4996,6 @@
     "source": "hackernews",
     "score": 11.0,
     "published_at": "2026-08-14T19:32:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49374162",
-    "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
-    "url": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-08-20T13:12:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49374036",
-    "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
-    "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-20T12:58:31+00:00",
     "summary": "",
     "key_points": []
   }
