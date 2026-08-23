@@ -1,5 +1,15 @@
 [
   {
+    "id": "lobsters:ft1wfv",
+    "title": "My DIY DEF CON Choker Has a Screen On It",
+    "url": "https://www.scd31.com/posts/defcon-choker",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-23T16:37:23.155-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "juejin:7676826408547041289",
     "title": "JWT 3：为什么 Token 要放进 Authorization？Axios 拦截器到底解决了什么？",
     "url": "https://juejin.cn/post/7676826408547041289",
@@ -4986,16 +4996,6 @@
     "source": "hackernews",
     "score": 46.0,
     "published_at": "2026-08-17T20:03:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49322868",
-    "title": "Double-double: 31 digits of precision without leaving the FPU",
-    "url": "https://marekfiser.com/blog/double-double-arithmetic/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-16T19:25:41+00:00",
     "summary": "",
     "key_points": []
   }
