@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:1swh9l",
+    "title": "Optimizing memory usage in a markdown parser",
+    "url": "https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T06:51:43.760-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kxualw",
+    "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
+    "url": "https://lobste.rs/s/kxualw",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T07:08:25.166-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nxeygh",
+    "title": "A Friendly Introduction to Racket",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-23T07:22:43.791-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:u7v2sn",
+    "title": "And then the men with guns tell you to do it anyway",
+    "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-23T07:15:54.171-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dyxeyu",
+    "title": "Hister - A private, full content search index that you control",
+    "url": "https://hister.org/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-23T07:28:24.922-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236583",
+    "title": "大家现在日常/办公中，语音输入占比大概有多少？",
+    "url": "https://www.v2ex.com/t/1236583",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-08-23T09:12:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675926600998944831",
+    "title": "Claude Code ：如何最大化你的 Session 价值",
+    "url": "https://juejin.cn/post/7675926600998944831",
+    "source": "juejin",
+    "score": 0.15359776,
+    "published_at": "2026-08-20T09:39:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676404079284535332",
+    "title": "啃完 TS 工具类型我发现：Pick 和 Omit 原来就是一层窗户纸",
+    "url": "https://juejin.cn/post/7676404079284535332",
+    "source": "juejin",
+    "score": 0.40297395,
+    "published_at": "2026-08-22T15:32:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49407509",
+    "title": "Iranian hackers shut down UK power plant for 4 days",
+    "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-23T10:03:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49407507",
     "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
     "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
@@ -4906,96 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-08-20T10:38:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dns8du",
-    "title": "Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat",
-    "url": "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-20T04:54:06.012-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49317965",
-    "title": "Free v4 front end for your v6 site",
-    "url": "https://v4-frontend.netiter.com/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-16T08:13:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49372583",
-    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-20T10:08:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ope7za",
-    "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can",
-    "url": "https://zerotistic.blog/posts/find-my-people-linux/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-20T04:02:49.657-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:oaybfe",
-    "title": "What Zig felt like, coming from Rust",
-    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-20T02:53:17.055-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675696159576326159",
-    "title": "Vibe作品广场首发挑战来啦！发布作品，赢富士拍立得等千元好礼",
-    "url": "https://juejin.cn/post/7675696159576326159",
-    "source": "juejin",
-    "score": 14.09440713,
-    "published_at": "2026-08-20T08:01:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49318113",
-    "title": "RAPx: A static analysis tool for Rust programs",
-    "url": "https://github.com/safer-rust/RAPx",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-16T08:37:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235779",
-    "title": "[Codex 中转站] HyperAPI 的新老用户们，来领鸡蛋了",
-    "url": "https://www.v2ex.com/t/1235779",
-    "source": "v2ex",
-    "score": 138.0,
-    "published_at": "2026-08-20T01:57:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674817329578606619",
-    "title": "面试官说\"打开你的AI工具\"——我才发现，他考的根本不是写代码",
-    "url": "https://juejin.cn/post/7674817329578606619",
-    "source": "juejin",
-    "score": 0.1467723,
-    "published_at": "2026-08-17T12:08:52+00:00",
     "summary": "",
     "key_points": []
   }
