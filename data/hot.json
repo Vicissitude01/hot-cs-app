@@ -1,5 +1,45 @@
 [
   {
+    "id": "hackernews:49407507",
+    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-23T10:02:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49407785",
+    "title": "'AI refuser' quit her dream job, and hopes others follow",
+    "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-23T10:54:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49407576",
+    "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+    "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-23T10:14:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49407309",
+    "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+    "url": "https://skylens.yantraai.app/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-23T09:27:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1236528",
     "title": "关于楼上渗水到楼下的问题，请友友们提供一些建议。",
     "url": "https://www.v2ex.com/t/1236528",
@@ -4956,46 +4996,6 @@
     "source": "juejin",
     "score": 0.1467723,
     "published_at": "2026-08-17T12:08:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675247670898032692",
-    "title": "DeepSeek Harness 插件：HTML 实时可视化编辑",
-    "url": "https://juejin.cn/post/7675247670898032692",
-    "source": "juejin",
-    "score": 10.12033383,
-    "published_at": "2026-08-18T17:27:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49325037",
-    "title": "The Chauffeur Problem",
-    "url": "https://engines.egr.uh.edu/episode/1495",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-16T23:55:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49371857",
-    "title": "Don't Paste the AI, please",
-    "url": "https://dontpastetheai.com/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-08-20T08:20:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:psxjb4",
-    "title": "Understanding the limitations of Pubsub systems",
-    "url": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-20T00:24:48.354-05:00",
     "summary": "",
     "key_points": []
   }
