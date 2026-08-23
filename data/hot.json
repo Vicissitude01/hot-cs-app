@@ -1,5 +1,75 @@
 [
   {
+    "id": "lobsters:gybcec",
+    "title": "My favorite Computer Science books, and why",
+    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T09:45:46.417-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hdz6bx",
+    "title": "clicky: A clickwheel iPod emulator",
+    "url": "https://github.com/daniel5151/clicky",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T09:46:25.502-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9xglf3",
+    "title": "An Introduction to Canvas in GNU Emacs",
+    "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-23T09:45:32.715-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:AprilNEA/OpenLogi",
+    "title": "OpenLogi",
+    "url": "https://github.com/AprilNEA/OpenLogi",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49409184",
+    "title": "Authoritarianism of Code",
+    "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-23T14:36:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49409200",
+    "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+    "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-23T14:38:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49409092",
+    "title": "What Is a Harness?",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-23T14:24:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1236533",
     "title": "[招人]杭州，产品研发，后端开发 3 年以上经验来看",
     "url": "https://www.v2ex.com/t/1236533",
@@ -4926,76 +4996,6 @@
     "source": "lobsters",
     "score": 1.0,
     "published_at": "2026-08-20T05:49:58.764-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674878323556237355",
-    "title": "ECharts 太平面？试试这款 Vue 3D 图表库",
-    "url": "https://juejin.cn/post/7674878323556237355",
-    "source": "juejin",
-    "score": 0.18835037,
-    "published_at": "2026-08-18T02:12:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:RyanCodrai/turbovec",
-    "title": "turbovec",
-    "url": "https://github.com/RyanCodrai/turbovec",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Tencent/AI-Infra-Guard",
-    "title": "AI-Infra-Guard",
-    "url": "https://github.com/Tencent/AI-Infra-Guard",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:makeplane/plane",
-    "title": "plane",
-    "url": "https://github.com/makeplane/plane",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:JuliusBrussee/caveman",
-    "title": "caveman",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mahlernim/google-timeline-visualizer",
-    "title": "google-timeline-visualizer",
-    "url": "https://github.com/mahlernim/google-timeline-visualizer",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:PostHog/posthog",
-    "title": "posthog",
-    "url": "https://github.com/PostHog/posthog",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
