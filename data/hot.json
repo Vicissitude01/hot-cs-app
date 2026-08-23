@@ -1,5 +1,45 @@
 [
   {
+    "id": "lobsters:xiwynb",
+    "title": "tmp.0ut volume 5",
+    "url": "https://tmpout.sh/5/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-23T13:49:26.422-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49410480",
+    "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+    "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-23T17:07:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49410545",
+    "title": "The Remote Work Challenge: Lessons from 5 Cities",
+    "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-23T17:15:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49410250",
+    "title": "Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
+    "url": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-23T16:43:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ll6pak",
     "title": "Replicating Reddit's best feature on other forums",
     "url": "https://xavd.id/blog/post/highlighting-users/",
@@ -4956,46 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-08-20T08:32:05.380-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8cq6jl",
-    "title": "Going freestanding",
-    "url": "https://antonz.org/going-freestanding/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-20T09:35:27.468-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675540232994783251",
-    "title": "「速通Shell」Shell编程的错误处理与日志",
-    "url": "https://juejin.cn/post/7675540232994783251",
-    "source": "juejin",
-    "score": 1.46800925,
-    "published_at": "2026-08-19T14:17:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:santifer/career-ops",
-    "title": "career-ops",
-    "url": "https://github.com/santifer/career-ops",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49373884",
-    "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
-    "url": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-20T12:45:44+00:00",
     "summary": "",
     "key_points": []
   }
