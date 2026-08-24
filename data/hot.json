@@ -1,5 +1,25 @@
 [
   {
+    "id": "juejin:7676826408547090441",
+    "title": "JWT 4：Zustand 到底解决了什么？为什么登录状态要放进 Store？",
+    "url": "https://juejin.cn/post/7676826408547090441",
+    "source": "juejin",
+    "score": 0.64906995,
+    "published_at": "2026-08-23T11:03:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49427001",
+    "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+    "url": "https://github.com/murerkinn/bookshelf",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-24T23:00:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:0i7pks",
     "title": "Sloc Cloc and Code 4.0 (scc) - Finding the files that need the most attention",
     "url": "https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/",
@@ -4976,26 +4996,6 @@
     "source": "hackernews",
     "score": 5.0,
     "published_at": "2026-08-21T16:00:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49323227",
-    "title": "Making stinkarm stink less, or more?",
-    "url": "https://xnacly.me/posts/2026/making-stinkarm-stink-less/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-16T20:12:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49389952",
-    "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
-    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-21T15:51:10+00:00",
     "summary": "",
     "key_points": []
   }
