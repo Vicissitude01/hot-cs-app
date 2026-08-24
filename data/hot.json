@@ -1,5 +1,55 @@
 [
   {
+    "id": "lobsters:gj556c",
+    "title": "Tiny, Untyped Monads (2024)",
+    "url": "https://text.marvinborner.de/2024-11-18-00.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-24T04:56:57.866-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677124067654893622",
+    "title": " 爽用 DeepSeek V4 Flash、GLM-5.2、Qwen3.8 Max、GPT-5.6 Sol，EvoX 够猛",
+    "url": "https://juejin.cn/post/7677124067654893622",
+    "source": "juejin",
+    "score": 1.65716682,
+    "published_at": "2026-08-24T02:55:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676295909912215561",
+    "title": "一份Token Plan套餐接通 Claude Code 和 Codex：国产模型统一额度池实测指南",
+    "url": "https://juejin.cn/post/7676295909912215561",
+    "source": "juejin",
+    "score": 0.31792671,
+    "published_at": "2026-08-21T08:30:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677077660528001070",
+    "title": "一个人 + AI 做的小程序，上线 15 天赚了 10 块 5",
+    "url": "https://juejin.cn/post/7677077660528001070",
+    "source": "juejin",
+    "score": 1.70413284,
+    "published_at": "2026-08-24T02:51:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677109633773420580",
+    "title": "全TM草台班子，DSH毒瘤目录卡死OpenCode！",
+    "url": "https://juejin.cn/post/7677109633773420580",
+    "source": "juejin",
+    "score": 3.17476894,
+    "published_at": "2026-08-24T06:06:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:lo28ad",
     "title": "What are you doing this week?",
     "url": "https://lobste.rs/s/lo28ad",
@@ -4946,56 +4996,6 @@
     "source": "hackernews",
     "score": 129.0,
     "published_at": "2026-08-21T02:37:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235817",
-    "title": "想请教一下大家，都是怎么订阅 Codex 的？",
-    "url": "https://www.v2ex.com/t/1235817",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-08-20T03:14:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236035",
-    "title": "毕业跟大学老师干了 3 年，欠薪 4 个月还在温水煮青蛙，纠结要不要跑路",
-    "url": "https://www.v2ex.com/t/1236035",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-08-21T01:12:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235883",
-    "title": "Codex / Claude Code 用户来送额度，评论 ID 送 $10",
-    "url": "https://www.v2ex.com/t/1235883",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-08-20T06:51:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235930",
-    "title": "还有比 wps 更恶心的软件吗",
-    "url": "https://www.v2ex.com/t/1235930",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-08-20T08:47:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675242010802896948",
-    "title": "基于 Pi，我居然自己搞了一个好用的 AI Agent 桌面工作台",
-    "url": "https://juejin.cn/post/7675242010802896948",
-    "source": "juejin",
-    "score": 0.25856512,
-    "published_at": "2026-08-19T03:52:42+00:00",
     "summary": "",
     "key_points": []
   }
