@@ -1,5 +1,35 @@
 [
   {
+    "id": "hackernews:49417684",
+    "title": "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
+    "url": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-24T10:18:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49418184",
+    "title": "Why older tech is sometimes safer from hackers",
+    "url": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-24T11:23:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49419237",
+    "title": "How Europe is killing makers and micro-entrepreneurs",
+    "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+    "source": "hackernews",
+    "score": 221.0,
+    "published_at": "2026-08-24T13:05:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:3vg7ts",
     "title": "Control and complexity: tension in systems design",
     "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
@@ -4966,36 +4996,6 @@
     "source": "hackernews",
     "score": 4.0,
     "published_at": "2026-08-15T14:26:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49384477",
-    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-    "url": "https://Argentic.network",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-21T06:24:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49384113",
-    "title": "Seed: Minimal, self-modifying agent harness",
-    "url": "https://github.com/vivekhaldar/seed",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-21T05:20:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49384716",
-    "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-    "url": "https://encore.dev/blog/firecracker-apple-silicon",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-21T06:59:40+00:00",
     "summary": "",
     "key_points": []
   }
