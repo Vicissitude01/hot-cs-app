@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:pkktjt",
+    "title": "Adding JIT-compilation to a toy interpreter with libgccjit",
+    "url": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-23T20:16:56.438-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236674",
+    "title": "很久没有碰浏览器了，我决定从头开始写一个浏览器硬刚 Google Chrome",
+    "url": "https://www.v2ex.com/t/1236674",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-08-24T01:21:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236659",
+    "title": "miniQMT 即将清退｜“万一免五”证券开户找老倔驴巨靠谱！ #回帖抽 mx anywhere 3s [40 期]",
+    "url": "https://www.v2ex.com/t/1236659",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-08-24T00:12:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236704",
+    "title": "我说现在骗人式的推广真的太恶心了",
+    "url": "https://www.v2ex.com/t/1236704",
+    "source": "v2ex",
+    "score": 144.0,
+    "published_at": "2026-08-24T02:17:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676748940241158171",
+    "title": "84.5K+ Star！这个开源编程 Agent 控制台，能统一管理 Codex、Claude Code，DeepSeek Harness 也能接入",
+    "url": "https://juejin.cn/post/7676748940241158171",
+    "source": "juejin",
+    "score": 0.54185087,
+    "published_at": "2026-08-23T07:24:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49414556",
+    "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
+    "url": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-24T02:17:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49414096",
+    "title": "The first search engine for Internet-connected devices",
+    "url": "https://www.shodan.io/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-24T00:52:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49413561",
+    "title": "I built a low-latency AI companion that plays Skyrim with me",
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-08-23T23:18:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1236691",
     "title": "周末回了躺老家，两件小事打破了县城低价养老的幻想",
     "url": "https://www.v2ex.com/t/1236691",
@@ -4916,86 +4996,6 @@
     "source": "hackernews",
     "score": 59.0,
     "published_at": "2026-08-20T18:54:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49377155",
-    "title": "AI at Home Part 2: Multi-GPU Drifting",
-    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-20T16:53:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49312999",
-    "title": "Show HN: sce (Simple Console Editor)",
-    "url": "https://github.com/volution/simple-console-editor",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-15T18:28:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49377739",
-    "title": "Project Cybersyn",
-    "url": "https://bactra.org/notebooks/cybersyn.html",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-20T17:40:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49377923",
-    "title": "Optimizing things in the USSR (2016)",
-    "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-20T17:55:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49377853",
-    "title": "I should have loved biology",
-    "url": "https://jsomers.net/i-should-have-loved-biology/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-08-20T17:50:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wphnca",
-    "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong - gingerBill",
-    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-20T12:22:35.131-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49374830",
-    "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
-    "url": "https://github.com/paulsp94/omacosy",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-20T14:12:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49377249",
-    "title": "The Defense-Tech Bubble Is Headed for Consolidation",
-    "url": "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-20T17:01:09+00:00",
     "summary": "",
     "key_points": []
   }
