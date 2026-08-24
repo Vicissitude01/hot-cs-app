@@ -1,5 +1,55 @@
 [
   {
+    "id": "v2ex:1236691",
+    "title": "周末回了躺老家，两件小事打破了县城低价养老的幻想",
+    "url": "https://www.v2ex.com/t/1236691",
+    "source": "v2ex",
+    "score": 104.0,
+    "published_at": "2026-08-24T01:51:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676292385958297626",
+    "title": "继DSH之后！Codex Harness 也开源了！Rust 核心、三层架构、人机协作",
+    "url": "https://juejin.cn/post/7676292385958297626",
+    "source": "juejin",
+    "score": 0.08801054,
+    "published_at": "2026-08-21T08:21:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676301268526841856",
+    "title": "客户只想看个页面，我却做了一个静态演示发布系统",
+    "url": "https://juejin.cn/post/7676301268526841856",
+    "source": "juejin",
+    "score": 0.5362763,
+    "published_at": "2026-08-21T09:48:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49414338",
+    "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+    "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-24T01:33:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49414676",
+    "title": "Fastmail Pricing Changes",
+    "url": "https://www.fastmail.com/pricing/us/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-24T02:39:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:jxloti",
     "title": "SVG Filter Effects: Creating Texture with <feTurbulence> (2019)",
     "url": "https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/",
@@ -4946,56 +4996,6 @@
     "source": "hackernews",
     "score": 7.0,
     "published_at": "2026-08-20T17:01:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49377535",
-    "title": "URL shortener links stored in your ATProto PDS",
-    "url": "https://atpr.to/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-20T17:23:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49377660",
-    "title": "Show HN: We chased a weather balloon across Montana and never found it",
-    "url": "https://radi8.dev/blog/uplink/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-20T17:33:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ikeag0",
-    "title": "A Personal Computer For Children Of All Cultures",
-    "url": "https://www.deconstructconf.com/2019/ramsey-nasser-a-personal-computer-for-children-of-all-cultures",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-20T11:11:49.924-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49376265",
-    "title": "Linux 7.2 Released",
-    "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-20T15:46:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49328812",
-    "title": "A theory for decades of C vulnerabilities",
-    "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_02.html",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-17T10:32:21+00:00",
     "summary": "",
     "key_points": []
   }
