@@ -1,5 +1,125 @@
 [
   {
+    "id": "lobsters:rehaa3",
+    "title": "Emacs 31.1 released",
+    "url": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-24T05:52:27.247-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:vorssaint/vorssaint-utils",
+    "title": "vorssaint-utils",
+    "url": "https://github.com/vorssaint/vorssaint-utils",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:tashfeenahmed/freellmapi",
+    "title": "freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:rohitg00/ai-engineering-from-scratch",
+    "title": "ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:AgriciDaniel/claude-obsidian",
+    "title": "claude-obsidian",
+    "url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:openclaw/openclaw",
+    "title": "openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:PostHog/posthog",
+    "title": "posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:makeplane/plane",
+    "title": "plane",
+    "url": "https://github.com/makeplane/plane",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:MadsLorentzen/ai-job-search",
+    "title": "ai-job-search",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415265",
+    "title": "Mourning Steve French",
+    "url": "https://lwn.net/Articles/1090098/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-24T04:47:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49417766",
+    "title": "Ask HN: Those making $500/month on side projects in 2026 – Show and tell",
+    "url": "https://news.ycombinator.com/item?id=49417766",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-24T10:28:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49417941",
+    "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
+    "url": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-24T10:52:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gj556c",
     "title": "Tiny, Untyped Monads (2024)",
     "url": "https://text.marvinborner.de/2024-11-18-00.html",
@@ -4876,126 +4996,6 @@
     "source": "hackernews",
     "score": 11.0,
     "published_at": "2026-08-17T19:28:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49384180",
-    "title": "Japan tried to build an operating system for the world, the US intervened",
-    "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-08-21T05:31:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49384224",
-    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
-    "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-08-21T05:39:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:umey8v",
-    "title": "Btrfs Snapshot Integration in KDE",
-    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-21T00:14:08.765-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236083",
-    "title": "你们会骂 AI 吗",
-    "url": "https://www.v2ex.com/t/1236083",
-    "source": "v2ex",
-    "score": 72.0,
-    "published_at": "2026-08-21T02:32:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pfnai9",
-    "title": "Survival Guide for a Censored Internet",
-    "url": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-20T21:42:17.234-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236027",
-    "title": "你的余额宝会放很多钱吗？",
-    "url": "https://www.v2ex.com/t/1236027",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-08-21T00:06:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236064",
-    "title": "我们开始倒班考勤了",
-    "url": "https://www.v2ex.com/t/1236064",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-08-21T02:08:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236041",
-    "title": "统计一下大家现在 vibe coding 的方案",
-    "url": "https://www.v2ex.com/t/1236041",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-08-21T01:25:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675447922214191150",
-    "title": "做了 3 年 Spring Boot，老板让我一周搭个 AI Agent，上线当天被安全叫停：Java 团队落地 AI 的三道坎，我替你踩完了",
-    "url": "https://juejin.cn/post/7675447922214191150",
-    "source": "juejin",
-    "score": 0.27008274,
-    "published_at": "2026-08-19T02:23:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49329919",
-    "title": "Captain Zilog",
-    "url": "https://www.zilog.com/captain_zilog/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-17T12:42:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49383326",
-    "title": "Codex on AWS bedrock bug causing 10x charges",
-    "url": "https://github.com/openai/codex/issues/37674",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-21T03:17:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49383026",
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "source": "hackernews",
-    "score": 129.0,
-    "published_at": "2026-08-21T02:37:47+00:00",
     "summary": "",
     "key_points": []
   }
