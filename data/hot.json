@@ -1,5 +1,65 @@
 [
   {
+    "id": "lobsters:plmwzl",
+    "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos",
+    "url": "https://adriansieber.com/announcing-perspec-1-0/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-24T10:03:22.175-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:iii8sl",
+    "title": "Micro language implementation: Calcium",
+    "url": "https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-24T08:56:40.846-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:swzhtb",
+    "title": "Dynamically Naming Servers",
+    "url": "https://arch.dog/bark/dynamically-naming-servers",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-24T09:36:35.686-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676625061881790483",
+    "title": "Jetpack Compose 实现 iOS 风格 3D WheelPicker",
+    "url": "https://juejin.cn/post/7676625061881790483",
+    "source": "juejin",
+    "score": 0.07572247,
+    "published_at": "2026-08-22T02:04:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49419351",
+    "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+    "url": "https://ssx360.github.io/rack-02/?src=hn",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-08-24T13:17:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420592",
+    "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-24T14:48:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49417684",
     "title": "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
     "url": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
@@ -4936,66 +4996,6 @@
     "source": "hackernews",
     "score": 14.0,
     "published_at": "2026-08-21T03:51:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49320866",
-    "title": "The case against a C alternative (2022)",
-    "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-16T15:17:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qxvz7f",
-    "title": "Better Batteries",
-    "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-21T02:47:50.174-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vvdveb",
-    "title": "Vibe coding personal apps in mid-2026",
-    "url": "https://www.flourish.org/2026/08/personal-apps/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-21T02:16:33.318-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236151",
-    "title": "刚刚看到 Tibo 说 Codex 额度用的太快是 sub2api 的问题",
-    "url": "https://www.v2ex.com/t/1236151",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-08-21T05:45:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676162994423119918",
-    "title": "从零封装一个合同审查助手：用 WorkBuddy + 腾讯云 OCR 三件套跑通 5 种格式合同的自动审阅",
-    "url": "https://juejin.cn/post/7676162994423119918",
-    "source": "juejin",
-    "score": 2.66442512,
-    "published_at": "2026-08-21T00:41:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49310857",
-    "title": "I Ported Moonshine to JavaScript",
-    "url": "https://petewarden.com/2026/08/15/why-i-ported-moonshine-to-javascript/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-15T14:26:32+00:00",
     "summary": "",
     "key_points": []
   }
