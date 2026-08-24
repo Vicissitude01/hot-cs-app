@@ -1,5 +1,45 @@
 [
   {
+    "id": "lobsters:hgirjs",
+    "title": "Atkinson Hyperlegible appears a little smaller than some other fonts at the same font size",
+    "url": "https://twotwos.nekoweb.org/posts/hyperlegible.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-24T10:15:43.773-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:al6sdh",
+    "title": "distributed identity",
+    "url": "https://jyn.dev/distributed-identity/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-24T16:28:12.877-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49423077",
+    "title": "Agent Lightning v1.0",
+    "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-24T17:23:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49426564",
+    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-08-24T22:13:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:uodrjx",
     "title": "kudu - easily manage VMs on Linux",
     "url": "https://github.com/pythops/kudu",
@@ -4956,46 +4996,6 @@
     "source": "hackernews",
     "score": 13.0,
     "published_at": "2026-08-21T14:46:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49389430",
-    "title": "Felony Bench",
-    "url": "https://www.felonybench.com/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-08-21T15:17:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49389524",
-    "title": "Cancer-Related Mortality Among US Pilots and Flight Attendants",
-    "url": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-08-21T15:23:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49389565",
-    "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-    "url": "https://canews24.online/?p=71",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-08-21T15:25:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49390132",
-    "title": "Omacom Foundation Launches with $8M",
-    "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-08-21T16:03:47+00:00",
     "summary": "",
     "key_points": []
   }
