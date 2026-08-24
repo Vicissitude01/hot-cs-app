@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:gzddgr",
+    "title": "AI Coding will Prevent Expertise | Lars Faye",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-24T11:20:42.855-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:26oj2u",
+    "title": "Intent to Ship: JPEG XL",
+    "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-24T11:25:08.134-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677418026090528794",
+    "title": "向量数据库不该成为新孤岛：KingbaseES 多模融合架构如何减少数据搬运",
+    "url": "https://juejin.cn/post/7677418026090528794",
+    "source": "juejin",
+    "score": 1.56550185,
+    "published_at": "2026-08-24T10:13:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677428850284675082",
+    "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
+    "url": "https://juejin.cn/post/7677428850284675082",
+    "source": "juejin",
+    "score": 1.4905293,
+    "published_at": "2026-08-24T10:07:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420556",
+    "title": "Codefloe Is a Professionally Hosted Public Git Forge",
+    "url": "https://codefloe.com/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-24T14:46:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49422481",
+    "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+    "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-24T16:46:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49357290",
+    "title": "Curvature Beziers – Improving on a timeless recipe",
+    "url": "https://acko.net/blog/curvature-beziers/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-19T05:36:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49422404",
+    "title": "Man Dressed as Darth Vader Defends Flock Cameras to San Diego City Council",
+    "url": "https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance/",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-08-24T16:41:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49423495",
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "url": "https://www.ycombinator.com/companies/autostep/jobs",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-08-24T17:53:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49422784",
+    "title": "The entire city of San Francisco as a video game",
+    "url": "https://sf.thijs.gg/",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-08-24T17:05:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49422800",
+    "title": "Where Did All the Public Bathrooms Go?",
+    "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-08-24T17:07:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:0typpq",
     "title": "I cannot survive from burnout",
     "url": "https://lobste.rs/s/0typpq",
@@ -4886,116 +4996,6 @@
     "source": "hackernews",
     "score": 11.0,
     "published_at": "2026-08-21T12:52:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387059",
-    "title": "AI;DR or Don't be a meat proxy",
-    "url": "https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-21T12:25:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387525",
-    "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
-    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-21T13:07:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49388288",
-    "title": "Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest",
-    "url": "https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-21T14:06:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387570",
-    "title": "I accidentally logged phone calls to military bases",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-21T13:11:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387433",
-    "title": "Yes/No/Cancel causes Aspirin sales to soar",
-    "url": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-21T12:58:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49388446",
-    "title": "What We Lost When Search Stopped Making Us Think",
-    "url": "https://blog.8ball.space/what-we-lost-when-search/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-21T14:16:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49388095",
-    "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
-    "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-21T13:52:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387735",
-    "title": "What Happens When the Cost of Intelligence Drops 100x",
-    "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-21T13:24:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49388154",
-    "title": "Kagi added a setting for removing paywalled links from search results",
-    "url": "https://kagi.com/changelog#11296",
-    "source": "hackernews",
-    "score": 138.0,
-    "published_at": "2026-08-21T13:56:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:chhsuf",
-    "title": "Data races and the memory model in Go",
-    "url": "https://func25.dev/posts/go-memory-visibility/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-21T08:11:08.739-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49312903",
-    "title": "Four Levels of In-Place Initialization (Rust)",
-    "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-15T18:20:00+00:00",
     "summary": "",
     "key_points": []
   }
