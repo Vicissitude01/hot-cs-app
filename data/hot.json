@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:tkvorw",
+    "title": "Kodak DC50 now usable on the Apple II",
+    "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-24T02:10:16.157-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8ttu5n",
+    "title": "Your executable is a SQLite database",
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-24T02:32:45.274-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236750",
+    "title": "我今年 45，我以为我已经见过了世界，直到今天我用了一次汇丰的网银",
+    "url": "https://www.v2ex.com/t/1236750",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-08-24T03:26:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236744",
+    "title": "娃生了，感叹这个成本确实高。",
+    "url": "https://www.v2ex.com/t/1236744",
+    "source": "v2ex",
+    "score": 176.0,
+    "published_at": "2026-08-24T03:18:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677109639176749090",
+    "title": "在浏览器里对比 DWG/DXF 图纸 ——  @mlightcad/cad-diff-viewer",
+    "url": "https://juejin.cn/post/7677109639176749090",
+    "source": "juejin",
+    "score": 20.34663703,
+    "published_at": "2026-08-24T04:15:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49416055",
+    "title": "Andreessen Horowitz is investing billions into a bleak future",
+    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-24T06:57:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49416097",
+    "title": "Over 5,200 Ebola cases recorded in Congo",
+    "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-24T07:03:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415405",
+    "title": "Elevated Errors for Multiple Models",
+    "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-08-24T05:12:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415695",
+    "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+    "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-24T06:00:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415621",
+    "title": "New EU-wide product repair rules come into force",
+    "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-08-24T05:47:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415852",
+    "title": "OCR It – pull text out of un-copyable documents for your LLM",
+    "url": "https://github.com/thiagotigaz/ocr-it",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-24T06:25:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415907",
+    "title": "Anthropic Claude and API service outages",
+    "url": "https://status.claude.com/uptime",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-24T06:32:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49412396",
+    "title": "I were 17, I'd learn how to build LLMs from scratch",
+    "url": "https://twitter.com/paulg/status/2091544343589060625",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-08-23T20:38:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415854",
+    "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor",
+    "url": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-24T06:25:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415893",
+    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+    "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-24T06:30:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1236669",
     "title": "[HappyCode] 企业级稳定精品 API 中转站｜新用户免费领取 100 刀 GPT、Claude 体验额度",
     "url": "https://www.v2ex.com/t/1236669",
@@ -4846,156 +4996,6 @@
     "source": "hackernews",
     "score": 6.0,
     "published_at": "2026-08-20T22:47:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49335490",
-    "title": "In Which I Lose My Mind over Embeddings (HPLM Chapter 2)",
-    "url": "https://www.maayanroth.com/blog/posts/hundred-page-lm-book-chapter-2.html",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-17T18:26:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49380671",
-    "title": "Scientists Release Biggest 2D Map of the Universe",
-    "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-20T21:42:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49295112",
-    "title": "Speeding Up (Small) Ruby Hashes",
-    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-14T05:45:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49380226",
-    "title": "The Wonders of the Male Human Pelvis",
-    "url": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-20T21:01:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49380482",
-    "title": "Code as an Artifact",
-    "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-20T21:24:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49380491",
-    "title": "Citizen Devs: Everyone is an engineer now",
-    "url": "https://www.massdriver.cloud/blogs/the-citizen-developer",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-08-20T21:25:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yigyaq",
-    "title": "Zero-Knowledge Proofs Aren’t Age Verification Silver Bullets",
-    "url": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-20T15:48:12.124-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:akitaonrails/ai-memory",
-    "title": "ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49379550",
-    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-08-20T20:07:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49312797",
-    "title": "Fossilisation processes and our reading of animal antiquity",
-    "url": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00137-4",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-15T18:06:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49378446",
-    "title": "Why Aren't Smart People Happier?",
-    "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-20T18:38:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49379026",
-    "title": "GitHub, autoscaling, and the component substitution fallacy",
-    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-20T19:28:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49378950",
-    "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
-    "url": "https://tidalcycles.org/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-20T19:21:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49378933",
-    "title": "SpacetimeDB: A Short Technical Review",
-    "url": "https://strn.cat/posts/spacetime/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-20T19:19:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49379253",
-    "title": "Stop eating lady gaga's oreos",
-    "url": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-08-20T19:46:06+00:00",
     "summary": "",
     "key_points": []
   }
