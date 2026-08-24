@@ -1,5 +1,65 @@
 [
   {
+    "id": "lobsters:jxloti",
+    "title": "SVG Filter Effects: Creating Texture with <feTurbulence> (2019)",
+    "url": "https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-23T16:24:36.750-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:slaivx",
+    "title": "offgrid electric car (2025)",
+    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-23T19:15:01.462-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236662",
+    "title": "用小米这款显示器的注意，周六晚上烧了.",
+    "url": "https://www.v2ex.com/t/1236662",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-08-24T00:41:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236619",
+    "title": "90~95 年的 v2er，你是如何接纳自己已经老了这件事的？",
+    "url": "https://www.v2ex.com/t/1236619",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-08-23T12:48:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676165309280796698",
+    "title": "Sandbox（沙箱）到底是什么?",
+    "url": "https://juejin.cn/post/7676165309280796698",
+    "source": "juejin",
+    "score": 0.49946751,
+    "published_at": "2026-08-21T04:49:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49412328",
+    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+    "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-08-23T20:30:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49413093",
     "title": "Parallel development without the headaches using Git worktree",
     "url": "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/",
@@ -4936,66 +4996,6 @@
     "source": "hackernews",
     "score": 18.0,
     "published_at": "2026-08-17T10:32:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49376211",
-    "title": "Generic Methods in Go 1.27",
-    "url": "https://dominik.info/blog/go-generic-methods",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-20T15:41:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49377248",
-    "title": "Sixtyfour (YC P25) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-08-20T17:01:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:n7kpm6",
-    "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
-    "url": "https://www.ethanheilman.com/x/33/index.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-20T10:24:43.059-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mxnn9v",
-    "title": "Double-double: 31 digits of precision without leaving the FPU",
-    "url": "https://marekfiser.com/blog/double-double-arithmetic",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-20T10:31:17.514-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:eesu8d",
-    "title": "Bun 1.4",
-    "url": "https://bun.com/blog/bun-v1.4",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-08-20T09:37:52.628-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674686524114944050",
-    "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
-    "url": "https://juejin.cn/post/7674686524114944050",
-    "source": "juejin",
-    "score": 0.497737,
-    "published_at": "2026-08-17T05:29:34+00:00",
     "summary": "",
     "key_points": []
   }
