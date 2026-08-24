@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:0typpq",
+    "title": "I cannot survive from burnout",
+    "url": "https://lobste.rs/s/0typpq",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-24T11:04:45.869-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wxjtxq",
+    "title": "Can a blog post be handwritten?",
+    "url": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-24T11:18:06.386-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420783",
+    "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
+    "url": "https://inferquest.org",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-24T15:02:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420861",
+    "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
+    "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-24T15:07:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49421347",
+    "title": "Three Generations in E7",
+    "url": "https://johncarlosbaez.wordpress.com/2026/08/12/three-generations-in-e7/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-24T15:40:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420999",
+    "title": "NetBSD GSoC 2026 Improving RAIDframe",
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-24T15:17:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420781",
+    "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-24T15:01:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420832",
+    "title": "Adafruit USB Type C CC Resistor Fixer",
+    "url": "https://www.adafruit.com/product/6323",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-24T15:05:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49422548",
+    "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-24T16:52:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49421806",
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+    "url": "https://picomq.com/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-24T16:08:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49421948",
+    "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+    "url": "https://glassbox.codecanary.org",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-24T16:15:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49422243",
+    "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+    "url": "https://github.com/ovenpasta/adi2",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-24T16:30:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49421536",
+    "title": "Jabber/XMPP: 25 Years of Digital Independence",
+    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-08-24T15:51:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49422204",
+    "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+    "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-08-24T16:29:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49422227",
+    "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+    "url": "https://arxiv.org/abs/2608.16603",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-24T16:30:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:oqv9np",
     "title": "IPython is All You Need",
     "url": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
@@ -4846,156 +4996,6 @@
     "source": "hackernews",
     "score": 4.0,
     "published_at": "2026-08-15T18:20:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49386699",
-    "title": "I'm Becoming AI-Blind",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-21T11:48:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387856",
-    "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
-    "url": "https://arxiv.org/abs/2608.18214",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-21T13:35:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387497",
-    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-    "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-08-21T13:04:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mfo0fd",
-    "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
-    "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-21T07:47:30.402-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ittn74",
-    "title": "What are you doing this weekend?",
-    "url": "https://lobste.rs/s/ittn74",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-21T06:47:03.677-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:c9xng0",
-    "title": "The road to ACID transactions in Cassandra 6",
-    "url": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-21T07:08:34.779-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dyswyz",
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-08-21T07:05:00.528-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676301268526530560",
-    "title": "在这个独属于ai的时代，我终究是被裁员了",
-    "url": "https://juejin.cn/post/7676301268526530560",
-    "source": "juejin",
-    "score": 5.69439819,
-    "published_at": "2026-08-21T09:21:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49318718",
-    "title": "Siemens PC-X (2015)",
-    "url": "https://www.geekdot.com/siemens-pc-x/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-16T10:28:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49386895",
-    "title": "Felony charges for citizen deleting phone data at US Border",
-    "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-08-21T12:10:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49319733",
-    "title": "The Mystery of Dark Oxygen",
-    "url": "https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-16T13:11:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49386383",
-    "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
-    "url": "https://github.com/yaroslav/kino",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-21T11:06:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49386659",
-    "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
-    "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-08-21T11:43:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49385994",
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "url": "https://annas-archive.pk/blog/physical-destruction.html",
-    "source": "hackernews",
-    "score": 159.0,
-    "published_at": "2026-08-21T10:05:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dxjbaj",
-    "title": "Bazzite Deck 44 Launches Today",
-    "url": "https://universal-blue.discourse.group/t/bazzites-biggest-update-deck-44-has-launched-happy-birthday-to-universal-blue/12373",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-21T05:37:21.453-05:00",
     "summary": "",
     "key_points": []
   }
