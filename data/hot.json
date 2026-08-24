@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:lo28ad",
+    "title": "What are you doing this week?",
+    "url": "https://lobste.rs/s/lo28ad",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-24T04:40:30.431-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xlorxi",
+    "title": "3 constraints before I build anything | Jordan Lord",
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-24T04:43:23.428-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236670",
+    "title": "mysql 26.7.0 发布了",
+    "url": "https://www.v2ex.com/t/1236670",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-08-24T01:11:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676901441995391014",
+    "title": "为啥Agent在coding表现这么好，但是在别的领域就是差的不少？",
+    "url": "https://juejin.cn/post/7676901441995391014",
+    "source": "juejin",
+    "score": 0.58750502,
+    "published_at": "2026-08-23T15:38:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7675671057672437775",
+    "title": "代码洁癖患者会喜欢的几款 CLI 小工具",
+    "url": "https://juejin.cn/post/7675671057672437775",
+    "source": "juejin",
+    "score": 0.11438425,
+    "published_at": "2026-08-20T01:38:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676635687798177846",
+    "title": "DeepSeek还是“睁眼瞎” ，最新视觉模型测试！",
+    "url": "https://juejin.cn/post/7676635687798177846",
+    "source": "juejin",
+    "score": 6.89207129,
+    "published_at": "2026-08-23T04:25:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49414934",
+    "title": "Why is Anthropic's public writing style so unlike Claude's?",
+    "url": "https://cmart.blog/claude-writing/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-08-24T03:32:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49417394",
+    "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-24T09:45:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49416652",
+    "title": "Fast drilldown dashboards from a single Parquet file",
+    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-24T08:13:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49416953",
+    "title": "The Future Belongs to the Weird",
+    "url": "https://essays.georgestrakhov.com/weird/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-24T08:46:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49417313",
+    "title": "We never use AI. For anything",
+    "url": "https://corkmac.app/our-ai-stance/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-24T09:32:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ihethb",
     "title": "Building certgrep.sh: a free certificate transparency search engine",
     "url": "https://haveibeensquatted.com/blog/building-certgrep",
@@ -4886,116 +4996,6 @@
     "source": "juejin",
     "score": 0.25856512,
     "published_at": "2026-08-19T03:52:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675261669513953290",
-    "title": "高级前端如何优雅地拒绝不合理的产品需求？",
-    "url": "https://juejin.cn/post/7675261669513953290",
-    "source": "juejin",
-    "score": 0.84552868,
-    "published_at": "2026-08-19T02:07:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49382614",
-    "title": "Artificial Intelligence Policy",
-    "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-08-21T01:37:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49304409",
-    "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
-    "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-14T20:49:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hbjeir",
-    "title": "Announcing Rust 1.98.0",
-    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-20T19:38:21.813-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235839",
-    "title": "做了一个删文字改剧情的游戏",
-    "url": "https://www.v2ex.com/t/1235839",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-08-20T04:07:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1235783",
-    "title": "手机选择",
-    "url": "https://www.v2ex.com/t/1235783",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-08-20T02:04:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236025",
-    "title": "如何把尿道结石排出来?",
-    "url": "https://www.v2ex.com/t/1236025",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-08-21T00:00:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675626442046832694",
-    "title": "三星安卓系统BUG排查记录：云闪付、铁路12306、个人所得税、中国移动等App，长期闪退的根本原因分析",
-    "url": "https://juejin.cn/post/7675626442046832694",
-    "source": "juejin",
-    "score": 0.94914759,
-    "published_at": "2026-08-19T16:05:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49330246",
-    "title": "Speeding Up the Plush Garbage Collector",
-    "url": "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-17T13:09:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49328758",
-    "title": "My Microscope Is a Dashcam",
-    "url": "https://xecaz.com/reverse.engineering/tomlovdm9/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-17T10:24:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49381896",
-    "title": "Stealth Model",
-    "url": "https://openrouter.ai/stealth/ox-alpha",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-08-20T23:56:35+00:00",
     "summary": "",
     "key_points": []
   }
