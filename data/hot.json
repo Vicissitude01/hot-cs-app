@@ -1,5 +1,35 @@
 [
   {
+    "id": "lobsters:daohlz",
+    "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
+    "url": "https://routeup.dev",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-24T14:08:59.286-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420530",
+    "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-08-24T14:44:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49424387",
+    "title": "LLMs could control their host machines by exploiting inference engines",
+    "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-24T19:03:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49423886",
     "title": "Your \"File\" Menu Isn't About Files",
     "url": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
@@ -4966,36 +4996,6 @@
     "source": "hackernews",
     "score": 8.0,
     "published_at": "2026-08-21T13:40:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49389491",
-    "title": "The B-right/V R2 Operating System",
-    "url": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-21T15:20:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49389392",
-    "title": "c100",
-    "url": "https://caligra.com/c100/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-21T15:14:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49388752",
-    "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
-    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-08-21T14:31:52+00:00",
     "summary": "",
     "key_points": []
   }
