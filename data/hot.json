@@ -1,5 +1,75 @@
 [
   {
+    "id": "lobsters:3vg7ts",
+    "title": "Control and complexity: tension in systems design",
+    "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-24T06:58:18.911-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236838",
+    "title": "最近两个月都没怎么睡过好觉",
+    "url": "https://www.v2ex.com/t/1236838",
+    "source": "v2ex",
+    "score": 144.0,
+    "published_at": "2026-08-24T08:21:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49418449",
+    "title": "Anthropic candidates face blunt money question",
+    "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-24T11:55:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49418675",
+    "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
+    "url": "https://news.ycombinator.com/item?id=49418675",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-24T12:18:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49418163",
+    "title": "Agent Is Not the Model",
+    "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-24T11:20:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49418117",
+    "title": "Omakase Computing",
+    "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-08-24T11:13:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49418255",
+    "title": "SeL4 security proofs now complete on AArch64",
+    "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-08-24T11:32:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:rehaa3",
     "title": "Emacs 31.1 released",
     "url": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
@@ -4926,76 +4996,6 @@
     "source": "hackernews",
     "score": 23.0,
     "published_at": "2026-08-21T06:59:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49384896",
-    "title": "The Lost Treasure of Sid Meier's Pirates",
-    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-21T07:23:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:khphqe",
-    "title": "Bringing Primary Constructors to Dart",
-    "url": "https://dart.dev/blog/bringing-primary-constructors-to-dart",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-21T01:44:53.126-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236086",
-    "title": "[中转站] plus 炸了你们用什么？来我这 0.03 opus4.6，无敌平替",
-    "url": "https://www.v2ex.com/t/1236086",
-    "source": "v2ex",
-    "score": 80.0,
-    "published_at": "2026-08-21T02:39:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236047",
-    "title": "半夜腰疼",
-    "url": "https://www.v2ex.com/t/1236047",
-    "source": "v2ex",
-    "score": 82.0,
-    "published_at": "2026-08-21T01:30:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675538244907221001",
-    "title": "我把 DeepSeek Harness 跑了一遍，终于知道它和 Codex 差在哪了",
-    "url": "https://juejin.cn/post/7675538244907221001",
-    "source": "juejin",
-    "score": 0.28200853,
-    "published_at": "2026-08-19T08:15:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675899462443122726",
-    "title": "DeepSeek Harness 这波，搞得全世界都在安装 Node.js",
-    "url": "https://juejin.cn/post/7675899462443122726",
-    "source": "juejin",
-    "score": 0.64613005,
-    "published_at": "2026-08-20T06:58:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49336358",
-    "title": "Version Control for Everything",
-    "url": "https://tyoverby.com/posts/version-control-for-everything-else/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-17T19:28:44+00:00",
     "summary": "",
     "key_points": []
   }
