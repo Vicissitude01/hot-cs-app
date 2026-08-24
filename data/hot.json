@@ -1,5 +1,45 @@
 [
   {
+    "id": "hackernews:49424882",
+    "title": "Greg Abbott says data centers:'basically dug their own grave'",
+    "url": "https://www.businessinsider.com/greg-abbott-texas-data-centers-backlash-2026-8",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-24T19:43:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49390993",
+    "title": "Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour",
+    "url": "https://skimmiq.com/pt/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-21T17:05:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49424606",
+    "title": "Oceans hit highest temperature on record",
+    "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+    "source": "hackernews",
+    "score": 139.0,
+    "published_at": "2026-08-24T19:19:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49424758",
+    "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+    "url": "https://github.com/l3a0/claude-plugins",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-24T19:32:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:daohlz",
     "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
     "url": "https://routeup.dev",
@@ -4956,46 +4996,6 @@
     "source": "hackernews",
     "score": 4.0,
     "published_at": "2026-08-21T14:27:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49388694",
-    "title": "Zig's Io.Threaded Is Neat",
-    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-21T14:28:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387221",
-    "title": "Nothing Doing",
-    "url": "https://www.futilitycloset.com/2026/08/10/nothing-doing-12/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-21T12:40:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49321549",
-    "title": "John Berger: From Life by Tom Overton review – a vibrant biography",
-    "url": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-16T16:37:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387915",
-    "title": "Getting silly with C, part and((int*)-8)[3]",
-    "url": "https://blog.coredump.cx/p/getting-silly-with-c-part-and-int1",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-21T13:40:22+00:00",
     "summary": "",
     "key_points": []
   }
