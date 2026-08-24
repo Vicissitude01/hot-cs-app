@@ -1,5 +1,75 @@
 [
   {
+    "id": "hackernews:49423886",
+    "title": "Your \"File\" Menu Isn't About Files",
+    "url": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-24T18:21:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49423927",
+    "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+    "url": "https://github.com/getkern/kern",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-24T18:24:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49423832",
+    "title": "Technology Is Over",
+    "url": "https://www.taylorforeman.com/p/technology-is-over",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-24T18:18:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49424167",
+    "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
+    "url": "https://textlog.cc/post/2059",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-24T18:45:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49423445",
+    "title": "Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9",
+    "url": "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-24T17:50:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49423799",
+    "title": "What Is a Syslog Server?",
+    "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-24T18:15:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49424082",
+    "title": "Anger, Anxiety and Agency",
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-24T18:37:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gzddgr",
     "title": "AI Coding will Prevent Expertise | Lars Faye",
     "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
@@ -4926,76 +4996,6 @@
     "source": "hackernews",
     "score": 49.0,
     "published_at": "2026-08-21T14:31:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zcgvtz",
-    "title": "Music theory for programmers",
-    "url": "https://runjs.app/blog/music-theory-for-programmers",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-21T07:03:04.429-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674910507414159403",
-    "title": "为什么同一段代码在 Safari 上永远有 Bug？",
-    "url": "https://juejin.cn/post/7674910507414159403",
-    "source": "juejin",
-    "score": 0.83160941,
-    "published_at": "2026-08-18T02:07:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387755",
-    "title": "Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark",
-    "url": "https://twitter.com/NVIDIAAI/status/2090786258981466231",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-08-21T13:26:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49386877",
-    "title": "The road to ACID transactions in Cassandra 6",
-    "url": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-21T12:08:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387687",
-    "title": "Convite",
-    "url": "https://www.guidavid.com/writing/convite",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-21T13:21:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49388064",
-    "title": "Rama 0.4: System proxy and PAC support",
-    "url": "https://plabayo.tech/blog/rama-0-4",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-21T13:50:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387349",
-    "title": "DuckDB V2 PEG-based SQL parser",
-    "url": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-21T12:52:25+00:00",
     "summary": "",
     "key_points": []
   }
