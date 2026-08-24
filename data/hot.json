@@ -1,5 +1,65 @@
 [
   {
+    "id": "lobsters:ihethb",
+    "title": "Building certgrep.sh: a free certificate transparency search engine",
+    "url": "https://haveibeensquatted.com/blog/building-certgrep",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-24T03:40:45.324-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236719",
+    "title": "摸鱼浏览器无敌广告模式[留邮发码]",
+    "url": "https://www.v2ex.com/t/1236719",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-08-24T02:41:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677254638324350986",
+    "title": "一行 CSS 新特性干掉 20 行 JavaScript ?",
+    "url": "https://juejin.cn/post/7677254638324350986",
+    "source": "juejin",
+    "score": 3.19852106,
+    "published_at": "2026-08-24T04:03:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415271",
+    "title": "Executable Is a SQLite Database",
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-08-24T04:48:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49416366",
+    "title": "We are not going anywhere",
+    "url": "https://gist.github.com/omeid/a9d6d1e3c25cb3aa577931e60e006f54",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-08-24T07:37:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49416200",
+    "title": "The Work Number: credit score but for your employment history – by Equifax",
+    "url": "https://employees.theworknumber.com",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-08-24T07:17:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:tkvorw",
     "title": "Kodak DC50 now usable on the Apple II",
     "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
@@ -4936,66 +4996,6 @@
     "source": "hackernews",
     "score": 24.0,
     "published_at": "2026-08-20T23:56:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49382200",
-    "title": "It is a sign of the times that Amazon gets to call this fair use",
-    "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-21T00:34:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49382152",
-    "title": "There's no such thing as a small software team anymore",
-    "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-21T00:28:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49382041",
-    "title": "Copyright does not protect AI-generated content in EU",
-    "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-08-21T00:15:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ygsics",
-    "title": "Decoding Magic School Lunar's Save Game Format",
-    "url": "http://mistys-internet.website/blog/blog/2026/08/01/decoding-magic-school-lunars-save-game-format",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-20T17:18:54.482-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ikhwaz",
-    "title": "Emacs 31.1 will release on 8/24",
-    "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-08-20T11:58:11.479-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49381311",
-    "title": "Detecting scraper bots through scroll behaviour",
-    "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-20T22:47:52+00:00",
     "summary": "",
     "key_points": []
   }
