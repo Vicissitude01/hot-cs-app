@@ -1,5 +1,55 @@
 [
   {
+    "id": "lobsters:vcdk2q",
+    "title": "Everything I own, owned",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-23T22:22:13.331-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677033127248805907",
+    "title": "Dart 3.13 的到底改了什么？为什么很重要？有什么坑？",
+    "url": "https://juejin.cn/post/7677033127248805907",
+    "source": "juejin",
+    "score": 3.59421991,
+    "published_at": "2026-08-24T01:02:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415237",
+    "title": "AI Is Quietly Draining the Public Internet of Thought",
+    "url": "https://twitter.com/BrianRoemmele/status/2091127620431933780",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-24T04:41:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415393",
+    "title": "OpenAI web interface to Claude down, again",
+    "url": "https://news.ycombinator.com/item?id=49415393",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-24T05:10:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415187",
+    "title": "Nearly 3M Teslas recalled in China over hidden door handles",
+    "url": "https://www.bbc.com/news/articles/c4g6ggdg030o",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-08-24T04:27:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:pkktjt",
     "title": "Adding JIT-compilation to a toy interpreter with libgccjit",
     "url": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html",
@@ -4946,56 +4996,6 @@
     "source": "hackernews",
     "score": 6.0,
     "published_at": "2026-08-20T18:25:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49290082",
-    "title": "Gauguin, Descartes, Bayes: A Diurnal Golem's Brain",
-    "url": "https://dl.acm.org/doi/10.1145/3759429.3762631",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-13T18:30:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49378957",
-    "title": "The August 17 outage, and the work ahead",
-    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-20T19:22:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49378768",
-    "title": "Show HN: Huzzah – a novel approach to coding with AI",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-20T19:05:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49378243",
-    "title": "Consumer Rights Wiki",
-    "url": "https://consumerrights.wiki/w/Main_Page",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-20T18:19:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49378630",
-    "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
-    "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-08-20T18:54:32+00:00",
     "summary": "",
     "key_points": []
   }
