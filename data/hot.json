@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:wbtixi",
+    "title": "US data centers tripled water use to 17 billion gallons",
+    "url": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-25T09:18:01.902-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677762452274085914",
+    "title": "图解 AI Agent ②：模型到底是怎么读取文件的？",
+    "url": "https://juejin.cn/post/7677762452274085914",
+    "source": "juejin",
+    "score": 2.24099775,
+    "published_at": "2026-08-25T07:14:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49430007",
+    "title": "Windows 95 released August 24, 1995",
+    "url": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-08-25T06:56:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49434914",
+    "title": "Polishing Cloth",
+    "url": "https://www.apple.com/shop/product/mlh74am/a/polishing-cloth",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-25T14:35:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49434613",
+    "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
+    "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-25T14:18:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49435495",
+    "title": "Beyond Good and Evil: Nietzsche and the Great War",
+    "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-25T15:09:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49434830",
+    "title": "Apple Releases New Polishing Cloth",
+    "url": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-08-25T14:30:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49434645",
+    "title": "Building a backyard office, the build and cost breakdown",
+    "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-08-25T14:20:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49434820",
+    "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-08-25T14:29:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:useg7x",
     "title": "The XY Problem",
     "url": "https://xyproblem.info/",
@@ -4906,96 +4996,6 @@
     "source": "lobsters",
     "score": 1.0,
     "published_at": "2026-08-22T00:08:21.146-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zfew3n",
-    "title": "Roomy is generally available",
-    "url": "https://blog.roomy.space/3mplw6vvw4s23",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-22T00:19:19.546-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236149",
-    "title": "codex 订阅额度降幅达 50%！刚刚 tibo 已经回应，是为防止滥用行为",
-    "url": "https://www.v2ex.com/t/1236149",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-08-21T05:40:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236348",
-    "title": "李彦宏提出要让文心一言回到第一梯队",
-    "url": "https://www.v2ex.com/t/1236348",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-08-22T02:01:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49384210",
-    "title": "Stop Making TUIs",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "source": "hackernews",
-    "score": 68.0,
-    "published_at": "2026-08-21T05:37:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49396620",
-    "title": "4 in 10 travellers visit tourist sites to capture social media content",
-    "url": "https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-08-22T04:42:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lmpkkr",
-    "title": "Programming Language Semantics and Memory Safety",
-    "url": "https://burakemir.ch/post/formal-semantics/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-21T23:19:40.678-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236137",
-    "title": "牛来的票房是因为当下压力太大吗",
-    "url": "https://www.v2ex.com/t/1236137",
-    "source": "v2ex",
-    "score": 58.0,
-    "published_at": "2026-08-21T04:41:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236190",
-    "title": "你们公司开始夯实社保了吗？",
-    "url": "https://www.v2ex.com/t/1236190",
-    "source": "v2ex",
-    "score": 66.0,
-    "published_at": "2026-08-21T07:15:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49379183",
-    "title": "How orchids inspired the work of Charles Darwin",
-    "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-20T19:41:32+00:00",
     "summary": "",
     "key_points": []
   }
