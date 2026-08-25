@@ -1,5 +1,35 @@
 [
   {
+    "id": "lobsters:qc6pjd",
+    "title": "AI At Home Part 2: Multi GPU Drifting",
+    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-25T13:20:38.747-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49440410",
+    "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-25T20:49:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49439499",
+    "title": "C2PA Cameras Do Not Survive Contact with Reality",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-25T19:38:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "github-trending:openai/codex",
     "title": "codex",
     "url": "https://github.com/openai/codex",
@@ -4966,36 +4996,6 @@
     "source": "v2ex",
     "score": 50.0,
     "published_at": "2026-08-22T02:59:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ripienaar/free-for-dev",
-    "title": "free-for-dev",
-    "url": "https://github.com/ripienaar/free-for-dev",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:multica-ai/andrej-karpathy-skills",
-    "title": "andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/claude-code",
-    "title": "claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
