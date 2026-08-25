@@ -1,5 +1,65 @@
 [
   {
+    "id": "lobsters:vr7u5k",
+    "title": "Feature comparison of ack, ag, git-grep, grep and ripgrep",
+    "url": "https://beyondgrep.com/feature-comparison/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-25T09:49:30.800-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4netv1",
+    "title": "C2PA Cameras Do Not Survive Contact With Reality",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-25T10:51:24.594-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gizvfn",
+    "title": "I stabilized never type",
+    "url": "https://blog.ihatereality.space/0C-never-type/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-25T10:11:30.269-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677502358059073588",
+    "title": "外包前端和大厂前端，写的代码到底有什么本质区别？",
+    "url": "https://juejin.cn/post/7677502358059073588",
+    "source": "juejin",
+    "score": 1.18347193,
+    "published_at": "2026-08-25T01:52:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49435147",
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-08-25T14:48:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49435728",
+    "title": "How much of HN is AI?",
+    "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+    "source": "hackernews",
+    "score": 106.0,
+    "published_at": "2026-08-25T15:23:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:wbtixi",
     "title": "US data centers tripled water use to 17 billion gallons",
     "url": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
@@ -4936,66 +4996,6 @@
     "source": "lobsters",
     "score": 1.0,
     "published_at": "2026-08-22T01:37:19.262-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236270",
-    "title": "[送码] 那个爱看星星的小孩，三十年后终于奖励了自己一个大玩具",
-    "url": "https://www.v2ex.com/t/1236270",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-08-21T10:39:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236332",
-    "title": "网传：程序员失业后，被离婚周期是半年，可信度多少？",
-    "url": "https://www.v2ex.com/t/1236332",
-    "source": "v2ex",
-    "score": 56.0,
-    "published_at": "2026-08-22T00:12:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236307",
-    "title": "迁到 DeepSeek Harness 后，我发现开发团队可以裁掉了",
-    "url": "https://www.v2ex.com/t/1236307",
-    "source": "v2ex",
-    "score": 58.0,
-    "published_at": "2026-08-21T14:38:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49391661",
-    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
-    "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-21T17:54:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49396590",
-    "title": "GPT 5.6 Sol 20% price reduction",
-    "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-08-22T04:33:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bhzp2z",
-    "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
-    "url": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T00:08:21.146-05:00",
     "summary": "",
     "key_points": []
   }
