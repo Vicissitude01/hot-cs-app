@@ -1,5 +1,55 @@
 [
   {
+    "id": "lobsters:za8vwp",
+    "title": "Run OpenBSD on DigitalOcean for $4/month",
+    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-25T11:44:37.661-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xxud6k",
+    "title": "Thinking Is Slow. Copying Is Fast. | Michael Gomes Vieira",
+    "url": "https://michaelgv.uk/posts/2026/08/thinking-is-slow-copying-is-fast/",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-08-25T11:45:51.290-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49432786",
+    "title": "Solving the 1+N Query Problem",
+    "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-25T12:26:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49423878",
+    "title": "Visualizing Binary Files",
+    "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-24T18:21:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49435781",
+    "title": "Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-25T15:26:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:vr7u5k",
     "title": "Feature comparison of ack, ag, git-grep, grep and ripgrep",
     "url": "https://beyondgrep.com/feature-comparison/",
@@ -4946,56 +4996,6 @@
     "source": "lobsters",
     "score": 1.0,
     "published_at": "2026-08-22T02:27:26.681-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236355",
-    "title": "纯直男求推荐一些靠谱的护肤/美白品,我对美妆完全不通.找资料看的头大感觉基本都是带货的.",
-    "url": "https://www.v2ex.com/t/1236355",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-08-22T02:28:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236335",
-    "title": "Tibo 已发 重置卡 注意查收",
-    "url": "https://www.v2ex.com/t/1236335",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-08-22T00:41:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49397074",
-    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-    "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-08-22T06:16:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lzgbrv",
-    "title": "The cool things of Gleam",
-    "url": "https://a.baez.link/3mtdbbp2dmc27",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T01:16:08.504-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ku4v3b",
-    "title": "Compile-Time Improvements in LLVM 23",
-    "url": "https://aengelke.net/llvm23-ct.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T01:37:19.262-05:00",
     "summary": "",
     "key_points": []
   }
