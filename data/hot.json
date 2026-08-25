@@ -1,5 +1,65 @@
 [
   {
+    "id": "lobsters:fyps8w",
+    "title": "Haskell diagrams: Tessellations",
+    "url": "https://mgarletmilani.com/blog/2026-06-03-tessellations/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-25T01:42:59.564-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:k5feqe",
+    "title": "Solving the 1+N query problem",
+    "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-25T03:25:23.534-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236934",
+    "title": "xyz 域名要涨价了",
+    "url": "https://www.v2ex.com/t/1236934",
+    "source": "v2ex",
+    "score": 98.0,
+    "published_at": "2026-08-25T00:12:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237009",
+    "title": "我是真的犯贱，去 Linux DO 上推荐自己的开源项目。味太大了，生理不适",
+    "url": "https://www.v2ex.com/t/1237009",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-08-25T03:31:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236964",
+    "title": "网络义父们，微信小程序用户上传图片一般怎么控制成本的？",
+    "url": "https://www.v2ex.com/t/1236964",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-08-25T01:46:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677562804154531890",
+    "title": "走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术",
+    "url": "https://juejin.cn/post/7677562804154531890",
+    "source": "juejin",
+    "score": 12.87308974,
+    "published_at": "2026-08-25T06:25:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1237045",
     "title": "干了件蠢事，拿 WD-40 喷了刹车盘",
     "url": "https://www.v2ex.com/t/1237045",
@@ -4936,66 +4996,6 @@
     "source": "hackernews",
     "score": 5.0,
     "published_at": "2026-08-21T23:09:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:microsoft/onnxruntime",
-    "title": "onnxruntime",
-    "url": "https://github.com/microsoft/onnxruntime",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:elder-plinius/OBLITERATUS",
-    "title": "OBLITERATUS",
-    "url": "https://github.com/elder-plinius/OBLITERATUS",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:protocolbuffers/protobuf",
-    "title": "protobuf",
-    "url": "https://github.com/protocolbuffers/protobuf",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:apache/maka",
-    "title": "maka",
-    "url": "https://github.com/apache/maka",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ruvnet/ruflo",
-    "title": "ruflo",
-    "url": "https://github.com/ruvnet/ruflo",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:TryGhost/Ghost",
-    "title": "Ghost",
-    "url": "https://github.com/TryGhost/Ghost",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
