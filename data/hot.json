@@ -1,5 +1,55 @@
 [
   {
+    "id": "lobsters:4haxto",
+    "title": "A Design Space Exploration of Async/Await",
+    "url": "https://arxiv.org/pdf/2608.20677",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-25T03:04:13.837-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9w5eos",
+    "title": "Porffor goes alpha August 11th",
+    "url": "https://honk.foo/porffor-alpha/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-25T05:01:40.386-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4wh5ng",
+    "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
+    "url": "https://nemin.hu/vps/index.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-25T05:42:16.580-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237082",
+    "title": "中国人的人均地理水平差的程度，已经开始污染美国 AI 了",
+    "url": "https://www.v2ex.com/t/1237082",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-08-25T07:42:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49431364",
+    "title": "Why some US restaurants are banning tips",
+    "url": "https://www.bbc.com/news/articles/c4g36yze692o",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-08-25T10:09:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gxcqxj",
     "title": "Galaxium, a WebGPU universe explorer",
     "url": "https://galaxium.app",
@@ -4946,56 +4996,6 @@
     "source": "hackernews",
     "score": 17.0,
     "published_at": "2026-08-21T17:45:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49395171",
-    "title": "HN: The Good Parts (2016)",
-    "url": "https://danluu.com/hn-comments/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-21T23:53:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49393052",
-    "title": "Rust Glancer: Rust LSP using 100x less RAM",
-    "url": "https://rust-glancer.github.io/blog/hello-world/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-08-21T19:51:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49395040",
-    "title": "Paul Atkins Misreads Adam Smith and the American Founding",
-    "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-21T23:32:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49394373",
-    "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
-    "url": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-08-21T22:15:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49394496",
-    "title": "Three important steps in my maturation process",
-    "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-21T22:29:00+00:00",
     "summary": "",
     "key_points": []
   }
