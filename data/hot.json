@@ -1,5 +1,75 @@
 [
   {
+    "id": "juejin:7676809743765241862",
+    "title": "腾讯正式上线AI应用生成平台：一句话生成 App，还能直接上架商店",
+    "url": "https://juejin.cn/post/7676809743765241862",
+    "source": "juejin",
+    "score": 0.4163429,
+    "published_at": "2026-08-24T00:16:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49389593",
+    "title": "Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
+    "url": "https://github.com/uncognic/steppewm",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-21T15:27:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420598",
+    "title": "Walgit – a Git server that is one binary in front of an object store",
+    "url": "https://github.com/tobi/walgit",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-08-24T14:49:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49419252",
+    "title": "What's new in Emacs 31.1",
+    "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-08-24T13:07:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420116",
+    "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
+    "url": "https://kylezhe.ng/writes/crafting-qr-codes",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-08-24T14:15:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49422226",
+    "title": "Ox-Alpha Is GLM?",
+    "url": "https://dejan.ai/blog/ox-alpha/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-08-24T16:30:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49399722",
+    "title": "Nostr is an inclusive communication commons",
+    "url": "https://nostr.org/",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-08-22T13:49:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1236846",
     "title": "记买车一周年",
     "url": "https://www.v2ex.com/t/1236846",
@@ -4926,76 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-08-21T15:24:46.035-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49392877",
-    "title": "Church of the TigerBeetle: A Look at Tech Evangelism",
-    "url": "https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-21T19:35:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49392465",
-    "title": "Tumble Forth – from assembly to OS with C compiler",
-    "url": "https://tumbleforth.hardcoded.net/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-21T18:59:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49393051",
-    "title": "Quick impressions: A week of using Codex more than Claude",
-    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-21T19:51:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49332812",
-    "title": "Using an old Android phone as a music player",
-    "url": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-17T15:40:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49392331",
-    "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-21T18:48:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49327408",
-    "title": "People of ACM – Russ Cox",
-    "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-17T07:12:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pywde0",
-    "title": "Felony Bench: Be AI, Do Crime",
-    "url": "https://www.felonybench.com/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-21T12:23:02.886-05:00",
     "summary": "",
     "key_points": []
   }
