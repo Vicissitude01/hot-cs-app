@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:b15udy",
+    "title": "Another look at SQLite's WAL-Reset bug",
+    "url": "https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-25T05:46:18.571-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jjspxh",
+    "title": "MNT Station - A modular, open hardware desktop computer and server",
+    "url": "https://www.crowdsupply.com/mnt-research/mnt-station",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-25T06:16:01.500-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:asciimoo/hister",
+    "title": "hister",
+    "url": "https://github.com/asciimoo/hister",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/claude-plugins-official",
+    "title": "claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:DietrichGebert/ponytail",
+    "title": "ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:marin-community/marin",
+    "title": "marin",
+    "url": "https://github.com/marin-community/marin",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Shubhamsaboo/awesome-llm-apps",
+    "title": "awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:TauricResearch/TradingAgents",
+    "title": "TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49432201",
+    "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+    "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-25T11:37:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49431560",
+    "title": "Quantum battery upends the rules of charging",
+    "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-08-25T10:34:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:4haxto",
     "title": "A Design Space Exploration of Async/Await",
     "url": "https://arxiv.org/pdf/2608.20677",
@@ -4896,106 +4996,6 @@
     "source": "hackernews",
     "score": 84.0,
     "published_at": "2026-08-22T01:06:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pdx6jg",
-    "title": "Exim 4.100 released",
-    "url": "https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-21T15:54:08.896-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236141",
-    "title": "由于爱快拉跨，准备全面更换为 ros，并把家庭网络架构重构一下",
-    "url": "https://www.v2ex.com/t/1236141",
-    "source": "v2ex",
-    "score": 82.0,
-    "published_at": "2026-08-21T04:55:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236157",
-    "title": "似乎找到了自己在 V 站的定位",
-    "url": "https://www.v2ex.com/t/1236157",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-08-21T06:01:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236222",
-    "title": "ChatGPT 5X 一个月 800 多舍不得",
-    "url": "https://www.v2ex.com/t/1236222",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-08-21T08:26:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236273",
-    "title": "大家对最近的 12306 两人三张票三座 怎么看,个人反对!",
-    "url": "https://www.v2ex.com/t/1236273",
-    "source": "v2ex",
-    "score": 100.0,
-    "published_at": "2026-08-21T10:58:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236071",
-    "title": "苹果 9 月初 iphone18 发布会， iphone17 会降价？",
-    "url": "https://www.v2ex.com/t/1236071",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-08-21T02:17:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49326852",
-    "title": "Show HN: Rex, a parallel functional language for scientific workflows",
-    "url": "https://github.com/peterkelly/rex",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-17T05:28:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49376769",
-    "title": "Everyone says assembly is untyped—everyone is wrong",
-    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-08-20T16:22:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49376197",
-    "title": "Autolith: A programming agent with a live runtime",
-    "url": "https://www.lambda-symbolics.com/autolith",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-20T15:40:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49391553",
-    "title": "OTel isn't going well (and I made a spreadsheet about it)",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-21T17:45:41+00:00",
     "summary": "",
     "key_points": []
   }
