@@ -1,5 +1,75 @@
 [
   {
+    "id": "v2ex:1236846",
+    "title": "记买车一周年",
+    "url": "https://www.v2ex.com/t/1236846",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-08-24T08:49:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236973",
+    "title": "为什么机器人一定是“人”呢",
+    "url": "https://www.v2ex.com/t/1236973",
+    "source": "v2ex",
+    "score": 150.0,
+    "published_at": "2026-08-25T02:08:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677170455305879562",
+    "title": "图解 AI Agent ①：大模型接上 API，为什么还不算 Agent？",
+    "url": "https://juejin.cn/post/7677170455305879562",
+    "source": "juejin",
+    "score": 0.62966023,
+    "published_at": "2026-08-24T06:20:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49428842",
+    "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+    "url": "https://news.ycombinator.com/item?id=49428842",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-25T03:46:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420714",
+    "title": "Show HN: How to mentally calculate the day of the week for any date",
+    "url": "https://tinkerandsee.com/weekday/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-08-24T14:57:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49410814",
+    "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+    "url": "https://tarjan.itch.io/thoreaubasic",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-23T17:48:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49428882",
+    "title": "Headlong: A Microharness for Persistent Agents",
+    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-25T03:54:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:w0d3um",
     "title": "POP-2000, a lingua-franca POP-2 dialect",
     "url": "https://hitogata.neocities.org/POP-2000",
@@ -4926,76 +4996,6 @@
     "source": "lobsters",
     "score": 3.0,
     "published_at": "2026-08-21T12:23:02.886-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5ddcd1",
-    "title": "War is not god, neither is AI",
-    "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-21T13:32:43.064-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49390206",
-    "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
-    "url": "https://github.com/aravpanwar/decayfmt",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-21T16:09:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49390066",
-    "title": "LLMs are proof that Unix won",
-    "url": "https://bastian.rieck.me/blog/2026/unix/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-08-21T15:59:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49390775",
-    "title": "Another better lower bound for n=17 square packing",
-    "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-21T16:50:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49390739",
-    "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-    "url": "https://github.com/proliferate-ai/proliferate",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-21T16:47:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49391348",
-    "title": "Galactic Compass 2: now with new augmented reality mode",
-    "url": "https://interconnected.org/home/2026/08/21/galactic",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-21T17:30:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49374853",
-    "title": "A look under our trunk: what's in our compute",
-    "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-20T14:13:45+00:00",
     "summary": "",
     "key_points": []
   }
