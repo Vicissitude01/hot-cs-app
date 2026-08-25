@@ -1,5 +1,35 @@
 [
   {
+    "id": "lobsters:gxcqxj",
+    "title": "Galaxium, a WebGPU universe explorer",
+    "url": "https://galaxium.app",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-25T04:33:23.657-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:apache/maka",
+    "title": "maka",
+    "url": "https://github.com/apache/maka",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49431024",
+    "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
+    "url": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-25T09:17:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:fyps8w",
     "title": "Haskell diagrams: Tessellations",
     "url": "https://mgarletmilani.com/blog/2026-06-03-tessellations/",
@@ -4966,36 +4996,6 @@
     "source": "hackernews",
     "score": 3.0,
     "published_at": "2026-08-21T22:29:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49390286",
-    "title": "Three ways to smuggle SQLite into Nix",
-    "url": "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-21T16:15:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49394759",
-    "title": "I own 28,000 books – here's what I've learned",
-    "url": "https://www.shelvd.org/blog/28000-books",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-08-21T22:59:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49394827",
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-    "url": "https://ozbrain.com",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-21T23:09:06+00:00",
     "summary": "",
     "key_points": []
   }
