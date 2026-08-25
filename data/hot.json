@@ -1,5 +1,65 @@
 [
   {
+    "id": "lobsters:apjhyj",
+    "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
+    "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-25T07:26:40.870-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ivr1bw",
+    "title": "An interactive introduction to the spanning tree protocol",
+    "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-25T07:06:16.154-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49432879",
+    "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+    "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-25T12:33:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49432227",
+    "title": "HelloAssembly The smallest possible complete Windows application",
+    "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-25T11:40:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49433064",
+    "title": "France's tax agency got hacked (in French)",
+    "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-25T12:44:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49432319",
+    "title": "Don't Wordle",
+    "url": "https://dontwordle.com/",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-08-25T11:49:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:b15udy",
     "title": "Another look at SQLite's WAL-Reset bug",
     "url": "https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html",
@@ -4936,66 +4996,6 @@
     "source": "v2ex",
     "score": 76.0,
     "published_at": "2026-08-21T09:19:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675187455231475727",
-    "title": "我做了一个软著 Skill，可以一键生成申请材料",
-    "url": "https://juejin.cn/post/7675187455231475727",
-    "source": "juejin",
-    "score": 0.20276459,
-    "published_at": "2026-08-18T09:07:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49395663",
-    "title": "US Debt-to-GDP Ratio",
-    "url": "https://www.us-debt-clock.com/debt-to-gdp",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-22T01:18:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49381542",
-    "title": "Ozone: The fault is not in our trees, but in ourselves",
-    "url": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-20T23:11:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49380303",
-    "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
-    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-08-20T21:08:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49395605",
-    "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-    "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-22T01:02:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49395628",
-    "title": "There's no reason for software to be slow anymore",
-    "url": "https://danluu.com/perf-opt/",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-08-22T01:06:17+00:00",
     "summary": "",
     "key_points": []
   }
