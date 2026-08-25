@@ -1,5 +1,75 @@
 [
   {
+    "id": "lobsters:2hsncr",
+    "title": "maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more",
+    "url": "https://github.com/runetes/maiao",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-25T16:03:05.612-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:multica-ai/andrej-karpathy-skills",
+    "title": "andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49439296",
+    "title": "A brief history of federal lift ticket regulation",
+    "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-25T19:25:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49440786",
+    "title": "XCancel also down, at least for time being",
+    "url": "https://news.ycombinator.com/item?id=49440786",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-08-25T21:18:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49430259",
+    "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+    "url": "https://fdeploy.com/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-25T07:32:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49441101",
+    "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
+    "url": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-25T21:43:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49441033",
+    "title": "Python's pre-declared constants are kinda weird",
+    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-08-25T21:39:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qc6pjd",
     "title": "AI At Home Part 2: Multi GPU Drifting",
     "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
@@ -4926,76 +4996,6 @@
     "source": "hackernews",
     "score": 7.0,
     "published_at": "2026-08-21T17:18:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49399898",
-    "title": "A Friendly Introduction to Racket",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-22T14:08:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:r77bda",
-    "title": "Stalking the Wily Hacker: 40 years later",
-    "url": "https://youtu.be/656058JxTM0",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T08:48:24.474-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49398710",
-    "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
-    "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-22T11:39:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49399591",
-    "title": "The New MCP Roadmap",
-    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-22T13:31:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49399524",
-    "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-    "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-08-22T13:24:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jwzbqi",
-    "title": "Espressif releases Linux BSP for ESP32-S31 RISC-V boards",
-    "url": "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T07:50:41.995-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236362",
-    "title": "[Air Router] GPT Plus 0.1 风控期间依然稳健, 还有 CC 1x, Pro 0.2, Grok Heavy 0.2, 新用户留言 ID 可得 5$额度,现在充值额外赠 10%",
-    "url": "https://www.v2ex.com/t/1236362",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-08-22T02:59:39+00:00",
     "summary": "",
     "key_points": []
   }
