@@ -1,5 +1,165 @@
 [
   {
+    "id": "lobsters:52povq",
+    "title": "AI Review Loops Don't Always Stabilise",
+    "url": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-25T12:42:15.720-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:e1oalq",
+    "title": "The Move to Python 3 Begins",
+    "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-25T11:52:46.126-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gyi8v8",
+    "title": "Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster",
+    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-08-25T09:40:28.025-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49436400",
+    "title": "Run Minecraft in a Windows Sandbox for Computer Use Agents",
+    "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-25T16:09:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49437152",
+    "title": "Water behind the watts: The hidden risk of powering data centers",
+    "url": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-25T16:58:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49436706",
+    "title": "Fuzzing the Gleam Compiler",
+    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-25T16:30:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49437361",
+    "title": "Lightweight system monitor for Linux VPS written in Go",
+    "url": "https://github.com/leodeim/vpsmon",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-25T17:13:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49437049",
+    "title": "LatticeDB – Like SQLite but for graph databases",
+    "url": "https://github.com/jeffhajewski/latticedb",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-25T16:52:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49437483",
+    "title": "Run OpenBSD on DigitalOcean for $4/month",
+    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-25T17:23:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49437165",
+    "title": "A new ceiling for Λ: the de Bruijn–Newman constant is at most 0.1787854",
+    "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-25T16:59:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49436786",
+    "title": "Tooltips Need a Delay, and Then They Need to Skip It",
+    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-08-25T16:35:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49437069",
+    "title": "My Friend Aaron",
+    "url": "https://rorz.io/writing/my-friend-aaron",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-08-25T16:53:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49437566",
+    "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+    "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-08-25T17:28:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49436822",
+    "title": "SpaceX – Starbase, LA",
+    "url": "https://www.spacex.com/sites/starbase-la",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-08-25T16:37:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49437210",
+    "title": "Black hole singularity is a surface not a point",
+    "url": "https://arxiv.org/abs/2608.21590",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-08-25T17:02:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49437283",
+    "title": "Nitter project received cease and desist",
+    "url": "https://github.com/zedeus/nitter/issues/1442",
+    "source": "hackernews",
+    "score": 113.0,
+    "published_at": "2026-08-25T17:08:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:za8vwp",
     "title": "Run OpenBSD on DigitalOcean for $4/month",
     "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
@@ -4836,166 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-08-22T09:49:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ilfiqa",
-    "title": "Robot comment classifier",
-    "url": "https://entropicthoughts.com/ai-comment-classifier",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T05:18:39.546-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kyb21s",
-    "title": "Stop Making TUIs",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-22T01:52:31.811-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qtsnvd",
-    "title": "The Schrödinger Email",
-    "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-22T04:53:02.389-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236360",
-    "title": "[送码] 做了一个 Apple tv 上的小红书 Rouge",
-    "url": "https://www.v2ex.com/t/1236360",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-08-22T02:43:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675632528569843746",
-    "title": "Lua 编程入门：从基础语法到元表",
-    "url": "https://juejin.cn/post/7675632528569843746",
-    "source": "juejin",
-    "score": 0.1480559,
-    "published_at": "2026-08-19T15:27:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675308265186983978",
-    "title": "DeepSeek Harness 必装的插件公布了！",
-    "url": "https://juejin.cn/post/7675308265186983978",
-    "source": "juejin",
-    "score": 0.23782158,
-    "published_at": "2026-08-19T04:28:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675920155117092873",
-    "title": "Three.js 3D地图开发实录：从GeoJSON到流光飞线，一个纯前端SPA可视化引擎的12个坑",
-    "url": "https://juejin.cn/post/7675920155117092873",
-    "source": "juejin",
-    "score": 0.1449278,
-    "published_at": "2026-08-20T01:44:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675947280080879667",
-    "title": "从失业到出书：我一个人靠 AI 搭起了一家小公司",
-    "url": "https://juejin.cn/post/7675947280080879667",
-    "source": "juejin",
-    "score": 0.25255557,
-    "published_at": "2026-08-20T10:12:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676098169973473330",
-    "title": "我用 DeepSeek-V4-Pro，完美复刻了苹果官网",
-    "url": "https://juejin.cn/post/7676098169973473330",
-    "source": "juejin",
-    "score": 0.46351817,
-    "published_at": "2026-08-21T02:15:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675633667490267179",
-    "title": "Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产",
-    "url": "https://juejin.cn/post/7675633667490267179",
-    "source": "juejin",
-    "score": 0.68630803,
-    "published_at": "2026-08-20T00:51:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236394",
-    "title": "你们开梯子会有反诈中心的电话打来吗",
-    "url": "https://www.v2ex.com/t/1236394",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-08-22T06:49:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236385",
-    "title": "亲人去世后的手机破解问题",
-    "url": "https://www.v2ex.com/t/1236385",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-08-22T05:57:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675947280080240691",
-    "title": "DeepSeek Harness 命令大全 ",
-    "url": "https://juejin.cn/post/7675947280080240691",
-    "source": "juejin",
-    "score": 0.30106314,
-    "published_at": "2026-08-20T08:51:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7674878323555385387",
-    "title": "Flutter 3.47 首坑，analysis_options 问题连环回归",
-    "url": "https://juejin.cn/post/7674878323555385387",
-    "source": "juejin",
-    "score": 0.22019769,
-    "published_at": "2026-08-18T00:55:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49329506",
-    "title": "ESP32 Firmware Development with Docker Sandboxes",
-    "url": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-17T12:02:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ubeyqf",
-    "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T02:27:26.681-05:00",
     "summary": "",
     "key_points": []
   }
