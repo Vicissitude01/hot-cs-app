@@ -1,5 +1,55 @@
 [
   {
+    "id": "v2ex:1236792",
+    "title": "你还在用 Vim 吗？你为什么用它？",
+    "url": "https://www.v2ex.com/t/1236792",
+    "source": "v2ex",
+    "score": 134.0,
+    "published_at": "2026-08-24T06:14:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236684",
+    "title": "挤地铁小游戏",
+    "url": "https://www.v2ex.com/t/1236684",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-08-24T01:42:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1236852",
+    "title": "我的产品陷入绝望",
+    "url": "https://www.v2ex.com/t/1236852",
+    "source": "v2ex",
+    "score": 144.0,
+    "published_at": "2026-08-24T09:01:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7676498957653803008",
+    "title": "DeepSeek Harness 发布一周，登顶 Top10 的插件，暴露了哪些真实需求？",
+    "url": "https://juejin.cn/post/7676498957653803008",
+    "source": "juejin",
+    "score": 0.18922928,
+    "published_at": "2026-08-23T01:15:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49427825",
+    "title": "What languages are agent skills written in?",
+    "url": "https://plicara.ai/research/agent-skill-languages/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-25T00:52:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "juejin:7676826408547090441",
     "title": "JWT 4：Zustand 到底解决了什么？为什么登录状态要放进 Store？",
     "url": "https://juejin.cn/post/7676826408547090441",
@@ -4946,56 +4996,6 @@
     "source": "hackernews",
     "score": 14.0,
     "published_at": "2026-08-21T16:16:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49390910",
-    "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-    "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-08-21T17:00:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49390427",
-    "title": "Kobo can run apps now",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-08-21T16:25:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:faggqv",
-    "title": "The Atproto Spaces Alpha is Live",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-21T07:32:51.259-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676098169974292530",
-    "title": "16 个超火的 DeepSeek Harness 插件，大肥鱼已经落后 N 个版本了。。。",
-    "url": "https://juejin.cn/post/7676098169974292530",
-    "source": "juejin",
-    "score": 2.11492968,
-    "published_at": "2026-08-21T03:28:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49390099",
-    "title": "I Just Want to Search",
-    "url": "https://www.0xsid.com/blog/just-want-to-search",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-21T16:00:54+00:00",
     "summary": "",
     "key_points": []
   }
