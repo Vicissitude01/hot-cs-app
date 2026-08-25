@@ -1,5 +1,55 @@
 [
   {
+    "id": "lobsters:a371nr",
+    "title": "The Sync Heap: Delete First, Ask Questions Later",
+    "url": "https://arxiv.org/pdf/2608.07134",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-25T12:22:07.974-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49437946",
+    "title": "Firefox 157 will include JPEG XL by default on all platforms",
+    "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-08-25T17:55:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49438492",
+    "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+    "url": "https://pgbot.dev/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-25T18:30:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49438052",
+    "title": "Dolly Parton has died",
+    "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+    "source": "hackernews",
+    "score": 291.0,
+    "published_at": "2026-08-25T18:02:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49434378",
+    "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-08-25T14:06:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:52povq",
     "title": "AI Review Loops Don't Always Stabilise",
     "url": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
@@ -4946,56 +4996,6 @@
     "source": "hackernews",
     "score": 12.0,
     "published_at": "2026-08-22T12:07:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236328",
-    "title": "扫拖机器人 哪款比较好？",
-    "url": "https://www.v2ex.com/t/1236328",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-08-21T21:50:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49398152",
-    "title": "Munder Difflin – Agent harness to run an office of your clones",
-    "url": "https://munderdiffl.in/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-22T09:49:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236333",
-    "title": "35+男士保养有哪些？？",
-    "url": "https://www.v2ex.com/t/1236333",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-08-22T00:33:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49398304",
-    "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
-    "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-08-22T10:26:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49398158",
-    "title": "Z80–The 1970s Microprocessor Still Alive",
-    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-22T09:49:57+00:00",
     "summary": "",
     "key_points": []
   }
