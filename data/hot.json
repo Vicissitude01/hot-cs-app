@@ -1,5 +1,55 @@
 [
   {
+    "id": "hackernews:49438661",
+    "title": "Dolly Parton Has Died",
+    "url": "https://en.wikipedia.org/wiki/Dolly_Parton",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-08-25T18:43:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49435641",
+    "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+    "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-25T15:18:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49423045",
+    "title": "Tracking Costco gas prices",
+    "url": "https://www.jack.bio/blog/costco-gas-tracking",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-08-24T17:21:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49435675",
+    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+    "url": "https://github.com/ThinkOffApp/CarWatch",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-25T15:20:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49439017",
+    "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-08-25T19:07:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:a371nr",
     "title": "The Sync Heap: Delete First, Ask Questions Later",
     "url": "https://arxiv.org/pdf/2608.07134",
@@ -4946,56 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:openai/codex",
-    "title": "codex",
-    "url": "https://github.com/openai/codex",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mbmn1f",
-    "title": "You should never be angry at work",
-    "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T07:41:39.341-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675272903248920595",
-    "title": "国产模型越来越强了：DeepSeek V4、Kimi K3 与 GLM 最新进展",
-    "url": "https://juejin.cn/post/7675272903248920595",
-    "source": "juejin",
-    "score": 0.21442335,
-    "published_at": "2026-08-19T02:08:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49392099",
-    "title": "How Thailand Resisted Colonization",
-    "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-08-21T18:28:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49398904",
-    "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-    "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-22T12:07:06+00:00",
     "summary": "",
     "key_points": []
   }
