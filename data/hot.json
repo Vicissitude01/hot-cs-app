@@ -1,5 +1,65 @@
 [
   {
+    "id": "lobsters:kp1khy",
+    "title": "Lively Merge | Collaborative programming kernels",
+    "url": "https://www.inkandswitch.com/livelymerge/notebook/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-25T17:32:49.099-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vddo8h",
+    "title": "Fuzzing The Gleam Compiler",
+    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-25T16:39:37.246-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237038",
+    "title": "绿米指纹锁阵亡，建议换哪个牌子靠谱？",
+    "url": "https://www.v2ex.com/t/1237038",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-08-25T04:58:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237123",
+    "title": "说说离婚后的一些事",
+    "url": "https://www.v2ex.com/t/1237123",
+    "source": "v2ex",
+    "score": 168.0,
+    "published_at": "2026-08-25T09:17:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677041436535455787",
+    "title": "AI Skills 已经封神，但新的问题却越来越严重！",
+    "url": "https://juejin.cn/post/7677041436535455787",
+    "source": "juejin",
+    "score": 0.29238258,
+    "published_at": "2026-08-24T02:55:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49442589",
+    "title": "Queryable Executables",
+    "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-26T00:20:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49441666",
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
     "url": "https://github.com/runetes/maiao",
@@ -4936,66 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-08-22T11:04:51.303-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qvlroc",
-    "title": "nss-userhosts - hosts files for unprivileged users",
-    "url": "https://codeberg.org/felixs/nss-userhosts",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T10:56:18.816-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49400408",
-    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-    "url": "https://quantumi.sh/public/labs.html",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-08-22T14:54:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:2mvgzt",
-    "title": "InjectionBunny, a NTFS3 SUID injection for privilege escalation",
-    "url": "https://lore.kernel.org/ntfs3/CAGBKPgPiXyKWtjgYSACnugmG1XPs=mPg-Zu-xQziUZ1k921+qA@mail.gmail.com/T/#mc251816dfcb7d4dcbf07368f0d288dbfb1b8e1c9",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T10:25:07.555-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675272903249625107",
-    "title": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
-    "url": "https://juejin.cn/post/7675272903249625107",
-    "source": "juejin",
-    "score": 1.26364406,
-    "published_at": "2026-08-19T03:16:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49397947",
-    "title": "Embedded AI",
-    "url": "https://nostarch.com/embedded-ai",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-22T09:07:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zibquu",
-    "title": "There continue to be reasons for software to be slow",
-    "url": "https://typesanitizer.com/blog/performance-issues.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T09:31:21.289-05:00",
     "summary": "",
     "key_points": []
   }
