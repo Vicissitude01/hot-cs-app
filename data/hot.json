@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:uvclgk",
+    "title": "Catching NaN at the MLIR Pass Boundary",
+    "url": "https://thecloudlet.github.io/technical/compiler/catching-nan-at-the-mlir-pass-boundary/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-26T09:42:53.452-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:eove8s",
+    "title": "Merchants of Insecurity",
+    "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-26T09:30:41.443-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677785361450696755",
+    "title": "opencode的“恶果”来了，吃掉100G空间！",
+    "url": "https://juejin.cn/post/7677785361450696755",
+    "source": "juejin",
+    "score": 0.58900918,
+    "published_at": "2026-08-25T14:25:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49448665",
+    "title": "11,000-year-old sculpture of man riding a leopard found in Turkey",
+    "url": "https://www.thehistoryblog.com/archives/76809",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-26T13:20:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49446984",
+    "title": "Radiation link in flight attendant's breast cancer, French court finds",
+    "url": "https://www.bbc.com/news/articles/cn0j3z6147jo",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-08-26T11:15:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49448909",
+    "title": "A Man Who Saw Humanity from Two Billion Years Away",
+    "url": "https://thereader.mitpress.mit.edu/the-man-who-saw-humanity-from-two-billion-years-away/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-26T13:34:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49449755",
+    "title": "Take a Tour of SLAC",
+    "url": "https://www6.slac.stanford.edu/public-tours",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-26T14:21:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49450500",
+    "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
+    "url": "https://github.com/SWUFE-DB-Group/TexLite",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-26T15:07:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49450394",
+    "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
+    "url": "https://github.com/AurionMail/docs",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-26T15:01:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49449082",
+    "title": "AI Is a Harsh Mistress",
+    "url": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-08-26T13:45:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49449440",
+    "title": "How HN: Qisutu – an open-source, self-hosted ticketing and service desk",
+    "url": "https://github.com/qisutu/qisutu",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-26T14:05:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49449576",
+    "title": "Twitter Viewer – View Twitter Without Account",
+    "url": "https://twitterwebviewer.com/",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-08-26T14:11:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49449458",
+    "title": "A Citation to Asimov",
+    "url": "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-26T14:06:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49450898",
+    "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-26T15:30:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49449648",
+    "title": "Show HN: How much of Hacker News is AI?",
+    "url": "https://hnstats.com",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-08-26T14:16:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49449888",
+    "title": "You could have invented PageRank",
+    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-08-26T14:29:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49448872",
+    "title": "France reaches 94.9% fiber coverage in 2026",
+    "url": "https://cartefibre.arcep.fr",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-08-26T13:32:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49450353",
+    "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-08-26T14:58:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49450417",
+    "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+    "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-08-26T15:02:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49449749",
+    "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+    "url": "https://farmaction.us/taylorfarmsreport/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-08-26T14:21:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49450448",
+    "title": "Nebula Sans",
+    "url": "https://www.nebulasans.com",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-08-26T15:03:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49450722",
+    "title": "Disruption with Some GitHub Services",
+    "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-08-26T15:19:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:idtlvo",
     "title": "Memory ordering in CPUs",
     "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
@@ -4776,226 +4996,6 @@
     "source": "juejin",
     "score": 0.07106091,
     "published_at": "2026-08-20T15:27:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676362565910282266",
-    "title": "跑了3个Docker容器后，我终于搞懂镜像和容器到底啥关系",
-    "url": "https://juejin.cn/post/7676362565910282266",
-    "source": "juejin",
-    "score": 0.23838811,
-    "published_at": "2026-08-21T16:08:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676369124041654307",
-    "title": "AI 时代写给前端同行：什么在贬值，什么在涨价",
-    "url": "https://juejin.cn/post/7676369124041654307",
-    "source": "juejin",
-    "score": 0.16653431,
-    "published_at": "2026-08-21T09:55:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49406285",
-    "title": "Fast and Hard Code",
-    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-23T05:39:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:r1ezk0",
-    "title": "Foundational Verification of Running-Time Bounds for Interactive Programs",
-    "url": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-23T01:56:45.797-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236407",
-    "title": "新人第一贴，先放一个自己 vibe 一下午的割草小游戏吧",
-    "url": "https://www.v2ex.com/t/1236407",
-    "source": "v2ex",
-    "score": 34.0,
-    "published_at": "2026-08-22T08:14:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675992325912887315",
-    "title": "Show me your works & token -稀土掘金上线内测作品广场和用量统计",
-    "url": "https://juejin.cn/post/7675992325912887315",
-    "source": "juejin",
-    "score": 0.18734813,
-    "published_at": "2026-08-20T09:36:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676277362519113763",
-    "title": "给 AI 时代找工作的同学一些实用建议",
-    "url": "https://juejin.cn/post/7676277362519113763",
-    "source": "juejin",
-    "score": 0.09655246,
-    "published_at": "2026-08-21T03:05:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675346841391104051",
-    "title": "用 TRAE Work 自动处理 Excel + 企业微信批量发送，再也不用一个个手动截图了",
-    "url": "https://juejin.cn/post/7675346841391104051",
-    "source": "juejin",
-    "score": 0.11311986,
-    "published_at": "2026-08-19T03:13:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676098169944047643",
-    "title": "从零开发一个 Coding Agent（十三）：实现安全的 read 文件读取工具",
-    "url": "https://juejin.cn/post/7676098169944047643",
-    "source": "juejin",
-    "score": 0.21526644,
-    "published_at": "2026-08-20T13:23:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675914752422805514",
-    "title": "Go 1.27 升了一波，泛型方法和 JSON v2 真香但有个坑",
-    "url": "https://juejin.cn/post/7675914752422805514",
-    "source": "juejin",
-    "score": 0.1731574,
-    "published_at": "2026-08-20T07:23:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676641074035605550",
-    "title": "为什么越来越多人用 kkFileView？",
-    "url": "https://juejin.cn/post/7676641074035605550",
-    "source": "juejin",
-    "score": 0.42854118,
-    "published_at": "2026-08-22T02:57:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676709710489419786",
-    "title": "这个本地模型，让我 token 自由了",
-    "url": "https://juejin.cn/post/7676709710489419786",
-    "source": "juejin",
-    "score": 0.63007245,
-    "published_at": "2026-08-22T10:37:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236534",
-    "title": "2026 年键盘求推荐",
-    "url": "https://www.v2ex.com/t/1236534",
-    "source": "v2ex",
-    "score": 26.0,
-    "published_at": "2026-08-23T04:29:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236529",
-    "title": "我把全网在赚钱的站点变成了一张榜单",
-    "url": "https://www.v2ex.com/t/1236529",
-    "source": "v2ex",
-    "score": 30.0,
-    "published_at": "2026-08-23T03:40:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236538",
-    "title": "你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?",
-    "url": "https://www.v2ex.com/t/1236538",
-    "source": "v2ex",
-    "score": 32.0,
-    "published_at": "2026-08-23T04:53:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675447922213568558",
-    "title": "没想到吧！Skill 也可以测试 — 小白都看得懂的 Skill 教程",
-    "url": "https://juejin.cn/post/7675447922213568558",
-    "source": "juejin",
-    "score": 0.12038301,
-    "published_at": "2026-08-19T01:38:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676091857219272742",
-    "title": " 虚拟滚动真的比普通滚动性能更好吗？",
-    "url": "https://juejin.cn/post/7676091857219272742",
-    "source": "juejin",
-    "score": 0.24785959,
-    "published_at": "2026-08-20T14:38:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49406539",
-    "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-    "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-23T06:41:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49406387",
-    "title": "JIT Compiling Code in 5μs",
-    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-23T06:04:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49406333",
-    "title": "The End of an Athlon",
-    "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-23T05:51:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rlcsrg",
-    "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-    "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-23T00:23:46.393-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jspua4",
-    "title": "Integrating Discord SDK into EVE Frontier",
-    "url": "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-23T00:39:03.456-05:00",
     "summary": "",
     "key_points": []
   }
