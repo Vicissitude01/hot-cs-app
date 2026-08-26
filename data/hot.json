@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:jykbra",
+    "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)",
+    "url": "https://www.jack.bio/blog/licenseplate",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-26T01:00:12.856-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:p8exgy",
+    "title": "Casey Muratori – The Root of The Root of All Evil – BSC 2026",
+    "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-26T02:55:34.184-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237275",
+    "title": "医疗病患相关，纯吐槽发泄情绪",
+    "url": "https://www.v2ex.com/t/1237275",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-08-26T02:35:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237244",
+    "title": "刚刚会计在公司群里通知：单休了",
+    "url": "https://www.v2ex.com/t/1237244",
+    "source": "v2ex",
+    "score": 98.0,
+    "published_at": "2026-08-26T01:46:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677263893225193515",
+    "title": "177K star，扒开DeepSeek Harness的营销，我看到了什么",
+    "url": "https://juejin.cn/post/7677263893225193515",
+    "source": "juejin",
+    "score": 0.20582922,
+    "published_at": "2026-08-24T08:42:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677435711277629481",
+    "title": "Flutter iOS 的深度优化 PR，搞笑的是贡献者被 Gemini 评审折磨",
+    "url": "https://juejin.cn/post/7677435711277629481",
+    "source": "juejin",
+    "score": 0.51252373,
+    "published_at": "2026-08-25T00:59:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49444863",
+    "title": "I miss the old Claude Code",
+    "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-26T06:34:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49445252",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-26T07:31:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:lbsvk7",
     "title": "What's in a tag name? JavaScript, apparently",
     "url": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
@@ -4916,86 +4996,6 @@
     "source": "hackernews",
     "score": 20.0,
     "published_at": "2026-08-19T17:13:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49393537",
-    "title": "The Creation of Abulafia",
-    "url": "https://blog.veitheller.de/abulafia.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-21T20:42:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49392536",
-    "title": "One night in Uzbekistan: Why was this one data point so influential?",
-    "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-08-21T19:05:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49352470",
-    "title": "Mythic's analog compute-in-memory architecture",
-    "url": "https://www.mythic.ai",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-18T20:47:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49374729",
-    "title": "Guess which of these LLM outputs is watermarked",
-    "url": "https://sgoedecke.github.io/watermark-quiz/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-08-20T14:03:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49402781",
-    "title": "NetBSD and My Life (2005)",
-    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-22T19:07:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49387959",
-    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-08-21T13:43:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49402189",
-    "title": "Scrap",
-    "url": "https://twitter.com/moxie/status/2091218652133732491",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-08-22T18:08:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49402741",
-    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-08-22T19:04:41+00:00",
     "summary": "",
     "key_points": []
   }
