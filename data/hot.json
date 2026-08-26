@@ -1,5 +1,45 @@
 [
   {
+    "id": "lobsters:idtlvo",
+    "title": "Memory ordering in CPUs",
+    "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-26T08:32:39.029-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ildmgi",
+    "title": "Fixing my Kinesis Advantage",
+    "url": "https://lukaswerner.com/post/2026-08-25@kinesis-advantage-build",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-26T09:02:47.657-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49448819",
+    "title": "Meta reaches $16.68B settlement over social media harms to children",
+    "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-08-26T13:28:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49449507",
+    "title": "GLM-5.3-Flash",
+    "url": "https://z.ai/blog/glm-5.3-flash",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-08-26T14:08:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:4zyd8o",
     "title": "The ReaderT Design Pattern (2017)",
     "url": "https://academy.fpblock.com/blog/2017/06/readert-design-pattern/",
@@ -4956,46 +4996,6 @@
     "source": "lobsters",
     "score": 1.0,
     "published_at": "2026-08-23T00:39:03.456-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49406069",
-    "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
-    "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-23T04:28:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vikit1",
-    "title": "Why aren't my two Cortex-A9 cores cache coherent?",
-    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T23:48:06.102-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236509",
-    "title": "你有 token 用量和上下文焦虑吗？",
-    "url": "https://www.v2ex.com/t/1236509",
-    "source": "v2ex",
-    "score": 26.0,
-    "published_at": "2026-08-23T01:48:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49405870",
-    "title": "The Golden Rule for Becoming a Better Writer",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-23T03:32:25+00:00",
     "summary": "",
     "key_points": []
   }
