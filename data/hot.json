@@ -1,5 +1,55 @@
 [
   {
+    "id": "lobsters:lbsvk7",
+    "title": "What's in a tag name? JavaScript, apparently",
+    "url": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-26T01:36:10.634-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677842844808052776",
+    "title": "两个半月的时间如何赚到 3000 块钱。",
+    "url": "https://juejin.cn/post/7677842844808052776",
+    "source": "juejin",
+    "score": 3.22507972,
+    "published_at": "2026-08-26T01:28:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677883485022388267",
+    "title": "「速通Shell」常用命令（中）——进程、网络与系统信息",
+    "url": "https://juejin.cn/post/7677883485022388267",
+    "source": "juejin",
+    "score": 0.92612816,
+    "published_at": "2026-08-25T09:44:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49444514",
+    "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+    "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-08-26T05:49:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49444232",
+    "title": "Secret Cold War IBM Supercomputer Was Built for One Job",
+    "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-26T05:09:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:e291dc",
     "title": "mold: A Massively Parallel Linker",
     "url": "https://arxiv.org/abs/2608.23228",
@@ -4946,56 +4996,6 @@
     "source": "hackernews",
     "score": 21.0,
     "published_at": "2026-08-22T19:04:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ssw0gv",
-    "title": "An arcade fighting game over SSH",
-    "url": "https://sshfighter.com",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T13:24:43.595-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:83yugk",
-    "title": "A 2026 Survey of Rust GUI Libraries",
-    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-22T12:52:17.884-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676092674903408682",
-    "title": "腾讯又开源了一个新项目，用起来真优雅！",
-    "url": "https://juejin.cn/post/7676092674903408682",
-    "source": "juejin",
-    "score": 0.32847822,
-    "published_at": "2026-08-21T01:49:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49361478",
-    "title": "Show HN: Anonymous age verification with passkey-powered encryption",
-    "url": "https://loginwithone.com/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-19T13:41:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49399642",
-    "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-    "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-22T13:39:07+00:00",
     "summary": "",
     "key_points": []
   }
