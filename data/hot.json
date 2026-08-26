@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:4zyd8o",
+    "title": "The ReaderT Design Pattern (2017)",
+    "url": "https://academy.fpblock.com/blog/2017/06/readert-design-pattern/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-26T07:20:51.443-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49447600",
+    "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+    "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-08-26T12:11:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49447772",
+    "title": "X sends in the lawyers to shut down open source project",
+    "url": "https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-08-26T12:25:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49447480",
+    "title": "Proliferate (YC S25) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-08-26T12:00:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49448150",
+    "title": "A curmudgeon tries a language server",
+    "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-26T12:48:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49448210",
+    "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+    "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-26T12:52:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49447682",
+    "title": "Omarchy development practices lead to predictable security issues",
+    "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+    "source": "hackernews",
+    "score": 175.0,
+    "published_at": "2026-08-26T12:17:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49448137",
+    "title": "Bill Gates: The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-26T12:47:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49448321",
+    "title": "AWS Acquires DuckDB",
+    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-08-26T12:59:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "github-trending:K-Dense-AI/scientific-agent-skills",
     "title": "scientific-agent-skills",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
@@ -4906,96 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-08-23T03:32:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49405682",
-    "title": "I Dream of Quieter Computing",
-    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-23T02:33:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49405816",
-    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "url": "https://martypc.net/",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-08-23T03:13:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236482",
-    "title": "Bun 1.4 发布了，有人关心吗？",
-    "url": "https://www.v2ex.com/t/1236482",
-    "source": "v2ex",
-    "score": 26.0,
-    "published_at": "2026-08-22T16:00:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236430",
-    "title": "claude 用 google pay 订阅 pro，招行 visa 全币种、葵花 master、工商 master，全部拒付",
-    "url": "https://www.v2ex.com/t/1236430",
-    "source": "v2ex",
-    "score": 34.0,
-    "published_at": "2026-08-22T09:40:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49405331",
-    "title": "The Art and Beauty of Blade Runner",
-    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-23T00:56:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236380",
-    "title": "关于一个老哥帖子里认为的程序员指挥 ai 是弯路的话题下我的看法",
-    "url": "https://www.v2ex.com/t/1236380",
-    "source": "v2ex",
-    "score": 30.0,
-    "published_at": "2026-08-22T05:36:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236366",
-    "title": "有没有人和我做过一样的梦：乘坐电梯飞速上升",
-    "url": "https://www.v2ex.com/t/1236366",
-    "source": "v2ex",
-    "score": 30.0,
-    "published_at": "2026-08-22T03:18:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236364",
-    "title": "codex 发重置卡都收到了吗",
-    "url": "https://www.v2ex.com/t/1236364",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-08-22T03:16:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236403",
-    "title": "BAT，这个 B，记得当初还是百度，现在应该是字节了吧？这种转变是什么时候开始的呢？如何而发生的呢？又何以至此呢？",
-    "url": "https://www.v2ex.com/t/1236403",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-08-22T07:49:31+00:00",
     "summary": "",
     "key_points": []
   }
