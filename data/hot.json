@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:nksuk5",
+    "title": "Building textlog without JavaScript",
+    "url": "https://gist.github.com/stagas/09ad937b493bf8cd3285917279de2488",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-26T14:53:01.717-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:p86r57",
+    "title": "DuckLabs to Join AWS, Projects to Remain Open Source",
+    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-08-26T13:38:11.747-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49454205",
+    "title": "A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation",
+    "url": "https://arxiv.org/abs/2608.19628",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-26T19:08:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49454764",
+    "title": "Serve Markdown to AI Agents with Accept Headers",
+    "url": "https://acceptmarkdown.com/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-26T19:45:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49453161",
+    "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
+    "url": "https://thetariffcost.com/",
+    "source": "hackernews",
+    "score": 100.0,
+    "published_at": "2026-08-26T17:54:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49454742",
+    "title": "The risks of AI are real but manageable (2023)",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-08-26T19:44:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49454728",
+    "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+    "url": "https://isgithubcooked.com/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-08-26T19:43:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49454314",
+    "title": "The Hugging Face incident and the road ahead",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-08-26T19:15:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49452671",
+    "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+    "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+    "source": "hackernews",
+    "score": 113.0,
+    "published_at": "2026-08-26T17:20:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49454419",
+    "title": "Dallas startup enriches Uranium",
+    "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-08-26T19:23:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:wski9u",
     "title": "WebSockets vs. SSE should be about ordering and correctness",
     "url": "https://dashbit.co/blog/websockets-vs-sse",
@@ -4893,106 +4993,6 @@
     "id": "github-trending:NousResearch/hermes-agent",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Comfy-Org/ComfyUI",
-    "title": "ComfyUI",
-    "url": "https://github.com/Comfy-Org/ComfyUI",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/claude-plugins-community",
-    "title": "claude-plugins-community",
-    "url": "https://github.com/anthropics/claude-plugins-community",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:dani-garcia/vaultwarden",
-    "title": "vaultwarden",
-    "url": "https://github.com/dani-garcia/vaultwarden",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:virgiliojr94/book-to-skill",
-    "title": "book-to-skill",
-    "url": "https://github.com/virgiliojr94/book-to-skill",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:VoltAgent/awesome-agent-skills",
-    "title": "awesome-agent-skills",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:tinyhumansai/openhuman",
-    "title": "openhuman",
-    "url": "https://github.com/tinyhumansai/openhuman",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Alishahryar1/free-claude-code",
-    "title": "free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:block/buzz",
-    "title": "buzz",
-    "url": "https://github.com/block/buzz",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:basecamp/omarchy",
-    "title": "omarchy",
-    "url": "https://github.com/basecamp/omarchy",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:freestylefly/awesome-gpt-image-2",
-    "title": "awesome-gpt-image-2",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
