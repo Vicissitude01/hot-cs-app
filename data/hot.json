@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:tv1xpz",
+    "title": "Beyond recall and the illusion of competence",
+    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-26T05:07:04.504-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wv6fzc",
+    "title": "Why Google stores billions of lines of code in a single repository",
+    "url": "https://dl.acm.org/doi/fullHtml/10.1145/2854146",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-26T05:17:28.772-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:oqno0v",
+    "title": "Understanding Go's sync.Map from API to Hash Trie",
+    "url": "https://victoriametrics.com/blog/go-sync-map-hash-trie/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-26T05:38:35.075-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677868279283171368",
+    "title": "Web Components 为什么火不起来？",
+    "url": "https://juejin.cn/post/7677868279283171368",
+    "source": "juejin",
+    "score": 2.41818792,
+    "published_at": "2026-08-26T02:30:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49446773",
+    "title": "The journalist facing an $800 daily fine to keep her sources secret",
+    "url": "https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-26T10:48:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49446602",
+    "title": "The Feeling of Power (Asimov, 1958)",
+    "url": "https://archive.org/details/1958-02_IF",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-26T10:26:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49446748",
+    "title": "U.S. gov't moves to suppress pushback on data centers",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-26T10:44:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49446422",
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-08-26T10:04:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1237225",
     "title": "北京待业的 40 岁以上的程序员有找到工作的吗",
     "url": "https://www.v2ex.com/t/1237225",
@@ -4916,86 +4996,6 @@
     "source": "hackernews",
     "score": 5.0,
     "published_at": "2026-08-22T18:08:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49402213",
-    "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-    "url": "https://marcua.net/minitools/figmimic/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-08-22T18:11:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:er8kot",
-    "title": "The immortal 1984 Macintosh (restoration diary)",
-    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-22T18:17:44.833-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236404",
-    "title": "白菜用甲醛防腐..还有啥是安全的吗",
-    "url": "https://www.v2ex.com/t/1236404",
-    "source": "v2ex",
-    "score": 60.0,
-    "published_at": "2026-08-22T08:00:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49373822",
-    "title": "Conway's Game of Life in real life",
-    "url": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-08-20T12:40:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49404380",
-    "title": "NanoGPT Speedrun Frontier",
-    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-22T22:14:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49402202",
-    "title": "Thinking in Python by Bruce Eckel",
-    "url": "https://thinkinginpython.com/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-22T18:10:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49404282",
-    "title": "A New Kind of Science by Stephen Wolfram: Monster Raving Egomania",
-    "url": "https://bactra.org/reviews/wolfram/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-22T22:00:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ate5gb",
-    "title": "KDE Linux experiences",
-    "url": "https://akselmo.dev/posts/kde-linux-experiences/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-22T16:21:43.221-05:00",
     "summary": "",
     "key_points": []
   }
