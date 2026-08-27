@@ -1,5 +1,425 @@
 [
   {
+    "id": "lobsters:matewg",
+    "title": "Generic Methods in Go",
+    "url": "https://go.dev/blog/generic-methods",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-08-26T23:06:15.160-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8cipei",
+    "title": "Launching Route 53 Files",
+    "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-27T09:31:40.631-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:m31l5c",
+    "title": "Float Bloat: vector serialization gone wrong",
+    "url": "https://bonsai.io/blog/float-bloat/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-27T12:12:50.949-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bkcjsa",
+    "title": "What happens when a GPU reads memory",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-08-27T09:42:03.231-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:aixljs",
+    "title": "The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-08-27T00:32:18.671-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ko74yd",
+    "title": "Simon Peyton Jones on Functional Programming, Thinking in Types, Useless Languages",
+    "url": "https://www.youtube.com/watch?v=xcB_LF3cdqw",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-08-27T08:41:53.680-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gscm11",
+    "title": "The Server Called Paranoia: Defend Autistici/Inventati Before September 25",
+    "url": "https://cavallette.noblogs.org/2026/08/10083/2",
+    "source": "lobsters",
+    "score": 23.0,
+    "published_at": "2026-08-27T10:20:00.879-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ir1jkh",
+    "title": "A Million Kakapos",
+    "url": "https://blog.mempko.com/a-million-kakapos/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-08-27T10:41:58.393-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:p9kpp9",
+    "title": "UNIX V4 workshop at Low Resource Computing",
+    "url": "https://github.com/thaliaarchi/unix-v4-demo/blob/main/README.md",
+    "source": "lobsters",
+    "score": 18.0,
+    "published_at": "2026-08-27T11:43:34.535-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rzvdqo",
+    "title": "Please stop flooding our projects with AI slop to furnish your CV",
+    "url": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
+    "source": "lobsters",
+    "score": 41.0,
+    "published_at": "2026-08-27T06:36:05.633-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237641",
+    "title": "有买了 24g 内存后悔的吗",
+    "url": "https://www.v2ex.com/t/1237641",
+    "source": "v2ex",
+    "score": 168.0,
+    "published_at": "2026-08-27T07:48:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677675037638672384",
+    "title": "历经两个月，我跑通了 Codex 自动剪辑，涨粉破千",
+    "url": "https://juejin.cn/post/7677675037638672384",
+    "source": "juejin",
+    "score": 0.1819461,
+    "published_at": "2026-08-25T08:12:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678580101931679753",
+    "title": "🔥 AI 时代，Token 就是你的数字燃料！晒账单，赢好礼！",
+    "url": "https://juejin.cn/post/7678580101931679753",
+    "source": "juejin",
+    "score": 1.82526166,
+    "published_at": "2026-08-27T09:58:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:bilawalsidhu/gods-eye-view",
+    "title": "gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49464896",
+    "title": "Trade (and Tariffs)",
+    "url": "https://xkcd.com/3290/",
+    "source": "hackernews",
+    "score": 400.0,
+    "published_at": "2026-08-27T13:49:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49467551",
+    "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+    "url": "https://github.com/kelviq/tare",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-08-27T16:37:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49458875",
+    "title": "Humanity has the debate about AI consciousness backwards",
+    "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-08-27T02:37:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49464414",
+    "title": "Aphantasia Beginner's Guide",
+    "url": "https://aphantasia.com/guide",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-08-27T13:14:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49466188",
+    "title": "The terrifying mechanics of the Nepali flash flood",
+    "url": "https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-08-27T15:13:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49465732",
+    "title": "Launching Route 53 Files",
+    "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
+    "source": "hackernews",
+    "score": 79.0,
+    "published_at": "2026-08-27T14:45:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49466715",
+    "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+    "url": "https://news.ycombinator.com/item?id=49466715",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-08-27T15:46:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49461817",
+    "title": "Show HN: The load-bearing vocabulary of Claude",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "source": "hackernews",
+    "score": 232.0,
+    "published_at": "2026-08-27T08:59:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49469098",
+    "title": "Autism mutations drive neurodevelopmental pathology",
+    "url": "https://www.science.org/doi/10.1126/science.ady4523",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-08-27T18:23:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49466622",
+    "title": "Engineered yeast for converting plastic and biomass compounds into food",
+    "url": "https://acs.digitellinc.com/live/37/session/586399",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-08-27T15:40:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49468816",
+    "title": "Show HN: Voronoi Go",
+    "url": "https://voronoigo.com/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-08-27T18:03:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49466894",
+    "title": "Suica, Japan's First IC Transit Card",
+    "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+    "source": "hackernews",
+    "score": 131.0,
+    "published_at": "2026-08-27T15:55:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49468818",
+    "title": "Gemini-3.5-Transcribe",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-08-27T18:03:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49470380",
+    "title": "Silicon Valley is in denial in face of widespread backlash",
+    "url": "https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-08-27T19:59:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49467837",
+    "title": "Bild AI (YC W25) is hiring product and AI engineers",
+    "url": "https://www.bild.ai/jobs",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-08-27T17:00:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49464543",
+    "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+    "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+    "source": "hackernews",
+    "score": 131.0,
+    "published_at": "2026-08-27T13:22:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49468834",
+    "title": "Previewing the Model Hardware Standard",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-08-27T18:04:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49447057",
+    "title": "The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "source": "hackernews",
+    "score": 131.0,
+    "published_at": "2026-08-26T11:23:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49457722",
+    "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
+    "url": "https://morphing.cloud/afterglow/",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-08-27T00:18:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49468593",
+    "title": "M5Stack Launches PaperMono",
+    "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-08-27T17:50:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49466006",
+    "title": "Decompiling a Nintendo 64 game in 84 days",
+    "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+    "source": "hackernews",
+    "score": 132.0,
+    "published_at": "2026-08-27T15:01:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49462763",
+    "title": "Microduck",
+    "url": "https://pollen-robotics.com/microduck/",
+    "source": "hackernews",
+    "score": 424.0,
+    "published_at": "2026-08-27T10:57:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49467922",
+    "title": "Gemini Omni 1.1 Flash",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+    "source": "hackernews",
+    "score": 140.0,
+    "published_at": "2026-08-27T17:06:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49468642",
+    "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+    "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+    "source": "hackernews",
+    "score": 98.0,
+    "published_at": "2026-08-27T17:53:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49469249",
+    "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+    "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-08-27T18:34:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49465169",
+    "title": "507 Mechanical Movements",
+    "url": "https://507movements.com/",
+    "source": "hackernews",
+    "score": 390.0,
+    "published_at": "2026-08-27T14:08:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49466917",
+    "title": "Small Models Have Arrived",
+    "url": "https://calv.info/small-models-have-arrived",
+    "source": "hackernews",
+    "score": 292.0,
+    "published_at": "2026-08-27T15:56:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49468083",
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "source": "hackernews",
+    "score": 309.0,
+    "published_at": "2026-08-27T17:17:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:aecolw",
     "title": "The Power of Ten: Rules for Safety Critical Coding",
     "url": "https://www.youtube.com/watch?v=GRJtYwneG2Q",
@@ -4576,426 +4996,6 @@
     "source": "hackernews",
     "score": 10.0,
     "published_at": "2026-08-24T00:52:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49413561",
-    "title": "I built a low-latency AI companion that plays Skyrim with me",
-    "url": "https://pantel.is/projects/ai-gaming-companion/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-08-23T23:18:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236691",
-    "title": "周末回了躺老家，两件小事打破了县城低价养老的幻想",
-    "url": "https://www.v2ex.com/t/1236691",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-08-24T01:51:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676292385958297626",
-    "title": "继DSH之后！Codex Harness 也开源了！Rust 核心、三层架构、人机协作",
-    "url": "https://juejin.cn/post/7676292385958297626",
-    "source": "juejin",
-    "score": 0.08801054,
-    "published_at": "2026-08-21T08:21:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676301268526841856",
-    "title": "客户只想看个页面，我却做了一个静态演示发布系统",
-    "url": "https://juejin.cn/post/7676301268526841856",
-    "source": "juejin",
-    "score": 0.5362763,
-    "published_at": "2026-08-21T09:48:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49414338",
-    "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
-    "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-24T01:33:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49414676",
-    "title": "Fastmail Pricing Changes",
-    "url": "https://www.fastmail.com/pricing/us/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-24T02:39:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jxloti",
-    "title": "SVG Filter Effects: Creating Texture with <feTurbulence> (2019)",
-    "url": "https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-23T16:24:36.750-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:slaivx",
-    "title": "offgrid electric car (2025)",
-    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-23T19:15:01.462-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236662",
-    "title": "用小米这款显示器的注意，周六晚上烧了.",
-    "url": "https://www.v2ex.com/t/1236662",
-    "source": "v2ex",
-    "score": 82.0,
-    "published_at": "2026-08-24T00:41:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236619",
-    "title": "90~95 年的 v2er，你是如何接纳自己已经老了这件事的？",
-    "url": "https://www.v2ex.com/t/1236619",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-08-23T12:48:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676165309280796698",
-    "title": "Sandbox（沙箱）到底是什么?",
-    "url": "https://juejin.cn/post/7676165309280796698",
-    "source": "juejin",
-    "score": 0.49946751,
-    "published_at": "2026-08-21T04:49:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49412328",
-    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-    "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-08-23T20:30:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49413093",
-    "title": "Parallel development without the headaches using Git worktree",
-    "url": "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-23T22:06:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49405657",
-    "title": "AI Chip Architectures",
-    "url": "https://www.jepeake.com/ai-chip-architectures",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-23T02:25:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49412483",
-    "title": "Residential proxies scraping your site? Drain their bandwidth",
-    "url": "https://layer3intel.com/blog/residential-proxy-bandwidth-drain",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-23T20:50:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49412467",
-    "title": "Declarative WebGPU with S-Expressions",
-    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-23T20:47:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49412909",
-    "title": "Implementation of GPT-2 in pure CMake",
-    "url": "https://github.com/AlpinDale/gpt2.cmake",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-23T21:41:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49413320",
-    "title": "Everything I own, owned",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-08-23T22:41:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ft1wfv",
-    "title": "My DIY DEF CON Choker Has a Screen On It",
-    "url": "https://www.scd31.com/posts/defcon-choker",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-23T16:37:23.155-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676826408547041289",
-    "title": "JWT 3：为什么 Token 要放进 Authorization？Axios 拦截器到底解决了什么？",
-    "url": "https://juejin.cn/post/7676826408547041289",
-    "source": "juejin",
-    "score": 0.83845226,
-    "published_at": "2026-08-23T11:02:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49411800",
-    "title": "Training AI to Paint with Code",
-    "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-23T19:39:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49413004",
-    "title": "The Planet Now Has More Trees Than It Did 35 Years Ago",
-    "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-23T21:55:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49412947",
-    "title": "A complex structure on S^6 [pdf]",
-    "url": "https://alpo.ge/s6.pdf",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-23T21:47:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9i36rv",
-    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
-    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-23T16:00:46.199-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49410111",
-    "title": "Kodak DC50 now usable on the Apple II",
-    "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-23T16:25:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49411717",
-    "title": "Google Workspace thinks my domain is an email provider",
-    "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-23T19:29:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hypo37",
-    "title": "Declarative WebGPU with S-expressions",
-    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-23T15:51:00.158-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49412176",
-    "title": "Decoding silent reading from non-invasive EEG",
-    "url": "https://arxiv.org/abs/2608.20186",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-23T20:13:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xiwynb",
-    "title": "tmp.0ut volume 5",
-    "url": "https://tmpout.sh/5/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-23T13:49:26.422-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49410480",
-    "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-    "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-23T17:07:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49410545",
-    "title": "The Remote Work Challenge: Lessons from 5 Cities",
-    "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-23T17:15:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49410250",
-    "title": "Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
-    "url": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-23T16:43:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ll6pak",
-    "title": "Replicating Reddit's best feature on other forums",
-    "url": "https://xavd.id/blog/post/highlighting-users/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-23T14:23:51.942-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49411762",
-    "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
-    "url": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-23T19:35:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49410847",
-    "title": "Powerful extensions do not need powerful code",
-    "url": "https://adayinthelifeof.nl/2026/08/23/powerful-extensions-do-not-need-powerful-code/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-23T17:51:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49410927",
-    "title": "From Front Panel to Program: Thinking Like a PDP-8",
-    "url": "https://pikuma.com/blog/pdp-8-minicomputer",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-23T17:59:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49410936",
-    "title": "I turned Unix talk from 1983 into the interface for my AI",
-    "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-23T18:00:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49410949",
-    "title": "Predicting AI model release dates with stats",
-    "url": "https://releaseoracle.xyz/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-23T18:01:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49411024",
-    "title": "AI and Infrastructure Engineering",
-    "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-23T18:09:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49411027",
-    "title": "Yuval Noah Harari on the economic and political perils of AI",
-    "url": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-23T18:09:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49411178",
-    "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-    "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-23T18:27:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49411268",
-    "title": "Say It Four Times (In Your System Prompt)",
-    "url": "https://www.khola.blog/p/say-it-four-times",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-23T18:40:47+00:00",
     "summary": "",
     "key_points": []
   }
