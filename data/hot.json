@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:bkiqnf",
+    "title": "Nebula Sans",
+    "url": "https://www.nebulasans.com/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-26T17:45:38.582-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:erm1zp",
+    "title": "Getting a Cease and Desist from Waffle House (2025)",
+    "url": "https://www.jack.bio/blog/wafflehouse",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-08-26T15:29:10.373-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677521340606169098",
+    "title": "为什么越来越多人用gRPC？",
+    "url": "https://juejin.cn/post/7677521340606169098",
+    "source": "juejin",
+    "score": 0.29985114,
+    "published_at": "2026-08-25T01:44:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:VoltAgent/awesome-agent-skills",
+    "title": "awesome-agent-skills",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/claude-plugins-community",
+    "title": "claude-plugins-community",
+    "url": "https://github.com/anthropics/claude-plugins-community",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:tinyhumansai/openhuman",
+    "title": "openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:basecamp/omarchy",
+    "title": "omarchy",
+    "url": "https://github.com/basecamp/omarchy",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Alishahryar1/free-claude-code",
+    "title": "free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:freestylefly/awesome-gpt-image-2",
+    "title": "awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49451343",
+    "title": "US sanctions Italian hosting provider Autistici Inventati",
+    "url": "https://home.treasury.gov/news/press-releases/sb0616",
+    "source": "hackernews",
+    "score": 139.0,
+    "published_at": "2026-08-26T15:56:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49456851",
+    "title": "Progress Linux 7.2 – Asahi Linux",
+    "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-08-26T22:35:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49452346",
+    "title": "The Harness Is the Thing",
+    "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-26T16:59:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49455530",
+    "title": "mold: A Parallel Linker",
+    "url": "https://arxiv.org/abs/2608.23228",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-08-26T20:37:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49455471",
+    "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+    "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-08-26T20:32:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49452709",
+    "title": "U.S. State Department Pauses Immigrant Visa Applications",
+    "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+    "source": "hackernews",
+    "score": 236.0,
+    "published_at": "2026-08-26T17:22:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49456929",
+    "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+    "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-08-26T22:44:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49457512",
+    "title": "Zohran and the Short Link",
+    "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-08-26T23:50:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49457545",
+    "title": "Mechanical Turk shutting down September 30",
+    "url": "https://www.mturk.com/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-08-26T23:55:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nksuk5",
     "title": "Building textlog without JavaScript",
     "url": "https://gist.github.com/stagas/09ad937b493bf8cd3285917279de2488",
@@ -4816,186 +4996,6 @@
     "source": "hackernews",
     "score": 7.0,
     "published_at": "2026-08-23T13:56:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49402491",
-    "title": "Things I want in a modern relational query language",
-    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-22T18:38:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49408858",
-    "title": "My favorite nonfiction books about cults, scams, and schemes",
-    "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-23T13:51:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49408550",
-    "title": "Malware infects Android-based automotive head unit firmware",
-    "url": "https://securelist.com/android-head-unit-malware/121106/",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-08-23T13:05:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1swh9l",
-    "title": "Optimizing memory usage in a markdown parser",
-    "url": "https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-23T06:51:43.760-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kxualw",
-    "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
-    "url": "https://lobste.rs/s/kxualw",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-23T07:08:25.166-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nxeygh",
-    "title": "A Friendly Introduction to Racket",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-23T07:22:43.791-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:u7v2sn",
-    "title": "And then the men with guns tell you to do it anyway",
-    "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-23T07:15:54.171-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dyxeyu",
-    "title": "Hister - A private, full content search index that you control",
-    "url": "https://hister.org/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-23T07:28:24.922-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236583",
-    "title": "大家现在日常/办公中，语音输入占比大概有多少？",
-    "url": "https://www.v2ex.com/t/1236583",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-08-23T09:12:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675926600998944831",
-    "title": "Claude Code ：如何最大化你的 Session 价值",
-    "url": "https://juejin.cn/post/7675926600998944831",
-    "source": "juejin",
-    "score": 0.15359776,
-    "published_at": "2026-08-20T09:39:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676404079284535332",
-    "title": "啃完 TS 工具类型我发现：Pick 和 Omit 原来就是一层窗户纸",
-    "url": "https://juejin.cn/post/7676404079284535332",
-    "source": "juejin",
-    "score": 0.40297395,
-    "published_at": "2026-08-22T15:32:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49407509",
-    "title": "Iranian hackers shut down UK power plant for 4 days",
-    "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-23T10:03:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49407507",
-    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-23T10:02:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49407785",
-    "title": "'AI refuser' quit her dream job, and hopes others follow",
-    "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-23T10:54:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49407576",
-    "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-    "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-23T10:14:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49407309",
-    "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-    "url": "https://skylens.yantraai.app/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-23T09:27:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236528",
-    "title": "关于楼上渗水到楼下的问题，请友友们提供一些建议。",
-    "url": "https://www.v2ex.com/t/1236528",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-08-23T03:39:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:NousResearch/hermes-agent",
-    "title": "hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
