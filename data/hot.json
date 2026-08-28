@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:mb9xc7",
+    "title": "Understanding useMemo and useCallback",
+    "url": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-27T13:37:56.448-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:idizd1",
+    "title": "Talk is Cheap. Code is Cheap. Show me the Source",
+    "url": "https://idlip.in/posts/show-me-source/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-27T18:54:22.681-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kvlafj",
+    "title": "Announcing Sovereign Tech Agency Investment in Flatpak",
+    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-27T22:40:20.931-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tz0865",
+    "title": "Ardour 9.8 released",
+    "url": "https://ardour.org/whatsnew.html",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-08-27T20:35:24.347-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237757",
+    "title": "V 站每天都有龟男贴，那问题来了孙割算龟男吗？",
+    "url": "https://www.v2ex.com/t/1237757",
+    "source": "v2ex",
+    "score": 114.0,
+    "published_at": "2026-08-28T00:15:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237773",
+    "title": "V 站程序员平均职业寿命大概有多少年？",
+    "url": "https://www.v2ex.com/t/1237773",
+    "source": "v2ex",
+    "score": 124.0,
+    "published_at": "2026-08-28T01:30:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237608",
+    "title": "GPT 5.6-Sol 烂完了",
+    "url": "https://www.v2ex.com/t/1237608",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-08-27T06:22:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237618",
+    "title": "准备给家里小猫换猫粮，大家有没有推荐",
+    "url": "https://www.v2ex.com/t/1237618",
+    "source": "v2ex",
+    "score": 134.0,
+    "published_at": "2026-08-27T06:44:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237607",
+    "title": "3.5 年前端找工作半个月，只有一个 offer，降薪 22%在考虑要不要去",
+    "url": "https://www.v2ex.com/t/1237607",
+    "source": "v2ex",
+    "score": 152.0,
+    "published_at": "2026-08-27T06:18:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678203712679739398",
+    "title": "Flutter 多窗口支持类型和 API 介绍",
+    "url": "https://juejin.cn/post/7678203712679739398",
+    "source": "juejin",
+    "score": 0.49807834,
+    "published_at": "2026-08-27T00:56:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677771411977322531",
+    "title": "关于HBuilderX+ 微信小程序开发工具启动的问题",
+    "url": "https://juejin.cn/post/7677771411977322531",
+    "source": "juejin",
+    "score": 0.15555672,
+    "published_at": "2026-08-25T09:26:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678237761537916979",
+    "title": "表格、文档、甘特、大屏、表单一站打通：pxcharts超级表格4.0正式上线！",
+    "url": "https://juejin.cn/post/7678237761537916979",
+    "source": "juejin",
+    "score": 0.30132608,
+    "published_at": "2026-08-26T10:19:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678531174247874586",
+    "title": "我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱",
+    "url": "https://juejin.cn/post/7678531174247874586",
+    "source": "juejin",
+    "score": 0.84437594,
+    "published_at": "2026-08-27T11:15:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678324732161851442",
+    "title": "GLM5.3Flash 我“忍”你很久，今天“曝光”你！",
+    "url": "https://juejin.cn/post/7678324732161851442",
+    "source": "juejin",
+    "score": 0.63096616,
+    "published_at": "2026-08-27T03:12:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677572864901054499",
+    "title": "ValidX时间注解完全指南：10种时间验证注解详解",
+    "url": "https://juejin.cn/post/7677572864901054499",
+    "source": "juejin",
+    "score": 0.37241905,
+    "published_at": "2026-08-25T07:03:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49473536",
+    "title": "USDA recalls 30k pounds of Argentine beef sold in Texas and Florida",
+    "url": "https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-08-28T02:05:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49472161",
+    "title": "Select * from Internet.blogposts",
+    "url": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-08-27T22:34:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49473483",
+    "title": "Stripe said to abandon $50B pursuit of PayPal",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+    "source": "hackernews",
+    "score": 77.0,
+    "published_at": "2026-08-28T01:57:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49473767",
+    "title": "Show HN: IndexFlow – Open-source indexing infrastructure built with Rust",
+    "url": "https://github.com/IndexFlowing/IndexFlow-core",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-28T02:46:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49473868",
+    "title": "Bootstrappable Builds: How and Why",
+    "url": "https://lwn.net/Articles/1088279/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-28T03:02:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49471714",
+    "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-08-27T21:46:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49471407",
+    "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+    "url": "https://github.com/experientiallabs/experiential",
+    "source": "hackernews",
+    "score": 148.0,
+    "published_at": "2026-08-27T21:18:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49474060",
+    "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+    "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-08-28T03:35:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49473522",
+    "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+    "source": "hackernews",
+    "score": 189.0,
+    "published_at": "2026-08-28T02:03:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49472820",
+    "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+    "url": "https://www.terminal-bench-science.ai/announcement",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-08-28T00:06:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49474143",
+    "title": "Please stop flooding our projects with AI slop to furnish your CV",
+    "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-08-28T03:49:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49471965",
+    "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+    "url": "https://github.com/elyosh/OpenTIE/",
+    "source": "hackernews",
+    "score": 122.0,
+    "published_at": "2026-08-27T22:10:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:matewg",
     "title": "Generic Methods in Go",
     "url": "https://go.dev/blog/generic-methods",
@@ -4726,276 +4996,6 @@
     "source": "lobsters",
     "score": 1.0,
     "published_at": "2026-08-24T02:10:16.157-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8ttu5n",
-    "title": "Your executable is a SQLite database",
-    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-24T02:32:45.274-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236750",
-    "title": "我今年 45，我以为我已经见过了世界，直到今天我用了一次汇丰的网银",
-    "url": "https://www.v2ex.com/t/1236750",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-08-24T03:26:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236744",
-    "title": "娃生了，感叹这个成本确实高。",
-    "url": "https://www.v2ex.com/t/1236744",
-    "source": "v2ex",
-    "score": 176.0,
-    "published_at": "2026-08-24T03:18:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677109639176749090",
-    "title": "在浏览器里对比 DWG/DXF 图纸 ——  @mlightcad/cad-diff-viewer",
-    "url": "https://juejin.cn/post/7677109639176749090",
-    "source": "juejin",
-    "score": 20.34663703,
-    "published_at": "2026-08-24T04:15:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49416055",
-    "title": "Andreessen Horowitz is investing billions into a bleak future",
-    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-24T06:57:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49416097",
-    "title": "Over 5,200 Ebola cases recorded in Congo",
-    "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-24T07:03:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49415405",
-    "title": "Elevated Errors for Multiple Models",
-    "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-24T05:12:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49415695",
-    "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-    "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-24T06:00:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49415621",
-    "title": "New EU-wide product repair rules come into force",
-    "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-08-24T05:47:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49415852",
-    "title": "OCR It – pull text out of un-copyable documents for your LLM",
-    "url": "https://github.com/thiagotigaz/ocr-it",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-24T06:25:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49415907",
-    "title": "Anthropic Claude and API service outages",
-    "url": "https://status.claude.com/uptime",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-24T06:32:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49412396",
-    "title": "I were 17, I'd learn how to build LLMs from scratch",
-    "url": "https://twitter.com/paulg/status/2091544343589060625",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-08-23T20:38:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49415854",
-    "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor",
-    "url": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-24T06:25:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49415893",
-    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-    "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-24T06:30:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236669",
-    "title": "[HappyCode] 企业级稳定精品 API 中转站｜新用户免费领取 100 刀 GPT、Claude 体验额度",
-    "url": "https://www.v2ex.com/t/1236669",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-08-24T01:09:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vcdk2q",
-    "title": "Everything I own, owned",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-23T22:22:13.331-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677033127248805907",
-    "title": "Dart 3.13 的到底改了什么？为什么很重要？有什么坑？",
-    "url": "https://juejin.cn/post/7677033127248805907",
-    "source": "juejin",
-    "score": 3.59421991,
-    "published_at": "2026-08-24T01:02:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49415237",
-    "title": "AI Is Quietly Draining the Public Internet of Thought",
-    "url": "https://twitter.com/BrianRoemmele/status/2091127620431933780",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-24T04:41:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49415393",
-    "title": "OpenAI web interface to Claude down, again",
-    "url": "https://news.ycombinator.com/item?id=49415393",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-24T05:10:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49415187",
-    "title": "Nearly 3M Teslas recalled in China over hidden door handles",
-    "url": "https://www.bbc.com/news/articles/c4g6ggdg030o",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-08-24T04:27:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pkktjt",
-    "title": "Adding JIT-compilation to a toy interpreter with libgccjit",
-    "url": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-23T20:16:56.438-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236674",
-    "title": "很久没有碰浏览器了，我决定从头开始写一个浏览器硬刚 Google Chrome",
-    "url": "https://www.v2ex.com/t/1236674",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-08-24T01:21:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236659",
-    "title": "miniQMT 即将清退｜“万一免五”证券开户找老倔驴巨靠谱！ #回帖抽 mx anywhere 3s [40 期]",
-    "url": "https://www.v2ex.com/t/1236659",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-08-24T00:12:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236704",
-    "title": "我说现在骗人式的推广真的太恶心了",
-    "url": "https://www.v2ex.com/t/1236704",
-    "source": "v2ex",
-    "score": 144.0,
-    "published_at": "2026-08-24T02:17:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676748940241158171",
-    "title": "84.5K+ Star！这个开源编程 Agent 控制台，能统一管理 Codex、Claude Code，DeepSeek Harness 也能接入",
-    "url": "https://juejin.cn/post/7676748940241158171",
-    "source": "juejin",
-    "score": 0.54185087,
-    "published_at": "2026-08-23T07:24:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49414556",
-    "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
-    "url": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-24T02:17:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49414096",
-    "title": "The first search engine for Internet-connected devices",
-    "url": "https://www.shodan.io/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-24T00:52:21+00:00",
     "summary": "",
     "key_points": []
   }
