@@ -1,5 +1,315 @@
 [
   {
+    "id": "lobsters:vji9aj",
+    "title": "Any true alternatives to electron JavaScript?",
+    "url": "https://lobste.rs/s/vji9aj",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-28T22:11:59.669-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5lz0zd",
+    "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+    "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-29T01:11:18.866-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zctsmq",
+    "title": "LLM usage in Debian neither endorsed nor prohibited",
+    "url": "https://www.debian.org/vote/2026/vote_002#texte",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-08-28T20:40:59.732-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mroowi",
+    "title": "Being kicked out of the tech industry - Jacky Alciné",
+    "url": "https://www.jacky.wtf/essays/2026/kicked-out/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-08-29T03:24:22.415-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238008",
+    "title": "AI 经济与人类工作岗位的基本原理",
+    "url": "https://www.v2ex.com/t/1238008",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-08-29T02:49:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238019",
+    "title": "还真有人信孙割说的话？",
+    "url": "https://www.v2ex.com/t/1238019",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-08-29T04:14:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237975",
+    "title": "今天 Win11 更新 KB5120998 会引起鼠标指针变大和壁纸变黑",
+    "url": "https://www.v2ex.com/t/1237975",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-08-28T14:00:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237951",
+    "title": "搞不懂迅雷的逻辑，为啥超级会员本地取回还不给跑满带宽？",
+    "url": "https://www.v2ex.com/t/1237951",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-08-28T12:11:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237999",
+    "title": "闲鱼手续费分好几笔扣",
+    "url": "https://www.v2ex.com/t/1237999",
+    "source": "v2ex",
+    "score": 58.0,
+    "published_at": "2026-08-29T01:37:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237966",
+    "title": "职场新人处理同事关系请教",
+    "url": "https://www.v2ex.com/t/1237966",
+    "source": "v2ex",
+    "score": 60.0,
+    "published_at": "2026-08-28T13:15:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237986",
+    "title": "公司不让装 Navicat 了，就自己写了一个数据库客户端",
+    "url": "https://www.v2ex.com/t/1237986",
+    "source": "v2ex",
+    "score": 72.0,
+    "published_at": "2026-08-28T15:55:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238000",
+    "title": "没交物业费，物业起诉我之后还没开庭，法院直接冻结我的定期存款了，合法吗？",
+    "url": "https://www.v2ex.com/t/1238000",
+    "source": "v2ex",
+    "score": 98.0,
+    "published_at": "2026-08-29T01:38:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237979",
+    "title": "[吉吉 ] 纯血 Pro 倍率 0.16 缓存近 90%，首字 1S 起，自用实时监测无降智，回复送测试鸡蛋。",
+    "url": "https://www.v2ex.com/t/1237979",
+    "source": "v2ex",
+    "score": 152.0,
+    "published_at": "2026-08-28T15:06:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678975158596239369",
+    "title": "一个 SKILL.md 拿下 2.3 万 Star：让 Codex/Claude Code 少说废话、先给答案",
+    "url": "https://juejin.cn/post/7678975158596239369",
+    "source": "juejin",
+    "score": 0.72414009,
+    "published_at": "2026-08-28T22:31:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678646261258043428",
+    "title": "VisActor  全新图可视化开源项目：VGraph",
+    "url": "https://juejin.cn/post/7678646261258043428",
+    "source": "juejin",
+    "score": 0.37367365,
+    "published_at": "2026-08-28T05:06:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678239088522313780",
+    "title": "WorkBuddy 保姆级教程开源了！600 多篇 Agent 资料一次性放出",
+    "url": "https://juejin.cn/post/7678239088522313780",
+    "source": "juejin",
+    "score": 0.14734328,
+    "published_at": "2026-08-27T03:50:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678262031960834088",
+    "title": "TRAE Work 实战帮征文 | 获奖名单公示",
+    "url": "https://juejin.cn/post/7678262031960834088",
+    "source": "juejin",
+    "score": 0.20755012,
+    "published_at": "2026-08-27T06:41:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678157950377312271",
+    "title": "当 AI 遇见 Flutter | 打造 500+ Widget 专属Logo",
+    "url": "https://juejin.cn/post/7678157950377312271",
+    "source": "juejin",
+    "score": 0.16831569,
+    "published_at": "2026-08-27T00:43:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678580101932220425",
+    "title": "牛来原来是智谱，GLM-5.3-Flash 实测有惊喜也有硬伤",
+    "url": "https://juejin.cn/post/7678580101932220425",
+    "source": "juejin",
+    "score": 0.21854574,
+    "published_at": "2026-08-27T11:39:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678703379591708724",
+    "title": "🤔 v-mortal 是什么？！我只知道 v-model 啊！",
+    "url": "https://juejin.cn/post/7678703379591708724",
+    "source": "juejin",
+    "score": 0.46198627,
+    "published_at": "2026-08-28T06:35:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49418813",
+    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+    "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-08-24T12:30:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49428343",
+    "title": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
+    "url": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-25T02:17:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49422397",
+    "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
+    "url": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-24T16:41:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49417298",
+    "title": "Monzo Stand-In",
+    "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-08-24T09:30:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49487786",
+    "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+    "url": "https://www.inventati.org/who/manifesto",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-08-29T07:38:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49486176",
+    "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+    "url": "https://www.kumander.org/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-08-29T01:48:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49486172",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+    "source": "hackernews",
+    "score": 494.0,
+    "published_at": "2026-08-29T01:47:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49487506",
+    "title": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
+    "url": "https://github.com/paveluv/e",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-08-29T06:35:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49486334",
+    "title": "TurboKV: Insanely fast Rust key-value store",
+    "url": "https://github.com/kingroryg/turbokv",
+    "source": "hackernews",
+    "score": 90.0,
+    "published_at": "2026-08-29T02:23:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49456819",
+    "title": "Europe's last regular standard-gauge steam passenger service",
+    "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-08-26T22:32:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49487341",
+    "title": "Samsung's Processing-in-Memory (PIM)",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-08-29T06:06:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:yqqsgk",
     "title": "Pointer Stability for ArrayLists",
     "url": "https://ziglang.org/devlog/2026/#2026-08-27",
@@ -4686,316 +4996,6 @@
     "source": "hackernews",
     "score": 17.0,
     "published_at": "2026-08-23T17:48:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49428882",
-    "title": "Headlong: A Microharness for Persistent Agents",
-    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-25T03:54:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:w0d3um",
-    "title": "POP-2000, a lingua-franca POP-2 dialect",
-    "url": "https://hitogata.neocities.org/POP-2000",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-24T21:44:14.638-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nfmlwp",
-    "title": "Hot Chips 2026: CUDA targets RISC-V",
-    "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-24T20:06:46.201-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236954",
-    "title": "大家有没有关注到最近的“男性觉醒”现象",
-    "url": "https://www.v2ex.com/t/1236954",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-08-25T01:28:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236818",
-    "title": "[8 月活动] 一个真正一目了然的自建 Codex 中转站",
-    "url": "https://www.v2ex.com/t/1236818",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-08-24T07:27:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236796",
-    "title": "todo 软件你们推荐哪个",
-    "url": "https://www.v2ex.com/t/1236796",
-    "source": "v2ex",
-    "score": 124.0,
-    "published_at": "2026-08-24T06:20:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236935",
-    "title": "“万一免五”股票基金大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.25 日~8.31 日]",
-    "url": "https://www.v2ex.com/t/1236935",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-08-25T00:29:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49428318",
-    "title": "Thomson Reuters Launches Its Own Frontier Model",
-    "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-25T02:11:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49428121",
-    "title": "How Universities Should Prepare Founders",
-    "url": "https://paulgraham.com/prepare.html",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-08-25T01:40:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49428080",
-    "title": "Was Modern Art a CIA Psy-Op?",
-    "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-25T01:35:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236792",
-    "title": "你还在用 Vim 吗？你为什么用它？",
-    "url": "https://www.v2ex.com/t/1236792",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-08-24T06:14:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236684",
-    "title": "挤地铁小游戏",
-    "url": "https://www.v2ex.com/t/1236684",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-08-24T01:42:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236852",
-    "title": "我的产品陷入绝望",
-    "url": "https://www.v2ex.com/t/1236852",
-    "source": "v2ex",
-    "score": 144.0,
-    "published_at": "2026-08-24T09:01:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676498957653803008",
-    "title": "DeepSeek Harness 发布一周，登顶 Top10 的插件，暴露了哪些真实需求？",
-    "url": "https://juejin.cn/post/7676498957653803008",
-    "source": "juejin",
-    "score": 0.18922928,
-    "published_at": "2026-08-23T01:15:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49427825",
-    "title": "What languages are agent skills written in?",
-    "url": "https://plicara.ai/research/agent-skill-languages/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-25T00:52:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676826408547090441",
-    "title": "JWT 4：Zustand 到底解决了什么？为什么登录状态要放进 Store？",
-    "url": "https://juejin.cn/post/7676826408547090441",
-    "source": "juejin",
-    "score": 0.64906995,
-    "published_at": "2026-08-23T11:03:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49427001",
-    "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-    "url": "https://github.com/murerkinn/bookshelf",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-24T23:00:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0i7pks",
-    "title": "Sloc Cloc and Code 4.0 (scc) - Finding the files that need the most attention",
-    "url": "https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-24T18:04:39.136-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49426466",
-    "title": "Moon",
-    "url": "https://ciechanow.ski/moon/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-08-24T22:06:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hgirjs",
-    "title": "Atkinson Hyperlegible appears a little smaller than some other fonts at the same font size",
-    "url": "https://twotwos.nekoweb.org/posts/hyperlegible.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-08-24T10:15:43.773-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:al6sdh",
-    "title": "distributed identity",
-    "url": "https://jyn.dev/distributed-identity/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-24T16:28:12.877-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49423077",
-    "title": "Agent Lightning v1.0",
-    "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-24T17:23:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49426564",
-    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-08-24T22:13:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uodrjx",
-    "title": "kudu - easily manage VMs on Linux",
-    "url": "https://github.com/pythops/kudu",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-24T15:53:40.676-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236793",
-    "title": "娃生了，感叹这个成本真的很低。",
-    "url": "https://www.v2ex.com/t/1236793",
-    "source": "v2ex",
-    "score": 160.0,
-    "published_at": "2026-08-24T06:14:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49423146",
-    "title": "Fences, Not Sandboxes",
-    "url": "https://yegge.ai/essays/fences-not-sandboxes/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-24T17:28:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49423539",
-    "title": "Octopus intelligence may be related to never-before-seen mutation",
-    "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-08-24T17:57:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49425800",
-    "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-24T21:01:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49425819",
-    "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-    "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-08-24T21:03:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49424882",
-    "title": "Greg Abbott says data centers:'basically dug their own grave'",
-    "url": "https://www.businessinsider.com/greg-abbott-texas-data-centers-backlash-2026-8",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-24T19:43:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49390993",
-    "title": "Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour",
-    "url": "https://skimmiq.com/pt/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-21T17:05:47+00:00",
     "summary": "",
     "key_points": []
   }
