@@ -1,5 +1,175 @@
 [
   {
+    "id": "lobsters:fdhkf3",
+    "title": "On 'scaling up' and being the right size",
+    "url": "https://tzovar.as/scaling-up-and-on-being-the-right-size/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-29T06:26:19.433-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:s8x8xq",
+    "title": "Reviving An SD Card With Shorted Capacitors",
+    "url": "https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-29T00:35:08.758-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:34qdwx",
+    "title": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+    "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-29T03:19:22.011-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:k9uxu5",
+    "title": "Parsing the Infamous Japanese Postal CSV",
+    "url": "https://www.dampfkraft.com/posuto.html",
+    "source": "lobsters",
+    "score": 17.0,
+    "published_at": "2026-08-29T03:10:10.185-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238002",
+    "title": "做一个 iOS 27 风格的 V2EX 客户端 - 关于这个应用的上架说明以及三轮审核情况",
+    "url": "https://www.v2ex.com/t/1238002",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-08-29T02:11:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238034",
+    "title": "所有程序员都用 AI 的话，那以后怎么判断能力的高低？",
+    "url": "https://www.v2ex.com/t/1238034",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-08-29T07:13:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237988",
+    "title": "把股票行情放进了 MacBook 刘海里，开发了一个叫 Stock Island 的 mac app",
+    "url": "https://www.v2ex.com/t/1237988",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-08-28T17:08:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678607362014937142",
+    "title": "《HelloGitHub》第 125 期",
+    "url": "https://juejin.cn/post/7678607362014937142",
+    "source": "juejin",
+    "score": 0.23847943,
+    "published_at": "2026-08-28T00:31:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678975240300773428",
+    "title": " 「速通Shell」Shell 编程性能优化",
+    "url": "https://juejin.cn/post/7678975240300773428",
+    "source": "juejin",
+    "score": 3.48008278,
+    "published_at": "2026-08-29T08:59:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49435595",
+    "title": "Time complexity of operations on Python's built-in types",
+    "url": "https://docs.python.org/3.16/library/time-complexity.html",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-08-25T15:15:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49447178",
+    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+    "url": "https://typebase.io",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-26T11:33:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49433328",
+    "title": "EVE Online moves to Python 3",
+    "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-08-25T13:04:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49420524",
+    "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+    "url": "https://galaxium.app",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-08-24T14:44:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49450782",
+    "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+    "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-08-26T15:22:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49479546",
+    "title": "Creating the Aetheryte Radio",
+    "url": "https://haz.ee/posts/aetheryte-radio.html",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-28T14:59:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49424320",
+    "title": "Glacier Mice",
+    "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-08-24T18:58:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49489057",
+    "title": "Iceland votes on whether to restart talks on joining EU",
+    "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+    "source": "hackernews",
+    "score": 211.0,
+    "published_at": "2026-08-29T11:39:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:vji9aj",
     "title": "Any true alternatives to electron JavaScript?",
     "url": "https://lobste.rs/s/vji9aj",
@@ -4826,176 +4996,6 @@
     "source": "v2ex",
     "score": 128.0,
     "published_at": "2026-08-25T01:56:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236961",
-    "title": "发现了最好的助眠药物",
-    "url": "https://www.v2ex.com/t/1236961",
-    "source": "v2ex",
-    "score": 158.0,
-    "published_at": "2026-08-25T01:43:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236977",
-    "title": "居然没人讨论玄戒 O3,不应该呀？",
-    "url": "https://www.v2ex.com/t/1236977",
-    "source": "v2ex",
-    "score": 142.0,
-    "published_at": "2026-08-25T02:18:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49428638",
-    "title": "SiFive's First Server Platform",
-    "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-25T03:06:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49429095",
-    "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-    "url": "https://github.com/dragthelake/ambient-context",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-25T04:33:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7676809743765241862",
-    "title": "腾讯正式上线AI应用生成平台：一句话生成 App，还能直接上架商店",
-    "url": "https://juejin.cn/post/7676809743765241862",
-    "source": "juejin",
-    "score": 0.4163429,
-    "published_at": "2026-08-24T00:16:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49389593",
-    "title": "Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
-    "url": "https://github.com/uncognic/steppewm",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-21T15:27:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49420598",
-    "title": "Walgit – a Git server that is one binary in front of an object store",
-    "url": "https://github.com/tobi/walgit",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-08-24T14:49:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49419252",
-    "title": "What's new in Emacs 31.1",
-    "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-08-24T13:07:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49420116",
-    "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
-    "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-08-24T14:15:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49422226",
-    "title": "Ox-Alpha Is GLM?",
-    "url": "https://dejan.ai/blog/ox-alpha/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-08-24T16:30:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49399722",
-    "title": "Nostr is an inclusive communication commons",
-    "url": "https://nostr.org/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-08-22T13:49:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236846",
-    "title": "记买车一周年",
-    "url": "https://www.v2ex.com/t/1236846",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-08-24T08:49:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236973",
-    "title": "为什么机器人一定是“人”呢",
-    "url": "https://www.v2ex.com/t/1236973",
-    "source": "v2ex",
-    "score": 150.0,
-    "published_at": "2026-08-25T02:08:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677170455305879562",
-    "title": "图解 AI Agent ①：大模型接上 API，为什么还不算 Agent？",
-    "url": "https://juejin.cn/post/7677170455305879562",
-    "source": "juejin",
-    "score": 0.62966023,
-    "published_at": "2026-08-24T06:20:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49428842",
-    "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
-    "url": "https://news.ycombinator.com/item?id=49428842",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-25T03:46:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49420714",
-    "title": "Show HN: How to mentally calculate the day of the week for any date",
-    "url": "https://tinkerandsee.com/weekday/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-08-24T14:57:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49410814",
-    "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-    "url": "https://tarjan.itch.io/thoreaubasic",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-23T17:48:12+00:00",
     "summary": "",
     "key_points": []
   }
