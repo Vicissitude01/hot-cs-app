@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:udkuqc",
+    "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+    "url": "https://dl.acm.org/doi/epdf/10.1145/3830438.3830958",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-29T16:59:35.366-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:m3brob",
+    "title": "Omnipresent availability risks in cloud software",
+    "url": "https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-29T17:17:35.146-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/claude-plugins-official",
+    "title": "claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49465250",
+    "title": "The Wandering Yamamura Theater Troupe",
+    "url": "https://cinemasojourns.com/2026/08/27/the-wandering-yamamura-theater-troupe/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-27T14:13:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49492488",
+    "title": "A safe MySQL upgrade that wasn't so safe",
+    "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-29T19:15:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49482833",
+    "title": "Nancy Grace Roman Space Telescope Launches this Sunday",
+    "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-08-28T18:53:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49494036",
+    "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+    "url": "https://defrag98.com",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-29T22:51:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49493563",
+    "title": "Aptera announces a $44M to design and build a solar electric vehicle",
+    "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-29T21:37:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:wg65qn",
     "title": "Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
     "url": "https://github.com/todotge/canonical-basis",
@@ -4916,86 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-08-25T09:18:01.902-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677762452274085914",
-    "title": "图解 AI Agent ②：模型到底是怎么读取文件的？",
-    "url": "https://juejin.cn/post/7677762452274085914",
-    "source": "juejin",
-    "score": 2.24099775,
-    "published_at": "2026-08-25T07:14:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49430007",
-    "title": "Windows 95 released August 24, 1995",
-    "url": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-08-25T06:56:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49434914",
-    "title": "Polishing Cloth",
-    "url": "https://www.apple.com/shop/product/mlh74am/a/polishing-cloth",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-25T14:35:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49434613",
-    "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
-    "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-25T14:18:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49435495",
-    "title": "Beyond Good and Evil: Nietzsche and the Great War",
-    "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-25T15:09:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49434830",
-    "title": "Apple Releases New Polishing Cloth",
-    "url": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-08-25T14:30:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49434645",
-    "title": "Building a backyard office, the build and cost breakdown",
-    "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-08-25T14:20:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49434820",
-    "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
-    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-08-25T14:29:32+00:00",
     "summary": "",
     "key_points": []
   }
