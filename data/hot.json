@@ -1,5 +1,175 @@
 [
   {
+    "id": "lobsters:tnmkfp",
+    "title": "Civic Hygiene (2013)",
+    "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-29T11:03:08.955-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nbjo0i",
+    "title": "Creepy crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-08-29T11:25:31.720-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pxmp9r",
+    "title": "Debian and the sirens",
+    "url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-08-29T10:33:38.535-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238012",
+    "title": "阿里云代理这么便宜？",
+    "url": "https://www.v2ex.com/t/1238012",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-08-29T03:07:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238009",
+    "title": "国内的 qoder cli 和 codebuddy cli 怎么选？都是接 ds 的情况下",
+    "url": "https://www.v2ex.com/t/1238009",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-08-29T02:53:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238073",
+    "title": "免费，开源， V2EX Android 客户端首个正式版本， Kotlin + Jetpack Compose 构建。",
+    "url": "https://www.v2ex.com/t/1238073",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-08-29T12:54:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678577086287118370",
+    "title": "听说我兄弟喜欢跑车，所以必须安排上",
+    "url": "https://juejin.cn/post/7678577086287118370",
+    "source": "juejin",
+    "score": 0.1223752,
+    "published_at": "2026-08-27T14:40:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49490826",
+    "title": "Parsing the Infamous Japanese Postal CSV",
+    "url": "https://www.dampfkraft.com/posuto.html",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-08-29T15:42:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49491568",
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-29T17:19:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49490832",
+    "title": "Quantifying Colour",
+    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-08-29T15:43:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49490702",
+    "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+    "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-08-29T15:26:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49490870",
+    "title": "Nancy Grace Roman Space Telescope",
+    "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-08-29T15:48:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49428756",
+    "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
+    "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-25T03:26:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49490138",
+    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+    "url": "https://uecker.codeberg.page/2026-08-29.html",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-08-29T14:20:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49426995",
+    "title": "SQLite as a Document Database (2020)",
+    "url": "https://dgl.cx/2020/06/sqlite-json-support",
+    "source": "hackernews",
+    "score": 77.0,
+    "published_at": "2026-08-24T23:00:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49415386",
+    "title": "Tether: iMessage, SMS, etc. on Linux",
+    "url": "https://zackbartel.com/blog/2026/08/tether/",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-08-24T05:09:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49489982",
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "url": "https://lwn.net/Articles/1091231/",
+    "source": "hackernews",
+    "score": 390.0,
+    "published_at": "2026-08-29T14:02:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:fdhkf3",
     "title": "On 'scaling up' and being the right size",
     "url": "https://tzovar.as/scaling-up-and-on-being-the-right-size/",
@@ -4826,176 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-08-25T03:04:13.837-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9w5eos",
-    "title": "Porffor goes alpha August 11th",
-    "url": "https://honk.foo/porffor-alpha/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-25T05:01:40.386-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4wh5ng",
-    "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
-    "url": "https://nemin.hu/vps/index.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-25T05:42:16.580-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237082",
-    "title": "中国人的人均地理水平差的程度，已经开始污染美国 AI 了",
-    "url": "https://www.v2ex.com/t/1237082",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-08-25T07:42:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49431364",
-    "title": "Why some US restaurants are banning tips",
-    "url": "https://www.bbc.com/news/articles/c4g36yze692o",
-    "source": "hackernews",
-    "score": 86.0,
-    "published_at": "2026-08-25T10:09:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gxcqxj",
-    "title": "Galaxium, a WebGPU universe explorer",
-    "url": "https://galaxium.app",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-25T04:33:23.657-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:apache/maka",
-    "title": "maka",
-    "url": "https://github.com/apache/maka",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49431024",
-    "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
-    "url": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-25T09:17:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fyps8w",
-    "title": "Haskell diagrams: Tessellations",
-    "url": "https://mgarletmilani.com/blog/2026-06-03-tessellations/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-25T01:42:59.564-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:k5feqe",
-    "title": "Solving the 1+N query problem",
-    "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-25T03:25:23.534-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236934",
-    "title": "xyz 域名要涨价了",
-    "url": "https://www.v2ex.com/t/1236934",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-08-25T00:12:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237009",
-    "title": "我是真的犯贱，去 Linux DO 上推荐自己的开源项目。味太大了，生理不适",
-    "url": "https://www.v2ex.com/t/1237009",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-08-25T03:31:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236964",
-    "title": "网络义父们，微信小程序用户上传图片一般怎么控制成本的？",
-    "url": "https://www.v2ex.com/t/1236964",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-08-25T01:46:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677562804154531890",
-    "title": "走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术",
-    "url": "https://juejin.cn/post/7677562804154531890",
-    "source": "juejin",
-    "score": 12.87308974,
-    "published_at": "2026-08-25T06:25:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237045",
-    "title": "干了件蠢事，拿 WD-40 喷了刹车盘",
-    "url": "https://www.v2ex.com/t/1237045",
-    "source": "v2ex",
-    "score": 190.0,
-    "published_at": "2026-08-25T05:37:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677489259041144866",
-    "title": "聊聊 Prompt 是怎么一路进化到 Harness 的",
-    "url": "https://juejin.cn/post/7677489259041144866",
-    "source": "juejin",
-    "score": 2.92859081,
-    "published_at": "2026-08-25T01:54:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49428972",
-    "title": "Volcanoes that made history",
-    "url": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-25T04:09:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1236970",
-    "title": "不干程序员后干啥",
-    "url": "https://www.v2ex.com/t/1236970",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-08-25T01:56:59+00:00",
     "summary": "",
     "key_points": []
   }
