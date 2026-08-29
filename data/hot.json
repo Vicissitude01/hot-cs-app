@@ -1,5 +1,255 @@
 [
   {
+    "id": "lobsters:wg65qn",
+    "title": "Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+    "url": "https://github.com/todotge/canonical-basis",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-29T15:16:54.104-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wsbhcr",
+    "title": "What GLM-5.3 Flash running on Chinese hardware actually means",
+    "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-29T15:44:36.671-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:flcppv",
+    "title": "Introducing ReactOS 0.4.16",
+    "url": "https://reactos.org/project-news/reactos-0416-released/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-29T15:21:34.963-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xeedei",
+    "title": "Does Computer Science Need Computers?",
+    "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-29T13:10:46.748-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:svga6q",
+    "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt",
+    "url": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-29T14:56:09.910-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:workweave/router",
+    "title": "router",
+    "url": "https://github.com/workweave/router",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:addyosmani/agent-skills",
+    "title": "agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:kaifcodec/user-scanner",
+    "title": "user-scanner",
+    "url": "https://github.com/kaifcodec/user-scanner",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Osmantic/ODS",
+    "title": "ODS",
+    "url": "https://github.com/Osmantic/ODS",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:every-app/open-seo",
+    "title": "open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:bigskysoftware/htmx",
+    "title": "htmx",
+    "url": "https://github.com/bigskysoftware/htmx",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:p-e-w/heretic",
+    "title": "heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:THU-MAIC/OpenMAIC",
+    "title": "OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49492368",
+    "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+    "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-29T19:01:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49491175",
+    "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+    "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-29T16:24:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49448583",
+    "title": "Recovering Corrupt Zip Files",
+    "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-26T13:14:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49492584",
+    "title": "Domain-Driven Agents",
+    "url": "https://coldtake.dev/blog/domain-driven-agents",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-29T19:28:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49417662",
+    "title": "Kmart Digicam Mod Part 2",
+    "url": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-24T10:14:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49491544",
+    "title": "A better SQL in 11 lines of code",
+    "url": "https://prela-lang.org/tutorial/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-08-29T17:13:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49492219",
+    "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+    "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+    "source": "hackernews",
+    "score": 135.0,
+    "published_at": "2026-08-29T18:44:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49492432",
+    "title": "Warp builds self-improving agents on Claude",
+    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-08-29T19:09:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49491714",
+    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+    "url": "https://tucker.wales/writing/bias-towards-action/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-08-29T17:39:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49492067",
+    "title": "vLLM v0.28.0",
+    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-08-29T18:22:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49492632",
+    "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+    "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-08-29T19:33:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49492193",
+    "title": "The Internet Is Kind of a Predatory Cesspit Now",
+    "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+    "source": "hackernews",
+    "score": 306.0,
+    "published_at": "2026-08-29T18:40:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:tnmkfp",
     "title": "Civic Hygiene (2013)",
     "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
@@ -4746,256 +4996,6 @@
     "source": "hackernews",
     "score": 55.0,
     "published_at": "2026-08-25T14:29:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:useg7x",
-    "title": "The XY Problem",
-    "url": "https://xyproblem.info/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-25T08:54:28.159-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ozkoqo",
-    "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
-    "url": "https://infosec.exchange/@david_chisnall/117156204452541109",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-25T08:29:53.312-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49434291",
-    "title": "Anthropic tells staff to work from home due to possible security team strike",
-    "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-25T14:00:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49433759",
-    "title": "The state of AI in 2026: On the road to ROI",
-    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-25T13:32:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49433450",
-    "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
-    "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-25T13:13:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49432317",
-    "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-    "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-08-25T11:49:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49433292",
-    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-    "source": "hackernews",
-    "score": 274.0,
-    "published_at": "2026-08-25T13:01:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49433316",
-    "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
-    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-    "source": "hackernews",
-    "score": 204.0,
-    "published_at": "2026-08-25T13:03:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:apjhyj",
-    "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
-    "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-25T07:26:40.870-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ivr1bw",
-    "title": "An interactive introduction to the spanning tree protocol",
-    "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-08-25T07:06:16.154-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49432879",
-    "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-    "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-25T12:33:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49432227",
-    "title": "HelloAssembly The smallest possible complete Windows application",
-    "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-25T11:40:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49433064",
-    "title": "France's tax agency got hacked (in French)",
-    "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-25T12:44:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49432319",
-    "title": "Don't Wordle",
-    "url": "https://dontwordle.com/",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-08-25T11:49:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:b15udy",
-    "title": "Another look at SQLite's WAL-Reset bug",
-    "url": "https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-25T05:46:18.571-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jjspxh",
-    "title": "MNT Station - A modular, open hardware desktop computer and server",
-    "url": "https://www.crowdsupply.com/mnt-research/mnt-station",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-25T06:16:01.500-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:asciimoo/hister",
-    "title": "hister",
-    "url": "https://github.com/asciimoo/hister",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/claude-plugins-official",
-    "title": "claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:DietrichGebert/ponytail",
-    "title": "ponytail",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:marin-community/marin",
-    "title": "marin",
-    "url": "https://github.com/marin-community/marin",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Shubhamsaboo/awesome-llm-apps",
-    "title": "awesome-llm-apps",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:TauricResearch/TradingAgents",
-    "title": "TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49432201",
-    "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
-    "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-25T11:37:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49431560",
-    "title": "Quantum battery upends the rules of charging",
-    "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-08-25T10:34:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4haxto",
-    "title": "A Design Space Exploration of Async/Await",
-    "url": "https://arxiv.org/pdf/2608.20677",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-25T03:04:13.837-05:00",
     "summary": "",
     "key_points": []
   }
