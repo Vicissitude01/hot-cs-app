@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:yqqsgk",
+    "title": "Pointer Stability for ArrayLists",
+    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-08-28T12:39:21.794-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nfvukc",
+    "title": "Stopping the smart TV from being used against you",
+    "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-28T14:32:48.660-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:t73wqi",
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-08-28T15:23:15.671-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qlpiur",
+    "title": "GUIs should be fully keyboard-driven",
+    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-08-28T13:47:26.008-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:suwcbt",
+    "title": "How cats.txt showed llms.txt evidence is GEO astrology",
+    "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
+    "source": "lobsters",
+    "score": 20.0,
+    "published_at": "2026-08-28T13:11:43.147-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237806",
+    "title": "原来真的有人认为工作年限应该与薪资挂钩，各位 v 友怎么看",
+    "url": "https://www.v2ex.com/t/1237806",
+    "source": "v2ex",
+    "score": 74.0,
+    "published_at": "2026-08-28T02:53:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237843",
+    "title": "实在顶不住了,准备去香港买个 rtx 4090/24G 显卡",
+    "url": "https://www.v2ex.com/t/1237843",
+    "source": "v2ex",
+    "score": 78.0,
+    "published_at": "2026-08-28T04:54:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237787",
+    "title": "今天看到阮一峰科技周刊介绍的一个概念，突然想到了 V 站是不是就是这样的同质性网络？",
+    "url": "https://www.v2ex.com/t/1237787",
+    "source": "v2ex",
+    "score": 88.0,
+    "published_at": "2026-08-28T02:08:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1237833",
+    "title": "如果不知道孙割的瓜，就别搜索了",
+    "url": "https://www.v2ex.com/t/1237833",
+    "source": "v2ex",
+    "score": 90.0,
+    "published_at": "2026-08-28T04:00:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677865502220648494",
+    "title": "Rspack 2.2 发布：30+ 项性能优化，拥抱 Solid 2.0",
+    "url": "https://juejin.cn/post/7677865502220648494",
+    "source": "juejin",
+    "score": 0.09382935,
+    "published_at": "2026-08-26T03:51:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7677899267893559338",
+    "title": "ViewCompose：让原生 Android View 进入声明式时代",
+    "url": "https://juejin.cn/post/7677899267893559338",
+    "source": "juejin",
+    "score": 0.13845303,
+    "published_at": "2026-08-26T03:22:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678529068804554787",
+    "title": "🚀苹果的液态玻璃咋做？🚀",
+    "url": "https://juejin.cn/post/7678529068804554787",
+    "source": "juejin",
+    "score": 0.48669318,
+    "published_at": "2026-08-27T11:23:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:rohitg00/ai-engineering-from-scratch",
+    "title": "ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:tashfeenahmed/freellmapi",
+    "title": "freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49483080",
+    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
+    "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-08-28T19:18:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49419409",
+    "title": "Experiments with Plotter Art",
+    "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-24T13:21:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49483038",
+    "title": "Show HN: Sesame - a local-first, open-source password manager",
+    "url": "https://usesesame.app/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-08-28T19:14:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49443783",
+    "title": "Visual Analysis of Binary Files",
+    "url": "https://binvis.io/#/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-08-26T03:11:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49454182",
+    "title": "Processing in Memory: DRAM Is About to Do Math",
+    "url": "https://ben3d.ca/blog/processing-in-memory",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-08-26T19:07:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49485416",
+    "title": "I accidentally turned LLM memory into program analysis",
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-28T23:27:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49422743",
+    "title": "Curvature Beziers: Improving on a timeless recipe",
+    "url": "https://acko.net/blog/curvature-beziers/",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-08-24T17:03:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49486081",
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-29T01:24:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49484925",
+    "title": "Identifying fake cosmetics using AI",
+    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-08-28T22:18:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49485504",
+    "title": "PPWR lands another blow to an precarious tabletop industry",
+    "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-08-28T23:41:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49485452",
+    "title": "9th Circuit sides with states in Kalshi gambling fight",
+    "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-08-28T23:32:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49485532",
+    "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-08-28T23:46:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49485267",
+    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "source": "hackernews",
+    "score": 79.0,
+    "published_at": "2026-08-28T23:02:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:rhto2r",
     "title": "25x Performance, Three Optimizations",
     "url": "https://maplant.com/2025-04-20-25x-Performance,-Three-Optimizations.html",
@@ -4726,276 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-08-21T17:05:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49424606",
-    "title": "Oceans hit highest temperature on record",
-    "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-    "source": "hackernews",
-    "score": 139.0,
-    "published_at": "2026-08-24T19:19:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49424758",
-    "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-    "url": "https://github.com/l3a0/claude-plugins",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-24T19:32:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:daohlz",
-    "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
-    "url": "https://routeup.dev",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-24T14:08:59.286-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49420530",
-    "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-08-24T14:44:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49424387",
-    "title": "LLMs could control their host machines by exploiting inference engines",
-    "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-24T19:03:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49423886",
-    "title": "Your \"File\" Menu Isn't About Files",
-    "url": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-24T18:21:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49423927",
-    "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
-    "url": "https://github.com/getkern/kern",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-24T18:24:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49423832",
-    "title": "Technology Is Over",
-    "url": "https://www.taylorforeman.com/p/technology-is-over",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-24T18:18:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49424167",
-    "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-    "url": "https://textlog.cc/post/2059",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-24T18:45:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49423445",
-    "title": "Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9",
-    "url": "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-24T17:50:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49423799",
-    "title": "What Is a Syslog Server?",
-    "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-24T18:15:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49424082",
-    "title": "Anger, Anxiety and Agency",
-    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-24T18:37:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gzddgr",
-    "title": "AI Coding will Prevent Expertise | Lars Faye",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-24T11:20:42.855-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:26oj2u",
-    "title": "Intent to Ship: JPEG XL",
-    "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-08-24T11:25:08.134-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677418026090528794",
-    "title": "向量数据库不该成为新孤岛：KingbaseES 多模融合架构如何减少数据搬运",
-    "url": "https://juejin.cn/post/7677418026090528794",
-    "source": "juejin",
-    "score": 1.56550185,
-    "published_at": "2026-08-24T10:13:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677428850284675082",
-    "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
-    "url": "https://juejin.cn/post/7677428850284675082",
-    "source": "juejin",
-    "score": 1.4905293,
-    "published_at": "2026-08-24T10:07:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49420556",
-    "title": "Codefloe Is a Professionally Hosted Public Git Forge",
-    "url": "https://codefloe.com/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-24T14:46:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49422481",
-    "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
-    "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-24T16:46:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49357290",
-    "title": "Curvature Beziers – Improving on a timeless recipe",
-    "url": "https://acko.net/blog/curvature-beziers/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-19T05:36:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49422404",
-    "title": "Man Dressed as Darth Vader Defends Flock Cameras to San Diego City Council",
-    "url": "https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance/",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-08-24T16:41:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49423495",
-    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-    "url": "https://www.ycombinator.com/companies/autostep/jobs",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-08-24T17:53:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49422784",
-    "title": "The entire city of San Francisco as a video game",
-    "url": "https://sf.thijs.gg/",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-08-24T17:05:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49422800",
-    "title": "Where Did All the Public Bathrooms Go?",
-    "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-08-24T17:07:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0typpq",
-    "title": "I cannot survive from burnout",
-    "url": "https://lobste.rs/s/0typpq",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-24T11:04:45.869-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wxjtxq",
-    "title": "Can a blog post be handwritten?",
-    "url": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-08-24T11:18:06.386-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49420783",
-    "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
-    "url": "https://inferquest.org",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-24T15:02:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49420861",
-    "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
-    "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-24T15:07:07+00:00",
     "summary": "",
     "key_points": []
   }
