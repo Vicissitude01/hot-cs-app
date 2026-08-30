@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:hutycp",
+    "title": "Aiki Alpha 3 Released - Performance Improved",
+    "url": "https://decuser.github.io/posts/aiki-alpha-3-release/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-30T15:40:04.217-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bxihn3",
+    "title": "Omarchy: Any User Process Can Escalate to Root",
+    "url": "https://0xcc.io/posts/omarchy-root-creds/",
+    "source": "lobsters",
+    "score": 25.0,
+    "published_at": "2026-08-30T13:11:09.248-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238126",
+    "title": "SceneMint Pro - 做了个 AI 出图网站，便宜大碗！",
+    "url": "https://www.v2ex.com/t/1238126",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-08-30T03:11:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49501791",
+    "title": "The world may have less time than it thinks on climate change",
+    "url": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-08-30T19:08:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49471614",
+    "title": "Storm Summoner, a MIDI controller for effects pedals",
+    "url": "https://kabaragoya.com/products/storm-summoner",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-08-27T21:38:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49502611",
+    "title": "Continuous Diffusion Language Models (CDLM's)",
+    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-30T20:46:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49435285",
+    "title": "Sort branches by last commit date",
+    "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-08-25T14:57:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49501611",
+    "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+    "url": "https://github.com/KodeMunkie/sm750hdmifb",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-08-30T18:49:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49478426",
+    "title": "NFC Energy-Harvesting PCB Business Card with an MCU",
+    "url": "https://wilsonharper.net/projects/businesscard/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-08-28T13:48:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49502214",
+    "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+    "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-08-30T20:00:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:syxqrd",
     "title": "A SAT Attack on Tarski's High School Algebra Problem",
     "url": "https://arxiv.org/abs/2608.08421",
@@ -4896,106 +4996,6 @@
     "source": "hackernews",
     "score": 24.0,
     "published_at": "2026-08-26T12:59:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:K-Dense-AI/scientific-agent-skills",
-    "title": "scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:browser-use/browser-use",
-    "title": "browser-use",
-    "url": "https://github.com/browser-use/browser-use",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ConardLi/garden-skills",
-    "title": "garden-skills",
-    "url": "https://github.com/ConardLi/garden-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:tt-a1i/archify",
-    "title": "archify",
-    "url": "https://github.com/tt-a1i/archify",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446653",
-    "title": "Debian polls its developers on AI: permit or ban?",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-26T10:31:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446210",
-    "title": "XCancel and Nitter are receiving C&D letters from XCorp",
-    "url": "https://news.ycombinator.com/item?id=49446210",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-26T09:34:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446442",
-    "title": "Beyond Recall and the Illusion of Competence",
-    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-26T10:07:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446597",
-    "title": "It's Not the End of Programming",
-    "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-26T10:25:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tv1xpz",
-    "title": "Beyond recall and the illusion of competence",
-    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-26T05:07:04.504-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wv6fzc",
-    "title": "Why Google stores billions of lines of code in a single repository",
-    "url": "https://dl.acm.org/doi/fullHtml/10.1145/2854146",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-26T05:17:28.772-05:00",
     "summary": "",
     "key_points": []
   }
