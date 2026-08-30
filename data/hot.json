@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:syxqrd",
+    "title": "A SAT Attack on Tarski's High School Algebra Problem",
+    "url": "https://arxiv.org/abs/2608.08421",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-30T12:08:55.196-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fkcpnp",
+    "title": "HSK Manga: Turning Manga into Beginner-Level Chinese",
+    "url": "https://hskmanga.com/blog/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-30T12:52:41.168-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pkqqr5",
+    "title": "Debugging Type-Based Alias Analysis optimizations in BPF",
+    "url": "https://loshz.com/debugging-bpf-tbaa/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-30T10:10:39.911-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qjbw27",
+    "title": "One flake to rule them all",
+    "url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-30T11:11:30.583-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:3ccvfi",
+    "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry",
+    "url": "https://alexalejandre.com/interviews/interview-with-oofoe/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-30T10:13:55.651-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wdke4a",
+    "title": "Small and reasonably fast QOI decoder written in zig",
+    "url": "https://github.com/sorvi-platform/dekoodaaja",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-30T11:49:22.523-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238121",
+    "title": "智友社回馈 V 站新老客户，抽送第 7 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号",
+    "url": "https://www.v2ex.com/t/1238121",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-08-30T02:13:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238217",
+    "title": "记一次 GLM 开发严重事故，花了 8 亿 token，买了个教训",
+    "url": "https://www.v2ex.com/t/1238217",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-08-30T13:04:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7679020474672660526",
+    "title": "我做了一个开源项目，让 AI 记住我们解决过的问题：Usora",
+    "url": "https://juejin.cn/post/7679020474672660526",
+    "source": "juejin",
+    "score": 0.23705534,
+    "published_at": "2026-08-29T03:47:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49500817",
+    "title": "'They shot all their weapons; they trashed their ships; they ran out of money'",
+    "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-08-30T17:32:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49474515",
+    "title": "Synchronisation and SMPTE timecode (time code)",
+    "url": "https://www.philrees.co.uk/articles/timecode.htm",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-08-28T04:58:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49497200",
+    "title": "Building my own network stack",
+    "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-08-30T09:52:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49489274",
+    "title": "When fruit is scarce, these monkeys hunt animals",
+    "url": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-08-29T12:14:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49498978",
+    "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+    "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+    "source": "hackernews",
+    "score": 114.0,
+    "published_at": "2026-08-30T14:29:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49468126",
+    "title": "Dad's Custom Atari Peripherals – By Jim Trageser",
+    "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-08-27T17:20:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49498787",
+    "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-08-30T14:06:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49499095",
+    "title": "Zig: Pointer Stability for ArrayLists",
+    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-08-30T14:41:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49500471",
+    "title": "Artie (YC S23) Is Hiring Technical AES",
+    "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-08-30T17:01:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49499394",
+    "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+    "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+    "source": "hackernews",
+    "score": 159.0,
+    "published_at": "2026-08-30T15:12:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49463397",
+    "title": "Electric rain can eat through metal",
+    "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-08-27T12:04:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49499854",
+    "title": "Omarchy: Any User Process Can Escalate to Root",
+    "url": "https://0xcc.io/posts/omarchy-root-creds/",
+    "source": "hackernews",
+    "score": 177.0,
+    "published_at": "2026-08-30T15:59:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49499891",
+    "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+    "url": "https://komoroske.com/slime-mold/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-08-30T16:03:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49499867",
+    "title": "Haiku R1/beta6 has been released",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "source": "hackernews",
+    "score": 92.0,
+    "published_at": "2026-08-30T16:01:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49491791",
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "source": "hackernews",
+    "score": 365.0,
+    "published_at": "2026-08-29T17:49:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:kgtvxb",
     "title": "The essence of architectural work - Part 6",
     "url": "https://www.ufried.com/blog/essence_of_architecture_6/",
@@ -4756,246 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-08-26T05:17:28.772-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:oqno0v",
-    "title": "Understanding Go's sync.Map from API to Hash Trie",
-    "url": "https://victoriametrics.com/blog/go-sync-map-hash-trie/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-26T05:38:35.075-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677868279283171368",
-    "title": "Web Components 为什么火不起来？",
-    "url": "https://juejin.cn/post/7677868279283171368",
-    "source": "juejin",
-    "score": 2.41818792,
-    "published_at": "2026-08-26T02:30:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446773",
-    "title": "The journalist facing an $800 daily fine to keep her sources secret",
-    "url": "https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-26T10:48:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446602",
-    "title": "The Feeling of Power (Asimov, 1958)",
-    "url": "https://archive.org/details/1958-02_IF",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-26T10:26:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446748",
-    "title": "U.S. gov't moves to suppress pushback on data centers",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-26T10:44:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446422",
-    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-08-26T10:04:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237225",
-    "title": "北京待业的 40 岁以上的程序员有找到工作的吗",
-    "url": "https://www.v2ex.com/t/1237225",
-    "source": "v2ex",
-    "score": 100.0,
-    "published_at": "2026-08-26T00:46:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237321",
-    "title": "兄弟们，男生也要对自己好点，那么你们是怎么对自己好的？",
-    "url": "https://www.v2ex.com/t/1237321",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-08-26T04:39:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446221",
-    "title": "Social media use on the rise among Australian under-16s after ban: data",
-    "url": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-26T09:35:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49445908",
-    "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
-    "url": "https://www.globalsolo.global/data/banking-access-index",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-26T09:01:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49445884",
-    "title": "Value Classes Still Need Compiler Sympathy",
-    "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-26T08:59:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49445727",
-    "title": "RAG Is Simpler Than You Think",
-    "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-08-26T08:39:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49445873",
-    "title": "Oldinsurancemaps.net is now a Charter Project",
-    "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-08-26T08:57:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3rtqua",
-    "title": "Problem with concurrent linter fixes",
-    "url": "https://jfmengels.net/concurrent-linter-fixes/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-26T04:11:16.809-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237224",
-    "title": "# 育儿好物 五年级男孩手表极限二选一 | Apple Watch SE 蜂窝 | 小天才 Z10",
-    "url": "https://www.v2ex.com/t/1237224",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-08-26T00:44:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237291",
-    "title": "发个无票上高铁的经历",
-    "url": "https://www.v2ex.com/t/1237291",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-08-26T03:15:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49445717",
-    "title": "The End of Programming",
-    "url": "https://pauldix.com/the-end-of-programming",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-08-26T08:37:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49445286",
-    "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-    "url": "https://rupertlinacre.com/buslens/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-26T07:36:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jykbra",
-    "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)",
-    "url": "https://www.jack.bio/blog/licenseplate",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-26T01:00:12.856-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:p8exgy",
-    "title": "Casey Muratori – The Root of The Root of All Evil – BSC 2026",
-    "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-26T02:55:34.184-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237275",
-    "title": "医疗病患相关，纯吐槽发泄情绪",
-    "url": "https://www.v2ex.com/t/1237275",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-08-26T02:35:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237244",
-    "title": "刚刚会计在公司群里通知：单休了",
-    "url": "https://www.v2ex.com/t/1237244",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-08-26T01:46:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677263893225193515",
-    "title": "177K star，扒开DeepSeek Harness的营销，我看到了什么",
-    "url": "https://juejin.cn/post/7677263893225193515",
-    "source": "juejin",
-    "score": 0.20582922,
-    "published_at": "2026-08-24T08:42:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677435711277629481",
-    "title": "Flutter iOS 的深度优化 PR，搞笑的是贡献者被 Gemini 评审折磨",
-    "url": "https://juejin.cn/post/7677435711277629481",
-    "source": "juejin",
-    "score": 0.51252373,
-    "published_at": "2026-08-25T00:59:39+00:00",
     "summary": "",
     "key_points": []
   }
