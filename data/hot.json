@@ -1,5 +1,105 @@
 [
   {
+    "id": "v2ex:1238096",
+    "title": "AI 时代，软件已经不值钱了",
+    "url": "https://www.v2ex.com/t/1238096",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-08-29T15:53:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678535429227200563",
+    "title": "手把手书写你的第一个 AI Agent：当 Skill 有了记忆、角色和主动性",
+    "url": "https://juejin.cn/post/7678535429227200563",
+    "source": "juejin",
+    "score": 0.13090898,
+    "published_at": "2026-08-27T08:32:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678231767486349364",
+    "title": "浏览器AI肯定离不开onnxruntime, 微软开源",
+    "url": "https://juejin.cn/post/7678231767486349364",
+    "source": "juejin",
+    "score": 0.11990398,
+    "published_at": "2026-08-27T03:06:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49494151",
+    "title": "I co-founded Burning Man. The festival has lost its soul",
+    "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+    "source": "hackernews",
+    "score": 90.0,
+    "published_at": "2026-08-29T23:12:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49478287",
+    "title": "The Finn – an agent that lives in my router and complains about it",
+    "url": "https://github.com/YuriKovalov22/the-finn",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-08-28T13:38:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49450248",
+    "title": "Is it safe to call print in a Python signal handler?",
+    "url": "https://iafisher.com/2026/08/sigprint",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-08-26T14:53:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49425252",
+    "title": "RISC-V is now officially supported by CPython",
+    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-24T20:12:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49494182",
+    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-08-29T23:17:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49494231",
+    "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+    "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-08-29T23:26:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49494520",
+    "title": "Bug Blindness",
+    "url": "https://danluu.com/bug-blind/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-08-30T00:21:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:udkuqc",
     "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
     "url": "https://dl.acm.org/doi/epdf/10.1145/3830438.3830958",
@@ -4896,106 +4996,6 @@
     "source": "lobsters",
     "score": 0.0,
     "published_at": "2026-08-25T11:45:51.290-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49432786",
-    "title": "Solving the 1+N Query Problem",
-    "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-25T12:26:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49423878",
-    "title": "Visualizing Binary Files",
-    "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-08-24T18:21:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49435781",
-    "title": "Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
-    "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-25T15:26:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vr7u5k",
-    "title": "Feature comparison of ack, ag, git-grep, grep and ripgrep",
-    "url": "https://beyondgrep.com/feature-comparison/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-25T09:49:30.800-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4netv1",
-    "title": "C2PA Cameras Do Not Survive Contact With Reality",
-    "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-25T10:51:24.594-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gizvfn",
-    "title": "I stabilized never type",
-    "url": "https://blog.ihatereality.space/0C-never-type/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-08-25T10:11:30.269-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677502358059073588",
-    "title": "外包前端和大厂前端，写的代码到底有什么本质区别？",
-    "url": "https://juejin.cn/post/7677502358059073588",
-    "source": "juejin",
-    "score": 1.18347193,
-    "published_at": "2026-08-25T01:52:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49435147",
-    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-08-25T14:48:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49435728",
-    "title": "How much of HN is AI?",
-    "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-    "source": "hackernews",
-    "score": 106.0,
-    "published_at": "2026-08-25T15:23:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wbtixi",
-    "title": "US data centers tripled water use to 17 billion gallons",
-    "url": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-25T09:18:01.902-05:00",
     "summary": "",
     "key_points": []
   }
