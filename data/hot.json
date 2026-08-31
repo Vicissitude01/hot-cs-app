@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:51zi5s",
+    "title": "What is the real maximum length of a DNS name? (2012)",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20120412-00/?p=7873",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-31T12:16:18.006-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gt1cow",
+    "title": "V0.1.0.0 of ghcup-gtk released",
+    "url": "https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-31T15:49:27.048-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:x1b4va",
+    "title": "Are We Legacy Computing Yet?",
+    "url": "https://arewelegacycomputingyet.com/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-08-31T14:11:11.239-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7679774779231174665",
+    "title": "别再拿大炮打蚊子了，我给 Codex 加了一个自动驾驶",
+    "url": "https://juejin.cn/post/7679774779231174665",
+    "source": "juejin",
+    "score": 0.38187331,
+    "published_at": "2026-08-31T00:47:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49467203",
+    "title": "Euphemisation of Taboo Areas [pdf]",
+    "url": "https://ajmp.uwr.edu.pl/wp-content/uploads/sites/39/2023/12/10_Kleparski.pdf",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-08-27T16:14:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49512856",
+    "title": "The safest job from AI may be writing",
+    "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-08-31T18:12:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49467700",
+    "title": "Reverse engineering my ADHD test",
+    "url": "https://nullpt.rs/reverse-engineering-adhd-test",
+    "source": "hackernews",
+    "score": 118.0,
+    "published_at": "2026-08-27T16:49:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49514895",
+    "title": "How we configured OpenTelemetry logs in Rails",
+    "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-31T21:12:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49424322",
+    "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
+    "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-24T18:58:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49494181",
+    "title": "Lion-man – the oldest confirmed statue ever discovered",
+    "url": "https://en.wikipedia.org/wiki/Lion-man",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-29T23:17:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49514781",
+    "title": "Autonomous (YC F25) is hiring engineers",
+    "url": "https://news.ycombinator.com/item?id=49514781",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-08-31T21:00:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49515662",
+    "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-31T22:32:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49503521",
+    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+    "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+    "source": "hackernews",
+    "score": 140.0,
+    "published_at": "2026-08-30T22:37:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49476239",
+    "title": "'Mad honey' that can stop your heart is being sold online",
+    "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
+    "source": "hackernews",
+    "score": 91.0,
+    "published_at": "2026-08-28T09:17:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49514878",
+    "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+    "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+    "source": "hackernews",
+    "score": 304.0,
+    "published_at": "2026-08-31T21:10:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:uc8u3l",
     "title": "The End of Software Engineering",
     "url": "https://arxiv.org/html/2606.05608v1",
@@ -4846,156 +4996,6 @@
     "source": "hackernews",
     "score": 35.0,
     "published_at": "2026-08-27T18:03:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49470380",
-    "title": "Silicon Valley is in denial in face of widespread backlash",
-    "url": "https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-08-27T19:59:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49467837",
-    "title": "Bild AI (YC W25) is hiring product and AI engineers",
-    "url": "https://www.bild.ai/jobs",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-08-27T17:00:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49464543",
-    "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
-    "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
-    "source": "hackernews",
-    "score": 131.0,
-    "published_at": "2026-08-27T13:22:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49468834",
-    "title": "Previewing the Model Hardware Standard",
-    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-08-27T18:04:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49447057",
-    "title": "The turbulent AI era is here",
-    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-    "source": "hackernews",
-    "score": 131.0,
-    "published_at": "2026-08-26T11:23:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49457722",
-    "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
-    "url": "https://morphing.cloud/afterglow/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-08-27T00:18:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49468593",
-    "title": "M5Stack Launches PaperMono",
-    "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-08-27T17:50:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49466006",
-    "title": "Decompiling a Nintendo 64 game in 84 days",
-    "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
-    "source": "hackernews",
-    "score": 132.0,
-    "published_at": "2026-08-27T15:01:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49462763",
-    "title": "Microduck",
-    "url": "https://pollen-robotics.com/microduck/",
-    "source": "hackernews",
-    "score": 424.0,
-    "published_at": "2026-08-27T10:57:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49467922",
-    "title": "Gemini Omni 1.1 Flash",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-    "source": "hackernews",
-    "score": 140.0,
-    "published_at": "2026-08-27T17:06:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49468642",
-    "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-    "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
-    "source": "hackernews",
-    "score": 98.0,
-    "published_at": "2026-08-27T17:53:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49469249",
-    "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-    "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-08-27T18:34:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49465169",
-    "title": "507 Mechanical Movements",
-    "url": "https://507movements.com/",
-    "source": "hackernews",
-    "score": 390.0,
-    "published_at": "2026-08-27T14:08:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49466917",
-    "title": "Small Models Have Arrived",
-    "url": "https://calv.info/small-models-have-arrived",
-    "source": "hackernews",
-    "score": 292.0,
-    "published_at": "2026-08-27T15:56:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49468083",
-    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-    "source": "hackernews",
-    "score": 309.0,
-    "published_at": "2026-08-27T17:17:57+00:00",
     "summary": "",
     "key_points": []
   }
