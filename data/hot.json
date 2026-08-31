@@ -1,5 +1,315 @@
 [
   {
+    "id": "lobsters:kmb1md",
+    "title": "Introducing wrapture",
+    "url": "https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-08-30T22:27:14.573-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gtarrm",
+    "title": "All the Little Things (2014)",
+    "url": "https://www.youtube.com/watch?v=8bZh5LMaSmE",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-30T20:22:52.270-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lssato",
+    "title": "Rootless Docker and Its Hidden Security Trade-Offs",
+    "url": "https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-08-30T22:12:07.084-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uueocw",
+    "title": "Repeating Ourselves Less with M4",
+    "url": "https://nemin.hu/httpd-macros/index.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-08-30T23:10:47.586-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238241",
+    "title": "一直以为教培行业真的凉了，没想到还有很多人在偷偷做，赚的也不少",
+    "url": "https://www.v2ex.com/t/1238241",
+    "source": "v2ex",
+    "score": 100.0,
+    "published_at": "2026-08-30T16:20:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238277",
+    "title": "骨子里是悲观的，有没有一些悲情的书/音乐/电影推荐？",
+    "url": "https://www.v2ex.com/t/1238277",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-08-31T01:31:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238282",
+    "title": "github 开启了 2fa , 但是手机系统升级了，秘钥丢了。。。怎么办",
+    "url": "https://www.v2ex.com/t/1238282",
+    "source": "v2ex",
+    "score": 134.0,
+    "published_at": "2026-08-31T01:42:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238262",
+    "title": "“万 1 免 5”股票 etf 低佣大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.31 日~9.7 日]",
+    "url": "https://www.v2ex.com/t/1238262",
+    "source": "v2ex",
+    "score": 154.0,
+    "published_at": "2026-08-31T00:34:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238336",
+    "title": "大家对孩子跟着媳妇姓怎么看",
+    "url": "https://www.v2ex.com/t/1238336",
+    "source": "v2ex",
+    "score": 282.0,
+    "published_at": "2026-08-31T03:10:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7679542577553506358",
+    "title": "栗子前端技术周刊第 144 期 - Rspack 2.2、pnpm 12、Solid 2.0 RC...",
+    "url": "https://juejin.cn/post/7679542577553506358",
+    "source": "juejin",
+    "score": 2.54345685,
+    "published_at": "2026-08-31T00:47:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678889149037248522",
+    "title": "2026 数据库 CI/CD 工具大盘点：4 款热门工具怎么选？",
+    "url": "https://juejin.cn/post/7678889149037248522",
+    "source": "juejin",
+    "score": 0.07118196,
+    "published_at": "2026-08-28T08:04:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678988101557420038",
+    "title": "Electron 集成 Drizzle + SQLite 踩坑笔记",
+    "url": "https://juejin.cn/post/7678988101557420038",
+    "source": "juejin",
+    "score": 0.09449661,
+    "published_at": "2026-08-29T04:58:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678975158596894729",
+    "title": "别再背 Chain、Agent、Memory 了：用一条“智能流水线”学会 LangChain",
+    "url": "https://juejin.cn/post/7678975158596894729",
+    "source": "juejin",
+    "score": 0.14784606,
+    "published_at": "2026-08-29T03:09:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7679222800792338483",
+    "title": "OpenAI 断供 Cursor：这不是商业决定，是战争行为",
+    "url": "https://juejin.cn/post/7679222800792338483",
+    "source": "juejin",
+    "score": 0.15851679,
+    "published_at": "2026-08-29T11:25:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678906688713867299",
+    "title": "为什么只靠 Prompt 让 LLM 输出 JSON 不可靠",
+    "url": "https://juejin.cn/post/7678906688713867299",
+    "source": "juejin",
+    "score": 0.07899857,
+    "published_at": "2026-08-28T08:43:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7678974488122032180",
+    "title": "用 Vite + Electron + React + Python 重造 3D 服装打版软件",
+    "url": "https://juejin.cn/post/7678974488122032180",
+    "source": "juejin",
+    "score": 0.11503412,
+    "published_at": "2026-08-29T01:13:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7679542577553571894",
+    "title": "AI 时代，一个优化 Flutter 的重复代码工具 Deslop",
+    "url": "https://juejin.cn/post/7679542577553571894",
+    "source": "juejin",
+    "score": 3.75649376,
+    "published_at": "2026-08-31T01:00:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7679623224678613034",
+    "title": "豆包工作Agent正式发布，直接给到夯。",
+    "url": "https://juejin.cn/post/7679623224678613034",
+    "source": "juejin",
+    "score": 3.1480839,
+    "published_at": "2026-08-30T23:59:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7679247792172433423",
+    "title": "看懂大模型架构术语，帮助你理解目前常见的大模型开源架构",
+    "url": "https://juejin.cn/post/7679247792172433423",
+    "source": "juejin",
+    "score": 0.85747642,
+    "published_at": "2026-08-30T11:48:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49505006",
+    "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+    "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-31T02:39:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49483622",
+    "title": "Racter (1984)",
+    "url": "https://www.ubu.com/historical/racter/index.html",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-28T20:11:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49446705",
+    "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
+    "url": "https://relm4.org/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-26T10:38:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49481141",
+    "title": "My hobby of building miniatures and taking pretty pictures",
+    "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-28T16:43:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49505288",
+    "title": "UC Berkeley indefinitely suspends international student work authorizations",
+    "url": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-08-31T03:34:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49504905",
+    "title": "Internet centralization and the original sin of NAT",
+    "url": "https://dreamstation.systems/personal/ntppost.html",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-08-31T02:23:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49503956",
+    "title": "How to build a diffusion language model",
+    "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-08-30T23:41:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49504625",
+    "title": "Understanding ChatGPT Work",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "source": "hackernews",
+    "score": 100.0,
+    "published_at": "2026-08-31T01:28:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49503934",
+    "title": "Matrox: Graphics for Professionals",
+    "url": "https://www.abortretry.fail/p/matrox",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-08-30T23:39:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49505351",
+    "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+    "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-31T03:45:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49480091",
+    "title": "It takes 5 cloud services to hear my doorbell",
+    "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-08-28T15:34:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49505219",
+    "title": "P99 0 ms* autocomplete for 240M domain names",
+    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-31T03:20:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9ac8ta",
     "title": "Parallel O(sqrt n) Overhead LSD Radix Sort",
     "url": "https://arxiv.org/abs/2607.05302",
@@ -4686,316 +4996,6 @@
     "source": "hackernews",
     "score": 27.0,
     "published_at": "2026-08-26T13:48:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49451675",
-    "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-26T16:19:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49451313",
-    "title": "The turbulent AI era is here",
-    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-08-26T15:55:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49452822",
-    "title": "CDs vs. NIMBY",
-    "url": "https://www.betonit.ai/p/cds-vs-nimby",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-26T17:31:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49451495",
-    "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-    "url": "https://www.risklytics.ai/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-08-26T16:06:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49450188",
-    "title": "VMs won't contain cyber-capable agents",
-    "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-    "source": "hackernews",
-    "score": 78.0,
-    "published_at": "2026-08-26T14:49:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49452990",
-    "title": "Tailcat: Secure Tunnels in Seconds (Tailscale)",
-    "url": "https://github.com/tailscale/tailcat",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-08-26T17:42:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49451448",
-    "title": "Tim Curry has died",
-    "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-    "source": "hackernews",
-    "score": 267.0,
-    "published_at": "2026-08-26T16:03:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49452980",
-    "title": "An ongoing 3D-printer AGPL violation",
-    "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-08-26T17:41:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uvclgk",
-    "title": "Catching NaN at the MLIR Pass Boundary",
-    "url": "https://thecloudlet.github.io/technical/compiler/catching-nan-at-the-mlir-pass-boundary/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-26T09:42:53.452-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:eove8s",
-    "title": "Merchants of Insecurity",
-    "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-08-26T09:30:41.443-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677785361450696755",
-    "title": "opencode的“恶果”来了，吃掉100G空间！",
-    "url": "https://juejin.cn/post/7677785361450696755",
-    "source": "juejin",
-    "score": 0.58900918,
-    "published_at": "2026-08-25T14:25:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49448665",
-    "title": "11,000-year-old sculpture of man riding a leopard found in Turkey",
-    "url": "https://www.thehistoryblog.com/archives/76809",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-26T13:20:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446984",
-    "title": "Radiation link in flight attendant's breast cancer, French court finds",
-    "url": "https://www.bbc.com/news/articles/cn0j3z6147jo",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-08-26T11:15:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49448909",
-    "title": "A Man Who Saw Humanity from Two Billion Years Away",
-    "url": "https://thereader.mitpress.mit.edu/the-man-who-saw-humanity-from-two-billion-years-away/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-08-26T13:34:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49449755",
-    "title": "Take a Tour of SLAC",
-    "url": "https://www6.slac.stanford.edu/public-tours",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-26T14:21:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49450500",
-    "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
-    "url": "https://github.com/SWUFE-DB-Group/TexLite",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-26T15:07:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49450394",
-    "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
-    "url": "https://github.com/AurionMail/docs",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-26T15:01:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49449082",
-    "title": "AI Is a Harsh Mistress",
-    "url": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-08-26T13:45:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49449440",
-    "title": "How HN: Qisutu – an open-source, self-hosted ticketing and service desk",
-    "url": "https://github.com/qisutu/qisutu",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-26T14:05:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49449576",
-    "title": "Twitter Viewer – View Twitter Without Account",
-    "url": "https://twitterwebviewer.com/",
-    "source": "hackernews",
-    "score": 95.0,
-    "published_at": "2026-08-26T14:11:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49449458",
-    "title": "A Citation to Asimov",
-    "url": "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-26T14:06:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49450898",
-    "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
-    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-26T15:30:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49449648",
-    "title": "Show HN: How much of Hacker News is AI?",
-    "url": "https://hnstats.com",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-08-26T14:16:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49449888",
-    "title": "You could have invented PageRank",
-    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-08-26T14:29:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49448872",
-    "title": "France reaches 94.9% fiber coverage in 2026",
-    "url": "https://cartefibre.arcep.fr",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-08-26T13:32:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49450353",
-    "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
-    "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-08-26T14:58:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49450417",
-    "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-    "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-26T15:02:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49449749",
-    "title": "Taylor Farms: How One Company's Reach Became a National Risk",
-    "url": "https://farmaction.us/taylorfarmsreport/",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-08-26T14:21:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49450448",
-    "title": "Nebula Sans",
-    "url": "https://www.nebulasans.com",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-08-26T15:03:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49450722",
-    "title": "Disruption with Some GitHub Services",
-    "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-08-26T15:19:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:idtlvo",
-    "title": "Memory ordering in CPUs",
-    "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-26T08:32:39.029-05:00",
     "summary": "",
     "key_points": []
   }
