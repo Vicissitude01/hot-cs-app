@@ -1,5 +1,365 @@
 [
   {
+    "id": "lobsters:vbu5ay",
+    "title": "Coherence and orphan instance rules",
+    "url": "https://osa1.net/posts/2026-08-29-coherence-and-orphans.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-01T04:44:22.459-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:edj52m",
+    "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+    "url": "https://css-tricks.com/css-random-function-polyfill/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-01T04:16:39.475-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zx92fc",
+    "title": "This Month in KDE Linux: August 2026",
+    "url": "https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-01T04:30:06.302-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1malyo",
+    "title": "Fine, I’ll build my own text editor",
+    "url": "https://dbushell.com/2026/09/01/text-editor/",
+    "source": "lobsters",
+    "score": 20.0,
+    "published_at": "2026-09-01T06:18:22.975-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238642",
+    "title": "一直不理解 skills， 这不就是提示词吗？",
+    "url": "https://www.v2ex.com/t/1238642",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-09-01T05:08:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238661",
+    "title": "买车需求。",
+    "url": "https://www.v2ex.com/t/1238661",
+    "source": "v2ex",
+    "score": 146.0,
+    "published_at": "2026-09-01T06:15:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238599",
+    "title": "下周四到周日，三天去九寨沟+乐山，安排合理吗？",
+    "url": "https://www.v2ex.com/t/1238599",
+    "source": "v2ex",
+    "score": 158.0,
+    "published_at": "2026-09-01T02:58:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680375814231605299",
+    "title": "为什么越来越多人用 OpenSearch？",
+    "url": "https://juejin.cn/post/7680375814231605299",
+    "source": "juejin",
+    "score": 2.17822238,
+    "published_at": "2026-09-01T06:28:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680065840814260224",
+    "title": "从零搭建你的 AI 编程工作流",
+    "url": "https://juejin.cn/post/7680065840814260224",
+    "source": "juejin",
+    "score": 4.73759035,
+    "published_at": "2026-08-31T05:51:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680105138455855158",
+    "title": "🚀 2026 年 8 月 GitHub 十大热门项目排行榜 🔥",
+    "url": "https://juejin.cn/post/7680105138455855158",
+    "source": "juejin",
+    "score": 1.48977733,
+    "published_at": "2026-09-01T03:25:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680143535669198858",
+    "title": "我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题",
+    "url": "https://juejin.cn/post/7680143535669198858",
+    "source": "juejin",
+    "score": 1.81916081,
+    "published_at": "2026-09-01T03:30:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:averygan/reclip",
+    "title": "reclip",
+    "url": "https://github.com/averygan/reclip",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:VoltAgent/awesome-design-md",
+    "title": "awesome-design-md",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:browser-use/video-use",
+    "title": "video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:3b1b/manim",
+    "title": "manim",
+    "url": "https://github.com/3b1b/manim",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:debpalash/VoiceStudio",
+    "title": "VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:iv-org/invidious",
+    "title": "invidious",
+    "url": "https://github.com/iv-org/invidious",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Imbad0202/academic-research-skills",
+    "title": "academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Gitlawb/openclaude",
+    "title": "openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49484004",
+    "title": "Borges Labyrinth in Venice reopens to the public",
+    "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
+    "source": "hackernews",
+    "score": 90.0,
+    "published_at": "2026-08-28T20:41:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49460419",
+    "title": "Flat vs. segmented memory – it's recursive",
+    "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-08-27T06:02:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49441609",
+    "title": "Polishing Cloth Updated",
+    "url": "https://512pixels.net/2026/08/polishing-cloth-updated/",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-08-25T22:34:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49505584",
+    "title": "Roget's Thesaurus",
+    "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-08-31T04:29:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49519902",
+    "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+    "url": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-09-01T09:46:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49520896",
+    "title": "Tim Cook Sold Out Steve Jobs",
+    "url": "https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/",
+    "source": "hackernews",
+    "score": 104.0,
+    "published_at": "2026-09-01T12:12:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49492094",
+    "title": "Fractal Jittered Voronoi Partitions",
+    "url": "https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-08-29T18:24:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49518877",
+    "title": "CollectWise (YC F24) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-01T07:01:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49517297",
+    "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+    "url": "https://github.com/fregacmols/RotaryCell",
+    "source": "hackernews",
+    "score": 101.0,
+    "published_at": "2026-09-01T02:29:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49517624",
+    "title": "Restroom Archive",
+    "url": "https://restroomarchive.com",
+    "source": "hackernews",
+    "score": 187.0,
+    "published_at": "2026-09-01T03:23:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49516059",
+    "title": "Tmp.0ut Volume 5",
+    "url": "https://tmpout.sh/5/",
+    "source": "hackernews",
+    "score": 120.0,
+    "published_at": "2026-08-31T23:26:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49517584",
+    "title": "GPU World",
+    "url": "https://www.gpuworld.org/",
+    "source": "hackernews",
+    "score": 300.0,
+    "published_at": "2026-09-01T03:16:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49521315",
+    "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+    "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-01T12:53:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49517448",
+    "title": "Fastpotify",
+    "url": "https://fastpotify.rocks/",
+    "source": "hackernews",
+    "score": 554.0,
+    "published_at": "2026-09-01T02:52:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49493468",
+    "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+    "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+    "source": "hackernews",
+    "score": 136.0,
+    "published_at": "2026-08-29T21:25:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49519939",
+    "title": "44% on ARC-AGI-1 in 67 cents",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-09-01T09:52:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49520022",
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+    "source": "hackernews",
+    "score": 329.0,
+    "published_at": "2026-09-01T10:11:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:e1pwba",
     "title": "The Robot Framewor language",
     "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
@@ -4636,366 +4996,6 @@
     "source": "hackernews",
     "score": 38.0,
     "published_at": "2026-08-28T14:44:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49477212",
-    "title": "Migrating to HTTPX2",
-    "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-    "source": "hackernews",
-    "score": 159.0,
-    "published_at": "2026-08-28T11:51:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49476143",
-    "title": "Hilariously Fast Volume Computation with the Divergence Theorem (2018)",
-    "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-    "source": "hackernews",
-    "score": 208.0,
-    "published_at": "2026-08-28T09:00:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49479826",
-    "title": "Don't use musl if you care about performance",
-    "url": "https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-08-28T15:16:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49478401",
-    "title": "State of the Map 2026",
-    "url": "https://2026.stateofthemap.org/",
-    "source": "hackernews",
-    "score": 90.0,
-    "published_at": "2026-08-28T13:46:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49441316",
-    "title": "Global demand has spawned a worldwide boom in illegal sand mining (2015)",
-    "url": "https://www.wired.com/2015/03/illegal-sand-mining/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-25T22:03:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49479072",
-    "title": "Verschlimmbesserung: The Word Your Software Updates Need",
-    "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-08-28T14:30:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49480220",
-    "title": "How Dactyl Works",
-    "url": "https://dactyl.dev/blog/how-dactyl-works/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-08-28T15:42:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49472216",
-    "title": "The Twelve-Factor App",
-    "url": "https://12factor.net/",
-    "source": "hackernews",
-    "score": 120.0,
-    "published_at": "2026-08-27T22:41:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49479898",
-    "title": "Barrier lake continues to pose flood risk, China warns",
-    "url": "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-08-28T15:21:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49481423",
-    "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
-    "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-08-28T17:00:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49481455",
-    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-    "url": "https://arxiv.org/abs/2608.23691",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-28T17:01:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49479878",
-    "title": "GLM-5.3 is now open-weight",
-    "url": "https://twitter.com/Zai_org/status/2093354097122455713",
-    "source": "hackernews",
-    "score": 304.0,
-    "published_at": "2026-08-28T15:20:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49477564",
-    "title": "Inception-style curved map for turn-by-turn directions",
-    "url": "https://www.orbify.eu/demo/",
-    "source": "hackernews",
-    "score": 277.0,
-    "published_at": "2026-08-28T12:29:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49477854",
-    "title": "U.S. sanctions against the A/I Collective",
-    "url": "https://www.inventati.org/",
-    "source": "hackernews",
-    "score": 280.0,
-    "published_at": "2026-08-28T12:58:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49478178",
-    "title": "Htmx 4.0.0",
-    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "source": "hackernews",
-    "score": 219.0,
-    "published_at": "2026-08-28T13:28:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49480466",
-    "title": "Just the rumour of a bug is enough to find an exploit these days",
-    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-08-28T15:58:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49479837",
-    "title": "GUIs should be fully keyboard-driven",
-    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-    "source": "hackernews",
-    "score": 164.0,
-    "published_at": "2026-08-28T15:17:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49478340",
-    "title": "Get your Windows license refund",
-    "url": "https://en.refund4freedom.org/",
-    "source": "hackernews",
-    "score": 466.0,
-    "published_at": "2026-08-28T13:42:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mb9xc7",
-    "title": "Understanding useMemo and useCallback",
-    "url": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-27T13:37:56.448-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:idizd1",
-    "title": "Talk is Cheap. Code is Cheap. Show me the Source",
-    "url": "https://idlip.in/posts/show-me-source/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-27T18:54:22.681-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kvlafj",
-    "title": "Announcing Sovereign Tech Agency Investment in Flatpak",
-    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-27T22:40:20.931-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tz0865",
-    "title": "Ardour 9.8 released",
-    "url": "https://ardour.org/whatsnew.html",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-08-27T20:35:24.347-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237757",
-    "title": "V 站每天都有龟男贴，那问题来了孙割算龟男吗？",
-    "url": "https://www.v2ex.com/t/1237757",
-    "source": "v2ex",
-    "score": 114.0,
-    "published_at": "2026-08-28T00:15:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237773",
-    "title": "V 站程序员平均职业寿命大概有多少年？",
-    "url": "https://www.v2ex.com/t/1237773",
-    "source": "v2ex",
-    "score": 124.0,
-    "published_at": "2026-08-28T01:30:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237608",
-    "title": "GPT 5.6-Sol 烂完了",
-    "url": "https://www.v2ex.com/t/1237608",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-08-27T06:22:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237618",
-    "title": "准备给家里小猫换猫粮，大家有没有推荐",
-    "url": "https://www.v2ex.com/t/1237618",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-08-27T06:44:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237607",
-    "title": "3.5 年前端找工作半个月，只有一个 offer，降薪 22%在考虑要不要去",
-    "url": "https://www.v2ex.com/t/1237607",
-    "source": "v2ex",
-    "score": 152.0,
-    "published_at": "2026-08-27T06:18:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678203712679739398",
-    "title": "Flutter 多窗口支持类型和 API 介绍",
-    "url": "https://juejin.cn/post/7678203712679739398",
-    "source": "juejin",
-    "score": 0.49807834,
-    "published_at": "2026-08-27T00:56:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677771411977322531",
-    "title": "关于HBuilderX+ 微信小程序开发工具启动的问题",
-    "url": "https://juejin.cn/post/7677771411977322531",
-    "source": "juejin",
-    "score": 0.15555672,
-    "published_at": "2026-08-25T09:26:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678237761537916979",
-    "title": "表格、文档、甘特、大屏、表单一站打通：pxcharts超级表格4.0正式上线！",
-    "url": "https://juejin.cn/post/7678237761537916979",
-    "source": "juejin",
-    "score": 0.30132608,
-    "published_at": "2026-08-26T10:19:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678531174247874586",
-    "title": "我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱",
-    "url": "https://juejin.cn/post/7678531174247874586",
-    "source": "juejin",
-    "score": 0.84437594,
-    "published_at": "2026-08-27T11:15:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678324732161851442",
-    "title": "GLM5.3Flash 我“忍”你很久，今天“曝光”你！",
-    "url": "https://juejin.cn/post/7678324732161851442",
-    "source": "juejin",
-    "score": 0.63096616,
-    "published_at": "2026-08-27T03:12:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677572864901054499",
-    "title": "ValidX时间注解完全指南：10种时间验证注解详解",
-    "url": "https://juejin.cn/post/7677572864901054499",
-    "source": "juejin",
-    "score": 0.37241905,
-    "published_at": "2026-08-25T07:03:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49473536",
-    "title": "USDA recalls 30k pounds of Argentine beef sold in Texas and Florida",
-    "url": "https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-08-28T02:05:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49472161",
-    "title": "Select * from Internet.blogposts",
-    "url": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-08-27T22:34:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49473483",
-    "title": "Stripe said to abandon $50B pursuit of PayPal",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-08-28T01:57:26+00:00",
     "summary": "",
     "key_points": []
   }
