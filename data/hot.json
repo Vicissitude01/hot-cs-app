@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:e1pwba",
+    "title": "The Robot Framewor language",
+    "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-01T02:22:01.742-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hi2svr",
+    "title": "Andy Hertzfeld oral history",
+    "url": "https://www.computerhistory.org/collections/catalog/300000188/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-01T00:54:43.542-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:haotvw",
+    "title": "Breaking down Amazon’s mega dropdown (2013)",
+    "url": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-08-31T20:30:16.313-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238451",
+    "title": "现在 32 寸 6K 显示器已经下探到 3000+的价格了，跟内存、硬盘涨价形成鲜明对比",
+    "url": "https://www.v2ex.com/t/1238451",
+    "source": "v2ex",
+    "score": 106.0,
+    "published_at": "2026-08-31T09:02:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238425",
+    "title": "大家觉得后面应该怎么办",
+    "url": "https://www.v2ex.com/t/1238425",
+    "source": "v2ex",
+    "score": 110.0,
+    "published_at": "2026-08-31T08:13:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238597",
+    "title": "10-15w 的电车推荐",
+    "url": "https://www.v2ex.com/t/1238597",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-09-01T02:53:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238540",
+    "title": "“免五”开户陷阱 or 馅饼?｜股票开户找老倔驴巨靠谱！ #回帖抽 mx anywhere 3s [41 期]",
+    "url": "https://www.v2ex.com/t/1238540",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-09-01T00:07:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238558",
+    "title": "停药一个月，-9.2 斤，越来越慢了",
+    "url": "https://www.v2ex.com/t/1238558",
+    "source": "v2ex",
+    "score": 156.0,
+    "published_at": "2026-09-01T01:22:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238574",
+    "title": "为什么说罗永浩想要造一台老年人友好电视,注定不成功",
+    "url": "https://www.v2ex.com/t/1238574",
+    "source": "v2ex",
+    "score": 158.0,
+    "published_at": "2026-09-01T01:56:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238554",
+    "title": "我一个朋友被她女友绿了，请分析下要不要继续",
+    "url": "https://www.v2ex.com/t/1238554",
+    "source": "v2ex",
+    "score": 214.0,
+    "published_at": "2026-09-01T01:09:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238590",
+    "title": "20-25 万电车推荐，油车也可以",
+    "url": "https://www.v2ex.com/t/1238590",
+    "source": "v2ex",
+    "score": 278.0,
+    "published_at": "2026-09-01T02:44:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238570",
+    "title": "调查一下，你们还在用 iPhone 第几代？",
+    "url": "https://www.v2ex.com/t/1238570",
+    "source": "v2ex",
+    "score": 322.0,
+    "published_at": "2026-09-01T01:48:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7679986697707536430",
+    "title": "AI 时代你不能不知道的 git worktree",
+    "url": "https://juejin.cn/post/7679986697707536430",
+    "source": "juejin",
+    "score": 0.39617936,
+    "published_at": "2026-08-31T07:11:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680006676436025386",
+    "title": "Claude Code 插件别瞎装，这 9 款才是 2026 年的真生产力工具",
+    "url": "https://juejin.cn/post/7680006676436025386",
+    "source": "juejin",
+    "score": 0.42288043,
+    "published_at": "2026-08-31T08:59:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7679753075939524623",
+    "title": "一文弄懂 Agent Harness 与 Agent Runtime 的区别",
+    "url": "https://juejin.cn/post/7679753075939524623",
+    "source": "juejin",
+    "score": 0.42110597,
+    "published_at": "2026-08-31T06:32:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680023541135507497",
+    "title": "微信内部的生产级模型，居然开源了",
+    "url": "https://juejin.cn/post/7680023541135507497",
+    "source": "juejin",
+    "score": 0.70890609,
+    "published_at": "2026-08-31T17:39:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680074643861291034",
+    "title": "OpenJDK 全面禁止 AI 生成代码！",
+    "url": "https://juejin.cn/post/7680074643861291034",
+    "source": "juejin",
+    "score": 4.40799752,
+    "published_at": "2026-09-01T01:20:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680079424891617332",
+    "title": "ValidX vs Apache Commons Validator：功能与性能对比",
+    "url": "https://juejin.cn/post/7680079424891617332",
+    "source": "juejin",
+    "score": 13.73398187,
+    "published_at": "2026-09-01T01:51:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:b75vrk",
     "title": "CSS is Still Awesome",
     "url": "https://jasonsantamaria.com/blog/css-is-still-awesome",
@@ -4816,186 +4996,6 @@
     "source": "hackernews",
     "score": 77.0,
     "published_at": "2026-08-28T01:57:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49473767",
-    "title": "Show HN: IndexFlow – Open-source indexing infrastructure built with Rust",
-    "url": "https://github.com/IndexFlowing/IndexFlow-core",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-28T02:46:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49473868",
-    "title": "Bootstrappable Builds: How and Why",
-    "url": "https://lwn.net/Articles/1088279/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-28T03:02:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49471714",
-    "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-    "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-08-27T21:46:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49471407",
-    "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-    "url": "https://github.com/experientiallabs/experiential",
-    "source": "hackernews",
-    "score": 148.0,
-    "published_at": "2026-08-27T21:18:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49474060",
-    "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
-    "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-08-28T03:35:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49473522",
-    "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-    "source": "hackernews",
-    "score": 189.0,
-    "published_at": "2026-08-28T02:03:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49472820",
-    "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-    "url": "https://www.terminal-bench-science.ai/announcement",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-08-28T00:06:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49474143",
-    "title": "Please stop flooding our projects with AI slop to furnish your CV",
-    "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-08-28T03:49:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49471965",
-    "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-    "url": "https://github.com/elyosh/OpenTIE/",
-    "source": "hackernews",
-    "score": 122.0,
-    "published_at": "2026-08-27T22:10:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:matewg",
-    "title": "Generic Methods in Go",
-    "url": "https://go.dev/blog/generic-methods",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-08-26T23:06:15.160-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8cipei",
-    "title": "Launching Route 53 Files",
-    "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-08-27T09:31:40.631-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:m31l5c",
-    "title": "Float Bloat: vector serialization gone wrong",
-    "url": "https://bonsai.io/blog/float-bloat/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-27T12:12:50.949-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bkcjsa",
-    "title": "What happens when a GPU reads memory",
-    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-08-27T09:42:03.231-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:aixljs",
-    "title": "The turbulent AI era is here",
-    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-08-27T00:32:18.671-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ko74yd",
-    "title": "Simon Peyton Jones on Functional Programming, Thinking in Types, Useless Languages",
-    "url": "https://www.youtube.com/watch?v=xcB_LF3cdqw",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-08-27T08:41:53.680-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gscm11",
-    "title": "The Server Called Paranoia: Defend Autistici/Inventati Before September 25",
-    "url": "https://cavallette.noblogs.org/2026/08/10083/2",
-    "source": "lobsters",
-    "score": 23.0,
-    "published_at": "2026-08-27T10:20:00.879-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ir1jkh",
-    "title": "A Million Kakapos",
-    "url": "https://blog.mempko.com/a-million-kakapos/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-08-27T10:41:58.393-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:p9kpp9",
-    "title": "UNIX V4 workshop at Low Resource Computing",
-    "url": "https://github.com/thaliaarchi/unix-v4-demo/blob/main/README.md",
-    "source": "lobsters",
-    "score": 18.0,
-    "published_at": "2026-08-27T11:43:34.535-05:00",
     "summary": "",
     "key_points": []
   }
