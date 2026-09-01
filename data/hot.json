@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:sccfuu",
+    "title": "Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters",
+    "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-01T10:10:52.122-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fjpexo",
+    "title": "\"iT woRKs BeTter in THe aPp!!\"",
+    "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-01T10:33:30.846-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:y58e86",
+    "title": "A bicycle for the mind",
+    "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-01T08:52:12.462-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rwqtzs",
+    "title": "A Crash Course in Predicate Logic",
+    "url": "https://www.hillelwayne.com/post/predicate-logic/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-01T11:08:25.818-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gbucyj",
+    "title": "Is Minifying CSS Necessary? (2023)",
+    "url": "https://shivjm.blog/is-minifying-css-necessary/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-01T10:42:44.571-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6ejigt",
+    "title": "Zuzai, a new word, indicates the absence of AI",
+    "url": "https://zuzai.org/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-01T08:26:12.427-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49522374",
+    "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+    "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-09-01T14:19:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49523361",
+    "title": "A browser-based viewer for Office Open XML documents",
+    "url": "https://ooxml.silurus.dev/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-01T15:33:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49523720",
+    "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+    "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-01T15:53:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49524199",
+    "title": "Thanks to Lake Ontario, MapQuest is popular all over again",
+    "url": "https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-01T16:25:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49497741",
+    "title": "Physically Immutable Optical Archive Libraries",
+    "url": "https://savartus.com/solutions/enterprise-laser-storage/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-30T11:27:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49521973",
+    "title": "Introducing Ad Blocker for Firefox on iOS",
+    "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+    "source": "hackernews",
+    "score": 131.0,
+    "published_at": "2026-09-01T13:46:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49524320",
+    "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+    "url": "https://moviescenemap.com/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-01T16:34:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49523473",
+    "title": "Keenable SELECT: an agent that searches the web in SQL",
+    "url": "https://keenableai.github.io/select-showcase/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-01T15:41:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49509655",
+    "title": "We Are Rebuilding Monica",
+    "url": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-08-31T13:37:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49491398",
+    "title": "Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation",
+    "url": "https://ucsfhealthcardiology.ucsf.edu/facstaff/spotlight/dr-melvin-scheinman-40th-anniversary-catheter-ablation",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-08-29T16:52:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49521623",
+    "title": "Io_uring Without Readahead",
+    "url": "https://frn.sh/io-uring/",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-09-01T13:19:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49524704",
+    "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
+    "url": "https://news.ycombinator.com/item?id=49524704",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-01T17:00:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49524447",
+    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+    "url": "https://github.com/carloslfu/slotstream",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-01T16:42:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49522897",
+    "title": "Ask HN: Who is hiring? (September 2026)",
+    "url": "https://news.ycombinator.com/item?id=49522897",
+    "source": "hackernews",
+    "score": 97.0,
+    "published_at": "2026-09-01T15:01:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49523387",
+    "title": "Ambient CSS v3 – Blender meets CSS",
+    "url": "https://ambientcss.vercel.app/",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-01T15:35:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49523754",
+    "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+    "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+    "source": "hackernews",
+    "score": 171.0,
+    "published_at": "2026-09-01T15:55:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:vbu5ay",
     "title": "Coherence and orphan instance rules",
     "url": "https://osa1.net/posts/2026-08-29-coherence-and-orphans.html",
@@ -4776,226 +4996,6 @@
     "source": "juejin",
     "score": 0.35798206,
     "published_at": "2026-08-27T02:44:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677939086406205467",
-    "title": "领导夸我日报越写越详细了，其实我只敲了 npm run commit",
-    "url": "https://juejin.cn/post/7677939086406205467",
-    "source": "juejin",
-    "score": 0.18574516,
-    "published_at": "2026-08-26T01:50:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678618274796961843",
-    "title": "爆火的《牛来》模型正式发布！DeepSeek 的排名又下降了。。",
-    "url": "https://juejin.cn/post/7678618274796961843",
-    "source": "juejin",
-    "score": 1.6511433,
-    "published_at": "2026-08-28T00:58:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678747733979201536",
-    "title": "ValidX错误消息国际化完全指南：8种语言9个语言包与三级回退机制",
-    "url": "https://juejin.cn/post/7678747733979201536",
-    "source": "juejin",
-    "score": 2.11635494,
-    "published_at": "2026-08-28T02:23:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:livekit/agents",
-    "title": "agents",
-    "url": "https://github.com/livekit/agents",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ChromeDevTools/chrome-devtools-mcp",
-    "title": "chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:swoole/typephp",
-    "title": "typephp",
-    "url": "https://github.com/swoole/typephp",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:NationalSecurityAgency/ghidra",
-    "title": "ghidra",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:tailscale/tailcat",
-    "title": "tailcat",
-    "url": "https://github.com/tailscale/tailcat",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cursor/plugins",
-    "title": "plugins",
-    "url": "https://github.com/cursor/plugins",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:abi/screenshot-to-code",
-    "title": "screenshot-to-code",
-    "url": "https://github.com/abi/screenshot-to-code",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:abhigyanpatwari/GitNexus",
-    "title": "GitNexus",
-    "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49476894",
-    "title": "Show HN: SubSmith – Turn your own videos into language-learning material",
-    "url": "https://subsmith.app",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-08-28T10:59:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49478489",
-    "title": "“Weird” is a weird word",
-    "url": "https://www.deadlanguagesociety.com/p/weird-is-a-weird-word",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-08-28T13:51:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49477157",
-    "title": "HTTPX2 – A next-generation HTTP client for Python",
-    "url": "https://github.com/pydantic/httpx2",
-    "source": "hackernews",
-    "score": 92.0,
-    "published_at": "2026-08-28T11:41:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49478942",
-    "title": "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
-    "url": "https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-08-28T14:23:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49477813",
-    "title": "An investigation into the state of corvid–human relations",
-    "url": "https://www.audubon.org/magazine/are-crows-really-our-friends",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-08-28T12:53:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49477600",
-    "title": "“It works better in the app”",
-    "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
-    "source": "hackernews",
-    "score": 570.0,
-    "published_at": "2026-08-28T12:32:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49475079",
-    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-    "source": "hackernews",
-    "score": 303.0,
-    "published_at": "2026-08-28T06:33:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49479924",
-    "title": "EasyEffects can massively improve laptop speaker sound quality",
-    "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-08-28T15:23:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49477559",
-    "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
-    "url": "https://www.nature.com/articles/d41586-026-02506-4",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-08-28T12:28:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49481672",
-    "title": "Secrets of the Atomic City",
-    "url": "https://longreads.com/2026/08/06/radiation-paducah-atavist/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-28T17:16:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49479302",
-    "title": "The conservationists helping to restore Africa’s wild dog populations",
-    "url": "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-08-28T14:44:51+00:00",
     "summary": "",
     "key_points": []
   }
