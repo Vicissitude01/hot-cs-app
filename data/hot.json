@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:b75vrk",
+    "title": "CSS is Still Awesome",
+    "url": "https://jasonsantamaria.com/blog/css-is-still-awesome",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-08-31T12:43:18.118-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jbgnwk",
+    "title": "Janet 1.42.0",
+    "url": "https://github.com/janet-lang/janet/releases/tag/v1.42.0",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-08-31T19:05:30.618-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238382",
+    "title": "我认为苹果是 AI 时代最大赢家，核心在 Mac",
+    "url": "https://www.v2ex.com/t/1238382",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-08-31T05:56:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238326",
+    "title": "tibo 真是疯了， codex 刚刚又重置了感觉 pro20x 这个月白买了",
+    "url": "https://www.v2ex.com/t/1238326",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-08-31T02:51:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238446",
+    "title": "mac 本地部署 llm 不是最佳选择",
+    "url": "https://www.v2ex.com/t/1238446",
+    "source": "v2ex",
+    "score": 92.0,
+    "published_at": "2026-08-31T09:00:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238315",
+    "title": "孙割的羊毛可以薅吗？",
+    "url": "https://www.v2ex.com/t/1238315",
+    "source": "v2ex",
+    "score": 92.0,
+    "published_at": "2026-08-31T02:35:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238355",
+    "title": "大家一年的 token 费用大概预估在多少钱？\r\n以后大家能接受一年多少支出在 ai 上",
+    "url": "https://www.v2ex.com/t/1238355",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-08-31T03:58:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238365",
+    "title": "礼品卡咋买的？ 现在支付宝 pockyt 全部缺货，有其他靠谱渠道吗",
+    "url": "https://www.v2ex.com/t/1238365",
+    "source": "v2ex",
+    "score": 100.0,
+    "published_at": "2026-08-31T04:54:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238361",
+    "title": "路由器坏了，佬们能否推荐一款",
+    "url": "https://www.v2ex.com/t/1238361",
+    "source": "v2ex",
+    "score": 106.0,
+    "published_at": "2026-08-31T04:33:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680025405151084571",
+    "title": "登录页还在用渐变？我一口气做了 5 个能摸的背景动效：吹蒲公英、滴墨染水、点熔岩闷裂",
+    "url": "https://juejin.cn/post/7680025405151084571",
+    "source": "juejin",
+    "score": 0.52855221,
+    "published_at": "2026-08-31T09:13:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7679078816653262900",
+    "title": "全项目 Skills 适配：把「会写代码的 Agent」变成「会按你们规范干活的同事」",
+    "url": "https://juejin.cn/post/7679078816653262900",
+    "source": "juejin",
+    "score": 0.05943433,
+    "published_at": "2026-08-29T08:04:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680024375572021286",
+    "title": "曾经安卓开发人手一个的 EventBus，为什么现在没人爱用了？",
+    "url": "https://juejin.cn/post/7680024375572021286",
+    "source": "juejin",
+    "score": 0.54671226,
+    "published_at": "2026-08-31T07:58:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49446091",
+    "title": "Visualizing Combos in Judo in R",
+    "url": "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-08-26T09:21:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49449356",
+    "title": "Snakes and Ladders",
+    "url": "https://entropicthoughts.com/snakes-and-ladders",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-26T14:00:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49516699",
+    "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-01T01:01:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49516209",
+    "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-08-31T23:46:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49516199",
+    "title": "Evidence of Fraud in an Influential Study About Procrastination",
+    "url": "https://datacolada.org/138",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-08-31T23:45:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49515830",
+    "title": "Run macOS Software on Linux",
+    "url": "https://www.darlinghq.org/",
+    "source": "hackernews",
+    "score": 98.0,
+    "published_at": "2026-08-31T22:53:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:51zi5s",
     "title": "What is the real maximum length of a DNS name? (2012)",
     "url": "https://devblogs.microsoft.com/oldnewthing/20120412-00/?p=7873",
@@ -4816,186 +4996,6 @@
     "source": "lobsters",
     "score": 18.0,
     "published_at": "2026-08-27T11:43:34.535-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rzvdqo",
-    "title": "Please stop flooding our projects with AI slop to furnish your CV",
-    "url": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
-    "source": "lobsters",
-    "score": 41.0,
-    "published_at": "2026-08-27T06:36:05.633-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237641",
-    "title": "有买了 24g 内存后悔的吗",
-    "url": "https://www.v2ex.com/t/1237641",
-    "source": "v2ex",
-    "score": 168.0,
-    "published_at": "2026-08-27T07:48:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677675037638672384",
-    "title": "历经两个月，我跑通了 Codex 自动剪辑，涨粉破千",
-    "url": "https://juejin.cn/post/7677675037638672384",
-    "source": "juejin",
-    "score": 0.1819461,
-    "published_at": "2026-08-25T08:12:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678580101931679753",
-    "title": "🔥 AI 时代，Token 就是你的数字燃料！晒账单，赢好礼！",
-    "url": "https://juejin.cn/post/7678580101931679753",
-    "source": "juejin",
-    "score": 1.82526166,
-    "published_at": "2026-08-27T09:58:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:bilawalsidhu/gods-eye-view",
-    "title": "gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49464896",
-    "title": "Trade (and Tariffs)",
-    "url": "https://xkcd.com/3290/",
-    "source": "hackernews",
-    "score": 400.0,
-    "published_at": "2026-08-27T13:49:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49467551",
-    "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
-    "url": "https://github.com/kelviq/tare",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-08-27T16:37:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49458875",
-    "title": "Humanity has the debate about AI consciousness backwards",
-    "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-08-27T02:37:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49464414",
-    "title": "Aphantasia Beginner's Guide",
-    "url": "https://aphantasia.com/guide",
-    "source": "hackernews",
-    "score": 87.0,
-    "published_at": "2026-08-27T13:14:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49466188",
-    "title": "The terrifying mechanics of the Nepali flash flood",
-    "url": "https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-08-27T15:13:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49465732",
-    "title": "Launching Route 53 Files",
-    "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
-    "source": "hackernews",
-    "score": 79.0,
-    "published_at": "2026-08-27T14:45:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49466715",
-    "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
-    "url": "https://news.ycombinator.com/item?id=49466715",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-27T15:46:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49461817",
-    "title": "Show HN: The load-bearing vocabulary of Claude",
-    "url": "https://louisabraham.github.io/load-bearing/",
-    "source": "hackernews",
-    "score": 232.0,
-    "published_at": "2026-08-27T08:59:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49469098",
-    "title": "Autism mutations drive neurodevelopmental pathology",
-    "url": "https://www.science.org/doi/10.1126/science.ady4523",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-08-27T18:23:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49466622",
-    "title": "Engineered yeast for converting plastic and biomass compounds into food",
-    "url": "https://acs.digitellinc.com/live/37/session/586399",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-08-27T15:40:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49468816",
-    "title": "Show HN: Voronoi Go",
-    "url": "https://voronoigo.com/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-08-27T18:03:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49466894",
-    "title": "Suica, Japan's First IC Transit Card",
-    "url": "https://www.tokyodev.com/articles/the-story-of-suica",
-    "source": "hackernews",
-    "score": 131.0,
-    "published_at": "2026-08-27T15:55:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49468818",
-    "title": "Gemini-3.5-Transcribe",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-08-27T18:03:42+00:00",
     "summary": "",
     "key_points": []
   }
