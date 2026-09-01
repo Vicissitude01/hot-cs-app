@@ -1,5 +1,145 @@
 [
   {
+    "id": "lobsters:2rrgyh",
+    "title": "44% on ARC-AGI-1 in 67 cents",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-01T12:15:18.195-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:logpfy",
+    "title": "Texttile, a multiplayer blog engine for people who write together",
+    "url": "https://www.v01.io/posts/2026/08/texttile/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-01T12:43:21.690-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680043958139748406",
+    "title": "我装了30多个Skill，给AI安排了8个岗位",
+    "url": "https://juejin.cn/post/7680043958139748406",
+    "source": "juejin",
+    "score": 0.33074688,
+    "published_at": "2026-08-31T11:40:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49526244",
+    "title": "What's the Scam?",
+    "url": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-01T18:46:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49525791",
+    "title": "There Is No AI",
+    "url": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-01T18:18:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49525160",
+    "title": "Atlas: A World Model for Spatial Intelligence",
+    "url": "https://www.worldlabs.ai/blog/atlas",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-01T17:36:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49488224",
+    "title": "How bicycle coaster brakes work (2018)",
+    "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-08-29T09:05:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49527232",
+    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-01T19:55:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49490498",
+    "title": "Magic eye tube",
+    "url": "https://en.wikipedia.org/wiki/Magic_eye_tube",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-08-29T15:03:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49522896",
+    "title": "Ask HN: Who wants to be hired? (September 2026)",
+    "url": "https://news.ycombinator.com/item?id=49522896",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-09-01T15:01:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49525297",
+    "title": "The creator of Jujutsu has joined ERSC",
+    "url": "https://ersc.io/blog/martin-joins-ersc",
+    "source": "hackernews",
+    "score": 110.0,
+    "published_at": "2026-09-01T17:46:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49525153",
+    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+    "url": "https://www.norirobotics.com/",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-09-01T17:35:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49526069",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "url": "https://danluu.com/zitron/",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-09-01T18:35:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49525378",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "source": "hackernews",
+    "score": 533.0,
+    "published_at": "2026-09-01T17:53:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:sccfuu",
     "title": "Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters",
     "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
@@ -4856,146 +4996,6 @@
     "source": "lobsters",
     "score": 34.0,
     "published_at": "2026-08-28T07:06:03.527-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zhnpv1",
-    "title": "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
-    "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-    "source": "lobsters",
-    "score": 41.0,
-    "published_at": "2026-08-28T04:28:04.101-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xr1eor",
-    "title": "Yap: a particular kind of slop",
-    "url": "https://mckayla.blog/posts/yap.html",
-    "source": "lobsters",
-    "score": 15.0,
-    "published_at": "2026-08-28T11:35:15.935-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237864",
-    "title": "买个 B200 或 B300，部署 Deepseek-V4 等开源模型，然后卖服务给大厂，有得赚吗。",
-    "url": "https://www.v2ex.com/t/1237864",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-08-28T06:17:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237786",
-    "title": "上海地区安装联通宽带还是移动宽带，有两种都试过的吗，对比下来哪个更好？",
-    "url": "https://www.v2ex.com/t/1237786",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-08-28T02:04:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237866",
-    "title": "你们怎么念的？ code~x 还是 co~dex",
-    "url": "https://www.v2ex.com/t/1237866",
-    "source": "v2ex",
-    "score": 126.0,
-    "published_at": "2026-08-28T06:31:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237845",
-    "title": "码农匹配不上白月光吗",
-    "url": "https://www.v2ex.com/t/1237845",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-08-28T05:06:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237762",
-    "title": "1000 万以内最好的游戏",
-    "url": "https://www.v2ex.com/t/1237762",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-08-28T00:48:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237798",
-    "title": "兄弟们，燃气要来换物联网燃气表，有没有坑？",
-    "url": "https://www.v2ex.com/t/1237798",
-    "source": "v2ex",
-    "score": 148.0,
-    "published_at": "2026-08-28T02:46:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237829",
-    "title": "现在的人是不是越来越看不下去长文章了…",
-    "url": "https://www.v2ex.com/t/1237829",
-    "source": "v2ex",
-    "score": 166.0,
-    "published_at": "2026-08-28T03:45:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678161312636567598",
-    "title": "3 大 DeepSeek Harness 进阶玩法，招多个大肥鱼帮我干活！",
-    "url": "https://juejin.cn/post/7678161312636567598",
-    "source": "juejin",
-    "score": 0.19727881,
-    "published_at": "2026-08-26T06:42:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678586341090803748",
-    "title": "Firebase 如何让全球 Android 和 Flutter 开发者集体 Build Fail",
-    "url": "https://juejin.cn/post/7678586341090803748",
-    "source": "juejin",
-    "score": 0.94528929,
-    "published_at": "2026-08-28T00:56:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678618678956163078",
-    "title": "我的开源项目登顶 GitHub 趋势榜 No1 了！",
-    "url": "https://juejin.cn/post/7678618678956163078",
-    "source": "juejin",
-    "score": 1.39772289,
-    "published_at": "2026-08-28T07:22:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677911015803797531",
-    "title": "我把思考外包给了AI，三个月后我成了自己项目的文盲",
-    "url": "https://juejin.cn/post/7677911015803797531",
-    "source": "juejin",
-    "score": 0.13569359,
-    "published_at": "2026-08-26T06:15:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678220719533752383",
-    "title": "又一个神级画图Skill开源，再见draw.io！",
-    "url": "https://juejin.cn/post/7678220719533752383",
-    "source": "juejin",
-    "score": 0.35798206,
-    "published_at": "2026-08-27T02:44:41+00:00",
     "summary": "",
     "key_points": []
   }
