@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:ayatfy",
+    "title": "Check if a file was made with Claude",
+    "url": "https://www.claude.com/check-content",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-02T14:23:20.032-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49507807",
+    "title": "Product Backlog Problems: Why Your Hierarchy Is Broken",
+    "url": "https://www.prodpad.com/blog/backlog-hierarchy-problem/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-31T09:56:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49543191",
+    "title": "Reasons robotics is hard",
+    "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-02T22:02:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49521031",
+    "title": "Engineering of the fastest WebAssembly interpreters",
+    "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-01T12:25:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49508405",
+    "title": "Holden's Lightning Flight",
+    "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-08-31T11:29:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49543530",
+    "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+    "url": "https://ronanrx.com/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-02T22:36:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49543007",
+    "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+    "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-09-02T21:46:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49543535",
+    "title": "Maybe We Shouldn't Be Reviewing All This Code",
+    "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-02T22:36:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49543841",
+    "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-02T23:08:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:mj9qti",
     "title": "CTTI is Exponential, RTTI is Linear",
     "url": "https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/",
@@ -4906,96 +4996,6 @@
     "source": "hackernews",
     "score": 13.0,
     "published_at": "2026-08-28T21:36:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49495127",
-    "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
-    "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-08-30T02:25:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49494571",
-    "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-    "url": "https://github.com/mk6i/open-oscar-server",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-30T00:33:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49494301",
-    "title": "The Rise and Fall of Agent Civilizations",
-    "url": "https://www.dwarkesh.com/p/openai-huggingface",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-08-29T23:43:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49433554",
-    "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
-    "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-08-25T13:20:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49469786",
-    "title": "Benchmarking Pocket-Scale Inference",
-    "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-08-27T19:12:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49494751",
-    "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-    "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-08-30T01:09:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49494856",
-    "title": "FreeCORE TrueNAS Core – Continued",
-    "url": "https://freecore.org/",
-    "source": "hackernews",
-    "score": 82.0,
-    "published_at": "2026-08-30T01:31:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49495372",
-    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-    "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-    "source": "hackernews",
-    "score": 210.0,
-    "published_at": "2026-08-30T03:15:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238096",
-    "title": "AI 时代，软件已经不值钱了",
-    "url": "https://www.v2ex.com/t/1238096",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-08-29T15:53:44+00:00",
     "summary": "",
     "key_points": []
   }
