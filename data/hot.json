@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:nmhtnw",
+    "title": "Agent memory as a file format",
+    "url": "https://calpaterson.com/memoryfields.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-01T14:39:24.030-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:k1humn",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "url": "https://danluu.com/zitron/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-01T18:19:04.863-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mkpgrk",
+    "title": "The pattern language of software architecture",
+    "url": "https://metapatterns.io/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-01T12:53:50.092-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tvoo4x",
+    "title": "Flat vs segmented memory -- it's recursive",
+    "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-01T19:01:33.423-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238549",
+    "title": "父母年纪大了，想给他们买点补品或者保健品，有什么推荐么",
+    "url": "https://www.v2ex.com/t/1238549",
+    "source": "v2ex",
+    "score": 134.0,
+    "published_at": "2026-09-01T00:57:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49529567",
+    "title": "Improving our alignment and security efforts",
+    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-01T23:12:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49489098",
+    "title": "Building Autonomous Goal Loops That Deliver",
+    "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-29T11:49:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49482099",
+    "title": "Sonic Pi",
+    "url": "https://sonic-pi.net/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-08-28T17:51:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49529132",
+    "title": "My local model setup on an M4 Pro Mac Mini",
+    "url": "https://lws.io/blog/my-local-model-setup/",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-01T22:30:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49529898",
+    "title": "The efficient frontier of LLM inference",
+    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-01T23:48:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:em1whz",
     "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy",
     "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
@@ -4896,106 +4996,6 @@
     "source": "hackernews",
     "score": 72.0,
     "published_at": "2026-08-26T19:07:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49485416",
-    "title": "I accidentally turned LLM memory into program analysis",
-    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-28T23:27:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49422743",
-    "title": "Curvature Beziers: Improving on a timeless recipe",
-    "url": "https://acko.net/blog/curvature-beziers/",
-    "source": "hackernews",
-    "score": 80.0,
-    "published_at": "2026-08-24T17:03:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49486081",
-    "title": "StemDeck, a free, open-source and local AI stem separator",
-    "url": "https://github.com/stemdeckapp/stemdeck",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-29T01:24:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49484925",
-    "title": "Identifying fake cosmetics using AI",
-    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-08-28T22:18:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49485504",
-    "title": "PPWR lands another blow to an precarious tabletop industry",
-    "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-28T23:41:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49485452",
-    "title": "9th Circuit sides with states in Kalshi gambling fight",
-    "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-08-28T23:32:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49485532",
-    "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-08-28T23:46:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49485267",
-    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "url": "https://github.com/Lakr233/vphone-cli",
-    "source": "hackernews",
-    "score": 79.0,
-    "published_at": "2026-08-28T23:02:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rhto2r",
-    "title": "25x Performance, Three Optimizations",
-    "url": "https://maplant.com/2025-04-20-25x-Performance,-Three-Optimizations.html",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-08-28T06:33:14.348-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hett40",
-    "title": "Interview: Doug McIlroy",
-    "url": "https://tmpout.sh/5/2.html",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-08-28T04:42:48.488-05:00",
     "summary": "",
     "key_points": []
   }
