@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:dtllfk",
+    "title": "Solving the Flat Cube",
+    "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-02T05:46:40.059-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wyyzab",
+    "title": "humanity has built the records of FATE by accident",
+    "url": "https://ariadne.space/2026/09/01/humanity-has-built-the-records.html",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-02T02:29:02.314-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:v1wxh0",
+    "title": "Bluefin is a capability system",
+    "url": "https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-02T01:09:55.270-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ipy9xw",
+    "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
+    "url": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
+    "source": "lobsters",
+    "score": 112.0,
+    "published_at": "2026-09-02T01:31:38.073-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238912",
+    "title": "看到大家分享的炒股经历，有亏有赚。但是这个节点叫投资，炒股不属于投资",
+    "url": "https://www.v2ex.com/t/1238912",
+    "source": "v2ex",
+    "score": 102.0,
+    "published_at": "2026-09-02T06:02:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238897",
+    "title": "如何看待男士洗手间小解对手机仍然有深深的执念",
+    "url": "https://www.v2ex.com/t/1238897",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-09-02T04:47:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238857",
+    "title": "今天点了 KFC 的咖啡，味道出乎意料的不错，感觉比瑞幸的好，还能一杯起送，还有其他连锁咖啡推荐吗？",
+    "url": "https://www.v2ex.com/t/1238857",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-09-02T02:30:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238819",
+    "title": "老哥们，安卓手机你们都是用的什么输入法？",
+    "url": "https://www.v2ex.com/t/1238819",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-09-02T01:28:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238848",
+    "title": "中秋去云南旅游，让 gpt 跑了一下线路推荐，也跟问过同事推荐。但是同行的说怕地方太多了.",
+    "url": "https://www.v2ex.com/t/1238848",
+    "source": "v2ex",
+    "score": 142.0,
+    "published_at": "2026-09-02T02:22:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238971",
+    "title": "顶不住了，来回通勤 60 公里， 12 万内电车求推荐",
+    "url": "https://www.v2ex.com/t/1238971",
+    "source": "v2ex",
+    "score": 154.0,
+    "published_at": "2026-09-02T08:26:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680110774044475398",
+    "title": "Android 17 +  OkHttp 5.5.0 ，全新 ECH 下你的 HTTPS 域名可以请求时被安全隐藏",
+    "url": "https://juejin.cn/post/7680110774044475398",
+    "source": "juejin",
+    "score": 0.53343938,
+    "published_at": "2026-09-01T08:32:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680216488121008138",
+    "title": "PC 网站接入微信登录，这 10 个坑我替你踩完了！",
+    "url": "https://juejin.cn/post/7680216488121008138",
+    "source": "juejin",
+    "score": 0.3654848,
+    "published_at": "2026-09-01T02:50:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49533557",
+    "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+    "url": "https://careers.telli.com/",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-02T08:43:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49494236",
+    "title": "Open Battery Information",
+    "url": "https://github.com/mnh-jansson/open-battery-information",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-29T23:27:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49533497",
+    "title": "Commodore 64 released September 1, 1982",
+    "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-09-02T08:36:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:abkikp",
     "title": "Why I'm excited about effect systems (2025)",
     "url": "https://osa1.net/posts/2025-06-28-why-effects.html",
@@ -4846,156 +4996,6 @@
     "source": "v2ex",
     "score": 72.0,
     "published_at": "2026-08-28T15:55:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238000",
-    "title": "没交物业费，物业起诉我之后还没开庭，法院直接冻结我的定期存款了，合法吗？",
-    "url": "https://www.v2ex.com/t/1238000",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-08-29T01:38:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237979",
-    "title": "[吉吉 ] 纯血 Pro 倍率 0.16 缓存近 90%，首字 1S 起，自用实时监测无降智，回复送测试鸡蛋。",
-    "url": "https://www.v2ex.com/t/1237979",
-    "source": "v2ex",
-    "score": 152.0,
-    "published_at": "2026-08-28T15:06:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678975158596239369",
-    "title": "一个 SKILL.md 拿下 2.3 万 Star：让 Codex/Claude Code 少说废话、先给答案",
-    "url": "https://juejin.cn/post/7678975158596239369",
-    "source": "juejin",
-    "score": 0.72414009,
-    "published_at": "2026-08-28T22:31:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678646261258043428",
-    "title": "VisActor  全新图可视化开源项目：VGraph",
-    "url": "https://juejin.cn/post/7678646261258043428",
-    "source": "juejin",
-    "score": 0.37367365,
-    "published_at": "2026-08-28T05:06:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678239088522313780",
-    "title": "WorkBuddy 保姆级教程开源了！600 多篇 Agent 资料一次性放出",
-    "url": "https://juejin.cn/post/7678239088522313780",
-    "source": "juejin",
-    "score": 0.14734328,
-    "published_at": "2026-08-27T03:50:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678262031960834088",
-    "title": "TRAE Work 实战帮征文 | 获奖名单公示",
-    "url": "https://juejin.cn/post/7678262031960834088",
-    "source": "juejin",
-    "score": 0.20755012,
-    "published_at": "2026-08-27T06:41:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678157950377312271",
-    "title": "当 AI 遇见 Flutter | 打造 500+ Widget 专属Logo",
-    "url": "https://juejin.cn/post/7678157950377312271",
-    "source": "juejin",
-    "score": 0.16831569,
-    "published_at": "2026-08-27T00:43:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678580101932220425",
-    "title": "牛来原来是智谱，GLM-5.3-Flash 实测有惊喜也有硬伤",
-    "url": "https://juejin.cn/post/7678580101932220425",
-    "source": "juejin",
-    "score": 0.21854574,
-    "published_at": "2026-08-27T11:39:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678703379591708724",
-    "title": "🤔 v-mortal 是什么？！我只知道 v-model 啊！",
-    "url": "https://juejin.cn/post/7678703379591708724",
-    "source": "juejin",
-    "score": 0.46198627,
-    "published_at": "2026-08-28T06:35:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49418813",
-    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-    "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-08-24T12:30:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49428343",
-    "title": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
-    "url": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-25T02:17:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49422397",
-    "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
-    "url": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-24T16:41:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49417298",
-    "title": "Monzo Stand-In",
-    "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-08-24T09:30:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49487786",
-    "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-    "url": "https://www.inventati.org/who/manifesto",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-08-29T07:38:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49486176",
-    "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-    "url": "https://www.kumander.org/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-08-29T01:48:15+00:00",
     "summary": "",
     "key_points": []
   }
