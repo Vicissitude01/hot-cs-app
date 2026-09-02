@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:abkikp",
+    "title": "Why I'm excited about effect systems (2025)",
+    "url": "https://osa1.net/posts/2025-06-28-why-effects.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-01T19:15:46.684-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ta0fg1",
+    "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-01T23:21:49.642-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mjbwfn",
+    "title": "AyanDict 3.0.0 Released",
+    "url": "https://github.com/ilius/ayandict/releases/tag/v3.0.0",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-01T23:54:48.727-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kxgwhy",
+    "title": "GentleOS/16 hobby OS for vintage 16-bit PCs",
+    "url": "https://luke8086.dev/gentleos16.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-01T23:13:01.064-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4gzijx",
+    "title": "The load-bearing vocabulary of Claude",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-01T23:06:28.526-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qnffyn",
+    "title": "The Endless Temptation of Claude",
+    "url": "https://discardpile.pika.page/posts/the-endless-temptation-of-claude",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-01T20:22:48.784-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238738",
+    "title": "六年前端 27 岁被裁了坐标成都，投了一个月简历石沉大海，准备转后端全栈了，转 go 还是 Java 还是去搞 Python agent",
+    "url": "https://www.v2ex.com/t/1238738",
+    "source": "v2ex",
+    "score": 94.0,
+    "published_at": "2026-09-01T11:01:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238810",
+    "title": "最近有什么好看的电视剧推荐的吗？国内国外的都行",
+    "url": "https://www.v2ex.com/t/1238810",
+    "source": "v2ex",
+    "score": 94.0,
+    "published_at": "2026-09-02T00:55:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238722",
+    "title": "为什么 AI 在 win 平台天天都在肘击 powershell？🫪",
+    "url": "https://www.v2ex.com/t/1238722",
+    "source": "v2ex",
+    "score": 134.0,
+    "published_at": "2026-09-01T09:22:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238708",
+    "title": "写代码不一定要真的动手，要的是「写代码的感觉」，所以做了这个",
+    "url": "https://www.v2ex.com/t/1238708",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-09-01T08:02:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238837",
+    "title": "大佬们怎么看，炒股真的能赚钱吗，投了 10w，已经亏了一万多了，回本无望。还房贷至少能减掉个 5w 的利息。上班族每天还要费精力去盯着大盘，心情也不好",
+    "url": "https://www.v2ex.com/t/1238837",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-09-02T02:03:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238664",
+    "title": "即将 30 各位前辈在这阶段有什么人生感悟",
+    "url": "https://www.v2ex.com/t/1238664",
+    "source": "v2ex",
+    "score": 152.0,
+    "published_at": "2026-09-01T06:20:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238815",
+    "title": "和初恋误会解开了",
+    "url": "https://www.v2ex.com/t/1238815",
+    "source": "v2ex",
+    "score": 170.0,
+    "published_at": "2026-09-02T01:16:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1238763",
+    "title": "可能得抑郁症了，要不要离职去就医",
+    "url": "https://www.v2ex.com/t/1238763",
+    "source": "v2ex",
+    "score": 274.0,
+    "published_at": "2026-09-01T13:06:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49494344",
+    "title": "Laurie Anderson’s next manuscript to be locked away for 88 years",
+    "url": "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-08-29T23:51:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49479909",
+    "title": "Building an interactive instrument for a one-of-a-kind festival",
+    "url": "https://benholmen.com/blog/halfmoon-chimes/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-08-28T15:21:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49516117",
+    "title": "Top Web Design Styles of 1993",
+    "url": "https://contemporary-home-computing.org/prof-dr-style/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-08-31T23:35:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49508619",
+    "title": "Solving the Flat Cube",
+    "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-08-31T12:02:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49484796",
+    "title": "Forgotten History of Small Nuclear Reactors (2015)",
+    "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-08-28T22:05:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49529621",
+    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-09-01T23:17:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49524863",
+    "title": "Fine, I'll build my own text editor",
+    "url": "https://dbushell.com/2026/09/01/text-editor/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-01T17:12:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49531525",
+    "title": "WebFPGA",
+    "url": "https://webfpga.io/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-09-02T03:54:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49531651",
+    "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+    "url": "https://arxiv.org/abs/2608.29530",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-02T04:15:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49530989",
+    "title": "True Rate of Unemployment",
+    "url": "https://www.lisep.org/tru",
+    "source": "hackernews",
+    "score": 103.0,
+    "published_at": "2026-09-02T02:21:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nmhtnw",
     "title": "Agent memory as a file format",
     "url": "https://calpaterson.com/memoryfields.html",
@@ -4756,246 +4996,6 @@
     "source": "hackernews",
     "score": 47.0,
     "published_at": "2026-08-29T01:48:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49486172",
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-    "source": "hackernews",
-    "score": 494.0,
-    "published_at": "2026-08-29T01:47:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49487506",
-    "title": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
-    "url": "https://github.com/paveluv/e",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-08-29T06:35:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49486334",
-    "title": "TurboKV: Insanely fast Rust key-value store",
-    "url": "https://github.com/kingroryg/turbokv",
-    "source": "hackernews",
-    "score": 90.0,
-    "published_at": "2026-08-29T02:23:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49456819",
-    "title": "Europe's last regular standard-gauge steam passenger service",
-    "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-26T22:32:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49487341",
-    "title": "Samsung's Processing-in-Memory (PIM)",
-    "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-08-29T06:06:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yqqsgk",
-    "title": "Pointer Stability for ArrayLists",
-    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-08-28T12:39:21.794-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nfvukc",
-    "title": "Stopping the smart TV from being used against you",
-    "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-28T14:32:48.660-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:t73wqi",
-    "title": "Just a rumour of a bug is enough to find a security exploit these days",
-    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-08-28T15:23:15.671-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qlpiur",
-    "title": "GUIs should be fully keyboard-driven",
-    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-08-28T13:47:26.008-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:suwcbt",
-    "title": "How cats.txt showed llms.txt evidence is GEO astrology",
-    "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-    "source": "lobsters",
-    "score": 20.0,
-    "published_at": "2026-08-28T13:11:43.147-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237806",
-    "title": "原来真的有人认为工作年限应该与薪资挂钩，各位 v 友怎么看",
-    "url": "https://www.v2ex.com/t/1237806",
-    "source": "v2ex",
-    "score": 74.0,
-    "published_at": "2026-08-28T02:53:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237843",
-    "title": "实在顶不住了,准备去香港买个 rtx 4090/24G 显卡",
-    "url": "https://www.v2ex.com/t/1237843",
-    "source": "v2ex",
-    "score": 78.0,
-    "published_at": "2026-08-28T04:54:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237787",
-    "title": "今天看到阮一峰科技周刊介绍的一个概念，突然想到了 V 站是不是就是这样的同质性网络？",
-    "url": "https://www.v2ex.com/t/1237787",
-    "source": "v2ex",
-    "score": 88.0,
-    "published_at": "2026-08-28T02:08:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1237833",
-    "title": "如果不知道孙割的瓜，就别搜索了",
-    "url": "https://www.v2ex.com/t/1237833",
-    "source": "v2ex",
-    "score": 90.0,
-    "published_at": "2026-08-28T04:00:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677865502220648494",
-    "title": "Rspack 2.2 发布：30+ 项性能优化，拥抱 Solid 2.0",
-    "url": "https://juejin.cn/post/7677865502220648494",
-    "source": "juejin",
-    "score": 0.09382935,
-    "published_at": "2026-08-26T03:51:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7677899267893559338",
-    "title": "ViewCompose：让原生 Android View 进入声明式时代",
-    "url": "https://juejin.cn/post/7677899267893559338",
-    "source": "juejin",
-    "score": 0.13845303,
-    "published_at": "2026-08-26T03:22:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678529068804554787",
-    "title": "🚀苹果的液态玻璃咋做？🚀",
-    "url": "https://juejin.cn/post/7678529068804554787",
-    "source": "juejin",
-    "score": 0.48669318,
-    "published_at": "2026-08-27T11:23:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:rohitg00/ai-engineering-from-scratch",
-    "title": "ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:tashfeenahmed/freellmapi",
-    "title": "freellmapi",
-    "url": "https://github.com/tashfeenahmed/freellmapi",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49483080",
-    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
-    "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-08-28T19:18:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49419409",
-    "title": "Experiments with Plotter Art",
-    "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-24T13:21:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49483038",
-    "title": "Show HN: Sesame - a local-first, open-source password manager",
-    "url": "https://usesesame.app/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-08-28T19:14:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49443783",
-    "title": "Visual Analysis of Binary Files",
-    "url": "https://binvis.io/#/",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-08-26T03:11:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49454182",
-    "title": "Processing in Memory: DRAM Is About to Do Math",
-    "url": "https://ben3d.ca/blog/processing-in-memory",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-08-26T19:07:21+00:00",
     "summary": "",
     "key_points": []
   }
