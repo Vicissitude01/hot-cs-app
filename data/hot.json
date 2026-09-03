@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:ic3xiy",
+    "title": "Functionally Zen [Seven tenets for keeping Python codebases simple]",
+    "url": "https://testdouble.com/insights/functionally-zen",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-03T11:17:07.300-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:77qick",
+    "title": "Announcing Rust 1.98.1",
+    "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-03T09:03:38.893-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:if60bl",
+    "title": "You Don't Need Initial-Scale In Your HTML",
+    "url": "https://vale.rocks/micros/20260902-1350",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-09-03T09:03:31.735-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:j03x8u",
+    "title": "Audacity 4.0.0 Released",
+    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+    "source": "lobsters",
+    "score": 19.0,
+    "published_at": "2026-09-03T08:52:43.188-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6tsncg",
+    "title": ".name Termination",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "source": "lobsters",
+    "score": 113.0,
+    "published_at": "2026-09-03T09:55:14.657-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680094035273269258",
+    "title": "别再靠 Code Review 守底线：我做了一个静态分析项目 RedLine",
+    "url": "https://juejin.cn/post/7680094035273269258",
+    "source": "juejin",
+    "score": 0.11074064,
+    "published_at": "2026-08-31T23:37:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49498860",
+    "title": "My BC-250 Journey (With 40 CUs Unlocked)",
+    "url": "https://worldofmatthew.com/blog/bc250/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-08-30T14:14:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49553549",
+    "title": "Instrument Clusters Are Now Paid Extras in Two Hyundai Models",
+    "url": "https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-03T17:25:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49551589",
+    "title": "Grok outage",
+    "url": "https://status.x.ai/",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-09-03T15:26:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49494043",
+    "title": "“We want it to really confuse people, but also really make people happy”",
+    "url": "https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-08-29T22:53:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49552375",
+    "title": "Texas Data Center Map: See where data centers are operating or planned",
+    "url": "https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-03T16:10:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49552055",
+    "title": "VC isn't VC anymore – understanding the rise of Cancer Capital",
+    "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-09-03T15:51:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49553303",
+    "title": "Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB",
+    "url": "https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-03T17:09:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49539556",
+    "title": "Static Allocation, Constant Work",
+    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-02T17:30:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49551925",
+    "title": "Sony makes bold claim about game ownership",
+    "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
+    "source": "hackernews",
+    "score": 129.0,
+    "published_at": "2026-09-03T15:44:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49551096",
+    "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+    "url": "https://news.ycombinator.com/item?id=49551096",
+    "source": "hackernews",
+    "score": 154.0,
+    "published_at": "2026-09-03T15:07:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49553173",
+    "title": "Founding Creative Engineer – Gooseworks (YC W23) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-03T17:00:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49552616",
+    "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+    "url": "https://www.mireye.com",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-03T16:24:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49550698",
+    "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+    "url": "https://anyhumanever.com/",
+    "source": "hackernews",
+    "score": 181.0,
+    "published_at": "2026-09-03T14:51:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49549919",
+    "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+    "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+    "source": "hackernews",
+    "score": 182.0,
+    "published_at": "2026-09-03T13:51:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49551760",
+    "title": "K2 Horizon: Frontier Performance, Radically Open",
+    "url": "https://ifm.ai/blog/k2/",
+    "source": "hackernews",
+    "score": 111.0,
+    "published_at": "2026-09-03T15:36:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49550772",
+    "title": ".name Termination",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "source": "hackernews",
+    "score": 530.0,
+    "published_at": "2026-09-03T14:54:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:towfrz",
     "title": "Révo Programming language",
     "url": "https://revo.lung.fyi/",
@@ -4776,226 +4996,6 @@
     "source": "lobsters",
     "score": 1.0,
     "published_at": "2026-08-30T12:08:55.196-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fkcpnp",
-    "title": "HSK Manga: Turning Manga into Beginner-Level Chinese",
-    "url": "https://hskmanga.com/blog/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-30T12:52:41.168-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pkqqr5",
-    "title": "Debugging Type-Based Alias Analysis optimizations in BPF",
-    "url": "https://loshz.com/debugging-bpf-tbaa/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-30T10:10:39.911-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qjbw27",
-    "title": "One flake to rule them all",
-    "url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-30T11:11:30.583-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3ccvfi",
-    "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry",
-    "url": "https://alexalejandre.com/interviews/interview-with-oofoe/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-08-30T10:13:55.651-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wdke4a",
-    "title": "Small and reasonably fast QOI decoder written in zig",
-    "url": "https://github.com/sorvi-platform/dekoodaaja",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-30T11:49:22.523-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238121",
-    "title": "智友社回馈 V 站新老客户，抽送第 7 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号",
-    "url": "https://www.v2ex.com/t/1238121",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-08-30T02:13:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238217",
-    "title": "记一次 GLM 开发严重事故，花了 8 亿 token，买了个教训",
-    "url": "https://www.v2ex.com/t/1238217",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-08-30T13:04:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679020474672660526",
-    "title": "我做了一个开源项目，让 AI 记住我们解决过的问题：Usora",
-    "url": "https://juejin.cn/post/7679020474672660526",
-    "source": "juejin",
-    "score": 0.23705534,
-    "published_at": "2026-08-29T03:47:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49500817",
-    "title": "'They shot all their weapons; they trashed their ships; they ran out of money'",
-    "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-30T17:32:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49474515",
-    "title": "Synchronisation and SMPTE timecode (time code)",
-    "url": "https://www.philrees.co.uk/articles/timecode.htm",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-28T04:58:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49497200",
-    "title": "Building my own network stack",
-    "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-08-30T09:52:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49489274",
-    "title": "When fruit is scarce, these monkeys hunt animals",
-    "url": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-29T12:14:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49498978",
-    "title": "Europe's summer drought is so extreme that desertification is a growing threat",
-    "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-    "source": "hackernews",
-    "score": 114.0,
-    "published_at": "2026-08-30T14:29:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49468126",
-    "title": "Dad's Custom Atari Peripherals – By Jim Trageser",
-    "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-08-27T17:20:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49498787",
-    "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-08-30T14:06:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49499095",
-    "title": "Zig: Pointer Stability for ArrayLists",
-    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-08-30T14:41:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49500471",
-    "title": "Artie (YC S23) Is Hiring Technical AES",
-    "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-08-30T17:01:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49499394",
-    "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-    "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-    "source": "hackernews",
-    "score": 159.0,
-    "published_at": "2026-08-30T15:12:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49463397",
-    "title": "Electric rain can eat through metal",
-    "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-08-27T12:04:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49499854",
-    "title": "Omarchy: Any User Process Can Escalate to Root",
-    "url": "https://0xcc.io/posts/omarchy-root-creds/",
-    "source": "hackernews",
-    "score": 177.0,
-    "published_at": "2026-08-30T15:59:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49499891",
-    "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-    "url": "https://komoroske.com/slime-mold/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-30T16:03:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49499867",
-    "title": "Haiku R1/beta6 has been released",
-    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-    "source": "hackernews",
-    "score": 92.0,
-    "published_at": "2026-08-30T16:01:10+00:00",
     "summary": "",
     "key_points": []
   }
