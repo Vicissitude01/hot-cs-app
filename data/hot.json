@@ -1,5 +1,215 @@
 [
   {
+    "id": "lobsters:307nji",
+    "title": "What's in the Emacs newcomers-presets theme?",
+    "url": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-03T03:40:15.691-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tst4e1",
+    "title": "Reverse Engineering Unknown File Formats with ImHex",
+    "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-02T17:30:57.415-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:l1luho",
+    "title": "asciiQuake",
+    "url": "https://asciiquake.wtf/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-02T20:45:42.982-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fxk56i",
+    "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
+    "url": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-03T03:28:28.231-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:klhs7o",
+    "title": "deforester - Logging for Janet",
+    "url": "https://codeberg.org/veqq/deforester",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-02T23:12:04.308-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239107",
+    "title": "吐个槽：都 2026 年了 电脑竟然中病毒了",
+    "url": "https://www.v2ex.com/t/1239107",
+    "source": "v2ex",
+    "score": 94.0,
+    "published_at": "2026-09-03T02:04:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239103",
+    "title": "失业马上半年了，还没找到工作~~",
+    "url": "https://www.v2ex.com/t/1239103",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-09-03T01:53:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239194",
+    "title": "公司要在每个人工位上安装监控摄像头，感觉都没心思工作了",
+    "url": "https://www.v2ex.com/t/1239194",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-09-03T05:47:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239152",
+    "title": "做了一个“不发通知”的提醒 App，想听听 V 友意见，附送 50 个永久 Pro 兑换码",
+    "url": "https://www.v2ex.com/t/1239152",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-09-03T03:23:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239092",
+    "title": "35 岁即将失业，英语差，想去报班，去面试要求全英面试的企业，是不是一条出路",
+    "url": "https://www.v2ex.com/t/1239092",
+    "source": "v2ex",
+    "score": 126.0,
+    "published_at": "2026-09-03T01:35:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239110",
+    "title": "RouterYo 中转站，来给 V 友发福利了, 评论就送 $10 额度，进群额外再送！",
+    "url": "https://www.v2ex.com/t/1239110",
+    "source": "v2ex",
+    "score": 224.0,
+    "published_at": "2026-09-03T02:09:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239151",
+    "title": "两个月 12000 台装机、收入 1000 出头： 2MB 的 Markdown 阅读器 mdview 准备涨价，求建议",
+    "url": "https://www.v2ex.com/t/1239151",
+    "source": "v2ex",
+    "score": 272.0,
+    "published_at": "2026-09-03T03:22:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680079424891011124",
+    "title": "企业级 AI Coding 的 Harness 工程实战：8 个 Skill 串起全链路",
+    "url": "https://juejin.cn/post/7680079424891011124",
+    "source": "juejin",
+    "score": 0.19816188,
+    "published_at": "2026-09-01T00:29:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680357430018949135",
+    "title": "Claude 官方的学习教程，太强了。",
+    "url": "https://juejin.cn/post/7680357430018949135",
+    "source": "juejin",
+    "score": 0.2771972,
+    "published_at": "2026-09-01T08:15:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680496681512042548",
+    "title": "Java切面编程（AOP）详解：从核心概念到实战应用",
+    "url": "https://juejin.cn/post/7680496681512042548",
+    "source": "juejin",
+    "score": 2.58751169,
+    "published_at": "2026-09-02T03:06:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49528506",
+    "title": "Show HN: OwnTime – a chess clock for your day's priorities",
+    "url": "https://owntime.app/",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-09-01T21:29:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49511493",
+    "title": "The Computer Museum of America reclamation project",
+    "url": "https://computer-museum.org/wp/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-08-31T16:15:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49530169",
+    "title": "LLMs and Self-Referentiality",
+    "url": "https://scottaaronson.blog/?p=10046",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-09-02T00:20:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49546800",
+    "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+    "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-03T07:04:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49522137",
+    "title": "The Browser's Main Thread Is Expensive",
+    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-01T14:00:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49546753",
+    "title": "Pre-Release of Polars 2.0",
+    "url": "https://pola.rs/posts/announcing-polars-2/",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-09-03T06:59:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ygjo0g",
     "title": "I Think the Military Commissary Freezers Were Hacked",
     "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
@@ -4786,216 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49498002",
-    "title": "Leak of Internal Valve Data",
-    "url": "https://www.pcgamer.com/games/fps/a-massive-cache-of-valve-data-has-reportedly-leaked-online-appearing-to-include-portal-2s-elusive-beta-build-and-a-potential-weapon-from-half-life-2-episode-3/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-30T12:13:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49497357",
-    "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-    "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-08-30T10:20:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49497265",
-    "title": "Spark: Sparklines in your shell",
-    "url": "https://git.zx2c4.com/spark/about/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-08-30T10:02:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49437117",
-    "title": "Orbs",
-    "url": "https://ampcode.com/notes/orbs-explained",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-08-25T16:56:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49453232",
-    "title": "The Einstein-Szilard Refrigerator (2020)",
-    "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-08-26T17:58:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49498201",
-    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-    "url": "https://github.com/anthropics/claude-code/issues/66504",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-08-30T12:50:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49496543",
-    "title": "Xcena and Samsung's Near Memory Compute CXL Device",
-    "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-08-30T07:35:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49430745",
-    "title": "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
-    "url": "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-08-25T08:43:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49497854",
-    "title": "Automating Immersive Reading",
-    "url": "https://smoores.dev/post/automating_immersive_reading/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-30T11:46:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49497928",
-    "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
-    "url": "https://github.com/fugue-labs/monty-go",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-08-30T12:02:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49497819",
-    "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
-    "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-30T11:41:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49497063",
-    "title": "Brits would quite like their private messages to stay private",
-    "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-    "source": "hackernews",
-    "score": 211.0,
-    "published_at": "2026-08-30T09:26:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49419381",
-    "title": "What my dad taught me about AI coding in the 90s",
-    "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-08-24T13:19:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49463888",
-    "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
-    "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-08-27T12:40:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49496782",
-    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-    "url": "https://arxiv.org/abs/1804.07389",
-    "source": "hackernews",
-    "score": 132.0,
-    "published_at": "2026-08-30T08:23:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49496918",
-    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-    "source": "hackernews",
-    "score": 106.0,
-    "published_at": "2026-08-30T08:51:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49497810",
-    "title": "Hacking IKEA Furniture",
-    "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-08-30T11:39:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ktbweg",
-    "title": "Prompt Injection in Claude Code Opus 5 Auto Mode",
-    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-30T00:36:51.165-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pcldcc",
-    "title": "California Passes AB-1856 For Open-Source Relief Over Age Verification",
-    "url": "https://www.phoronix.com/news/California-AB-1856-Passes",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-30T02:09:22.972-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:n1jlxt",
-    "title": "Bug blindness",
-    "url": "https://danluu.com/bug-blind/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-08-29T20:34:27.794-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9y9jo6",
-    "title": "There's no such thing as Just a Tool",
-    "url": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
-    "source": "lobsters",
-    "score": 20.0,
-    "published_at": "2026-08-29T22:59:05.712-05:00",
     "summary": "",
     "key_points": []
   }
