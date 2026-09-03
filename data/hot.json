@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:uyc8ai",
+    "title": "Can We Stop With the Uptime Percentages?",
+    "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-03T15:30:39.139-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:htrg6g",
+    "title": "An image only some users can see",
+    "url": "https://d.erenrich.net/apple.avif",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-03T16:44:17.849-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:entcaa",
+    "title": "simple is not small",
+    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-03T16:24:19.683-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rlswbt",
+    "title": "NES dumping over audio",
+    "url": "https://mathstodon.xyz/@JordiGH/117209252363385093",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-03T16:40:36.619-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680757400489541668",
+    "title": "我为什么喜欢 Compose ？",
+    "url": "https://juejin.cn/post/7680757400489541668",
+    "source": "juejin",
+    "score": 0.58221959,
+    "published_at": "2026-09-03T00:50:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49558086",
+    "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
+    "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-03T22:37:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49557988",
+    "title": "Models Don't Go Rogue",
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-03T22:26:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49526210",
+    "title": "Working to Make Python Lazy",
+    "url": "https://iscinumpy.dev/post/flake8-lazy/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-01T18:44:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49527967",
+    "title": "A PCB business card with a batteryless LED, powered by the phone that taps it",
+    "url": "https://www.kevin.md/the-business-card-that-lights-up.md/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-01T20:46:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49556922",
+    "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+    "url": "https://tasklet.ai/careers/customer-success-engineer",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-03T21:01:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49557206",
+    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+    "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-09-03T21:20:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:el3fvf",
     "title": "How I converted BBC Micro Elite into a two-player game",
     "url": "https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html",
@@ -4886,116 +4996,6 @@
     "source": "hackernews",
     "score": 23.0,
     "published_at": "2026-08-26T10:38:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49481141",
-    "title": "My hobby of building miniatures and taking pretty pictures",
-    "url": "https://sandyuraz.com/blogs/tiny-cafe/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-28T16:43:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49505288",
-    "title": "UC Berkeley indefinitely suspends international student work authorizations",
-    "url": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-08-31T03:34:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49504905",
-    "title": "Internet centralization and the original sin of NAT",
-    "url": "https://dreamstation.systems/personal/ntppost.html",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-31T02:23:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49503956",
-    "title": "How to build a diffusion language model",
-    "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-08-30T23:41:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49504625",
-    "title": "Understanding ChatGPT Work",
-    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-    "source": "hackernews",
-    "score": 100.0,
-    "published_at": "2026-08-31T01:28:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49503934",
-    "title": "Matrox: Graphics for Professionals",
-    "url": "https://www.abortretry.fail/p/matrox",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-08-30T23:39:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49505351",
-    "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-    "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-31T03:45:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49480091",
-    "title": "It takes 5 cloud services to hear my doorbell",
-    "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-08-28T15:34:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49505219",
-    "title": "P99 0 ms* autocomplete for 240M domain names",
-    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-31T03:20:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9ac8ta",
-    "title": "Parallel O(sqrt n) Overhead LSD Radix Sort",
-    "url": "https://arxiv.org/abs/2607.05302",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-30T16:57:28.311-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238212",
-    "title": "不消费不结婚之类的都是“果”，那么“因”是什么？",
-    "url": "https://www.v2ex.com/t/1238212",
-    "source": "v2ex",
-    "score": 54.0,
-    "published_at": "2026-08-30T12:22:42+00:00",
     "summary": "",
     "key_points": []
   }
