@@ -1,5 +1,215 @@
 [
   {
+    "id": "lobsters:el3fvf",
+    "title": "How I converted BBC Micro Elite into a two-player game",
+    "url": "https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-03T10:29:55.489-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49549877",
+    "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
+    "url": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-09-03T13:47:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49540827",
+    "title": "Unified Arabic",
+    "url": "https://worksthatwork.com/6/unified-arabic",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-09-02T19:02:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49515558",
+    "title": "How to get a free .arpa domain",
+    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+    "source": "hackernews",
+    "score": 79.0,
+    "published_at": "2026-08-31T22:21:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49544762",
+    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-09-03T01:11:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49553321",
+    "title": "How concerned should we be about Astra's recurrent architecture?",
+    "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-03T17:10:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49534573",
+    "title": "Dextroproporphan: An Analogue for a Better Dextromethorphan",
+    "url": "https://monfak.top/blog/posts/dextroproporphan",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-02T11:06:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49555233",
+    "title": "The asteroid currently hitting front end web development",
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-03T19:17:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49548256",
+    "title": "Gloria Steinem has died",
+    "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-09-03T10:31:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49543220",
+    "title": "VC isn't VC anymore",
+    "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
+    "source": "hackernews",
+    "score": 132.0,
+    "published_at": "2026-09-02T22:05:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49526298",
+    "title": "Xanadu was waiting for agents",
+    "url": "https://zed.dev/blog/agentic-xanadu",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-09-01T18:50:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49544618",
+    "title": "GPS glitched across the US by as much as 33 feet",
+    "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-09-03T00:49:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49537632",
+    "title": "The true horror of Edgar Allan Poe’s stories lies in their confessions",
+    "url": "https://yalereview.org/article/emily-ogden-edgar-allan-poe",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-02T15:18:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49555478",
+    "title": "The death of San Francisco's Market Street",
+    "url": "https://www.noahpinion.blog/p/the-death-of-market-street",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-03T19:33:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49555691",
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+    "url": "https://arcprize.org/blog/astra",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-09-03T19:45:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49538069",
+    "title": "Unusual Suspects",
+    "url": "https://neal.fun/unusual-suspects/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-09-02T15:48:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49552572",
+    "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+    "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-09-03T16:21:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49550375",
+    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "source": "hackernews",
+    "score": 101.0,
+    "published_at": "2026-09-03T14:28:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49526453",
+    "title": "The largest electric aircraft just flew [video]",
+    "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-01T19:02:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49554520",
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "url": "https://inference-docs.cerebras.ai/models/overview",
+    "source": "hackernews",
+    "score": 286.0,
+    "published_at": "2026-09-03T18:32:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49554643",
+    "title": "GPT-6 Astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "source": "hackernews",
+    "score": 684.0,
+    "published_at": "2026-09-03T18:41:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ic3xiy",
     "title": "Functionally Zen [Seven tenets for keeping Python codebases simple]",
     "url": "https://testdouble.com/insights/functionally-zen",
@@ -4786,216 +4996,6 @@
     "source": "v2ex",
     "score": 54.0,
     "published_at": "2026-08-30T12:22:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:tt-a1i/archify",
-    "title": "archify",
-    "url": "https://github.com/tt-a1i/archify",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:K-Dense-AI/scientific-agent-skills",
-    "title": "scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49486419",
-    "title": "Quest for the Eternal Dock – Lambdock",
-    "url": "https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-29T02:43:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49499831",
-    "title": "Startup Anti-Patterns",
-    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-08-30T15:57:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49464287",
-    "title": "How would you know whether an ancient culture had zero?",
-    "url": "https://www.johndcook.com/blog/2026/08/21/ancient-number-system/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-27T13:05:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49450461",
-    "title": "Commercially Available Bike Generators Are Not Sustainable",
-    "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-26T15:04:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49503421",
-    "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-    "url": "https://academa.ai/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-30T22:22:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49503134",
-    "title": "Mark Zuckerberg's Social Reckoning",
-    "url": "https://www.newyorker.com/magazine/2026/09/07/mark-zuckerbergs-social-reckoning",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-08-30T21:41:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49503587",
-    "title": "Thoughts on Pope Leo XIV's Magnifica Humanitas",
-    "url": "https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-30T22:46:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49503601",
-    "title": "“I just chose words carefully”",
-    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-08-30T22:49:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hutycp",
-    "title": "Aiki Alpha 3 Released - Performance Improved",
-    "url": "https://decuser.github.io/posts/aiki-alpha-3-release/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-30T15:40:04.217-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bxihn3",
-    "title": "Omarchy: Any User Process Can Escalate to Root",
-    "url": "https://0xcc.io/posts/omarchy-root-creds/",
-    "source": "lobsters",
-    "score": 25.0,
-    "published_at": "2026-08-30T13:11:09.248-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238126",
-    "title": "SceneMint Pro - 做了个 AI 出图网站，便宜大碗！",
-    "url": "https://www.v2ex.com/t/1238126",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-08-30T03:11:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49501791",
-    "title": "The world may have less time than it thinks on climate change",
-    "url": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
-    "source": "hackernews",
-    "score": 82.0,
-    "published_at": "2026-08-30T19:08:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49471614",
-    "title": "Storm Summoner, a MIDI controller for effects pedals",
-    "url": "https://kabaragoya.com/products/storm-summoner",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-27T21:38:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49502611",
-    "title": "Continuous Diffusion Language Models (CDLM's)",
-    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-08-30T20:46:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49435285",
-    "title": "Sort branches by last commit date",
-    "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-08-25T14:57:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49501611",
-    "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-    "url": "https://github.com/KodeMunkie/sm750hdmifb",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-08-30T18:49:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49478426",
-    "title": "NFC Energy-Harvesting PCB Business Card with an MCU",
-    "url": "https://wilsonharper.net/projects/businesscard/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-28T13:48:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49502214",
-    "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-    "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-08-30T20:00:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:syxqrd",
-    "title": "A SAT Attack on Tarski's High School Algebra Problem",
-    "url": "https://arxiv.org/abs/2608.08421",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-30T12:08:55.196-05:00",
     "summary": "",
     "key_points": []
   }
