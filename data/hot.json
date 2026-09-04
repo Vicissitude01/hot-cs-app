@@ -1,5 +1,345 @@
 [
   {
+    "id": "lobsters:nkzapz",
+    "title": "Dynamic linking best practices (2021)",
+    "url": "https://begriffs.com/posts/2021-07-04-shared-libraries.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-04T04:19:06.751-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hr2txa",
+    "title": "smolts: a pedagogical IDE for a teaching language (eighty-twenty news)",
+    "url": "https://eighty-twenty.org/2026/09/04/smolts",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-04T06:00:43.483-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qgxznz",
+    "title": "No more issues",
+    "url": "https://stitcher.io/blog/no-more-issues",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-04T02:45:49.940-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sunmyh",
+    "title": "Bug triaging help needed",
+    "url": "https://pointieststick.com/2026/09/03/bug-triaging-help-needed/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-04T05:26:32.110-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ybk8hr",
+    "title": "The Incomplete Guide to Lazy Evaluation in Haskell (2015)",
+    "url": "https://apfelmus.nfshost.com/articles/lazy-eval.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-04T04:21:00.211-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4vsl2j",
+    "title": "WTF is going on with R7RS Large? 2026 edition",
+    "url": "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-09-04T02:09:35.224-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ku30xf",
+    "title": "What are you doing this weekend?",
+    "url": "https://lobste.rs/s/ku30xf",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-04T04:26:25.543-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:eokmrg",
+    "title": "The NX bit is not just about security",
+    "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-04T01:27:04.169-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239387",
+    "title": "手机远程控制电脑跑 Agent 方案",
+    "url": "https://www.v2ex.com/t/1239387",
+    "source": "v2ex",
+    "score": 114.0,
+    "published_at": "2026-09-04T01:40:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239384",
+    "title": "有没有什么每日必薅的小羊毛？",
+    "url": "https://www.v2ex.com/t/1239384",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-09-04T01:38:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239475",
+    "title": "多年经验总结，经常发送消息有错字的人工作能力都不佳，这是为啥？",
+    "url": "https://www.v2ex.com/t/1239475",
+    "source": "v2ex",
+    "score": 132.0,
+    "published_at": "2026-09-04T06:07:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239471",
+    "title": "中国的考公考编还能火多久？",
+    "url": "https://www.v2ex.com/t/1239471",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-09-04T06:04:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680465299678314538",
+    "title": "Flutter A2UI 深度解析，它是怎么提供动态生产力的，然后为什么 A2UI 不只是 Flutter ",
+    "url": "https://juejin.cn/post/7680465299678314538",
+    "source": "juejin",
+    "score": 0.52046332,
+    "published_at": "2026-09-02T01:40:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680841873821728810",
+    "title": "2026 年前端的“新王登基”：Rust 正在吃掉整个工具链",
+    "url": "https://juejin.cn/post/7680841873821728810",
+    "source": "juejin",
+    "score": 0.30890457,
+    "published_at": "2026-09-03T02:10:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680761768890253322",
+    "title": "Fable 5.1 实测：15.84 美元，Pro 用户该买吗？",
+    "url": "https://juejin.cn/post/7680761768890253322",
+    "source": "juejin",
+    "score": 0.22598396,
+    "published_at": "2026-09-02T12:56:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681146373547868166",
+    "title": "一周之内，前端 AI 编程的格局被彻底改写了三次",
+    "url": "https://juejin.cn/post/7681146373547868166",
+    "source": "juejin",
+    "score": 1.38149912,
+    "published_at": "2026-09-04T01:01:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680581898923393066",
+    "title": "热敏小票 Web 打印：我在 58/80mm 上折腾的两周",
+    "url": "https://juejin.cn/post/7680581898923393066",
+    "source": "juejin",
+    "score": 0.20984681,
+    "published_at": "2026-09-02T09:17:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680757400489738276",
+    "title": "AI 时代，也许你的 Flutter 需要一套 Dartastic OpenTelemetry 监控",
+    "url": "https://juejin.cn/post/7680757400489738276",
+    "source": "juejin",
+    "score": 5.09657151,
+    "published_at": "2026-09-03T01:15:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681266980104585222",
+    "title": "轻量开源版 IDEA 来了！",
+    "url": "https://juejin.cn/post/7681266980104585222",
+    "source": "juejin",
+    "score": 4.80697517,
+    "published_at": "2026-09-04T06:14:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681235036931784744",
+    "title": "GPT6发布了，“O哥”速评！",
+    "url": "https://juejin.cn/post/7681235036931784744",
+    "source": "juejin",
+    "score": 3.17374413,
+    "published_at": "2026-09-04T04:12:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cathrynlavery/diagram-design",
+    "title": "diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:clshortfuse/renodx",
+    "title": "renodx",
+    "url": "https://github.com/clshortfuse/renodx",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anomalyco/opencode",
+    "title": "opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:radixark/miles",
+    "title": "miles",
+    "url": "https://github.com/radixark/miles",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:bikini/exploitarium",
+    "title": "exploitarium",
+    "url": "https://github.com/bikini/exploitarium",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49520356",
+    "title": "Welcome to the Porcelain Insulator Collector's World of Mud",
+    "url": "https://www.insulators.info/porcelain/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-01T11:06:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49510738",
+    "title": "Oscar Winner Brings Monsters to Life with His Simulation Software",
+    "url": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-08-31T15:10:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49562744",
+    "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+    "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-04T10:30:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49561320",
+    "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+    "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+    "source": "hackernews",
+    "score": 213.0,
+    "published_at": "2026-09-04T06:47:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49562062",
+    "title": "The Raspberry Pi Interactive Timeline · 2006–2026",
+    "url": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-04T08:35:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49522367",
+    "title": "Authorization terminology is a mess: Let's fix it",
+    "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-09-01T14:18:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49516312",
+    "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
+    "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-01T00:01:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49561975",
+    "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+    "url": "https://carbonawarepricing.com/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-09-04T08:19:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49562657",
+    "title": "Solving the Jane Street Reverse Engineering Challenge",
+    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-09-04T10:17:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nr3ucr",
     "title": "WebDev intro course: what small changes towards progressive enhancement?",
     "url": "https://lobste.rs/s/nr3ucr",
@@ -4656,346 +4996,6 @@
     "source": "hackernews",
     "score": 23.0,
     "published_at": "2026-08-30T06:52:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49511007",
-    "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-    "url": "https://usealmanac.com/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-08-31T15:34:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49508982",
-    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-    "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-    "source": "hackernews",
-    "score": 121.0,
-    "published_at": "2026-08-31T12:41:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49500504",
-    "title": "Cheap GPS jammers are filling the world with navigation dead zones",
-    "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-08-30T17:05:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49495171",
-    "title": "No country for mediocre mathematicians",
-    "url": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-08-30T02:35:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49489376",
-    "title": "Show HN: Laser Graffiti",
-    "url": "https://laser.consti.de",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-29T12:28:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49512895",
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-    "url": "https://jobs.ashbyhq.com/workweave",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-08-31T18:15:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49506148",
-    "title": "Since it was stripped of planetary status, Pluto’s defenders have been fighting",
-    "url": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-08-31T06:05:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49511534",
-    "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-    "url": "https://ravynos.com/",
-    "source": "hackernews",
-    "score": 82.0,
-    "published_at": "2026-08-31T16:19:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49433481",
-    "title": "Tmp.0ut, Vol. 5",
-    "url": "https://tmpout.sh/5/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-08-25T13:15:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49510000",
-    "title": "ChatGPT Work Tool and Skill Reference",
-    "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-    "source": "hackernews",
-    "score": 122.0,
-    "published_at": "2026-08-31T14:07:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49512975",
-    "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-    "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-08-31T18:21:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49510514",
-    "title": "Playa Phone",
-    "url": "https://playaphone.com/",
-    "source": "hackernews",
-    "score": 305.0,
-    "published_at": "2026-08-31T14:52:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49511856",
-    "title": "I turned my security cameras into an automatic bird identification system",
-    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-    "source": "hackernews",
-    "score": 153.0,
-    "published_at": "2026-08-31T16:47:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:by7xg6",
-    "title": "Could Cargo's scheduler be better?",
-    "url": "https://spirali.github.io/blog/cargo-scheduler/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-31T05:50:09.313-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ofoukh",
-    "title": "bibliograph: An AppView for interfacing with bibliographic information on ATProto",
-    "url": "https://github.com/olamaelcu/bibliograph",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-31T06:05:04.715-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zxggzb",
-    "title": "Executable Emoji",
-    "url": "https://martypc.blogspot.com/2026/08/executable-emoji.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-31T02:06:50.359-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1pdfex",
-    "title": "curl: a CVE dispute",
-    "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-31T05:38:12.836-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xnljk9",
-    "title": "A Better SQL in 11 Lines of Code",
-    "url": "https://prela-lang.org/tutorial/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-08-31T04:10:20.536-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8gved6",
-    "title": "July in Servo: more platforms, faster canvas, web fonts in SVG, and more",
-    "url": "https://servo.org/blog/2026/08/31/july-in-servo/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-31T05:55:09.524-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ngqpa1",
-    "title": "The U.S. is more than just the US (according to the ISO)",
-    "url": "https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-08-31T00:38:25.189-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238270",
-    "title": "聊一聊周末便利店摸屁股事件",
-    "url": "https://www.v2ex.com/t/1238270",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-08-31T01:14:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238264",
-    "title": "26 年之前只干后端，现在前后端一起干，后面产品也取消了，我们直接去收集需求，有一样的吗",
-    "url": "https://www.v2ex.com/t/1238264",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-08-31T00:45:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238341",
-    "title": "plus 已经没法用了",
-    "url": "https://www.v2ex.com/t/1238341",
-    "source": "v2ex",
-    "score": 158.0,
-    "published_at": "2026-08-31T03:15:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679542577553473590",
-    "title": "整理了一份 DeepSeek Harness 必备插件清单！",
-    "url": "https://juejin.cn/post/7679542577553473590",
-    "source": "juejin",
-    "score": 0.75325396,
-    "published_at": "2026-08-31T00:43:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680014875347255334",
-    "title": "Redis已正式接入AI",
-    "url": "https://juejin.cn/post/7680014875347255334",
-    "source": "juejin",
-    "score": 4.29892962,
-    "published_at": "2026-08-31T07:51:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678200303993389107",
-    "title": "生产级 RAG 知识库全流程实践",
-    "url": "https://juejin.cn/post/7678200303993389107",
-    "source": "juejin",
-    "score": 0.11499351,
-    "published_at": "2026-08-26T10:32:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679059713533640747",
-    "title": " 用了两年 AI 编程工具后，我重新理解了什么是「资深工程师」",
-    "url": "https://juejin.cn/post/7679059713533640747",
-    "source": "juejin",
-    "score": 0.22753844,
-    "published_at": "2026-08-30T07:39:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679985418771218470",
-    "title": "老板要周报？我说不用，代码提交就是进度",
-    "url": "https://juejin.cn/post/7679985418771218470",
-    "source": "juejin",
-    "score": 2.76144242,
-    "published_at": "2026-08-31T05:19:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7675992325912887315",
-    "title": "Show me your works & token -稀土掘金上线作品广场和用量统计",
-    "url": "https://juejin.cn/post/7675992325912887315",
-    "source": "juejin",
-    "score": 18.85333588,
-    "published_at": "2026-08-20T09:36:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679402031226110004",
-    "title": "公司没给活干，却因为员工看手机把人开了：法院判赔11万元",
-    "url": "https://juejin.cn/post/7679402031226110004",
-    "source": "juejin",
-    "score": 2.66650092,
-    "published_at": "2026-08-31T02:49:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:firecrawl/pdf-inspector",
-    "title": "pdf-inspector",
-    "url": "https://github.com/firecrawl/pdf-inspector",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:affaan-m/ECC",
-    "title": "ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:zhaoxuya520/reverse-skill",
-    "title": "reverse-skill",
-    "url": "https://github.com/zhaoxuya520/reverse-skill",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:jingyaogong/minimind",
-    "title": "minimind",
-    "url": "https://github.com/jingyaogong/minimind",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
