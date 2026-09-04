@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:5y7ije",
+    "title": "Imperial Colors Manifesto",
+    "url": "https://qum.cz/imperial_colors/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-04T09:46:23.168-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qnjllv",
+    "title": "FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More",
+    "url": "https://force-color.org/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-04T07:37:32.323-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:asjmva",
+    "title": "Inserting State Transitions in Postgres",
+    "url": "https://thoughtbot.com/blog/inserting-state-transitions-in-postgres",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-04T08:01:53.607-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fdbblk",
+    "title": "Collider: An experimental Minecraft server",
+    "url": "https://github.com/Nozistance/collider",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-04T08:44:44.713-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:utloro",
+    "title": "Is AI ruining my brain?",
+    "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-04T09:41:18.640-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:baiwkq",
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "source": "lobsters",
+    "score": 17.0,
+    "published_at": "2026-09-04T06:43:06.812-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7tpc5q",
+    "title": "Surviving Code Reviews in the era of AI",
+    "url": "https://lobste.rs/s/7tpc5q",
+    "source": "lobsters",
+    "score": 36.0,
+    "published_at": "2026-09-04T08:11:47.640-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239403",
+    "title": "如果公司报销 200 USD 每月， Claude & ChatGPT 选哪个",
+    "url": "https://www.v2ex.com/t/1239403",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-09-04T02:24:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681411791876177983",
+    "title": "聊个比较有意思的 Flutter Web 问题",
+    "url": "https://juejin.cn/post/7681411791876177983",
+    "source": "juejin",
+    "score": 1.0002528,
+    "published_at": "2026-09-04T01:05:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:affaan-m/ECC",
+    "title": "ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49507810",
+    "title": "1960s theory that Stonehenge was a prehistoric computer",
+    "url": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-08-31T09:57:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49563851",
+    "title": "IBM Bob",
+    "url": "https://bob.ibm.com/",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-09-04T12:50:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49527123",
+    "title": "Essential Resources for Getting Started with at Protocol",
+    "url": "https://bnb.im/posts/atproto-essential-resources/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-01T19:48:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49564555",
+    "title": "US Military disables ad trackers on troops' phones",
+    "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-09-04T13:44:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49563784",
+    "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
+    "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+    "source": "hackernews",
+    "score": 110.0,
+    "published_at": "2026-09-04T12:43:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49564714",
+    "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
+    "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-09-04T13:54:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49563415",
+    "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
+    "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-04T12:01:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49566137",
+    "title": "Corporate America Is Getting Hooked on Open-Source A.I",
+    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-04T15:33:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49565693",
+    "title": "GMails custom domain \"send as\" discontinues January 2027",
+    "url": "https://support.google.com/mail/answer/22370?hl=en",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-09-04T15:03:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49563772",
+    "title": "Ok, but Does It Scale?",
+    "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-04T12:42:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49534936",
+    "title": "The Two Abstractions of System Design: Hide or Reduce",
+    "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-02T11:54:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49563355",
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "source": "hackernews",
+    "score": 691.0,
+    "published_at": "2026-09-04T11:54:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49563386",
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "source": "hackernews",
+    "score": 235.0,
+    "published_at": "2026-09-04T11:59:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nkzapz",
     "title": "Dynamic linking best practices (2021)",
     "url": "https://begriffs.com/posts/2021-07-04-shared-libraries.html",
@@ -4766,236 +4996,6 @@
     "source": "lobsters",
     "score": 10.0,
     "published_at": "2026-08-31T09:19:48.353-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vb1jgu",
-    "title": "What are you doing this week?",
-    "url": "https://lobste.rs/s/vb1jgu",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-08-31T09:06:11.119-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uxqdfr",
-    "title": "On not becoming a cyborg",
-    "url": "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-08-31T08:33:40.389-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qn7jtv",
-    "title": "I attended a conference recently and AI use by academics was absurd",
-    "url": "https://lobste.rs/s/qn7jtv",
-    "source": "lobsters",
-    "score": 26.0,
-    "published_at": "2026-08-31T10:22:00.683-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hyn2bt",
-    "title": "RangeFrom, Part 2..: What I think is wrong about the design",
-    "url": "https://erk.dev/2026/08/30/rangefrom-part-2",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-31T11:53:28.422-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zzn47c",
-    "title": "VibeCoded AI-Slop License v1.0",
-    "url": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
-    "source": "lobsters",
-    "score": 45.0,
-    "published_at": "2026-08-31T06:40:14.514-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238291",
-    "title": "面试录个音不犯规吧？大家帮忙投个票",
-    "url": "https://www.v2ex.com/t/1238291",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-08-31T01:56:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238358",
-    "title": "2 万多下载，大多数人却只用了一次",
-    "url": "https://www.v2ex.com/t/1238358",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-08-31T04:16:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679389047375691785",
-    "title": "SendChannel 与 ReceiveChannel 通信机制",
-    "url": "https://juejin.cn/post/7679389047375691785",
-    "source": "juejin",
-    "score": 0.12359183,
-    "published_at": "2026-08-30T07:43:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49511720",
-    "title": "You probably own this 7-Eleven (and that's why it looks so sad)",
-    "url": "https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-08-31T16:36:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49455557",
-    "title": "Show HN: We built the smallest dual-band aircraft tracker",
-    "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-08-26T20:38:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49498993",
-    "title": "DNS abuse and criminal infrastructure",
-    "url": "https://labs.ripe.net/author/andrew_campling/dns-abuse-and-criminal-infrastructure-beyond-definitions-and-blocklists/",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-08-30T14:30:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49508506",
-    "title": "I think the military commissary's freezers were hacked",
-    "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-08-31T11:45:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49475159",
-    "title": "Show HN: FnScribe – Open-source, offline dictation for macOS",
-    "url": "https://github.com/AlgorithmicResearchGroup/fnscribe",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-28T06:45:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49511400",
-    "title": "Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme",
-    "url": "https://corporatemindgames.com/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-31T16:08:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49511917",
-    "title": "Konrad Zuse Museum shutting down due to lack of funding",
-    "url": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
-    "source": "hackernews",
-    "score": 88.0,
-    "published_at": "2026-08-31T16:52:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49503672",
-    "title": "Accidental Aesthetics and Romance of Power Wires",
-    "url": "https://www.governance.fyi/p/accidental-aesthetics-and-romance",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-08-30T23:00:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49510632",
-    "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-08-31T15:02:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49512311",
-    "title": "'Stunning' percolation proof solves decades-old puzzle about phase transitions",
-    "url": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-31T17:22:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49487099",
-    "title": "Dimethyl Mercury Exposure Incident at MIT",
-    "url": "https://twitter.com/andrew_n_carr/status/2093524390390694232",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-08-29T05:17:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49510489",
-    "title": "The Snow/Leavis ‘two cultures’ clash",
-    "url": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-08-31T14:50:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49467636",
-    "title": "Dwarf Fortress is getting the mother of all magic updates",
-    "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-08-27T16:45:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49510511",
-    "title": "C++26: Standard Library Hardening Experiments",
-    "url": "https://www.cppstories.com/2026/hardening-experiments/",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-08-31T14:52:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49496292",
-    "title": "Smartphone LED detects hidden cameras with AI",
-    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-30T06:52:04+00:00",
     "summary": "",
     "key_points": []
   }
