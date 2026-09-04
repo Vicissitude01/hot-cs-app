@@ -1,5 +1,75 @@
 [
   {
+    "id": "v2ex:1239093",
+    "title": "可稳定的 ChatGPT 的梯子求助~",
+    "url": "https://www.v2ex.com/t/1239093",
+    "source": "v2ex",
+    "score": 124.0,
+    "published_at": "2026-09-03T01:36:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680043958139781174",
+    "title": "一篇讲清楚Spring Boot：自动装配、启动器、过滤器、拦截器、设计模式",
+    "url": "https://juejin.cn/post/7680043958139781174",
+    "source": "juejin",
+    "score": 0.12450867,
+    "published_at": "2026-08-31T12:14:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680877878047408154",
+    "title": "内网穿透原来这么简单：Natapp 从注册到公网访问完整教程",
+    "url": "https://juejin.cn/post/7680877878047408154",
+    "source": "juejin",
+    "score": 0.66040534,
+    "published_at": "2026-09-03T03:28:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49532544",
+    "title": "ITA Controlled English (CE)",
+    "url": "https://github.com/ce-store/ce-store",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-02T06:39:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49548600",
+    "title": "Ask HN: Who is using MCP in production?",
+    "url": "https://news.ycombinator.com/item?id=49548600",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-03T11:21:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49555592",
+    "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+    "url": "https://news.ycombinator.com/item?id=49555592",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-09-03T19:38:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49530807",
+    "title": "New type of dice guarantees no tie when deciding who goes first",
+    "url": "https://www.cbc.ca/lite/story/9.7328614",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-02T01:50:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:uyc8ai",
     "title": "Can We Stop With the Uptime Percentages?",
     "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
@@ -4926,76 +4996,6 @@
     "source": "juejin",
     "score": 0.07899857,
     "published_at": "2026-08-28T08:43:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678974488122032180",
-    "title": "用 Vite + Electron + React + Python 重造 3D 服装打版软件",
-    "url": "https://juejin.cn/post/7678974488122032180",
-    "source": "juejin",
-    "score": 0.11503412,
-    "published_at": "2026-08-29T01:13:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679542577553571894",
-    "title": "AI 时代，一个优化 Flutter 的重复代码工具 Deslop",
-    "url": "https://juejin.cn/post/7679542577553571894",
-    "source": "juejin",
-    "score": 3.75649376,
-    "published_at": "2026-08-31T01:00:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679623224678613034",
-    "title": "豆包工作Agent正式发布，直接给到夯。",
-    "url": "https://juejin.cn/post/7679623224678613034",
-    "source": "juejin",
-    "score": 3.1480839,
-    "published_at": "2026-08-30T23:59:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679247792172433423",
-    "title": "看懂大模型架构术语，帮助你理解目前常见的大模型开源架构",
-    "url": "https://juejin.cn/post/7679247792172433423",
-    "source": "juejin",
-    "score": 0.85747642,
-    "published_at": "2026-08-30T11:48:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49505006",
-    "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-    "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-31T02:39:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49483622",
-    "title": "Racter (1984)",
-    "url": "https://www.ubu.com/historical/racter/index.html",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-28T20:11:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446705",
-    "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
-    "url": "https://relm4.org/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-26T10:38:56+00:00",
     "summary": "",
     "key_points": []
   }
