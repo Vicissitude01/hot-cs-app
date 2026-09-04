@@ -1,5 +1,205 @@
 [
   {
+    "id": "lobsters:cywxla",
+    "title": "A preview of the future Intel Architecture documentation",
+    "url": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-04T11:20:30.805-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:67ygvv",
+    "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
+    "url": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-04T10:52:56.023-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rhjedr",
+    "title": "jank reimagines C++ errors and gets an official native package repo",
+    "url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-04T12:47:34.388-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:o8bp2s",
+    "title": "Babashka 1.13.220 gets FFI",
+    "url": "https://blog.michielborkent.nl/babashka-ffi.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-04T13:33:44.332-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49531073",
+    "title": "A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]",
+    "url": "https://www.cs.cmu.edu/~bryant/pubdir/MIT-LCS-TR-259.pdf",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-02T02:36:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49563839",
+    "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+    "url": "https://github.com/hawshemi/lg-c5-webos25-region-change",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-04T12:49:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49567310",
+    "title": "Stop Thinking of LLMs as Next-Token Predictors",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-04T17:09:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49567357",
+    "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+    "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-04T17:12:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49567961",
+    "title": "Hayes AT command set",
+    "url": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-04T17:56:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49555131",
+    "title": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
+    "url": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-03T19:10:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49562219",
+    "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+    "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-04T09:03:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49547415",
+    "title": "People that worked on the same idea for decades",
+    "url": "https://nityasnotes.com/writing/decades/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-03T08:31:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49566193",
+    "title": "deSEC – Free Secure DNS",
+    "url": "https://desec.io/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-09-04T15:38:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49567053",
+    "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+    "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-09-04T16:46:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49567594",
+    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "source": "hackernews",
+    "score": 114.0,
+    "published_at": "2026-09-04T17:29:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49567873",
+    "title": "The Rust React Compiler is now native in Vite",
+    "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-04T17:49:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49568579",
+    "title": "Shutting down our public encrypted DNS",
+    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-04T18:50:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49566788",
+    "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-04T16:24:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49567437",
+    "title": "Show HN: Open-Source eInk Bike Computer",
+    "url": "https://opentrailpaper.com",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-09-04T17:18:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49568506",
+    "title": "Formalizing Fermat's Last Theorem",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-09-04T18:42:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:5y7ije",
     "title": "Imperial Colors Manifesto",
     "url": "https://qum.cz/imperial_colors/",
@@ -4796,206 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-08-31T15:49:27.048-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:x1b4va",
-    "title": "Are We Legacy Computing Yet?",
-    "url": "https://arewelegacycomputingyet.com/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-08-31T14:11:11.239-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679774779231174665",
-    "title": "别再拿大炮打蚊子了，我给 Codex 加了一个自动驾驶",
-    "url": "https://juejin.cn/post/7679774779231174665",
-    "source": "juejin",
-    "score": 0.38187331,
-    "published_at": "2026-08-31T00:47:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49467203",
-    "title": "Euphemisation of Taboo Areas [pdf]",
-    "url": "https://ajmp.uwr.edu.pl/wp-content/uploads/sites/39/2023/12/10_Kleparski.pdf",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-08-27T16:14:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49512856",
-    "title": "The safest job from AI may be writing",
-    "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-    "source": "hackernews",
-    "score": 67.0,
-    "published_at": "2026-08-31T18:12:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49467700",
-    "title": "Reverse engineering my ADHD test",
-    "url": "https://nullpt.rs/reverse-engineering-adhd-test",
-    "source": "hackernews",
-    "score": 118.0,
-    "published_at": "2026-08-27T16:49:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49514895",
-    "title": "How we configured OpenTelemetry logs in Rails",
-    "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-31T21:12:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49424322",
-    "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
-    "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-24T18:58:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49494181",
-    "title": "Lion-man – the oldest confirmed statue ever discovered",
-    "url": "https://en.wikipedia.org/wiki/Lion-man",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-29T23:17:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49514781",
-    "title": "Autonomous (YC F25) is hiring engineers",
-    "url": "https://news.ycombinator.com/item?id=49514781",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-08-31T21:00:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49515662",
-    "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-31T22:32:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49503521",
-    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-    "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-    "source": "hackernews",
-    "score": 140.0,
-    "published_at": "2026-08-30T22:37:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49476239",
-    "title": "'Mad honey' that can stop your heart is being sold online",
-    "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-    "source": "hackernews",
-    "score": 91.0,
-    "published_at": "2026-08-28T09:17:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49514878",
-    "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-    "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-    "source": "hackernews",
-    "score": 304.0,
-    "published_at": "2026-08-31T21:10:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uc8u3l",
-    "title": "The End of Software Engineering",
-    "url": "https://arxiv.org/html/2606.05608v1",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-31T12:53:55.954-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gqk57d",
-    "title": "Privilege escalation from IIS AppPool to NT Authority/SYSTEM",
-    "url": "https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-08-31T07:36:17.179-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xygw0y",
-    "title": "Bootstrappable builds: how and why",
-    "url": "https://lwn.net/Articles/1088279/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-31T12:03:47.803-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qtakqk",
-    "title": "C++26: Standard Library Hardening Experiments",
-    "url": "https://www.cppstories.com/2026/hardening-experiments/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-31T12:52:08.123-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tkrcrg",
-    "title": "Kale: A Transformation-Safe Spreadsheet System",
-    "url": "https://arxiv.org/abs/2608.26345",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-31T13:32:12.638-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:q2zziq",
-    "title": "Any user process can escalate to root",
-    "url": "https://www.vesto.me/2026/08/31/any-process-escalate-root.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-31T08:46:41.291-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:49hbhi",
-    "title": "Cancelation Terminology",
-    "url": "https://matklad.github.io/2026/08/31/cancelation-terminology.html",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-08-31T09:19:48.353-05:00",
     "summary": "",
     "key_points": []
   }
