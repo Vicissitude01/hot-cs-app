@@ -1,5 +1,135 @@
 [
   {
+    "id": "lobsters:f4jtaf",
+    "title": "Exploring Mojo’s raw pointer type",
+    "url": "https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-04T16:02:11.093-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fiirrs",
+    "title": "Stop Thinking of LLMs as Next-Token Predictors",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-04T14:46:18.246-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bqfbqk",
+    "title": "deft: A gradual type system for Janet",
+    "url": "https://codeberg.org/zzkt/deft",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-04T11:51:46.763-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5iacaa",
+    "title": "FLT: Anthropic has beaten me to it",
+    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-09-04T14:11:37.414-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49516691",
+    "title": "Deadpan Photography: Enjoying the Pretence",
+    "url": "https://photoni.st/index.php/2026/07/12/deadpan-photography-enjoying-the-pretence/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-01T00:59:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49569702",
+    "title": "How to Create a Tor Exit Node",
+    "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-04T20:16:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49512834",
+    "title": "The Wormhole Hall of Shame",
+    "url": "https://rznicolet.com/2026/07/05/wormhole-hall-of-shame/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-31T18:10:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49534025",
+    "title": "Fomu An FPGA board that fits inside your USB port",
+    "url": "https://www.crowdsupply.com/sutajio-kosagi/fomu",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-02T09:48:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49568697",
+    "title": "Fermat's Last Theorem in Lean 4",
+    "url": "https://github.com/anthropics/fermats-last-theorem",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-09-04T18:57:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49568828",
+    "title": "Government Rails Site Hit Hours After CVE Patch",
+    "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-09-04T19:06:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49569663",
+    "title": "An open DNS recursive service for free security and high privacy",
+    "url": "https://quad9.net/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-04T20:13:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49569366",
+    "title": "Can AI design circuit boards yet?",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-09-04T19:48:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49569896",
+    "title": "Statichost.eu – 100% European static site hosting",
+    "url": "https://www.statichost.eu/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-04T20:34:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:cywxla",
     "title": "A preview of the future Intel Architecture documentation",
     "url": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
@@ -4866,136 +4996,6 @@
     "source": "v2ex",
     "score": 96.0,
     "published_at": "2026-08-31T03:58:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238365",
-    "title": "礼品卡咋买的？ 现在支付宝 pockyt 全部缺货，有其他靠谱渠道吗",
-    "url": "https://www.v2ex.com/t/1238365",
-    "source": "v2ex",
-    "score": 100.0,
-    "published_at": "2026-08-31T04:54:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238361",
-    "title": "路由器坏了，佬们能否推荐一款",
-    "url": "https://www.v2ex.com/t/1238361",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-08-31T04:33:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680025405151084571",
-    "title": "登录页还在用渐变？我一口气做了 5 个能摸的背景动效：吹蒲公英、滴墨染水、点熔岩闷裂",
-    "url": "https://juejin.cn/post/7680025405151084571",
-    "source": "juejin",
-    "score": 0.52855221,
-    "published_at": "2026-08-31T09:13:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679078816653262900",
-    "title": "全项目 Skills 适配：把「会写代码的 Agent」变成「会按你们规范干活的同事」",
-    "url": "https://juejin.cn/post/7679078816653262900",
-    "source": "juejin",
-    "score": 0.05943433,
-    "published_at": "2026-08-29T08:04:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680024375572021286",
-    "title": "曾经安卓开发人手一个的 EventBus，为什么现在没人爱用了？",
-    "url": "https://juejin.cn/post/7680024375572021286",
-    "source": "juejin",
-    "score": 0.54671226,
-    "published_at": "2026-08-31T07:58:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49446091",
-    "title": "Visualizing Combos in Judo in R",
-    "url": "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-08-26T09:21:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49449356",
-    "title": "Snakes and Ladders",
-    "url": "https://entropicthoughts.com/snakes-and-ladders",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-26T14:00:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49516699",
-    "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
-    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-01T01:01:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49516209",
-    "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
-    "url": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-08-31T23:46:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49516199",
-    "title": "Evidence of Fraud in an Influential Study About Procrastination",
-    "url": "https://datacolada.org/138",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-08-31T23:45:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49515830",
-    "title": "Run macOS Software on Linux",
-    "url": "https://www.darlinghq.org/",
-    "source": "hackernews",
-    "score": 98.0,
-    "published_at": "2026-08-31T22:53:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:51zi5s",
-    "title": "What is the real maximum length of a DNS name? (2012)",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20120412-00/?p=7873",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-31T12:16:18.006-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gt1cow",
-    "title": "V0.1.0.0 of ghcup-gtk released",
-    "url": "https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-31T15:49:27.048-05:00",
     "summary": "",
     "key_points": []
   }
