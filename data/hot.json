@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:nr3ucr",
+    "title": "WebDev intro course: what small changes towards progressive enhancement?",
+    "url": "https://lobste.rs/s/nr3ucr",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-03T21:11:32.522-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:r58i7h",
+    "title": "Lua-async",
+    "url": "https://neovim.io/doc/user/lua-async/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-03T23:44:04.467-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rntyvm",
+    "title": "The asteroid currently hitting frontend web development",
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-03T22:40:21.698-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239222",
+    "title": "你有哪些工作上的能力，是 AI 替代不了的？",
+    "url": "https://www.v2ex.com/t/1239222",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-09-03T06:56:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239275",
+    "title": "感觉现在关于 github copilot 的讨论少了，还有人在主力使用的吗？想听听实际体验",
+    "url": "https://www.v2ex.com/t/1239275",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-09-03T09:18:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239212",
+    "title": "大家对 25 岁这个年龄有什么看法",
+    "url": "https://www.v2ex.com/t/1239212",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-09-03T06:31:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239413",
+    "title": "为什么一般政府网站就会比较 low，把你看到的烂站贴在这里",
+    "url": "https://www.v2ex.com/t/1239413",
+    "source": "v2ex",
+    "score": 102.0,
+    "published_at": "2026-09-04T02:36:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239373",
+    "title": "医院术后漏取纱布 后续更新",
+    "url": "https://www.v2ex.com/t/1239373",
+    "source": "v2ex",
+    "score": 102.0,
+    "published_at": "2026-09-04T01:05:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239359",
+    "title": "厉害了 Tibo 每天都送重置卡 直到 Astra 全量铺开",
+    "url": "https://www.v2ex.com/t/1239359",
+    "source": "v2ex",
+    "score": 114.0,
+    "published_at": "2026-09-03T23:29:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239341",
+    "title": "有翻译需求的小伙伴看过来, 做了一个实时翻译和音视频转文字的 APP, 附送 50 个永久 Pro 兑换码",
+    "url": "https://www.v2ex.com/t/1239341",
+    "source": "v2ex",
+    "score": 132.0,
+    "published_at": "2026-09-03T15:11:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239282",
+    "title": "都没人讨论 小米 18 Fold",
+    "url": "https://www.v2ex.com/t/1239282",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-09-03T09:35:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239372",
+    "title": "Mole 出 Mac 版后，用户教会了我做产品",
+    "url": "https://www.v2ex.com/t/1239372",
+    "source": "v2ex",
+    "score": 344.0,
+    "published_at": "2026-09-04T01:02:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680899684959272970",
+    "title": "Bun 真的能取代 Node.js 吗？",
+    "url": "https://juejin.cn/post/7680899684959272970",
+    "source": "juejin",
+    "score": 0.47010205,
+    "published_at": "2026-09-03T02:50:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681171487517524002",
+    "title": "美版豆包又更新了！Gemini 3.8Flash是真Flash！",
+    "url": "https://juejin.cn/post/7681171487517524002",
+    "source": "juejin",
+    "score": 0.60000837,
+    "published_at": "2026-09-03T09:49:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680360072334655515",
+    "title": "原来 Claude Code 最厉害的工具，一行代码都不写",
+    "url": "https://juejin.cn/post/7680360072334655515",
+    "source": "juejin",
+    "score": 0.14347575,
+    "published_at": "2026-09-01T08:03:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680471403955191814",
+    "title": "一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）",
+    "url": "https://juejin.cn/post/7680471403955191814",
+    "source": "juejin",
+    "score": 0.64177756,
+    "published_at": "2026-09-02T02:39:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681170932347830310",
+    "title": "🚀 用 17 行代码给 UniApp 加上全局登录拦截",
+    "url": "https://juejin.cn/post/7681170932347830310",
+    "source": "juejin",
+    "score": 0.72054652,
+    "published_at": "2026-09-03T10:03:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680500716225871910",
+    "title": "别让 Codex 一口气写完整个前端：5 组 Skills，把页面、逻辑、测试和构建拆清楚",
+    "url": "https://juejin.cn/post/7680500716225871910",
+    "source": "juejin",
+    "score": 0.2482574,
+    "published_at": "2026-09-02T01:27:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49515966",
+    "title": "Sing-song: a speakable encoding for long numbers and keys",
+    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-08-31T23:14:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49522611",
+    "title": "Virtual Threads for a scripting language in Java 8 without Loom",
+    "url": "https://jactl.io/blog/2026/08/28/jactl-virtual-threads",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-01T14:36:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49560260",
+    "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+    "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-09-04T03:40:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49549148",
+    "title": "Show HN: Reactor Atlas",
+    "url": "https://reactoratlas.com",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-03T12:33:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49559992",
+    "title": "A mysterious kidney disease has arrived in Texas",
+    "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-04T02:54:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49559901",
+    "title": "From Hookswitch to Grave",
+    "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-04T02:40:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49520170",
+    "title": "Inside Colombia's Cocaine Factories",
+    "url": "https://www.economist.com/interactive/1843/2026/08/28/inside-colombias-cocaine-factories",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-01T10:41:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49507072",
+    "title": "How an MIT research project became the Julia programming language",
+    "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-08-31T08:26:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49559522",
+    "title": "Project Xanadu: Even More Hindsight",
+    "url": "https://gwern.net/xanadu",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-09-04T01:45:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1239093",
     "title": "可稳定的 ChatGPT 的梯子求助~",
     "url": "https://www.v2ex.com/t/1239093",
@@ -4726,276 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:k1tbyte/Wand-Enhancer",
-    "title": "Wand-Enhancer",
-    "url": "https://github.com/k1tbyte/Wand-Enhancer",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49505217",
-    "title": "Transfer files over an Ethernet patch cable",
-    "url": "https://maurycyz.com/misc/etherfiles/",
-    "source": "hackernews",
-    "score": 109.0,
-    "published_at": "2026-08-31T03:19:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49508290",
-    "title": "A CVE Dispute",
-    "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-31T11:13:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49505310",
-    "title": "OpenClaw 2.0, Accidentally",
-    "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-    "source": "hackernews",
-    "score": 110.0,
-    "published_at": "2026-08-31T03:38:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49467053",
-    "title": "Formalization of the Solution to the Hopf Problem",
-    "url": "https://github.com/plby/HopfProblem",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-08-27T16:04:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49507121",
-    "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
-    "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-31T08:33:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49463231",
-    "title": "What 2000 Buried Underpants Revealed About Where Soil Is Most Alive",
-    "url": "https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-08-27T11:47:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49485020",
-    "title": "Highlighting My Code Based on How Much I Care",
-    "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-08-28T22:29:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49506182",
-    "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
-    "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-    "source": "hackernews",
-    "score": 179.0,
-    "published_at": "2026-08-31T06:10:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49506142",
-    "title": "uv: Deduplicate all files in the wheel cache",
-    "url": "https://github.com/astral-sh/uv/pull/21327",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-08-31T06:03:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49506819",
-    "title": "Breaking Claude Code Opus 5 Auto Mode",
-    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-    "source": "hackernews",
-    "score": 96.0,
-    "published_at": "2026-08-31T07:49:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49507822",
-    "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-    "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-    "source": "hackernews",
-    "score": 95.0,
-    "published_at": "2026-08-31T09:59:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kmb1md",
-    "title": "Introducing wrapture",
-    "url": "https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-08-30T22:27:14.573-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gtarrm",
-    "title": "All the Little Things (2014)",
-    "url": "https://www.youtube.com/watch?v=8bZh5LMaSmE",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-30T20:22:52.270-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lssato",
-    "title": "Rootless Docker and Its Hidden Security Trade-Offs",
-    "url": "https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-08-30T22:12:07.084-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uueocw",
-    "title": "Repeating Ourselves Less with M4",
-    "url": "https://nemin.hu/httpd-macros/index.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-08-30T23:10:47.586-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238241",
-    "title": "一直以为教培行业真的凉了，没想到还有很多人在偷偷做，赚的也不少",
-    "url": "https://www.v2ex.com/t/1238241",
-    "source": "v2ex",
-    "score": 100.0,
-    "published_at": "2026-08-30T16:20:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238277",
-    "title": "骨子里是悲观的，有没有一些悲情的书/音乐/电影推荐？",
-    "url": "https://www.v2ex.com/t/1238277",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-08-31T01:31:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238282",
-    "title": "github 开启了 2fa , 但是手机系统升级了，秘钥丢了。。。怎么办",
-    "url": "https://www.v2ex.com/t/1238282",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-08-31T01:42:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238262",
-    "title": "“万 1 免 5”股票 etf 低佣大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.31 日~9.7 日]",
-    "url": "https://www.v2ex.com/t/1238262",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-08-31T00:34:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238336",
-    "title": "大家对孩子跟着媳妇姓怎么看",
-    "url": "https://www.v2ex.com/t/1238336",
-    "source": "v2ex",
-    "score": 282.0,
-    "published_at": "2026-08-31T03:10:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679542577553506358",
-    "title": "栗子前端技术周刊第 144 期 - Rspack 2.2、pnpm 12、Solid 2.0 RC...",
-    "url": "https://juejin.cn/post/7679542577553506358",
-    "source": "juejin",
-    "score": 2.54345685,
-    "published_at": "2026-08-31T00:47:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678889149037248522",
-    "title": "2026 数据库 CI/CD 工具大盘点：4 款热门工具怎么选？",
-    "url": "https://juejin.cn/post/7678889149037248522",
-    "source": "juejin",
-    "score": 0.07118196,
-    "published_at": "2026-08-28T08:04:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678988101557420038",
-    "title": "Electron 集成 Drizzle + SQLite 踩坑笔记",
-    "url": "https://juejin.cn/post/7678988101557420038",
-    "source": "juejin",
-    "score": 0.09449661,
-    "published_at": "2026-08-29T04:58:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678975158596894729",
-    "title": "别再背 Chain、Agent、Memory 了：用一条“智能流水线”学会 LangChain",
-    "url": "https://juejin.cn/post/7678975158596894729",
-    "source": "juejin",
-    "score": 0.14784606,
-    "published_at": "2026-08-29T03:09:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679222800792338483",
-    "title": "OpenAI 断供 Cursor：这不是商业决定，是战争行为",
-    "url": "https://juejin.cn/post/7679222800792338483",
-    "source": "juejin",
-    "score": 0.15851679,
-    "published_at": "2026-08-29T11:25:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7678906688713867299",
-    "title": "为什么只靠 Prompt 让 LLM 输出 JSON 不可靠",
-    "url": "https://juejin.cn/post/7678906688713867299",
-    "source": "juejin",
-    "score": 0.07899857,
-    "published_at": "2026-08-28T08:43:08+00:00",
     "summary": "",
     "key_points": []
   }
