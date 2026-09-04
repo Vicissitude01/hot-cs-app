@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:ibn0da",
+    "title": "Mongotar: Files to prompt, and back",
+    "url": "https://github.com/sebastiancarlos/mongotar",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-04T17:14:35.566-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239398",
+    "title": "请教下今天我们的大 A 暴涨的原因是什么",
+    "url": "https://www.v2ex.com/t/1239398",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-09-04T02:19:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49571038",
+    "title": "Christmas Village shoppers no longer will be allowed to enter booths",
+    "url": "https://www.phillyvoice.com/christmas-village-booths-ada-compliance/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-04T22:39:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49570597",
+    "title": "Icons as a Service",
+    "url": "https://nravic.com/blog/images/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-04T21:44:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49570328",
+    "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+    "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-04T21:16:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49529161",
+    "title": "Decompiler Explorer",
+    "url": "https://dogbolt.org",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-01T22:33:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49571047",
+    "title": "Can guitar frets perform multiplication?",
+    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-04T22:40:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49570772",
+    "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+    "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+    "source": "hackernews",
+    "score": 93.0,
+    "published_at": "2026-09-04T22:03:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49546284",
+    "title": "RSA-260 Factorized",
+    "url": "https://twitter.com/penlume/status/2095372672356212876",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-09-03T05:35:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49570545",
+    "title": "GPT-6 Astra on OpenRouter",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-09-04T21:39:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49570669",
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "source": "hackernews",
+    "score": 114.0,
+    "published_at": "2026-09-04T21:52:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:f4jtaf",
     "title": "Exploring Mojo’s raw pointer type",
     "url": "https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type",
@@ -4886,116 +4996,6 @@
     "source": "juejin",
     "score": 0.42288043,
     "published_at": "2026-08-31T08:59:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679753075939524623",
-    "title": "一文弄懂 Agent Harness 与 Agent Runtime 的区别",
-    "url": "https://juejin.cn/post/7679753075939524623",
-    "source": "juejin",
-    "score": 0.42110597,
-    "published_at": "2026-08-31T06:32:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680023541135507497",
-    "title": "微信内部的生产级模型，居然开源了",
-    "url": "https://juejin.cn/post/7680023541135507497",
-    "source": "juejin",
-    "score": 0.70890609,
-    "published_at": "2026-08-31T17:39:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680074643861291034",
-    "title": "OpenJDK 全面禁止 AI 生成代码！",
-    "url": "https://juejin.cn/post/7680074643861291034",
-    "source": "juejin",
-    "score": 4.40799752,
-    "published_at": "2026-09-01T01:20:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680079424891617332",
-    "title": "ValidX vs Apache Commons Validator：功能与性能对比",
-    "url": "https://juejin.cn/post/7680079424891617332",
-    "source": "juejin",
-    "score": 13.73398187,
-    "published_at": "2026-09-01T01:51:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:b75vrk",
-    "title": "CSS is Still Awesome",
-    "url": "https://jasonsantamaria.com/blog/css-is-still-awesome",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-08-31T12:43:18.118-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jbgnwk",
-    "title": "Janet 1.42.0",
-    "url": "https://github.com/janet-lang/janet/releases/tag/v1.42.0",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-08-31T19:05:30.618-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238382",
-    "title": "我认为苹果是 AI 时代最大赢家，核心在 Mac",
-    "url": "https://www.v2ex.com/t/1238382",
-    "source": "v2ex",
-    "score": 82.0,
-    "published_at": "2026-08-31T05:56:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238326",
-    "title": "tibo 真是疯了， codex 刚刚又重置了感觉 pro20x 这个月白买了",
-    "url": "https://www.v2ex.com/t/1238326",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-08-31T02:51:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238446",
-    "title": "mac 本地部署 llm 不是最佳选择",
-    "url": "https://www.v2ex.com/t/1238446",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-08-31T09:00:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238315",
-    "title": "孙割的羊毛可以薅吗？",
-    "url": "https://www.v2ex.com/t/1238315",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-08-31T02:35:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238355",
-    "title": "大家一年的 token 费用大概预估在多少钱？\r\n以后大家能接受一年多少支出在 ai 上",
-    "url": "https://www.v2ex.com/t/1238355",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-08-31T03:58:24+00:00",
     "summary": "",
     "key_points": []
   }
