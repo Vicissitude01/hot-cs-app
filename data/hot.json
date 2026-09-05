@@ -1,5 +1,205 @@
 [
   {
+    "id": "lobsters:6du6h3",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-05T06:50:24.422-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gbv3vr",
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-05T05:57:04.642-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:grm0m9",
+    "title": "Knowing Where to Type ‘Zero’ (2015)",
+    "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-05T06:12:59.204-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:p5w5j6",
+    "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+    "url": "https://arxiv.org/abs/2607.24888",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-05T05:58:49.333-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239618",
+    "title": "GPT-6 Astra Ultra 消耗有点大",
+    "url": "https://www.v2ex.com/t/1239618",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-09-05T00:43:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239651",
+    "title": "梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块",
+    "url": "https://www.v2ex.com/t/1239651",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-09-05T03:06:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239673",
+    "title": "搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度",
+    "url": "https://www.v2ex.com/t/1239673",
+    "source": "v2ex",
+    "score": 72.0,
+    "published_at": "2026-09-05T06:04:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681133923887824948",
+    "title": "Rslib 1.0 正式发布：面向多场景的 JavaScript 库开发工具",
+    "url": "https://juejin.cn/post/7681133923887824948",
+    "source": "juejin",
+    "score": 0.20995551,
+    "published_at": "2026-09-03T08:56:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680812218214072354",
+    "title": "面试官让我用 AI 重构一个 8 年陈的 React 组件——他说他不看代码，只看我会不会拆",
+    "url": "https://juejin.cn/post/7680812218214072354",
+    "source": "juejin",
+    "score": 0.19470655,
+    "published_at": "2026-09-02T11:00:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:nvm-sh/nvm",
+    "title": "nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:WorldFlowAI/everything-claude-code",
+    "title": "everything-claude-code",
+    "url": "https://github.com/WorldFlowAI/everything-claude-code",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:BraveOPotato/FckSignups",
+    "title": "FckSignups",
+    "url": "https://github.com/BraveOPotato/FckSignups",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:humanlayer/skills",
+    "title": "skills",
+    "url": "https://github.com/humanlayer/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ruvnet/ruflo",
+    "title": "ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49575176",
+    "title": "LG TVs aren't the only ones spying on you [video]",
+    "url": "https://www.youtube.com/watch?v=IvFu343KNek",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-05T10:36:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49555121",
+    "title": "'Fakers' by Rory Cormac Review",
+    "url": "https://www.historytoday.com/archive/review/fakers-rory-cormac-review",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-03T19:10:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49575034",
+    "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+    "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-09-05T10:14:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49516962",
+    "title": "Kale: A Transformation-Safe Spreadsheet System",
+    "url": "https://arxiv.org/abs/2608.26345",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-01T01:42:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49548596",
+    "title": "Sky Map 2000 – Star Atlas and Planetarium",
+    "url": "https://skymap2000.com/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-03T11:20:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49574167",
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "source": "hackernews",
+    "score": 181.0,
+    "published_at": "2026-09-05T07:52:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:2eai0v",
     "title": "AI it's not bad but it's a tool",
     "url": "https://lobste.rs/s/2eai0v",
@@ -4796,206 +4996,6 @@
     "source": "hackernews",
     "score": 6.0,
     "published_at": "2026-09-01T16:34:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49523473",
-    "title": "Keenable SELECT: an agent that searches the web in SQL",
-    "url": "https://keenableai.github.io/select-showcase/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-01T15:41:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49509655",
-    "title": "We Are Rebuilding Monica",
-    "url": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-08-31T13:37:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49491398",
-    "title": "Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation",
-    "url": "https://ucsfhealthcardiology.ucsf.edu/facstaff/spotlight/dr-melvin-scheinman-40th-anniversary-catheter-ablation",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-29T16:52:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49521623",
-    "title": "Io_uring Without Readahead",
-    "url": "https://frn.sh/io-uring/",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-09-01T13:19:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49524704",
-    "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-    "url": "https://news.ycombinator.com/item?id=49524704",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-01T17:00:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49524447",
-    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-    "url": "https://github.com/carloslfu/slotstream",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-01T16:42:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49522897",
-    "title": "Ask HN: Who is hiring? (September 2026)",
-    "url": "https://news.ycombinator.com/item?id=49522897",
-    "source": "hackernews",
-    "score": 97.0,
-    "published_at": "2026-09-01T15:01:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49523387",
-    "title": "Ambient CSS v3 – Blender meets CSS",
-    "url": "https://ambientcss.vercel.app/",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-09-01T15:35:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49523754",
-    "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-    "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
-    "source": "hackernews",
-    "score": 171.0,
-    "published_at": "2026-09-01T15:55:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vbu5ay",
-    "title": "Coherence and orphan instance rules",
-    "url": "https://osa1.net/posts/2026-08-29-coherence-and-orphans.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-01T04:44:22.459-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:edj52m",
-    "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-    "url": "https://css-tricks.com/css-random-function-polyfill/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-01T04:16:39.475-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zx92fc",
-    "title": "This Month in KDE Linux: August 2026",
-    "url": "https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-01T04:30:06.302-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1malyo",
-    "title": "Fine, I’ll build my own text editor",
-    "url": "https://dbushell.com/2026/09/01/text-editor/",
-    "source": "lobsters",
-    "score": 20.0,
-    "published_at": "2026-09-01T06:18:22.975-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238642",
-    "title": "一直不理解 skills， 这不就是提示词吗？",
-    "url": "https://www.v2ex.com/t/1238642",
-    "source": "v2ex",
-    "score": 136.0,
-    "published_at": "2026-09-01T05:08:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238661",
-    "title": "买车需求。",
-    "url": "https://www.v2ex.com/t/1238661",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-09-01T06:15:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238599",
-    "title": "下周四到周日，三天去九寨沟+乐山，安排合理吗？",
-    "url": "https://www.v2ex.com/t/1238599",
-    "source": "v2ex",
-    "score": 158.0,
-    "published_at": "2026-09-01T02:58:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680375814231605299",
-    "title": "为什么越来越多人用 OpenSearch？",
-    "url": "https://juejin.cn/post/7680375814231605299",
-    "source": "juejin",
-    "score": 2.17822238,
-    "published_at": "2026-09-01T06:28:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680065840814260224",
-    "title": "从零搭建你的 AI 编程工作流",
-    "url": "https://juejin.cn/post/7680065840814260224",
-    "source": "juejin",
-    "score": 4.73759035,
-    "published_at": "2026-08-31T05:51:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680105138455855158",
-    "title": "🚀 2026 年 8 月 GitHub 十大热门项目排行榜 🔥",
-    "url": "https://juejin.cn/post/7680105138455855158",
-    "source": "juejin",
-    "score": 1.48977733,
-    "published_at": "2026-09-01T03:25:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680143535669198858",
-    "title": "我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题",
-    "url": "https://juejin.cn/post/7680143535669198858",
-    "source": "juejin",
-    "score": 1.81916081,
-    "published_at": "2026-09-01T03:30:36+00:00",
     "summary": "",
     "key_points": []
   }
