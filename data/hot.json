@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:f2ele4",
+    "title": "C++26: std::hive",
+    "url": "https://www.sandordargo.com/blog/2026/09/02/cpp26-hive",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-05T13:46:39.834-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kcklzg",
+    "title": "Anatomy of a Test",
+    "url": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-05T12:50:08.996-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dxjvcc",
+    "title": "It matters who teaches you",
+    "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-05T12:47:34.482-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49539110",
+    "title": "Delidded Intel I9-14900KS CT Scan",
+    "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-02T16:56:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49552615",
+    "title": "Steffen's Polyhedron – Greg Egan",
+    "url": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-03T16:24:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49576343",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-09-05T13:31:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49578280",
+    "title": "Learn Programming with OCaml",
+    "url": "https://usr.lmf.cnrs.fr/lpo/",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-09-05T16:45:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49578866",
+    "title": "The Luxuries in Life",
+    "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+    "source": "hackernews",
+    "score": 160.0,
+    "published_at": "2026-09-05T17:46:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:trzpsg",
     "title": "Seeking Designer for a Small Company",
     "url": "https://lobste.rs/s/trzpsg",
@@ -4916,86 +4996,6 @@
     "source": "hackernews",
     "score": 79.0,
     "published_at": "2026-09-01T20:39:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49524469",
-    "title": "Show HN: Newton's Orchard – Browser-based space/gravity playground",
-    "url": "https://newtonsorchard.app",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-01T16:43:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49448019",
-    "title": "Specifications Don't Exist (2025)",
-    "url": "https://www.galois.com/articles/specifications-dont-exist",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-08-26T12:40:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49528366",
-    "title": "Fluorescent lamps (don't) have ears",
-    "url": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-01T21:19:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49479673",
-    "title": "Make a Portable Wide-screen Mechanical TV",
-    "url": "https://spectrum.ieee.org/mechanical-tv-2677767814",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-28T15:06:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49527573",
-    "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-    "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-    "source": "hackernews",
-    "score": 124.0,
-    "published_at": "2026-09-01T20:19:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49527595",
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "url": "https://openai.com/index/path-to-astra/",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-09-01T20:20:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49528057",
-    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-    "url": "https://hnmatchmaker.com/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-01T20:53:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49527396",
-    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-    "source": "hackernews",
-    "score": 175.0,
-    "published_at": "2026-09-01T20:07:57+00:00",
     "summary": "",
     "key_points": []
   }
