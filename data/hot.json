@@ -1,5 +1,195 @@
 [
   {
+    "id": "lobsters:2eai0v",
+    "title": "AI it's not bad but it's a tool",
+    "url": "https://lobste.rs/s/2eai0v",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-04T15:47:42.822-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:duuz8z",
+    "title": "Bespoke: A Programming Language for People Who Say Please",
+    "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-05T02:13:32.661-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fxccx9",
+    "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
+    "url": "https://lobste.rs/s/fxccx9",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-05T02:09:14.682-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239628",
+    "title": "20CM 之内的免供电单风扇能带 4K 的显卡有哪些呢？",
+    "url": "https://www.v2ex.com/t/1239628",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-09-05T01:07:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239655",
+    "title": "我又又又重构了我的站点",
+    "url": "https://www.v2ex.com/t/1239655",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-09-05T03:42:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239571",
+    "title": "Scout 是不是一个常用语",
+    "url": "https://www.v2ex.com/t/1239571",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-09-04T11:03:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239638",
+    "title": "有没有成色好的二手笔记本网店推荐",
+    "url": "https://www.v2ex.com/t/1239638",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-09-05T01:57:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239617",
+    "title": "GPT-6 Astra - 新的 O1 时刻",
+    "url": "https://www.v2ex.com/t/1239617",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-09-05T00:17:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239616",
+    "title": "Claude 是不是又重置了？",
+    "url": "https://www.v2ex.com/t/1239616",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-09-05T00:09:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239542",
+    "title": "微软真的是大善人",
+    "url": "https://www.v2ex.com/t/1239542",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-09-04T08:58:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239623",
+    "title": "现在做什么技术的最容易找工作",
+    "url": "https://www.v2ex.com/t/1239623",
+    "source": "v2ex",
+    "score": 70.0,
+    "published_at": "2026-09-05T01:03:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680766055174651947",
+    "title": "🎃 前端学了 Next.js，后端该学啥？NestJS 就是 Node 版的蜜雪冰城",
+    "url": "https://juejin.cn/post/7680766055174651947",
+    "source": "juejin",
+    "score": 0.21109853,
+    "published_at": "2026-09-02T14:45:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681475476906950691",
+    "title": "GPT-6 发布当晚，三大 AI 集体宕机 4 小时——我扒完时间线，发现最该慌的不是宕机",
+    "url": "https://juejin.cn/post/7681475476906950691",
+    "source": "juejin",
+    "score": 0.78105794,
+    "published_at": "2026-09-04T11:53:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49573455",
+    "title": "Why are European countries moving their gold out of North America?",
+    "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+    "source": "hackernews",
+    "score": 119.0,
+    "published_at": "2026-09-05T05:52:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49535024",
+    "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+    "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-02T12:05:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49573680",
+    "title": "Git hosting that never leaves Europe",
+    "url": "https://pushin.eu",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-05T06:31:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49537340",
+    "title": "The Highest Point in the Netherlands",
+    "url": "https://ipv6.hanazo.no/posts/anniversary-personal/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-02T14:58:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49572875",
+    "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+    "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-05T03:38:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49529179",
+    "title": "I Want a Wife (1971) [pdf]",
+    "url": "https://www.sevanoland.com/uploads/1/1/8/0/118081022/_brady_i_want_a_wife.pdf",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-01T22:34:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:naoawd",
     "title": "MISRust: Mapping MISRA-C++ Coding Guidelines to the Rust Programming Language",
     "url": "https://arxiv.org/abs/2605.23490",
@@ -4806,196 +4996,6 @@
     "source": "juejin",
     "score": 1.81916081,
     "published_at": "2026-09-01T03:30:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:averygan/reclip",
-    "title": "reclip",
-    "url": "https://github.com/averygan/reclip",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:VoltAgent/awesome-design-md",
-    "title": "awesome-design-md",
-    "url": "https://github.com/VoltAgent/awesome-design-md",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:browser-use/video-use",
-    "title": "video-use",
-    "url": "https://github.com/browser-use/video-use",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:3b1b/manim",
-    "title": "manim",
-    "url": "https://github.com/3b1b/manim",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:debpalash/VoiceStudio",
-    "title": "VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:iv-org/invidious",
-    "title": "invidious",
-    "url": "https://github.com/iv-org/invidious",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Imbad0202/academic-research-skills",
-    "title": "academic-research-skills",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Gitlawb/openclaude",
-    "title": "openclaude",
-    "url": "https://github.com/Gitlawb/openclaude",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49484004",
-    "title": "Borges Labyrinth in Venice reopens to the public",
-    "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
-    "source": "hackernews",
-    "score": 90.0,
-    "published_at": "2026-08-28T20:41:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49460419",
-    "title": "Flat vs. segmented memory – it's recursive",
-    "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-08-27T06:02:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49441609",
-    "title": "Polishing Cloth Updated",
-    "url": "https://512pixels.net/2026/08/polishing-cloth-updated/",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-08-25T22:34:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49505584",
-    "title": "Roget's Thesaurus",
-    "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-08-31T04:29:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49519902",
-    "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
-    "url": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-09-01T09:46:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49520896",
-    "title": "Tim Cook Sold Out Steve Jobs",
-    "url": "https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/",
-    "source": "hackernews",
-    "score": 104.0,
-    "published_at": "2026-09-01T12:12:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49492094",
-    "title": "Fractal Jittered Voronoi Partitions",
-    "url": "https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-08-29T18:24:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49518877",
-    "title": "CollectWise (YC F24) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-01T07:01:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49517297",
-    "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-    "url": "https://github.com/fregacmols/RotaryCell",
-    "source": "hackernews",
-    "score": 101.0,
-    "published_at": "2026-09-01T02:29:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49517624",
-    "title": "Restroom Archive",
-    "url": "https://restroomarchive.com",
-    "source": "hackernews",
-    "score": 187.0,
-    "published_at": "2026-09-01T03:23:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49516059",
-    "title": "Tmp.0ut Volume 5",
-    "url": "https://tmpout.sh/5/",
-    "source": "hackernews",
-    "score": 120.0,
-    "published_at": "2026-08-31T23:26:08+00:00",
     "summary": "",
     "key_points": []
   }
