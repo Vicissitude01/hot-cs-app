@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:qnnvq2",
+    "title": "Large-Language Models as a Cognitive Virus",
+    "url": "https://arxiv.org/abs/2609.03344",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-05T16:08:36.515-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xnqxqe",
+    "title": "The revolt of the reader",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-05T16:28:47.233-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239671",
+    "title": "外接显示器时，你会把 Mac 打开作为副屏用吗？",
+    "url": "https://www.v2ex.com/t/1239671",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-09-05T06:01:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580778",
+    "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
+    "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-05T21:17:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580702",
+    "title": "Lazygit",
+    "url": "https://lazygit.dev/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-05T21:08:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580325",
+    "title": "Isar Aerospace launch into orbit [video]",
+    "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-09-05T20:25:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49548852",
+    "title": "How Swiss tables work in Go built-in map",
+    "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-03T11:59:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49549778",
+    "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+    "url": "https://github.com/iczelia/balrogg",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-03T13:37:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580369",
+    "title": "Private German rocket makes history, reaches orbit from European soil",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+    "source": "hackernews",
+    "score": 167.0,
+    "published_at": "2026-09-05T20:31:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580329",
+    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+    "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-05T20:25:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580164",
+    "title": "LLMs as a Cognitive Virus",
+    "url": "https://arxiv.org/abs/2609.03344",
+    "source": "hackernews",
+    "score": 98.0,
+    "published_at": "2026-09-05T20:02:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:f2ele4",
     "title": "C++26: std::hive",
     "url": "https://www.sandordargo.com/blog/2026/09/02/cpp26-hive",
@@ -4886,116 +4996,6 @@
     "source": "lobsters",
     "score": 4.0,
     "published_at": "2026-09-01T12:53:50.092-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tvoo4x",
-    "title": "Flat vs segmented memory -- it's recursive",
-    "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-01T19:01:33.423-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238549",
-    "title": "父母年纪大了，想给他们买点补品或者保健品，有什么推荐么",
-    "url": "https://www.v2ex.com/t/1238549",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-09-01T00:57:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49529567",
-    "title": "Improving our alignment and security efforts",
-    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-01T23:12:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49489098",
-    "title": "Building Autonomous Goal Loops That Deliver",
-    "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-29T11:49:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49482099",
-    "title": "Sonic Pi",
-    "url": "https://sonic-pi.net/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-08-28T17:51:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49529132",
-    "title": "My local model setup on an M4 Pro Mac Mini",
-    "url": "https://lws.io/blog/my-local-model-setup/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-01T22:30:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49529898",
-    "title": "The efficient frontier of LLM inference",
-    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-01T23:48:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:em1whz",
-    "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy",
-    "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-01T17:42:12.660-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:potdi9",
-    "title": "RISC-V interpreter from the future",
-    "url": "https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-01T17:32:54.731-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hiry5f",
-    "title": "A community that works together, builds together",
-    "url": "https://aerynos.com/blog/2026/08/31/a-community-that-works-together-builds-together/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-01T09:44:47.850-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49527879",
-    "title": "Dyson CameraJet electric toothbrush",
-    "url": "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue",
-    "source": "hackernews",
-    "score": 79.0,
-    "published_at": "2026-09-01T20:39:19+00:00",
     "summary": "",
     "key_points": []
   }
