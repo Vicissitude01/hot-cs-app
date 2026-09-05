@@ -1,5 +1,205 @@
 [
   {
+    "id": "lobsters:naoawd",
+    "title": "MISRust: Mapping MISRA-C++ Coding Guidelines to the Rust Programming Language",
+    "url": "https://arxiv.org/abs/2605.23490",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-04T19:29:30.712-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lhmfw7",
+    "title": "Reverse Engineering a Chip (or well, a GDS)",
+    "url": "https://pradyun.net/blog/reverse_engineering.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-04T21:53:05.522-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239468",
+    "title": "南昌旅游推荐",
+    "url": "https://www.v2ex.com/t/1239468",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-09-04T05:47:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239621",
+    "title": "周六清早起来快蹬 马上又要重置了....",
+    "url": "https://www.v2ex.com/t/1239621",
+    "source": "v2ex",
+    "score": 58.0,
+    "published_at": "2026-09-05T00:59:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239525",
+    "title": "用了一次 5.6 Luna，我就滚回到了 Sol",
+    "url": "https://www.v2ex.com/t/1239525",
+    "source": "v2ex",
+    "score": 64.0,
+    "published_at": "2026-09-04T08:04:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239487",
+    "title": "opencode 出新模型了，叫 Omen Alpha，输入输出价格接近 deepseek，速度飞快",
+    "url": "https://www.v2ex.com/t/1239487",
+    "source": "v2ex",
+    "score": 72.0,
+    "published_at": "2026-09-04T06:35:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239517",
+    "title": "gtp6 体验中[吉吉 API] 即使同步上线，欢迎各位大佬前来尝鲜。纯血 Pro 倍率 0.16 缓存近 90%，首字 1S 起，自用实时监测无降智，回复送测试鸡蛋。",
+    "url": "https://www.v2ex.com/t/1239517",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-09-04T07:45:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239479",
+    "title": "聊聊成都老破小",
+    "url": "https://www.v2ex.com/t/1239479",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-09-04T06:21:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239454",
+    "title": "[中转站] 福利国模分组上线，限时 0.09x 爽蹬，进来领鸡蛋",
+    "url": "https://www.v2ex.com/t/1239454",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-09-04T04:48:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681223706187153443",
+    "title": "GPT-6 Astra 来了，GPT-5.6 Sol 还值得用吗？聊聊 Coding、百万上下文、价格和 Plus/Pro",
+    "url": "https://juejin.cn/post/7681223706187153443",
+    "source": "juejin",
+    "score": 0.50424128,
+    "published_at": "2026-09-04T03:43:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681511201546076194",
+    "title": "【社区公告】签到与矿石奖励解耦说明",
+    "url": "https://juejin.cn/post/7681511201546076194",
+    "source": "juejin",
+    "score": 0.882354,
+    "published_at": "2026-09-04T10:28:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49571263",
+    "title": "Connecting every app to every other app",
+    "url": "https://blog.val.town/connectors",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-04T23:09:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49571537",
+    "title": "Show HN: Moadim.io – A scheduler for agents",
+    "url": "https://moadim.io/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-04T23:50:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49521631",
+    "title": "ExactTex. A gradually-typed superset of LaTeX",
+    "url": "https://github.com/camilochs/exacttex",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-01T13:19:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49571634",
+    "title": "Nitter has more working instances than before the takedowns",
+    "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-05T00:04:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49533840",
+    "title": "Ask HN: Resources to get good at soldering?",
+    "url": "https://news.ycombinator.com/item?id=49533840",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-09-02T09:24:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49528484",
+    "title": "Bugs happen: The easy way to compare solo PQ to ECC+PQ",
+    "url": "https://blog.cr.yp.to/20260704-bugs.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-01T21:27:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49519850",
+    "title": "Git Submodules as a Package Manager",
+    "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-01T09:36:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49571465",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-09-04T23:38:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49571632",
+    "title": "Artificial Analysis Intelligence Index v4.2",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-09-05T00:04:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ibn0da",
     "title": "Mongotar: Files to prompt, and back",
     "url": "https://github.com/sebastiancarlos/mongotar",
@@ -4796,206 +4996,6 @@
     "source": "hackernews",
     "score": 120.0,
     "published_at": "2026-08-31T23:26:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49517584",
-    "title": "GPU World",
-    "url": "https://www.gpuworld.org/",
-    "source": "hackernews",
-    "score": 300.0,
-    "published_at": "2026-09-01T03:16:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49521315",
-    "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-    "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-01T12:53:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49517448",
-    "title": "Fastpotify",
-    "url": "https://fastpotify.rocks/",
-    "source": "hackernews",
-    "score": 554.0,
-    "published_at": "2026-09-01T02:52:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49493468",
-    "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
-    "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-    "source": "hackernews",
-    "score": 136.0,
-    "published_at": "2026-08-29T21:25:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49519939",
-    "title": "44% on ARC-AGI-1 in 67 cents",
-    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-    "source": "hackernews",
-    "score": 143.0,
-    "published_at": "2026-09-01T09:52:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49520022",
-    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-    "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-    "source": "hackernews",
-    "score": 329.0,
-    "published_at": "2026-09-01T10:11:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:e1pwba",
-    "title": "The Robot Framewor language",
-    "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-01T02:22:01.742-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hi2svr",
-    "title": "Andy Hertzfeld oral history",
-    "url": "https://www.computerhistory.org/collections/catalog/300000188/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-01T00:54:43.542-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:haotvw",
-    "title": "Breaking down Amazon’s mega dropdown (2013)",
-    "url": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-08-31T20:30:16.313-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238451",
-    "title": "现在 32 寸 6K 显示器已经下探到 3000+的价格了，跟内存、硬盘涨价形成鲜明对比",
-    "url": "https://www.v2ex.com/t/1238451",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-08-31T09:02:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238425",
-    "title": "大家觉得后面应该怎么办",
-    "url": "https://www.v2ex.com/t/1238425",
-    "source": "v2ex",
-    "score": 110.0,
-    "published_at": "2026-08-31T08:13:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238597",
-    "title": "10-15w 的电车推荐",
-    "url": "https://www.v2ex.com/t/1238597",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-09-01T02:53:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238540",
-    "title": "“免五”开户陷阱 or 馅饼?｜股票开户找老倔驴巨靠谱！ #回帖抽 mx anywhere 3s [41 期]",
-    "url": "https://www.v2ex.com/t/1238540",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-09-01T00:07:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238558",
-    "title": "停药一个月，-9.2 斤，越来越慢了",
-    "url": "https://www.v2ex.com/t/1238558",
-    "source": "v2ex",
-    "score": 156.0,
-    "published_at": "2026-09-01T01:22:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238574",
-    "title": "为什么说罗永浩想要造一台老年人友好电视,注定不成功",
-    "url": "https://www.v2ex.com/t/1238574",
-    "source": "v2ex",
-    "score": 158.0,
-    "published_at": "2026-09-01T01:56:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238554",
-    "title": "我一个朋友被她女友绿了，请分析下要不要继续",
-    "url": "https://www.v2ex.com/t/1238554",
-    "source": "v2ex",
-    "score": 214.0,
-    "published_at": "2026-09-01T01:09:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238590",
-    "title": "20-25 万电车推荐，油车也可以",
-    "url": "https://www.v2ex.com/t/1238590",
-    "source": "v2ex",
-    "score": 278.0,
-    "published_at": "2026-09-01T02:44:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238570",
-    "title": "调查一下，你们还在用 iPhone 第几代？",
-    "url": "https://www.v2ex.com/t/1238570",
-    "source": "v2ex",
-    "score": 322.0,
-    "published_at": "2026-09-01T01:48:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7679986697707536430",
-    "title": "AI 时代你不能不知道的 git worktree",
-    "url": "https://juejin.cn/post/7679986697707536430",
-    "source": "juejin",
-    "score": 0.39617936,
-    "published_at": "2026-08-31T07:11:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680006676436025386",
-    "title": "Claude Code 插件别瞎装，这 9 款才是 2026 年的真生产力工具",
-    "url": "https://juejin.cn/post/7680006676436025386",
-    "source": "juejin",
-    "score": 0.42288043,
-    "published_at": "2026-08-31T08:59:58+00:00",
     "summary": "",
     "key_points": []
   }
