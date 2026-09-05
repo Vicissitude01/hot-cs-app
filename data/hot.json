@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:omhoxh",
+    "title": "Rust SIMD on the GPU",
+    "url": "https://vectorware.com/blog/simd-on-gpu/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-05T08:24:01.085-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:job3jy",
+    "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+    "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-05T09:34:40.900-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5wzkwm",
+    "title": "Gleam and BEAM- Looking beyond the JVM",
+    "url": "https://vimeo.com/1223666800",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-05T07:22:34.372-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:svyytg",
+    "title": "NYC PIT Crew",
+    "url": "https://www.nyc.gov/content/pitcrew/pages/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-05T06:33:49.980-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:64n3wp",
+    "title": "zopt: low-ceremony command line parsing for Zig",
+    "url": "https://codeberg.org/hgrsd/zopt",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-05T09:48:58.209-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239687",
+    "title": "给我整乐呵了，商汤上了 deepseek v4 flash 和 pro",
+    "url": "https://www.v2ex.com/t/1239687",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-09-05T07:42:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239707",
+    "title": "汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了",
+    "url": "https://www.v2ex.com/t/1239707",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-09-05T09:21:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681617333282963494",
+    "title": "GPT6真的是“AGI”！首测完成瘫坐沙发！",
+    "url": "https://juejin.cn/post/7681617333282963494",
+    "source": "juejin",
+    "score": 1.14035924,
+    "published_at": "2026-09-05T03:11:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49575859",
+    "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+    "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-05T12:23:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49576611",
+    "title": "Meet the Ig Nobel Prize Winners",
+    "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-05T14:02:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49576196",
+    "title": "Pentagon rescinds new testosterone screening policy without explanation",
+    "url": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-09-05T13:11:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49540253",
+    "title": "A Million Falcons Went Missing. Here’s How They Were Found",
+    "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-02T18:19:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49575143",
+    "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+    "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-05T10:32:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49575150",
+    "title": "Terpstra Keyboard",
+    "url": "http://terpstrakeyboard.com/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-05T10:33:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49576258",
+    "title": ".gitignore Everything by Default",
+    "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-05T13:19:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49576124",
+    "title": "Global warming will exceed 1.5-degree limit, UN says",
+    "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-09-05T13:02:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49576704",
+    "title": "There's No Limit to How Bad Code Can Get",
+    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-05T14:13:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49576386",
+    "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-09-05T13:36:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:6du6h3",
     "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
     "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
@@ -4816,186 +4996,6 @@
     "source": "hackernews",
     "score": 30.0,
     "published_at": "2026-08-29T15:03:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49522896",
-    "title": "Ask HN: Who wants to be hired? (September 2026)",
-    "url": "https://news.ycombinator.com/item?id=49522896",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-01T15:01:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49525297",
-    "title": "The creator of Jujutsu has joined ERSC",
-    "url": "https://ersc.io/blog/martin-joins-ersc",
-    "source": "hackernews",
-    "score": 110.0,
-    "published_at": "2026-09-01T17:46:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49525153",
-    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-    "url": "https://www.norirobotics.com/",
-    "source": "hackernews",
-    "score": 67.0,
-    "published_at": "2026-09-01T17:35:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49526069",
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-    "url": "https://danluu.com/zitron/",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-09-01T18:35:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49525378",
-    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "source": "hackernews",
-    "score": 533.0,
-    "published_at": "2026-09-01T17:53:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sccfuu",
-    "title": "Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters",
-    "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-01T10:10:52.122-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fjpexo",
-    "title": "\"iT woRKs BeTter in THe aPp!!\"",
-    "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-01T10:33:30.846-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:y58e86",
-    "title": "A bicycle for the mind",
-    "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-01T08:52:12.462-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rwqtzs",
-    "title": "A Crash Course in Predicate Logic",
-    "url": "https://www.hillelwayne.com/post/predicate-logic/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-01T11:08:25.818-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gbucyj",
-    "title": "Is Minifying CSS Necessary? (2023)",
-    "url": "https://shivjm.blog/is-minifying-css-necessary/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-01T10:42:44.571-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6ejigt",
-    "title": "Zuzai, a new word, indicates the absence of AI",
-    "url": "https://zuzai.org/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-01T08:26:12.427-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49522374",
-    "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
-    "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-09-01T14:19:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49523361",
-    "title": "A browser-based viewer for Office Open XML documents",
-    "url": "https://ooxml.silurus.dev/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-01T15:33:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49523720",
-    "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-    "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-09-01T15:53:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49524199",
-    "title": "Thanks to Lake Ontario, MapQuest is popular all over again",
-    "url": "https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-01T16:25:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49497741",
-    "title": "Physically Immutable Optical Archive Libraries",
-    "url": "https://savartus.com/solutions/enterprise-laser-storage/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-08-30T11:27:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49521973",
-    "title": "Introducing Ad Blocker for Firefox on iOS",
-    "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-    "source": "hackernews",
-    "score": 131.0,
-    "published_at": "2026-09-01T13:46:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49524320",
-    "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-    "url": "https://moviescenemap.com/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-01T16:34:45+00:00",
     "summary": "",
     "key_points": []
   }
