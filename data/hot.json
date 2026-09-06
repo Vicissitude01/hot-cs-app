@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:eqc1s5",
+    "title": "Controlling when CSS custom property values are computed",
+    "url": "https://jakearchibald.com/2026/css-custom-property-compute-time/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-05T17:23:45.680-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rfn2mn",
+    "title": "There's No Limit to How Bad Code Can Get",
+    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-05T21:05:52.226-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rcddma",
+    "title": "Beyond ORMs",
+    "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-05T23:52:05.266-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ben6a4",
+    "title": "M2: Episode 1 (or, Asahi Linux on M3)",
+    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-09-05T19:52:57.915-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239716",
+    "title": "求推荐二手国产安卓手机，可较为无痛刷入国际版系统，并保留 BL 锁",
+    "url": "https://www.v2ex.com/t/1239716",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-09-05T11:40:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239730",
+    "title": "一个 MonoRepo 复杂系统的部署问题",
+    "url": "https://www.v2ex.com/t/1239730",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-09-05T13:29:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239697",
+    "title": "几个网友分享的 GPT-6-Astra 编写的游戏和 Web 页面",
+    "url": "https://www.v2ex.com/t/1239697",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-09-05T08:41:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239725",
+    "title": "卧槽 GPT-6 Astra 就是 AGI。",
+    "url": "https://www.v2ex.com/t/1239725",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-09-05T13:16:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239770",
+    "title": "拼多多购物体验真的是很恶心",
+    "url": "https://www.v2ex.com/t/1239770",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-09-06T01:32:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239751",
+    "title": "难绷，太相信 ai 了😭",
+    "url": "https://www.v2ex.com/t/1239751",
+    "source": "v2ex",
+    "score": 70.0,
+    "published_at": "2026-09-05T16:59:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681160462331772969",
+    "title": "天才陨落了！三大 AI 集体不可用！",
+    "url": "https://juejin.cn/post/7681160462331772969",
+    "source": "juejin",
+    "score": 0.1743401,
+    "published_at": "2026-09-03T15:48:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681286465168769067",
+    "title": "一个人，4个岗位，20天：我用Cursor+Codex上线了一款微信小游戏",
+    "url": "https://juejin.cn/post/7681286465168769067",
+    "source": "juejin",
+    "score": 0.22443859,
+    "published_at": "2026-09-04T04:44:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49543347",
+    "title": "CHC5: Open Camera System – Image Sensor Specification Comparison",
+    "url": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-02T22:17:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49583144",
+    "title": "Trump signs order to remove endangered species protection for grey wolves",
+    "url": "https://www.bbc.com/news/articles/c62k677d4lzo",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-06T03:46:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49582656",
+    "title": "AI, Tools and Transformation",
+    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-06T02:12:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49527110",
+    "title": "RecurseCenter.return()",
+    "url": "https://mm-dev.rocks/series/recursecenter.return/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-01T19:48:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49583232",
+    "title": "Vancouver strip club's Instagram taken down over sign featuring lake joke",
+    "url": "https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-06T04:07:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49529398",
+    "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+    "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-01T22:54:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49581870",
+    "title": "Chrome again exempts Google from user site data settings",
+    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "source": "hackernews",
+    "score": 200.0,
+    "published_at": "2026-09-05T23:39:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49539759",
+    "title": "OpenBSD Stories: Strange Medieval Devices",
+    "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-02T17:44:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49582582",
+    "title": "GPT-6 Astra on robot arms",
+    "url": "https://openai.robocurve.org/gpt-6-astra/",
+    "source": "hackernews",
+    "score": 106.0,
+    "published_at": "2026-09-06T01:52:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49582000",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "source": "hackernews",
+    "score": 249.0,
+    "published_at": "2026-09-06T00:03:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:49527599",
     "title": "Topologist's Map of the World",
     "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
@@ -4776,226 +4996,6 @@
     "source": "hackernews",
     "score": 1.0,
     "published_at": "2026-09-02T08:43:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49494236",
-    "title": "Open Battery Information",
-    "url": "https://github.com/mnh-jansson/open-battery-information",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-29T23:27:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49533497",
-    "title": "Commodore 64 released September 1, 1982",
-    "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-09-02T08:36:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:abkikp",
-    "title": "Why I'm excited about effect systems (2025)",
-    "url": "https://osa1.net/posts/2025-06-28-why-effects.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-01T19:15:46.684-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ta0fg1",
-    "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
-    "url": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-01T23:21:49.642-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mjbwfn",
-    "title": "AyanDict 3.0.0 Released",
-    "url": "https://github.com/ilius/ayandict/releases/tag/v3.0.0",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-01T23:54:48.727-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kxgwhy",
-    "title": "GentleOS/16 hobby OS for vintage 16-bit PCs",
-    "url": "https://luke8086.dev/gentleos16.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-01T23:13:01.064-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4gzijx",
-    "title": "The load-bearing vocabulary of Claude",
-    "url": "https://louisabraham.github.io/load-bearing/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-01T23:06:28.526-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qnffyn",
-    "title": "The Endless Temptation of Claude",
-    "url": "https://discardpile.pika.page/posts/the-endless-temptation-of-claude",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-01T20:22:48.784-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238738",
-    "title": "六年前端 27 岁被裁了坐标成都，投了一个月简历石沉大海，准备转后端全栈了，转 go 还是 Java 还是去搞 Python agent",
-    "url": "https://www.v2ex.com/t/1238738",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-09-01T11:01:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238810",
-    "title": "最近有什么好看的电视剧推荐的吗？国内国外的都行",
-    "url": "https://www.v2ex.com/t/1238810",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-09-02T00:55:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238722",
-    "title": "为什么 AI 在 win 平台天天都在肘击 powershell？🫪",
-    "url": "https://www.v2ex.com/t/1238722",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-09-01T09:22:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238708",
-    "title": "写代码不一定要真的动手，要的是「写代码的感觉」，所以做了这个",
-    "url": "https://www.v2ex.com/t/1238708",
-    "source": "v2ex",
-    "score": 136.0,
-    "published_at": "2026-09-01T08:02:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238837",
-    "title": "大佬们怎么看，炒股真的能赚钱吗，投了 10w，已经亏了一万多了，回本无望。还房贷至少能减掉个 5w 的利息。上班族每天还要费精力去盯着大盘，心情也不好",
-    "url": "https://www.v2ex.com/t/1238837",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-09-02T02:03:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238664",
-    "title": "即将 30 各位前辈在这阶段有什么人生感悟",
-    "url": "https://www.v2ex.com/t/1238664",
-    "source": "v2ex",
-    "score": 152.0,
-    "published_at": "2026-09-01T06:20:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238815",
-    "title": "和初恋误会解开了",
-    "url": "https://www.v2ex.com/t/1238815",
-    "source": "v2ex",
-    "score": 170.0,
-    "published_at": "2026-09-02T01:16:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238763",
-    "title": "可能得抑郁症了，要不要离职去就医",
-    "url": "https://www.v2ex.com/t/1238763",
-    "source": "v2ex",
-    "score": 274.0,
-    "published_at": "2026-09-01T13:06:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49494344",
-    "title": "Laurie Anderson’s next manuscript to be locked away for 88 years",
-    "url": "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-08-29T23:51:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49479909",
-    "title": "Building an interactive instrument for a one-of-a-kind festival",
-    "url": "https://benholmen.com/blog/halfmoon-chimes/",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-08-28T15:21:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49516117",
-    "title": "Top Web Design Styles of 1993",
-    "url": "https://contemporary-home-computing.org/prof-dr-style/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-31T23:35:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49508619",
-    "title": "Solving the Flat Cube",
-    "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-08-31T12:02:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49484796",
-    "title": "Forgotten History of Small Nuclear Reactors (2015)",
-    "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-08-28T22:05:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49529621",
-    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-09-01T23:17:43+00:00",
     "summary": "",
     "key_points": []
   }
