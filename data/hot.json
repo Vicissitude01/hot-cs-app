@@ -1,5 +1,255 @@
 [
   {
+    "id": "lobsters:fgxkle",
+    "title": "Building a Brainfuck DSL in Forth using code generation",
+    "url": "https://venko.blog/articles/forth-brainfuck",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-06T06:39:20.520-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dckubt",
+    "title": "See Windows CE Running On The N64",
+    "url": "https://retrododo.com/see-windows-ce-running-on-the-n64/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-06T05:25:42.575-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:89i4c0",
+    "title": "Who said a tech addict can't be comfortable far from home?",
+    "url": "https://a.l3x.in/blog/my-travel-setup",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-06T07:41:25.842-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lfaddj",
+    "title": "Maybe We Shouldn't Be Reviewing All This Code",
+    "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-06T05:06:56.101-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239824",
+    "title": "外包为什么在大家眼里这么不堪",
+    "url": "https://www.v2ex.com/t/1239824",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-09-06T08:56:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239788",
+    "title": "法拍 iPhone 的 ID 解锁问题让人心里没底",
+    "url": "https://www.v2ex.com/t/1239788",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-09-06T04:14:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681204371800948736",
+    "title": "太好了！NestJS 12 大版本转向 ESM，新项目默认构建换 Rspack",
+    "url": "https://juejin.cn/post/7681204371800948736",
+    "source": "juejin",
+    "score": 0.30387802,
+    "published_at": "2026-09-04T00:59:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681266980104421382",
+    "title": "三年前估值45亿，现在129亿——Hugging Face凭什么被老黄盯上？",
+    "url": "https://juejin.cn/post/7681266980104421382",
+    "source": "juejin",
+    "score": 0.09859347,
+    "published_at": "2026-09-04T05:19:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681170932348682278",
+    "title": "从 SSE 到 LLM 流式输出：搞懂前端实时通信的两种姿势",
+    "url": "https://juejin.cn/post/7681170932348682278",
+    "source": "juejin",
+    "score": 0.07613525,
+    "published_at": "2026-09-03T13:42:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681874398225612827",
+    "title": " 我要吹爆GPT6了！实测3列惊为天人！",
+    "url": "https://juejin.cn/post/7681874398225612827",
+    "source": "juejin",
+    "score": 0.42103121,
+    "published_at": "2026-09-05T15:17:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681266980104683526",
+    "title": "英伟达砸130亿美元买下一个平台，黄仁勋到底在怕什么？",
+    "url": "https://juejin.cn/post/7681266980104683526",
+    "source": "juejin",
+    "score": 0.12154196,
+    "published_at": "2026-09-04T06:23:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681213028792500287",
+    "title": "从 Token 到蒸馏：一步步理解大模型如何工作",
+    "url": "https://juejin.cn/post/7681213028792500287",
+    "source": "juejin",
+    "score": 0.10728574,
+    "published_at": "2026-09-03T16:15:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680996030843125796",
+    "title": "日常修改，3秒生效：腾讯音乐 Android 秒编方案 Jugg 开源",
+    "url": "https://juejin.cn/post/7680996030843125796",
+    "source": "juejin",
+    "score": 0.10808444,
+    "published_at": "2026-09-03T12:51:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49585520",
+    "title": "'Old Person Smell'",
+    "url": "https://www.theguardian.com/wellness/2026/sep/03/old-person-smell",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-06T11:37:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49585605",
+    "title": "New all in one 6502 computer (Neo6502kbd)",
+    "url": "https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-06T11:51:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49535122",
+    "title": "The Empire of Information",
+    "url": "https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-02T12:15:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49585594",
+    "title": "Don't Use a gmail.com Address",
+    "url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-06T11:50:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49569983",
+    "title": "Household Laser Cuts",
+    "url": "https://cceckman.com/writing/household-laser-cuts/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-04T20:42:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49585703",
+    "title": "The pencil case model of creativity",
+    "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-06T12:05:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49585161",
+    "title": "I Changed My License",
+    "url": "https://bergie.iki.fi/blog/eupl/",
+    "source": "hackernews",
+    "score": 79.0,
+    "published_at": "2026-09-06T10:39:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49546198",
+    "title": "IBM Quantum Nighthawk R2",
+    "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-09-03T05:16:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49585300",
+    "title": "I asked astra to make playable 4D chess",
+    "url": "https://4d-chess.pages.dev/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-06T11:04:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49531619",
+    "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+    "url": "https://en.wikipedia.org/wiki/M-DISC",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-09-02T04:10:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49585627",
+    "title": "Doomscrolling Ourselves to Death",
+    "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-06T11:53:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49585644",
+    "title": "Intellectual Fly Is Open",
+    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-06T11:56:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qjhtae",
     "title": "How is this frame of Animal Well rendered?",
     "url": "https://www.youtube.com/watch?v=HtaleVLNws8",
@@ -4746,256 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:DietrichGebert/ponytail",
-    "title": "ponytail",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:google-research/timesfm",
-    "title": "timesfm",
-    "url": "https://github.com/google-research/timesfm",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:fmtlib/fmt",
-    "title": "fmt",
-    "url": "https://github.com/fmtlib/fmt",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49498506",
-    "title": "Crossing Boundaries with Integration Events",
-    "url": "https://deniskyashif.com/2026/08/29/crossing-boundaries-with-integration-events/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-08-30T13:31:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49508225",
-    "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-    "source": "hackernews",
-    "score": 121.0,
-    "published_at": "2026-08-31T11:01:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535583",
-    "title": "The Cables That Connect the World",
-    "url": "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-02T13:03:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49534132",
-    "title": "Quasar 438B: Europe's Leading AI Model",
-    "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-09-02T10:02:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535506",
-    "title": "Why humanoid robots won't catch up to human workers any time soon",
-    "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-02T12:53:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535324",
-    "title": "Using jq to format JSON on the clipboard",
-    "url": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-02T12:35:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49534524",
-    "title": "It's OK to hardcode feature flags (2025)",
-    "url": "https://code.mendhak.com/hardcode-feature-flags/",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-09-02T11:00:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49521590",
-    "title": "Move in C++ without a std:move",
-    "url": "https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-01T13:17:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49534041",
-    "title": "Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It",
-    "url": "https://sabot.media/post/banca-etica-statement-english",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-02T09:50:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535586",
-    "title": "LLMs: Intelligence vs. Cost",
-    "url": "https://openteams.com/intelligence-vs-cost/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-02T13:03:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49513856",
-    "title": "A Selection of Los Alamos Rolodex Business Cards",
-    "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-31T19:25:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535721",
-    "title": "A Beginner's Deep Dive Guide to Entra Passkeys",
-    "url": "https://emsroute.com/2026/03/19/passkeys-beginners-101/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-02T13:14:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49534921",
-    "title": "Ending my elixir exploratory writing",
-    "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-02T11:52:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49536201",
-    "title": "A third of Perplexity's citations don't contain the number they're cited for",
-    "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-02T13:49:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535526",
-    "title": "Dutch central bank moves share of gold from U.S., Canada to London",
-    "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
-    "source": "hackernews",
-    "score": 114.0,
-    "published_at": "2026-09-02T12:55:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535201",
-    "title": "Check if a file was made with Claude",
-    "url": "https://claude.com/check-content",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-02T12:23:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49536606",
-    "title": "Exit the Cave",
-    "url": "https://turtlespace.blog/p/exit-the-cave",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-02T14:16:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535548",
-    "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
-    "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-09-02T12:59:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49536411",
-    "title": "WebLLM: high-performance in-browser LLM inference engine",
-    "url": "https://github.com/mlc-ai/web-llm",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-02T14:02:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49536114",
-    "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-02T13:43:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535284",
-    "title": "Mistral now trains on user input by default, except on enterprise tier",
-    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-    "source": "hackernews",
-    "score": 103.0,
-    "published_at": "2026-09-02T12:30:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49536177",
-    "title": "Poisson Disk Sampling",
-    "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-02T13:47:49+00:00",
     "summary": "",
     "key_points": []
   }
