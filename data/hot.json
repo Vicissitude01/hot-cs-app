@@ -1,5 +1,75 @@
 [
   {
+    "id": "hackernews:49527599",
+    "title": "Topologist's Map of the World",
+    "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-01T20:21:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49579956",
+    "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
+    "url": "https://isaraerospace.com/mission-updates-overview",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-05T19:41:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580980",
+    "title": "America's two largest school districts impose AI moratoriums",
+    "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-05T21:43:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580939",
+    "title": "The revolt of the reader",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-05T21:37:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580687",
+    "title": "How AI is breaking the British state",
+    "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-05T21:05:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49519101",
+    "title": "Show HN: Fly By – retro biplane flying game",
+    "url": "https://michaelteter.com/flyby.html",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-01T07:31:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49581240",
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-05T22:15:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qnnvq2",
     "title": "Large-Language Models as a Cognitive Virus",
     "url": "https://arxiv.org/abs/2609.03344",
@@ -4926,76 +4996,6 @@
     "source": "hackernews",
     "score": 116.0,
     "published_at": "2026-09-01T23:17:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49524863",
-    "title": "Fine, I'll build my own text editor",
-    "url": "https://dbushell.com/2026/09/01/text-editor/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-09-01T17:12:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49531525",
-    "title": "WebFPGA",
-    "url": "https://webfpga.io/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-09-02T03:54:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49531651",
-    "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-    "url": "https://arxiv.org/abs/2608.29530",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-02T04:15:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49530989",
-    "title": "True Rate of Unemployment",
-    "url": "https://www.lisep.org/tru",
-    "source": "hackernews",
-    "score": 103.0,
-    "published_at": "2026-09-02T02:21:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nmhtnw",
-    "title": "Agent memory as a file format",
-    "url": "https://calpaterson.com/memoryfields.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-01T14:39:24.030-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:k1humn",
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-    "url": "https://danluu.com/zitron/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-01T18:19:04.863-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mkpgrk",
-    "title": "The pattern language of software architecture",
-    "url": "https://metapatterns.io/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-01T12:53:50.092-05:00",
     "summary": "",
     "key_points": []
   }
