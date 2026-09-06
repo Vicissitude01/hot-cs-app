@@ -1,5 +1,175 @@
 [
   {
+    "id": "lobsters:qjhtae",
+    "title": "How is this frame of Animal Well rendered?",
+    "url": "https://www.youtube.com/watch?v=HtaleVLNws8",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-05T18:58:29.662-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nohdoj",
+    "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+    "url": "https://mathstodon.xyz/@tao/117207856734787448",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-06T02:45:24.038-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:i9zp2x",
+    "title": "Any Nix package, live in your browser",
+    "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-06T02:09:11.718-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1kdrx2",
+    "title": "How To: Federated Stars",
+    "url": "https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-06T01:05:41.954-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ceuque",
+    "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+    "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-06T02:03:41.931-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239774",
+    "title": "22 小时用掉了 GPT 3 个 reset，做了个科普网站，看看 Astra 能力上限",
+    "url": "https://www.v2ex.com/t/1239774",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-09-06T01:56:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239777",
+    "title": "GPT 6 Astra 重构的我的博客首页，有点喜欢",
+    "url": "https://www.v2ex.com/t/1239777",
+    "source": "v2ex",
+    "score": 58.0,
+    "published_at": "2026-09-06T02:38:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239786",
+    "title": "AndroMeld：最好的 Android 与 Mac 连续互通方案，新增远程连接 [送码]",
+    "url": "https://www.v2ex.com/t/1239786",
+    "source": "v2ex",
+    "score": 62.0,
+    "published_at": "2026-09-06T03:32:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681252693901885478",
+    "title": "别卷CRUD了！前端用Next.js+LangChain.js，低成本冲进AI高薪赛道",
+    "url": "https://juejin.cn/post/7681252693901885478",
+    "source": "juejin",
+    "score": 0.11738537,
+    "published_at": "2026-09-04T01:36:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49554848",
+    "title": "Matching Puzzle Pieces and Disappointing Benchmarks",
+    "url": "https://llogiq.github.io/2026/03/20/case.html",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-03T18:52:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49583842",
+    "title": "Site Is Closed on Sundays",
+    "url": "https://v7.robweychert.com/",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-09-06T06:23:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49522072",
+    "title": "A Computer History Time Capsule",
+    "url": "https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-01T13:54:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49582719",
+    "title": "AMD Based FreeBSD Desktop Reloaded",
+    "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-09-06T02:24:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49535634",
+    "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
+    "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-02T13:08:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49541888",
+    "title": "Music Theory for Programmers",
+    "url": "https://runjs.app/blog/music-theory-for-programmers",
+    "source": "hackernews",
+    "score": 114.0,
+    "published_at": "2026-09-02T20:19:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49584123",
+    "title": "Play GTA Vice City in the Browser",
+    "url": "https://quenq.com/apps/vice-city-online/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-06T07:33:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49584083",
+    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+    "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-09-06T07:21:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:eqc1s5",
     "title": "Controlling when CSS custom property values are computed",
     "url": "https://jakearchibald.com/2026/css-custom-property-compute-time/",
@@ -4826,176 +4996,6 @@
     "source": "hackernews",
     "score": 37.0,
     "published_at": "2026-09-02T13:47:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49536079",
-    "title": "Biggest dark matter detector spots a single weird particle",
-    "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-09-02T13:40:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49536375",
-    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-    "source": "hackernews",
-    "score": 87.0,
-    "published_at": "2026-09-02T13:59:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49536384",
-    "title": "GrapheneOS says Pixel 11 has MTE support after all",
-    "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-02T14:00:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535752",
-    "title": "A Note from LWN",
-    "url": "https://lwn.net/Articles/1090585/",
-    "source": "hackernews",
-    "score": 325.0,
-    "published_at": "2026-09-02T13:17:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dtllfk",
-    "title": "Solving the Flat Cube",
-    "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-02T05:46:40.059-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wyyzab",
-    "title": "humanity has built the records of FATE by accident",
-    "url": "https://ariadne.space/2026/09/01/humanity-has-built-the-records.html",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-02T02:29:02.314-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:v1wxh0",
-    "title": "Bluefin is a capability system",
-    "url": "https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-02T01:09:55.270-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ipy9xw",
-    "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
-    "url": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
-    "source": "lobsters",
-    "score": 112.0,
-    "published_at": "2026-09-02T01:31:38.073-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238912",
-    "title": "看到大家分享的炒股经历，有亏有赚。但是这个节点叫投资，炒股不属于投资",
-    "url": "https://www.v2ex.com/t/1238912",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-09-02T06:02:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238897",
-    "title": "如何看待男士洗手间小解对手机仍然有深深的执念",
-    "url": "https://www.v2ex.com/t/1238897",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-09-02T04:47:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238857",
-    "title": "今天点了 KFC 的咖啡，味道出乎意料的不错，感觉比瑞幸的好，还能一杯起送，还有其他连锁咖啡推荐吗？",
-    "url": "https://www.v2ex.com/t/1238857",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-09-02T02:30:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238819",
-    "title": "老哥们，安卓手机你们都是用的什么输入法？",
-    "url": "https://www.v2ex.com/t/1238819",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-09-02T01:28:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238848",
-    "title": "中秋去云南旅游，让 gpt 跑了一下线路推荐，也跟问过同事推荐。但是同行的说怕地方太多了.",
-    "url": "https://www.v2ex.com/t/1238848",
-    "source": "v2ex",
-    "score": 142.0,
-    "published_at": "2026-09-02T02:22:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238971",
-    "title": "顶不住了，来回通勤 60 公里， 12 万内电车求推荐",
-    "url": "https://www.v2ex.com/t/1238971",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-09-02T08:26:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680110774044475398",
-    "title": "Android 17 +  OkHttp 5.5.0 ，全新 ECH 下你的 HTTPS 域名可以请求时被安全隐藏",
-    "url": "https://juejin.cn/post/7680110774044475398",
-    "source": "juejin",
-    "score": 0.53343938,
-    "published_at": "2026-09-01T08:32:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680216488121008138",
-    "title": "PC 网站接入微信登录，这 10 个坑我替你踩完了！",
-    "url": "https://juejin.cn/post/7680216488121008138",
-    "source": "juejin",
-    "score": 0.3654848,
-    "published_at": "2026-09-01T02:50:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49533557",
-    "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
-    "url": "https://careers.telli.com/",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-02T08:43:49+00:00",
     "summary": "",
     "key_points": []
   }
