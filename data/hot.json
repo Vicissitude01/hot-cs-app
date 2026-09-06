@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:xyvhrx",
+    "title": "Radix_FW60: handheld CP/M 2.2 computer",
+    "url": "https://github.com/BrettHallen/Radix_FW60",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-06T15:07:16.441-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mcnj6l",
+    "title": "Data races and the limits of ThreadSanitizer in C and Go",
+    "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-06T17:13:09.207-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49590524",
+    "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
+    "url": "https://github.com/FulltimeFeline/Sol",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-06T20:24:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49591036",
+    "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+    "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-06T21:16:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49562594",
+    "title": "A Week of Bug Reporting",
+    "url": "https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-04T10:08:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49589768",
+    "title": "D2 Is Non-Profit",
+    "url": "https://d2lang.com/blog/d2-non-profit/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-06T19:11:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49561514",
+    "title": "Reverse engineering the storage format for an undocumented database",
+    "url": "https://blog.glazer.ee/posts/converting-cronos/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-04T07:17:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49542123",
+    "title": "Vidact – a compiler that turns React into direct DOM operations",
+    "url": "https://www.vidact.dev/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-02T20:34:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49590595",
+    "title": "Harnessing the Universal Geometry of Embeddings",
+    "url": "https://arxiv.org/abs/2505.12540",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-06T20:31:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:aokzbg",
     "title": "It took a year to ship WebAssembly in Anubis",
     "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
@@ -4906,96 +4996,6 @@
     "source": "hackernews",
     "score": 8.0,
     "published_at": "2026-09-03T03:13:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49497996",
-    "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-    "url": "https://www.nature.com/articles/s41562-026-02550-0",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-08-30T12:12:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ayatfy",
-    "title": "Check if a file was made with Claude",
-    "url": "https://www.claude.com/check-content",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-02T14:23:20.032-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49507807",
-    "title": "Product Backlog Problems: Why Your Hierarchy Is Broken",
-    "url": "https://www.prodpad.com/blog/backlog-hierarchy-problem/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-31T09:56:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49543191",
-    "title": "Reasons robotics is hard",
-    "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-02T22:02:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49521031",
-    "title": "Engineering of the fastest WebAssembly interpreters",
-    "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-01T12:25:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49508405",
-    "title": "Holden's Lightning Flight",
-    "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-08-31T11:29:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49543530",
-    "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-    "url": "https://ronanrx.com/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-02T22:36:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49543007",
-    "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-    "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-09-02T21:46:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49543535",
-    "title": "Maybe We Shouldn't Be Reviewing All This Code",
-    "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-02T22:36:30+00:00",
     "summary": "",
     "key_points": []
   }
