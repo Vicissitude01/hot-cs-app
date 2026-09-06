@@ -1,5 +1,165 @@
 [
   {
+    "id": "lobsters:aokzbg",
+    "title": "It took a year to ship WebAssembly in Anubis",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-09-06T15:41:38.430-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uu3hhz",
+    "title": "Have the frontier labs mixed up AI safety and security?",
+    "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-06T15:47:52.849-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jsxzwl",
+    "title": "Following legal advice, the Nitter project will continue",
+    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "source": "lobsters",
+    "score": 19.0,
+    "published_at": "2026-09-06T13:32:04.009-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:os1y44",
+    "title": "QBittorrent breaks out of sandbox to commit crimes",
+    "url": "https://beige.party/@intransitivelie/117057396732763183",
+    "source": "lobsters",
+    "score": 19.0,
+    "published_at": "2026-09-06T14:08:49.017-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xv6z4r",
+    "title": "Python Iceberg",
+    "url": "https://aleyan.com/projects/python-iceberg/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-06T13:46:54.409-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239854",
+    "title": "为什么宽带师傅大都不愿意改桥接？",
+    "url": "https://www.v2ex.com/t/1239854",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-09-06T13:09:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239818",
+    "title": "有没有曾经患过焦虑症的 v 友，后面康复了吗？",
+    "url": "https://www.v2ex.com/t/1239818",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-09-06T08:37:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49590129",
+    "title": "There Gonna Be a Shortage of Everything",
+    "url": "https://out-of-hell.xylon.me.uk/shortage.html",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-06T19:45:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49588988",
+    "title": "Nitter and XCancel resume service after legal advice",
+    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "source": "hackernews",
+    "score": 297.0,
+    "published_at": "2026-09-06T17:49:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49590225",
+    "title": "The car industry A/B tested selling a car with and without CarPlay",
+    "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-09-06T19:53:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49590351",
+    "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+    "url": "https://github.com/mmeyerlein/meclaw",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-06T20:07:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49590354",
+    "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+    "url": "https://getvodforge.com/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-06T20:07:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49540637",
+    "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials",
+    "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-02T18:47:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49590611",
+    "title": "It took a year to ship WebAssembly in Anubis",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-06T20:32:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49590512",
+    "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-06T20:24:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49590738",
+    "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "url": "https://github.com/marsbos/mador",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-06T20:45:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:w0vvbq",
     "title": "Leverage Code Review for Sustainable AI Coding Development",
     "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/",
@@ -4836,166 +4996,6 @@
     "source": "hackernews",
     "score": 27.0,
     "published_at": "2026-09-02T22:36:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49543841",
-    "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-02T23:08:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mj9qti",
-    "title": "CTTI is Exponential, RTTI is Linear",
-    "url": "https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-02T16:35:21.151-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dpfpr3",
-    "title": "Goroutine Leak Profiles",
-    "url": "https://go.dev/blog/goroutine-leak-profiles",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-02T13:50:17.497-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:echox4",
-    "title": "The holy grail of nixpkgs: version ranges",
-    "url": "https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-02T14:22:37.305-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3y9lbw",
-    "title": "Let's build a compressor from scratch",
-    "url": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-02T14:54:21.509-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49542123",
-    "title": "Vidact – a compiler that turns React into direct DOM operations",
-    "url": "https://www.vidact.dev/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-02T20:34:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49541149",
-    "title": "Introducing Muse Spark 1.3",
-    "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-09-02T19:25:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49540574",
-    "title": "Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
-    "url": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-02T18:43:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49542443",
-    "title": "Mamdani Bans AI in NYC Schools",
-    "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-02T20:57:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49521909",
-    "title": "We could save petabytes of cache storage with Zstandard and Pingora",
-    "url": "https://blog.cloudflare.com/cache-transcoding/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-09-01T13:41:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49539805",
-    "title": "Earth's organisms developed via evolution. What if the cosmos did, too?",
-    "url": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-02T17:46:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49540415",
-    "title": "Embedded Rust RTOS vs. C RTOS",
-    "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-02T18:32:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49540565",
-    "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-    "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-02T18:42:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49541754",
-    "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-    "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-02T20:08:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49517018",
-    "title": "Wendell Berry has died",
-    "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
-    "source": "hackernews",
-    "score": 88.0,
-    "published_at": "2026-09-01T01:49:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49542486",
-    "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-    "url": "https://nango.dev/careers",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-02T21:00:04+00:00",
     "summary": "",
     "key_points": []
   }
