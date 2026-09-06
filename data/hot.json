@@ -1,5 +1,285 @@
 [
   {
+    "id": "lobsters:7ymd5q",
+    "title": "NetBSD 9.5 released and EOL for netbsd-9",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-06T10:44:40.502-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xccvnw",
+    "title": "\"Simple Made Easy\" (2011)",
+    "url": "https://www.youtube.com/watch?v=SxdOUGdseq4",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-06T09:25:59.394-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1glwxo",
+    "title": "The Ironies of Automation (1983)",
+    "url": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-06T08:40:36.780-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:be5lrk",
+    "title": "NetBSD 11 from scratch",
+    "url": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-09-06T08:35:03.626-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239794",
+    "title": "[Puluai] gpt6 已上线，欢迎大家尝鲜，注册留言送体验额度！",
+    "url": "https://www.v2ex.com/t/1239794",
+    "source": "v2ex",
+    "score": 74.0,
+    "published_at": "2026-09-06T04:54:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680766055174832171",
+    "title": "PDF Viewer KMP（基于 chrome 的 PDFium 内核）",
+    "url": "https://juejin.cn/post/7680766055174832171",
+    "source": "juejin",
+    "score": 0.11912924,
+    "published_at": "2026-09-02T16:53:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7680850719454642217",
+    "title": "[Android 从零到一] APK 体积优化实战：从 50MB 到 15MB 的瘦身之旅",
+    "url": "https://juejin.cn/post/7680850719454642217",
+    "source": "juejin",
+    "score": 0.1040688,
+    "published_at": "2026-09-03T03:17:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Stremio/stremio-web",
+    "title": "stremio-web",
+    "url": "https://github.com/Stremio/stremio-web",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:The-Swarm-Corporation/AutoHedge",
+    "title": "AutoHedge",
+    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:OpenWhispr/openwhispr",
+    "title": "openwhispr",
+    "url": "https://github.com/OpenWhispr/openwhispr",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:aipoch/open-science",
+    "title": "open-science",
+    "url": "https://github.com/aipoch/open-science",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:coreyhaines31/marketingskills",
+    "title": "marketingskills",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:DietrichGebert/ponytail",
+    "title": "ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:llvm/llvm-project",
+    "title": "llvm-project",
+    "url": "https://github.com/llvm/llvm-project",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:openai/skills",
+    "title": "skills",
+    "url": "https://github.com/openai/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49522942",
+    "title": "Fileregister: Tagging and reference layer for your files, in plain text",
+    "url": "https://github.com/rhsev/fileregister",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-01T15:03:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580389",
+    "title": "Ganon's Mysterious Origins (Revisited)",
+    "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-05T20:33:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49586151",
+    "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
+    "url": "https://shukla.io/quantum-oracle-engineering/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-06T13:00:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49587833",
+    "title": "Cultivating Trust",
+    "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-06T16:02:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49586902",
+    "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+    "url": "https://github.com/scastiel/kado",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-06T14:34:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49587285",
+    "title": "Alberta (Canada) slaps punitive tax on solar panels",
+    "url": "https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-06T15:14:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49586698",
+    "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
+    "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+    "source": "hackernews",
+    "score": 100.0,
+    "published_at": "2026-09-06T14:08:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49559451",
+    "title": "What is Nueralese and Why is it Bad",
+    "url": "https://www.lesswrong.com/posts/RCYF2rW8wgusidZk7/what-is-neuralese-and-why-is-it-bad",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-04T01:33:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49586435",
+    "title": "The many mysteries and lessons of the Bayeux tapestry",
+    "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-06T13:38:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49587128",
+    "title": "I Feel about AI",
+    "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+    "source": "hackernews",
+    "score": 109.0,
+    "published_at": "2026-09-06T15:00:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49542471",
+    "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
+    "url": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-02T20:58:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49586898",
+    "title": "A/I shuts down – Stay human",
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "source": "hackernews",
+    "score": 234.0,
+    "published_at": "2026-09-06T14:34:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49586171",
+    "title": "QBittorrent breaks out of sandbox to commit crimes",
+    "url": "https://beige.party/@intransitivelie/117057396732763183",
+    "source": "hackernews",
+    "score": 287.0,
+    "published_at": "2026-09-06T13:02:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:fgxkle",
     "title": "Building a Brainfuck DSL in Forth using code generation",
     "url": "https://venko.blog/articles/forth-brainfuck",
@@ -4716,286 +4996,6 @@
     "source": "hackernews",
     "score": 20.0,
     "published_at": "2026-09-02T16:33:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49539024",
-    "title": "Tangle – Visual ML Pipeline Editor",
-    "url": "https://tangleml.com/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-02T16:49:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49538490",
-    "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
-    "url": "https://frontierharness.org",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-09-02T16:14:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49502367",
-    "title": "Making the Internet Boring",
-    "url": "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-08-30T20:20:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49540297",
-    "title": "Why do so many tools have JSON config files?",
-    "url": "https://textlog.cc/post/895",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-02T18:23:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49537738",
-    "title": "SteamdDB Joins Nexus Mods",
-    "url": "https://www.nexusmods.com/news/15597",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-02T15:25:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49539872",
-    "title": "I Don't Have a Smartphone",
-    "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
-    "source": "hackernews",
-    "score": 79.0,
-    "published_at": "2026-09-02T17:51:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49539389",
-    "title": "Paint.net 5.2 alpha now runs on Linux",
-    "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-09-02T17:18:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49537553",
-    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "source": "hackernews",
-    "score": 536.0,
-    "published_at": "2026-09-02T15:12:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qi1bxu",
-    "title": "TinyGo 0.42 - Recover Is Real",
-    "url": "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-02T09:38:08.238-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:us078z",
-    "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
-    "url": "https://arxiv.org/abs/2604.25580",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-02T06:52:23.425-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:k86iql",
-    "title": "ESP32 as counter-surveillance platform",
-    "url": "https://www.youtube.com/watch?v=PcK-TDmzshc",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-02T09:30:56.444-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:oieyk7",
-    "title": "What will you do after tech?",
-    "url": "https://lobste.rs/s/oieyk7",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-02T08:43:47.164-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:b53fwj",
-    "title": "New things for regular expressions in PostgreSQL (pg_tre and pg_re2)",
-    "url": "https://www.depesz.com/2026/08/25/new-things-for-regular-expressions-in-postgresql-pg_tre-and-pg_re2/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-02T07:59:58.151-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vq68cd",
-    "title": "Read your own writes, off the primary",
-    "url": "https://boringsql.com/posts/read-your-own-writes/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-02T06:35:51.403-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7s8fuv",
-    "title": "Firefox’s AI Switch Is Off. Telemetry Isn’t",
-    "url": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-02T07:50:14.843-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8mwdf1",
-    "title": "Who's Hiring? Q4 2026",
-    "url": "https://lobste.rs/s/8mwdf1",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-09-02T06:41:49.212-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238945",
-    "title": "三十多岁，即将从大厂离职，打算暂时不找工作，用一年尝试 App 出海和自媒体，大家帮忙看下这个规划是否合理",
-    "url": "https://www.v2ex.com/t/1238945",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-09-02T07:20:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mattpocock/skills",
-    "title": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:JuliusBrussee/caveman",
-    "title": "caveman",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:blader/humanizer",
-    "title": "humanizer",
-    "url": "https://github.com/blader/humanizer",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:vercel-labs/portless",
-    "title": "portless",
-    "url": "https://github.com/vercel-labs/portless",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:protocolbuffers/protobuf",
-    "title": "protobuf",
-    "url": "https://github.com/protocolbuffers/protobuf",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:zyronon/TypeWords",
-    "title": "TypeWords",
-    "url": "https://github.com/zyronon/TypeWords",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:pacifio/atlas",
-    "title": "atlas",
-    "url": "https://github.com/pacifio/atlas",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:superlinked/sie",
-    "title": "sie",
-    "url": "https://github.com/superlinked/sie",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:NousResearch/hermes-agent",
-    "title": "hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ChromeDevTools/chrome-devtools-mcp",
-    "title": "chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:sngyai/Sequoia-X",
-    "title": "Sequoia-X",
-    "url": "https://github.com/sngyai/Sequoia-X",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
