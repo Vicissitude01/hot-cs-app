@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:n0zgj1",
+    "title": "Making a Python interpreter in 1024 bytes",
+    "url": "https://austinhenley.com/blog/python1024.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-06T18:04:21.496-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239883",
+    "title": "[送兑换码] 做了一个苹果 APP，送一些永久会员兑换码",
+    "url": "https://www.v2ex.com/t/1239883",
+    "source": "v2ex",
+    "score": 70.0,
+    "published_at": "2026-09-06T17:49:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681245344118210587",
+    "title": " 高并发下怎么做余额扣减？",
+    "url": "https://juejin.cn/post/7681245344118210587",
+    "source": "juejin",
+    "score": 0.14617206,
+    "published_at": "2026-09-04T01:32:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49586005",
+    "title": "2026 Hugo Awards",
+    "url": "https://www.thehugoawards.org/",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-09-06T12:41:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49591620",
+    "title": "Political meddling at the Census Bureau damages the US statistical system",
+    "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-09-06T22:36:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49555114",
+    "title": "Every Novel Is Boring–Until It Isn't",
+    "url": "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-03T19:10:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49589722",
+    "title": "Finder is so frustrating and has been since day one",
+    "url": "https://kepter.app/finder",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-09-06T19:06:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49591672",
+    "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+    "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-09-06T22:43:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49522092",
+    "title": "Adverse Selection and Markouts",
+    "url": "https://machow.ski/posts/markouts_and_adverse_selection/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-01T13:57:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49591793",
+    "title": "Is mathematics about to enter the conservatory?",
+    "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-06T23:02:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49591876",
+    "title": "Making a Python interpreter in 1024 bytes",
+    "url": "https://austinhenley.com/blog/python1024.html",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-09-06T23:14:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:xyvhrx",
     "title": "Radix_FW60: handheld CP/M 2.2 computer",
     "url": "https://github.com/BrettHallen/Radix_FW60",
@@ -4886,116 +4996,6 @@
     "source": "v2ex",
     "score": 100.0,
     "published_at": "2026-09-03T02:31:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239075",
-    "title": "个人视角的三种股票投资方向",
-    "url": "https://www.v2ex.com/t/1239075",
-    "source": "v2ex",
-    "score": 162.0,
-    "published_at": "2026-09-03T00:44:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239096",
-    "title": "我希望所有人都应该去试试 Gemini 的 Flash 系列",
-    "url": "https://www.v2ex.com/t/1239096",
-    "source": "v2ex",
-    "score": 184.0,
-    "published_at": "2026-09-03T01:41:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680772297318023222",
-    "title": "SpaceX 工程师的 AI Coding 玩法太牛了， 200 多个 Agent 并行！",
-    "url": "https://juejin.cn/post/7680772297318023222",
-    "source": "juejin",
-    "score": 0.72722331,
-    "published_at": "2026-09-02T06:54:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680216488121303050",
-    "title": "现在网页都能提供 MCP 了？！",
-    "url": "https://juejin.cn/post/7680216488121303050",
-    "source": "juejin",
-    "score": 0.23452179,
-    "published_at": "2026-09-01T03:15:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680031642871152681",
-    "title": "OpenAI Astra 泄露：零样本生成 3D 网页，前端开发者慌了吗？",
-    "url": "https://juejin.cn/post/7680031642871152681",
-    "source": "juejin",
-    "score": 0.22913183,
-    "published_at": "2026-09-01T03:41:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680551559094517802",
-    "title": "sys_dump 备了库，角色和权限别漏在外面",
-    "url": "https://juejin.cn/post/7680551559094517802",
-    "source": "juejin",
-    "score": 0.95517693,
-    "published_at": "2026-09-02T10:59:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680741276414296104",
-    "title": "AI全栈开发最佳实践💐",
-    "url": "https://juejin.cn/post/7680741276414296104",
-    "source": "juejin",
-    "score": 0.76373512,
-    "published_at": "2026-09-02T08:52:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49524428",
-    "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
-    "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
-    "source": "hackernews",
-    "score": 169.0,
-    "published_at": "2026-09-01T16:41:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49509606",
-    "title": "Creating Backup Storage Sucks",
-    "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-31T13:33:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49519792",
-    "title": "Higher Multipoles of the Cow",
-    "url": "https://arxiv.org/abs/2504.00506",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-01T09:27:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49545547",
-    "title": "Wk. 6 of Vibecoding an MMO",
-    "url": "https://eldermyr.com/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-03T03:13:54+00:00",
     "summary": "",
     "key_points": []
   }
