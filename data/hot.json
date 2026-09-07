@@ -1,5 +1,425 @@
 [
   {
+    "id": "lobsters:0htvw0",
+    "title": "\"Hammock Driven Development\" (2010)",
+    "url": "https://youtu.be/f84n5oFoZBc",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-07T03:31:19.589-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wkxhlv",
+    "title": "From a Chocolate Wrapper to Concurrent InnoDB Page Splits",
+    "url": "https://mariadb.org/from-a-chocolate-wrapper-to-concurrent-innodb-page-splits/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-07T07:48:27.467-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:awrzbh",
+    "title": "Demystifying complex configurations",
+    "url": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-07T04:25:39.098-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xm0hkw",
+    "title": "What are you doing this week?",
+    "url": "https://lobste.rs/s/xm0hkw",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-07T05:33:18.743-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mqbqbz",
+    "title": "Internationalization and Localization",
+    "url": "https://www.kashyapsuhas.com/blog/i18n-l10n",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-07T01:52:49.681-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vdalin",
+    "title": "The shortest IPv6 addresses",
+    "url": "https://ache.one/notes/vanity-ipv6",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-07T05:53:12.960-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wolwwd",
+    "title": "A faster way to convert a timestamp to Hour, Min, Sec",
+    "url": "https://www.benjoffe.com/fast-time-of-day",
+    "source": "lobsters",
+    "score": 17.0,
+    "published_at": "2026-09-07T05:27:56.386-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240058",
+    "title": "这次轮到了我看上了个女同事，但不知该怎么推进认识",
+    "url": "https://www.v2ex.com/t/1240058",
+    "source": "v2ex",
+    "score": 152.0,
+    "published_at": "2026-09-07T06:45:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239929",
+    "title": "主打锻炼，应该买公路车还是山地车",
+    "url": "https://www.v2ex.com/t/1239929",
+    "source": "v2ex",
+    "score": 196.0,
+    "published_at": "2026-09-07T01:51:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682364222383308850",
+    "title": "异构数据同步不只追延迟：用 KFS 守住不停机迁移的每一笔账",
+    "url": "https://juejin.cn/post/7682364222383308850",
+    "source": "juejin",
+    "score": 1.47256404,
+    "published_at": "2026-09-07T04:56:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682046779555315763",
+    "title": "🤔首屏Banner压到40KB，LCP还是4秒？原来一直搞错了最大渲染元素",
+    "url": "https://juejin.cn/post/7682046779555315763",
+    "source": "juejin",
+    "score": 1.10693124,
+    "published_at": "2026-09-07T01:15:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682013859251896320",
+    "title": "提前还贷，缩短年限和降低月供其实是一样的",
+    "url": "https://juejin.cn/post/7682013859251896320",
+    "source": "juejin",
+    "score": 2.05565903,
+    "published_at": "2026-09-07T03:11:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682362046578966580",
+    "title": "支持独立部署的地图方案",
+    "url": "https://juejin.cn/post/7682362046578966580",
+    "source": "juejin",
+    "score": 1.73071807,
+    "published_at": "2026-09-07T03:26:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682362046578884660",
+    "title": "聊聊怎么缓解找工作的焦虑感？",
+    "url": "https://juejin.cn/post/7682362046578884660",
+    "source": "juejin",
+    "score": 1.68526354,
+    "published_at": "2026-09-07T03:20:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682634449856217115",
+    "title": "GPT - 6 Astra 的使用焚诀",
+    "url": "https://juejin.cn/post/7682634449856217115",
+    "source": "juejin",
+    "score": 4.06497028,
+    "published_at": "2026-09-07T07:42:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682603130694484014",
+    "title": "【社区公告】致每一位掘友：关于这次调整， 想再说几句",
+    "url": "https://juejin.cn/post/7682603130694484014",
+    "source": "juejin",
+    "score": 19.75408978,
+    "published_at": "2026-09-07T10:59:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:pascalorg/editor",
+    "title": "editor",
+    "url": "https://github.com/pascalorg/editor",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:lightpanda-io/browser",
+    "title": "browser",
+    "url": "https://github.com/lightpanda-io/browser",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:bytedance/deer-flow",
+    "title": "deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:MoonTechLab/LunaTV",
+    "title": "LunaTV",
+    "url": "https://github.com/MoonTechLab/LunaTV",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:jo-inc/camofox-browser",
+    "title": "camofox-browser",
+    "url": "https://github.com/jo-inc/camofox-browser",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mksglu/context-mode",
+    "title": "context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:microsoft/markitdown",
+    "title": "markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:heygen-com/hyperframes",
+    "title": "hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49594251",
+    "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+    "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+    "source": "hackernews",
+    "score": 252.0,
+    "published_at": "2026-09-07T05:33:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49595360",
+    "title": "Programming is Art",
+    "url": "https://orchidfiles.com/programming-is-art/",
+    "source": "hackernews",
+    "score": 119.0,
+    "published_at": "2026-09-07T08:05:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49537143",
+    "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
+    "url": "https://play.simten.dev",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-02T14:47:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49534396",
+    "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+    "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-02T10:39:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49550479",
+    "title": "Show HN: I made a word building game supporting anagrams and one handed use",
+    "url": "https://news.ycombinator.com/item?id=49550479",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-03T14:37:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49596797",
+    "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+    "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-07T11:01:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49596976",
+    "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+    "url": "https://news.ycombinator.com/item?id=49596976",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-07T11:22:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49550436",
+    "title": "I Connected My Withings Body+ to Home Assistant with an ESP32",
+    "url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-03T14:33:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49596629",
+    "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+    "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+    "source": "hackernews",
+    "score": 78.0,
+    "published_at": "2026-09-07T10:41:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49596119",
+    "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+    "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+    "source": "hackernews",
+    "score": 150.0,
+    "published_at": "2026-09-07T09:33:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49594878",
+    "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+    "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+    "source": "hackernews",
+    "score": 463.0,
+    "published_at": "2026-09-07T07:03:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49596054",
+    "title": "Speculative Decoding in vLLM on AMD GPUs",
+    "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-09-07T09:26:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49596274",
+    "title": "Impedance Matching (2017)",
+    "url": "https://www.edge.org/response-detail/27238",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-07T09:52:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49597189",
+    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-09-07T11:46:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49596055",
+    "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+    "url": "https://mathathonchallenge.com/index.html",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-09-07T09:26:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49595865",
+    "title": "Live map of public transport in Belgium",
+    "url": "https://openbaarvervoerbelgie.be/",
+    "source": "hackernews",
+    "score": 103.0,
+    "published_at": "2026-09-07T09:02:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49597895",
+    "title": "Splash-free urinals for global sustainability and accessibility",
+    "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-07T12:58:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49597907",
+    "title": "De-Brainrot Vacations",
+    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-09-07T13:00:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9i5qo4",
     "title": "slop lasagna",
     "url": "https://underreacted.leaflet.pub/3mdjygm2p5s2c",
@@ -4576,426 +4996,6 @@
     "source": "hackernews",
     "score": 684.0,
     "published_at": "2026-09-03T18:41:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ic3xiy",
-    "title": "Functionally Zen [Seven tenets for keeping Python codebases simple]",
-    "url": "https://testdouble.com/insights/functionally-zen",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-03T11:17:07.300-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:77qick",
-    "title": "Announcing Rust 1.98.1",
-    "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-03T09:03:38.893-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:if60bl",
-    "title": "You Don't Need Initial-Scale In Your HTML",
-    "url": "https://vale.rocks/micros/20260902-1350",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-09-03T09:03:31.735-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:j03x8u",
-    "title": "Audacity 4.0.0 Released",
-    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-    "source": "lobsters",
-    "score": 19.0,
-    "published_at": "2026-09-03T08:52:43.188-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6tsncg",
-    "title": ".name Termination",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "source": "lobsters",
-    "score": 113.0,
-    "published_at": "2026-09-03T09:55:14.657-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680094035273269258",
-    "title": "别再靠 Code Review 守底线：我做了一个静态分析项目 RedLine",
-    "url": "https://juejin.cn/post/7680094035273269258",
-    "source": "juejin",
-    "score": 0.11074064,
-    "published_at": "2026-08-31T23:37:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49498860",
-    "title": "My BC-250 Journey (With 40 CUs Unlocked)",
-    "url": "https://worldofmatthew.com/blog/bc250/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-08-30T14:14:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49553549",
-    "title": "Instrument Clusters Are Now Paid Extras in Two Hyundai Models",
-    "url": "https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-03T17:25:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49551589",
-    "title": "Grok outage",
-    "url": "https://status.x.ai/",
-    "source": "hackernews",
-    "score": 143.0,
-    "published_at": "2026-09-03T15:26:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49494043",
-    "title": "“We want it to really confuse people, but also really make people happy”",
-    "url": "https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-08-29T22:53:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49552375",
-    "title": "Texas Data Center Map: See where data centers are operating or planned",
-    "url": "https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-03T16:10:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49552055",
-    "title": "VC isn't VC anymore – understanding the rise of Cancer Capital",
-    "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-09-03T15:51:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49553303",
-    "title": "Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB",
-    "url": "https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-03T17:09:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49539556",
-    "title": "Static Allocation, Constant Work",
-    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-02T17:30:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49551925",
-    "title": "Sony makes bold claim about game ownership",
-    "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
-    "source": "hackernews",
-    "score": 129.0,
-    "published_at": "2026-09-03T15:44:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49551096",
-    "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
-    "url": "https://news.ycombinator.com/item?id=49551096",
-    "source": "hackernews",
-    "score": 154.0,
-    "published_at": "2026-09-03T15:07:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49553173",
-    "title": "Founding Creative Engineer – Gooseworks (YC W23) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-03T17:00:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49552616",
-    "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-    "url": "https://www.mireye.com",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-03T16:24:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49550698",
-    "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-    "url": "https://anyhumanever.com/",
-    "source": "hackernews",
-    "score": 181.0,
-    "published_at": "2026-09-03T14:51:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49549919",
-    "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
-    "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
-    "source": "hackernews",
-    "score": 182.0,
-    "published_at": "2026-09-03T13:51:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49551760",
-    "title": "K2 Horizon: Frontier Performance, Radically Open",
-    "url": "https://ifm.ai/blog/k2/",
-    "source": "hackernews",
-    "score": 111.0,
-    "published_at": "2026-09-03T15:36:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49550772",
-    "title": ".name Termination",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "source": "hackernews",
-    "score": 530.0,
-    "published_at": "2026-09-03T14:54:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:towfrz",
-    "title": "Révo Programming language",
-    "url": "https://revo.lung.fyi/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-03T08:21:37.693-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bgswli",
-    "title": "Souping up my blog",
-    "url": "https://qtea.me/posts/souping-up-my-blog/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-03T06:35:09.089-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:izlxli",
-    "title": "How to Guarantee You Never Ship",
-    "url": "https://kore-nordmann.de/blog/how_to_guarantee_you_never_ship.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-03T08:00:52.195-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zatuk4",
-    "title": "The Browser's Main Thread Is Expensive",
-    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-03T04:51:30.254-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:2avct0",
-    "title": "How Swiss Tables Work in Go’s Built-in Map",
-    "url": "https://victoriametrics.com/blog/go-swiss-table-map/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-03T05:50:44.563-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zudpcb",
-    "title": "jujutsu 0.45.0",
-    "url": "https://github.com/jj-vcs/jj/releases/tag/v0.45.0",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-09-03T05:02:34.907-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680352383386107940",
-    "title": "憋了7周没动静，OpenClaw 2.0带着16000个PR杀回来了",
-    "url": "https://juejin.cn/post/7680352383386107940",
-    "source": "juejin",
-    "score": 0.19518427,
-    "published_at": "2026-09-01T07:05:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680467520381272105",
-    "title": "运维的活儿全压在一台笔记本上，我给桌面加了块只往上长的双 4K屏",
-    "url": "https://juejin.cn/post/7680467520381272105",
-    "source": "juejin",
-    "score": 0.22361607,
-    "published_at": "2026-09-02T01:05:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680738390950510630",
-    "title": "技术好就能升职是前端圈最大的谎言！",
-    "url": "https://juejin.cn/post/7680738390950510630",
-    "source": "juejin",
-    "score": 0.39561586,
-    "published_at": "2026-09-02T04:04:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:obra/superpowers",
-    "title": "superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:f/prompts.chat",
-    "title": "prompts.chat",
-    "url": "https://github.com/f/prompts.chat",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:magnitudedev/magnitude",
-    "title": "magnitude",
-    "url": "https://github.com/magnitudedev/magnitude",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ByteByteGoHq/system-design-101",
-    "title": "system-design-101",
-    "url": "https://github.com/ByteByteGoHq/system-design-101",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:addyosmani/agent-skills",
-    "title": "agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:bannedbook/fanqiang",
-    "title": "fanqiang",
-    "url": "https://github.com/bannedbook/fanqiang",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/skills",
-    "title": "skills",
-    "url": "https://github.com/anthropics/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49548452",
-    "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-    "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-09-03T11:01:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49548530",
-    "title": "A dark horse enters China's AI race: StartLux",
-    "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-03T11:12:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49505306",
-    "title": "Amazon Stonehenge: Parque Arqueológico do Solstício",
-    "url": "https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-08-31T03:37:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49547888",
-    "title": "Claude for Commerce Agents",
-    "url": "https://claude.com/blog/claude-for-commerce-agents",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-03T09:37:55+00:00",
     "summary": "",
     "key_points": []
   }
