@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:vospwq",
+    "title": "Signing TLS handshakes inside a TPM",
+    "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-07T09:54:37.393-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:r5b28u",
+    "title": "The Dataflow Model Revisited",
+    "url": "https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-07T12:11:49.400-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6xfpvw",
+    "title": "What every kernel programmer should know about Jump Labels",
+    "url": "https://walac.github.io/jumplabels/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-07T10:11:27.680-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5yga7r",
+    "title": "GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator",
+    "url": "https://github.com/triglav-os/gem",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-07T08:44:49.124-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:adrda9",
+    "title": "How well do agents use test/verification techniques?",
+    "url": "https://danluu.com/agentic-testing/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-07T11:17:46.001-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ku4hwg",
+    "title": "Rust debugging survey 2026 results",
+    "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-07T12:00:42.881-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8csfoa",
+    "title": "Two Tiny Utils for the Result Pattern",
+    "url": "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-07T09:07:45.962-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240041",
+    "title": "上了十年班，亏了两百万",
+    "url": "https://www.v2ex.com/t/1240041",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-09-07T05:32:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239914",
+    "title": "鱼油有什么推荐的吗？",
+    "url": "https://www.v2ex.com/t/1239914",
+    "source": "v2ex",
+    "score": 138.0,
+    "published_at": "2026-09-07T01:31:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682253775991734323",
+    "title": "明明做了很多事，为什么简历看起来还是没含金量？",
+    "url": "https://juejin.cn/post/7682253775991734323",
+    "source": "juejin",
+    "score": 0.89405702,
+    "published_at": "2026-09-07T03:00:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49599481",
+    "title": "Bill Gates tries to install MovieMaker",
+    "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+    "source": "hackernews",
+    "score": 135.0,
+    "published_at": "2026-09-07T15:27:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49600997",
+    "title": "No constitutional right to clean water, federal court finds",
+    "url": "https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-07T17:52:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49599719",
+    "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
+    "url": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-09-07T15:50:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49535375",
+    "title": "Academia as a d-index measuring contest",
+    "url": "https://kevinmunger.substack.com/p/introducing-the-k-index",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-02T12:40:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49562440",
+    "title": "Whistle Synth",
+    "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-04T09:44:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49600432",
+    "title": "PostgreSQL 19 Interactive Tour",
+    "url": "https://victoriametrics.com/blog/postgres-19/index.html",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-07T16:58:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49600233",
+    "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+    "url": "https://news.ycombinator.com/item?id=49600233",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-09-07T16:40:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49561002",
+    "title": "Decoding the NEC V20 Microcode",
+    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-09-04T05:53:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49589190",
+    "title": "The Dataflow Model Revisited",
+    "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-06T18:10:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49558685",
+    "title": "Simple Is Not Small",
+    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-09-03T23:47:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49599609",
+    "title": "C Is Not a Low-Level Language (2018)",
+    "url": "https://queue.acm.org/doi/10.1145/3212477.3212479",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-07T15:39:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49598291",
+    "title": "bzip3",
+    "url": "https://github.com/iczelia/bzip3",
+    "source": "hackernews",
+    "score": 237.0,
+    "published_at": "2026-09-07T13:35:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:0htvw0",
     "title": "\"Hammock Driven Development\" (2010)",
     "url": "https://youtu.be/f84n5oFoZBc",
@@ -4776,226 +4996,6 @@
     "source": "hackernews",
     "score": 1.0,
     "published_at": "2026-09-03T21:01:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49557206",
-    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-    "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-03T21:20:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:el3fvf",
-    "title": "How I converted BBC Micro Elite into a two-player game",
-    "url": "https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-03T10:29:55.489-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49549877",
-    "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
-    "url": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-09-03T13:47:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49540827",
-    "title": "Unified Arabic",
-    "url": "https://worksthatwork.com/6/unified-arabic",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-02T19:02:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49515558",
-    "title": "How to get a free .arpa domain",
-    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-    "source": "hackernews",
-    "score": 79.0,
-    "published_at": "2026-08-31T22:21:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49544762",
-    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-09-03T01:11:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49553321",
-    "title": "How concerned should we be about Astra's recurrent architecture?",
-    "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-03T17:10:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49534573",
-    "title": "Dextroproporphan: An Analogue for a Better Dextromethorphan",
-    "url": "https://monfak.top/blog/posts/dextroproporphan",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-02T11:06:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49555233",
-    "title": "The asteroid currently hitting front end web development",
-    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-03T19:17:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49548256",
-    "title": "Gloria Steinem has died",
-    "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-09-03T10:31:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49543220",
-    "title": "VC isn't VC anymore",
-    "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
-    "source": "hackernews",
-    "score": 132.0,
-    "published_at": "2026-09-02T22:05:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49526298",
-    "title": "Xanadu was waiting for agents",
-    "url": "https://zed.dev/blog/agentic-xanadu",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-09-01T18:50:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49544618",
-    "title": "GPS glitched across the US by as much as 33 feet",
-    "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-03T00:49:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49537632",
-    "title": "The true horror of Edgar Allan Poe’s stories lies in their confessions",
-    "url": "https://yalereview.org/article/emily-ogden-edgar-allan-poe",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-02T15:18:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49555478",
-    "title": "The death of San Francisco's Market Street",
-    "url": "https://www.noahpinion.blog/p/the-death-of-market-street",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-03T19:33:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49555691",
-    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-    "url": "https://arcprize.org/blog/astra",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-09-03T19:45:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49538069",
-    "title": "Unusual Suspects",
-    "url": "https://neal.fun/unusual-suspects/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-02T15:48:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49552572",
-    "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-    "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-09-03T16:21:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49550375",
-    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-    "source": "hackernews",
-    "score": 101.0,
-    "published_at": "2026-09-03T14:28:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49526453",
-    "title": "The largest electric aircraft just flew [video]",
-    "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-01T19:02:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49554520",
-    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "url": "https://inference-docs.cerebras.ai/models/overview",
-    "source": "hackernews",
-    "score": 286.0,
-    "published_at": "2026-09-03T18:32:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49554643",
-    "title": "GPT-6 Astra",
-    "url": "https://openai.com/index/gpt-6-astra/",
-    "source": "hackernews",
-    "score": 684.0,
-    "published_at": "2026-09-03T18:41:05+00:00",
     "summary": "",
     "key_points": []
   }
