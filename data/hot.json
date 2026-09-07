@@ -1,5 +1,345 @@
 [
   {
+    "id": "lobsters:9i5qo4",
+    "title": "slop lasagna",
+    "url": "https://underreacted.leaflet.pub/3mdjygm2p5s2c",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-06T22:08:41.354-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vcsb4x",
+    "title": "Why frontends fail when you approach them like a backend",
+    "url": "http://marijkeluttekes.dev/blog/articles/2026/03/16/why-frontends-fail-when-you-approach-them-like-a-backend/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-06T14:18:09.566-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qsjwv4",
+    "title": "Posting about online presentations",
+    "url": "https://lobste.rs/s/qsjwv4",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-07T00:04:28.395-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239907",
+    "title": "前公司领导想让我回去工作，还有必要回去吗？",
+    "url": "https://www.v2ex.com/t/1239907",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-09-07T01:08:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239875",
+    "title": "上学累还是上班累",
+    "url": "https://www.v2ex.com/t/1239875",
+    "source": "v2ex",
+    "score": 142.0,
+    "published_at": "2026-09-06T15:35:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239908",
+    "title": "我姐姐想买个不超过 7w 的车，接娃上下学，另外跑跑顺风车，求推荐",
+    "url": "https://www.v2ex.com/t/1239908",
+    "source": "v2ex",
+    "score": 162.0,
+    "published_at": "2026-09-07T01:17:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239961",
+    "title": "与人发生纠纷后，疑似被“三网定位”获取位置，有什么办法防范？",
+    "url": "https://www.v2ex.com/t/1239961",
+    "source": "v2ex",
+    "score": 172.0,
+    "published_at": "2026-09-07T02:32:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239906",
+    "title": "我发现一句对人生帮助巨大的 prompt， GPT 给我的回答好到我打算拿来当座右铭",
+    "url": "https://www.v2ex.com/t/1239906",
+    "source": "v2ex",
+    "score": 200.0,
+    "published_at": "2026-09-07T01:07:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239902",
+    "title": "Codex 又有 1000 邀请额度了，有条件的留邮箱",
+    "url": "https://www.v2ex.com/t/1239902",
+    "source": "v2ex",
+    "score": 218.0,
+    "published_at": "2026-09-07T00:52:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1239922",
+    "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
+    "url": "https://www.v2ex.com/t/1239922",
+    "source": "v2ex",
+    "score": 284.0,
+    "published_at": "2026-09-07T01:42:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682217734722027558",
+    "title": "💬面试官：Markdown 流式解析如何避免标签截断？「直接重新让 marked 全部渲染」行不行？",
+    "url": "https://juejin.cn/post/7682217734722027558",
+    "source": "juejin",
+    "score": 2.55250385,
+    "published_at": "2026-09-07T01:03:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682406523184709670",
+    "title": "设计稿里的图片明明很清晰，为什么到了手机上却糊了？一文讲透 DPR、压缩与格式选择",
+    "url": "https://juejin.cn/post/7682406523184709670",
+    "source": "juejin",
+    "score": 1.6817677,
+    "published_at": "2026-09-07T02:07:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681952931486957583",
+    "title": "「Flutter 文件保存太难了？」一个插件打通 7 大平台，我把方案开源了 🎉",
+    "url": "https://juejin.cn/post/7681952931486957583",
+    "source": "juejin",
+    "score": 0.4858162,
+    "published_at": "2026-09-06T10:01:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681733440023183414",
+    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+    "url": "https://juejin.cn/post/7681733440023183414",
+    "source": "juejin",
+    "score": 0.39282427,
+    "published_at": "2026-09-06T06:14:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682394398210932763",
+    "title": "走进AI Agent第三篇：让 Agent 记住你",
+    "url": "https://juejin.cn/post/7682394398210932763",
+    "source": "juejin",
+    "score": 7.54999926,
+    "published_at": "2026-09-07T03:25:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681913265295867930",
+    "title": "太尴尬了！Opus5把GPT6按在地上摩擦了！",
+    "url": "https://juejin.cn/post/7681913265295867930",
+    "source": "juejin",
+    "score": 0.70297872,
+    "published_at": "2026-09-06T09:23:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7681931232724860970",
+    "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+    "url": "https://juejin.cn/post/7681931232724860970",
+    "source": "juejin",
+    "score": 3.86526718,
+    "published_at": "2026-09-07T00:56:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682262550978936884",
+    "title": "三年了，AI为何还没有抢走程序员饭碗？",
+    "url": "https://juejin.cn/post/7682262550978936884",
+    "source": "juejin",
+    "score": 7.99436438,
+    "published_at": "2026-09-07T02:41:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49548196",
+    "title": "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
+    "url": "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-09-03T10:23:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49593842",
+    "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+    "url": "https://github.com/trailofbits/coop",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-07T04:18:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49538741",
+    "title": "Study Math with Kusama",
+    "url": "https://medium.com/counterarts/study-math-with-kusama-6008df7c2abd",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-02T16:32:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49593971",
+    "title": "TiVo to charge money for skipping commercials in your own recordings",
+    "url": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-07T04:41:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49592366",
+    "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+    "url": "https://github.com/Staatsgeheim/MathKernel",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-07T00:21:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49590946",
+    "title": "Signing TLS handshakes inside a TPM",
+    "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-06T21:05:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49594008",
+    "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+    "url": "https://github.com/timgordontg/engrim",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-07T04:49:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49592840",
+    "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+    "url": "https://gettogether.dev",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-07T01:41:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49564609",
+    "title": "The NX bit is not just about security",
+    "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-09-04T13:47:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49593959",
+    "title": "I refused to train the AI that could replace me",
+    "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-07T04:38:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49583440",
+    "title": "Ask HN: Would you read a statistics textbook?",
+    "url": "https://news.ycombinator.com/item?id=49583440",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-09-06T04:52:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49577129",
+    "title": "Ask HN: Fable hacked my piano, can I release the results?",
+    "url": "https://news.ycombinator.com/item?id=49577129",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-09-05T14:54:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49593066",
+    "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+    "url": "https://rfd.shared.oxide.computer/rfd/0301",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-07T02:14:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49589914",
+    "title": "Ask HN: How do you manage skills files?",
+    "url": "https://news.ycombinator.com/item?id=49589914",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-09-06T19:27:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49550276",
+    "title": "I'm a seeing-eye dog for a computer",
+    "url": "https://claytonwramsey.com/blog/seeing-eye/",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-03T14:20:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49593563",
+    "title": "Keep Our Servers Running",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "source": "hackernews",
+    "score": 230.0,
+    "published_at": "2026-09-07T03:29:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:n0zgj1",
     "title": "Making a Python interpreter in 1024 bytes",
     "url": "https://austinhenley.com/blog/python1024.html",
@@ -4656,346 +4996,6 @@
     "source": "hackernews",
     "score": 28.0,
     "published_at": "2026-09-03T09:37:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49513721",
-    "title": "Fish Bad, Sugar Good and Other Medieval Ideas About Food",
-    "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-08-31T19:14:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49548952",
-    "title": "Nvidia to Acquire Hugging Face",
-    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-09-03T12:10:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49548864",
-    "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-    "url": "https://9mothers.com/careers",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-03T12:00:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49505257",
-    "title": "Intrusive Linked Lists",
-    "url": "https://www.data-structures-in-practice.com/intrusive-linked-lists/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-08-31T03:28:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49492796",
-    "title": "What I Learned from My Mom (1941-2026)",
-    "url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
-    "source": "hackernews",
-    "score": 103.0,
-    "published_at": "2026-08-29T19:52:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49521264",
-    "title": "Invisible Companies",
-    "url": "https://colossus.com/article/invisible-companies/",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-09-01T12:48:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49549676",
-    "title": "Elevated Errors for Multiple Models",
-    "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-03T13:29:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49548395",
-    "title": "Audacity 4.0",
-    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-    "source": "hackernews",
-    "score": 366.0,
-    "published_at": "2026-09-03T10:53:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:307nji",
-    "title": "What's in the Emacs newcomers-presets theme?",
-    "url": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-03T03:40:15.691-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tst4e1",
-    "title": "Reverse Engineering Unknown File Formats with ImHex",
-    "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-02T17:30:57.415-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:l1luho",
-    "title": "asciiQuake",
-    "url": "https://asciiquake.wtf/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-02T20:45:42.982-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fxk56i",
-    "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
-    "url": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-03T03:28:28.231-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:klhs7o",
-    "title": "deforester - Logging for Janet",
-    "url": "https://codeberg.org/veqq/deforester",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-02T23:12:04.308-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239107",
-    "title": "吐个槽：都 2026 年了 电脑竟然中病毒了",
-    "url": "https://www.v2ex.com/t/1239107",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-09-03T02:04:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239103",
-    "title": "失业马上半年了，还没找到工作~~",
-    "url": "https://www.v2ex.com/t/1239103",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-09-03T01:53:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239194",
-    "title": "公司要在每个人工位上安装监控摄像头，感觉都没心思工作了",
-    "url": "https://www.v2ex.com/t/1239194",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-09-03T05:47:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239152",
-    "title": "做了一个“不发通知”的提醒 App，想听听 V 友意见，附送 50 个永久 Pro 兑换码",
-    "url": "https://www.v2ex.com/t/1239152",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-09-03T03:23:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239092",
-    "title": "35 岁即将失业，英语差，想去报班，去面试要求全英面试的企业，是不是一条出路",
-    "url": "https://www.v2ex.com/t/1239092",
-    "source": "v2ex",
-    "score": 126.0,
-    "published_at": "2026-09-03T01:35:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239110",
-    "title": "RouterYo 中转站，来给 V 友发福利了, 评论就送 $10 额度，进群额外再送！",
-    "url": "https://www.v2ex.com/t/1239110",
-    "source": "v2ex",
-    "score": 224.0,
-    "published_at": "2026-09-03T02:09:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239151",
-    "title": "两个月 12000 台装机、收入 1000 出头： 2MB 的 Markdown 阅读器 mdview 准备涨价，求建议",
-    "url": "https://www.v2ex.com/t/1239151",
-    "source": "v2ex",
-    "score": 272.0,
-    "published_at": "2026-09-03T03:22:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680079424891011124",
-    "title": "企业级 AI Coding 的 Harness 工程实战：8 个 Skill 串起全链路",
-    "url": "https://juejin.cn/post/7680079424891011124",
-    "source": "juejin",
-    "score": 0.19816188,
-    "published_at": "2026-09-01T00:29:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680357430018949135",
-    "title": "Claude 官方的学习教程，太强了。",
-    "url": "https://juejin.cn/post/7680357430018949135",
-    "source": "juejin",
-    "score": 0.2771972,
-    "published_at": "2026-09-01T08:15:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680496681512042548",
-    "title": "Java切面编程（AOP）详解：从核心概念到实战应用",
-    "url": "https://juejin.cn/post/7680496681512042548",
-    "source": "juejin",
-    "score": 2.58751169,
-    "published_at": "2026-09-02T03:06:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49528506",
-    "title": "Show HN: OwnTime – a chess clock for your day's priorities",
-    "url": "https://owntime.app/",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-09-01T21:29:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49511493",
-    "title": "The Computer Museum of America reclamation project",
-    "url": "https://computer-museum.org/wp/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-08-31T16:15:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49530169",
-    "title": "LLMs and Self-Referentiality",
-    "url": "https://scottaaronson.blog/?p=10046",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-02T00:20:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49546800",
-    "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
-    "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-03T07:04:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49522137",
-    "title": "The Browser's Main Thread Is Expensive",
-    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-01T14:00:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49546753",
-    "title": "Pre-Release of Polars 2.0",
-    "url": "https://pola.rs/posts/announcing-polars-2/",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-09-03T06:59:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ygjo0g",
-    "title": "I Think the Military Commissary Freezers Were Hacked",
-    "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-02T22:20:07.952-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6e1y6s",
-    "title": "Security Incident – BGP Hijacking – Virtualizor",
-    "url": "https://www.virtualizor.com/blog/security-incident-bgp-hijacking/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-02T21:07:30.786-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238936",
-    "title": "自建中转站试运行邀请大家来体验~",
-    "url": "https://www.v2ex.com/t/1238936",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-09-02T06:57:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1238942",
-    "title": "5X 的 Codex 一天半烧完了，晒晒我的智障多 agent 工作流",
-    "url": "https://www.v2ex.com/t/1238942",
-    "source": "v2ex",
-    "score": 100.0,
-    "published_at": "2026-09-02T07:16:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239124",
-    "title": "裁员问题求助！",
-    "url": "https://www.v2ex.com/t/1239124",
-    "source": "v2ex",
-    "score": 100.0,
-    "published_at": "2026-09-03T02:31:40+00:00",
     "summary": "",
     "key_points": []
   }
