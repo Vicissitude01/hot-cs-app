@@ -1,5 +1,145 @@
 [
   {
+    "id": "lobsters:im7lnc",
+    "title": "NetBSD GSoC 2026 Testing Compat Linux Syscall testing",
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_testing_compat_linux_2",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-08T10:21:19.391-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pdr2bo",
+    "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
+    "url": "https://bensimms.moe/reverse-engineering-scooter/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-08T16:03:22.480-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wlcg5w",
+    "title": "What makes $BigTechCompany's products bad, anyway?",
+    "url": "https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-08T16:05:31.949-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49614720",
+    "title": "ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "source": "hackernews",
+    "score": 225.0,
+    "published_at": "2026-09-08T18:37:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49614557",
+    "title": "Flights cancelled at UK airports due to ATC issue",
+    "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+    "source": "hackernews",
+    "score": 109.0,
+    "published_at": "2026-09-08T18:26:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49581066",
+    "title": "Tyranny of Optionality",
+    "url": "https://hvpandya.com/tyranny-of-optionality",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-05T21:52:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49615926",
+    "title": "OpenAI fought dirty on career-making math problem",
+    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "source": "hackernews",
+    "score": 90.0,
+    "published_at": "2026-09-08T19:47:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49615139",
+    "title": "Function Arguments Are Not Function Colors",
+    "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-08T19:04:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49562430",
+    "title": "Tracing np.add, all the way down",
+    "url": "https://blog.veitheller.de/numpy.html",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-04T09:42:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49616272",
+    "title": "Animation in Bevy: The Big Picture",
+    "url": "https://glocq.com/en/blog/20260827/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-08T20:08:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49575766",
+    "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
+    "url": "https://uecker.codeberg.page/2026-09-05.html",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-05T12:09:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49615537",
+    "title": "Muse: Meta's personal AI agent, features and capabilities",
+    "url": "https://ai.meta.com/muse/",
+    "source": "hackernews",
+    "score": 157.0,
+    "published_at": "2026-09-08T19:25:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49616354",
+    "title": "Mercury 2.5",
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-09-08T20:14:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49616257",
+    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "url": "https://github.com/argonautlabsai/deltafin",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-09-08T20:07:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:uhzuen",
     "title": "Serving Web from volatile Dial-up IP",
     "url": "https://blog.mro.name/2026/09/web-from-dial-up/",
@@ -4856,146 +4996,6 @@
     "source": "juejin",
     "score": 0.882354,
     "published_at": "2026-09-04T10:28:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49571263",
-    "title": "Connecting every app to every other app",
-    "url": "https://blog.val.town/connectors",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-04T23:09:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49571537",
-    "title": "Show HN: Moadim.io – A scheduler for agents",
-    "url": "https://moadim.io/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-04T23:50:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49521631",
-    "title": "ExactTex. A gradually-typed superset of LaTeX",
-    "url": "https://github.com/camilochs/exacttex",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-01T13:19:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49571634",
-    "title": "Nitter has more working instances than before the takedowns",
-    "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-05T00:04:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49533840",
-    "title": "Ask HN: Resources to get good at soldering?",
-    "url": "https://news.ycombinator.com/item?id=49533840",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-09-02T09:24:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49528484",
-    "title": "Bugs happen: The easy way to compare solo PQ to ECC+PQ",
-    "url": "https://blog.cr.yp.to/20260704-bugs.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-01T21:27:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49519850",
-    "title": "Git Submodules as a Package Manager",
-    "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-01T09:36:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49571465",
-    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-09-04T23:38:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49571632",
-    "title": "Artificial Analysis Intelligence Index v4.2",
-    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-09-05T00:04:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ibn0da",
-    "title": "Mongotar: Files to prompt, and back",
-    "url": "https://github.com/sebastiancarlos/mongotar",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-04T17:14:35.566-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239398",
-    "title": "请教下今天我们的大 A 暴涨的原因是什么",
-    "url": "https://www.v2ex.com/t/1239398",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-09-04T02:19:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49571038",
-    "title": "Christmas Village shoppers no longer will be allowed to enter booths",
-    "url": "https://www.phillyvoice.com/christmas-village-booths-ada-compliance/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-04T22:39:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49570597",
-    "title": "Icons as a Service",
-    "url": "https://nravic.com/blog/images/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-04T21:44:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49570328",
-    "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
-    "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-04T21:16:16+00:00",
     "summary": "",
     "key_points": []
   }
