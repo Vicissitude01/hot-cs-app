@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:lf3est",
+    "title": "Rust: When Empty Isn't Bottom",
+    "url": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-08T16:23:18.378-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pxreik",
+    "title": "How to build a f**king printer",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-08T16:39:21.263-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49599825",
+    "title": "Reverse Engineering an ASIC",
+    "url": "https://kjartanvandriel.github.io/asic/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-07T16:02:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49591112",
+    "title": "The Microeconomics of Artificial Intelligence (2025)",
+    "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-06T21:24:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49618050",
+    "title": "A Topological Picture Book, Rendered",
+    "url": "https://e-infinity.space/picture-book/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-08T22:28:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49616968",
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-08T21:00:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49617255",
+    "title": "How to build a printer",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-09-08T21:22:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49617581",
+    "title": "Large language models develop novel social biases through adaptive exploration",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-09-08T21:47:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:im7lnc",
     "title": "NetBSD GSoC 2026 Testing Compat Linux Syscall testing",
     "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_testing_compat_linux_2",
@@ -4916,86 +4996,6 @@
     "source": "v2ex",
     "score": 52.0,
     "published_at": "2026-09-04T05:47:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239621",
-    "title": "周六清早起来快蹬 马上又要重置了....",
-    "url": "https://www.v2ex.com/t/1239621",
-    "source": "v2ex",
-    "score": 58.0,
-    "published_at": "2026-09-05T00:59:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239525",
-    "title": "用了一次 5.6 Luna，我就滚回到了 Sol",
-    "url": "https://www.v2ex.com/t/1239525",
-    "source": "v2ex",
-    "score": 64.0,
-    "published_at": "2026-09-04T08:04:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239487",
-    "title": "opencode 出新模型了，叫 Omen Alpha，输入输出价格接近 deepseek，速度飞快",
-    "url": "https://www.v2ex.com/t/1239487",
-    "source": "v2ex",
-    "score": 72.0,
-    "published_at": "2026-09-04T06:35:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239517",
-    "title": "gtp6 体验中[吉吉 API] 即使同步上线，欢迎各位大佬前来尝鲜。纯血 Pro 倍率 0.16 缓存近 90%，首字 1S 起，自用实时监测无降智，回复送测试鸡蛋。",
-    "url": "https://www.v2ex.com/t/1239517",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-09-04T07:45:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239479",
-    "title": "聊聊成都老破小",
-    "url": "https://www.v2ex.com/t/1239479",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-09-04T06:21:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239454",
-    "title": "[中转站] 福利国模分组上线，限时 0.09x 爽蹬，进来领鸡蛋",
-    "url": "https://www.v2ex.com/t/1239454",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-09-04T04:48:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7681223706187153443",
-    "title": "GPT-6 Astra 来了，GPT-5.6 Sol 还值得用吗？聊聊 Coding、百万上下文、价格和 Plus/Pro",
-    "url": "https://juejin.cn/post/7681223706187153443",
-    "source": "juejin",
-    "score": 0.50424128,
-    "published_at": "2026-09-04T03:43:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7681511201546076194",
-    "title": "【社区公告】签到与矿石奖励解耦说明",
-    "url": "https://juejin.cn/post/7681511201546076194",
-    "source": "juejin",
-    "score": 0.882354,
-    "published_at": "2026-09-04T10:28:11+00:00",
     "summary": "",
     "key_points": []
   }
