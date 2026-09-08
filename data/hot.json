@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:3cfr3a",
+    "title": "CERN's migration path from CentOS Linux to Debian",
+    "url": "https://lwn.net/SubscriberLink/1092512/0772b817c369632b/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-08T08:07:26.645-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nsx2dk",
+    "title": "Replacing startplasma with shell scripts or dinit (Part 1)",
+    "url": "https://cukic.co/2026/09/07/startplasma-with-shell-scripts-or-dinit",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-08T06:09:26.467-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1baq3m",
+    "title": "x86 evolution for segmentation and paging",
+    "url": "https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-08T05:22:13.336-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ikzvtv",
+    "title": "Switching Password Managers in 2026",
+    "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-08T08:55:09.220-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tprfej",
+    "title": "Extreme Server Side Rendering",
+    "url": "https://www.scd31.com/posts/extreme-server-side-rendering",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-09-08T05:54:57.814-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240288",
+    "title": "有啥方式可以防止丢伞，每次买来不出一个月就要丢几把",
+    "url": "https://www.v2ex.com/t/1240288",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-09-08T02:07:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:openai/plugins",
+    "title": "plugins",
+    "url": "https://github.com/openai/plugins",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:viarotel-org/escrcpy",
+    "title": "escrcpy",
+    "url": "https://github.com/viarotel-org/escrcpy",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:browser-use/browser-use",
+    "title": "browser-use",
+    "url": "https://github.com/browser-use/browser-use",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:multica-ai/andrej-karpathy-skills",
+    "title": "andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:obra/superpowers",
+    "title": "superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cathrynlavery/diagram-design",
+    "title": "diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ayghri/i-have-adhd",
+    "title": "i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49583684",
+    "title": "Robot writes in languages it has never seen before (2019)",
+    "url": "https://www.wired.com/story/robot-writing/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-06T05:47:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49609784",
+    "title": "Show HN: DriveSync – fast Git-styled Google Drive sync CLI",
+    "url": "https://github.com/scaleninja/drivesync",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-08T13:01:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49608697",
+    "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
+    "url": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html",
+    "source": "hackernews",
+    "score": 91.0,
+    "published_at": "2026-09-08T11:13:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610890",
+    "title": "The far right's win in Germany is sending a chill through Europe's establishment",
+    "url": "https://www.cnn.com/2026/09/08/europe/germany-far-right-afd-election-europe-intl",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-08T14:33:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49608023",
+    "title": "Why getting your hands dirty is good for you",
+    "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+    "source": "hackernews",
+    "score": 131.0,
+    "published_at": "2026-09-08T09:48:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49555592",
+    "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+    "url": "https://news.ycombinator.com/item?id=49555592",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-09-03T19:38:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610229",
+    "title": "We Must Return to the Office to Use AI in Person",
+    "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-08T13:41:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610734",
+    "title": "An overview of how our family is prepared",
+    "url": "https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-08T14:21:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49574941",
+    "title": "Picolibrary: A Small Press",
+    "url": "https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-05T09:54:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49586667",
+    "title": "Extracting Steering Vectors from J space",
+    "url": "https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-06T14:03:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49607991",
+    "title": "Antiquated HTML Snippets and Artefacts",
+    "url": "https://vale.rocks/posts/html-relics",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-09-08T09:43:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610538",
+    "title": "LibreOffice breaks download records after declaring it has no AI features",
+    "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+    "source": "hackernews",
+    "score": 125.0,
+    "published_at": "2026-09-08T14:05:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610059",
+    "title": "Show HN: Copperhead – Hardware as Fast as Software",
+    "url": "https://copperhead.sh/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-09-08T13:26:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610181",
+    "title": "DaVinci Resolve 21.1",
+    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "source": "hackernews",
+    "score": 77.0,
+    "published_at": "2026-09-08T13:36:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:2trvg4",
     "title": "Surviving Black Friday: 329 billion requests with Falcon",
     "url": "https://www.youtube.com/watch?v=NMruXY3TrpI",
@@ -4726,276 +4996,6 @@
     "source": "hackernews",
     "score": 4.0,
     "published_at": "2026-09-04T17:09:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49567357",
-    "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-    "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-04T17:12:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49567961",
-    "title": "Hayes AT command set",
-    "url": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-04T17:56:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49555131",
-    "title": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
-    "url": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-03T19:10:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49562219",
-    "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-    "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-04T09:03:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49547415",
-    "title": "People that worked on the same idea for decades",
-    "url": "https://nityasnotes.com/writing/decades/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-03T08:31:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49566193",
-    "title": "deSEC – Free Secure DNS",
-    "url": "https://desec.io/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-04T15:38:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49567053",
-    "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-    "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-    "source": "hackernews",
-    "score": 112.0,
-    "published_at": "2026-09-04T16:46:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49567594",
-    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "source": "hackernews",
-    "score": 114.0,
-    "published_at": "2026-09-04T17:29:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49567873",
-    "title": "The Rust React Compiler is now native in Vite",
-    "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-04T17:49:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49568579",
-    "title": "Shutting down our public encrypted DNS",
-    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-04T18:50:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49566788",
-    "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-04T16:24:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49567437",
-    "title": "Show HN: Open-Source eInk Bike Computer",
-    "url": "https://opentrailpaper.com",
-    "source": "hackernews",
-    "score": 95.0,
-    "published_at": "2026-09-04T17:18:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49568506",
-    "title": "Formalizing Fermat's Last Theorem",
-    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-09-04T18:42:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5y7ije",
-    "title": "Imperial Colors Manifesto",
-    "url": "https://qum.cz/imperial_colors/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-04T09:46:23.168-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qnjllv",
-    "title": "FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More",
-    "url": "https://force-color.org/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-04T07:37:32.323-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:asjmva",
-    "title": "Inserting State Transitions in Postgres",
-    "url": "https://thoughtbot.com/blog/inserting-state-transitions-in-postgres",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-04T08:01:53.607-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fdbblk",
-    "title": "Collider: An experimental Minecraft server",
-    "url": "https://github.com/Nozistance/collider",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-04T08:44:44.713-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:utloro",
-    "title": "Is AI ruining my brain?",
-    "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-04T09:41:18.640-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:baiwkq",
-    "title": "Discovery of a new OpenAI agent message board",
-    "url": "https://collusion.wiki/",
-    "source": "lobsters",
-    "score": 17.0,
-    "published_at": "2026-09-04T06:43:06.812-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7tpc5q",
-    "title": "Surviving Code Reviews in the era of AI",
-    "url": "https://lobste.rs/s/7tpc5q",
-    "source": "lobsters",
-    "score": 36.0,
-    "published_at": "2026-09-04T08:11:47.640-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239403",
-    "title": "如果公司报销 200 USD 每月， Claude & ChatGPT 选哪个",
-    "url": "https://www.v2ex.com/t/1239403",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-09-04T02:24:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7681411791876177983",
-    "title": "聊个比较有意思的 Flutter Web 问题",
-    "url": "https://juejin.cn/post/7681411791876177983",
-    "source": "juejin",
-    "score": 1.0002528,
-    "published_at": "2026-09-04T01:05:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:affaan-m/ECC",
-    "title": "ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49507810",
-    "title": "1960s theory that Stonehenge was a prehistoric computer",
-    "url": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-08-31T09:57:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49563851",
-    "title": "IBM Bob",
-    "url": "https://bob.ibm.com/",
-    "source": "hackernews",
-    "score": 102.0,
-    "published_at": "2026-09-04T12:50:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49527123",
-    "title": "Essential Resources for Getting Started with at Protocol",
-    "url": "https://bnb.im/posts/atproto-essential-resources/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-01T19:48:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49564555",
-    "title": "US Military disables ad trackers on troops' phones",
-    "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-09-04T13:44:14+00:00",
     "summary": "",
     "key_points": []
   }
