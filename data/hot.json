@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:a2kz9j",
+    "title": "How to bring up the Linux Kernel on a new platform",
+    "url": "https://werwolv.net/posts/linux_bringup/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-07T16:22:11.191-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8hz82r",
+    "title": "Hardening Container Images",
+    "url": "https://www.grepular.com/Hardening_Container_Images",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-07T16:39:21.998-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49584053",
+    "title": "Catching Crumbs from the Table (2000)",
+    "url": "https://www.nature.com/articles/35014679",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-06T07:15:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49568162",
+    "title": "Show HN: I built an aesthetically pleasing puzzle",
+    "url": "https://jigsawhaiku.com/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-04T18:14:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49604150",
+    "title": "TALA Is Open-Source",
+    "url": "https://d2lang.com/blog/tala-is-open-source/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-07T23:37:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49603546",
+    "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+    "url": "https://github.com/Sadpainy/Stuxnet",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-07T22:12:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49603086",
+    "title": "Working on Economics with Fable 5",
+    "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-07T21:18:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49602699",
+    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-07T20:32:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ift0hu",
     "title": "Conquering Entropy: Cultivating Trust",
     "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
@@ -4916,86 +4996,6 @@
     "source": "juejin",
     "score": 0.60000837,
     "published_at": "2026-09-03T09:49:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680360072334655515",
-    "title": "原来 Claude Code 最厉害的工具，一行代码都不写",
-    "url": "https://juejin.cn/post/7680360072334655515",
-    "source": "juejin",
-    "score": 0.14347575,
-    "published_at": "2026-09-01T08:03:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680471403955191814",
-    "title": "一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）",
-    "url": "https://juejin.cn/post/7680471403955191814",
-    "source": "juejin",
-    "score": 0.64177756,
-    "published_at": "2026-09-02T02:39:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7681170932347830310",
-    "title": "🚀 用 17 行代码给 UniApp 加上全局登录拦截",
-    "url": "https://juejin.cn/post/7681170932347830310",
-    "source": "juejin",
-    "score": 0.72054652,
-    "published_at": "2026-09-03T10:03:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680500716225871910",
-    "title": "别让 Codex 一口气写完整个前端：5 组 Skills，把页面、逻辑、测试和构建拆清楚",
-    "url": "https://juejin.cn/post/7680500716225871910",
-    "source": "juejin",
-    "score": 0.2482574,
-    "published_at": "2026-09-02T01:27:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49515966",
-    "title": "Sing-song: a speakable encoding for long numbers and keys",
-    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-31T23:14:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49522611",
-    "title": "Virtual Threads for a scripting language in Java 8 without Loom",
-    "url": "https://jactl.io/blog/2026/08/28/jactl-virtual-threads",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-01T14:36:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49560260",
-    "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-    "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-09-04T03:40:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49549148",
-    "title": "Show HN: Reactor Atlas",
-    "url": "https://reactoratlas.com",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-03T12:33:01+00:00",
     "summary": "",
     "key_points": []
   }
