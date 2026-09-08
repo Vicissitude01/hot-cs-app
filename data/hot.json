@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:uhzuen",
+    "title": "Serving Web from volatile Dial-up IP",
+    "url": "https://blog.mro.name/2026/09/web-from-dial-up/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-08T10:49:10.259-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dlxqqr",
+    "title": "The Depths of JavaScript: Minesweeper in 247 Bytes",
+    "url": "https://yui.dev/blog/minesweeper-in-247-bytes",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-08T09:33:25.507-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ki3ylq",
+    "title": "Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM",
+    "url": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-08T02:43:27.574-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hczzuo",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-08T12:53:17.244-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:affaan-m/ECC",
+    "title": "ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49611329",
+    "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
+    "url": "https://logicola.org/blog/the-new-logicola",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-08T15:00:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49609174",
+    "title": "FreeBSD 14.5-Release",
+    "url": "https://www.freebsd.org/releases/14.5R/announce/",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-09-08T12:04:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49611549",
+    "title": "Disappointed Optimists",
+    "url": "https://cwodtke.com/disappointed-optimists/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-09-08T15:13:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49591563",
+    "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
+    "url": "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-06T22:27:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610988",
+    "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+    "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+    "source": "hackernews",
+    "score": 223.0,
+    "published_at": "2026-09-08T14:40:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610900",
+    "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+    "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+    "source": "hackernews",
+    "score": 226.0,
+    "published_at": "2026-09-08T14:33:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49575914",
+    "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-05T12:32:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49611230",
+    "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+    "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-09-08T14:54:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610641",
+    "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-09-08T14:14:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49611051",
+    "title": "The two Christian saints who are the Buddha",
+    "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+    "source": "hackernews",
+    "score": 122.0,
+    "published_at": "2026-09-08T14:44:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49612191",
+    "title": "C*: Unifying Programming and Verification in C",
+    "url": "https://arxiv.org/abs/2504.02246",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-08T15:56:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49612329",
+    "title": "LG TVs caught spying even when offline or on standby",
+    "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+    "source": "hackernews",
+    "score": 215.0,
+    "published_at": "2026-09-08T16:07:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49612635",
+    "title": "Y Combinator Early Access Network",
+    "url": "https://events.ycombinator.com/yc-early-access-fall-26",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-08T16:31:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49613182",
+    "title": "OUI-1: world's first model for Generative UI",
+    "url": "https://www.openui.com/blog/oui-1",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-08T17:07:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49612818",
+    "title": "Connecting the Machines",
+    "url": "https://herdr.dev/blog/connecting-the-machines/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-08T16:43:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610631",
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "source": "hackernews",
+    "score": 128.0,
+    "published_at": "2026-09-08T14:13:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49613068",
+    "title": "Show HN: LLM Attention Visualization",
+    "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-08T16:59:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49600901",
+    "title": "The Helicopter with Radioactive Blades",
+    "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-09-07T17:44:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49611128",
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-09-08T14:49:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49613262",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "source": "hackernews",
+    "score": 409.0,
+    "published_at": "2026-09-08T17:13:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49611251",
+    "title": "Google DeepMind Releases AlphaGenome Atlas",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "source": "hackernews",
+    "score": 291.0,
+    "published_at": "2026-09-08T14:55:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:3cfr3a",
     "title": "CERN's migration path from CentOS Linux to Debian",
     "url": "https://lwn.net/SubscriberLink/1092512/0772b817c369632b/",
@@ -4736,266 +4996,6 @@
     "source": "hackernews",
     "score": 16.0,
     "published_at": "2026-09-04T21:16:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49529161",
-    "title": "Decompiler Explorer",
-    "url": "https://dogbolt.org",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-01T22:33:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49571047",
-    "title": "Can guitar frets perform multiplication?",
-    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-04T22:40:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49570772",
-    "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
-    "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
-    "source": "hackernews",
-    "score": 93.0,
-    "published_at": "2026-09-04T22:03:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49546284",
-    "title": "RSA-260 Factorized",
-    "url": "https://twitter.com/penlume/status/2095372672356212876",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-09-03T05:35:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49570545",
-    "title": "GPT-6 Astra on OpenRouter",
-    "url": "https://openrouter.ai/openai/gpt-6-astra",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-09-04T21:39:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49570669",
-    "title": "Actively exploited sandbox RCE in all Chromium versions",
-    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-    "source": "hackernews",
-    "score": 114.0,
-    "published_at": "2026-09-04T21:52:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:f4jtaf",
-    "title": "Exploring Mojo’s raw pointer type",
-    "url": "https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-04T16:02:11.093-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fiirrs",
-    "title": "Stop Thinking of LLMs as Next-Token Predictors",
-    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-04T14:46:18.246-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bqfbqk",
-    "title": "deft: A gradual type system for Janet",
-    "url": "https://codeberg.org/zzkt/deft",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-04T11:51:46.763-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5iacaa",
-    "title": "FLT: Anthropic has beaten me to it",
-    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-    "source": "lobsters",
-    "score": 15.0,
-    "published_at": "2026-09-04T14:11:37.414-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49516691",
-    "title": "Deadpan Photography: Enjoying the Pretence",
-    "url": "https://photoni.st/index.php/2026/07/12/deadpan-photography-enjoying-the-pretence/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-01T00:59:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49569702",
-    "title": "How to Create a Tor Exit Node",
-    "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-04T20:16:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49512834",
-    "title": "The Wormhole Hall of Shame",
-    "url": "https://rznicolet.com/2026/07/05/wormhole-hall-of-shame/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-08-31T18:10:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49534025",
-    "title": "Fomu An FPGA board that fits inside your USB port",
-    "url": "https://www.crowdsupply.com/sutajio-kosagi/fomu",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-02T09:48:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49568697",
-    "title": "Fermat's Last Theorem in Lean 4",
-    "url": "https://github.com/anthropics/fermats-last-theorem",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-09-04T18:57:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49568828",
-    "title": "Government Rails Site Hit Hours After CVE Patch",
-    "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-09-04T19:06:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49569663",
-    "title": "An open DNS recursive service for free security and high privacy",
-    "url": "https://quad9.net/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-04T20:13:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49569366",
-    "title": "Can AI design circuit boards yet?",
-    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-09-04T19:48:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49569896",
-    "title": "Statichost.eu – 100% European static site hosting",
-    "url": "https://www.statichost.eu/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-04T20:34:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cywxla",
-    "title": "A preview of the future Intel Architecture documentation",
-    "url": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-04T11:20:30.805-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:67ygvv",
-    "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
-    "url": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-04T10:52:56.023-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rhjedr",
-    "title": "jank reimagines C++ errors and gets an official native package repo",
-    "url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-04T12:47:34.388-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:o8bp2s",
-    "title": "Babashka 1.13.220 gets FFI",
-    "url": "https://blog.michielborkent.nl/babashka-ffi.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-04T13:33:44.332-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49531073",
-    "title": "A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]",
-    "url": "https://www.cs.cmu.edu/~bryant/pubdir/MIT-LCS-TR-259.pdf",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-02T02:36:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49563839",
-    "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
-    "url": "https://github.com/hawshemi/lg-c5-webos25-region-change",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-04T12:49:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49567310",
-    "title": "Stop Thinking of LLMs as Next-Token Predictors",
-    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-04T17:09:24+00:00",
     "summary": "",
     "key_points": []
   }
