@@ -1,5 +1,45 @@
 [
   {
+    "id": "lobsters:qlhcr5",
+    "title": "DIFF: A Relational Interface for Large-Scale Data Explanation",
+    "url": "https://andrewxiwu.github.io/public/papers/2019/macrobase-sql-VLDB2019.pdf",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-09T15:42:24.113-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49634650",
+    "title": "Matt Mullenweg put on 'leave of absence'",
+    "url": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
+    "source": "hackernews",
+    "score": 130.0,
+    "published_at": "2026-09-09T21:28:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49602615",
+    "title": "Use Vsock with Libzmq",
+    "url": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-07T20:24:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49634966",
+    "title": "South Park creators rename show 'South America'",
+    "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-09-09T21:53:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:vjds7h",
     "title": "Bulk AbuseIPDB reporting using command-line tools",
     "url": "https://blog.mbirth.uk/2026/08/30/bulk-abuseipdb-reporting-using-command-line-tools.html",
@@ -4956,46 +4996,6 @@
     "source": "lobsters",
     "score": 3.0,
     "published_at": "2026-09-05T17:23:45.680-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rfn2mn",
-    "title": "There's No Limit to How Bad Code Can Get",
-    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-05T21:05:52.226-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rcddma",
-    "title": "Beyond ORMs",
-    "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-05T23:52:05.266-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ben6a4",
-    "title": "M2: Episode 1 (or, Asahi Linux on M3)",
-    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-09-05T19:52:57.915-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239716",
-    "title": "求推荐二手国产安卓手机，可较为无痛刷入国际版系统，并保留 BL 锁",
-    "url": "https://www.v2ex.com/t/1239716",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-09-05T11:40:03+00:00",
     "summary": "",
     "key_points": []
   }
