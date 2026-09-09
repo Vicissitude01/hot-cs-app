@@ -1,5 +1,205 @@
 [
   {
+    "id": "lobsters:ojyeqg",
+    "title": "Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0 (1999)",
+    "url": "https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten_html/index.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-09T01:47:58.129-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8mgfan",
+    "title": "software for humans",
+    "url": "https://clankerfree.org",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-08T20:56:40.443-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wrt9wm",
+    "title": "Solaris Turnstiles",
+    "url": "https://rdmsr.github.io/writing/turnstiles/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-09T03:14:25.329-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240545",
+    "title": "豆包输入法 WIN 端可以下载了",
+    "url": "https://www.v2ex.com/t/1240545",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-09-09T00:10:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240589",
+    "title": "幼儿园延时课--兴趣班该怎么选",
+    "url": "https://www.v2ex.com/t/1240589",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-09-09T02:18:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240636",
+    "title": "刚刚在网上看到长沙的 4 岁小孩被成年女性欺负，这个世界是怎么了？",
+    "url": "https://www.v2ex.com/t/1240636",
+    "source": "v2ex",
+    "score": 144.0,
+    "published_at": "2026-09-09T03:35:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240689",
+    "title": "V2Echo iOS 客户端 TestFlight 内测招募｜前 50 名赠送 Pro 永久权益",
+    "url": "https://www.v2ex.com/t/1240689",
+    "source": "v2ex",
+    "score": 154.0,
+    "published_at": "2026-09-09T06:41:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240644",
+    "title": "避雷一个 AI 中转站，世一稳（https://sub.bulita.net）",
+    "url": "https://www.v2ex.com/t/1240644",
+    "source": "v2ex",
+    "score": 340.0,
+    "published_at": "2026-09-09T03:53:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682628131855728675",
+    "title": "AI时代下，Android的边界正在消失",
+    "url": "https://juejin.cn/post/7682628131855728675",
+    "source": "juejin",
+    "score": 0.29404853,
+    "published_at": "2026-09-07T12:33:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682724380078080015",
+    "title": "固定电话验证详解：区号、号码、分机号的完整验证",
+    "url": "https://juejin.cn/post/7682724380078080015",
+    "source": "juejin",
+    "score": 255.33585199,
+    "published_at": "2026-09-08T02:58:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:liquidslr/system-design-notes",
+    "title": "system-design-notes",
+    "url": "https://github.com/liquidslr/system-design-notes",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49612089",
+    "title": "Into the depths of C: Elaborating the de facto standards (2016)",
+    "url": "https://dl.acm.org/doi/10.1145/2980983.2908081",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-08T15:49:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49621223",
+    "title": "AI Has a Discovery Problem",
+    "url": "https://mhacevedo.com/posts/the-discovery-problem",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-09-09T04:59:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49607858",
+    "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
+    "url": "https://codeberg.org/jjba23/maak.el",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-08T09:28:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49621751",
+    "title": "“Tweet” and the bird logo apparently enter the public domain",
+    "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-09-09T06:02:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49622042",
+    "title": "Copyright does more harm than good and should be abolished",
+    "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+    "source": "hackernews",
+    "score": 205.0,
+    "published_at": "2026-09-09T06:31:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49621102",
+    "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+    "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-09T04:43:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580761",
+    "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+    "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-05T21:14:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49622305",
+    "title": "On Really Trying (2009)",
+    "url": "https://gwern.net/on-really-trying",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-09-09T06:58:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49622561",
+    "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-09-09T07:22:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:fvdo91",
     "title": "Teaching NumPy’s ufuncs new tricks",
     "url": "https://labs.quansight.org/blog/teaching-numpys-ufuncs-new-tricks",
@@ -4796,206 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-09-05T05:57:04.642-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:grm0m9",
-    "title": "Knowing Where to Type ‘Zero’ (2015)",
-    "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-05T06:12:59.204-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:p5w5j6",
-    "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
-    "url": "https://arxiv.org/abs/2607.24888",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-05T05:58:49.333-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239618",
-    "title": "GPT-6 Astra Ultra 消耗有点大",
-    "url": "https://www.v2ex.com/t/1239618",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-09-05T00:43:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239651",
-    "title": "梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块",
-    "url": "https://www.v2ex.com/t/1239651",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-09-05T03:06:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239673",
-    "title": "搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度",
-    "url": "https://www.v2ex.com/t/1239673",
-    "source": "v2ex",
-    "score": 72.0,
-    "published_at": "2026-09-05T06:04:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7681133923887824948",
-    "title": "Rslib 1.0 正式发布：面向多场景的 JavaScript 库开发工具",
-    "url": "https://juejin.cn/post/7681133923887824948",
-    "source": "juejin",
-    "score": 0.20995551,
-    "published_at": "2026-09-03T08:56:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7680812218214072354",
-    "title": "面试官让我用 AI 重构一个 8 年陈的 React 组件——他说他不看代码，只看我会不会拆",
-    "url": "https://juejin.cn/post/7680812218214072354",
-    "source": "juejin",
-    "score": 0.19470655,
-    "published_at": "2026-09-02T11:00:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:nvm-sh/nvm",
-    "title": "nvm",
-    "url": "https://github.com/nvm-sh/nvm",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:WorldFlowAI/everything-claude-code",
-    "title": "everything-claude-code",
-    "url": "https://github.com/WorldFlowAI/everything-claude-code",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:BraveOPotato/FckSignups",
-    "title": "FckSignups",
-    "url": "https://github.com/BraveOPotato/FckSignups",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:humanlayer/skills",
-    "title": "skills",
-    "url": "https://github.com/humanlayer/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ruvnet/ruflo",
-    "title": "ruflo",
-    "url": "https://github.com/ruvnet/ruflo",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49575176",
-    "title": "LG TVs aren't the only ones spying on you [video]",
-    "url": "https://www.youtube.com/watch?v=IvFu343KNek",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-05T10:36:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49555121",
-    "title": "'Fakers' by Rory Cormac Review",
-    "url": "https://www.historytoday.com/archive/review/fakers-rory-cormac-review",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-03T19:10:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49575034",
-    "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-    "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-09-05T10:14:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49516962",
-    "title": "Kale: A Transformation-Safe Spreadsheet System",
-    "url": "https://arxiv.org/abs/2608.26345",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-01T01:42:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49548596",
-    "title": "Sky Map 2000 – Star Atlas and Planetarium",
-    "url": "https://skymap2000.com/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-03T11:20:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49574167",
-    "title": "AI handles incidents, engineers lose touch with their systems",
-    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-    "source": "hackernews",
-    "score": 181.0,
-    "published_at": "2026-09-05T07:52:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:2eai0v",
-    "title": "AI it's not bad but it's a tool",
-    "url": "https://lobste.rs/s/2eai0v",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-04T15:47:42.822-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:duuz8z",
-    "title": "Bespoke: A Programming Language for People Who Say Please",
-    "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-05T02:13:32.661-05:00",
     "summary": "",
     "key_points": []
   }
