@@ -1,5 +1,335 @@
 [
   {
+    "id": "lobsters:mlqqpn",
+    "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-09T08:21:19.648-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:td6ssk",
+    "title": "Analysing 2048 on a 3×3 board",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-09T08:24:26.568-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jrkqiz",
+    "title": "Playing with Emacs",
+    "url": "https://idlip.in/posts/playing-emacs/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-09T06:39:04.977-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lxiabq",
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-09T07:53:21.305-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tsfs3w",
+    "title": "Why Function Arguments Are Not Function Colors",
+    "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-08T23:13:05.979-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ffvipw",
+    "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+    "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-09T08:09:45.692-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:veafpx",
+    "title": "The purpose of DNS is to spread scams",
+    "url": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-09T08:32:22.032-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zffgb8",
+    "title": "A decade of rustls",
+    "url": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-09T06:13:13.488-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9tck4q",
+    "title": "The State of Allocators in 2026 - 6 Months Later",
+    "url": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-09-09T01:43:42.537-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240579",
+    "title": "第一次发现裁员离自己并不遥远",
+    "url": "https://www.v2ex.com/t/1240579",
+    "source": "v2ex",
+    "score": 138.0,
+    "published_at": "2026-09-09T01:55:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683049897088843816",
+    "title": "大环境或许真的恶劣了起来，打工人你焦虑吗？",
+    "url": "https://juejin.cn/post/7683049897088843816",
+    "source": "juejin",
+    "score": 2.03003226,
+    "published_at": "2026-09-09T01:27:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683125482832887823",
+    "title": "浪费时间！DeepSeek 4.1 Flash",
+    "url": "https://juejin.cn/post/7683125482832887823",
+    "source": "juejin",
+    "score": 2.98941069,
+    "published_at": "2026-09-09T03:27:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:vastsa/PI-Desktop",
+    "title": "PI-Desktop",
+    "url": "https://github.com/vastsa/PI-Desktop",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:rohitg00/ai-engineering-from-scratch",
+    "title": "ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:freestylefly/awesome-gpt-image-2",
+    "title": "awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:TauricResearch/TradingAgents",
+    "title": "TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:earthtojake/text-to-cad",
+    "title": "text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Tencent/teamai-cli",
+    "title": "teamai-cli",
+    "url": "https://github.com/Tencent/teamai-cli",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49626431",
+    "title": "Ask HN: Anyone still coding like 2021? Where do you work?",
+    "url": "https://news.ycombinator.com/item?id=49626431",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-09T13:41:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49626052",
+    "title": "One woman's Tesla was remotely controlled by an abusive ex-partner",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-09T13:16:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49624163",
+    "title": "How An AI math breakthrough ignited a controversy",
+    "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+    "source": "hackernews",
+    "score": 155.0,
+    "published_at": "2026-09-09T10:25:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49623937",
+    "title": "Lotus Notes and the dangers of starting from scratch",
+    "url": "https://buttondown.com/blog/lotus-notes-email",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-09-09T10:01:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49604165",
+    "title": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes",
+    "url": "https://github.com/ashemag/human-atlas",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-07T23:40:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49623938",
+    "title": "Building a Wall Lamp from Scratch",
+    "url": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-09T10:01:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49625110",
+    "title": "Roame (YC S23) Is Hiring Viral Content Editor",
+    "url": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-09T12:01:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49562915",
+    "title": "Smolts: A pedagogical IDE for a teaching language",
+    "url": "https://eighty-twenty.org/2026/09/04/smolts",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-04T10:58:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49586494",
+    "title": "Coyote v. Acme (1990)",
+    "url": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-09-06T13:43:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49624603",
+    "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+    "url": "https://news.ycombinator.com/item?id=49624603",
+    "source": "hackernews",
+    "score": 161.0,
+    "published_at": "2026-09-09T11:19:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49623754",
+    "title": "Claude, change the \"Add to Cart\" button to blue",
+    "url": "https://opusfived.dev/",
+    "source": "hackernews",
+    "score": 175.0,
+    "published_at": "2026-09-09T09:39:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49624856",
+    "title": "I advertise malicious software on Google Ads",
+    "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+    "source": "hackernews",
+    "score": 145.0,
+    "published_at": "2026-09-09T11:43:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49624823",
+    "title": "Desert Ant Labs: local, fast models that run on device",
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-09-09T11:39:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49624394",
+    "title": "Flock Wants a Closely Surveilled World with No Exit",
+    "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+    "source": "hackernews",
+    "score": 369.0,
+    "published_at": "2026-09-09T10:54:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49626190",
+    "title": "Tailwind Labs is joining Shopify",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-09-09T13:27:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ojyeqg",
     "title": "Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0 (1999)",
     "url": "https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten_html/index.html",
@@ -4666,336 +4996,6 @@
     "source": "hackernews",
     "score": 59.0,
     "published_at": "2026-09-05T13:31:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49578280",
-    "title": "Learn Programming with OCaml",
-    "url": "https://usr.lmf.cnrs.fr/lpo/",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-09-05T16:45:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49578866",
-    "title": "The Luxuries in Life",
-    "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-    "source": "hackernews",
-    "score": 160.0,
-    "published_at": "2026-09-05T17:46:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:trzpsg",
-    "title": "Seeking Designer for a Small Company",
-    "url": "https://lobste.rs/s/trzpsg",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-05T08:04:05.878-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ccl4ag",
-    "title": "Formalizing Fermat's Last Theorem",
-    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-05T07:54:53.673-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wk38d2",
-    "title": "What filesystem are you running on your NAS/Backups, and why?",
-    "url": "https://lobste.rs/s/wk38d2",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-05T10:46:13.266-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49545430",
-    "title": "Write Software in Latin (2025) [video]",
-    "url": "https://www.youtube.com/watch?v=fGZpaqMha0o",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-03T02:53:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49525188",
-    "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
-    "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-01T17:38:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49578136",
-    "title": "Bob and Van",
-    "url": "https://marco.org/2026/09/04/bob-and-van",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-05T16:30:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49576986",
-    "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
-    "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-    "source": "hackernews",
-    "score": 171.0,
-    "published_at": "2026-09-05T14:40:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49577985",
-    "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
-    "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-09-05T16:14:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535940",
-    "title": "Singapore subway (mrt) information display types",
-    "url": "https://www.sgtrains.com/technology-infosys.html",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-02T13:30:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49577975",
-    "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
-    "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-09-05T16:13:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49578310",
-    "title": "Flock used >100 times to track veteran who recorded traffic stop",
-    "url": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
-    "source": "hackernews",
-    "score": 131.0,
-    "published_at": "2026-09-05T16:48:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:omhoxh",
-    "title": "Rust SIMD on the GPU",
-    "url": "https://vectorware.com/blog/simd-on-gpu/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-05T08:24:01.085-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:job3jy",
-    "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
-    "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-05T09:34:40.900-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5wzkwm",
-    "title": "Gleam and BEAM- Looking beyond the JVM",
-    "url": "https://vimeo.com/1223666800",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-05T07:22:34.372-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:svyytg",
-    "title": "NYC PIT Crew",
-    "url": "https://www.nyc.gov/content/pitcrew/pages/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-05T06:33:49.980-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:64n3wp",
-    "title": "zopt: low-ceremony command line parsing for Zig",
-    "url": "https://codeberg.org/hgrsd/zopt",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-05T09:48:58.209-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239687",
-    "title": "给我整乐呵了，商汤上了 deepseek v4 flash 和 pro",
-    "url": "https://www.v2ex.com/t/1239687",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-09-05T07:42:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239707",
-    "title": "汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了",
-    "url": "https://www.v2ex.com/t/1239707",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-09-05T09:21:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7681617333282963494",
-    "title": "GPT6真的是“AGI”！首测完成瘫坐沙发！",
-    "url": "https://juejin.cn/post/7681617333282963494",
-    "source": "juejin",
-    "score": 1.14035924,
-    "published_at": "2026-09-05T03:11:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49575859",
-    "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
-    "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-05T12:23:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49576611",
-    "title": "Meet the Ig Nobel Prize Winners",
-    "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-05T14:02:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49576196",
-    "title": "Pentagon rescinds new testosterone screening policy without explanation",
-    "url": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-09-05T13:11:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49540253",
-    "title": "A Million Falcons Went Missing. Here’s How They Were Found",
-    "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-02T18:19:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49575143",
-    "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-    "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-05T10:32:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49575150",
-    "title": "Terpstra Keyboard",
-    "url": "http://terpstrakeyboard.com/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-05T10:33:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49576258",
-    "title": ".gitignore Everything by Default",
-    "url": "https://packagemain.tech/p/gitignore-everything-by-default",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-05T13:19:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49576124",
-    "title": "Global warming will exceed 1.5-degree limit, UN says",
-    "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
-    "source": "hackernews",
-    "score": 102.0,
-    "published_at": "2026-09-05T13:02:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49576704",
-    "title": "There's No Limit to How Bad Code Can Get",
-    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-05T14:13:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49576386",
-    "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-09-05T13:36:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6du6h3",
-    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-05T06:50:24.422-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gbv3vr",
-    "title": "AI handles incidents, engineers lose touch with their systems",
-    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-05T05:57:04.642-05:00",
     "summary": "",
     "key_points": []
   }
