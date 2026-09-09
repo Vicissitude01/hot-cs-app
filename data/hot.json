@@ -1,5 +1,135 @@
 [
   {
+    "id": "lobsters:vjds7h",
+    "title": "Bulk AbuseIPDB reporting using command-line tools",
+    "url": "https://blog.mbirth.uk/2026/08/30/bulk-abuseipdb-reporting-using-command-line-tools.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-09T15:26:56.196-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tiltfq",
+    "title": "ID design and primary keys",
+    "url": "https://anchorsandlinks.com/posts/primary-keys/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-09T13:31:44.973-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rghafd",
+    "title": "A Design Space Exploration of Async/Await",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-09T10:22:32.302-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:o9cyiv",
+    "title": "Better AI code comment detector",
+    "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-09T13:27:24.767-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49600569",
+    "title": "Ancient cave art suggests first known humans in Ireland walked over from Wales",
+    "url": "https://www.bbc.com/news/articles/c5y75dl0jpko",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-07T17:13:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49626373",
+    "title": "What will our economic future look like?",
+    "url": "https://www.anthropic.com/institute/econ-scenarios",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-09-09T13:38:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49630583",
+    "title": "Apple Watch Ultra 4",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-09-09T17:56:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49630606",
+    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+    "url": "https://github.com/OtoDock/oto-dock",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-09T17:57:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49629868",
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+    "url": "https://arxiv.org/abs/2609.09153",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-09T17:13:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49573629",
+    "title": "Microsoft says email spammers are adopting ASCII smuggling",
+    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-05T06:24:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49630151",
+    "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+    "source": "hackernews",
+    "score": 161.0,
+    "published_at": "2026-09-09T17:33:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49630566",
+    "title": "Apple Watch Series 12",
+    "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+    "source": "hackernews",
+    "score": 142.0,
+    "published_at": "2026-09-09T17:56:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49630931",
+    "title": "iPhone Duo",
+    "url": "https://www.apple.com/iphone-duo/",
+    "source": "hackernews",
+    "score": 511.0,
+    "published_at": "2026-09-09T18:15:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ml3mgf",
     "title": "Why is this robot slowly dropping the object?",
     "url": "https://youtu.be/DqMjxcfm4Ek",
@@ -4866,136 +4996,6 @@
     "source": "v2ex",
     "score": 36.0,
     "published_at": "2026-09-05T11:40:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239730",
-    "title": "一个 MonoRepo 复杂系统的部署问题",
-    "url": "https://www.v2ex.com/t/1239730",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-09-05T13:29:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239697",
-    "title": "几个网友分享的 GPT-6-Astra 编写的游戏和 Web 页面",
-    "url": "https://www.v2ex.com/t/1239697",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-09-05T08:41:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239725",
-    "title": "卧槽 GPT-6 Astra 就是 AGI。",
-    "url": "https://www.v2ex.com/t/1239725",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-09-05T13:16:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239770",
-    "title": "拼多多购物体验真的是很恶心",
-    "url": "https://www.v2ex.com/t/1239770",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-09-06T01:32:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239751",
-    "title": "难绷，太相信 ai 了😭",
-    "url": "https://www.v2ex.com/t/1239751",
-    "source": "v2ex",
-    "score": 70.0,
-    "published_at": "2026-09-05T16:59:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7681160462331772969",
-    "title": "天才陨落了！三大 AI 集体不可用！",
-    "url": "https://juejin.cn/post/7681160462331772969",
-    "source": "juejin",
-    "score": 0.1743401,
-    "published_at": "2026-09-03T15:48:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7681286465168769067",
-    "title": "一个人，4个岗位，20天：我用Cursor+Codex上线了一款微信小游戏",
-    "url": "https://juejin.cn/post/7681286465168769067",
-    "source": "juejin",
-    "score": 0.22443859,
-    "published_at": "2026-09-04T04:44:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49543347",
-    "title": "CHC5: Open Camera System – Image Sensor Specification Comparison",
-    "url": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-02T22:17:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49583144",
-    "title": "Trump signs order to remove endangered species protection for grey wolves",
-    "url": "https://www.bbc.com/news/articles/c62k677d4lzo",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-06T03:46:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49582656",
-    "title": "AI, Tools and Transformation",
-    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-06T02:12:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49527110",
-    "title": "RecurseCenter.return()",
-    "url": "https://mm-dev.rocks/series/recursecenter.return/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-01T19:48:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49583232",
-    "title": "Vancouver strip club's Instagram taken down over sign featuring lake joke",
-    "url": "https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-06T04:07:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49529398",
-    "title": "The ColorChecker, photography's most important 24 squares, turns 50",
-    "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-01T22:54:15+00:00",
     "summary": "",
     "key_points": []
   }
