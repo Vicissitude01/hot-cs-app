@@ -1,5 +1,165 @@
 [
   {
+    "id": "lobsters:whzj8z",
+    "title": "JEP 544: Ahead-of-Time Code Compilation",
+    "url": "https://openjdk.org/jeps/544",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-10T12:31:26.646-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6tcc4t",
+    "title": "My HTML Boilerplate",
+    "url": "https://vale.rocks/posts/html-boilerplate",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-10T11:13:28.216-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nbmbxj",
+    "title": "Conversations with JJ",
+    "url": "https://laurmaedje.github.io/posts/jj/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-10T11:48:33.377-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ez6ivp",
+    "title": "What comes after git",
+    "url": "https://ersc.io/blog/what-comes-after-git",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-10T12:44:27.435-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:b3cqyr",
+    "title": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
+    "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-10T12:40:19.396-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bsvc7a",
+    "title": "It's not the YAML spec's fault, but",
+    "url": "https://slugcat.systems/post/26-09-10-yaml-spec/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-10T12:04:10.359-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49644294",
+    "title": "AI 2027 (2025)",
+    "url": "https://ai-2027.com",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-10T14:27:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645803",
+    "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+    "url": "https://usefeyn.com/blog/multimatte/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-10T15:50:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49630125",
+    "title": "Show HN: DOOM in the kernel, or fibers in eBPF",
+    "url": "https://ayles.github.io/doom-in-kernel/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-09T17:31:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645754",
+    "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+    "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-09-10T15:47:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49646778",
+    "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+    "url": "https://tokenstead.ai/models/swe-2",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-10T16:52:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49647404",
+    "title": "JEP 544: Ahead-of-Time Code Compilation",
+    "url": "https://openjdk.org/jeps/544",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-10T17:30:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49648732",
+    "title": "Genuine Creativity Is Your New Moat (2026)",
+    "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-10T19:03:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49647134",
+    "title": "Music Theory for the 21st-Century Classroom",
+    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-10T17:14:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49587121",
+    "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+    "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+    "source": "hackernews",
+    "score": 77.0,
+    "published_at": "2026-09-06T14:59:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645907",
+    "title": "Forgejo <=16.0.3 Critical RCE",
+    "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-09-10T15:57:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:39c9xe",
     "title": "Making Social Media Social",
     "url": "https://tante.cc/2026/09/10/making-social-media-social/",
@@ -4836,166 +4996,6 @@
     "source": "hackernews",
     "score": 65.0,
     "published_at": "2026-09-06T12:41:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49591620",
-    "title": "Political meddling at the Census Bureau damages the US statistical system",
-    "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-09-06T22:36:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49555114",
-    "title": "Every Novel Is Boring–Until It Isn't",
-    "url": "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-03T19:10:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49589722",
-    "title": "Finder is so frustrating and has been since day one",
-    "url": "https://kepter.app/finder",
-    "source": "hackernews",
-    "score": 88.0,
-    "published_at": "2026-09-06T19:06:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49591672",
-    "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-    "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-09-06T22:43:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49522092",
-    "title": "Adverse Selection and Markouts",
-    "url": "https://machow.ski/posts/markouts_and_adverse_selection/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-01T13:57:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49591793",
-    "title": "Is mathematics about to enter the conservatory?",
-    "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-06T23:02:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49591876",
-    "title": "Making a Python interpreter in 1024 bytes",
-    "url": "https://austinhenley.com/blog/python1024.html",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-09-06T23:14:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xyvhrx",
-    "title": "Radix_FW60: handheld CP/M 2.2 computer",
-    "url": "https://github.com/BrettHallen/Radix_FW60",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-06T15:07:16.441-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mcnj6l",
-    "title": "Data races and the limits of ThreadSanitizer in C and Go",
-    "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-06T17:13:09.207-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49590524",
-    "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
-    "url": "https://github.com/FulltimeFeline/Sol",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-06T20:24:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49591036",
-    "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
-    "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-06T21:16:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49562594",
-    "title": "A Week of Bug Reporting",
-    "url": "https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-04T10:08:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49589768",
-    "title": "D2 Is Non-Profit",
-    "url": "https://d2lang.com/blog/d2-non-profit/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-06T19:11:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49561514",
-    "title": "Reverse engineering the storage format for an undocumented database",
-    "url": "https://blog.glazer.ee/posts/converting-cronos/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-04T07:17:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49542123",
-    "title": "Vidact – a compiler that turns React into direct DOM operations",
-    "url": "https://www.vidact.dev/",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-09-02T20:34:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49590595",
-    "title": "Harnessing the Universal Geometry of Embeddings",
-    "url": "https://arxiv.org/abs/2505.12540",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-06T20:31:20+00:00",
     "summary": "",
     "key_points": []
   }
