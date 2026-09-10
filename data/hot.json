@@ -1,5 +1,345 @@
 [
   {
+    "id": "lobsters:39c9xe",
+    "title": "Making Social Media Social",
+    "url": "https://tante.cc/2026/09/10/making-social-media-social/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-10T11:30:14.952-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ol8vsp",
+    "title": "The terrible menu bar in the Windows 11 Notepad",
+    "url": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-10T10:46:32.061-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:izt4a2",
+    "title": "What algorithm did Windows XP use to choose your initial user picture?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-10T10:48:37.543-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:l3enhd",
+    "title": "Native is now the future of mobile at Shopify (2026)",
+    "url": "https://shopify.engineering/back-to-native",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-10T10:19:38.418-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ifvdvx",
+    "title": "Bad Vibes Coding",
+    "url": "https://spectrecollie.com/2026/09/05/bad-vibes-coding/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-10T10:04:46.879-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:aiikt1",
+    "title": "Xteink X4 Pro review",
+    "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-10T10:05:43.061-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gtvx0w",
+    "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
+    "url": "https://queue.acm.org/doi/10.1145/3831361",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-10T09:59:03.130-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9szn91",
+    "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
+    "url": "https://maurycyz.com/misc/domains/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-10T10:14:48.267-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:eerwba",
+    "title": "Rust Is Tier-1 Language at Microsoft",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "source": "lobsters",
+    "score": 28.0,
+    "published_at": "2026-09-10T08:40:19.081-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241018",
+    "title": "[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！",
+    "url": "https://www.v2ex.com/t/1241018",
+    "source": "v2ex",
+    "score": 148.0,
+    "published_at": "2026-09-10T06:07:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683515498140221478",
+    "title": "为啥 Blender 突然火了？",
+    "url": "https://juejin.cn/post/7683515498140221478",
+    "source": "juejin",
+    "score": 1.33098293,
+    "published_at": "2026-09-10T00:51:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683457864929329204",
+    "title": "为什么不推荐走Agent开发？",
+    "url": "https://juejin.cn/post/7683457864929329204",
+    "source": "juejin",
+    "score": 1.71438925,
+    "published_at": "2026-09-10T02:44:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49626110",
+    "title": "Liesegang Rings",
+    "url": "https://chillphysicsenjoyer.substack.com/p/liesegang-rings",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-09T13:20:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49580005",
+    "title": "Discrete Dipole Approximation Code Ddscat 7.2 (2012)",
+    "url": "https://arxiv.org/abs/1202.3424",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-05T19:45:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49643864",
+    "title": "Who Dung It? (Turdle.fun)",
+    "url": "https://turdle.fun/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-10T14:01:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49611112",
+    "title": "Show HN: Filament – Fast data movement engine in Go",
+    "url": "https://github.com/galaxy-io/filament",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-08T14:48:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49639730",
+    "title": "The first drink-driving conviction may have happened in London",
+    "url": "https://www.ianvisits.co.uk/articles/the-worlds-first-drink-driving-conviction-may-have-happened-in-london-92107/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-10T07:29:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645393",
+    "title": "Don't Let Anyone Take Away Your Big Box of Cables",
+    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-09-10T15:27:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49612470",
+    "title": "Python sets and dictionaries can have quadratic-time performance",
+    "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-08T16:17:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645804",
+    "title": "Serverless DTLS",
+    "url": "https://proxylity.com/docs/listeners/dtls.html",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-10T15:50:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610780",
+    "title": "To write non-fiction, draw the trunk, then the rest of the tree",
+    "url": "https://devz.cl/posts/how-to-write/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-09-08T14:25:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49646123",
+    "title": "One resignation turned the embers of AI fear into a wildfire",
+    "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-10T16:09:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645437",
+    "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+    "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-10T15:29:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49642531",
+    "title": "List of references on Sony websites to players \"owning\" their digital games",
+    "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+    "source": "hackernews",
+    "score": 208.0,
+    "published_at": "2026-09-10T12:18:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49646181",
+    "title": "Software Drives People Insane",
+    "url": "https://graybeard.ing/software-drives-people-insane/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-10T16:13:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645826",
+    "title": "Casablanca: How an unproduced play marched into movie history",
+    "url": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-10T15:52:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49613072",
+    "title": ">10x More Efficient Pretraining",
+    "url": "https://magic.dev/blog/pretraining#",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-08T16:59:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645686",
+    "title": "Neki",
+    "url": "https://planetscale.com/blog/introducing-neki",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-10T15:43:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49639408",
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-09-10T06:49:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645763",
+    "title": "Neki by PlanetScale",
+    "url": "https://neki.dev/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-10T15:48:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49627634",
+    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+    "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+    "source": "hackernews",
+    "score": 194.0,
+    "published_at": "2026-09-09T14:54:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645443",
+    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+    "url": "https://cognition.com/blog/swe-2",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-09-10T15:29:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49643546",
+    "title": "Rust Is Tier-1 Language at Microsoft",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "source": "hackernews",
+    "score": 253.0,
+    "published_at": "2026-09-10T13:39:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49643982",
+    "title": "Shopify moves back to Native from React Native",
+    "url": "https://shopify.engineering/back-to-native",
+    "source": "hackernews",
+    "score": 346.0,
+    "published_at": "2026-09-10T14:09:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:3fxgit",
     "title": "AI and democracy: the right to resist optimization",
     "url": "https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/",
@@ -4656,346 +4996,6 @@
     "source": "hackernews",
     "score": 19.0,
     "published_at": "2026-09-06T20:31:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:aokzbg",
-    "title": "It took a year to ship WebAssembly in Anubis",
-    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-    "source": "lobsters",
-    "score": 0.0,
-    "published_at": "2026-09-06T15:41:38.430-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uu3hhz",
-    "title": "Have the frontier labs mixed up AI safety and security?",
-    "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-06T15:47:52.849-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jsxzwl",
-    "title": "Following legal advice, the Nitter project will continue",
-    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-    "source": "lobsters",
-    "score": 19.0,
-    "published_at": "2026-09-06T13:32:04.009-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:os1y44",
-    "title": "QBittorrent breaks out of sandbox to commit crimes",
-    "url": "https://beige.party/@intransitivelie/117057396732763183",
-    "source": "lobsters",
-    "score": 19.0,
-    "published_at": "2026-09-06T14:08:49.017-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xv6z4r",
-    "title": "Python Iceberg",
-    "url": "https://aleyan.com/projects/python-iceberg/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-06T13:46:54.409-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239854",
-    "title": "为什么宽带师傅大都不愿意改桥接？",
-    "url": "https://www.v2ex.com/t/1239854",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-09-06T13:09:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239818",
-    "title": "有没有曾经患过焦虑症的 v 友，后面康复了吗？",
-    "url": "https://www.v2ex.com/t/1239818",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-09-06T08:37:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49590129",
-    "title": "There Gonna Be a Shortage of Everything",
-    "url": "https://out-of-hell.xylon.me.uk/shortage.html",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-06T19:45:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49588988",
-    "title": "Nitter and XCancel resume service after legal advice",
-    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-    "source": "hackernews",
-    "score": 297.0,
-    "published_at": "2026-09-06T17:49:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49590225",
-    "title": "The car industry A/B tested selling a car with and without CarPlay",
-    "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-09-06T19:53:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49590351",
-    "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-    "url": "https://github.com/mmeyerlein/meclaw",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-06T20:07:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49590354",
-    "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
-    "url": "https://getvodforge.com/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-06T20:07:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49540637",
-    "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials",
-    "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-02T18:47:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49590611",
-    "title": "It took a year to ship WebAssembly in Anubis",
-    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-06T20:32:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49590512",
-    "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-    "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-06T20:24:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49590738",
-    "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-    "url": "https://github.com/marsbos/mador",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-06T20:45:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:w0vvbq",
-    "title": "Leverage Code Review for Sustainable AI Coding Development",
-    "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-06T11:41:01.038-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239792",
-    "title": "昨天，用了六年多的 VMESS+WS+TLS+CDN 的配置终于被墙了",
-    "url": "https://www.v2ex.com/t/1239792",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-09-06T04:42:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:blader/humanizer",
-    "title": "humanizer",
-    "url": "https://github.com/blader/humanizer",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:NousResearch/hermes-agent",
-    "title": "hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mattpocock/skills",
-    "title": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49554622",
-    "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-    "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-03T18:40:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49540090",
-    "title": "Electronic skin for prosthetics to sense temperature and pressure",
-    "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-02T18:06:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49587040",
-    "title": "Recreating Minecraft Is Not a Benchmark",
-    "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-06T14:52:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49587217",
-    "title": "Research acceleration: The view inside OpenAI",
-    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-06T15:08:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49588466",
-    "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-06T17:00:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49587903",
-    "title": "Research carried out using NetBSD",
-    "url": "https://www.netbsd.org/gallery/research.html",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-06T16:10:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49588214",
-    "title": "We monitor internal coding agents for misalignment",
-    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-06T16:37:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49588080",
-    "title": "An Alien Mind",
-    "url": "https://openai.com/index/an-alien-mind/",
-    "source": "hackernews",
-    "score": 110.0,
-    "published_at": "2026-09-06T16:27:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49587636",
-    "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-09-06T15:44:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49589003",
-    "title": "Following legal advice, the Nitter project will continue",
-    "url": "https://github.com/zedeus/nitter",
-    "source": "hackernews",
-    "score": 101.0,
-    "published_at": "2026-09-06T17:51:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7ymd5q",
-    "title": "NetBSD 9.5 released and EOL for netbsd-9",
-    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-06T10:44:40.502-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xccvnw",
-    "title": "\"Simple Made Easy\" (2011)",
-    "url": "https://www.youtube.com/watch?v=SxdOUGdseq4",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-06T09:25:59.394-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1glwxo",
-    "title": "The Ironies of Automation (1983)",
-    "url": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-06T08:40:36.780-05:00",
     "summary": "",
     "key_points": []
   }
