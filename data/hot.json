@@ -1,5 +1,125 @@
 [
   {
+    "id": "lobsters:i22m5l",
+    "title": "Antiquated CSS and why we needed it",
+    "url": "https://blog.omgmog.net/post/antiquated-css/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-10T11:25:44.064-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:twkkac",
+    "title": "Fastly Speedtest Test",
+    "url": "https://speed.edgecompute.app/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-10T16:58:12.553-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:y3teyg",
+    "title": "Gleam Gathering 2027",
+    "url": "https://gleamgathering.com/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-10T14:40:27.051-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49647300",
+    "title": "Detecting and countering misuse of AI: September 2026",
+    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-10T17:23:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49603335",
+    "title": "Recursion into Madness",
+    "url": "https://blog.coredump.cx/p/recursion-into-madness",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-07T21:50:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49604581",
+    "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
+    "url": "https://vertumnus.fyi",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-08T01:08:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49649789",
+    "title": "Bodily Oddities",
+    "url": "https://vester.si/bodily-oddities/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-10T20:33:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49615922",
+    "title": "What happens when a GPU writes memory",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-08T19:46:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49649222",
+    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+    "url": "https://merybenavente.me/blog/proof-of-capture",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-10T19:44:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49650418",
+    "title": "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
+    "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-10T21:30:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49649213",
+    "title": "OpenAI Agents API",
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-10T19:43:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49650326",
+    "title": "The part of Navier-Stokes no one is talking about",
+    "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-09-10T21:22:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:whzj8z",
     "title": "JEP 544: Ahead-of-Time Code Compilation",
     "url": "https://openjdk.org/jeps/544",
@@ -4876,126 +4996,6 @@
     "source": "hackernews",
     "score": 32.0,
     "published_at": "2026-09-07T01:41:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49564609",
-    "title": "The NX bit is not just about security",
-    "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-09-04T13:47:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49593959",
-    "title": "I refused to train the AI that could replace me",
-    "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-07T04:38:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49583440",
-    "title": "Ask HN: Would you read a statistics textbook?",
-    "url": "https://news.ycombinator.com/item?id=49583440",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-09-06T04:52:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49577129",
-    "title": "Ask HN: Fable hacked my piano, can I release the results?",
-    "url": "https://news.ycombinator.com/item?id=49577129",
-    "source": "hackernews",
-    "score": 88.0,
-    "published_at": "2026-09-05T14:54:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49593066",
-    "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
-    "url": "https://rfd.shared.oxide.computer/rfd/0301",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-07T02:14:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49589914",
-    "title": "Ask HN: How do you manage skills files?",
-    "url": "https://news.ycombinator.com/item?id=49589914",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-09-06T19:27:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49550276",
-    "title": "I'm a seeing-eye dog for a computer",
-    "url": "https://claytonwramsey.com/blog/seeing-eye/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-03T14:20:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49593563",
-    "title": "Keep Our Servers Running",
-    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-    "source": "hackernews",
-    "score": 230.0,
-    "published_at": "2026-09-07T03:29:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:n0zgj1",
-    "title": "Making a Python interpreter in 1024 bytes",
-    "url": "https://austinhenley.com/blog/python1024.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-06T18:04:21.496-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239883",
-    "title": "[送兑换码] 做了一个苹果 APP，送一些永久会员兑换码",
-    "url": "https://www.v2ex.com/t/1239883",
-    "source": "v2ex",
-    "score": 70.0,
-    "published_at": "2026-09-06T17:49:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7681245344118210587",
-    "title": " 高并发下怎么做余额扣减？",
-    "url": "https://juejin.cn/post/7681245344118210587",
-    "source": "juejin",
-    "score": 0.14617206,
-    "published_at": "2026-09-04T01:32:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49586005",
-    "title": "2026 Hugo Awards",
-    "url": "https://www.thehugoawards.org/",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-09-06T12:41:59+00:00",
     "summary": "",
     "key_points": []
   }
