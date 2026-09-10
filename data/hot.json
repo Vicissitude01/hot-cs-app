@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:v8atna",
+    "title": "Efficient and accurate systems for querying unstructured data",
+    "url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-09T15:38:35.316-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7lii0g",
+    "title": "Review a pull request by booting it",
+    "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-09T19:32:35.866-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240703",
+    "title": "咸鱼的小法庭机制真是妙啊",
+    "url": "https://www.v2ex.com/t/1240703",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-09-09T07:12:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240649",
+    "title": "这里为什么感觉没人讨论国产模型。我发现 qwen 和豆包系列模型问题好多，生产直接没法用",
+    "url": "https://www.v2ex.com/t/1240649",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-09-09T04:33:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49608931",
+    "title": "Scanned, segmented, and animated my keyboard. Now you can type on my keyboard",
+    "url": "https://chyuang.com/gaussian-splats/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-08T11:42:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49635384",
+    "title": "Blizzard Workers Win Historic Union Contract",
+    "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-09-09T22:22:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49605836",
+    "title": "Electrostatic Cathode Ray Tube Project 1 (2014)",
+    "url": "https://labguysworld.com/Project_ESCRTs_001.htm",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-08T05:25:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49591536",
+    "title": "The Kuycon P20 – 28\" 4500x3000px 3:2 monitor",
+    "url": "https://taoofmac.com/space/reviews/2026/09/06/1800",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-06T22:24:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49633534",
+    "title": "Factoring RSA 260",
+    "url": "https://cognition.com/blog/factoring-rsa-260",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-09T20:16:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49636906",
+    "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+    "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-10T01:02:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qlhcr5",
     "title": "DIFF: A Relational Interface for Large-Scale Data Explanation",
     "url": "https://andrewxiwu.github.io/public/papers/2019/macrobase-sql-VLDB2019.pdf",
@@ -4896,106 +4996,6 @@
     "source": "v2ex",
     "score": 62.0,
     "published_at": "2026-09-06T03:32:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7681252693901885478",
-    "title": "别卷CRUD了！前端用Next.js+LangChain.js，低成本冲进AI高薪赛道",
-    "url": "https://juejin.cn/post/7681252693901885478",
-    "source": "juejin",
-    "score": 0.11738537,
-    "published_at": "2026-09-04T01:36:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49554848",
-    "title": "Matching Puzzle Pieces and Disappointing Benchmarks",
-    "url": "https://llogiq.github.io/2026/03/20/case.html",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-03T18:52:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49583842",
-    "title": "Site Is Closed on Sundays",
-    "url": "https://v7.robweychert.com/",
-    "source": "hackernews",
-    "score": 80.0,
-    "published_at": "2026-09-06T06:23:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49522072",
-    "title": "A Computer History Time Capsule",
-    "url": "https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-01T13:54:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49582719",
-    "title": "AMD Based FreeBSD Desktop Reloaded",
-    "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-09-06T02:24:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535634",
-    "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
-    "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-09-02T13:08:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49541888",
-    "title": "Music Theory for Programmers",
-    "url": "https://runjs.app/blog/music-theory-for-programmers",
-    "source": "hackernews",
-    "score": 114.0,
-    "published_at": "2026-09-02T20:19:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49584123",
-    "title": "Play GTA Vice City in the Browser",
-    "url": "https://quenq.com/apps/vice-city-online/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-06T07:33:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49584083",
-    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-    "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-09-06T07:21:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:eqc1s5",
-    "title": "Controlling when CSS custom property values are computed",
-    "url": "https://jakearchibald.com/2026/css-custom-property-compute-time/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-05T17:23:45.680-05:00",
     "summary": "",
     "key_points": []
   }
