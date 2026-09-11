@@ -1,5 +1,315 @@
 [
   {
+    "id": "lobsters:5nmyv0",
+    "title": "Reverse engineering an ASIC",
+    "url": "https://kjartanvandriel.github.io/asic/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-11T03:06:09.470-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mfx8ja",
+    "title": "DiffOS is For Freedom",
+    "url": "https://www.diffos.org/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-10T20:04:25.499-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0i492m",
+    "title": "Models Don't Go Rogue",
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-09-10T22:37:10.275-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241338",
+    "title": "蒸馏是否类似于“钓别人鱼桶里的鱼”",
+    "url": "https://www.v2ex.com/t/1241338",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-09-11T07:09:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241328",
+    "title": "为一个弱智的问题 大家怎么插入的图片",
+    "url": "https://www.v2ex.com/t/1241328",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-09-11T06:32:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241327",
+    "title": "筷子不能竖着插在饭里是全国性的常识吗？",
+    "url": "https://www.v2ex.com/t/1241327",
+    "source": "v2ex",
+    "score": 284.0,
+    "published_at": "2026-09-11T06:29:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241298",
+    "title": "Anthropic 点名多家中国公司蒸馏 Claude，包括 Qwen, kimi, deepseek, glm, xiaomi, Minimax",
+    "url": "https://www.v2ex.com/t/1241298",
+    "source": "v2ex",
+    "score": 510.0,
+    "published_at": "2026-09-11T04:25:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683846471338885171",
+    "title": "2025，记住这一年！它是古法编程的最后一年。",
+    "url": "https://juejin.cn/post/7683846471338885171",
+    "source": "juejin",
+    "score": 2.21467945,
+    "published_at": "2026-09-11T01:46:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683434989240795162",
+    "title": "你的 Vue3 项目也能有钉钉同款审批流设计器：npm 装包，10 分钟画出第一条审批流",
+    "url": "https://juejin.cn/post/7683434989240795162",
+    "source": "juejin",
+    "score": 0.28653529,
+    "published_at": "2026-09-09T16:04:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683072481465057323",
+    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
+    "url": "https://juejin.cn/post/7683072481465057323",
+    "source": "juejin",
+    "score": 0.26646902,
+    "published_at": "2026-09-09T07:14:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682695183460974632",
+    "title": "面试官皱眉：\"你懂 Vibe Coding，那你说superpowers和grill-me怎么选？\"，我：\"小孩才做选择，我全都要！\"",
+    "url": "https://juejin.cn/post/7682695183460974632",
+    "source": "juejin",
+    "score": 0.27595761,
+    "published_at": "2026-09-08T02:35:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683722642070896690",
+    "title": "推荐一个比ES快5倍的搜索引擎",
+    "url": "https://juejin.cn/post/7683722642070896690",
+    "source": "juejin",
+    "score": 0.65309356,
+    "published_at": "2026-09-10T07:54:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683152167263846463",
+    "title": "Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持",
+    "url": "https://juejin.cn/post/7683152167263846463",
+    "source": "juejin",
+    "score": 0.25411672,
+    "published_at": "2026-09-09T03:35:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7682593227544788998",
+    "title": "Flutter 状态管理基准测评，一个很有趣的观点",
+    "url": "https://juejin.cn/post/7682593227544788998",
+    "source": "juejin",
+    "score": 0.29561481,
+    "published_at": "2026-09-08T00:44:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683511159950540835",
+    "title": "iPhone Duo 适配 Drag and Drop 实现方案",
+    "url": "https://juejin.cn/post/7683511159950540835",
+    "source": "juejin",
+    "score": 0.60439239,
+    "published_at": "2026-09-10T03:34:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683375934587502643",
+    "title": "DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%",
+    "url": "https://juejin.cn/post/7683375934587502643",
+    "source": "juejin",
+    "score": 0.34523122,
+    "published_at": "2026-09-09T10:28:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683443642279723023",
+    "title": "一个人 + AI 做的小程序，一个月赚了 36 块",
+    "url": "https://juejin.cn/post/7683443642279723023",
+    "source": "juejin",
+    "score": 0.57641194,
+    "published_at": "2026-09-10T01:09:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683353819855077412",
+    "title": "每天白嫖 WorkBuddy 100 积分，我让WorkBuddy自己领",
+    "url": "https://juejin.cn/post/7683353819855077412",
+    "source": "juejin",
+    "score": 0.62525154,
+    "published_at": "2026-09-10T00:07:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49652028",
+    "title": "YuE2 · Frontier Music with Symbolic Planning",
+    "url": "https://map-yue2.github.io/",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-09-11T00:33:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49653328",
+    "title": "Exercise intensity is associated with cardiometabolic health",
+    "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+    "source": "hackernews",
+    "score": 98.0,
+    "published_at": "2026-09-11T03:48:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49654229",
+    "title": "Astra for Coding: Why Are We Doing This Again?",
+    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "source": "hackernews",
+    "score": 324.0,
+    "published_at": "2026-09-11T06:23:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49620760",
+    "title": "Testing race conditions with mem access tracing and stack-based delay injection",
+    "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-09T04:01:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49651372",
+    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+    "url": "https://system76.com/workstations/thelio-mira-ai",
+    "source": "hackernews",
+    "score": 105.0,
+    "published_at": "2026-09-10T23:10:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49621546",
+    "title": "So you want to use OpenRouter?",
+    "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-09-09T05:37:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49653985",
+    "title": "GPT‑Live‑1 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-11T05:45:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49655176",
+    "title": "Neijuan",
+    "url": "https://en.wikipedia.org/wiki/Neijuan",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-11T08:26:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49651221",
+    "title": "Nine coding harnesses vs. your laptop",
+    "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+    "source": "hackernews",
+    "score": 97.0,
+    "published_at": "2026-09-10T22:54:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49652237",
+    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+    "source": "hackernews",
+    "score": 210.0,
+    "published_at": "2026-09-11T01:00:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49653699",
+    "title": "The Gemini app is now available for Windows",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-09-11T04:52:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49606281",
+    "title": "Working with Git Worktrees in Magit",
+    "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-08T06:31:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49655286",
+    "title": "Cherenkov Radiation - traveling faster than light",
+    "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-09-11T08:42:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:l0sqnt",
     "title": "An untrusted site can freeze a Mac using WebGPU",
     "url": "https://auberon.xyz/blog/posts/deathray/",
@@ -4686,316 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mksglu/context-mode",
-    "title": "context-mode",
-    "url": "https://github.com/mksglu/context-mode",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:microsoft/markitdown",
-    "title": "markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:heygen-com/hyperframes",
-    "title": "hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49594251",
-    "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
-    "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
-    "source": "hackernews",
-    "score": 252.0,
-    "published_at": "2026-09-07T05:33:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49595360",
-    "title": "Programming is Art",
-    "url": "https://orchidfiles.com/programming-is-art/",
-    "source": "hackernews",
-    "score": 119.0,
-    "published_at": "2026-09-07T08:05:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49537143",
-    "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
-    "url": "https://play.simten.dev",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-02T14:47:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49534396",
-    "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
-    "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-02T10:39:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49550479",
-    "title": "Show HN: I made a word building game supporting anagrams and one handed use",
-    "url": "https://news.ycombinator.com/item?id=49550479",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-03T14:37:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49596797",
-    "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-    "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-07T11:01:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49596976",
-    "title": "Apparently CodePen 2.0 sends data to their servers as you type",
-    "url": "https://news.ycombinator.com/item?id=49596976",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-07T11:22:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49550436",
-    "title": "I Connected My Withings Body+ to Home Assistant with an ESP32",
-    "url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-03T14:33:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49596629",
-    "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
-    "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
-    "source": "hackernews",
-    "score": 78.0,
-    "published_at": "2026-09-07T10:41:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49596119",
-    "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
-    "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
-    "source": "hackernews",
-    "score": 150.0,
-    "published_at": "2026-09-07T09:33:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49594878",
-    "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-    "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-    "source": "hackernews",
-    "score": 463.0,
-    "published_at": "2026-09-07T07:03:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49596054",
-    "title": "Speculative Decoding in vLLM on AMD GPUs",
-    "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-09-07T09:26:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49596274",
-    "title": "Impedance Matching (2017)",
-    "url": "https://www.edge.org/response-detail/27238",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-09-07T09:52:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49597189",
-    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-    "source": "hackernews",
-    "score": 80.0,
-    "published_at": "2026-09-07T11:46:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49596055",
-    "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-    "url": "https://mathathonchallenge.com/index.html",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-09-07T09:26:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49595865",
-    "title": "Live map of public transport in Belgium",
-    "url": "https://openbaarvervoerbelgie.be/",
-    "source": "hackernews",
-    "score": 103.0,
-    "published_at": "2026-09-07T09:02:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49597895",
-    "title": "Splash-free urinals for global sustainability and accessibility",
-    "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-07T12:58:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49597907",
-    "title": "De-Brainrot Vacations",
-    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-09-07T13:00:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9i5qo4",
-    "title": "slop lasagna",
-    "url": "https://underreacted.leaflet.pub/3mdjygm2p5s2c",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-06T22:08:41.354-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vcsb4x",
-    "title": "Why frontends fail when you approach them like a backend",
-    "url": "http://marijkeluttekes.dev/blog/articles/2026/03/16/why-frontends-fail-when-you-approach-them-like-a-backend/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-06T14:18:09.566-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qsjwv4",
-    "title": "Posting about online presentations",
-    "url": "https://lobste.rs/s/qsjwv4",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-07T00:04:28.395-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239907",
-    "title": "前公司领导想让我回去工作，还有必要回去吗？",
-    "url": "https://www.v2ex.com/t/1239907",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-09-07T01:08:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239875",
-    "title": "上学累还是上班累",
-    "url": "https://www.v2ex.com/t/1239875",
-    "source": "v2ex",
-    "score": 142.0,
-    "published_at": "2026-09-06T15:35:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239908",
-    "title": "我姐姐想买个不超过 7w 的车，接娃上下学，另外跑跑顺风车，求推荐",
-    "url": "https://www.v2ex.com/t/1239908",
-    "source": "v2ex",
-    "score": 162.0,
-    "published_at": "2026-09-07T01:17:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239961",
-    "title": "与人发生纠纷后，疑似被“三网定位”获取位置，有什么办法防范？",
-    "url": "https://www.v2ex.com/t/1239961",
-    "source": "v2ex",
-    "score": 172.0,
-    "published_at": "2026-09-07T02:32:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239906",
-    "title": "我发现一句对人生帮助巨大的 prompt， GPT 给我的回答好到我打算拿来当座右铭",
-    "url": "https://www.v2ex.com/t/1239906",
-    "source": "v2ex",
-    "score": 200.0,
-    "published_at": "2026-09-07T01:07:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239902",
-    "title": "Codex 又有 1000 邀请额度了，有条件的留邮箱",
-    "url": "https://www.v2ex.com/t/1239902",
-    "source": "v2ex",
-    "score": 218.0,
-    "published_at": "2026-09-07T00:52:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239922",
-    "title": "[YAN+] 新站上线内测，注册用户每人送 10 刀（暂不支持充值，赠送额度用完可以找群主再要），支持 gpt-6-astra， GPT 最低 0.1×， DeepSeek V4 0.25×， GLM-5.3-Flash 0.25×",
-    "url": "https://www.v2ex.com/t/1239922",
-    "source": "v2ex",
-    "score": 284.0,
-    "published_at": "2026-09-07T01:42:37+00:00",
     "summary": "",
     "key_points": []
   }
