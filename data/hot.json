@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:wnemcf",
+    "title": "The Story of VS Code",
+    "url": "https://www.youtube.com/watch?v=kHL3XzjpT5w",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-11T09:08:13.893-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cegf7n",
+    "title": "evergarden",
+    "url": "https://evergarden.moe/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-11T07:59:46.317-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7guove",
+    "title": "Feeling sad about AI",
+    "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+    "source": "lobsters",
+    "score": 24.0,
+    "published_at": "2026-09-11T07:33:20.763-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241315",
+    "title": "-52% 还能回本吗",
+    "url": "https://www.v2ex.com/t/1241315",
+    "source": "v2ex",
+    "score": 104.0,
+    "published_at": "2026-09-11T05:57:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241297",
+    "title": "真难啊，做个网站 3 个月 600 曝光， 40 次点击。",
+    "url": "https://www.v2ex.com/t/1241297",
+    "source": "v2ex",
+    "score": 106.0,
+    "published_at": "2026-09-11T04:17:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683830679906287643",
+    "title": "SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理",
+    "url": "https://juejin.cn/post/7683830679906287643",
+    "source": "juejin",
+    "score": 1.95520417,
+    "published_at": "2026-09-11T04:49:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683816340574945343",
+    "title": "跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！",
+    "url": "https://juejin.cn/post/7683816340574945343",
+    "source": "juejin",
+    "score": 2.04857872,
+    "published_at": "2026-09-11T03:55:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:github/spec-kit",
+    "title": "spec-kit",
+    "url": "https://github.com/github/spec-kit",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:alphaXiv/OpenResearch",
+    "title": "OpenResearch",
+    "url": "https://github.com/alphaXiv/OpenResearch",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:jordan-gibbs/hyperresearch",
+    "title": "hyperresearch",
+    "url": "https://github.com/jordan-gibbs/hyperresearch",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:p1neappleXpress/OpenFlux",
+    "title": "OpenFlux",
+    "url": "https://github.com/p1neappleXpress/OpenFlux",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:jihe520/MathModelAgent",
+    "title": "MathModelAgent",
+    "url": "https://github.com/jihe520/MathModelAgent",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Sonarr/Sonarr",
+    "title": "Sonarr",
+    "url": "https://github.com/Sonarr/Sonarr",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:melgarafael/DeskcommCRM",
+    "title": "DeskcommCRM",
+    "url": "https://github.com/melgarafael/DeskcommCRM",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:nab138/iloader",
+    "title": "iloader",
+    "url": "https://github.com/nab138/iloader",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610596",
+    "title": "An interactive tour of the spanning tree protocol",
+    "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-08T14:10:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49656225",
+    "title": "Claude is no longer available for minors",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "source": "hackernews",
+    "score": 224.0,
+    "published_at": "2026-09-11T10:48:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49654962",
+    "title": "CSS Curiosities of the Past",
+    "url": "https://vale.rocks/posts/css-relics",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-11T07:57:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49603397",
+    "title": "RISC-V Emulator and Linux System from Scratch",
+    "url": "https://github.com/WerWolv/riscv-emulator",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-07T21:57:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49609169",
+    "title": "Experiment – Projectional Viewer",
+    "url": "https://programmingsimplicity.substack.com/p/experiment-projectional-viewer",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-08T12:03:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49657850",
+    "title": "Ask HN: Can we please limit the AI news flood?",
+    "url": "https://news.ycombinator.com/item?id=49657850",
+    "source": "hackernews",
+    "score": 260.0,
+    "published_at": "2026-09-11T13:11:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49611240",
+    "title": "iPod Classic 6G in QEMU",
+    "url": "https://www.reddit.com/r/emulation/s/VL4Au2HGxq",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-09-08T14:54:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49658302",
+    "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
+    "url": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-11T13:41:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49658328",
+    "title": "Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you",
+    "url": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-11T13:43:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49658192",
+    "title": "Diesel prices in U.S. top $6 a gallon for first time",
+    "url": "https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-09-11T13:35:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49622406",
+    "title": "Logo Programming Language",
+    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-09T07:07:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49656471",
+    "title": "RTK reports token savings, but our cost benchmarks disagree",
+    "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-09-11T11:15:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49658299",
+    "title": "Houthis 'take control' of key island in global shipping route",
+    "url": "https://www.bbc.com/news/live/cmd683p01eljt",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-09-11T13:41:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49658311",
+    "title": "If coding is solved, what now?: Measuring the sloppiness of code",
+    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-11T13:42:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49656496",
+    "title": "The Waymo effect: how AI is quietly making research less collaborative",
+    "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "source": "hackernews",
+    "score": 212.0,
+    "published_at": "2026-09-11T11:17:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:5nmyv0",
     "title": "Reverse engineering an ASIC",
     "url": "https://kjartanvandriel.github.io/asic/",
@@ -4696,306 +4996,6 @@
     "source": "hackernews",
     "score": 72.0,
     "published_at": "2026-09-07T15:50:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49535375",
-    "title": "Academia as a d-index measuring contest",
-    "url": "https://kevinmunger.substack.com/p/introducing-the-k-index",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-02T12:40:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49562440",
-    "title": "Whistle Synth",
-    "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-04T09:44:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49600432",
-    "title": "PostgreSQL 19 Interactive Tour",
-    "url": "https://victoriametrics.com/blog/postgres-19/index.html",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-09-07T16:58:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49600233",
-    "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-    "url": "https://news.ycombinator.com/item?id=49600233",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-09-07T16:40:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49561002",
-    "title": "Decoding the NEC V20 Microcode",
-    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-04T05:53:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49589190",
-    "title": "The Dataflow Model Revisited",
-    "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-06T18:10:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49558685",
-    "title": "Simple Is Not Small",
-    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-09-03T23:47:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49599609",
-    "title": "C Is Not a Low-Level Language (2018)",
-    "url": "https://queue.acm.org/doi/10.1145/3212477.3212479",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-07T15:39:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49598291",
-    "title": "bzip3",
-    "url": "https://github.com/iczelia/bzip3",
-    "source": "hackernews",
-    "score": 237.0,
-    "published_at": "2026-09-07T13:35:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0htvw0",
-    "title": "\"Hammock Driven Development\" (2010)",
-    "url": "https://youtu.be/f84n5oFoZBc",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-07T03:31:19.589-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wkxhlv",
-    "title": "From a Chocolate Wrapper to Concurrent InnoDB Page Splits",
-    "url": "https://mariadb.org/from-a-chocolate-wrapper-to-concurrent-innodb-page-splits/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-07T07:48:27.467-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:awrzbh",
-    "title": "Demystifying complex configurations",
-    "url": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-07T04:25:39.098-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xm0hkw",
-    "title": "What are you doing this week?",
-    "url": "https://lobste.rs/s/xm0hkw",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-07T05:33:18.743-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mqbqbz",
-    "title": "Internationalization and Localization",
-    "url": "https://www.kashyapsuhas.com/blog/i18n-l10n",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-07T01:52:49.681-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vdalin",
-    "title": "The shortest IPv6 addresses",
-    "url": "https://ache.one/notes/vanity-ipv6",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-07T05:53:12.960-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wolwwd",
-    "title": "A faster way to convert a timestamp to Hour, Min, Sec",
-    "url": "https://www.benjoffe.com/fast-time-of-day",
-    "source": "lobsters",
-    "score": 17.0,
-    "published_at": "2026-09-07T05:27:56.386-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240058",
-    "title": "这次轮到了我看上了个女同事，但不知该怎么推进认识",
-    "url": "https://www.v2ex.com/t/1240058",
-    "source": "v2ex",
-    "score": 152.0,
-    "published_at": "2026-09-07T06:45:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239929",
-    "title": "主打锻炼，应该买公路车还是山地车",
-    "url": "https://www.v2ex.com/t/1239929",
-    "source": "v2ex",
-    "score": 196.0,
-    "published_at": "2026-09-07T01:51:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682364222383308850",
-    "title": "异构数据同步不只追延迟：用 KFS 守住不停机迁移的每一笔账",
-    "url": "https://juejin.cn/post/7682364222383308850",
-    "source": "juejin",
-    "score": 1.47256404,
-    "published_at": "2026-09-07T04:56:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682046779555315763",
-    "title": "🤔首屏Banner压到40KB，LCP还是4秒？原来一直搞错了最大渲染元素",
-    "url": "https://juejin.cn/post/7682046779555315763",
-    "source": "juejin",
-    "score": 1.10693124,
-    "published_at": "2026-09-07T01:15:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682013859251896320",
-    "title": "提前还贷，缩短年限和降低月供其实是一样的",
-    "url": "https://juejin.cn/post/7682013859251896320",
-    "source": "juejin",
-    "score": 2.05565903,
-    "published_at": "2026-09-07T03:11:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682362046578966580",
-    "title": "支持独立部署的地图方案",
-    "url": "https://juejin.cn/post/7682362046578966580",
-    "source": "juejin",
-    "score": 1.73071807,
-    "published_at": "2026-09-07T03:26:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682362046578884660",
-    "title": "聊聊怎么缓解找工作的焦虑感？",
-    "url": "https://juejin.cn/post/7682362046578884660",
-    "source": "juejin",
-    "score": 1.68526354,
-    "published_at": "2026-09-07T03:20:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682634449856217115",
-    "title": "GPT - 6 Astra 的使用焚诀",
-    "url": "https://juejin.cn/post/7682634449856217115",
-    "source": "juejin",
-    "score": 4.06497028,
-    "published_at": "2026-09-07T07:42:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682603130694484014",
-    "title": "【社区公告】致每一位掘友：关于这次调整， 想再说几句",
-    "url": "https://juejin.cn/post/7682603130694484014",
-    "source": "juejin",
-    "score": 19.75408978,
-    "published_at": "2026-09-07T10:59:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:pascalorg/editor",
-    "title": "editor",
-    "url": "https://github.com/pascalorg/editor",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:lightpanda-io/browser",
-    "title": "browser",
-    "url": "https://github.com/lightpanda-io/browser",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:bytedance/deer-flow",
-    "title": "deer-flow",
-    "url": "https://github.com/bytedance/deer-flow",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:MoonTechLab/LunaTV",
-    "title": "LunaTV",
-    "url": "https://github.com/MoonTechLab/LunaTV",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:jo-inc/camofox-browser",
-    "title": "camofox-browser",
-    "url": "https://github.com/jo-inc/camofox-browser",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
