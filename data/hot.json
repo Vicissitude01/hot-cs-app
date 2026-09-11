@@ -1,5 +1,65 @@
 [
   {
+    "id": "lobsters:u7dr96",
+    "title": "Soft-deprecating re.match()",
+    "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-10T16:59:16.157-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1240959",
+    "title": "AirPods 5 应该算是等等党胜利的一集吧，音质/降噪/续航提升，价格下降（主动降噪）",
+    "url": "https://www.v2ex.com/t/1240959",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-09-10T03:18:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683722642071470130",
+    "title": "DeepSeek V4.1 Flash：一次把自家旗舰送走的发布",
+    "url": "https://juejin.cn/post/7683722642071470130",
+    "source": "juejin",
+    "score": 1.41711265,
+    "published_at": "2026-09-10T09:16:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49608665",
+    "title": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
+    "url": "https://asm-editor.specy.app/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-08T11:08:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49618633",
+    "title": "Embedding a bitmap font in your HyperCard stack",
+    "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-08T23:30:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49649124",
+    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+    "url": "https://auberon.xyz/blog/posts/deathray/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-09-10T19:34:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:i22m5l",
     "title": "Antiquated CSS and why we needed it",
     "url": "https://blog.omgmog.net/post/antiquated-css/",
@@ -4936,66 +4996,6 @@
     "source": "hackernews",
     "score": 7.0,
     "published_at": "2026-09-07T04:18:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49538741",
-    "title": "Study Math with Kusama",
-    "url": "https://medium.com/counterarts/study-math-with-kusama-6008df7c2abd",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-02T16:32:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49593971",
-    "title": "TiVo to charge money for skipping commercials in your own recordings",
-    "url": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-07T04:41:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49592366",
-    "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-    "url": "https://github.com/Staatsgeheim/MathKernel",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-07T00:21:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49590946",
-    "title": "Signing TLS handshakes inside a TPM",
-    "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-06T21:05:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49594008",
-    "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-    "url": "https://github.com/timgordontg/engrim",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-07T04:49:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49592840",
-    "title": "Show HN: GET Together – A social network where you don't need POST to Post",
-    "url": "https://gettogether.dev",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-07T01:41:11+00:00",
     "summary": "",
     "key_points": []
   }
