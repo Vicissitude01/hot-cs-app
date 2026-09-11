@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:esgot3",
+    "title": "Tutorial for Septabee, a free DAW in the making for over 20,000 hours",
+    "url": "https://www.youtube.com/watch?v=lW8Z98pXuSE",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-11T18:06:30.015-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lpfagd",
+    "title": "DDD in Gleam",
+    "url": "https://escherize.com/gleam-katas/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-11T17:43:33.772-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49664322",
+    "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
+    "url": "https://txt.hellman.io/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-11T19:46:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49647403",
+    "title": "From Front Panel to Program: Thinking Like a PDP-8",
+    "url": "https://pikuma.com/blog/pdp-8-minicomputer",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-10T17:30:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49635043",
+    "title": "There is no 10x RBAC",
+    "url": "https://infisical.com/blog/folder-based-rbac",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-09T21:59:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49640741",
+    "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
+    "url": "https://www.fink-translate.com/blog/hepburn-romanization.html",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-10T09:13:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49666155",
+    "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+    "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-11T22:16:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49665864",
+    "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+    "url": "https://github.com/mirza-rizvi/ResolveHQ",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-11T21:48:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49666146",
+    "title": "Project Blinkenlights",
+    "url": "https://blinkenlights.de/en/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-11T22:15:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49626718",
+    "title": "A Design Space Exploration of Async/Await",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-09-09T13:59:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:wxc7t7",
     "title": "Measuring the sloppiness of code",
     "url": "https://earendil.com/posts/measuring-code-sloppiness/",
@@ -4896,106 +4996,6 @@
     "source": "hackernews",
     "score": 8.0,
     "published_at": "2026-09-03T12:53:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49560682",
-    "title": "John Margolies' photographs of roadside America",
-    "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-09-04T04:57:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49604861",
-    "title": "Jellyfin 12.0",
-    "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-    "source": "hackernews",
-    "score": 199.0,
-    "published_at": "2026-09-08T01:56:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49605691",
-    "title": "We have a year to fix security everywhere",
-    "url": "https://jyn.dev/a-year-to-fix-security/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-08T04:48:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49605511",
-    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-08T04:06:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49605246",
-    "title": "How well do agents use test/verification techniques?",
-    "url": "https://danluu.com/agentic-testing/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-08T02:58:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49604637",
-    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-    "source": "hackernews",
-    "score": 201.0,
-    "published_at": "2026-09-08T01:16:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:a2kz9j",
-    "title": "How to bring up the Linux Kernel on a new platform",
-    "url": "https://werwolv.net/posts/linux_bringup/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-07T16:22:11.191-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8hz82r",
-    "title": "Hardening Container Images",
-    "url": "https://www.grepular.com/Hardening_Container_Images",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-07T16:39:21.998-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49584053",
-    "title": "Catching Crumbs from the Table (2000)",
-    "url": "https://www.nature.com/articles/35014679",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-06T07:15:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49568162",
-    "title": "Show HN: I built an aesthetically pleasing puzzle",
-    "url": "https://jigsawhaiku.com/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-04T18:14:44+00:00",
     "summary": "",
     "key_points": []
   }
