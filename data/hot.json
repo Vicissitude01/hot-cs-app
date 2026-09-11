@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:fjljdg",
+    "title": "Everything is a Trust Decision",
+    "url": "https://nrd.sh/blog/everything-is-a-trust-decision.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-11T10:41:04.581-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:b6oxoj",
+    "title": "Bastion of the Turbofish",
+    "url": "https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-09-11T08:50:19.190-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mcioou",
+    "title": "ChiPass Release 2026.09.0",
+    "url": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-11T11:35:40.299-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:be7tgu",
+    "title": "Power grab",
+    "url": "https://tante.cc/2026/09/11/power-grab/",
+    "source": "lobsters",
+    "score": 62.0,
+    "published_at": "2026-09-11T09:23:46.956-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:pascalorg/editor",
+    "title": "editor",
+    "url": "https://github.com/pascalorg/editor",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49658483",
+    "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+    "url": "https://clawfight.ai/agents.md",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-11T13:54:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49613507",
+    "title": "Copper lined vest to help penguins with recovery",
+    "url": "https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-08T17:28:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49658819",
+    "title": "New York thoracic surgeon: \"For many patients 9/11 is not over\"",
+    "url": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-09-11T14:14:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49652105",
+    "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+    "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+    "source": "hackernews",
+    "score": 224.0,
+    "published_at": "2026-09-11T00:42:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49660149",
+    "title": "Rune is now open source",
+    "url": "https://rune.build/blog/rune-is-now-open-source",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-11T15:31:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49660884",
+    "title": "Triple H Writes Anniversary Story for Spider-Man #1000",
+    "url": "https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-11T16:13:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49610834",
+    "title": "How the Chorleywood Bread Process transformed British bread",
+    "url": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-09-08T14:28:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49618087",
+    "title": "Stop making swap partitions—use swap files instead",
+    "url": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-09-08T22:33:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49613642",
+    "title": "Kenyans Did College Students' Homework for Years. Then A.I. Arrived",
+    "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-08T17:35:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49659245",
+    "title": "HuggingFace: Security.txt",
+    "url": "https://huggingface.co/security.txt",
+    "source": "hackernews",
+    "score": 152.0,
+    "published_at": "2026-09-11T14:38:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49660783",
+    "title": "Show HN: Hacker News, Without AI",
+    "url": "https://www.unslop.news/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-11T16:08:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49662214",
+    "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+    "url": "https://snap.berkeley.edu/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-11T17:36:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49652270",
+    "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-11T01:05:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49661645",
+    "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+    "url": "https://www.getzep.com/careers/",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-11T17:00:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49651046",
+    "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+    "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-10T22:33:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49660555",
+    "title": "118M Queries per Second on Neki",
+    "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-11T15:56:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49601138",
+    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+    "source": "hackernews",
+    "score": 89.0,
+    "published_at": "2026-09-07T18:05:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49660576",
+    "title": "Global Glacier Extinction Explorer",
+    "url": "https://glacierextinction.com",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-09-11T15:58:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49660676",
+    "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+    "url": "https://github.com/godot-pty/gpty",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-09-11T16:03:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:wnemcf",
     "title": "The Story of VS Code",
     "url": "https://www.youtube.com/watch?v=kHL3XzjpT5w",
@@ -4756,246 +4996,6 @@
     "source": "hackernews",
     "score": 103.0,
     "published_at": "2026-09-04T22:47:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49586207",
-    "title": "Icy Moons Are Ocean Worlds",
-    "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-    "source": "hackernews",
-    "score": 92.0,
-    "published_at": "2026-09-06T13:07:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49592375",
-    "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-    "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-    "source": "hackernews",
-    "score": 338.0,
-    "published_at": "2026-09-07T00:22:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49583381",
-    "title": "Decapitating a MacBook (2025)",
-    "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-06T04:40:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49603092",
-    "title": "The Education of a Doomer",
-    "url": "https://borretti.me/article/the-education-of-a-doomer",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-07T21:19:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49557986",
-    "title": "Methods for Random Gradients (2024)",
-    "url": "https://justinjay.wang/methods-for-random-gradients/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-03T22:26:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49602716",
-    "title": "Macbeth and His Problems",
-    "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-07T20:34:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49569838",
-    "title": "Scientists observe Einstein's gravity in the quantum world",
-    "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-09-04T20:28:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49552299",
-    "title": "WeatherNext 3",
-    "url": "https://deepmind.google/science/weathernext/",
-    "source": "hackernews",
-    "score": 133.0,
-    "published_at": "2026-09-03T16:06:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49569748",
-    "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-    "url": "https://kallus.org/blog/dummit_and_foote.html",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-04T20:20:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49575515",
-    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-    "url": "https://arxiv.org/abs/2607.24888",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-09-05T11:25:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49601655",
-    "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-    "url": "https://lax-skyline.parcelscope.net/",
-    "source": "hackernews",
-    "score": 124.0,
-    "published_at": "2026-09-07T18:52:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vospwq",
-    "title": "Signing TLS handshakes inside a TPM",
-    "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-07T09:54:37.393-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:r5b28u",
-    "title": "The Dataflow Model Revisited",
-    "url": "https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-07T12:11:49.400-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6xfpvw",
-    "title": "What every kernel programmer should know about Jump Labels",
-    "url": "https://walac.github.io/jumplabels/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-07T10:11:27.680-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5yga7r",
-    "title": "GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator",
-    "url": "https://github.com/triglav-os/gem",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-07T08:44:49.124-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:adrda9",
-    "title": "How well do agents use test/verification techniques?",
-    "url": "https://danluu.com/agentic-testing/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-07T11:17:46.001-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ku4hwg",
-    "title": "Rust debugging survey 2026 results",
-    "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-07T12:00:42.881-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8csfoa",
-    "title": "Two Tiny Utils for the Result Pattern",
-    "url": "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-07T09:07:45.962-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240041",
-    "title": "上了十年班，亏了两百万",
-    "url": "https://www.v2ex.com/t/1240041",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-09-07T05:32:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1239914",
-    "title": "鱼油有什么推荐的吗？",
-    "url": "https://www.v2ex.com/t/1239914",
-    "source": "v2ex",
-    "score": 138.0,
-    "published_at": "2026-09-07T01:31:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682253775991734323",
-    "title": "明明做了很多事，为什么简历看起来还是没含金量？",
-    "url": "https://juejin.cn/post/7682253775991734323",
-    "source": "juejin",
-    "score": 0.89405702,
-    "published_at": "2026-09-07T03:00:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49599481",
-    "title": "Bill Gates tries to install MovieMaker",
-    "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-    "source": "hackernews",
-    "score": 135.0,
-    "published_at": "2026-09-07T15:27:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49600997",
-    "title": "No constitutional right to clean water, federal court finds",
-    "url": "https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-07T17:52:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49599719",
-    "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
-    "url": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-09-07T15:50:37+00:00",
     "summary": "",
     "key_points": []
   }
