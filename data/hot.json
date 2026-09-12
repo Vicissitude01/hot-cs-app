@@ -1,5 +1,345 @@
 [
   {
+    "id": "lobsters:ekyert",
+    "title": "Rune is now open source",
+    "url": "https://rune.build/blog/rune-is-now-open-source",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-12T03:35:23.532-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dkd8ph",
+    "title": "Rare Not Random Using Token Efficiency for Secrets Scanning",
+    "url": "https://lookingatcomputer.substack.com/p/rare-not-random",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-12T01:42:56.073-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sidh4j",
+    "title": "Designing for Dual Screen and Foldable Devices With CSS",
+    "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-12T03:33:24.056-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241496",
+    "title": "你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?",
+    "url": "https://www.v2ex.com/t/1241496",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-09-12T02:55:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241486",
+    "title": "木椅子坐久了，经常屁股有汗，会黏住裤衩，好不透气，怎么办",
+    "url": "https://www.v2ex.com/t/1241486",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-09-12T01:54:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241455",
+    "title": "不想上班了，回老家县城躺平是否可行？",
+    "url": "https://www.v2ex.com/t/1241455",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-09-11T15:40:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241528",
+    "title": "华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊",
+    "url": "https://www.v2ex.com/t/1241528",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-09-12T05:53:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241515",
+    "title": "不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历",
+    "url": "https://www.v2ex.com/t/1241515",
+    "source": "v2ex",
+    "score": 58.0,
+    "published_at": "2026-09-12T04:21:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241452",
+    "title": "兄弟们和我一起当捞女去崩老头。",
+    "url": "https://www.v2ex.com/t/1241452",
+    "source": "v2ex",
+    "score": 60.0,
+    "published_at": "2026-09-11T15:28:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241484",
+    "title": "智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6",
+    "url": "https://www.v2ex.com/t/1241484",
+    "source": "v2ex",
+    "score": 88.0,
+    "published_at": "2026-09-12T01:26:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241506",
+    "title": "codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神",
+    "url": "https://www.v2ex.com/t/1241506",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-09-12T03:35:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683400830063444006",
+    "title": "迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App",
+    "url": "https://juejin.cn/post/7683400830063444006",
+    "source": "juejin",
+    "score": 0.08321149,
+    "published_at": "2026-09-09T13:37:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683348233489924102",
+    "title": "面试官问我：AI 都能写代码了，前端凭什么还值 25K",
+    "url": "https://juejin.cn/post/7683348233489924102",
+    "source": "juejin",
+    "score": 0.12138187,
+    "published_at": "2026-09-09T11:40:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683784267847925787",
+    "title": "倒反天罡！押注 React Native 6 年后，Shopify 又回到了原生开发",
+    "url": "https://juejin.cn/post/7683784267847925787",
+    "source": "juejin",
+    "score": 0.22762472,
+    "published_at": "2026-09-11T01:15:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683448371320537124",
+    "title": "GPT-6 VS GPT-5.6：你该怎么选",
+    "url": "https://juejin.cn/post/7683448371320537124",
+    "source": "juejin",
+    "score": 0.17793915,
+    "published_at": "2026-09-10T00:59:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683816340574617663",
+    "title": "Shopify 从 React Native 回到 Swift/Kotlin，但是你以为有手就行？？",
+    "url": "https://juejin.cn/post/7683816340574617663",
+    "source": "juejin",
+    "score": 0.45434166,
+    "published_at": "2026-09-11T02:50:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684080599314038818",
+    "title": "鬼故事 ！DeepSeek4.1 比Opus5 GPT5.6还强！",
+    "url": "https://juejin.cn/post/7684080599314038818",
+    "source": "juejin",
+    "score": 0.67818043,
+    "published_at": "2026-09-11T12:51:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:vxcontrol/pentagi",
+    "title": "pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:max-sixty/worktrunk",
+    "title": "worktrunk",
+    "url": "https://github.com/max-sixty/worktrunk",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:multimodal-art-projection/YuE",
+    "title": "YuE",
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:SnailSploit/Claude-Red",
+    "title": "Claude-Red",
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Shubhamsaboo/awesome-llm-apps",
+    "title": "awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:yuliskov/SmartTube",
+    "title": "SmartTube",
+    "url": "https://github.com/yuliskov/SmartTube",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Flowseal/zapret-discord-youtube",
+    "title": "zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:asgeirtj/system_prompts_leaks",
+    "title": "system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49665502",
+    "title": "Another way to leak traffic on Android has been discovered",
+    "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+    "source": "hackernews",
+    "score": 89.0,
+    "published_at": "2026-09-11T21:16:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49671043",
+    "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
+    "url": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-12T10:49:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49669276",
+    "title": "WeWorm: Zero-Click WeChat Worm",
+    "url": "https://calif.io/research/weworm",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-12T05:49:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49646113",
+    "title": "Detailed report on the use of solar geoengineering",
+    "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-10T16:08:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49628367",
+    "title": "Bomb Sense (2021)",
+    "url": "https://danboland.net/2021/07/15/bomb-sense.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-09T15:40:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49670493",
+    "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-12T09:08:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49595505",
+    "title": "Inverse Kinematics and Foot Locking",
+    "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-09-07T08:21:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49639647",
+    "title": "IKEA made a mod for Skyrim [video]",
+    "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+    "source": "hackernews",
+    "score": 168.0,
+    "published_at": "2026-09-10T07:20:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49670032",
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-09-12T07:54:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:imdwmj",
     "title": "Pandas Should Go Extinct",
     "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
@@ -4656,346 +4996,6 @@
     "source": "hackernews",
     "score": 7.0,
     "published_at": "2026-09-08T14:33:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49608023",
-    "title": "Why getting your hands dirty is good for you",
-    "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-    "source": "hackernews",
-    "score": 131.0,
-    "published_at": "2026-09-08T09:48:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49555592",
-    "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
-    "url": "https://news.ycombinator.com/item?id=49555592",
-    "source": "hackernews",
-    "score": 143.0,
-    "published_at": "2026-09-03T19:38:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610229",
-    "title": "We Must Return to the Office to Use AI in Person",
-    "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-08T13:41:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610734",
-    "title": "An overview of how our family is prepared",
-    "url": "https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-08T14:21:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49574941",
-    "title": "Picolibrary: A Small Press",
-    "url": "https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-05T09:54:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49586667",
-    "title": "Extracting Steering Vectors from J space",
-    "url": "https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-06T14:03:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49607991",
-    "title": "Antiquated HTML Snippets and Artefacts",
-    "url": "https://vale.rocks/posts/html-relics",
-    "source": "hackernews",
-    "score": 143.0,
-    "published_at": "2026-09-08T09:43:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610538",
-    "title": "LibreOffice breaks download records after declaring it has no AI features",
-    "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-    "source": "hackernews",
-    "score": 125.0,
-    "published_at": "2026-09-08T14:05:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610059",
-    "title": "Show HN: Copperhead – Hardware as Fast as Software",
-    "url": "https://copperhead.sh/",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-09-08T13:26:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610181",
-    "title": "DaVinci Resolve 21.1",
-    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-09-08T13:36:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:2trvg4",
-    "title": "Surviving Black Friday: 329 billion requests with Falcon",
-    "url": "https://www.youtube.com/watch?v=NMruXY3TrpI",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-08T04:55:42.507-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bzwyib",
-    "title": "Antiquated HTML Snippets and Artefacts",
-    "url": "https://vale.rocks/posts/html-relics",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-08T02:49:09.578-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:npyzwy",
-    "title": "This Month in Ladybird - August 2026",
-    "url": "https://ladybird.org/newsletter/2026-08-31/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-08T00:24:42.401-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:eu78rh",
-    "title": "How to get a free .arpa domain",
-    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-08T04:24:16.963-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mfhss4",
-    "title": "Type inference has usability problems (2019)",
-    "url": "https://austinhenley.com/blog/typeinference.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-08T01:36:44.958-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:b7k94m",
-    "title": "Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
-    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-08T03:14:40.000-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6licoy",
-    "title": "The state of European cloud providers in 2026",
-    "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-09-08T02:20:16.336-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:aguhup",
-    "title": "Bitap: my favorite string matching algorithm",
-    "url": "https://jo3-l.dev/posts/bitap/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-08T01:37:38.684-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240258",
-    "title": "我最了一个导航站，欢迎大家使用",
-    "url": "https://www.v2ex.com/t/1240258",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-09-08T01:14:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240302",
-    "title": "工作找不到，我是否该相信玄学？",
-    "url": "https://www.v2ex.com/t/1240302",
-    "source": "v2ex",
-    "score": 144.0,
-    "published_at": "2026-09-08T02:37:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240250",
-    "title": "教师节马上到了",
-    "url": "https://www.v2ex.com/t/1240250",
-    "source": "v2ex",
-    "score": 148.0,
-    "published_at": "2026-09-08T00:49:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240248",
-    "title": "跨城搬家最好的选择是什么？",
-    "url": "https://www.v2ex.com/t/1240248",
-    "source": "v2ex",
-    "score": 152.0,
-    "published_at": "2026-09-08T00:43:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240336",
-    "title": "吐槽一下现在的键盘设计....",
-    "url": "https://www.v2ex.com/t/1240336",
-    "source": "v2ex",
-    "score": 176.0,
-    "published_at": "2026-09-08T03:28:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240321",
-    "title": "每天合计 600 张 image-2 免费生图网站 额外每人赠送 200 张",
-    "url": "https://www.v2ex.com/t/1240321",
-    "source": "v2ex",
-    "score": 262.0,
-    "published_at": "2026-09-08T03:07:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682698191628632107",
-    "title": "再见了EasyExcel，我决定用Apache Fesod",
-    "url": "https://juejin.cn/post/7682698191628632107",
-    "source": "juejin",
-    "score": 4.23272124,
-    "published_at": "2026-09-08T03:51:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682601317680889856",
-    "title": "GPT-6 Astra 上线 24 小时，看看外网爆火的惊艳玩法。",
-    "url": "https://juejin.cn/post/7682601317680889856",
-    "source": "juejin",
-    "score": 0.78845947,
-    "published_at": "2026-09-07T07:21:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49587115",
-    "title": "Feather Atlas",
-    "url": "https://www.fws.gov/lab/featheratlas/identify.html",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-06T14:59:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49605915",
-    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-    "source": "hackernews",
-    "score": 246.0,
-    "published_at": "2026-09-08T05:42:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49570411",
-    "title": "End-to-end infrastructure for training and inferencing open weight models",
-    "url": "https://docs.appliedcompute.com",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-04T21:25:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49595841",
-    "title": "anystation: Calling any station A public board shaped like a tree. No account",
-    "url": "https://anystation.net/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-07T09:00:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49590199",
-    "title": "Understanding Computer Memory Architecture and SSD Internals",
-    "url": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-09-06T19:51:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49605644",
-    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-    "url": "https://rohanadwankar.github.io/posts/platforms.html",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-08T04:36:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49605782",
-    "title": "My Feed, My Way",
-    "url": "https://www.pm.gov.au/media/my-feed-my-way",
-    "source": "hackernews",
-    "score": 121.0,
-    "published_at": "2026-09-08T05:10:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49605822",
-    "title": "Multi-Agents LLM Financial Trading Framework",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-08T05:20:23+00:00",
     "summary": "",
     "key_points": []
   }
