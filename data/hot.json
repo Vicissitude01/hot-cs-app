@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:jtmyg2",
+    "title": "Optimizing a single Rust Clippy lint by 3133X",
+    "url": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-12T15:29:09.734-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:co3jkg",
+    "title": "Managing Complex Application State with Reactive Data Flows",
+    "url": "https://yogthos.net/posts/2026-09-12-reactive-dataflow.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-12T14:45:31.591-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:er0hfp",
+    "title": "A Few Good Ideas in Programming Languages",
+    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-12T13:19:16.652-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49676849",
+    "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-12T20:28:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49647860",
+    "title": "The Magic Behind Cubacadabra",
+    "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-10T18:01:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49676324",
+    "title": "LG Says We're Fake News [video]",
+    "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-12T19:35:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49675902",
+    "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+    "url": "https://hachyderm.io/@simontatham/117201594980991062",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-09-12T18:58:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49619848",
+    "title": "Apple iPod Engraver (2019)",
+    "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-09T01:57:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49676577",
+    "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+    "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-12T19:57:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49676820",
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "url": "https://withspecific.com/benchmarks/real-swe",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-12T20:25:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:wobjnw",
     "title": "Testing race conditions with memory access tracing and stack-based delay injection",
     "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
@@ -4896,106 +4996,6 @@
     "source": "hackernews",
     "score": 156.0,
     "published_at": "2026-09-09T00:40:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49579482",
-    "title": "An Accidental Blackboard",
-    "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-05T18:50:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49619464",
-    "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-    "url": "https://gpu-lexer.vercel.app/",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-09T01:14:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49546964",
-    "title": "Trees use a \"muscle\", tension wood, to correct their posture",
-    "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-03T07:29:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lf3est",
-    "title": "Rust: When Empty Isn't Bottom",
-    "url": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-08T16:23:18.378-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pxreik",
-    "title": "How to build a f**king printer",
-    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-08T16:39:21.263-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49599825",
-    "title": "Reverse Engineering an ASIC",
-    "url": "https://kjartanvandriel.github.io/asic/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-07T16:02:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49591112",
-    "title": "The Microeconomics of Artificial Intelligence (2025)",
-    "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-06T21:24:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49618050",
-    "title": "A Topological Picture Book, Rendered",
-    "url": "https://e-infinity.space/picture-book/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-08T22:28:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49616968",
-    "title": "Tao: Open math problems being non-renewably mined by AI",
-    "url": "https://mathstodon.xyz/@tao/117237320796901560",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-08T21:00:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49617255",
-    "title": "How to build a printer",
-    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-09-08T21:22:11+00:00",
     "summary": "",
     "key_points": []
   }
