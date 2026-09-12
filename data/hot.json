@@ -1,5 +1,165 @@
 [
   {
+    "id": "lobsters:imdwmj",
+    "title": "Pandas Should Go Extinct",
+    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-11T23:23:08.739-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241517",
+    "title": "v2ex 注册成功",
+    "url": "https://www.v2ex.com/t/1241517",
+    "source": "v2ex",
+    "score": 64.0,
+    "published_at": "2026-09-12T04:26:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241383",
+    "title": "幼儿园的名单公示，打码规则是否不太合理？",
+    "url": "https://www.v2ex.com/t/1241383",
+    "source": "v2ex",
+    "score": 68.0,
+    "published_at": "2026-09-11T09:11:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241482",
+    "title": "讨论一下在手机上编程是不是伪需求",
+    "url": "https://www.v2ex.com/t/1241482",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-09-12T01:20:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241413",
+    "title": "有些人不允许别人把筷子竖着插进饭里",
+    "url": "https://www.v2ex.com/t/1241413",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-09-11T10:47:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241336",
+    "title": "有人买了中转站 6TB 的数据，里面有大量的服务器账号安全数据，看你们还敢用中转吗？",
+    "url": "https://www.v2ex.com/t/1241336",
+    "source": "v2ex",
+    "score": 126.0,
+    "published_at": "2026-09-11T07:04:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683724457530376198",
+    "title": "2026 年，你可以从项目中删掉这 5 个 npm 包了",
+    "url": "https://juejin.cn/post/7683724457530376198",
+    "source": "juejin",
+    "score": 0.41160686,
+    "published_at": "2026-09-11T01:11:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683438420874461247",
+    "title": "我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表",
+    "url": "https://juejin.cn/post/7683438420874461247",
+    "source": "juejin",
+    "score": 0.11820806,
+    "published_at": "2026-09-09T15:29:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49633824",
+    "title": "Fileless ELF Execution via Kernel Keyring",
+    "url": "https://matheuzsecurity.github.io/hacking/linux-kernel-keyring-fileless-exec/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-09T20:35:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49643011",
+    "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
+    "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-10T12:59:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49624456",
+    "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+    "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-09T11:01:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49668198",
+    "title": "Pandas Should Go Extinct",
+    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+    "source": "hackernews",
+    "score": 128.0,
+    "published_at": "2026-09-12T02:42:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49668914",
+    "title": "OpenAI agents attacked RubyGems back in May",
+    "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-12T04:46:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49668777",
+    "title": "Usenet rewind archive search engine",
+    "url": "https://www.usenet-rewind.com/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-12T04:19:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49668706",
+    "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-09-12T04:09:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49668386",
+    "title": "Google no longer provides direct URLs in search results",
+    "url": "https://www.autom.dev/blog/google-search-goto-links",
+    "source": "hackernews",
+    "score": 278.0,
+    "published_at": "2026-09-12T03:14:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:n54ybt",
     "title": "A list of macOS defaults commands with demos",
     "url": "https://macos-defaults.com/",
@@ -4836,166 +4996,6 @@
     "source": "hackernews",
     "score": 50.0,
     "published_at": "2026-09-08T05:20:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49604870",
-    "title": "There's a new \"Google Jail\" for independent wikis",
-    "url": "https://weirdgloop.org/blog/google-jail",
-    "source": "hackernews",
-    "score": 146.0,
-    "published_at": "2026-09-08T01:57:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49605767",
-    "title": "Mistral raises €3B",
-    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "source": "hackernews",
-    "score": 457.0,
-    "published_at": "2026-09-08T05:06:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49579443",
-    "title": "We built our house for LAN parties",
-    "url": "https://lanparty.house/",
-    "source": "hackernews",
-    "score": 86.0,
-    "published_at": "2026-09-05T18:44:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49607443",
-    "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-    "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-09-08T08:42:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:blba3b",
-    "title": "Jellyfin 12.0",
-    "url": "https://jellyfin.org/posts/jellyfin-release-12.0",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-07T22:13:20.665-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wl0mln",
-    "title": "I’ve factored the RSA keys of a Certificate Authority…from the 90s",
-    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-07T23:05:34.645-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4ntizu",
-    "title": "I changed my license to EUPL",
-    "url": "https://bergie.iki.fi/blog/eupl/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-07T23:17:11.406-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:aepn8g",
-    "title": "My Nix Config Is Intimate",
-    "url": "https://www.scd31.com/posts/nix-files-are-intimate",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-07T22:27:24.244-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0t6c5f",
-    "title": "What are you using as a task manager and as a people manager?",
-    "url": "https://lobste.rs/s/0t6c5f",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-07T19:50:16.588-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sukgeg",
-    "title": "Emacs Bedrock 2.0 Released",
-    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-07T21:55:30.199-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240238",
-    "title": "Codex Sept 7 重置",
-    "url": "https://www.v2ex.com/t/1240238",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-09-07T23:10:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240090",
-    "title": "现在还适合转码吗？",
-    "url": "https://www.v2ex.com/t/1240090",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-09-07T07:45:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240199",
-    "title": "累了 现在一个域名那么贵了吗",
-    "url": "https://www.v2ex.com/t/1240199",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-09-07T14:16:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240245",
-    "title": "“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [9.8 日~9.15 日]",
-    "url": "https://www.v2ex.com/t/1240245",
-    "source": "v2ex",
-    "score": 126.0,
-    "published_at": "2026-09-08T00:36:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240069",
-    "title": "从未有过的失业危机袭来了，怎么办",
-    "url": "https://www.v2ex.com/t/1240069",
-    "source": "v2ex",
-    "score": 150.0,
-    "published_at": "2026-09-07T07:06:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240105",
-    "title": "父母六十了，找不到活干怎么办",
-    "url": "https://www.v2ex.com/t/1240105",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-09-07T08:20:45+00:00",
     "summary": "",
     "key_points": []
   }
