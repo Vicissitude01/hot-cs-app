@@ -1,5 +1,215 @@
 [
   {
+    "id": "lobsters:oz5ju3",
+    "title": "Solod 0.4: Better C interop",
+    "url": "https://antonz.org/solod-0.4/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-12T09:14:24.953-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zjklvq",
+    "title": "How Trail of Bits helps verify the integrity of your Signal chats",
+    "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-12T06:28:29.367-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yhfmtx",
+    "title": "fresh: Terminal based IDE & text editor: easy, powerful and fast",
+    "url": "https://github.com/sinelaw/fresh",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-12T06:59:21.836-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8t1ddm",
+    "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+    "url": "https://hachyderm.io/@simontatham/117201594980991062",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-12T07:38:53.353-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241529",
+    "title": "vibe coding 的代码你怎么放心上线？",
+    "url": "https://www.v2ex.com/t/1241529",
+    "source": "v2ex",
+    "score": 62.0,
+    "published_at": "2026-09-12T06:00:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241559",
+    "title": "趁 AI 的黑箱观察窗口还没关闭前，尽可能学习一些硬核的东西吧",
+    "url": "https://www.v2ex.com/t/1241559",
+    "source": "v2ex",
+    "score": 74.0,
+    "published_at": "2026-09-12T09:23:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683704380166242304",
+    "title": "OkHttp 5.3 隐形变更引发的线上偶发崩溃复盘",
+    "url": "https://juejin.cn/post/7683704380166242304",
+    "source": "juejin",
+    "score": 0.14655712,
+    "published_at": "2026-09-10T07:47:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684204098858106886",
+    "title": "iPhone Duo 适配详解，需要改变的不止是布局模型",
+    "url": "https://juejin.cn/post/7684204098858106886",
+    "source": "juejin",
+    "score": 1.50274924,
+    "published_at": "2026-09-12T02:49:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49672474",
+    "title": "Compiler Can Undo Your Security Checks",
+    "url": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-12T14:07:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49670981",
+    "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+    "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-09-12T10:39:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49642396",
+    "title": "SystemIO conflicts are not firmware bugs",
+    "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-10T12:07:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49671296",
+    "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+    "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-12T11:37:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49672342",
+    "title": "My last six months at Evernote",
+    "url": "https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-12T13:54:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49623933",
+    "title": "Performance of WebAssembly Runtimes in 2026",
+    "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-09T10:00:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49640729",
+    "title": "Finding Slow Code with Wrapture",
+    "url": "https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-10T09:12:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49665549",
+    "title": "Forgotten Woodlands",
+    "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-11T21:21:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49643543",
+    "title": "LRU is harder to beat than the KV-cache papers suggest",
+    "url": "https://github.com/gauravapiscean/agentic-kv-cache",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-10T13:39:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49672365",
+    "title": "A Mathematical Framework for Transformer Circuits (2021)",
+    "url": "https://transformer-circuits.pub/2021/framework/index.html",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-12T13:56:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49671159",
+    "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+    "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-09-12T11:13:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49658672",
+    "title": "I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold",
+    "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-11T14:07:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49671329",
+    "title": "Fuck it, make it anyway",
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "source": "hackernews",
+    "score": 243.0,
+    "published_at": "2026-09-12T11:42:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ekyert",
     "title": "Rune is now open source",
     "url": "https://rune.build/blog/rune-is-now-open-source",
@@ -4786,216 +4996,6 @@
     "source": "hackernews",
     "score": 27.0,
     "published_at": "2026-09-08T16:59:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49600901",
-    "title": "The Helicopter with Radioactive Blades",
-    "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-    "source": "hackernews",
-    "score": 80.0,
-    "published_at": "2026-09-07T17:44:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49611128",
-    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-    "source": "hackernews",
-    "score": 112.0,
-    "published_at": "2026-09-08T14:49:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49613262",
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "url": "https://openai.com/index/navier-stokes-solution/",
-    "source": "hackernews",
-    "score": 409.0,
-    "published_at": "2026-09-08T17:13:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49611251",
-    "title": "Google DeepMind Releases AlphaGenome Atlas",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-    "source": "hackernews",
-    "score": 291.0,
-    "published_at": "2026-09-08T14:55:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3cfr3a",
-    "title": "CERN's migration path from CentOS Linux to Debian",
-    "url": "https://lwn.net/SubscriberLink/1092512/0772b817c369632b/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-08T08:07:26.645-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nsx2dk",
-    "title": "Replacing startplasma with shell scripts or dinit (Part 1)",
-    "url": "https://cukic.co/2026/09/07/startplasma-with-shell-scripts-or-dinit",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-08T06:09:26.467-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1baq3m",
-    "title": "x86 evolution for segmentation and paging",
-    "url": "https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-08T05:22:13.336-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ikzvtv",
-    "title": "Switching Password Managers in 2026",
-    "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-08T08:55:09.220-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tprfej",
-    "title": "Extreme Server Side Rendering",
-    "url": "https://www.scd31.com/posts/extreme-server-side-rendering",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-09-08T05:54:57.814-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240288",
-    "title": "有啥方式可以防止丢伞，每次买来不出一个月就要丢几把",
-    "url": "https://www.v2ex.com/t/1240288",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-09-08T02:07:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:openai/plugins",
-    "title": "plugins",
-    "url": "https://github.com/openai/plugins",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:viarotel-org/escrcpy",
-    "title": "escrcpy",
-    "url": "https://github.com/viarotel-org/escrcpy",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:browser-use/browser-use",
-    "title": "browser-use",
-    "url": "https://github.com/browser-use/browser-use",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:multica-ai/andrej-karpathy-skills",
-    "title": "andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:obra/superpowers",
-    "title": "superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cathrynlavery/diagram-design",
-    "title": "diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ayghri/i-have-adhd",
-    "title": "i-have-adhd",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49583684",
-    "title": "Robot writes in languages it has never seen before (2019)",
-    "url": "https://www.wired.com/story/robot-writing/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-06T05:47:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49609784",
-    "title": "Show HN: DriveSync – fast Git-styled Google Drive sync CLI",
-    "url": "https://github.com/scaleninja/drivesync",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-08T13:01:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49608697",
-    "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
-    "url": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html",
-    "source": "hackernews",
-    "score": 91.0,
-    "published_at": "2026-09-08T11:13:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610890",
-    "title": "The far right's win in Germany is sending a chill through Europe's establishment",
-    "url": "https://www.cnn.com/2026/09/08/europe/germany-far-right-afd-election-europe-intl",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-08T14:33:05+00:00",
     "summary": "",
     "key_points": []
   }
