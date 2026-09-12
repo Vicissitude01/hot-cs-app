@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:zuhv4b",
+    "title": "Dario Amodei —We Must Pace the Frontier",
+    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-12T09:35:49.690-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:oh5hqw",
+    "title": "Logo Programming Language",
+    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-12T11:04:06.756-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pwoxht",
+    "title": "Why do companies stop using Haskell?",
+    "url": "https://www.youtube.com/watch?v=2PebXEak24M",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-12T10:18:31.454-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cmgzlj",
+    "title": "Is truth futureproof? On the possible futures of mechanized proofs",
+    "url": "https://khoury.northeastern.edu/~cmartens/papers/plateau26-itfp.pdf",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-12T12:03:42.282-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:o6rlho",
+    "title": "xkcd-font: The xkcd font",
+    "url": "https://github.com/ipython/xkcd-font",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-12T10:39:00.523-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ub8q3s",
+    "title": "Useful Things Agents Can Do That Are Not Writing Code",
+    "url": "https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-12T10:56:54.844-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bfiose",
+    "title": "Base84 deserves a place in file names",
+    "url": "https://00f.net/2026/09/09/base84/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-09-12T09:38:51.736-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qsrjs2",
+    "title": "I made a build profiler to understand Bun’s compile times",
+    "url": "https://lalitm.com/post/buildprof/",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-09-12T09:48:24.716-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684102772083130422",
+    "title": "我用 AI 写完一个需求后才发现，最难的不是 prompt，而是验收",
+    "url": "https://juejin.cn/post/7684102772083130422",
+    "source": "juejin",
+    "score": 0.31391453,
+    "published_at": "2026-09-11T10:07:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683784267847794715",
+    "title": "2026年AI编程工具大全，33个主流工具一次看懂",
+    "url": "https://juejin.cn/post/7683784267847794715",
+    "source": "juejin",
+    "score": 0.20920751,
+    "published_at": "2026-09-11T00:48:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49674442",
+    "title": "ClickFix attacks infecting PCs and Macs are going viral",
+    "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-12T17:01:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49673281",
+    "title": "Is it time for a Luddite Renaissance?",
+    "url": "https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-09-12T15:24:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49673392",
+    "title": "LG responds to TV spying allegations",
+    "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-09-12T15:33:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49671972",
+    "title": "A Few Good Ideas in Programming Languages",
+    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-12T13:07:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49653509",
+    "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
+    "url": "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-11T04:19:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49637381",
+    "title": "How we manage and engage with our horses shapes their personality",
+    "url": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-10T01:57:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49672557",
+    "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+    "url": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-09-12T14:17:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49674395",
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-12T16:56:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49673580",
+    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-12T15:49:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49674498",
+    "title": "Will There Be a 7G?",
+    "url": "https://arxiv.org/abs/2609.01877",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-12T17:05:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49672641",
+    "title": "I refuse to let SPICE die",
+    "url": "https://github.com/nefarius/vd_agent/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-12T14:25:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49674050",
+    "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
+    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-12T16:25:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49673098",
+    "title": "Nvidia is the central bank of AI",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "source": "hackernews",
+    "score": 139.0,
+    "published_at": "2026-09-12T15:08:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:oz5ju3",
     "title": "Solod 0.4: Better C interop",
     "url": "https://antonz.org/solod-0.4/",
@@ -4766,236 +4996,6 @@
     "source": "hackernews",
     "score": 45.0,
     "published_at": "2026-09-08T20:14:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49616257",
-    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-    "url": "https://github.com/argonautlabsai/deltafin",
-    "source": "hackernews",
-    "score": 87.0,
-    "published_at": "2026-09-08T20:07:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uhzuen",
-    "title": "Serving Web from volatile Dial-up IP",
-    "url": "https://blog.mro.name/2026/09/web-from-dial-up/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-08T10:49:10.259-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dlxqqr",
-    "title": "The Depths of JavaScript: Minesweeper in 247 Bytes",
-    "url": "https://yui.dev/blog/minesweeper-in-247-bytes",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-08T09:33:25.507-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ki3ylq",
-    "title": "Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM",
-    "url": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-08T02:43:27.574-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hczzuo",
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "url": "https://openai.com/index/navier-stokes-solution/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-08T12:53:17.244-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:affaan-m/ECC",
-    "title": "ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49611329",
-    "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
-    "url": "https://logicola.org/blog/the-new-logicola",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-08T15:00:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49609174",
-    "title": "FreeBSD 14.5-Release",
-    "url": "https://www.freebsd.org/releases/14.5R/announce/",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-09-08T12:04:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49611549",
-    "title": "Disappointed Optimists",
-    "url": "https://cwodtke.com/disappointed-optimists/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-08T15:13:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49591563",
-    "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
-    "url": "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-06T22:27:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610988",
-    "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
-    "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
-    "source": "hackernews",
-    "score": 223.0,
-    "published_at": "2026-09-08T14:40:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610900",
-    "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
-    "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
-    "source": "hackernews",
-    "score": 226.0,
-    "published_at": "2026-09-08T14:33:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49575914",
-    "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-05T12:32:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49611230",
-    "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
-    "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-08T14:54:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610641",
-    "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-08T14:14:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49611051",
-    "title": "The two Christian saints who are the Buddha",
-    "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
-    "source": "hackernews",
-    "score": 122.0,
-    "published_at": "2026-09-08T14:44:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49612191",
-    "title": "C*: Unifying Programming and Verification in C",
-    "url": "https://arxiv.org/abs/2504.02246",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-08T15:56:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49612329",
-    "title": "LG TVs caught spying even when offline or on standby",
-    "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-    "source": "hackernews",
-    "score": 215.0,
-    "published_at": "2026-09-08T16:07:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49612635",
-    "title": "Y Combinator Early Access Network",
-    "url": "https://events.ycombinator.com/yc-early-access-fall-26",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-08T16:31:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49613182",
-    "title": "OUI-1: world's first model for Generative UI",
-    "url": "https://www.openui.com/blog/oui-1",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-08T17:07:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49612818",
-    "title": "Connecting the Machines",
-    "url": "https://herdr.dev/blog/connecting-the-machines/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-08T16:43:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610631",
-    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "source": "hackernews",
-    "score": 128.0,
-    "published_at": "2026-09-08T14:13:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49613068",
-    "title": "Show HN: LLM Attention Visualization",
-    "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-08T16:59:41+00:00",
     "summary": "",
     "key_points": []
   }
