@@ -1,5 +1,145 @@
 [
   {
+    "id": "lobsters:wobjnw",
+    "title": "Testing race conditions with memory access tracing and stack-based delay injection",
+    "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-12T12:55:34.316-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:24gxd3",
+    "title": "js65 - Advanced 6502 assembler with patching support based on ca65 syntax",
+    "url": "https://jsnesx.github.io/js65/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-12T14:04:33.399-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1hpzyz",
+    "title": "Make it anyway",
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-12T12:24:07.728-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fcttpk",
+    "title": "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
+    "url": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-12T12:24:59.836-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241596",
+    "title": "有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距",
+    "url": "https://www.v2ex.com/t/1241596",
+    "source": "v2ex",
+    "score": 66.0,
+    "published_at": "2026-09-12T14:02:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683728647317291054",
+    "title": "百万行数据透视表，我是怎么把 Vue 响应式开销砍到零的",
+    "url": "https://juejin.cn/post/7683728647317291054",
+    "source": "juejin",
+    "score": 0.14160893,
+    "published_at": "2026-09-10T07:50:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49672549",
+    "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
+    "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
+    "source": "hackernews",
+    "score": 91.0,
+    "published_at": "2026-09-12T14:16:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49625108",
+    "title": "Eating Fruit Skins",
+    "url": "https://pgadey.ca/blog/eating-fruit-skins/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-09T12:01:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49625056",
+    "title": "Stabilizing Rust's Never Type",
+    "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-09T11:57:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49671237",
+    "title": "How Trail of Bits helps verify the integrity of Signal chats",
+    "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-12T11:27:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49672842",
+    "title": "I made a build visualizer to understand Bun's compile times",
+    "url": "https://lalitm.com/post/buildprof/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-12T14:45:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49672510",
+    "title": "We must pace the frontier",
+    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "source": "hackernews",
+    "score": 324.0,
+    "published_at": "2026-09-12T14:10:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49676085",
+    "title": "An open letter to Dario: if you mean it, open the weights",
+    "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-12T19:15:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645480",
+    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+    "source": "hackernews",
+    "score": 184.0,
+    "published_at": "2026-09-10T15:31:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:zuhv4b",
     "title": "Dario Amodei —We Must Pace the Frontier",
     "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
@@ -4856,146 +4996,6 @@
     "source": "hackernews",
     "score": 54.0,
     "published_at": "2026-09-08T21:22:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49617581",
-    "title": "Large language models develop novel social biases through adaptive exploration",
-    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-09-08T21:47:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:im7lnc",
-    "title": "NetBSD GSoC 2026 Testing Compat Linux Syscall testing",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_testing_compat_linux_2",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-08T10:21:19.391-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pdr2bo",
-    "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
-    "url": "https://bensimms.moe/reverse-engineering-scooter/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-08T16:03:22.480-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wlcg5w",
-    "title": "What makes $BigTechCompany's products bad, anyway?",
-    "url": "https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-08T16:05:31.949-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49614720",
-    "title": "ChatGPT Images 2.5",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-    "source": "hackernews",
-    "score": 225.0,
-    "published_at": "2026-09-08T18:37:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49614557",
-    "title": "Flights cancelled at UK airports due to ATC issue",
-    "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-    "source": "hackernews",
-    "score": 109.0,
-    "published_at": "2026-09-08T18:26:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49581066",
-    "title": "Tyranny of Optionality",
-    "url": "https://hvpandya.com/tyranny-of-optionality",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-09-05T21:52:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49615926",
-    "title": "OpenAI fought dirty on career-making math problem",
-    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-    "source": "hackernews",
-    "score": 90.0,
-    "published_at": "2026-09-08T19:47:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49615139",
-    "title": "Function Arguments Are Not Function Colors",
-    "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-08T19:04:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49562430",
-    "title": "Tracing np.add, all the way down",
-    "url": "https://blog.veitheller.de/numpy.html",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-04T09:42:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49616272",
-    "title": "Animation in Bevy: The Big Picture",
-    "url": "https://glocq.com/en/blog/20260827/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-08T20:08:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49575766",
-    "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
-    "url": "https://uecker.codeberg.page/2026-09-05.html",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-09-05T12:09:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49615537",
-    "title": "Muse: Meta's personal AI agent, features and capabilities",
-    "url": "https://ai.meta.com/muse/",
-    "source": "hackernews",
-    "score": 157.0,
-    "published_at": "2026-09-08T19:25:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49616354",
-    "title": "Mercury 2.5",
-    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-09-08T20:14:52+00:00",
     "summary": "",
     "key_points": []
   }
