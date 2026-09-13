@@ -1,5 +1,375 @@
 [
   {
+    "id": "lobsters:vmapye",
+    "title": "Homebrew 7.0.0",
+    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-13T07:22:47.716-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pcorme",
+    "title": "StyleX — The styling system for ambitious interfaces",
+    "url": "https://stylexjs.com/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-13T07:51:03.402-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ojls0p",
+    "title": "After Math",
+    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-13T07:59:09.092-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8fqdvr",
+    "title": "Can a regex match valid card numbers?",
+    "url": "https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-13T08:39:15.845-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:m6rdhi",
+    "title": "The Esdac Film (1951, 1976)",
+    "url": "https://www.youtube.com/watch?v=DjhRRj6WYcs",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-13T08:20:01.874-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:felv2m",
+    "title": "Stabilizing Rust's never type",
+    "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-13T09:00:18.804-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mdvpm4",
+    "title": "Being lazy in C++",
+    "url": "https://cpp-rendering.io/being-lazy-in-c/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-13T07:50:15.787-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yaax1z",
+    "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+    "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-13T07:10:30.087-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dmlzwx",
+    "title": "Don't call yourself an artisanal programmer",
+    "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-13T06:39:43.658-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241658",
+    "title": "中美大模型是否会分别占据高端、中低端市场？",
+    "url": "https://www.v2ex.com/t/1241658",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-09-13T06:28:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241644",
+    "title": "大家的椅子手托在双手打字场景有这个问题吗，现在很难受",
+    "url": "https://www.v2ex.com/t/1241644",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-09-13T04:29:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241677",
+    "title": "pdd 的金领冠真的不能买吗？",
+    "url": "https://www.v2ex.com/t/1241677",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-09-13T09:21:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684154085232017443",
+    "title": "DeepSeek 这波操作很凶",
+    "url": "https://juejin.cn/post/7684154085232017443",
+    "source": "juejin",
+    "score": 0.27362879,
+    "published_at": "2026-09-12T14:45:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684795356321775626",
+    "title": "AgentLoop: 从 while(true) 到生产级循环",
+    "url": "https://juejin.cn/post/7684795356321775626",
+    "source": "juejin",
+    "score": 1.3208097,
+    "published_at": "2026-09-13T06:49:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:huggingface/transformers",
+    "title": "transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Swordfish90/cool-retro-term",
+    "title": "cool-retro-term",
+    "url": "https://github.com/Swordfish90/cool-retro-term",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:jiji262/douyin-downloader",
+    "title": "douyin-downloader",
+    "url": "https://github.com/jiji262/douyin-downloader",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:tonhowtf/omniget",
+    "title": "omniget",
+    "url": "https://github.com/tonhowtf/omniget",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:alibaba/open-code-review",
+    "title": "open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:debpalash/VoiceStudio",
+    "title": "VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:calesthio/OpenMontage",
+    "title": "OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:tech-leads-club/agent-skills",
+    "title": "agent-skills",
+    "url": "https://github.com/tech-leads-club/agent-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ever-co/ever-gauzy",
+    "title": "ever-gauzy",
+    "url": "https://github.com/ever-co/ever-gauzy",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49683844",
+    "title": "Mars astronauts could live in houses made of yeast and jello, say scientists",
+    "url": "https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-13T13:34:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49684266",
+    "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+    "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-13T14:15:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49684042",
+    "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+    "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-13T13:54:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49682946",
+    "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
+    "url": "https://www.analystidx.com/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-13T11:50:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49682087",
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-09-13T09:59:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49683834",
+    "title": "AI models don't kill people – people kill people",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-13T13:33:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49651107",
+    "title": "On Binary Translation and Its Consequences",
+    "url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-10T22:41:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49683953",
+    "title": "Your car is selling your data",
+    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-13T13:45:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49655450",
+    "title": "Base84 deserves a place in file names",
+    "url": "https://00f.net/2026/09/09/base84/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-11T09:06:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49683729",
+    "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+    "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-13T13:24:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49638071",
+    "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+    "url": "https://bensimms.moe/reverse-engineering-scooter/",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-09-10T03:32:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49678423",
+    "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+    "url": "https://github.com/FeralFirmware/TailTalk/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-12T23:43:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49683033",
+    "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+    "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-13T12:01:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49683853",
+    "title": "Flock worker calls police on reporter filming public camera installation",
+    "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+    "source": "hackernews",
+    "score": 140.0,
+    "published_at": "2026-09-13T13:35:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:pbmvov",
     "title": "The night 142 of my servers went up in the clouds Physically",
     "url": "https://exquisite.tube/w/nQbc54t4G7YGaqiryZ7mg1",
@@ -4626,376 +4996,6 @@
     "source": "lobsters",
     "score": 8.0,
     "published_at": "2026-09-09T11:54:31.267-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49626429",
-    "title": "Playing whack-a-mole is losing",
-    "url": "https://dadrian.io/blog/posts/whack-a-mole-is-losing/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-09-09T13:41:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49569584",
-    "title": "Searching for the best silicone USB cable",
-    "url": "https://www.frankchiarulli.com/blog/best-silicone-usb-cable/",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-09-04T20:06:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49627872",
-    "title": "Show HN: Give your AI agent on-screen guides that show users where to click",
-    "url": "https://news.ycombinator.com/item?id=49627872",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-09T15:09:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49629608",
-    "title": "Every Millisecond Counts",
-    "url": "https://jordivillar.com/blog/every-millisecond-counts",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-09T16:57:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49614575",
-    "title": "Generating the P3 Tiling",
-    "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-08T18:27:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49628982",
-    "title": "I haven't lost a customer service fight in seven months",
-    "url": "https://www.sudomoin.com/p/consumer-claims",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-09T16:18:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49628454",
-    "title": "Better AI code comment detector",
-    "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-09T15:45:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49584361",
-    "title": "Bespoke: A programming language for people who say please",
-    "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-06T08:13:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49599012",
-    "title": "Magic Move for Code Snippets from first principles",
-    "url": "https://rahulrav.com/blog/magic_move.html",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-07T14:44:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49629865",
-    "title": "Why Emacs Consult async searches feel slow and how to speed them up",
-    "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-09T17:13:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49628290",
-    "title": "We accidentally built a synthetic cell factory",
-    "url": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-09T15:34:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49615245",
-    "title": "Rivian's gambit for full autonomy",
-    "url": "https://spectrum.ieee.org/rivian-self-driving",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-08T19:09:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49614280",
-    "title": "What do Visa and Mastercard do? An intro to card networks",
-    "url": "https://tautology.town/2026/06/01/card-networks.html",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-08T18:11:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49630026",
-    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-    "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-09T17:24:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49628493",
-    "title": "No Man's Sky Cosmos",
-    "url": "https://www.nomanssky.com/cosmos-update/",
-    "source": "hackernews",
-    "score": 135.0,
-    "published_at": "2026-09-09T15:47:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49629209",
-    "title": "The UN challenges five centuries of cartography",
-    "url": "https://www.not-ship.com/united-nations-map/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-09T16:33:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49628614",
-    "title": "Understanding the recent DDoS attack against Read the Docs",
-    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-09T15:55:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49628429",
-    "title": "Planet Labs' open satellite feed",
-    "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-09T15:44:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49630253",
-    "title": "Apple Introduces AirPods 5",
-    "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-09T17:39:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49628576",
-    "title": "GNU Radio in the browser",
-    "url": "https://gnuradioworld.com/",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-09-09T15:53:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49627370",
-    "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-    "source": "hackernews",
-    "score": 148.0,
-    "published_at": "2026-09-09T14:37:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49629886",
-    "title": "Growing proof that autonomous cars save lives",
-    "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-09-09T17:14:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mlqqpn",
-    "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
-    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-09T08:21:19.648-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:td6ssk",
-    "title": "Analysing 2048 on a 3×3 board",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-09T08:24:26.568-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jrkqiz",
-    "title": "Playing with Emacs",
-    "url": "https://idlip.in/posts/playing-emacs/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-09T06:39:04.977-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lxiabq",
-    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-09T07:53:21.305-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tsfs3w",
-    "title": "Why Function Arguments Are Not Function Colors",
-    "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-08T23:13:05.979-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ffvipw",
-    "title": "Why Emacs Consult async searches feel slow and how to speed them up",
-    "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-09T08:09:45.692-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:veafpx",
-    "title": "The purpose of DNS is to spread scams",
-    "url": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-09T08:32:22.032-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zffgb8",
-    "title": "A decade of rustls",
-    "url": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-09T06:13:13.488-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9tck4q",
-    "title": "The State of Allocators in 2026 - 6 Months Later",
-    "url": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-09-09T01:43:42.537-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240579",
-    "title": "第一次发现裁员离自己并不遥远",
-    "url": "https://www.v2ex.com/t/1240579",
-    "source": "v2ex",
-    "score": 138.0,
-    "published_at": "2026-09-09T01:55:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683049897088843816",
-    "title": "大环境或许真的恶劣了起来，打工人你焦虑吗？",
-    "url": "https://juejin.cn/post/7683049897088843816",
-    "source": "juejin",
-    "score": 2.03003226,
-    "published_at": "2026-09-09T01:27:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683125482832887823",
-    "title": "浪费时间！DeepSeek 4.1 Flash",
-    "url": "https://juejin.cn/post/7683125482832887823",
-    "source": "juejin",
-    "score": 2.98941069,
-    "published_at": "2026-09-09T03:27:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:vastsa/PI-Desktop",
-    "title": "PI-Desktop",
-    "url": "https://github.com/vastsa/PI-Desktop",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:rohitg00/ai-engineering-from-scratch",
-    "title": "ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:freestylefly/awesome-gpt-image-2",
-    "title": "awesome-gpt-image-2",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
