@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:evl6wg",
+    "title": "Session Context — what a web page knows about you",
+    "url": "https://sessioncontext.org",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-13T08:36:10.899-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:loapzc",
+    "title": "Switching to GNU Guix: A Beginner's Perspective",
+    "url": "https://whhone.com/posts/switching-to-gnu-guix/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-13T11:19:47.288-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ytc27d",
+    "title": "Golang developers should try Odin",
+    "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-13T10:23:41.394-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6syfar",
+    "title": "what if my git host were a static site generator?",
+    "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-09-13T11:10:06.327-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241706",
+    "title": "北京这下无人机算是彻底了。",
+    "url": "https://www.v2ex.com/t/1241706",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-09-13T13:43:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684068584670134318",
+    "title": "AI 前端落地实战：SSE 流式输出、断点续传、打字机渲染",
+    "url": "https://juejin.cn/post/7684068584670134318",
+    "source": "juejin",
+    "score": 0.09773685,
+    "published_at": "2026-09-11T07:01:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49684101",
+    "title": "Key symbols we lost to time, pt. 1: The PC side",
+    "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-09-13T14:00:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49664413",
+    "title": "A Brief Retrospective on the Sprite Network Operating System",
+    "url": "https://github.com/OSPreservProject/sprite/blob/master/sprite.txt",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-11T19:52:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49686233",
+    "title": "Ask HN: How can I browse HN in dark mode?",
+    "url": "https://news.ycombinator.com/item?id=49686233",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-13T17:18:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49651567",
+    "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+    "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-10T23:32:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49684879",
+    "title": "Predictive intelligence to anticipate anything.",
+    "url": "https://prior.chat/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-13T15:11:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49660196",
+    "title": "Alan's Random Insult Generator (1999)",
+    "url": "https://alanbellows.com/experiments/insult/index.html",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-11T15:34:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49686445",
+    "title": "Why is Google still serving dodgy ads?",
+    "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-13T17:37:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49685037",
+    "title": "Libraries Run Rust Inside Python (With PyO3)",
+    "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-13T15:24:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49686134",
+    "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+    "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-13T17:08:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49686380",
+    "title": "Ask HN: What are you working on? (September 2026)",
+    "url": "https://news.ycombinator.com/item?id=49686380",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-13T17:31:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49684778",
+    "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+    "url": "https://cpak.it/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-13T15:02:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49685991",
+    "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+    "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-09-13T16:52:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49684196",
+    "title": "Making Startups Powerful",
+    "url": "https://paulgraham.com/powerful.html",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-09-13T14:09:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49685253",
+    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-09-13T15:44:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49683262",
+    "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+    "source": "hackernews",
+    "score": 93.0,
+    "published_at": "2026-09-13T12:30:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49684356",
+    "title": "CUDA for AMD on Windows",
+    "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-09-13T14:25:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49684393",
+    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+    "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+    "source": "hackernews",
+    "score": 212.0,
+    "published_at": "2026-09-13T14:28:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:vmapye",
     "title": "Homebrew 7.0.0",
     "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
@@ -4766,236 +4996,6 @@
     "source": "hackernews",
     "score": 7.0,
     "published_at": "2026-09-10T01:02:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qlhcr5",
-    "title": "DIFF: A Relational Interface for Large-Scale Data Explanation",
-    "url": "https://andrewxiwu.github.io/public/papers/2019/macrobase-sql-VLDB2019.pdf",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-09T15:42:24.113-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49634650",
-    "title": "Matt Mullenweg put on 'leave of absence'",
-    "url": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
-    "source": "hackernews",
-    "score": 130.0,
-    "published_at": "2026-09-09T21:28:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49602615",
-    "title": "Use Vsock with Libzmq",
-    "url": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-07T20:24:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49634966",
-    "title": "South Park creators rename show 'South America'",
-    "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-09-09T21:53:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vjds7h",
-    "title": "Bulk AbuseIPDB reporting using command-line tools",
-    "url": "https://blog.mbirth.uk/2026/08/30/bulk-abuseipdb-reporting-using-command-line-tools.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-09T15:26:56.196-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tiltfq",
-    "title": "ID design and primary keys",
-    "url": "https://anchorsandlinks.com/posts/primary-keys/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-09T13:31:44.973-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rghafd",
-    "title": "A Design Space Exploration of Async/Await",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-09T10:22:32.302-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:o9cyiv",
-    "title": "Better AI code comment detector",
-    "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-09T13:27:24.767-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49600569",
-    "title": "Ancient cave art suggests first known humans in Ireland walked over from Wales",
-    "url": "https://www.bbc.com/news/articles/c5y75dl0jpko",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-07T17:13:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49626373",
-    "title": "What will our economic future look like?",
-    "url": "https://www.anthropic.com/institute/econ-scenarios",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-09-09T13:38:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49630583",
-    "title": "Apple Watch Ultra 4",
-    "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-09-09T17:56:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49630606",
-    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-    "url": "https://github.com/OtoDock/oto-dock",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-09T17:57:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49629868",
-    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-    "url": "https://arxiv.org/abs/2609.09153",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-09T17:13:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49573629",
-    "title": "Microsoft says email spammers are adopting ASCII smuggling",
-    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-05T06:24:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49630151",
-    "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-    "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-    "source": "hackernews",
-    "score": 161.0,
-    "published_at": "2026-09-09T17:33:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49630566",
-    "title": "Apple Watch Series 12",
-    "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-    "source": "hackernews",
-    "score": 142.0,
-    "published_at": "2026-09-09T17:56:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49630931",
-    "title": "iPhone Duo",
-    "url": "https://www.apple.com/iphone-duo/",
-    "source": "hackernews",
-    "score": 511.0,
-    "published_at": "2026-09-09T18:15:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ml3mgf",
-    "title": "Why is this robot slowly dropping the object?",
-    "url": "https://youtu.be/DqMjxcfm4Ek",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-09T10:06:09.005-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:g7ti3a",
-    "title": "Vintage scientific papers with LaTeX",
-    "url": "https://github.com/Foadsf/vintage-latex",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-09T11:34:11.321-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wdwg2b",
-    "title": "Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS",
-    "url": "https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-09T11:02:54.141-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uiyfpl",
-    "title": "Every Millisecond Counts",
-    "url": "https://jordivillar.com/blog/every-millisecond-counts",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-09T11:06:05.965-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rdhsu9",
-    "title": "I Don’t Want to Interact With Stochastic Parrots",
-    "url": "https://ploum.net/2026-09-09-ai_policy.html",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-09T12:18:32.413-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zj6mij",
-    "title": "Apple Event for September 9th, 2026",
-    "url": "https://www.apple.com/apple-events/event-stream/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-09T11:54:31.267-05:00",
     "summary": "",
     "key_points": []
   }
