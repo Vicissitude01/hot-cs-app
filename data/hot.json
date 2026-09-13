@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:3nk1lh",
+    "title": "Metacarp",
+    "url": "https://blog.veitheller.de/Metacarp.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-12T21:19:07.736-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:m4pjtg",
+    "title": "Lua Pattern Tester",
+    "url": "https://iamreiyn.github.io/lua-pattern-tester/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-12T21:35:51.690-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:betbip",
+    "title": "a better way of blocking macOS updates",
+    "url": "https://zoey-on-github.github.io/blog/updates.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-12T20:12:07.992-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fmkm3v",
+    "title": "Everyone should slow down AI development except for me",
+    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-09-12T19:53:30.568-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jwlzd3",
+    "title": "A Dick Smith VZ200 without the Dick Smith",
+    "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-12T21:31:35.781-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241535",
+    "title": "你们 ChatGPT 重置了吗？",
+    "url": "https://www.v2ex.com/t/1241535",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-09-12T07:04:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241623",
+    "title": "SRE 岗 offer 选择",
+    "url": "https://www.v2ex.com/t/1241623",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-09-13T00:51:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241578",
+    "title": "18PM 抢到了， 10099 元",
+    "url": "https://www.v2ex.com/t/1241578",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-09-12T12:04:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241532",
+    "title": "养育孩子的牙齿，父母应该知道的事",
+    "url": "https://www.v2ex.com/t/1241532",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-09-12T06:38:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241624",
+    "title": "你们一天喝多少咖啡的？",
+    "url": "https://www.v2ex.com/t/1241624",
+    "source": "v2ex",
+    "score": 80.0,
+    "published_at": "2026-09-13T00:56:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684439645419274267",
+    "title": "App 架构演进：MVC → MVP → MVVM → MVI，一篇看懂",
+    "url": "https://juejin.cn/post/7684439645419274267",
+    "source": "juejin",
+    "score": 4.24264035,
+    "published_at": "2026-09-12T15:34:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683539970712830006",
+    "title": "用 Node.js 复刻 Codex Astra 的终端星光",
+    "url": "https://juejin.cn/post/7683539970712830006",
+    "source": "juejin",
+    "score": 0.10909295,
+    "published_at": "2026-09-10T13:37:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683784267848122395",
+    "title": "DeepSeek V4.1 Flash 正式发布！",
+    "url": "https://juejin.cn/post/7683784267848122395",
+    "source": "juejin",
+    "score": 0.16316113,
+    "published_at": "2026-09-11T01:27:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684463933702291466",
+    "title": "我把苹果发布会里的折叠屏，真的用网页做出来了",
+    "url": "https://juejin.cn/post/7684463933702291466",
+    "source": "juejin",
+    "score": 0.40028606,
+    "published_at": "2026-09-12T05:49:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684069447021035562",
+    "title": "用 AI 做短剧出海，赚麻了！（附 Skill 及教程）",
+    "url": "https://juejin.cn/post/7684069447021035562",
+    "source": "juejin",
+    "score": 0.16471818,
+    "published_at": "2026-09-11T07:46:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49677450",
+    "title": "P(doom)",
+    "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-09-12T21:35:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49678435",
+    "title": "AgentsDock: An IDE designed for agentic AI research",
+    "url": "https://agentsdock.net/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-12T23:45:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49635621",
+    "title": "Durable execution without history replay",
+    "url": "https://trigora.dev/blog/durable-execution-without-history-replay/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-09T22:41:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49629624",
+    "title": "Vintage Scientific Papers with LaTeX",
+    "url": "https://github.com/Foadsf/vintage-latex",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-09-09T16:58:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49640913",
+    "title": "I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32",
+    "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-10T09:32:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49679360",
+    "title": "Don't call yourself an artisanal programmer",
+    "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-13T02:29:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49677577",
+    "title": "Don't be the out of touch Kung Fu master – John Carmack",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-09-12T21:51:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49678683",
+    "title": "Everyone should slow down AI development except for me",
+    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+    "source": "hackernews",
+    "score": 299.0,
+    "published_at": "2026-09-13T00:30:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49649864",
+    "title": "From Git to Fossil",
+    "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-10T20:39:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49679647",
+    "title": "The Succession Crisis That Tore England Apart",
+    "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-13T03:18:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49679459",
+    "title": "The Interim Computer Museum",
+    "url": "https://icm.museum/",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-09-13T02:43:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:6xdgjr",
     "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
     "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
@@ -4736,266 +4996,6 @@
     "source": "v2ex",
     "score": 144.0,
     "published_at": "2026-09-09T03:35:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240689",
-    "title": "V2Echo iOS 客户端 TestFlight 内测招募｜前 50 名赠送 Pro 永久权益",
-    "url": "https://www.v2ex.com/t/1240689",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-09-09T06:41:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240644",
-    "title": "避雷一个 AI 中转站，世一稳（https://sub.bulita.net）",
-    "url": "https://www.v2ex.com/t/1240644",
-    "source": "v2ex",
-    "score": 340.0,
-    "published_at": "2026-09-09T03:53:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682628131855728675",
-    "title": "AI时代下，Android的边界正在消失",
-    "url": "https://juejin.cn/post/7682628131855728675",
-    "source": "juejin",
-    "score": 0.29404853,
-    "published_at": "2026-09-07T12:33:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682724380078080015",
-    "title": "固定电话验证详解：区号、号码、分机号的完整验证",
-    "url": "https://juejin.cn/post/7682724380078080015",
-    "source": "juejin",
-    "score": 255.33585199,
-    "published_at": "2026-09-08T02:58:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:liquidslr/system-design-notes",
-    "title": "system-design-notes",
-    "url": "https://github.com/liquidslr/system-design-notes",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49612089",
-    "title": "Into the depths of C: Elaborating the de facto standards (2016)",
-    "url": "https://dl.acm.org/doi/10.1145/2980983.2908081",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-08T15:49:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49621223",
-    "title": "AI Has a Discovery Problem",
-    "url": "https://mhacevedo.com/posts/the-discovery-problem",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-09-09T04:59:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49607858",
-    "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
-    "url": "https://codeberg.org/jjba23/maak.el",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-08T09:28:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49621751",
-    "title": "“Tweet” and the bird logo apparently enter the public domain",
-    "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
-    "source": "hackernews",
-    "score": 68.0,
-    "published_at": "2026-09-09T06:02:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49622042",
-    "title": "Copyright does more harm than good and should be abolished",
-    "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
-    "source": "hackernews",
-    "score": 205.0,
-    "published_at": "2026-09-09T06:31:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49621102",
-    "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
-    "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-09T04:43:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49580761",
-    "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-    "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-05T21:14:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49622305",
-    "title": "On Really Trying (2009)",
-    "url": "https://gwern.net/on-really-trying",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-09-09T06:58:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49622561",
-    "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-    "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-09-09T07:22:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fvdo91",
-    "title": "Teaching NumPy’s ufuncs new tricks",
-    "url": "https://labs.quansight.org/blog/teaching-numpys-ufuncs-new-tricks",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-08T17:05:47.640-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:biulze",
-    "title": "Sloc Cloc and Code - Did I just get Buster Scrugged?",
-    "url": "https://boyter.org/posts/did-i-just-get-buster-scrugged/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-08T20:13:32.481-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240445",
-    "title": "[送终身会员] Frset：精致优雅的 macOS 效率工具进入稳定版。主打剪贴板、截图、翻译、AI、开发者工具等",
-    "url": "https://www.v2ex.com/t/1240445",
-    "source": "v2ex",
-    "score": 78.0,
-    "published_at": "2026-09-08T08:31:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240369",
-    "title": "支付宝的美区苹果礼品卡全部没货",
-    "url": "https://www.v2ex.com/t/1240369",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-09-08T05:15:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240361",
-    "title": "做了一本按「性价比」排序的人生指南： 354 条建议，每条写明花什么、换什么、证据多硬",
-    "url": "https://www.v2ex.com/t/1240361",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-09-08T04:27:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240610",
-    "title": "从什么时候开始，早睡早起变成小众爱好了？",
-    "url": "https://www.v2ex.com/t/1240610",
-    "source": "v2ex",
-    "score": 88.0,
-    "published_at": "2026-09-09T02:56:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240605",
-    "title": "论小红书上的极品蠢人",
-    "url": "https://www.v2ex.com/t/1240605",
-    "source": "v2ex",
-    "score": 100.0,
-    "published_at": "2026-09-09T02:48:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240550",
-    "title": "又是一个新的时代",
-    "url": "https://www.v2ex.com/t/1240550",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-09-09T00:55:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240449",
-    "title": "一边是消费降级，一边是各种涨价。看不懂了。",
-    "url": "https://www.v2ex.com/t/1240449",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-09-08T08:52:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240426",
-    "title": "失业三个月多月了，做了两款全栈产品，目前付费收入 100 块都没有，还要继续吗",
-    "url": "https://www.v2ex.com/t/1240426",
-    "source": "v2ex",
-    "score": 152.0,
-    "published_at": "2026-09-08T07:50:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240564",
-    "title": "[送终身会员] 自带 Agent 的 SSH 终端软件",
-    "url": "https://www.v2ex.com/t/1240564",
-    "source": "v2ex",
-    "score": 156.0,
-    "published_at": "2026-09-09T01:36:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682949323614224390",
-    "title": "9 月第一周，前端圈又炸了四次",
-    "url": "https://juejin.cn/post/7682949323614224390",
-    "source": "juejin",
-    "score": 1.23637369,
-    "published_at": "2026-09-08T08:41:58+00:00",
     "summary": "",
     "key_points": []
   }
