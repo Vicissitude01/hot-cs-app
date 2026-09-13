@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:oqkml5",
+    "title": "Nobody pays for open source. We can force them to",
+    "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-09-13T09:34:32.534-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sr1qmw",
+    "title": "Sorry, Wrong Number: Debugging a Crash under Wine (2022)",
+    "url": "https://blog.jchw.dev/wrong-number/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-13T15:31:16.592-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684460980934049807",
+    "title": "从codex转战workbuddy使用一周的感受",
+    "url": "https://juejin.cn/post/7684460980934049807",
+    "source": "juejin",
+    "score": 1.11781026,
+    "published_at": "2026-09-13T11:33:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49689706",
+    "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+    "url": "https://openai.com/index/better-language-models/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-13T23:11:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49688766",
+    "title": "Why is privacy so hard?",
+    "url": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-13T21:13:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49689048",
+    "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+    "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-13T21:47:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49649164",
+    "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+    "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-10T19:39:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49689460",
+    "title": "The Contagion of Fear",
+    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-13T22:38:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49688695",
+    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "source": "hackernews",
+    "score": 280.0,
+    "published_at": "2026-09-13T21:06:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:vxkb8z",
     "title": "GEFS: The File Shredder of the Future",
     "url": "https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u",
@@ -4906,96 +4996,6 @@
     "source": "hackernews",
     "score": 30.0,
     "published_at": "2026-09-10T05:01:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49592799",
-    "title": "Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets",
-    "url": "https://gizmodo.com/aardman-is-selling-its-original-movie-puppets-this-month-2000807968",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-07T01:35:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49638353",
-    "title": "OpenAI might have stolen another major proof",
-    "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
-    "source": "hackernews",
-    "score": 92.0,
-    "published_at": "2026-09-10T04:19:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49637395",
-    "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-    "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-09-10T01:59:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49636283",
-    "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-    "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-    "source": "hackernews",
-    "score": 188.0,
-    "published_at": "2026-09-09T23:49:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49623398",
-    "title": "Show HN: Compute polynomials twice as fast",
-    "url": "https://thomasahle.com/fast-polynomials/",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-09-09T08:53:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49637435",
-    "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-    "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-09-10T02:04:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49621018",
-    "title": "Larger Pacific Striped Octopus",
-    "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-09T04:32:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49587465",
-    "title": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
-    "url": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-09-06T15:28:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49603265",
-    "title": "Version Control Second Coming",
-    "url": "https://psantosl.github.io/posts/version-control-second-coming/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-09-07T21:42:11+00:00",
     "summary": "",
     "key_points": []
   }
