@@ -1,5 +1,55 @@
 [
   {
+    "id": "lobsters:6xdgjr",
+    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-12T15:55:56.268-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49677391",
+    "title": "Financial Times' 404 Page not Found",
+    "url": "https://www.ft.com/article/404",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-12T21:28:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49644603",
+    "title": "Show HN: See Sounds on Your Webcam",
+    "url": "https://soundmap.darebuild.com/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-10T14:43:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49677715",
+    "title": "StarCraft returns in 2030 as an open-world shooter",
+    "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-12T22:07:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49636479",
+    "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+    "url": "https://eiln.github.io/posts/ane-dma.html",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-10T00:16:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:jtmyg2",
     "title": "Optimizing a single Rust Clippy lint by 3133X",
     "url": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
@@ -4946,56 +4996,6 @@
     "source": "juejin",
     "score": 1.23637369,
     "published_at": "2026-09-08T08:41:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49619906",
-    "title": "Harvard study predicts most suicide attempts a week in advance",
-    "url": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
-    "source": "hackernews",
-    "score": 96.0,
-    "published_at": "2026-09-09T02:07:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49597806",
-    "title": "The UK origins of the Slovenian \"Partner\" 80s microcomputer's case",
-    "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-07T12:51:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49598921",
-    "title": "Getting phpBB 1.4.4 working in Docker",
-    "url": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-07T14:35:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49598009",
-    "title": "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
-    "url": "https://news.ycombinator.com/item?id=49598009",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-09-07T13:09:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49619227",
-    "title": "I resigned from Anthropic today",
-    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-    "source": "hackernews",
-    "score": 156.0,
-    "published_at": "2026-09-09T00:40:40+00:00",
     "summary": "",
     "key_points": []
   }
