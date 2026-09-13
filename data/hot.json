@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:pbmvov",
+    "title": "The night 142 of my servers went up in the clouds Physically",
+    "url": "https://exquisite.tube/w/nQbc54t4G7YGaqiryZ7mg1",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-13T00:48:19.836-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:scyufg",
+    "title": "Opusfived",
+    "url": "https://opusfived.dev/",
+    "source": "lobsters",
+    "score": 18.0,
+    "published_at": "2026-09-12T21:07:58.272-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pr1po9",
+    "title": "heol",
+    "url": "https://wiki.xxiivv.com/site/heol.html",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-13T00:59:41.454-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pomjkm",
+    "title": "From Git to Fossil (2025)",
+    "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-13T02:51:19.345-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241642",
+    "title": "为了 Duo 这碟醋，苹果真是包了不少饺子啊……",
+    "url": "https://www.v2ex.com/t/1241642",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-09-13T04:05:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241635",
+    "title": "有没有什么工具，可以远程让 codex 干活？",
+    "url": "https://www.v2ex.com/t/1241635",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-09-13T03:21:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241595",
+    "title": "郁闷， mac 坏了，又要破费了！",
+    "url": "https://www.v2ex.com/t/1241595",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-09-12T13:58:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241660",
+    "title": "用 Astra 把家乡的竹林老屋做成一个可以游览的网页",
+    "url": "https://www.v2ex.com/t/1241660",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-09-13T06:38:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241650",
+    "title": "API 中转站能看到你全部 prompt 和回复，为什么没有一个「厂商端到端加密」的标准？",
+    "url": "https://www.v2ex.com/t/1241650",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-09-13T05:08:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241637",
+    "title": "陶哲轩等数学家反对 AI，论失败的意义",
+    "url": "https://www.v2ex.com/t/1241637",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-09-13T03:28:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683803827217350675",
+    "title": "GPT‑6 Astra真正的变化：AI开始直接操作工作软件",
+    "url": "https://juejin.cn/post/7683803827217350675",
+    "source": "juejin",
+    "score": 0.11025909,
+    "published_at": "2026-09-11T05:13:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684102772083195958",
+    "title": "5000亿估值冲刺科创板，DeepSeek 为何急着上市？",
+    "url": "https://juejin.cn/post/7684102772083195958",
+    "source": "juejin",
+    "score": 0.11529183,
+    "published_at": "2026-09-11T10:14:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683724457529294854",
+    "title": "AI 改祖传模块后，代码评审总绕不开两个问题",
+    "url": "https://juejin.cn/post/7683724457529294854",
+    "source": "juejin",
+    "score": 0.08842902,
+    "published_at": "2026-09-10T11:20:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684049880511676468",
+    "title": "为什么现在 AI 这么发达了，还要坚持手搓教程？",
+    "url": "https://juejin.cn/post/7684049880511676468",
+    "source": "juejin",
+    "score": 0.1206068,
+    "published_at": "2026-09-11T03:57:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683820796637872154",
+    "title": "一个Docker命令，40万首古诗词API开箱即用",
+    "url": "https://juejin.cn/post/7683820796637872154",
+    "source": "juejin",
+    "score": 0.11802408,
+    "published_at": "2026-09-11T01:25:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49681545",
+    "title": "Homebrew 7.0.0",
+    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-13T08:41:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49679734",
+    "title": "A wandering black hole caught feeding on the run",
+    "url": "https://phys.org/news/2026-08-black-hole-caught.html",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-13T03:34:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49644784",
+    "title": "Operation Smart Kettle – Börzels Blog",
+    "url": "https://blog.boerzel.de/de/blog/operation-smart-kettle",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-10T14:53:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49654148",
+    "title": "Gonc – Netcat with P2P Nat Traversal",
+    "url": "https://github.com/threatexpert/gonc",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-11T06:12:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49679643",
+    "title": "Aligned to whom?",
+    "url": "https://hyperbo.la/w/aligned-to-whom/",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-09-13T03:17:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49679637",
+    "title": "After Math",
+    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-09-13T03:16:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49678969",
+    "title": "Why are AI agents lying, cheating and coordinating?",
+    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "source": "hackernews",
+    "score": 228.0,
+    "published_at": "2026-09-13T01:22:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49681724",
+    "title": "Norton Neo Browser",
+    "url": "https://neobrowser.ai/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-13T09:07:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49681152",
+    "title": "JetKVM Mini",
+    "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+    "source": "hackernews",
+    "score": 114.0,
+    "published_at": "2026-09-13T07:49:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:3nk1lh",
     "title": "Metacarp",
     "url": "https://blog.veitheller.de/Metacarp.html",
@@ -4756,246 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:TauricResearch/TradingAgents",
-    "title": "TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:earthtojake/text-to-cad",
-    "title": "text-to-cad",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Tencent/teamai-cli",
-    "title": "teamai-cli",
-    "url": "https://github.com/Tencent/teamai-cli",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49626431",
-    "title": "Ask HN: Anyone still coding like 2021? Where do you work?",
-    "url": "https://news.ycombinator.com/item?id=49626431",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-09T13:41:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49626052",
-    "title": "One woman's Tesla was remotely controlled by an abusive ex-partner",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-09T13:16:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49624163",
-    "title": "How An AI math breakthrough ignited a controversy",
-    "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-    "source": "hackernews",
-    "score": 155.0,
-    "published_at": "2026-09-09T10:25:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49623937",
-    "title": "Lotus Notes and the dangers of starting from scratch",
-    "url": "https://buttondown.com/blog/lotus-notes-email",
-    "source": "hackernews",
-    "score": 88.0,
-    "published_at": "2026-09-09T10:01:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49604165",
-    "title": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes",
-    "url": "https://github.com/ashemag/human-atlas",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-07T23:40:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49623938",
-    "title": "Building a Wall Lamp from Scratch",
-    "url": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-09T10:01:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49625110",
-    "title": "Roame (YC S23) Is Hiring Viral Content Editor",
-    "url": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-09T12:01:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49562915",
-    "title": "Smolts: A pedagogical IDE for a teaching language",
-    "url": "https://eighty-twenty.org/2026/09/04/smolts",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-04T10:58:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49586494",
-    "title": "Coyote v. Acme (1990)",
-    "url": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-09-06T13:43:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49624603",
-    "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
-    "url": "https://news.ycombinator.com/item?id=49624603",
-    "source": "hackernews",
-    "score": 161.0,
-    "published_at": "2026-09-09T11:19:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49623754",
-    "title": "Claude, change the \"Add to Cart\" button to blue",
-    "url": "https://opusfived.dev/",
-    "source": "hackernews",
-    "score": 175.0,
-    "published_at": "2026-09-09T09:39:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49624856",
-    "title": "I advertise malicious software on Google Ads",
-    "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
-    "source": "hackernews",
-    "score": 145.0,
-    "published_at": "2026-09-09T11:43:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49624823",
-    "title": "Desert Ant Labs: local, fast models that run on device",
-    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-09-09T11:39:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49624394",
-    "title": "Flock Wants a Closely Surveilled World with No Exit",
-    "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
-    "source": "hackernews",
-    "score": 369.0,
-    "published_at": "2026-09-09T10:54:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49626190",
-    "title": "Tailwind Labs is joining Shopify",
-    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-09-09T13:27:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ojyeqg",
-    "title": "Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0 (1999)",
-    "url": "https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten_html/index.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-09T01:47:58.129-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8mgfan",
-    "title": "software for humans",
-    "url": "https://clankerfree.org",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-08T20:56:40.443-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wrt9wm",
-    "title": "Solaris Turnstiles",
-    "url": "https://rdmsr.github.io/writing/turnstiles/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-09T03:14:25.329-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240545",
-    "title": "豆包输入法 WIN 端可以下载了",
-    "url": "https://www.v2ex.com/t/1240545",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-09-09T00:10:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240589",
-    "title": "幼儿园延时课--兴趣班该怎么选",
-    "url": "https://www.v2ex.com/t/1240589",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-09-09T02:18:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240636",
-    "title": "刚刚在网上看到长沙的 4 岁小孩被成年女性欺负，这个世界是怎么了？",
-    "url": "https://www.v2ex.com/t/1240636",
-    "source": "v2ex",
-    "score": 144.0,
-    "published_at": "2026-09-09T03:35:23+00:00",
     "summary": "",
     "key_points": []
   }
