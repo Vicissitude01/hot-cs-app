@@ -1,5 +1,445 @@
 [
   {
+    "id": "lobsters:gud12o",
+    "title": "Why Am I Still Programming",
+    "url": "https://www.youtube.com/watch?v=pOAj3mor8y8",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-14T08:28:42.300-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:y2n9bq",
+    "title": "Sticking Functions Where They Donʼt Belong",
+    "url": "https://blog.veritates.love/functions-as-data",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-14T06:46:10.456-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:da7fcv",
+    "title": "Finished aerial maps in under 30 minutes",
+    "url": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-14T08:37:36.714-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:agbpkq",
+    "title": "We are all Product Engineers now",
+    "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-14T05:52:45.255-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0inlyw",
+    "title": "What are you doing this week?",
+    "url": "https://lobste.rs/s/0inlyw",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-14T02:47:47.767-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gslcz7",
+    "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
+    "url": "https://codeberg.org/mergiraf/mergiraf",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-14T06:16:14.338-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241770",
+    "title": "18PM 首发已入，有没有推荐的壳和膜",
+    "url": "https://www.v2ex.com/t/1241770",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-09-14T01:59:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241755",
+    "title": "预测一下， 2027 年的今天，程序员在职数量会减少 80%",
+    "url": "https://www.v2ex.com/t/1241755",
+    "source": "v2ex",
+    "score": 150.0,
+    "published_at": "2026-09-14T01:22:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241810",
+    "title": "纯电还是混动",
+    "url": "https://www.v2ex.com/t/1241810",
+    "source": "v2ex",
+    "score": 208.0,
+    "published_at": "2026-09-14T03:20:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685224902321848358",
+    "title": "只备份一个 schema，别把整库都搬走",
+    "url": "https://juejin.cn/post/7685224902321848358",
+    "source": "juejin",
+    "score": 2.48431144,
+    "published_at": "2026-09-14T09:48:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684759404726321203",
+    "title": "从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了",
+    "url": "https://juejin.cn/post/7684759404726321203",
+    "source": "juejin",
+    "score": 0.87216403,
+    "published_at": "2026-09-14T00:32:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684690252645515298",
+    "title": "程序员都开始懂业务了，产品经理还剩下什么价值？",
+    "url": "https://juejin.cn/post/7684690252645515298",
+    "source": "juejin",
+    "score": 0.9329842,
+    "published_at": "2026-09-14T02:30:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684657593512263722",
+    "title": "ADB Wi-Fi 2.0 ，Android 17 把无线调试的连接链路重新做了一遍",
+    "url": "https://juejin.cn/post/7684657593512263722",
+    "source": "juejin",
+    "score": 1.03547511,
+    "published_at": "2026-09-14T00:54:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684943124759068682",
+    "title": "Android性能优化：启动、内存、卡顿的一站式排查手册",
+    "url": "https://juejin.cn/post/7684943124759068682",
+    "source": "juejin",
+    "score": 1.64757586,
+    "published_at": "2026-09-14T03:11:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685188623412133898",
+    "title": "DeepSeek 官方仓库惊现 DeepSeek Harness 桌面端！",
+    "url": "https://juejin.cn/post/7685188623412133898",
+    "source": "juejin",
+    "score": 4.99745739,
+    "published_at": "2026-09-14T08:06:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:peetzweg/opendisplay",
+    "title": "opendisplay",
+    "url": "https://github.com/peetzweg/opendisplay",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:reconurge/flowsint",
+    "title": "flowsint",
+    "url": "https://github.com/reconurge/flowsint",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Crosstalk-Solutions/project-nomad",
+    "title": "project-nomad",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:OpenBMB/VoxCPM",
+    "title": "VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ruvnet/RuView",
+    "title": "RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:TauricResearch/TradingAgents",
+    "title": "TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:dani-garcia/vaultwarden",
+    "title": "vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:localsend/localsend",
+    "title": "localsend",
+    "url": "https://github.com/localsend/localsend",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:rlaope/oh-my-hermes",
+    "title": "oh-my-hermes",
+    "url": "https://github.com/rlaope/oh-my-hermes",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Panniantong/Agent-Reach",
+    "title": "Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:666ghj/MiroFish",
+    "title": "MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:JustVugg/colibri",
+    "title": "colibri",
+    "url": "https://github.com/JustVugg/colibri",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49694404",
+    "title": "Show HN: ChaosTree – A zero-dependency Java tree library (AVL,RBT,B-Tree,B+Tree)",
+    "url": "https://github.com/Chaos-vy/ChaosTree",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-14T10:03:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49693226",
+    "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+    "url": "https://screensize.net/reports/viewport-stats",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-14T07:35:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49696335",
+    "title": "Temporal raises $550M at a $12.55B valuation",
+    "url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-14T13:16:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49694596",
+    "title": "Big AI sets out its terms for regulatory capture",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-14T10:28:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49695876",
+    "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-09-14T12:40:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49651735",
+    "title": "A Vacuum Diode for Make: Magazine",
+    "url": "https://www.nickpoole.me/2023/12/10/a-vacuum-diode-for-make-magazine/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-10T23:56:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49695459",
+    "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+    "url": "https://xcancel.com/twitter",
+    "source": "hackernews",
+    "score": 171.0,
+    "published_at": "2026-09-14T12:05:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49696313",
+    "title": "Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge",
+    "url": "https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-09-14T13:15:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49659557",
+    "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-11T14:55:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49695829",
+    "title": "Texas judge rules TikTok misled users on child safety feature",
+    "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-09-14T12:37:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49693384",
+    "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+    "url": "https://github.com/anuj0456/OpenArch",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-09-14T07:55:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49630353",
+    "title": "Drawably: Hand-Drawn UI Controls",
+    "url": "https://github.com/Danilaa1/drawably",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-09T17:45:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49695409",
+    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+    "source": "hackernews",
+    "score": 90.0,
+    "published_at": "2026-09-14T12:01:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49670852",
+    "title": "An atlas of periodic solutions to the three-body problem",
+    "url": "https://www.threebodyorbits.com/",
+    "source": "hackernews",
+    "score": 128.0,
+    "published_at": "2026-09-12T10:13:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49693613",
+    "title": "A 386 PC for Your RP2350",
+    "url": "https://github.com/rh1tech/frank-386",
+    "source": "hackernews",
+    "score": 114.0,
+    "published_at": "2026-09-14T08:25:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49695408",
+    "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+    "url": "https://github.com/callbacked/kinesis",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-14T12:01:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49693610",
+    "title": "EuroBirdPortal – Live bird movements across Europe",
+    "url": "https://www.eurobirdportal.org/ebp/en/",
+    "source": "hackernews",
+    "score": 149.0,
+    "published_at": "2026-09-14T08:25:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:fpoakb",
     "title": "Download Dimensional Drawings - Accessories",
     "url": "https://developer.apple.com/accessories/dimensional-drawings/",
@@ -4556,446 +4996,6 @@
     "source": "hackernews",
     "score": 16.0,
     "published_at": "2026-09-10T15:50:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49630125",
-    "title": "Show HN: DOOM in the kernel, or fibers in eBPF",
-    "url": "https://ayles.github.io/doom-in-kernel/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-09T17:31:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645754",
-    "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
-    "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-    "source": "hackernews",
-    "score": 80.0,
-    "published_at": "2026-09-10T15:47:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49646778",
-    "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-    "url": "https://tokenstead.ai/models/swe-2",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-10T16:52:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49647404",
-    "title": "JEP 544: Ahead-of-Time Code Compilation",
-    "url": "https://openjdk.org/jeps/544",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-10T17:30:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49648732",
-    "title": "Genuine Creativity Is Your New Moat (2026)",
-    "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-10T19:03:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49647134",
-    "title": "Music Theory for the 21st-Century Classroom",
-    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-09-10T17:14:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49587121",
-    "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-    "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-09-06T14:59:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645907",
-    "title": "Forgejo <=16.0.3 Critical RCE",
-    "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-09-10T15:57:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:39c9xe",
-    "title": "Making Social Media Social",
-    "url": "https://tante.cc/2026/09/10/making-social-media-social/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-10T11:30:14.952-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ol8vsp",
-    "title": "The terrible menu bar in the Windows 11 Notepad",
-    "url": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-10T10:46:32.061-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:izt4a2",
-    "title": "What algorithm did Windows XP use to choose your initial user picture?",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-10T10:48:37.543-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:l3enhd",
-    "title": "Native is now the future of mobile at Shopify (2026)",
-    "url": "https://shopify.engineering/back-to-native",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-10T10:19:38.418-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ifvdvx",
-    "title": "Bad Vibes Coding",
-    "url": "https://spectrecollie.com/2026/09/05/bad-vibes-coding/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-10T10:04:46.879-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:aiikt1",
-    "title": "Xteink X4 Pro review",
-    "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-10T10:05:43.061-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gtvx0w",
-    "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
-    "url": "https://queue.acm.org/doi/10.1145/3831361",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-10T09:59:03.130-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9szn91",
-    "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
-    "url": "https://maurycyz.com/misc/domains/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-10T10:14:48.267-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:eerwba",
-    "title": "Rust Is Tier-1 Language at Microsoft",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "source": "lobsters",
-    "score": 28.0,
-    "published_at": "2026-09-10T08:40:19.081-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241018",
-    "title": "[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！",
-    "url": "https://www.v2ex.com/t/1241018",
-    "source": "v2ex",
-    "score": 148.0,
-    "published_at": "2026-09-10T06:07:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683515498140221478",
-    "title": "为啥 Blender 突然火了？",
-    "url": "https://juejin.cn/post/7683515498140221478",
-    "source": "juejin",
-    "score": 1.33098293,
-    "published_at": "2026-09-10T00:51:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683457864929329204",
-    "title": "为什么不推荐走Agent开发？",
-    "url": "https://juejin.cn/post/7683457864929329204",
-    "source": "juejin",
-    "score": 1.71438925,
-    "published_at": "2026-09-10T02:44:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49626110",
-    "title": "Liesegang Rings",
-    "url": "https://chillphysicsenjoyer.substack.com/p/liesegang-rings",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-09T13:20:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49580005",
-    "title": "Discrete Dipole Approximation Code Ddscat 7.2 (2012)",
-    "url": "https://arxiv.org/abs/1202.3424",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-05T19:45:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49643864",
-    "title": "Who Dung It? (Turdle.fun)",
-    "url": "https://turdle.fun/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-10T14:01:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49611112",
-    "title": "Show HN: Filament – Fast data movement engine in Go",
-    "url": "https://github.com/galaxy-io/filament",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-08T14:48:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49639730",
-    "title": "The first drink-driving conviction may have happened in London",
-    "url": "https://www.ianvisits.co.uk/articles/the-worlds-first-drink-driving-conviction-may-have-happened-in-london-92107/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-10T07:29:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645393",
-    "title": "Don't Let Anyone Take Away Your Big Box of Cables",
-    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-09-10T15:27:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49612470",
-    "title": "Python sets and dictionaries can have quadratic-time performance",
-    "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-08T16:17:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645804",
-    "title": "Serverless DTLS",
-    "url": "https://proxylity.com/docs/listeners/dtls.html",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-10T15:50:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610780",
-    "title": "To write non-fiction, draw the trunk, then the rest of the tree",
-    "url": "https://devz.cl/posts/how-to-write/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-09-08T14:25:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49646123",
-    "title": "One resignation turned the embers of AI fear into a wildfire",
-    "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-10T16:09:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645437",
-    "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
-    "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-10T15:29:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49642531",
-    "title": "List of references on Sony websites to players \"owning\" their digital games",
-    "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-    "source": "hackernews",
-    "score": 208.0,
-    "published_at": "2026-09-10T12:18:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49646181",
-    "title": "Software Drives People Insane",
-    "url": "https://graybeard.ing/software-drives-people-insane/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-10T16:13:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645826",
-    "title": "Casablanca: How an unproduced play marched into movie history",
-    "url": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-10T15:52:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49613072",
-    "title": ">10x More Efficient Pretraining",
-    "url": "https://magic.dev/blog/pretraining#",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-08T16:59:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645686",
-    "title": "Neki",
-    "url": "https://planetscale.com/blog/introducing-neki",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-10T15:43:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49639408",
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-09-10T06:49:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645763",
-    "title": "Neki by PlanetScale",
-    "url": "https://neki.dev/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-10T15:48:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49627634",
-    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-    "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-    "source": "hackernews",
-    "score": 194.0,
-    "published_at": "2026-09-09T14:54:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645443",
-    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-    "url": "https://cognition.com/blog/swe-2",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-09-10T15:29:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49643546",
-    "title": "Rust Is Tier-1 Language at Microsoft",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "source": "hackernews",
-    "score": 253.0,
-    "published_at": "2026-09-10T13:39:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49643982",
-    "title": "Shopify moves back to Native from React Native",
-    "url": "https://shopify.engineering/back-to-native",
-    "source": "hackernews",
-    "score": 346.0,
-    "published_at": "2026-09-10T14:09:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3fxgit",
-    "title": "AI and democracy: the right to resist optimization",
-    "url": "https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-10T05:24:07.988-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vkxhni",
-    "title": "Announcing the first Guix-Science release",
-    "url": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-10T06:45:49.883-05:00",
     "summary": "",
     "key_points": []
   }
