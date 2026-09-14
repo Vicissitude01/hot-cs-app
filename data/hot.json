@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:uqezny",
+    "title": "Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code",
+    "url": "https://kythe.io",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-14T17:30:24.913-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9ukost",
+    "title": "How I use a single .zshrc file on macOS and Windows (WSL2)",
+    "url": "https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-14T15:26:19.491-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zttri6",
+    "title": "A New Equal-Area Map for Interactive Computer Use",
+    "url": "https://www.benjoffe.com/map",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-14T17:37:17.715-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qiwlzz",
+    "title": "\"Do You Still Read the Code?\"",
+    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-14T15:16:07.338-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49701182",
+    "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+    "url": "https://pub.sakana.ai/pc-alm/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-14T18:03:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49699297",
+    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+    "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+    "source": "hackernews",
+    "score": 173.0,
+    "published_at": "2026-09-14T16:09:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49703003",
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+    "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-09-14T19:56:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49670699",
+    "title": "Optimizing a Spin-Lock",
+    "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-12T09:43:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49697893",
+    "title": "Dario, Please",
+    "url": "https://pop.rdi.sh/dario-please/",
+    "source": "hackernews",
+    "score": 171.0,
+    "published_at": "2026-09-14T14:50:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49673689",
+    "title": "Compressing a Flag to 11 Bits",
+    "url": "https://read.vantezzen.io/miniflags",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-12T15:57:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49704008",
+    "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+    "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+    "source": "hackernews",
+    "score": 126.0,
+    "published_at": "2026-09-14T21:05:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:w6aktj",
     "title": "How my e-reader lost its stripes",
     "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
@@ -4886,116 +4996,6 @@
     "source": "hackernews",
     "score": 8.0,
     "published_at": "2026-09-09T04:01:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49651372",
-    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-    "url": "https://system76.com/workstations/thelio-mira-ai",
-    "source": "hackernews",
-    "score": 105.0,
-    "published_at": "2026-09-10T23:10:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49621546",
-    "title": "So you want to use OpenRouter?",
-    "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-09-09T05:37:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49653985",
-    "title": "GPT‑Live‑1 in the API",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-11T05:45:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49655176",
-    "title": "Neijuan",
-    "url": "https://en.wikipedia.org/wiki/Neijuan",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-11T08:26:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49651221",
-    "title": "Nine coding harnesses vs. your laptop",
-    "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
-    "source": "hackernews",
-    "score": 97.0,
-    "published_at": "2026-09-10T22:54:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49652237",
-    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-    "source": "hackernews",
-    "score": 210.0,
-    "published_at": "2026-09-11T01:00:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49653699",
-    "title": "The Gemini app is now available for Windows",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-09-11T04:52:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49606281",
-    "title": "Working with Git Worktrees in Magit",
-    "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-08T06:31:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49655286",
-    "title": "Cherenkov Radiation - traveling faster than light",
-    "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-11T08:42:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:l0sqnt",
-    "title": "An untrusted site can freeze a Mac using WebGPU",
-    "url": "https://auberon.xyz/blog/posts/deathray/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-10T19:04:53.963-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kpwrwb",
-    "title": "phlex-hanami v0.2.0",
-    "url": "https://github.com/aaronmallen/phlex-hanami/releases/tag/0.2.0",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-10T16:07:36.009-05:00",
     "summary": "",
     "key_points": []
   }
