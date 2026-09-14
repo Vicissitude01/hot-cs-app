@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:jlmeib",
+    "title": "Purely Functional Operating Systems",
+    "url": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-13T19:03:38.791-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:e1lcnf",
+    "title": "The case against JPEG XL",
+    "url": "https://giannirosato.com/blog/post/case-against-jxl",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-13T20:18:11.130-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:f4arrs",
+    "title": "Writing a Guix service from scratch, as a beginner",
+    "url": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-13T18:24:10.765-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dhn991",
+    "title": "Anecdotally, programmers dislike \"reduce\"",
+    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-13T18:59:05.562-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241673",
+    "title": "如果抄作业就能得高分进好大学，且老师及学校都不管，那该多好呀",
+    "url": "https://www.v2ex.com/t/1241673",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-09-13T08:32:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241709",
+    "title": "家境平凡、天赋资质平庸的人生，如果愿意跳出三贷之外，其实可以活得很自由",
+    "url": "https://www.v2ex.com/t/1241709",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-09-13T14:02:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684261460002701338",
+    "title": "被吹上天的 JWT，为什么主流网站一个都不用",
+    "url": "https://juejin.cn/post/7684261460002701338",
+    "source": "juejin",
+    "score": 0.36272763,
+    "published_at": "2026-09-12T13:17:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684573646438301706",
+    "title": "Kotlin 2026：裁员、AI、Rust——黄金时代结束了吗？Jake Wharton 为你解答",
+    "url": "https://juejin.cn/post/7684573646438301706",
+    "source": "juejin",
+    "score": 0.51951567,
+    "published_at": "2026-09-13T05:53:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684573646439317514",
+    "title": "Kafka已正式接入AI",
+    "url": "https://juejin.cn/post/7684573646439317514",
+    "source": "juejin",
+    "score": 0.82601404,
+    "published_at": "2026-09-13T10:40:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49667916",
+    "title": "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
+    "url": "https://zenodo.org/records/1430991",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-12T02:01:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645547",
+    "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
+    "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-10T15:35:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49690051",
+    "title": "The Coming War on General Computation (2011)",
+    "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-13T23:54:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49688259",
+    "title": "Mullenweg has returned as CEO after attempted board ouster",
+    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-09-13T20:19:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49690260",
+    "title": "Open-Source AI and Open Models Reading List",
+    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-14T00:22:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49690554",
+    "title": "The case against JPEG XL",
+    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-14T01:02:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:oqkml5",
     "title": "Nobody pays for open source. We can force them to",
     "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
@@ -4846,156 +4996,6 @@
     "source": "hackernews",
     "score": 112.0,
     "published_at": "2026-09-10T10:13:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49640646",
-    "title": "What algorithm did Windows XP use to choose your initial user picture?",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-    "source": "hackernews",
-    "score": 117.0,
-    "published_at": "2026-09-10T09:04:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:26liff",
-    "title": "Some (mostly historical) issues with the Unix load average",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/LoadAverageHistoricalIssues",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-09T22:44:20.900-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jz8fmz",
-    "title": "SystemIO conflicts are not firmware bugs",
-    "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-09T19:48:47.581-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240867",
-    "title": "头大，到底要怎么宣传自己的产品啊",
-    "url": "https://www.v2ex.com/t/1240867",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-09-10T00:25:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240781",
-    "title": "人在美国，可以帮助到国内兄弟做什么呢？",
-    "url": "https://www.v2ex.com/t/1240781",
-    "source": "v2ex",
-    "score": 88.0,
-    "published_at": "2026-09-09T10:34:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240880",
-    "title": "油皮有没有性价比高的洗面奶和爽肤水推荐？",
-    "url": "https://www.v2ex.com/t/1240880",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-09-10T01:03:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240720",
-    "title": "苹果首款折叠屏手机名字敲定就叫 iPhone Duo\r\n\r\nDuo 怎么读呢 多?嘟噢?",
-    "url": "https://www.v2ex.com/t/1240720",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-09-09T08:01:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240875",
-    "title": "东京夜生活-脱衣舞秀初体验",
-    "url": "https://www.v2ex.com/t/1240875",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-09-10T00:53:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240822",
-    "title": "高一男孩从班里前四滑到不敢进学校，请假在家也焦虑，有过来人吗？",
-    "url": "https://www.v2ex.com/t/1240822",
-    "source": "v2ex",
-    "score": 148.0,
-    "published_at": "2026-09-09T14:18:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240711",
-    "title": "汤家凤与胡锡进英语主科争议事件总结（网友戏称 “胡辣汤大战”）",
-    "url": "https://www.v2ex.com/t/1240711",
-    "source": "v2ex",
-    "score": 188.0,
-    "published_at": "2026-09-09T07:38:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240866",
-    "title": "iPhone Duo 并没有多惊艳",
-    "url": "https://www.v2ex.com/t/1240866",
-    "source": "v2ex",
-    "score": 202.0,
-    "published_at": "2026-09-10T00:21:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682593227544805382",
-    "title": "适配小米“中”折屏，非得买一台吗",
-    "url": "https://juejin.cn/post/7682593227544805382",
-    "source": "juejin",
-    "score": 0.71306262,
-    "published_at": "2026-09-08T00:47:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683013257235283987",
-    "title": "为什么技术极强的前端，往往当不好前端 Team Leader？",
-    "url": "https://juejin.cn/post/7683013257235283987",
-    "source": "juejin",
-    "score": 0.64445626,
-    "published_at": "2026-09-09T02:26:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682611037704011827",
-    "title": "别再堆 AGENTS.md 了：前端团队如何把 AI Coding 做成一套可执行的工程系统",
-    "url": "https://juejin.cn/post/7682611037704011827",
-    "source": "juejin",
-    "score": 0.34736978,
-    "published_at": "2026-09-07T07:01:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49638622",
-    "title": "OpenAI have no mathematicians capable of understanding what they put out",
-    "url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-10T05:01:50+00:00",
     "summary": "",
     "key_points": []
   }
