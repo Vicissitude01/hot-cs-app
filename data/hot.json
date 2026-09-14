@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:fpoakb",
+    "title": "Download Dimensional Drawings - Accessories",
+    "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-14T01:25:25.499-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jnutrb",
+    "title": "Singeli: High-level interface for low-level programming",
+    "url": "https://github.com/mlochbaum/Singeli",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-13T21:26:52.276-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zbb37v",
+    "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-13T22:34:33.147-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241695",
+    "title": "这大概是 claude 封号的真正原因",
+    "url": "https://www.v2ex.com/t/1241695",
+    "source": "v2ex",
+    "score": 102.0,
+    "published_at": "2026-09-13T11:46:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241840",
+    "title": "领证后买的房一直空关，岳父母要住 3—5 年并搬大件家具，我要同意吗？",
+    "url": "https://www.v2ex.com/t/1241840",
+    "source": "v2ex",
+    "score": 126.0,
+    "published_at": "2026-09-14T04:59:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241746",
+    "title": "豆包输入法 win 正式版终于出来了",
+    "url": "https://www.v2ex.com/t/1241746",
+    "source": "v2ex",
+    "score": 126.0,
+    "published_at": "2026-09-14T00:48:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241751",
+    "title": "被项目经理针对了，怎么办",
+    "url": "https://www.v2ex.com/t/1241751",
+    "source": "v2ex",
+    "score": 132.0,
+    "published_at": "2026-09-14T01:09:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241792",
+    "title": "对华为手机的贬值有了新的认识",
+    "url": "https://www.v2ex.com/t/1241792",
+    "source": "v2ex",
+    "score": 156.0,
+    "published_at": "2026-09-14T02:48:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241745",
+    "title": "“万 1 免五”股票基金低费率大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [9.14 日~9.21 日]",
+    "url": "https://www.v2ex.com/t/1241745",
+    "source": "v2ex",
+    "score": 164.0,
+    "published_at": "2026-09-14T00:35:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241795",
+    "title": "第一次在试用期开除一个人，和大家探讨一下如何招人，用人。",
+    "url": "https://www.v2ex.com/t/1241795",
+    "source": "v2ex",
+    "score": 174.0,
+    "published_at": "2026-09-14T02:49:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684019326370611263",
+    "title": "一天一个开源项目（第214篇）：AstronRPA —— 科大讯飞开源的企业级 RPA + AI Agent 自动化平台",
+    "url": "https://juejin.cn/post/7684019326370611263",
+    "source": "juejin",
+    "score": 0.08989755,
+    "published_at": "2026-09-11T12:13:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684079989646704667",
+    "title": "都在开源 Harness，Codex 和 DeepSeek 到底有什么不一样？",
+    "url": "https://juejin.cn/post/7684079989646704667",
+    "source": "juejin",
+    "score": 0.05004303,
+    "published_at": "2026-09-11T07:55:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684759404727320627",
+    "title": "Deepseek Harness 架构解析和应用",
+    "url": "https://juejin.cn/post/7684759404727320627",
+    "source": "juejin",
+    "score": 2.594327,
+    "published_at": "2026-09-14T02:10:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684573646438629386",
+    "title": "AI 越来越强，为什么打工人反而越来越累、越来越内耗了？",
+    "url": "https://juejin.cn/post/7684573646438629386",
+    "source": "juejin",
+    "score": 0.40722742,
+    "published_at": "2026-09-13T07:27:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684657593500205110",
+    "title": "AI发展下的后编程时代思考",
+    "url": "https://juejin.cn/post/7684657593500205110",
+    "source": "juejin",
+    "score": 0.46019158,
+    "published_at": "2026-09-13T09:11:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7683846471340032051",
+    "title": "vue-split-screen：让 Vue Router 的导航轨迹变成两个页面",
+    "url": "https://juejin.cn/post/7683846471340032051",
+    "source": "juejin",
+    "score": 0.20510285,
+    "published_at": "2026-09-11T03:14:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684228650583375878",
+    "title": "代码80%是AI写的，这家AI公司呼吁暂停AI开发",
+    "url": "https://juejin.cn/post/7684228650583375878",
+    "source": "juejin",
+    "score": 0.32744883,
+    "published_at": "2026-09-13T05:16:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49691584",
+    "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
+    "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-09-14T03:26:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49690139",
+    "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+    "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-14T00:07:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49691343",
+    "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+    "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-09-14T02:50:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49692118",
+    "title": "Who gets to define the rules for AI?",
+    "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-14T04:49:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49691152",
+    "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
+    "url": "https://calif.io/research/oempocalypse",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-14T02:25:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49645654",
+    "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+    "url": "https://eterdb.com/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-10T15:41:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49655621",
+    "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
+    "url": "https://danluu.com/exercise-7/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-11T09:31:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49690678",
+    "title": "The Malicious Use of Artificial Intelligence",
+    "url": "https://arxiv.org/abs/1802.07228",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-14T01:22:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49690279",
+    "title": "Writing a better reality: The case for optimistic sci-fi (2022)",
+    "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-09-14T00:27:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49662246",
+    "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
+    "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-09-11T17:38:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49690174",
+    "title": "Apple's Dimensional Drawings",
+    "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+    "source": "hackernews",
+    "score": 133.0,
+    "published_at": "2026-09-14T00:11:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49638510",
+    "title": "Spaceships (Reverse Asteroid)",
+    "url": "https://spaceships.treybastian.com/",
+    "source": "hackernews",
+    "score": 162.0,
+    "published_at": "2026-09-10T04:44:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49692765",
+    "title": "Of Gods and Languages: On \"When God Spoke Greek\"",
+    "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-14T06:34:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:jlmeib",
     "title": "Purely Functional Operating Systems",
     "url": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
@@ -4696,306 +4996,6 @@
     "source": "lobsters",
     "score": 1.0,
     "published_at": "2026-09-10T06:45:49.883-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:llyiig",
-    "title": "Absolutely Everything You Always Wanted to Know About Watermarks in Apache Flink",
-    "url": "https://developer.confluent.io/blog/all-about-flink-watermarks-1/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-10T03:15:49.205-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:oclcr7",
-    "title": "How to avoid correctness space leaks on a lazy setting in Haskell (2023)",
-    "url": "https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-10T02:41:22.284-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dfby97",
-    "title": "Decoding the NEC V20 Microcode",
-    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-10T05:44:09.242-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:k99ryf",
-    "title": "It Breaks a Village: Bevy's 6th Birthday",
-    "url": "https://blog.fallible.net/it-breaks-a-village/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-10T05:38:37.630-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240889",
-    "title": "感觉手里的 12pm 快坚持不住了，换的话推荐换哪款",
-    "url": "https://www.v2ex.com/t/1240889",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-09-10T01:27:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241024",
-    "title": "openai，我 qnmd！",
-    "url": "https://www.v2ex.com/t/1241024",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-09-10T06:24:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240939",
-    "title": "现在教师节收礼已经这么明目张胆了吗",
-    "url": "https://www.v2ex.com/t/1240939",
-    "source": "v2ex",
-    "score": 162.0,
-    "published_at": "2026-09-10T02:55:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241048",
-    "title": "为啥现在华为风评变化这么大",
-    "url": "https://www.v2ex.com/t/1241048",
-    "source": "v2ex",
-    "score": 192.0,
-    "published_at": "2026-09-10T07:34:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1240984",
-    "title": "如何充值 chatgpt？ 救救孩子吧",
-    "url": "https://www.v2ex.com/t/1240984",
-    "source": "v2ex",
-    "score": 210.0,
-    "published_at": "2026-09-10T04:09:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683481485497188403",
-    "title": "为什么市面上的 coding agent 大多数都基于Nodejs？",
-    "url": "https://juejin.cn/post/7683481485497188403",
-    "source": "juejin",
-    "score": 2.80119038,
-    "published_at": "2026-09-10T03:27:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683347149876051977",
-    "title": "DeepSeek 明天又降价（涵历史价格对比）",
-    "url": "https://juejin.cn/post/7683347149876051977",
-    "source": "juejin",
-    "score": 0.56709806,
-    "published_at": "2026-09-09T09:50:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:vercel-labs/skills",
-    "title": "skills",
-    "url": "https://github.com/vercel-labs/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:nashsu/llm_wiki",
-    "title": "llm_wiki",
-    "url": "https://github.com/nashsu/llm_wiki",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:THU-MAIC/OpenMAIC",
-    "title": "OpenMAIC",
-    "url": "https://github.com/THU-MAIC/OpenMAIC",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:JustVugg/colibri",
-    "title": "colibri",
-    "url": "https://github.com/JustVugg/colibri",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:diegosouzapw/OmniRoute",
-    "title": "OmniRoute",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:armory3d/armorpaint",
-    "title": "armorpaint",
-    "url": "https://github.com/armory3d/armorpaint",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:AlexsJones/llmfit",
-    "title": "llmfit",
-    "url": "https://github.com/AlexsJones/llmfit",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:alsk1992/CloddsBot",
-    "title": "CloddsBot",
-    "url": "https://github.com/alsk1992/CloddsBot",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:bilawalsidhu/gods-eye-view",
-    "title": "gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49639104",
-    "title": "I think I hate the internet",
-    "url": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
-    "source": "hackernews",
-    "score": 97.0,
-    "published_at": "2026-09-10T06:12:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49612223",
-    "title": "Open Source Durable Objects for Postgres",
-    "url": "https://solidobjects.dev/blog/introducing-solidobjects",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-08T15:59:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49593896",
-    "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-    "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-07T04:27:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49577541",
-    "title": "Show HN: Art – draw one stroke, let symmetry complete it",
-    "url": "https://mrdee.in/mandala/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-05T15:35:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49641393",
-    "title": "PlayStation cancels Kojima's PHYSINT, Xbox steps in",
-    "url": "https://twitter.com/hideo_kojima_en/status/2097877506401681753",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-09-10T10:35:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49641401",
-    "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
-    "url": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-10T10:36:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49618450",
-    "title": "Object storage is all you need",
-    "url": "https://www.tigrisdata.com/blog/object-storage-all-need/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-08T23:11:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49639090",
-    "title": "DeepSeek v4.1 Flash",
-    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-    "source": "hackernews",
-    "score": 489.0,
-    "published_at": "2026-09-10T06:11:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49599992",
-    "title": "Stockfish 19",
-    "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-    "source": "hackernews",
-    "score": 87.0,
-    "published_at": "2026-09-07T16:17:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49641215",
-    "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
-    "url": "https://honestlyranked.com/guides/streaming-price-increases/",
-    "source": "hackernews",
-    "score": 112.0,
-    "published_at": "2026-09-10T10:13:59+00:00",
     "summary": "",
     "key_points": []
   }
