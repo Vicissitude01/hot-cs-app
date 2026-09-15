@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:klbjuj",
+    "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+    "url": "https://maggieappleton.com/planning-agents",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-15T01:17:27.132-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:a66b7j",
+    "title": "Dropping eBPF CPU Cost by About 90% With Memoization",
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-14T20:28:30.177-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:89pcze",
+    "title": "Type Systems You Might Not Know (But Will Love)",
+    "url": "https://www.wearedevelopers.com/videos/100067-type-systems-you-might-not-know-but-will-love",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-15T00:21:04.076-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9zytkh",
+    "title": "A Nix store is three functions",
+    "url": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-14T23:07:33.586-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242030",
+    "title": "你平时还花多少时间学语言新特征，提升写代码能力？",
+    "url": "https://www.v2ex.com/t/1242030",
+    "source": "v2ex",
+    "score": 110.0,
+    "published_at": "2026-09-15T01:31:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242061",
+    "title": "朋友乔迁，送什么礼物好？",
+    "url": "https://www.v2ex.com/t/1242061",
+    "source": "v2ex",
+    "score": 114.0,
+    "published_at": "2026-09-15T02:19:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241893",
+    "title": "看刚才纯电还是混动那个帖子，有个问题想问",
+    "url": "https://www.v2ex.com/t/1241893",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-09-14T07:24:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242009",
+    "title": "有 m4 芯片电脑升级到 macos27 的嘛",
+    "url": "https://www.v2ex.com/t/1242009",
+    "source": "v2ex",
+    "score": 124.0,
+    "published_at": "2026-09-15T00:19:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241886",
+    "title": "国内微信有没有替代品？",
+    "url": "https://www.v2ex.com/t/1241886",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-09-14T07:06:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242043",
+    "title": "大家平时开车上班路上听什么？",
+    "url": "https://www.v2ex.com/t/1242043",
+    "source": "v2ex",
+    "score": 172.0,
+    "published_at": "2026-09-15T01:44:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241901",
+    "title": "论 AI 恐惧症——对莱顿宣言的驳斥",
+    "url": "https://www.v2ex.com/t/1241901",
+    "source": "v2ex",
+    "score": 182.0,
+    "published_at": "2026-09-14T07:46:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242123",
+    "title": "老婆太颓废了",
+    "url": "https://www.v2ex.com/t/1242123",
+    "source": "v2ex",
+    "score": 204.0,
+    "published_at": "2026-09-15T05:15:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242036",
+    "title": "中秋来送水果😋， V 友回帖抽奖！🔥",
+    "url": "https://www.v2ex.com/t/1242036",
+    "source": "v2ex",
+    "score": 306.0,
+    "published_at": "2026-09-15T01:41:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684615074136801320",
+    "title": "2026年古法编程的末法时代，如何评估自己完成迅速转行",
+    "url": "https://juejin.cn/post/7684615074136801320",
+    "source": "juejin",
+    "score": 0.31516382,
+    "published_at": "2026-09-13T10:58:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49706223",
+    "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+    "source": "hackernews",
+    "score": 131.0,
+    "published_at": "2026-09-15T00:40:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49690084",
+    "title": "The biggest dinosaurs couldn't sit on their eggs",
+    "url": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-14T00:00:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49696697",
+    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-09-14T13:38:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49676425",
+    "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+    "url": "https://poltora.dev/redis",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-12T19:43:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49693690",
+    "title": "When code is a maze, smart developers make maps",
+    "url": "https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-14T08:35:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49679653",
+    "title": "Every invoice in Brazil's economy runs on SOAP 1.2",
+    "url": "https://github.com/stoix-dev/sefaz-webservices-postman",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-09-13T03:19:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49684289",
+    "title": "OpenArm: An open-source 7DOF humanoid arm",
+    "url": "https://github.com/enactic/OpenArm",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-13T14:17:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49707627",
+    "title": "Linux from Scratch",
+    "url": "https://www.linuxfromscratch.org/",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-09-15T04:15:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:q5dgu6",
     "title": "GDScript: The Good, Bad, and Ugly Parts",
     "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
@@ -4776,226 +4996,6 @@
     "source": "hackernews",
     "score": 7.0,
     "published_at": "2026-09-08T12:03:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49657850",
-    "title": "Ask HN: Can we please limit the AI news flood?",
-    "url": "https://news.ycombinator.com/item?id=49657850",
-    "source": "hackernews",
-    "score": 260.0,
-    "published_at": "2026-09-11T13:11:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49611240",
-    "title": "iPod Classic 6G in QEMU",
-    "url": "https://www.reddit.com/r/emulation/s/VL4Au2HGxq",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-09-08T14:54:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49658302",
-    "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
-    "url": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-11T13:41:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49658328",
-    "title": "Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you",
-    "url": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-11T13:43:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49658192",
-    "title": "Diesel prices in U.S. top $6 a gallon for first time",
-    "url": "https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-09-11T13:35:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49622406",
-    "title": "Logo Programming Language",
-    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-09T07:07:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49656471",
-    "title": "RTK reports token savings, but our cost benchmarks disagree",
-    "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-09-11T11:15:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49658299",
-    "title": "Houthis 'take control' of key island in global shipping route",
-    "url": "https://www.bbc.com/news/live/cmd683p01eljt",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-09-11T13:41:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49658311",
-    "title": "If coding is solved, what now?: Measuring the sloppiness of code",
-    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-11T13:42:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49656496",
-    "title": "The Waymo effect: how AI is quietly making research less collaborative",
-    "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-    "source": "hackernews",
-    "score": 212.0,
-    "published_at": "2026-09-11T11:17:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5nmyv0",
-    "title": "Reverse engineering an ASIC",
-    "url": "https://kjartanvandriel.github.io/asic/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-11T03:06:09.470-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mfx8ja",
-    "title": "DiffOS is For Freedom",
-    "url": "https://www.diffos.org/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-10T20:04:25.499-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0i492m",
-    "title": "Models Don't Go Rogue",
-    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-09-10T22:37:10.275-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241338",
-    "title": "蒸馏是否类似于“钓别人鱼桶里的鱼”",
-    "url": "https://www.v2ex.com/t/1241338",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-09-11T07:09:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241328",
-    "title": "为一个弱智的问题 大家怎么插入的图片",
-    "url": "https://www.v2ex.com/t/1241328",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-09-11T06:32:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241327",
-    "title": "筷子不能竖着插在饭里是全国性的常识吗？",
-    "url": "https://www.v2ex.com/t/1241327",
-    "source": "v2ex",
-    "score": 284.0,
-    "published_at": "2026-09-11T06:29:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241298",
-    "title": "Anthropic 点名多家中国公司蒸馏 Claude，包括 Qwen, kimi, deepseek, glm, xiaomi, Minimax",
-    "url": "https://www.v2ex.com/t/1241298",
-    "source": "v2ex",
-    "score": 510.0,
-    "published_at": "2026-09-11T04:25:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683846471338885171",
-    "title": "2025，记住这一年！它是古法编程的最后一年。",
-    "url": "https://juejin.cn/post/7683846471338885171",
-    "source": "juejin",
-    "score": 2.21467945,
-    "published_at": "2026-09-11T01:46:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683434989240795162",
-    "title": "你的 Vue3 项目也能有钉钉同款审批流设计器：npm 装包，10 分钟画出第一条审批流",
-    "url": "https://juejin.cn/post/7683434989240795162",
-    "source": "juejin",
-    "score": 0.28653529,
-    "published_at": "2026-09-09T16:04:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683072481465057323",
-    "title": "GPT images 2.5 一手实测，这也太颠了。。。",
-    "url": "https://juejin.cn/post/7683072481465057323",
-    "source": "juejin",
-    "score": 0.26646902,
-    "published_at": "2026-09-09T07:14:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682695183460974632",
-    "title": "面试官皱眉：\"你懂 Vibe Coding，那你说superpowers和grill-me怎么选？\"，我：\"小孩才做选择，我全都要！\"",
-    "url": "https://juejin.cn/post/7682695183460974632",
-    "source": "juejin",
-    "score": 0.27595761,
-    "published_at": "2026-09-08T02:35:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683722642070896690",
-    "title": "推荐一个比ES快5倍的搜索引擎",
-    "url": "https://juejin.cn/post/7683722642070896690",
-    "source": "juejin",
-    "score": 0.65309356,
-    "published_at": "2026-09-10T07:54:27+00:00",
     "summary": "",
     "key_points": []
   }
