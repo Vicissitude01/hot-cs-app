@@ -1,5 +1,325 @@
 [
   {
+    "id": "lobsters:ixjmzm",
+    "title": "Simpler time map plots (2017)",
+    "url": "https://lepisma.xyz/2017/06/25/simple-time-maps/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-15T05:31:20.918-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cw8fep",
+    "title": "Search over Algebraic Graphs",
+    "url": "https://anekstein.com/posts/2026-08-22.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-15T07:04:42.177-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:m1zfy8",
+    "title": "The terminal should not own the work",
+    "url": "https://lezli01.is-a.dev/vincent/docs/why/the-terminal-should-not-own-the-work.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-15T03:55:35.287-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lgcmoo",
+    "title": "CSS-Tricks in Limbo",
+    "url": "https://vale.rocks/micros/20260915-0135",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-15T04:12:31.945-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pgzlof",
+    "title": "Stalling installing",
+    "url": "https://adactio.com/journal/22757",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-15T02:31:11.986-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zbcua4",
+    "title": "Coreutils - rejected feature requests",
+    "url": "https://www.gnu.org/software/coreutils/rejected_requests.html",
+    "source": "lobsters",
+    "score": 19.0,
+    "published_at": "2026-09-15T04:06:36.640-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242058",
+    "title": "[赠送 赠送 赠送！] aicoding.inc 全员福利：额度 $10/余额 $2",
+    "url": "https://www.v2ex.com/t/1242058",
+    "source": "v2ex",
+    "score": 164.0,
+    "published_at": "2026-09-15T02:17:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241977",
+    "title": "弱电箱（鞋柜）如何散热？",
+    "url": "https://www.v2ex.com/t/1241977",
+    "source": "v2ex",
+    "score": 166.0,
+    "published_at": "2026-09-14T14:37:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242069",
+    "title": "大家都喝什么酒，交出你们的必喝酒单！",
+    "url": "https://www.v2ex.com/t/1242069",
+    "source": "v2ex",
+    "score": 176.0,
+    "published_at": "2026-09-15T02:39:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242184",
+    "title": "天崩开局 2026",
+    "url": "https://www.v2ex.com/t/1242184",
+    "source": "v2ex",
+    "score": 198.0,
+    "published_at": "2026-09-15T08:08:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684795356343336998",
+    "title": "最近火爆出圈的，FDE 到底是个什么岗位？",
+    "url": "https://juejin.cn/post/7684795356343336998",
+    "source": "juejin",
+    "score": 0.31490507,
+    "published_at": "2026-09-14T00:36:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685320540698361899",
+    "title": "黄仁勋台上接特朗普电话开免提，全场听到一句话：AI 不会减速",
+    "url": "https://juejin.cn/post/7685320540698361899",
+    "source": "juejin",
+    "score": 4.24531847,
+    "published_at": "2026-09-15T05:21:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684649314159312930",
+    "title": "ValidX时间段验证详解：ISO 8601标准与简化格式",
+    "url": "https://juejin.cn/post/7684649314159312930",
+    "source": "juejin",
+    "score": 1.46916681,
+    "published_at": "2026-09-14T01:24:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:earendil-works/pi",
+    "title": "pi",
+    "url": "https://github.com/earendil-works/pi",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:addyosmani/agent-skills",
+    "title": "agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:MG1937/ASC",
+    "title": "ASC",
+    "url": "https://github.com/MG1937/ASC",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:pacifio/atlas",
+    "title": "atlas",
+    "url": "https://github.com/pacifio/atlas",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:danny-avila/LibreChat",
+    "title": "LibreChat",
+    "url": "https://github.com/danny-avila/LibreChat",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:NationalSecurityAgency/ghidra",
+    "title": "ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Homebrew/BrewUI",
+    "title": "BrewUI",
+    "url": "https://github.com/Homebrew/BrewUI",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49707473",
+    "title": "US confirms for first time it has deployed space weapons",
+    "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+    "source": "hackernews",
+    "score": 91.0,
+    "published_at": "2026-09-15T03:47:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49711240",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-15T12:01:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49695519",
+    "title": "There are only twelve 4x4 sudokus (and a cool trick for finding minimal subsets)",
+    "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-14T12:10:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49695331",
+    "title": "High-performance garbage collection for C++",
+    "url": "https://v8.dev/blog/high-performance-cpp-gc",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-09-14T11:55:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49708774",
+    "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+    "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-15T07:00:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49710883",
+    "title": "25 Years of Mass Surveillance Is Enough",
+    "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-09-15T11:26:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49697549",
+    "title": "A rough guide for going back to the Moon",
+    "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-14T14:33:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49709129",
+    "title": "The k-server conjecture is true",
+    "url": "https://arxiv.org/abs/2609.15979",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-15T07:45:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49708993",
+    "title": "CSS-Tricks in Limbo",
+    "url": "https://vale.rocks/micros/20260915-0135",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-09-15T07:27:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49709381",
+    "title": "Alternatives to MinIO for single-node local S3",
+    "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-09-15T08:21:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49710253",
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "source": "hackernews",
+    "score": 200.0,
+    "published_at": "2026-09-15T10:22:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49708431",
+    "title": "I can't stop thinking about Papua New Guinea",
+    "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+    "source": "hackernews",
+    "score": 390.0,
+    "published_at": "2026-09-15T06:16:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:klbjuj",
     "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
     "url": "https://maggieappleton.com/planning-agents",
@@ -4676,326 +4996,6 @@
     "source": "hackernews",
     "score": 53.0,
     "published_at": "2026-09-08T14:28:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49618087",
-    "title": "Stop making swap partitions—use swap files instead",
-    "url": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-09-08T22:33:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49613642",
-    "title": "Kenyans Did College Students' Homework for Years. Then A.I. Arrived",
-    "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-08T17:35:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49659245",
-    "title": "HuggingFace: Security.txt",
-    "url": "https://huggingface.co/security.txt",
-    "source": "hackernews",
-    "score": 152.0,
-    "published_at": "2026-09-11T14:38:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49660783",
-    "title": "Show HN: Hacker News, Without AI",
-    "url": "https://www.unslop.news/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-11T16:08:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49662214",
-    "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-    "url": "https://snap.berkeley.edu/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-11T17:36:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49652270",
-    "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-11T01:05:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49661645",
-    "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-    "url": "https://www.getzep.com/careers/",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-11T17:00:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49651046",
-    "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
-    "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-10T22:33:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49660555",
-    "title": "118M Queries per Second on Neki",
-    "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-11T15:56:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49601138",
-    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
-    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-    "source": "hackernews",
-    "score": 89.0,
-    "published_at": "2026-09-07T18:05:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49660576",
-    "title": "Global Glacier Extinction Explorer",
-    "url": "https://glacierextinction.com",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-09-11T15:58:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49660676",
-    "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-    "url": "https://github.com/godot-pty/gpty",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-09-11T16:03:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wnemcf",
-    "title": "The Story of VS Code",
-    "url": "https://www.youtube.com/watch?v=kHL3XzjpT5w",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-11T09:08:13.893-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cegf7n",
-    "title": "evergarden",
-    "url": "https://evergarden.moe/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-11T07:59:46.317-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7guove",
-    "title": "Feeling sad about AI",
-    "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
-    "source": "lobsters",
-    "score": 24.0,
-    "published_at": "2026-09-11T07:33:20.763-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241315",
-    "title": "-52% 还能回本吗",
-    "url": "https://www.v2ex.com/t/1241315",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-09-11T05:57:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241297",
-    "title": "真难啊，做个网站 3 个月 600 曝光， 40 次点击。",
-    "url": "https://www.v2ex.com/t/1241297",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-09-11T04:17:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683830679906287643",
-    "title": "SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理",
-    "url": "https://juejin.cn/post/7683830679906287643",
-    "source": "juejin",
-    "score": 1.95520417,
-    "published_at": "2026-09-11T04:49:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683816340574945343",
-    "title": "跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！",
-    "url": "https://juejin.cn/post/7683816340574945343",
-    "source": "juejin",
-    "score": 2.04857872,
-    "published_at": "2026-09-11T03:55:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:github/spec-kit",
-    "title": "spec-kit",
-    "url": "https://github.com/github/spec-kit",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:alphaXiv/OpenResearch",
-    "title": "OpenResearch",
-    "url": "https://github.com/alphaXiv/OpenResearch",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:jordan-gibbs/hyperresearch",
-    "title": "hyperresearch",
-    "url": "https://github.com/jordan-gibbs/hyperresearch",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:p1neappleXpress/OpenFlux",
-    "title": "OpenFlux",
-    "url": "https://github.com/p1neappleXpress/OpenFlux",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:jihe520/MathModelAgent",
-    "title": "MathModelAgent",
-    "url": "https://github.com/jihe520/MathModelAgent",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Sonarr/Sonarr",
-    "title": "Sonarr",
-    "url": "https://github.com/Sonarr/Sonarr",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:melgarafael/DeskcommCRM",
-    "title": "DeskcommCRM",
-    "url": "https://github.com/melgarafael/DeskcommCRM",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:nab138/iloader",
-    "title": "iloader",
-    "url": "https://github.com/nab138/iloader",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610596",
-    "title": "An interactive tour of the spanning tree protocol",
-    "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-08T14:10:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49656225",
-    "title": "Claude is no longer available for minors",
-    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-    "source": "hackernews",
-    "score": 224.0,
-    "published_at": "2026-09-11T10:48:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49654962",
-    "title": "CSS Curiosities of the Past",
-    "url": "https://vale.rocks/posts/css-relics",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-09-11T07:57:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49603397",
-    "title": "RISC-V Emulator and Linux System from Scratch",
-    "url": "https://github.com/WerWolv/riscv-emulator",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-07T21:57:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49609169",
-    "title": "Experiment – Projectional Viewer",
-    "url": "https://programmingsimplicity.substack.com/p/experiment-projectional-viewer",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-08T12:03:33+00:00",
     "summary": "",
     "key_points": []
   }
