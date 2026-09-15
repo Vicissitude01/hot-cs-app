@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:d7kmuj",
+    "title": "txcript: Switching coding agents mid-conversation",
+    "url": "https://github.com/skillsynchq/txcript",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-15T17:12:07.344-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6gro0u",
+    "title": "PlayBook: A Programmable Paper Notebook",
+    "url": "https://www.youtube.com/watch?v=GurWDZ8ENpA",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-15T13:24:41.929-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:f65fy3",
+    "title": "Small Programming Tricks",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-15T15:50:57.381-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49697242",
+    "title": "XLS: Accelerated HW Synthesis",
+    "url": "https://google.github.io/xls/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-14T14:14:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49713894",
+    "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+    "url": "https://github.com/pizza-bot-app/pizza-bot",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-15T15:20:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49706708",
+    "title": "Vibe Coding is the new Internet Dating?",
+    "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-15T01:45:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49679949",
+    "title": "Data races and the limits of ThreadSanitizer in C and Go",
+    "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-13T04:09:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49717280",
+    "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+    "url": "https://mnoukhov.github.io/posts/ngu/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-15T19:07:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49715927",
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-09-15T17:37:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49718928",
+    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+    "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-09-15T21:07:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ptegb0",
     "title": "Swift 6.4 Released",
     "url": "https://www.swift.org/blog/swift-6.4-released/",
@@ -4896,106 +4996,6 @@
     "source": "v2ex",
     "score": 64.0,
     "published_at": "2026-09-12T04:26:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241383",
-    "title": "幼儿园的名单公示，打码规则是否不太合理？",
-    "url": "https://www.v2ex.com/t/1241383",
-    "source": "v2ex",
-    "score": 68.0,
-    "published_at": "2026-09-11T09:11:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241482",
-    "title": "讨论一下在手机上编程是不是伪需求",
-    "url": "https://www.v2ex.com/t/1241482",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-09-12T01:20:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241413",
-    "title": "有些人不允许别人把筷子竖着插进饭里",
-    "url": "https://www.v2ex.com/t/1241413",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-09-11T10:47:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241336",
-    "title": "有人买了中转站 6TB 的数据，里面有大量的服务器账号安全数据，看你们还敢用中转吗？",
-    "url": "https://www.v2ex.com/t/1241336",
-    "source": "v2ex",
-    "score": 126.0,
-    "published_at": "2026-09-11T07:04:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683724457530376198",
-    "title": "2026 年，你可以从项目中删掉这 5 个 npm 包了",
-    "url": "https://juejin.cn/post/7683724457530376198",
-    "source": "juejin",
-    "score": 0.41160686,
-    "published_at": "2026-09-11T01:11:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683438420874461247",
-    "title": "我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表",
-    "url": "https://juejin.cn/post/7683438420874461247",
-    "source": "juejin",
-    "score": 0.11820806,
-    "published_at": "2026-09-09T15:29:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49633824",
-    "title": "Fileless ELF Execution via Kernel Keyring",
-    "url": "https://matheuzsecurity.github.io/hacking/linux-kernel-keyring-fileless-exec/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-09T20:35:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49643011",
-    "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
-    "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-10T12:59:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49624456",
-    "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-    "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-09-09T11:01:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49668198",
-    "title": "Pandas Should Go Extinct",
-    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
-    "source": "hackernews",
-    "score": 128.0,
-    "published_at": "2026-09-12T02:42:08+00:00",
     "summary": "",
     "key_points": []
   }
