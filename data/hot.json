@@ -1,5 +1,195 @@
 [
   {
+    "id": "lobsters:ptegb0",
+    "title": "Swift 6.4 Released",
+    "url": "https://www.swift.org/blog/swift-6.4-released/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-15T13:55:10.632-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qx8dxe",
+    "title": "1Password's AI patching benchmark is misleading",
+    "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-15T15:03:12.094-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hv3l4v",
+    "title": "Subnormal floating-point numbers are expensive… on Intel processors",
+    "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-15T13:41:00.572-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:3wmby2",
+    "title": "Postgres development activity",
+    "url": "https://vondra.me/posts/postgres-development-activity/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-15T07:26:49.288-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:acwuxy",
+    "title": "How much of F-Droid is LLM generated?",
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-15T12:09:13.731-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jsvadf",
+    "title": "From Intern to Software Architect",
+    "url": "https://chauhankiran.blogspot.com/2026/09/levels.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-15T13:38:43.643-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685276242113052706",
+    "title": "阿里又开源了一个神级 Skill 项目！",
+    "url": "https://juejin.cn/post/7685276242113052706",
+    "source": "juejin",
+    "score": 0.84646157,
+    "published_at": "2026-09-15T02:45:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49689685",
+    "title": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
+    "url": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-13T23:07:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49691696",
+    "title": "The Two MMLU Scores: What a Benchmark Name Does Not Fix",
+    "url": "https://zatona.dev/blog/the-two-mmlu-scores",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-14T03:41:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49718025",
+    "title": "How much oil-market buffer is left?",
+    "url": "https://www.depletion.org",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-09-15T19:56:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49677648",
+    "title": "Giving up on smart rings",
+    "url": "https://notesbylex.com/giving-up-on-smart-rings",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-09-12T22:00:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49717638",
+    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+    "url": "https://codyho.dev/blog/gpu-driver/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-15T19:30:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49716953",
+    "title": "Chopping up books when they're physically too big",
+    "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-09-15T18:45:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49717605",
+    "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+    "url": "https://github.com/GraafHenk/numberwang",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-15T19:27:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49718822",
+    "title": "Jean-Pierre Serre is 100 years old today",
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-15T20:57:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49716476",
+    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-09-15T18:11:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49715947",
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "source": "hackernews",
+    "score": 167.0,
+    "published_at": "2026-09-15T17:38:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49716176",
+    "title": "An Update on Wayback Machine Access",
+    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+    "source": "hackernews",
+    "score": 232.0,
+    "published_at": "2026-09-15T17:52:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49717558",
+    "title": "Introducing System One Models and Jev",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "source": "hackernews",
+    "score": 310.0,
+    "published_at": "2026-09-15T19:25:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:udwhz2",
     "title": "Performance Improvements in .NET 11",
     "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
@@ -4806,196 +4996,6 @@
     "source": "hackernews",
     "score": 128.0,
     "published_at": "2026-09-12T02:42:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49668914",
-    "title": "OpenAI agents attacked RubyGems back in May",
-    "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-12T04:46:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49668777",
-    "title": "Usenet rewind archive search engine",
-    "url": "https://www.usenet-rewind.com/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-12T04:19:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49668706",
-    "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
-    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-09-12T04:09:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49668386",
-    "title": "Google no longer provides direct URLs in search results",
-    "url": "https://www.autom.dev/blog/google-search-goto-links",
-    "source": "hackernews",
-    "score": 278.0,
-    "published_at": "2026-09-12T03:14:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:n54ybt",
-    "title": "A list of macOS defaults commands with demos",
-    "url": "https://macos-defaults.com/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-11T17:55:34.740-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wajtsa",
-    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "url": "https://www.rubyhack.ai/",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-09-11T18:41:50.259-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241288",
-    "title": "大 token 用户一般除了砸钱，还能咋办，存粹个人用",
-    "url": "https://www.v2ex.com/t/1241288",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-09-11T03:42:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241311",
-    "title": "[送码]在手机端 AI 编程最佳应用： Octrix",
-    "url": "https://www.v2ex.com/t/1241311",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-09-11T05:48:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49634928",
-    "title": "Testing Race Conditions",
-    "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-09T21:51:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610219",
-    "title": "How do you rotate in four dimensions? From Zero to Geo 3.10 [video]",
-    "url": "https://www.youtube.com/watch?v=LYCcejLdFR4",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-08T13:40:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49667375",
-    "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
-    "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-12T00:40:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49667188",
-    "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-    "url": "https://github.com/zachsaw/graphify-csharp",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-12T00:16:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49665711",
-    "title": "AI researchers debate how close we are to recursive self-improvement",
-    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-11T21:35:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49666960",
-    "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
-    "url": "https://www.firecrawl.dev/blog/ai-software-factory",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-11T23:43:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49666735",
-    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "url": "https://www.rubyhack.ai/",
-    "source": "hackernews",
-    "score": 280.0,
-    "published_at": "2026-09-11T23:17:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:esgot3",
-    "title": "Tutorial for Septabee, a free DAW in the making for over 20,000 hours",
-    "url": "https://www.youtube.com/watch?v=lW8Z98pXuSE",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-11T18:06:30.015-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lpfagd",
-    "title": "DDD in Gleam",
-    "url": "https://escherize.com/gleam-katas/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-11T17:43:33.772-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49664322",
-    "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
-    "url": "https://txt.hellman.io/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-11T19:46:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49647403",
-    "title": "From Front Panel to Program: Thinking Like a PDP-8",
-    "url": "https://pikuma.com/blog/pdp-8-minicomputer",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-10T17:30:33+00:00",
     "summary": "",
     "key_points": []
   }
