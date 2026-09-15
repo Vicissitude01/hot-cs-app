@@ -1,5 +1,335 @@
 [
   {
+    "id": "lobsters:udwhz2",
+    "title": "Performance Improvements in .NET 11",
+    "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-15T12:03:47.369-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:buzdkb",
+    "title": "GEFS on OpenBSD: A very early preview",
+    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-15T12:21:47.861-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4nhhax",
+    "title": "Trying to Make a Loop Auto-Vectorize",
+    "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-15T12:29:43.351-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ccy1nr",
+    "title": "How I Wrote a Forth (Without Knowing How)",
+    "url": "https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-15T07:51:55.822-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pwofca",
+    "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
+    "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-15T06:22:06.884-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:klussk",
+    "title": "Converting a $20 4G wireless hotspot into a texting device",
+    "url": "https://bkovac.github.io/modem-thing/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-15T08:43:30.592-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242083",
+    "title": "Deepseek V4.1 Flash 真实体验",
+    "url": "https://www.v2ex.com/t/1242083",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-09-15T03:04:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:alphaXiv/OpenResearch",
+    "title": "OpenResearch",
+    "url": "https://github.com/alphaXiv/OpenResearch",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:melgarafael/DeskcommCRM",
+    "title": "DeskcommCRM",
+    "url": "https://github.com/melgarafael/DeskcommCRM",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49713130",
+    "title": "GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt",
+    "url": "https://arxiv.org/abs/2602.06258",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-15T14:31:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49712276",
+    "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+    "url": "https://github.com/ordewell/ordewell",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-15T13:31:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49712041",
+    "title": "Java 27",
+    "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+    "source": "hackernews",
+    "score": 255.0,
+    "published_at": "2026-09-15T13:13:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49710015",
+    "title": "How much of F-Droid is LLM generated?",
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-09-15T09:47:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49713261",
+    "title": "What we have learned at OpenShell applying formal methods to control AI agents",
+    "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-15T14:40:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49714547",
+    "title": "America's Driver's License Breach Is a National Security Disaster",
+    "url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-15T15:58:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49689770",
+    "title": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug",
+    "url": "https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-13T23:19:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49704132",
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "url": "https://www.effort.news/irregular",
+    "source": "hackernews",
+    "score": 127.0,
+    "published_at": "2026-09-14T21:15:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49697496",
+    "title": "Most people prefer traditional architecture",
+    "url": "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
+    "source": "hackernews",
+    "score": 122.0,
+    "published_at": "2026-09-14T14:30:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49712621",
+    "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+    "url": "https://github.com/greentfrapp/panel",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-09-15T13:58:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49680428",
+    "title": "Sony's First Computer – The SMC-70 from 1982 [video]",
+    "url": "https://www.youtube.com/watch?v=cT2-7KkPkBc",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-13T05:47:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49713024",
+    "title": "The Inference Hardware Revolution of 2026",
+    "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-15T14:24:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49715590",
+    "title": "GEFS on OpenBSD: A Early Preview",
+    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-15T17:12:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49710109",
+    "title": "Let's make quality the norm again",
+    "url": "https://www.forbrukerradet.no/short-life/",
+    "source": "hackernews",
+    "score": 140.0,
+    "published_at": "2026-09-15T10:00:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49694382",
+    "title": "Archiving pirate radio station Kool FM",
+    "url": "https://londonist.com/london/music/kool-fm-archives",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-09-14T10:01:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49713337",
+    "title": "Closing the IPv6 first-packet gap with GRAND",
+    "url": "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-15T14:44:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49715463",
+    "title": "Leaving Linux",
+    "url": "https://jackevans.bearblog.dev/leaving-linux/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-15T17:02:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49713999",
+    "title": "Cartesian – AI 3D Modeling for Design",
+    "url": "https://www.formas.ai/cartesian",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-09-15T15:26:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49715446",
+    "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+    "url": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-15T17:00:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49713262",
+    "title": "The CSS Zen Garden dream, finally shipped",
+    "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-15T14:40:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49715113",
+    "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+    "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+    "source": "hackernews",
+    "score": 103.0,
+    "published_at": "2026-09-15T16:38:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49712102",
+    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+    "url": "https://bkovac.github.io/modem-thing/",
+    "source": "hackernews",
+    "score": 115.0,
+    "published_at": "2026-09-15T13:20:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49712278",
+    "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+    "url": "https://withcapsule.app/",
+    "source": "hackernews",
+    "score": 164.0,
+    "published_at": "2026-09-15T13:31:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49711544",
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "url": "https://github.com/arnegiacomo/fugleramme",
+    "source": "hackernews",
+    "score": 733.0,
+    "published_at": "2026-09-15T12:31:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ixjmzm",
     "title": "Simpler time map plots (2017)",
     "url": "https://lepisma.xyz/2017/06/25/simple-time-maps/",
@@ -4666,336 +4996,6 @@
     "source": "hackernews",
     "score": 13.0,
     "published_at": "2026-09-10T17:30:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49635043",
-    "title": "There is no 10x RBAC",
-    "url": "https://infisical.com/blog/folder-based-rbac",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-09T21:59:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49640741",
-    "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
-    "url": "https://www.fink-translate.com/blog/hepburn-romanization.html",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-10T09:13:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49666155",
-    "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-    "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-11T22:16:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49665864",
-    "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-    "url": "https://github.com/mirza-rizvi/ResolveHQ",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-11T21:48:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49666146",
-    "title": "Project Blinkenlights",
-    "url": "https://blinkenlights.de/en/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-11T22:15:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49626718",
-    "title": "A Design Space Exploration of Async/Await",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-09-09T13:59:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wxc7t7",
-    "title": "Measuring the sloppiness of code",
-    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-11T12:08:11.044-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xsbz3l",
-    "title": "A Severe Misalignment of AI in Mathematics",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-11T14:03:30.462-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:oossfd",
-    "title": "A Severe Misalignment of AI in Mathematics",
-    "url": "https://mathandai.org/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-11T14:09:22.755-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vc0brm",
-    "title": "What are you doing this weekend?",
-    "url": "https://lobste.rs/s/vc0brm",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-11T11:40:41.980-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49660482",
-    "title": "Hacker News with reduced priority for AI driven content",
-    "url": "https://sprinklz.io/public/pdwt4dve5uai",
-    "source": "hackernews",
-    "score": 87.0,
-    "published_at": "2026-09-11T15:52:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49659647",
-    "title": "Show HN: Hacker News, without AI",
-    "url": "https://hcker.news/?ai=exclude",
-    "source": "hackernews",
-    "score": 141.0,
-    "published_at": "2026-09-11T15:01:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49663054",
-    "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-    "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-11T18:30:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49662367",
-    "title": "Room 641A",
-    "url": "https://en.wikipedia.org/wiki/Room_641A",
-    "source": "hackernews",
-    "score": 101.0,
-    "published_at": "2026-09-11T17:45:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49662990",
-    "title": "I spent $220 on Google app ads. 60% of the installs were robots",
-    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-11T18:24:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49662020",
-    "title": "Mind-altering drugs played key role in rise of Andean civilization",
-    "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-11T17:25:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49624717",
-    "title": "AlphaGenome maps 9B DNA variants",
-    "url": "https://spectrum.ieee.org/alphagenome-atlas",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-09T11:30:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49662672",
-    "title": "The EPA is planning to scrap public review rules for data center pollution",
-    "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-    "source": "hackernews",
-    "score": 190.0,
-    "published_at": "2026-09-11T18:05:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49662767",
-    "title": "Litelm: LiteLLM Without the Bloat",
-    "url": "https://github.com/kennethwolters/litelm",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-11T18:10:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49663373",
-    "title": "GrapheneOS' rewritten Messages app is released",
-    "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-09-11T18:50:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49662371",
-    "title": "A misalignment of AI in mathematics",
-    "url": "https://mathandai.org/",
-    "source": "hackernews",
-    "score": 281.0,
-    "published_at": "2026-09-11T17:45:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fjljdg",
-    "title": "Everything is a Trust Decision",
-    "url": "https://nrd.sh/blog/everything-is-a-trust-decision.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-11T10:41:04.581-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:b6oxoj",
-    "title": "Bastion of the Turbofish",
-    "url": "https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs",
-    "source": "lobsters",
-    "score": 13.0,
-    "published_at": "2026-09-11T08:50:19.190-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mcioou",
-    "title": "ChiPass Release 2026.09.0",
-    "url": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-11T11:35:40.299-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:be7tgu",
-    "title": "Power grab",
-    "url": "https://tante.cc/2026/09/11/power-grab/",
-    "source": "lobsters",
-    "score": 62.0,
-    "published_at": "2026-09-11T09:23:46.956-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:pascalorg/editor",
-    "title": "editor",
-    "url": "https://github.com/pascalorg/editor",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49658483",
-    "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-    "url": "https://clawfight.ai/agents.md",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-11T13:54:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49613507",
-    "title": "Copper lined vest to help penguins with recovery",
-    "url": "https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-08T17:28:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49658819",
-    "title": "New York thoracic surgeon: \"For many patients 9/11 is not over\"",
-    "url": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-09-11T14:14:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49652105",
-    "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-    "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-    "source": "hackernews",
-    "score": 224.0,
-    "published_at": "2026-09-11T00:42:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49660149",
-    "title": "Rune is now open source",
-    "url": "https://rune.build/blog/rune-is-now-open-source",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-11T15:31:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49660884",
-    "title": "Triple H Writes Anniversary Story for Spider-Man #1000",
-    "url": "https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-11T16:13:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49610834",
-    "title": "How the Chorleywood Bread Process transformed British bread",
-    "url": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-08T14:28:10+00:00",
     "summary": "",
     "key_points": []
   }
