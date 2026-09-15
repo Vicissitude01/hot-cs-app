@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:q5dgu6",
+    "title": "GDScript: The Good, Bad, and Ugly Parts",
+    "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-14T19:29:04.599-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241876",
+    "title": "[V8AIX] 自建中转上线，超多福利等你来领 [10 刀]",
+    "url": "https://www.v2ex.com/t/1241876",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-09-14T06:36:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1241781",
+    "title": "求推荐耳夹式耳机，给 iPhone 用，性价比高些的",
+    "url": "https://www.v2ex.com/t/1241781",
+    "source": "v2ex",
+    "score": 132.0,
+    "published_at": "2026-09-14T02:16:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685040997440978990",
+    "title": "WebP 压缩到底在干嘛？小白也能看懂的原理拆解",
+    "url": "https://juejin.cn/post/7685040997440978990",
+    "source": "juejin",
+    "score": 0.52362963,
+    "published_at": "2026-09-14T03:21:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49696132",
+    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+    "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-14T13:01:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49696453",
+    "title": "People who can't picture anything are rewriting the science of imagination",
+    "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+    "source": "hackernews",
+    "score": 92.0,
+    "published_at": "2026-09-14T13:23:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49675817",
+    "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+    "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-12T18:51:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49697477",
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-14T14:29:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49705442",
+    "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "url": "https://github.com/JamesRyanATX/fcbnerd",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-14T23:01:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49704246",
+    "title": "Charts built for Chat",
+    "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+    "source": "hackernews",
+    "score": 84.0,
+    "published_at": "2026-09-14T21:22:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:uqezny",
     "title": "Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code",
     "url": "https://kythe.io",
@@ -4896,106 +4996,6 @@
     "source": "juejin",
     "score": 0.65309356,
     "published_at": "2026-09-10T07:54:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683152167263846463",
-    "title": "Dart Skills CLI 1.0 ：AI 时代的 Dart 交付支持",
-    "url": "https://juejin.cn/post/7683152167263846463",
-    "source": "juejin",
-    "score": 0.25411672,
-    "published_at": "2026-09-09T03:35:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7682593227544788998",
-    "title": "Flutter 状态管理基准测评，一个很有趣的观点",
-    "url": "https://juejin.cn/post/7682593227544788998",
-    "source": "juejin",
-    "score": 0.29561481,
-    "published_at": "2026-09-08T00:44:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683511159950540835",
-    "title": "iPhone Duo 适配 Drag and Drop 实现方案",
-    "url": "https://juejin.cn/post/7683511159950540835",
-    "source": "juejin",
-    "score": 0.60439239,
-    "published_at": "2026-09-10T03:34:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683375934587502643",
-    "title": "DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%",
-    "url": "https://juejin.cn/post/7683375934587502643",
-    "source": "juejin",
-    "score": 0.34523122,
-    "published_at": "2026-09-09T10:28:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683443642279723023",
-    "title": "一个人 + AI 做的小程序，一个月赚了 36 块",
-    "url": "https://juejin.cn/post/7683443642279723023",
-    "source": "juejin",
-    "score": 0.57641194,
-    "published_at": "2026-09-10T01:09:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683353819855077412",
-    "title": "每天白嫖 WorkBuddy 100 积分，我让WorkBuddy自己领",
-    "url": "https://juejin.cn/post/7683353819855077412",
-    "source": "juejin",
-    "score": 0.62525154,
-    "published_at": "2026-09-10T00:07:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49652028",
-    "title": "YuE2 · Frontier Music with Symbolic Planning",
-    "url": "https://map-yue2.github.io/",
-    "source": "hackernews",
-    "score": 95.0,
-    "published_at": "2026-09-11T00:33:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49653328",
-    "title": "Exercise intensity is associated with cardiometabolic health",
-    "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
-    "source": "hackernews",
-    "score": 98.0,
-    "published_at": "2026-09-11T03:48:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49654229",
-    "title": "Astra for Coding: Why Are We Doing This Again?",
-    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-    "source": "hackernews",
-    "score": 324.0,
-    "published_at": "2026-09-11T06:23:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49620760",
-    "title": "Testing race conditions with mem access tracing and stack-based delay injection",
-    "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-09T04:01:10+00:00",
     "summary": "",
     "key_points": []
   }
