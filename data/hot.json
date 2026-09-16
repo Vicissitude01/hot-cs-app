@@ -1,5 +1,205 @@
 [
   {
+    "id": "lobsters:mmrtig",
+    "title": "Apple Reference Image: A New Approach for Verified Photography",
+    "url": "https://security.apple.com/blog/apple-reference-image/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-15T23:19:42.787-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rwzf83",
+    "title": "Agent State in the Tmux Status Line",
+    "url": "https://thecloudlet.github.io/technical/til/tmux-agent-status-indicator/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-16T02:09:43.830-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:glywa4",
+    "title": "Maintaining the love for coding in the time of AI",
+    "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-16T01:31:52.450-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ynjgbz",
+    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-09-15T22:39:05.470-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wxnibb",
+    "title": "A/I Shuts Down",
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "source": "lobsters",
+    "score": 29.0,
+    "published_at": "2026-09-16T01:05:38.170-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242299",
+    "title": "即日起 iCloud+用户可免费享受 TV 和 Arcade",
+    "url": "https://www.v2ex.com/t/1242299",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-09-16T01:07:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242300",
+    "title": "大家对骚扰电话有什么好的屏蔽办法",
+    "url": "https://www.v2ex.com/t/1242300",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-09-16T01:10:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242204",
+    "title": "幽门螺旋杆菌治疗中，真难熬...",
+    "url": "https://www.v2ex.com/t/1242204",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-09-15T09:26:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242357",
+    "title": "卷王都是什么心态呢",
+    "url": "https://www.v2ex.com/t/1242357",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-09-16T03:03:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242350",
+    "title": "夫妻之间的一点小事儿 请教方法",
+    "url": "https://www.v2ex.com/t/1242350",
+    "source": "v2ex",
+    "score": 156.0,
+    "published_at": "2026-09-16T02:42:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684460980934164495",
+    "title": "“这需求用 AI 也就十分钟吧？”——周五深夜十一点，我在工位给 Cursor 擦屁股",
+    "url": "https://juejin.cn/post/7684460980934164495",
+    "source": "juejin",
+    "score": 0.17082697,
+    "published_at": "2026-09-13T12:42:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7684565470046339107",
+    "title": "真实调研2500名程序员：工资差一倍，AI拉开分水岭",
+    "url": "https://juejin.cn/post/7684565470046339107",
+    "source": "juejin",
+    "score": 0.15115889,
+    "published_at": "2026-09-14T03:26:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685770509585629190",
+    "title": "ChatGPT 开启无限 token",
+    "url": "https://juejin.cn/post/7685770509585629190",
+    "source": "juejin",
+    "score": 3.75374625,
+    "published_at": "2026-09-16T02:52:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49692510",
+    "title": "The Beauty of Roundabouts",
+    "url": "https://gruhn.me/blog/2026-09-14/",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-09-14T05:53:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49710307",
+    "title": "ZTE B860H: Getting Armbian into It",
+    "url": "https://pen.waltuh.cyou/yonle/zte-b860h-getting-armbian-into-it",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-15T10:29:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49722591",
+    "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
+    "url": "https://github.com/dbalsom/martypc",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-16T05:56:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49694035",
+    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "url": "https://arxiv.org/abs/2511.07885",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-09-14T09:16:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49722521",
+    "title": "A software thing I built: GPS on a 25MHz 486-SX",
+    "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-09-16T05:43:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49722276",
+    "title": "Datamimic – don't let your coding agent invent its own test world",
+    "url": "https://github.com/rapiddweller/datamimic",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-16T04:58:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49705944",
+    "title": "Doing Everyone Else's Job",
+    "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-15T00:01:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:5uovkh",
     "title": "Unsizing unsized values",
     "url": "https://hackmd.io/@WorldSEnder/Hkyqni6Ofl",
@@ -4796,206 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-09-10T09:12:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49665549",
-    "title": "Forgotten Woodlands",
-    "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-11T21:21:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49643543",
-    "title": "LRU is harder to beat than the KV-cache papers suggest",
-    "url": "https://github.com/gauravapiscean/agentic-kv-cache",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-10T13:39:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49672365",
-    "title": "A Mathematical Framework for Transformer Circuits (2021)",
-    "url": "https://transformer-circuits.pub/2021/framework/index.html",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-12T13:56:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49671159",
-    "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-    "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-09-12T11:13:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49658672",
-    "title": "I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold",
-    "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-11T14:07:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49671329",
-    "title": "Fuck it, make it anyway",
-    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-    "source": "hackernews",
-    "score": 243.0,
-    "published_at": "2026-09-12T11:42:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ekyert",
-    "title": "Rune is now open source",
-    "url": "https://rune.build/blog/rune-is-now-open-source",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-12T03:35:23.532-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dkd8ph",
-    "title": "Rare Not Random Using Token Efficiency for Secrets Scanning",
-    "url": "https://lookingatcomputer.substack.com/p/rare-not-random",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-12T01:42:56.073-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sidh4j",
-    "title": "Designing for Dual Screen and Foldable Devices With CSS",
-    "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-12T03:33:24.056-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241496",
-    "title": "你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?",
-    "url": "https://www.v2ex.com/t/1241496",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-09-12T02:55:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241486",
-    "title": "木椅子坐久了，经常屁股有汗，会黏住裤衩，好不透气，怎么办",
-    "url": "https://www.v2ex.com/t/1241486",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-09-12T01:54:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241455",
-    "title": "不想上班了，回老家县城躺平是否可行？",
-    "url": "https://www.v2ex.com/t/1241455",
-    "source": "v2ex",
-    "score": 54.0,
-    "published_at": "2026-09-11T15:40:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241528",
-    "title": "华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊",
-    "url": "https://www.v2ex.com/t/1241528",
-    "source": "v2ex",
-    "score": 56.0,
-    "published_at": "2026-09-12T05:53:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241515",
-    "title": "不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历",
-    "url": "https://www.v2ex.com/t/1241515",
-    "source": "v2ex",
-    "score": 58.0,
-    "published_at": "2026-09-12T04:21:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241452",
-    "title": "兄弟们和我一起当捞女去崩老头。",
-    "url": "https://www.v2ex.com/t/1241452",
-    "source": "v2ex",
-    "score": 60.0,
-    "published_at": "2026-09-11T15:28:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241484",
-    "title": "智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6",
-    "url": "https://www.v2ex.com/t/1241484",
-    "source": "v2ex",
-    "score": 88.0,
-    "published_at": "2026-09-12T01:26:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241506",
-    "title": "codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神",
-    "url": "https://www.v2ex.com/t/1241506",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-09-12T03:35:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683400830063444006",
-    "title": "迷茫焦虑期，我做了一个带支付带官网的 AI 聊天虚拟恋人 App",
-    "url": "https://juejin.cn/post/7683400830063444006",
-    "source": "juejin",
-    "score": 0.08321149,
-    "published_at": "2026-09-09T13:37:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683348233489924102",
-    "title": "面试官问我：AI 都能写代码了，前端凭什么还值 25K",
-    "url": "https://juejin.cn/post/7683348233489924102",
-    "source": "juejin",
-    "score": 0.12138187,
-    "published_at": "2026-09-09T11:40:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683784267847925787",
-    "title": "倒反天罡！押注 React Native 6 年后，Shopify 又回到了原生开发",
-    "url": "https://juejin.cn/post/7683784267847925787",
-    "source": "juejin",
-    "score": 0.22762472,
-    "published_at": "2026-09-11T01:15:40+00:00",
     "summary": "",
     "key_points": []
   }
