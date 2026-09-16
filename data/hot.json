@@ -1,5 +1,195 @@
 [
   {
+    "id": "lobsters:ssg1jp",
+    "title": "The early days of UNIX in the UK",
+    "url": "https://www.coulouris.net/cs_history/em_story/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-16T11:46:02.132-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:aml2pc",
+    "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
+    "url": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-16T12:18:03.472-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qphopj",
+    "title": "type declaration syntax",
+    "url": "https://citrons.xyz/journal/2026-09-09",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-16T11:05:40.510-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vkdmdy",
+    "title": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years",
+    "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-16T12:22:01.110-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lvld5b",
+    "title": "How to get a DOI for your blog posts",
+    "url": "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-16T10:59:17.598-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:c5xrht",
+    "title": "Replacing Pull Requests with Delta",
+    "url": "https://zed.dev/blog/delta-public-beta",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-16T11:27:39.966-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ihw0hq",
+    "title": "The end of verygoodsoftwarenotvirus.ru",
+    "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-16T11:58:43.181-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cianny",
+    "title": "Why i'm still bearish on LLMs after Navier-Stokes",
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-16T10:04:45.848-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49725800",
+    "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+    "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+    "source": "hackernews",
+    "score": 127.0,
+    "published_at": "2026-09-16T12:19:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49710201",
+    "title": "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling",
+    "url": "https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-15T10:14:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49727592",
+    "title": "Anatomy of a Texture",
+    "url": "https://agentlien.github.io/texture/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-16T14:28:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49698036",
+    "title": "Anecdotally, Programmers Dislike \"Reduce\"",
+    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-14T14:58:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49728733",
+    "title": "Can we stop with the uptime percentages?",
+    "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-09-16T15:40:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49730239",
+    "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+    "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-16T17:27:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49717298",
+    "title": "The Siberian Ice Maiden and the Scythian World",
+    "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-15T19:09:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49729412",
+    "title": "Claude Cowork and chat are now one Claude",
+    "url": "https://claude.com/blog/cowork-is-now-claude",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-09-16T16:26:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49710903",
+    "title": "Tell the speakers that you liked their talks",
+    "url": "https://ohhelloana.blog/tell-the-speakers/",
+    "source": "hackernews",
+    "score": 150.0,
+    "published_at": "2026-09-15T11:28:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49727659",
+    "title": "The DeepMind Institute",
+    "url": "https://institute.deepmind.com/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-16T14:32:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49729000",
+    "title": "Small Programming Tricks",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "source": "hackernews",
+    "score": 146.0,
+    "published_at": "2026-09-16T15:56:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:zwhnko",
     "title": "The smallest possible Linux distribution",
     "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
@@ -4806,196 +4996,6 @@
     "source": "hackernews",
     "score": 6.0,
     "published_at": "2026-09-10T18:01:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49676324",
-    "title": "LG Says We're Fake News [video]",
-    "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-12T19:35:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49675902",
-    "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-    "url": "https://hachyderm.io/@simontatham/117201594980991062",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-09-12T18:58:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49619848",
-    "title": "Apple iPod Engraver (2019)",
-    "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-09-09T01:57:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49676577",
-    "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-    "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-12T19:57:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49676820",
-    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-    "url": "https://withspecific.com/benchmarks/real-swe",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-12T20:25:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wobjnw",
-    "title": "Testing race conditions with memory access tracing and stack-based delay injection",
-    "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-12T12:55:34.316-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:24gxd3",
-    "title": "js65 - Advanced 6502 assembler with patching support based on ca65 syntax",
-    "url": "https://jsnesx.github.io/js65/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-12T14:04:33.399-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1hpzyz",
-    "title": "Make it anyway",
-    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-12T12:24:07.728-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fcttpk",
-    "title": "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
-    "url": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-12T12:24:59.836-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241596",
-    "title": "有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距",
-    "url": "https://www.v2ex.com/t/1241596",
-    "source": "v2ex",
-    "score": 66.0,
-    "published_at": "2026-09-12T14:02:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683728647317291054",
-    "title": "百万行数据透视表，我是怎么把 Vue 响应式开销砍到零的",
-    "url": "https://juejin.cn/post/7683728647317291054",
-    "source": "juejin",
-    "score": 0.14160893,
-    "published_at": "2026-09-10T07:50:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49672549",
-    "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
-    "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
-    "source": "hackernews",
-    "score": 91.0,
-    "published_at": "2026-09-12T14:16:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49625108",
-    "title": "Eating Fruit Skins",
-    "url": "https://pgadey.ca/blog/eating-fruit-skins/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-09T12:01:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49625056",
-    "title": "Stabilizing Rust's Never Type",
-    "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-09T11:57:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49671237",
-    "title": "How Trail of Bits helps verify the integrity of Signal chats",
-    "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-12T11:27:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49672842",
-    "title": "I made a build visualizer to understand Bun's compile times",
-    "url": "https://lalitm.com/post/buildprof/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-12T14:45:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49672510",
-    "title": "We must pace the frontier",
-    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-    "source": "hackernews",
-    "score": 324.0,
-    "published_at": "2026-09-12T14:10:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49676085",
-    "title": "An open letter to Dario: if you mean it, open the weights",
-    "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-09-12T19:15:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645480",
-    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-    "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-    "source": "hackernews",
-    "score": 184.0,
-    "published_at": "2026-09-10T15:31:37+00:00",
     "summary": "",
     "key_points": []
   }
