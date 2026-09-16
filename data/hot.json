@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:7ehqzv",
+    "title": "Style Guide for Online Hypertext (1992)",
+    "url": "https://www.w3.org/Provider/Style/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-16T14:26:10.998-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wo4fuj",
+    "title": "Gothub lists",
+    "url": "https://gothub.org/lists.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-16T11:55:24.658-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:q35pnm",
+    "title": "Why building a Rust LSP is hard",
+    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-16T11:17:16.785-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sh6yeo",
+    "title": "Unicode 18.0.0",
+    "url": "https://www.unicode.org/versions/Unicode18.0.0/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-16T12:38:31.926-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gs10ad",
+    "title": "Introducing GNOME 51",
+    "url": "https://release.gnome.org/51/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-16T13:05:43.967-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242432",
+    "title": "发现 6 astra 无限能源了",
+    "url": "https://www.v2ex.com/t/1242432",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-09-16T06:40:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49710420",
+    "title": "Randomized query complexity can beat certificate complexity",
+    "url": "https://arxiv.org/abs/2609.15063",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-15T10:43:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49727580",
+    "title": "A warning about 'model welfare'",
+    "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+    "source": "hackernews",
+    "score": 161.0,
+    "published_at": "2026-09-16T14:27:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49699477",
+    "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
+    "url": "https://attalambda.com",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-14T16:21:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49710968",
+    "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
+    "url": "https://restarted.io/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-15T11:34:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49729816",
+    "title": "Training Text-to-Image Models 3.6× Faster",
+    "url": "https://www.linum.ai/field-notes/jit-ddt",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-16T16:58:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49692844",
+    "title": "Anecdotally, programmers dislike \"reduce\"",
+    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-14T06:46:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49677916",
+    "title": "Japan's book scene is moving from bookstores to libraries",
+    "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-12T22:35:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49660791",
+    "title": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
+    "url": "https://clickhouse.com/blog/introducing-walshadow",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-11T16:09:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49719249",
+    "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+    "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-09-15T21:41:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49731620",
+    "title": "How good are frontier models at physics?",
+    "url": "https://arxiv.org/abs/2609.13009",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-09-16T19:19:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49731054",
+    "title": "Vectorized and performance-portable Quicksort (2022)",
+    "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+    "source": "hackernews",
+    "score": 153.0,
+    "published_at": "2026-09-16T18:31:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49711424",
+    "title": "Performance Improvements in .NET 11",
+    "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-09-15T12:18:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49731360",
+    "title": "Accurate Models of AMD Matrix Cores",
+    "url": "https://arxiv.org/abs/2609.14845",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-09-16T18:56:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49674451",
+    "title": "Reversing Factorio's RNG",
+    "url": "https://gegell.github.io/posts/factorio-rng/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-09-12T17:02:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49732931",
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "url": "https://arxiv.org/abs/2609.16338",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-16T20:59:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49732036",
+    "title": "macOS 27 Golden Gate – Review",
+    "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-09-16T19:53:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49732270",
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "url": "https://mimo.xiaomi.com/rl/",
+    "source": "hackernews",
+    "score": 104.0,
+    "published_at": "2026-09-16T20:09:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49731285",
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "source": "hackernews",
+    "score": 220.0,
+    "published_at": "2026-09-16T18:50:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ssg1jp",
     "title": "The early days of UNIX in the UK",
     "url": "https://www.coulouris.net/cs_history/em_story/",
@@ -4756,246 +4996,6 @@
     "source": "juejin",
     "score": 0.10909295,
     "published_at": "2026-09-10T13:37:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683784267848122395",
-    "title": "DeepSeek V4.1 Flash 正式发布！",
-    "url": "https://juejin.cn/post/7683784267848122395",
-    "source": "juejin",
-    "score": 0.16316113,
-    "published_at": "2026-09-11T01:27:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684463933702291466",
-    "title": "我把苹果发布会里的折叠屏，真的用网页做出来了",
-    "url": "https://juejin.cn/post/7684463933702291466",
-    "source": "juejin",
-    "score": 0.40028606,
-    "published_at": "2026-09-12T05:49:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684069447021035562",
-    "title": "用 AI 做短剧出海，赚麻了！（附 Skill 及教程）",
-    "url": "https://juejin.cn/post/7684069447021035562",
-    "source": "juejin",
-    "score": 0.16471818,
-    "published_at": "2026-09-11T07:46:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49677450",
-    "title": "P(doom)",
-    "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-12T21:35:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49678435",
-    "title": "AgentsDock: An IDE designed for agentic AI research",
-    "url": "https://agentsdock.net/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-12T23:45:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49635621",
-    "title": "Durable execution without history replay",
-    "url": "https://trigora.dev/blog/durable-execution-without-history-replay/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-09T22:41:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49629624",
-    "title": "Vintage Scientific Papers with LaTeX",
-    "url": "https://github.com/Foadsf/vintage-latex",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-09-09T16:58:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49640913",
-    "title": "I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32",
-    "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-10T09:32:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49679360",
-    "title": "Don't call yourself an artisanal programmer",
-    "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-13T02:29:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49677577",
-    "title": "Don't be the out of touch Kung Fu master – John Carmack",
-    "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-09-12T21:51:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49678683",
-    "title": "Everyone should slow down AI development except for me",
-    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-    "source": "hackernews",
-    "score": 299.0,
-    "published_at": "2026-09-13T00:30:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49649864",
-    "title": "From Git to Fossil",
-    "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-09-10T20:39:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49679647",
-    "title": "The Succession Crisis That Tore England Apart",
-    "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-13T03:18:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49679459",
-    "title": "The Interim Computer Museum",
-    "url": "https://icm.museum/",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-13T02:43:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6xdgjr",
-    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-12T15:55:56.268-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49677391",
-    "title": "Financial Times' 404 Page not Found",
-    "url": "https://www.ft.com/article/404",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-12T21:28:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49644603",
-    "title": "Show HN: See Sounds on Your Webcam",
-    "url": "https://soundmap.darebuild.com/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-10T14:43:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49677715",
-    "title": "StarCraft returns in 2030 as an open-world shooter",
-    "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-09-12T22:07:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49636479",
-    "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-    "url": "https://eiln.github.io/posts/ane-dma.html",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-10T00:16:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jtmyg2",
-    "title": "Optimizing a single Rust Clippy lint by 3133X",
-    "url": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-12T15:29:09.734-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:co3jkg",
-    "title": "Managing Complex Application State with Reactive Data Flows",
-    "url": "https://yogthos.net/posts/2026-09-12-reactive-dataflow.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-12T14:45:31.591-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:er0hfp",
-    "title": "A Few Good Ideas in Programming Languages",
-    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-12T13:19:16.652-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49676849",
-    "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-12T20:28:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49647860",
-    "title": "The Magic Behind Cubacadabra",
-    "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-10T18:01:47+00:00",
     "summary": "",
     "key_points": []
   }
