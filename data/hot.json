@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:5uovkh",
+    "title": "Unsizing unsized values",
+    "url": "https://hackmd.io/@WorldSEnder/Hkyqni6Ofl",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-15T18:03:40.886-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zutlqt",
+    "title": "Some things Veloren does differently",
+    "url": "https://blog.jsbarretto.com/post/veloren",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-15T22:47:55.703-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jlja1a",
+    "title": "JDK 27 has been released",
+    "url": "https://openjdk.org/projects/jdk/27/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-15T22:17:56.544-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242169",
+    "title": "大家手机上一般用什么浏览器",
+    "url": "https://www.v2ex.com/t/1242169",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-09-15T07:32:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242118",
+    "title": "问界可能这下真要凉了",
+    "url": "https://www.v2ex.com/t/1242118",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-09-15T04:41:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242161",
+    "title": "疑惑：外卖员在外拼命赶单，送完 2‑3 楼下楼，为什么要等电梯不走楼梯？",
+    "url": "https://www.v2ex.com/t/1242161",
+    "source": "v2ex",
+    "score": 92.0,
+    "published_at": "2026-09-15T07:16:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242347",
+    "title": "为啥让各种 ai 生成一个 1-30 的随机数 都是说 17",
+    "url": "https://www.v2ex.com/t/1242347",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-09-16T02:35:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242230",
+    "title": "可以说说这么多年我在美国的感受吗？",
+    "url": "https://www.v2ex.com/t/1242230",
+    "source": "v2ex",
+    "score": 102.0,
+    "published_at": "2026-09-15T11:26:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242307",
+    "title": "求推荐现在智驾最好的 SUV",
+    "url": "https://www.v2ex.com/t/1242307",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-09-16T01:22:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242297",
+    "title": "女性的消费水平确实是高",
+    "url": "https://www.v2ex.com/t/1242297",
+    "source": "v2ex",
+    "score": 134.0,
+    "published_at": "2026-09-16T01:03:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242215",
+    "title": "情侣旅游一定要男生全部安排好吗，顶不住了",
+    "url": "https://www.v2ex.com/t/1242215",
+    "source": "v2ex",
+    "score": 300.0,
+    "published_at": "2026-09-15T10:07:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685267114438115366",
+    "title": "全球最聪明的几个人，本周突然一起说“别卷了”",
+    "url": "https://juejin.cn/post/7685267114438115366",
+    "source": "juejin",
+    "score": 0.45473137,
+    "published_at": "2026-09-14T15:39:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685644889096011827",
+    "title": "前端2秒生成500页矢量PDF，rust真的强到没朋友",
+    "url": "https://juejin.cn/post/7685644889096011827",
+    "source": "juejin",
+    "score": 2.25280923,
+    "published_at": "2026-09-15T15:33:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49700928",
+    "title": "The madman's guide to stamp collecting",
+    "url": "https://www.wsj.com/arts-culture/books/the-madmans-guide-to-stamp-collecting-review-sticking-to-what-they-know-e96da0e9?st=dT9wdV&reflink=desktopwebshare_permalink",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-14T17:45:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49684197",
+    "title": "An interactive world map of the stories cultures have told",
+    "url": "https://originmap.sunnyguha.com/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-13T14:09:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49680916",
+    "title": "Sierra digital cameras on the Apple II",
+    "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-13T07:11:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49693971",
+    "title": "Show HN: I made a flight simulator, except you're just a passenger",
+    "url": "https://inflightsimulator.com",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-14T09:08:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49720164",
+    "title": "Saving Jet Fuel",
+    "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-09-15T23:17:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49721435",
+    "title": "Stay discoverable in search while disallowing AI training",
+    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-16T02:25:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49719938",
+    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-09-15T22:50:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49721548",
+    "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+    "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-16T02:46:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49721322",
+    "title": "Apple Reference Image: A New Approach for Verified Photography",
+    "url": "https://security.apple.com/blog/apple-reference-image/",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-09-16T02:07:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:d7kmuj",
     "title": "txcript: Switching coding agents mid-conversation",
     "url": "https://github.com/skillsynchq/txcript",
@@ -4776,226 +4996,6 @@
     "source": "juejin",
     "score": 0.22762472,
     "published_at": "2026-09-11T01:15:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683448371320537124",
-    "title": "GPT-6 VS GPT-5.6：你该怎么选",
-    "url": "https://juejin.cn/post/7683448371320537124",
-    "source": "juejin",
-    "score": 0.17793915,
-    "published_at": "2026-09-10T00:59:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683816340574617663",
-    "title": "Shopify 从 React Native 回到 Swift/Kotlin，但是你以为有手就行？？",
-    "url": "https://juejin.cn/post/7683816340574617663",
-    "source": "juejin",
-    "score": 0.45434166,
-    "published_at": "2026-09-11T02:50:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684080599314038818",
-    "title": "鬼故事 ！DeepSeek4.1 比Opus5 GPT5.6还强！",
-    "url": "https://juejin.cn/post/7684080599314038818",
-    "source": "juejin",
-    "score": 0.67818043,
-    "published_at": "2026-09-11T12:51:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:vxcontrol/pentagi",
-    "title": "pentagi",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:max-sixty/worktrunk",
-    "title": "worktrunk",
-    "url": "https://github.com/max-sixty/worktrunk",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:multimodal-art-projection/YuE",
-    "title": "YuE",
-    "url": "https://github.com/multimodal-art-projection/YuE",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:SnailSploit/Claude-Red",
-    "title": "Claude-Red",
-    "url": "https://github.com/SnailSploit/Claude-Red",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Shubhamsaboo/awesome-llm-apps",
-    "title": "awesome-llm-apps",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:yuliskov/SmartTube",
-    "title": "SmartTube",
-    "url": "https://github.com/yuliskov/SmartTube",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Flowseal/zapret-discord-youtube",
-    "title": "zapret-discord-youtube",
-    "url": "https://github.com/Flowseal/zapret-discord-youtube",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:asgeirtj/system_prompts_leaks",
-    "title": "system_prompts_leaks",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49665502",
-    "title": "Another way to leak traffic on Android has been discovered",
-    "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
-    "source": "hackernews",
-    "score": 89.0,
-    "published_at": "2026-09-11T21:16:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49671043",
-    "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
-    "url": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-12T10:49:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49669276",
-    "title": "WeWorm: Zero-Click WeChat Worm",
-    "url": "https://calif.io/research/weworm",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-12T05:49:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49646113",
-    "title": "Detailed report on the use of solar geoengineering",
-    "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-10T16:08:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49628367",
-    "title": "Bomb Sense (2021)",
-    "url": "https://danboland.net/2021/07/15/bomb-sense.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-09T15:40:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49670493",
-    "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-12T09:08:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49595505",
-    "title": "Inverse Kinematics and Foot Locking",
-    "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-07T08:21:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49639647",
-    "title": "IKEA made a mod for Skyrim [video]",
-    "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-    "source": "hackernews",
-    "score": 168.0,
-    "published_at": "2026-09-10T07:20:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49670032",
-    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-    "url": "https://eiln.github.io/posts/ane.html",
-    "source": "hackernews",
-    "score": 102.0,
-    "published_at": "2026-09-12T07:54:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:imdwmj",
-    "title": "Pandas Should Go Extinct",
-    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-11T23:23:08.739-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241517",
-    "title": "v2ex 注册成功",
-    "url": "https://www.v2ex.com/t/1241517",
-    "source": "v2ex",
-    "score": 64.0,
-    "published_at": "2026-09-12T04:26:10+00:00",
     "summary": "",
     "key_points": []
   }
