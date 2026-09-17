@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:marwqj",
+    "title": "bonobomock: A GoogleTest-compatible C++ mocking library",
+    "url": "https://github.com/bloomberg/bonobomock/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-17T15:06:00.107-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:eyg3oe",
+    "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+    "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-17T16:21:18.024-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49744715",
+    "title": "Canto: A speech model built for the real world",
+    "url": "https://wisprflow.ai/canto",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-17T18:32:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49711931",
+    "title": "GraphViz Pocket Reference – Make a Graph",
+    "url": "https://graphs.grevian.org/graph/6322783643500544",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-15T13:03:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49671157",
+    "title": "André Weil and the Hodge Conjecture",
+    "url": "https://jiahao116.github.io/Articles/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-09-12T11:13:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49715936",
+    "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
+    "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-09-15T17:37:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49746628",
+    "title": "How Uber Protects Against Retry Storms",
+    "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-17T21:14:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49746290",
+    "title": "Flet 1.0 – Build cross-platform apps in Python",
+    "url": "https://flet.dev/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-17T20:44:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49745570",
+    "title": "Everybody's Lost Their Minds",
+    "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+    "source": "hackernews",
+    "score": 232.0,
+    "published_at": "2026-09-17T19:43:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49746654",
+    "title": "Sex, AI, and the Apocalypse",
+    "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-17T21:15:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49726007",
+    "title": "Wax motor",
+    "url": "https://en.wikipedia.org/wiki/Wax_motor",
+    "source": "hackernews",
+    "score": 151.0,
+    "published_at": "2026-09-16T12:35:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49746986",
+    "title": "I Hate You Microsoft",
+    "url": "https://henriquenunez.eu/posts/you_did_it_again_ms/",
+    "source": "hackernews",
+    "score": 100.0,
+    "published_at": "2026-09-17T21:41:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49746618",
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "url": "https://prismml.com/news/bonsai-2-27b",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-09-17T21:13:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49746163",
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+    "url": "https://bend-lang.com/",
+    "source": "hackernews",
+    "score": 164.0,
+    "published_at": "2026-09-17T20:36:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49745940",
+    "title": "Astra for Law",
+    "url": "https://openai.com/index/astra-for-law/",
+    "source": "hackernews",
+    "score": 178.0,
+    "published_at": "2026-09-17T20:17:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:eiqamo",
     "title": "jemalloc 5.4.0 release",
     "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
@@ -4846,156 +4996,6 @@
     "source": "hackernews",
     "score": 162.0,
     "published_at": "2026-09-10T04:44:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49692765",
-    "title": "Of Gods and Languages: On \"When God Spoke Greek\"",
-    "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-14T06:34:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jlmeib",
-    "title": "Purely Functional Operating Systems",
-    "url": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-13T19:03:38.791-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:e1lcnf",
-    "title": "The case against JPEG XL",
-    "url": "https://giannirosato.com/blog/post/case-against-jxl",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-13T20:18:11.130-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:f4arrs",
-    "title": "Writing a Guix service from scratch, as a beginner",
-    "url": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-13T18:24:10.765-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dhn991",
-    "title": "Anecdotally, programmers dislike \"reduce\"",
-    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-13T18:59:05.562-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241673",
-    "title": "如果抄作业就能得高分进好大学，且老师及学校都不管，那该多好呀",
-    "url": "https://www.v2ex.com/t/1241673",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-09-13T08:32:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241709",
-    "title": "家境平凡、天赋资质平庸的人生，如果愿意跳出三贷之外，其实可以活得很自由",
-    "url": "https://www.v2ex.com/t/1241709",
-    "source": "v2ex",
-    "score": 56.0,
-    "published_at": "2026-09-13T14:02:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684261460002701338",
-    "title": "被吹上天的 JWT，为什么主流网站一个都不用",
-    "url": "https://juejin.cn/post/7684261460002701338",
-    "source": "juejin",
-    "score": 0.36272763,
-    "published_at": "2026-09-12T13:17:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684573646438301706",
-    "title": "Kotlin 2026：裁员、AI、Rust——黄金时代结束了吗？Jake Wharton 为你解答",
-    "url": "https://juejin.cn/post/7684573646438301706",
-    "source": "juejin",
-    "score": 0.51951567,
-    "published_at": "2026-09-13T05:53:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684573646439317514",
-    "title": "Kafka已正式接入AI",
-    "url": "https://juejin.cn/post/7684573646439317514",
-    "source": "juejin",
-    "score": 0.82601404,
-    "published_at": "2026-09-13T10:40:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49667916",
-    "title": "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
-    "url": "https://zenodo.org/records/1430991",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-12T02:01:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645547",
-    "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
-    "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-10T15:35:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49690051",
-    "title": "The Coming War on General Computation (2011)",
-    "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-13T23:54:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49688259",
-    "title": "Mullenweg has returned as CEO after attempted board ouster",
-    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-13T20:19:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49690260",
-    "title": "Open-Source AI and Open Models Reading List",
-    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-14T00:22:51+00:00",
     "summary": "",
     "key_points": []
   }
