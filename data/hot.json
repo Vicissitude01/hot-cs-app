@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:iul1vv",
+    "title": "Trust, but benchmark: How we let an AI agent optimize Elasticsearch",
+    "url": "https://www.elastic.co/search-labs/blog/ai-code-optimization-elasticsearch-agent-harness",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-17T08:52:53.335-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fjnkn4",
+    "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+    "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-17T10:10:44.531-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yyijiq",
+    "title": "Developing provably correct Rust code with Verus",
+    "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-17T03:57:43.843-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hp1xkh",
+    "title": "On learning programming in an age of LLMs",
+    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-17T07:05:11.172-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mc3zgo",
+    "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+    "url": "https://jakeasmith.com/blog/http-build-url/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-17T08:42:17.057-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:oigetg",
+    "title": "Your Donations at Work: One Year of Sponsored Servo Development",
+    "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-09-17T05:37:58.820-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:11uiiv",
+    "title": "I expected better from Google",
+    "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+    "source": "lobsters",
+    "score": 19.0,
+    "published_at": "2026-09-17T05:01:13.998-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686054741464694826",
+    "title": "周下载量1.1亿的Tailwind，为什么养不活自己？",
+    "url": "https://juejin.cn/post/7686054741464694826",
+    "source": "juejin",
+    "score": 1.85137047,
+    "published_at": "2026-09-17T06:14:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:n8n-io/n8n",
+    "title": "n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:coder/coder",
+    "title": "coder",
+    "url": "https://github.com/coder/coder",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ever-co/ever-gauzy",
+    "title": "ever-gauzy",
+    "url": "https://github.com/ever-co/ever-gauzy",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:TencentCloud/Octop",
+    "title": "Octop",
+    "url": "https://github.com/TencentCloud/Octop",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cilium/cilium",
+    "title": "cilium",
+    "url": "https://github.com/cilium/cilium",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Tencent/BrowserSkill",
+    "title": "BrowserSkill",
+    "url": "https://github.com/Tencent/BrowserSkill",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:alibaba/open-code-review",
+    "title": "open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49738879",
+    "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+    "url": "https://news.ycombinator.com/item?id=49738879",
+    "source": "hackernews",
+    "score": 265.0,
+    "published_at": "2026-09-17T10:44:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49739018",
+    "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+    "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+    "source": "hackernews",
+    "score": 171.0,
+    "published_at": "2026-09-17T11:00:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49713347",
+    "title": "Online Z3 Guide",
+    "url": "https://microsoft.github.io/z3guide/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-09-15T14:45:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49699611",
+    "title": "Sixteen Locks Ought to Be Enough for Anybody",
+    "url": "https://thebuild.com/blog/sixteen-locks-ought-to-be-enough-for-anybody/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-14T16:30:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49738766",
+    "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+    "url": "https://manticoresearch.com/blog/auto-chunking/",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-09-17T10:30:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49740105",
+    "title": "Show HN: Share your AI Setup, Learn from others",
+    "url": "https://mysetup.ai/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-17T13:01:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49740047",
+    "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+    "url": "https://flat.social",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-09-17T12:57:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49737787",
+    "title": "CCC invites all model citizens to 40C3",
+    "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+    "source": "hackernews",
+    "score": 160.0,
+    "published_at": "2026-09-17T08:03:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49740330",
+    "title": "I had Gemini train its own replacement for $9",
+    "url": "https://www.petervijeh.com/projects/reddit-ner",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-09-17T13:17:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49740834",
+    "title": "I Don't Like LLMs",
+    "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-09-17T13:57:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49715813",
+    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "source": "hackernews",
+    "score": 155.0,
+    "published_at": "2026-09-15T17:28:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:zeeat3",
     "title": "XApp — Apps that work everywhere",
     "url": "https://xapp-project.org/",
@@ -4736,266 +4996,6 @@
     "source": "v2ex",
     "score": 46.0,
     "published_at": "2026-09-13T13:43:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684068584670134318",
-    "title": "AI 前端落地实战：SSE 流式输出、断点续传、打字机渲染",
-    "url": "https://juejin.cn/post/7684068584670134318",
-    "source": "juejin",
-    "score": 0.09773685,
-    "published_at": "2026-09-11T07:01:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49684101",
-    "title": "Key symbols we lost to time, pt. 1: The PC side",
-    "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-13T14:00:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49664413",
-    "title": "A Brief Retrospective on the Sprite Network Operating System",
-    "url": "https://github.com/OSPreservProject/sprite/blob/master/sprite.txt",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-11T19:52:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49686233",
-    "title": "Ask HN: How can I browse HN in dark mode?",
-    "url": "https://news.ycombinator.com/item?id=49686233",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-13T17:18:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49651567",
-    "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
-    "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-10T23:32:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49684879",
-    "title": "Predictive intelligence to anticipate anything.",
-    "url": "https://prior.chat/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-13T15:11:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49660196",
-    "title": "Alan's Random Insult Generator (1999)",
-    "url": "https://alanbellows.com/experiments/insult/index.html",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-11T15:34:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49686445",
-    "title": "Why is Google still serving dodgy ads?",
-    "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-13T17:37:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49685037",
-    "title": "Libraries Run Rust Inside Python (With PyO3)",
-    "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-13T15:24:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49686134",
-    "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
-    "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-13T17:08:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49686380",
-    "title": "Ask HN: What are you working on? (September 2026)",
-    "url": "https://news.ycombinator.com/item?id=49686380",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-13T17:31:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49684778",
-    "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
-    "url": "https://cpak.it/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-13T15:02:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49685991",
-    "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-    "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-09-13T16:52:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49684196",
-    "title": "Making Startups Powerful",
-    "url": "https://paulgraham.com/powerful.html",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-13T14:09:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49685253",
-    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "source": "hackernews",
-    "score": 143.0,
-    "published_at": "2026-09-13T15:44:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49683262",
-    "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-    "source": "hackernews",
-    "score": 93.0,
-    "published_at": "2026-09-13T12:30:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49684356",
-    "title": "CUDA for AMD on Windows",
-    "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-09-13T14:25:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49684393",
-    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-    "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-    "source": "hackernews",
-    "score": 212.0,
-    "published_at": "2026-09-13T14:28:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vmapye",
-    "title": "Homebrew 7.0.0",
-    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-13T07:22:47.716-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pcorme",
-    "title": "StyleX — The styling system for ambitious interfaces",
-    "url": "https://stylexjs.com/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-13T07:51:03.402-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ojls0p",
-    "title": "After Math",
-    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-13T07:59:09.092-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8fqdvr",
-    "title": "Can a regex match valid card numbers?",
-    "url": "https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-13T08:39:15.845-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:m6rdhi",
-    "title": "The Esdac Film (1951, 1976)",
-    "url": "https://www.youtube.com/watch?v=DjhRRj6WYcs",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-13T08:20:01.874-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:felv2m",
-    "title": "Stabilizing Rust's never type",
-    "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-13T09:00:18.804-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mdvpm4",
-    "title": "Being lazy in C++",
-    "url": "https://cpp-rendering.io/being-lazy-in-c/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-13T07:50:15.787-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yaax1z",
-    "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
-    "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-13T07:10:30.087-05:00",
     "summary": "",
     "key_points": []
   }
