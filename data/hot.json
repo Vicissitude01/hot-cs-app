@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:phbfog",
+    "title": "Reversing Factorio's RNG",
+    "url": "https://gegell.github.io/posts/factorio-rng/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-16T16:06:25.213-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uvrata",
+    "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-16T14:33:37.164-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49726501",
+    "title": "I replaced my brown-noise browser tab with a menu bar app",
+    "url": "https://oldmanrahul.com/2026/09/14/hush/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-16T13:11:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49700598",
+    "title": "Destroy After Reading: photocopiers,cheap paper and DIY gave metal it's look",
+    "url": "https://www.truegrittexturesupply.com/blogs/news/destroy-after-reading",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-14T17:24:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49732087",
+    "title": "Why Does the Universe Expand?",
+    "url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-16T19:56:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49731282",
+    "title": "Reverse-engineered Jev-like model",
+    "url": "https://github.com/vinnylarouge/jevlike",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-09-16T18:49:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49734171",
+    "title": "Australia says it could follow Canada in forging deeper ties with EU",
+    "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-09-16T22:56:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49734264",
+    "title": "OpenSpec – A lightweight and configurable AI spec framework",
+    "url": "https://openspec.dev/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-16T23:06:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49719596",
+    "title": "The engineering behind the US Strategic Petroleum Reserve",
+    "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-09-15T22:15:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49732513",
+    "title": "Backups Aren't Simple",
+    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-16T20:27:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49724881",
+    "title": "Nvidia announces native GPU programming in Rust",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "source": "hackernews",
+    "score": 148.0,
+    "published_at": "2026-09-16T11:15:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:7ehqzv",
     "title": "Style Guide for Online Hypertext (1992)",
     "url": "https://www.w3.org/Provider/Style/",
@@ -4886,116 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-09-12T21:19:07.736-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:m4pjtg",
-    "title": "Lua Pattern Tester",
-    "url": "https://iamreiyn.github.io/lua-pattern-tester/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-12T21:35:51.690-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:betbip",
-    "title": "a better way of blocking macOS updates",
-    "url": "https://zoey-on-github.github.io/blog/updates.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-12T20:12:07.992-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fmkm3v",
-    "title": "Everyone should slow down AI development except for me",
-    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-09-12T19:53:30.568-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jwlzd3",
-    "title": "A Dick Smith VZ200 without the Dick Smith",
-    "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-12T21:31:35.781-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241535",
-    "title": "你们 ChatGPT 重置了吗？",
-    "url": "https://www.v2ex.com/t/1241535",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-09-12T07:04:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241623",
-    "title": "SRE 岗 offer 选择",
-    "url": "https://www.v2ex.com/t/1241623",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-09-13T00:51:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241578",
-    "title": "18PM 抢到了， 10099 元",
-    "url": "https://www.v2ex.com/t/1241578",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-09-12T12:04:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241532",
-    "title": "养育孩子的牙齿，父母应该知道的事",
-    "url": "https://www.v2ex.com/t/1241532",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-09-12T06:38:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241624",
-    "title": "你们一天喝多少咖啡的？",
-    "url": "https://www.v2ex.com/t/1241624",
-    "source": "v2ex",
-    "score": 80.0,
-    "published_at": "2026-09-13T00:56:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684439645419274267",
-    "title": "App 架构演进：MVC → MVP → MVVM → MVI，一篇看懂",
-    "url": "https://juejin.cn/post/7684439645419274267",
-    "source": "juejin",
-    "score": 4.24264035,
-    "published_at": "2026-09-12T15:34:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683539970712830006",
-    "title": "用 Node.js 复刻 Codex Astra 的终端星光",
-    "url": "https://juejin.cn/post/7683539970712830006",
-    "source": "juejin",
-    "score": 0.10909295,
-    "published_at": "2026-09-10T13:37:41+00:00",
     "summary": "",
     "key_points": []
   }
