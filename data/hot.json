@@ -1,5 +1,295 @@
 [
   {
+    "id": "lobsters:jbxpqz",
+    "title": "Tilia—a new formatter for Haskell",
+    "url": "https://markkarpov.com/post/announcing-tilia.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-16T23:17:44.396-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242441",
+    "title": "我要再次发出暴论， AGI 离我们还很遥远。",
+    "url": "https://www.v2ex.com/t/1242441",
+    "source": "v2ex",
+    "score": 98.0,
+    "published_at": "2026-09-16T07:04:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242410",
+    "title": "观《卷王都是什么心态呢》，评论区恶心的嘴脸",
+    "url": "https://www.v2ex.com/t/1242410",
+    "source": "v2ex",
+    "score": 100.0,
+    "published_at": "2026-09-16T05:56:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242562",
+    "title": "想问一下， 19.99， 29.99 美元，到底在发达国家普通人消费算多吗？花费这么多，相当于用人名币买什么？真的是不了解发达国家人的消费观念。\r\n不要用汇率直接算人名币结果。",
+    "url": "https://www.v2ex.com/t/1242562",
+    "source": "v2ex",
+    "score": 104.0,
+    "published_at": "2026-09-17T00:15:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242437",
+    "title": "昨天面试了一家公司，刷新了我的认知。",
+    "url": "https://www.v2ex.com/t/1242437",
+    "source": "v2ex",
+    "score": 110.0,
+    "published_at": "2026-09-16T06:44:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242589",
+    "title": "[中转站] 24 小时可用 gptpro，满血高智商，进来领鸡蛋",
+    "url": "https://www.v2ex.com/t/1242589",
+    "source": "v2ex",
+    "score": 152.0,
+    "published_at": "2026-09-17T01:37:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242583",
+    "title": "伙伴们，平常一次理发多少钱？多久理一次？每周？",
+    "url": "https://www.v2ex.com/t/1242583",
+    "source": "v2ex",
+    "score": 192.0,
+    "published_at": "2026-09-17T01:22:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242600",
+    "title": "普通女和顶美女选哪个？",
+    "url": "https://www.v2ex.com/t/1242600",
+    "source": "v2ex",
+    "score": 312.0,
+    "published_at": "2026-09-17T02:02:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685282635450744841",
+    "title": "全网都在测鹈鹕，我用 DeepSeek-V4.1-Flash 跑了50+小时、超5000MTokens消耗的真实开发任务",
+    "url": "https://juejin.cn/post/7685282635450744841",
+    "source": "juejin",
+    "score": 0.17132123,
+    "published_at": "2026-09-14T15:03:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685987418991001600",
+    "title": "5 年级的儿子居然学会了破解。。。",
+    "url": "https://juejin.cn/post/7685987418991001600",
+    "source": "juejin",
+    "score": 0.9542717,
+    "published_at": "2026-09-16T13:31:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685604730751057983",
+    "title": "CPF-Flutter 社区提出折叠场景分栏（平行视界） 方案",
+    "url": "https://juejin.cn/post/7685604730751057983",
+    "source": "juejin",
+    "score": 0.46570864,
+    "published_at": "2026-09-16T00:56:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685651354878754825",
+    "title": "OpenSider：让浏览器驱动 Agent",
+    "url": "https://juejin.cn/post/7685651354878754825",
+    "source": "juejin",
+    "score": 0.47376842,
+    "published_at": "2026-09-15T17:32:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685591822258585626",
+    "title": "为什么越来越多人用OpenWiki？",
+    "url": "https://juejin.cn/post/7685591822258585626",
+    "source": "juejin",
+    "score": 0.27964034,
+    "published_at": "2026-09-15T09:55:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685936943796977718",
+    "title": "个人提效，攒不成组织提效：货拉拉 AI Coding 落地实践",
+    "url": "https://juejin.cn/post/7685936943796977718",
+    "source": "juejin",
+    "score": 0.64999171,
+    "published_at": "2026-09-16T08:14:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686043275371708450",
+    "title": "⚡2026 年了，十万级表格还只会「虚拟滚动」？难怪你的页面照样卡顿",
+    "url": "https://juejin.cn/post/7686043275371708450",
+    "source": "juejin",
+    "score": 3.13019495,
+    "published_at": "2026-09-17T01:23:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685215742590517299",
+    "title": "GPT-6 Astra 的提示词泄露了，里面居然藏着个保安？",
+    "url": "https://juejin.cn/post/7685215742590517299",
+    "source": "juejin",
+    "score": 0.15855624,
+    "published_at": "2026-09-14T09:16:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685215742590451763",
+    "title": "WorkBuddy + 飞书的 8 种神仙用法（建议收藏）",
+    "url": "https://juejin.cn/post/7685215742590451763",
+    "source": "juejin",
+    "score": 0.14242297,
+    "published_at": "2026-09-14T09:08:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685597597233905716",
+    "title": "Android Studio Quail 4发布，看日志我以为谷歌放弃Flutter了",
+    "url": "https://juejin.cn/post/7685597597233905716",
+    "source": "juejin",
+    "score": 0.28251976,
+    "published_at": "2026-09-15T09:59:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685276242113019938",
+    "title": "AI会让程序员失业吗？200年前的手工织工已经给出了答案",
+    "url": "https://juejin.cn/post/7685276242113019938",
+    "source": "juejin",
+    "score": 0.19778013,
+    "published_at": "2026-09-15T02:39:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49735692",
+    "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
+    "url": "https://www.vanityfair.com/news/2008/05/monsanto200805",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-17T02:19:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49735410",
+    "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+    "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-09-17T01:39:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49717525",
+    "title": "Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps",
+    "url": "https://www.danvk.org/2026/09/10/mapsnap.html",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-15T19:22:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49735367",
+    "title": "Part-human part-mouse brain developed in science breakthrough",
+    "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-17T01:33:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49733726",
+    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "url": "https://harnesstax.github.io/",
+    "source": "hackernews",
+    "score": 79.0,
+    "published_at": "2026-09-16T22:10:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49695689",
+    "title": "PCB is brought to you by Fable 5",
+    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-09-14T12:25:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49734929",
+    "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+    "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-09-17T00:28:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49721291",
+    "title": "A 32-year-old bug walks into a Telnet server",
+    "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-16T02:01:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49700153",
+    "title": "Developing provably correct Rust code with Verus",
+    "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-09-14T16:57:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49735930",
+    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+    "url": "https://ryan.science/blog/keys-not-included",
+    "source": "hackernews",
+    "score": 78.0,
+    "published_at": "2026-09-17T03:03:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:phbfog",
     "title": "Reversing Factorio's RNG",
     "url": "https://gegell.github.io/posts/factorio-rng/",
@@ -4706,296 +4996,6 @@
     "source": "hackernews",
     "score": 43.0,
     "published_at": "2026-09-13T13:24:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49638071",
-    "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-    "url": "https://bensimms.moe/reverse-engineering-scooter/",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-09-10T03:32:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49678423",
-    "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-    "url": "https://github.com/FeralFirmware/TailTalk/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-09-12T23:43:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49683033",
-    "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-    "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-13T12:01:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49683853",
-    "title": "Flock worker calls police on reporter filming public camera installation",
-    "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
-    "source": "hackernews",
-    "score": 140.0,
-    "published_at": "2026-09-13T13:35:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pbmvov",
-    "title": "The night 142 of my servers went up in the clouds Physically",
-    "url": "https://exquisite.tube/w/nQbc54t4G7YGaqiryZ7mg1",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-13T00:48:19.836-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:scyufg",
-    "title": "Opusfived",
-    "url": "https://opusfived.dev/",
-    "source": "lobsters",
-    "score": 18.0,
-    "published_at": "2026-09-12T21:07:58.272-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pr1po9",
-    "title": "heol",
-    "url": "https://wiki.xxiivv.com/site/heol.html",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-13T00:59:41.454-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pomjkm",
-    "title": "From Git to Fossil (2025)",
-    "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-13T02:51:19.345-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241642",
-    "title": "为了 Duo 这碟醋，苹果真是包了不少饺子啊……",
-    "url": "https://www.v2ex.com/t/1241642",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-09-13T04:05:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241635",
-    "title": "有没有什么工具，可以远程让 codex 干活？",
-    "url": "https://www.v2ex.com/t/1241635",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-09-13T03:21:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241595",
-    "title": "郁闷， mac 坏了，又要破费了！",
-    "url": "https://www.v2ex.com/t/1241595",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-09-12T13:58:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241660",
-    "title": "用 Astra 把家乡的竹林老屋做成一个可以游览的网页",
-    "url": "https://www.v2ex.com/t/1241660",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-09-13T06:38:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241650",
-    "title": "API 中转站能看到你全部 prompt 和回复，为什么没有一个「厂商端到端加密」的标准？",
-    "url": "https://www.v2ex.com/t/1241650",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-09-13T05:08:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241637",
-    "title": "陶哲轩等数学家反对 AI，论失败的意义",
-    "url": "https://www.v2ex.com/t/1241637",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-09-13T03:28:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683803827217350675",
-    "title": "GPT‑6 Astra真正的变化：AI开始直接操作工作软件",
-    "url": "https://juejin.cn/post/7683803827217350675",
-    "source": "juejin",
-    "score": 0.11025909,
-    "published_at": "2026-09-11T05:13:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684102772083195958",
-    "title": "5000亿估值冲刺科创板，DeepSeek 为何急着上市？",
-    "url": "https://juejin.cn/post/7684102772083195958",
-    "source": "juejin",
-    "score": 0.11529183,
-    "published_at": "2026-09-11T10:14:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683724457529294854",
-    "title": "AI 改祖传模块后，代码评审总绕不开两个问题",
-    "url": "https://juejin.cn/post/7683724457529294854",
-    "source": "juejin",
-    "score": 0.08842902,
-    "published_at": "2026-09-10T11:20:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684049880511676468",
-    "title": "为什么现在 AI 这么发达了，还要坚持手搓教程？",
-    "url": "https://juejin.cn/post/7684049880511676468",
-    "source": "juejin",
-    "score": 0.1206068,
-    "published_at": "2026-09-11T03:57:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7683820796637872154",
-    "title": "一个Docker命令，40万首古诗词API开箱即用",
-    "url": "https://juejin.cn/post/7683820796637872154",
-    "source": "juejin",
-    "score": 0.11802408,
-    "published_at": "2026-09-11T01:25:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49681545",
-    "title": "Homebrew 7.0.0",
-    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-13T08:41:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49679734",
-    "title": "A wandering black hole caught feeding on the run",
-    "url": "https://phys.org/news/2026-08-black-hole-caught.html",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-13T03:34:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49644784",
-    "title": "Operation Smart Kettle – Börzels Blog",
-    "url": "https://blog.boerzel.de/de/blog/operation-smart-kettle",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-10T14:53:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49654148",
-    "title": "Gonc – Netcat with P2P Nat Traversal",
-    "url": "https://github.com/threatexpert/gonc",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-11T06:12:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49679643",
-    "title": "Aligned to whom?",
-    "url": "https://hyperbo.la/w/aligned-to-whom/",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-09-13T03:17:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49679637",
-    "title": "After Math",
-    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-    "source": "hackernews",
-    "score": 86.0,
-    "published_at": "2026-09-13T03:16:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49678969",
-    "title": "Why are AI agents lying, cheating and coordinating?",
-    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-    "source": "hackernews",
-    "score": 228.0,
-    "published_at": "2026-09-13T01:22:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49681724",
-    "title": "Norton Neo Browser",
-    "url": "https://neobrowser.ai/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-13T09:07:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49681152",
-    "title": "JetKVM Mini",
-    "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-    "source": "hackernews",
-    "score": 114.0,
-    "published_at": "2026-09-13T07:49:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3nk1lh",
-    "title": "Metacarp",
-    "url": "https://blog.veitheller.de/Metacarp.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-12T21:19:07.736-05:00",
     "summary": "",
     "key_points": []
   }
