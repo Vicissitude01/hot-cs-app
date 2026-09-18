@@ -1,5 +1,205 @@
 [
   {
+    "id": "lobsters:9myagn",
+    "title": "The Bikeshed email — PHKs Bikeshed",
+    "url": "https://phk.freebsd.dk/sagas/bikeshed/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-18T14:46:10.224-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:anvcfz",
+    "title": "Vale, code-like linting for prose",
+    "url": "https://vale.sh",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-18T15:38:52.432-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xr7p0k",
+    "title": "Internet Phone Book",
+    "url": "https://internetphonebook.net/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-18T09:04:44.535-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49744416",
+    "title": "Show HN: Ax-check.com – Can agents use your product?",
+    "url": "https://www.ax-check.com/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-09-17T18:08:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49749724",
+    "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+    "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-09-18T02:56:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49750694",
+    "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+    "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+    "source": "hackernews",
+    "score": 219.0,
+    "published_at": "2026-09-18T06:11:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49749369",
+    "title": "Minimal Phone 2",
+    "url": "https://minimalcompany.com/",
+    "source": "hackernews",
+    "score": 117.0,
+    "published_at": "2026-09-18T02:00:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49714157",
+    "title": "A search-and-inference database from scratch in pure Zig",
+    "url": "https://antfly.io/research/antfly-zig",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-15T15:35:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49740371",
+    "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
+    "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-17T13:20:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49746626",
+    "title": "How SpaceX streamlined the Raptor engine",
+    "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+    "source": "hackernews",
+    "score": 103.0,
+    "published_at": "2026-09-17T21:14:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49755533",
+    "title": "Our brain evolved from two primitive nervous systems that merged: Study",
+    "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-09-18T15:12:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49758028",
+    "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+    "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+    "source": "hackernews",
+    "score": 123.0,
+    "published_at": "2026-09-18T18:08:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49744704",
+    "title": "The first new cat species discovered in 100 years",
+    "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-09-17T18:31:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49759466",
+    "title": "Korea raises data breach fines to 10% of revenue",
+    "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-09-18T20:02:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49760187",
+    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+    "url": "https://code.claude.com/docs/en/changelog",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-18T21:00:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49758689",
+    "title": "The Implications of Linguistic Illegibility for LLM Security",
+    "url": "https://arxiv.org/abs/2609.02852",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-18T19:00:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49758615",
+    "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+    "url": "https://arxiv.org/abs/2510.03215",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-09-18T18:55:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49758419",
+    "title": "Xcode 27.1 Beta Release Notes",
+    "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-09-18T18:39:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49758580",
+    "title": "Saving another 100TB of RAM",
+    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-09-18T18:51:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49758736",
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "source": "hackernews",
+    "score": 243.0,
+    "published_at": "2026-09-18T19:03:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gjjizm",
     "title": "Benchmarking Wild vs Mold",
     "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
@@ -4796,206 +4996,6 @@
     "source": "hackernews",
     "score": 20.0,
     "published_at": "2026-09-14T14:29:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49705442",
-    "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-    "url": "https://github.com/JamesRyanATX/fcbnerd",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-14T23:01:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49704246",
-    "title": "Charts built for Chat",
-    "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-09-14T21:22:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uqezny",
-    "title": "Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code",
-    "url": "https://kythe.io",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-14T17:30:24.913-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9ukost",
-    "title": "How I use a single .zshrc file on macOS and Windows (WSL2)",
-    "url": "https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-14T15:26:19.491-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zttri6",
-    "title": "A New Equal-Area Map for Interactive Computer Use",
-    "url": "https://www.benjoffe.com/map",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-14T17:37:17.715-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qiwlzz",
-    "title": "\"Do You Still Read the Code?\"",
-    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-14T15:16:07.338-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49701182",
-    "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-    "url": "https://pub.sakana.ai/pc-alm/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-14T18:03:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49699297",
-    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
-    "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-    "source": "hackernews",
-    "score": 173.0,
-    "published_at": "2026-09-14T16:09:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49703003",
-    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-    "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-09-14T19:56:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49670699",
-    "title": "Optimizing a Spin-Lock",
-    "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-12T09:43:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49697893",
-    "title": "Dario, Please",
-    "url": "https://pop.rdi.sh/dario-please/",
-    "source": "hackernews",
-    "score": 171.0,
-    "published_at": "2026-09-14T14:50:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49673689",
-    "title": "Compressing a Flag to 11 Bits",
-    "url": "https://read.vantezzen.io/miniflags",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-12T15:57:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49704008",
-    "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-    "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-    "source": "hackernews",
-    "score": 126.0,
-    "published_at": "2026-09-14T21:05:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:w6aktj",
-    "title": "How my e-reader lost its stripes",
-    "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-14T14:08:33.561-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ta2ojd",
-    "title": "A Letter from a Machine Learning Engineer",
-    "url": "https://nemin.hu/llm-letter/index.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-14T12:58:22.527-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ede4z0",
-    "title": "I wish you the best in the Offline",
-    "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-09-14T11:39:55.673-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ccnirb",
-    "title": "There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets",
-    "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-14T10:00:16.981-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uauns9",
-    "title": "How can you not be romantic about UNIX domain sockets?",
-    "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
-    "source": "lobsters",
-    "score": 15.0,
-    "published_at": "2026-09-14T11:27:12.300-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lbavmm",
-    "title": "What blog posts influenced your thinking the most?",
-    "url": "https://lobste.rs/s/lbavmm",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-09-14T10:27:32.545-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1ifr5f",
-    "title": "The contagion of fear",
-    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-    "source": "lobsters",
-    "score": 24.0,
-    "published_at": "2026-09-14T11:53:14.313-05:00",
     "summary": "",
     "key_points": []
   }
