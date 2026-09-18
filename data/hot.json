@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:vzql1n",
+    "title": "We Must Create the Shit Machine",
+    "url": "https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-17T19:00:28.770-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ebbixx",
+    "title": "Introducing System One Models & Jev",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-17T19:05:10.531-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242703",
+    "title": "你们都看哪家的 iPhone 测评？",
+    "url": "https://www.v2ex.com/t/1242703",
+    "source": "v2ex",
+    "score": 100.0,
+    "published_at": "2026-09-17T06:33:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242626",
+    "title": "感谢大家，一个小程序项目终于开始有点收入了",
+    "url": "https://www.v2ex.com/t/1242626",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-09-17T02:33:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686361321610035246",
+    "title": "一份 KDMS 评估报告，怎样排出迁移先后顺序",
+    "url": "https://juejin.cn/post/7686361321610035246",
+    "source": "juejin",
+    "score": 1.04478374,
+    "published_at": "2026-09-17T10:22:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49746346",
+    "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+    "url": "https://snapdrop.me",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-17T20:48:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49746407",
+    "title": "The most important product decision is what you don't build",
+    "url": "https://liamnugent.me/posts/what-you-dont-build/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-17T20:52:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49745809",
+    "title": "Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
+    "url": "https://www.air.security/blog-posts/plugin4shell",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-17T20:05:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49720854",
+    "title": "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
+    "url": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-16T00:51:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49710447",
+    "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+    "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-15T10:46:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49746117",
+    "title": "More than 100k people in Japan are now aged 100 or older",
+    "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-09-17T20:33:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:marwqj",
     "title": "bonobomock: A GoogleTest-compatible C++ mocking library",
     "url": "https://github.com/bloomberg/bonobomock/",
@@ -4886,116 +4996,6 @@
     "source": "hackernews",
     "score": 39.0,
     "published_at": "2026-09-14T03:26:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49690139",
-    "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
-    "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-14T00:07:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49691343",
-    "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-    "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-09-14T02:50:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49692118",
-    "title": "Who gets to define the rules for AI?",
-    "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-14T04:49:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49691152",
-    "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
-    "url": "https://calif.io/research/oempocalypse",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-14T02:25:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49645654",
-    "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
-    "url": "https://eterdb.com/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-10T15:41:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49655621",
-    "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
-    "url": "https://danluu.com/exercise-7/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-11T09:31:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49690678",
-    "title": "The Malicious Use of Artificial Intelligence",
-    "url": "https://arxiv.org/abs/1802.07228",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-14T01:22:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49690279",
-    "title": "Writing a better reality: The case for optimistic sci-fi (2022)",
-    "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-09-14T00:27:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49662246",
-    "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
-    "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-11T17:38:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49690174",
-    "title": "Apple's Dimensional Drawings",
-    "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-    "source": "hackernews",
-    "score": 133.0,
-    "published_at": "2026-09-14T00:11:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49638510",
-    "title": "Spaceships (Reverse Asteroid)",
-    "url": "https://spaceships.treybastian.com/",
-    "source": "hackernews",
-    "score": 162.0,
-    "published_at": "2026-09-10T04:44:32+00:00",
     "summary": "",
     "key_points": []
   }
