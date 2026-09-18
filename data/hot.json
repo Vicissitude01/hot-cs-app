@@ -1,5 +1,75 @@
 [
   {
+    "id": "juejin:7686040694948134921",
+    "title": "AI 都会写代码了，还要不要学传统编程了? （强烈建议阅读）",
+    "url": "https://juejin.cn/post/7686040694948134921",
+    "source": "juejin",
+    "score": 0.25190887,
+    "published_at": "2026-09-17T01:09:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49744036",
+    "title": "A 1542 papal cipher cracked with simulated annealing",
+    "url": "https://simonklee.dk/farnese-letter",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-17T17:39:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49735057",
+    "title": "Size-Specialized Memory Allocation",
+    "url": "https://go.dev/blog/size-specialized-allocations",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-17T00:45:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49761106",
+    "title": "The US 'Kill Chain' That Destroyed an Iranian School",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-18T22:29:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49731413",
+    "title": "Cyclomatic Complexity in C#",
+    "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-16T19:01:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49761178",
+    "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
+    "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-09-18T22:35:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49761432",
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-18T23:04:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9myagn",
     "title": "The Bikeshed email — PHKs Bikeshed",
     "url": "https://phk.freebsd.dk/sagas/bikeshed/",
@@ -4926,76 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-09-14T19:29:04.599-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241876",
-    "title": "[V8AIX] 自建中转上线，超多福利等你来领 [10 刀]",
-    "url": "https://www.v2ex.com/t/1241876",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-09-14T06:36:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241781",
-    "title": "求推荐耳夹式耳机，给 iPhone 用，性价比高些的",
-    "url": "https://www.v2ex.com/t/1241781",
-    "source": "v2ex",
-    "score": 132.0,
-    "published_at": "2026-09-14T02:16:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685040997440978990",
-    "title": "WebP 压缩到底在干嘛？小白也能看懂的原理拆解",
-    "url": "https://juejin.cn/post/7685040997440978990",
-    "source": "juejin",
-    "score": 0.52362963,
-    "published_at": "2026-09-14T03:21:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49696132",
-    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
-    "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-14T13:01:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49696453",
-    "title": "People who can't picture anything are rewriting the science of imagination",
-    "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
-    "source": "hackernews",
-    "score": 92.0,
-    "published_at": "2026-09-14T13:23:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49675817",
-    "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-    "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-12T18:51:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49697477",
-    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-14T14:29:23+00:00",
     "summary": "",
     "key_points": []
   }
