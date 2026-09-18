@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:r9wkkk",
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "url": "https://prismml.com/news/bonsai-2-27b",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-18T03:28:04.805-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:eeykfl",
+    "title": "Flet : Build cross-platform apps in Python",
+    "url": "https://flet.dev/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-18T03:42:48.307-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:htziuj",
+    "title": "Hacking OpenAI",
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-18T05:26:42.381-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ltjgvl",
+    "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
+    "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-18T04:21:24.744-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tvrnbv",
+    "title": "Not In My Git Yard: Catching Backdoors at Commit and Release Time",
+    "url": "https://arxiv.org/abs/2607.26719",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-18T03:14:44.937-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xysdy9",
+    "title": "Bend",
+    "url": "https://bend-lang.com/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-18T03:15:30.255-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:e1xglz",
+    "title": "What are you doing this weekend?",
+    "url": "https://lobste.rs/s/e1xglz",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-18T03:15:23.174-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lcjf7c",
+    "title": "What is still exciting in tech?",
+    "url": "https://lobste.rs/s/lcjf7c",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-09-18T03:14:52.256-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242854",
+    "title": "Claude 封号问题，想使用 claude 不被封，这是我近半年 100+账号跌跌撞撞的一些心得",
+    "url": "https://www.v2ex.com/t/1242854",
+    "source": "v2ex",
+    "score": 110.0,
+    "published_at": "2026-09-18T01:29:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242849",
+    "title": "肝了！真的做了一个 PS，再也不用 photoshop 了",
+    "url": "https://www.v2ex.com/t/1242849",
+    "source": "v2ex",
+    "score": 132.0,
+    "published_at": "2026-09-18T01:14:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242862",
+    "title": "亲戚欠钱不还，要不要起诉",
+    "url": "https://www.v2ex.com/t/1242862",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-09-18T01:49:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242880",
+    "title": "写了一个 大明 1566 的模拟器，模拟一个小官面对浙江的局面如何生存和破局",
+    "url": "https://www.v2ex.com/t/1242880",
+    "source": "v2ex",
+    "score": 158.0,
+    "published_at": "2026-09-18T02:19:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1242973",
+    "title": "有用 zcode 的，马上关闭 ！它打包上传了你整个代码库！",
+    "url": "https://www.v2ex.com/t/1242973",
+    "source": "v2ex",
+    "score": 208.0,
+    "published_at": "2026-09-18T06:36:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685770509586284550",
+    "title": "摸鱼神器：一边写代码，一边刷剧，从此没有一点摸鱼时间会被浪费！",
+    "url": "https://juejin.cn/post/7685770509586284550",
+    "source": "juejin",
+    "score": 0.16602624,
+    "published_at": "2026-09-16T04:04:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7685944661652602914",
+    "title": "别再堆 AGENTS.md 了：前端团队的 Agent 上下文分层落地指南",
+    "url": "https://juejin.cn/post/7685944661652602914",
+    "source": "juejin",
+    "score": 0.24432532,
+    "published_at": "2026-09-16T09:29:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686407614478237748",
+    "title": "用了一个月 WorkBuddy，聊聊我的真实感受",
+    "url": "https://juejin.cn/post/7686407614478237748",
+    "source": "juejin",
+    "score": 4.15682665,
+    "published_at": "2026-09-18T03:37:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:asciimoo/hister",
+    "title": "hister",
+    "url": "https://github.com/asciimoo/hister",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ahmedkhaleel2004/gitdiagram",
+    "title": "gitdiagram",
+    "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:rustfs/rustfs",
+    "title": "rustfs",
+    "url": "https://github.com/rustfs/rustfs",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:tradesdontlie/tradingview-mcp",
+    "title": "tradingview-mcp",
+    "url": "https://github.com/tradesdontlie/tradingview-mcp",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:supermemoryai/supermemory",
+    "title": "supermemory",
+    "url": "https://github.com/supermemoryai/supermemory",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Fission-AI/OpenSpec",
+    "title": "OpenSpec",
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49713088",
+    "title": "Dr Julius Neubronner's Miniature Pigeon Camera",
+    "url": "https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-15T14:27:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49726614",
+    "title": "When the fractional part of a float fixes your shader",
+    "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-09-16T13:20:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49727245",
+    "title": "Replacing Pull Requests with Delta",
+    "url": "https://zed.dev/blog/delta-public-beta",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-16T14:05:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49752056",
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "source": "hackernews",
+    "score": 89.0,
+    "published_at": "2026-09-18T09:45:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49752041",
+    "title": "OpenJev",
+    "url": "https://openjev.com/",
+    "source": "hackernews",
+    "score": 93.0,
+    "published_at": "2026-09-18T09:42:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:3qdik0",
     "title": "Telstra outage: The night a network decided the year was 2006",
     "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
@@ -4726,276 +4996,6 @@
     "source": "v2ex",
     "score": 208.0,
     "published_at": "2026-09-14T03:20:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685224902321848358",
-    "title": "只备份一个 schema，别把整库都搬走",
-    "url": "https://juejin.cn/post/7685224902321848358",
-    "source": "juejin",
-    "score": 2.48431144,
-    "published_at": "2026-09-14T09:48:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684759404726321203",
-    "title": "从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了",
-    "url": "https://juejin.cn/post/7684759404726321203",
-    "source": "juejin",
-    "score": 0.87216403,
-    "published_at": "2026-09-14T00:32:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684690252645515298",
-    "title": "程序员都开始懂业务了，产品经理还剩下什么价值？",
-    "url": "https://juejin.cn/post/7684690252645515298",
-    "source": "juejin",
-    "score": 0.9329842,
-    "published_at": "2026-09-14T02:30:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684657593512263722",
-    "title": "ADB Wi-Fi 2.0 ，Android 17 把无线调试的连接链路重新做了一遍",
-    "url": "https://juejin.cn/post/7684657593512263722",
-    "source": "juejin",
-    "score": 1.03547511,
-    "published_at": "2026-09-14T00:54:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684943124759068682",
-    "title": "Android性能优化：启动、内存、卡顿的一站式排查手册",
-    "url": "https://juejin.cn/post/7684943124759068682",
-    "source": "juejin",
-    "score": 1.64757586,
-    "published_at": "2026-09-14T03:11:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685188623412133898",
-    "title": "DeepSeek 官方仓库惊现 DeepSeek Harness 桌面端！",
-    "url": "https://juejin.cn/post/7685188623412133898",
-    "source": "juejin",
-    "score": 4.99745739,
-    "published_at": "2026-09-14T08:06:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:peetzweg/opendisplay",
-    "title": "opendisplay",
-    "url": "https://github.com/peetzweg/opendisplay",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:reconurge/flowsint",
-    "title": "flowsint",
-    "url": "https://github.com/reconurge/flowsint",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Crosstalk-Solutions/project-nomad",
-    "title": "project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:OpenBMB/VoxCPM",
-    "title": "VoxCPM",
-    "url": "https://github.com/OpenBMB/VoxCPM",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ruvnet/RuView",
-    "title": "RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:TauricResearch/TradingAgents",
-    "title": "TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:dani-garcia/vaultwarden",
-    "title": "vaultwarden",
-    "url": "https://github.com/dani-garcia/vaultwarden",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:localsend/localsend",
-    "title": "localsend",
-    "url": "https://github.com/localsend/localsend",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:rlaope/oh-my-hermes",
-    "title": "oh-my-hermes",
-    "url": "https://github.com/rlaope/oh-my-hermes",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Panniantong/Agent-Reach",
-    "title": "Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:666ghj/MiroFish",
-    "title": "MiroFish",
-    "url": "https://github.com/666ghj/MiroFish",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:JustVugg/colibri",
-    "title": "colibri",
-    "url": "https://github.com/JustVugg/colibri",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49694404",
-    "title": "Show HN: ChaosTree – A zero-dependency Java tree library (AVL,RBT,B-Tree,B+Tree)",
-    "url": "https://github.com/Chaos-vy/ChaosTree",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-14T10:03:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49693226",
-    "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
-    "url": "https://screensize.net/reports/viewport-stats",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-14T07:35:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49696335",
-    "title": "Temporal raises $550M at a $12.55B valuation",
-    "url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-14T13:16:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49694596",
-    "title": "Big AI sets out its terms for regulatory capture",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-14T10:28:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49695876",
-    "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
-    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-09-14T12:40:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49651735",
-    "title": "A Vacuum Diode for Make: Magazine",
-    "url": "https://www.nickpoole.me/2023/12/10/a-vacuum-diode-for-make-magazine/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-09-10T23:56:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49695459",
-    "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
-    "url": "https://xcancel.com/twitter",
-    "source": "hackernews",
-    "score": 171.0,
-    "published_at": "2026-09-14T12:05:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49696313",
-    "title": "Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge",
-    "url": "https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-09-14T13:15:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49659557",
-    "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-11T14:55:41+00:00",
     "summary": "",
     "key_points": []
   }
