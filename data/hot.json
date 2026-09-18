@@ -1,5 +1,175 @@
 [
   {
+    "id": "lobsters:7d3zs8",
+    "title": "A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill",
+    "url": "https://seclists.org/oss-sec/2026/q3/822",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-18T02:57:04.274-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:riugyt",
+    "title": "Release v0.29.0 · warp-tech/warpgate",
+    "url": "https://github.com/warp-tech/warpgate/releases/tag/v0.29.0",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-18T09:21:53.861-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4a7qly",
+    "title": "I don't like passkeys",
+    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-18T07:52:18.949-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:j4oyxa",
+    "title": "Typst makes big strides",
+    "url": "https://lwn.net/Articles/1092993/",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-09-18T08:14:17.568-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49751222",
+    "title": "New wild cat species discovered – with only one known living member",
+    "url": "https://www.bbc.com/news/articles/c6x2zgv9rr4ro",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-18T07:32:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49689337",
+    "title": "Show HN: Navier-Stokes Visualized as 1kB i386 demos",
+    "url": "https://juandecos.github.io/TurboZip/vortex.html",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-09-13T22:22:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49754687",
+    "title": "Second Circuit Allows Government to Search Electronic Devices at the Border",
+    "url": "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-18T14:11:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49754064",
+    "title": "NATS publishes preliminary report on technical incident of 8 September",
+    "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-18T13:24:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49753131",
+    "title": "Cekura (YC F24) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-18T12:00:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49752422",
+    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+    "source": "hackernews",
+    "score": 214.0,
+    "published_at": "2026-09-18T10:35:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49752614",
+    "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+    "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+    "source": "hackernews",
+    "score": 151.0,
+    "published_at": "2026-09-18T11:01:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49715408",
+    "title": "Subnormal floating-point numbers are expensive on Intel processors",
+    "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-09-15T16:58:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49721507",
+    "title": "The Shadows Lurking in the Equations – Underwater Islands",
+    "url": "https://gods.art/articles/equation_shadows",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-16T02:37:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49753211",
+    "title": "I don't like passkeys",
+    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "source": "hackernews",
+    "score": 302.0,
+    "published_at": "2026-09-18T12:06:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49753179",
+    "title": "Bend 2 and the Vibe-Coding Trap",
+    "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+    "source": "hackernews",
+    "score": 249.0,
+    "published_at": "2026-09-18T12:03:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49755024",
+    "title": "I Vibed a Proof of Conway's Conjecture",
+    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-18T14:36:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49753878",
+    "title": "An Empirical Study of Harness Design for Coding Agents",
+    "url": "https://arxiv.org/abs/2609.20804",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-09-18T13:06:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:r9wkkk",
     "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
     "url": "https://prismml.com/news/bonsai-2-27b",
@@ -4826,176 +4996,6 @@
     "source": "hackernews",
     "score": 162.0,
     "published_at": "2026-09-14T17:50:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49700255",
-    "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-    "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-14T17:02:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49699489",
-    "title": "How my e-reader lost its stripes",
-    "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-09-14T16:23:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49698699",
-    "title": "A Beginning for Mathematics",
-    "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-09-14T15:33:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49698607",
-    "title": "Principles for Fast Tokio Applications",
-    "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-09-14T15:27:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49700661",
-    "title": "Steam Frame starts at $1059",
-    "url": "https://store.steampowered.com/hardware/steamframe",
-    "source": "hackernews",
-    "score": 188.0,
-    "published_at": "2026-09-14T17:27:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49699648",
-    "title": "Why don't machine learning research agents overfit?",
-    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-09-14T16:32:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49699158",
-    "title": "Distributed Systems Classics (2017)",
-    "url": "https://nvartolomei.com/dist-sys-classics/",
-    "source": "hackernews",
-    "score": 121.0,
-    "published_at": "2026-09-14T16:02:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49700477",
-    "title": "Pion, an agent designed to run any company autonomously",
-    "url": "https://andonlabs.com/blog/why-we-built-pion",
-    "source": "hackernews",
-    "score": 115.0,
-    "published_at": "2026-09-14T17:16:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gud12o",
-    "title": "Why Am I Still Programming",
-    "url": "https://www.youtube.com/watch?v=pOAj3mor8y8",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-14T08:28:42.300-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:y2n9bq",
-    "title": "Sticking Functions Where They Donʼt Belong",
-    "url": "https://blog.veritates.love/functions-as-data",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-14T06:46:10.456-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:da7fcv",
-    "title": "Finished aerial maps in under 30 minutes",
-    "url": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-14T08:37:36.714-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:agbpkq",
-    "title": "We are all Product Engineers now",
-    "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-14T05:52:45.255-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0inlyw",
-    "title": "What are you doing this week?",
-    "url": "https://lobste.rs/s/0inlyw",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-14T02:47:47.767-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gslcz7",
-    "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
-    "url": "https://codeberg.org/mergiraf/mergiraf",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-14T06:16:14.338-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241770",
-    "title": "18PM 首发已入，有没有推荐的壳和膜",
-    "url": "https://www.v2ex.com/t/1241770",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-09-14T01:59:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241755",
-    "title": "预测一下， 2027 年的今天，程序员在职数量会减少 80%",
-    "url": "https://www.v2ex.com/t/1241755",
-    "source": "v2ex",
-    "score": 150.0,
-    "published_at": "2026-09-14T01:22:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241810",
-    "title": "纯电还是混动",
-    "url": "https://www.v2ex.com/t/1241810",
-    "source": "v2ex",
-    "score": 208.0,
-    "published_at": "2026-09-14T03:20:59+00:00",
     "summary": "",
     "key_points": []
   }
