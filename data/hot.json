@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:rpc7qb",
+    "title": "Thread-identity switcheroo for io_uring",
+    "url": "https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-19T13:42:48.947-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:k5shc5",
+    "title": "Persistent Databases in the Browser with DuckDB-Wasm and OPFS",
+    "url": "https://duckdb.org/2026/09/18/opfs-wasm",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-19T13:46:39.713-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yfz406",
+    "title": "Secure VMs for Kubernetes: Hardening Kata containers",
+    "url": "https://srcreigh.ca/posts/auditable-kata/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-19T12:11:45.363-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49745049",
+    "title": "Adventures in Microcontroller Circuit Debugging",
+    "url": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-17T19:00:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49767937",
+    "title": "Almost Never Use AI to Write Anything Substantive",
+    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-09-19T16:35:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49767564",
+    "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+    "url": "https://github.com/trycua/cua",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-19T15:52:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49768220",
+    "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+    "url": "https://supabase.link/orioledbjob",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-19T17:01:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49735010",
+    "title": "Suzanne Ciani's Buchla Cookbook",
+    "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-17T00:39:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49768833",
+    "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+    "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-19T18:11:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ojukrw",
     "title": "Laya — 33ms Multilingual System 1 Decision Engine",
     "url": "https://laya.convaiinnovations.com/",
@@ -4906,96 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-09-15T15:03:12.094-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hv3l4v",
-    "title": "Subnormal floating-point numbers are expensive… on Intel processors",
-    "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-15T13:41:00.572-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3wmby2",
-    "title": "Postgres development activity",
-    "url": "https://vondra.me/posts/postgres-development-activity/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-15T07:26:49.288-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:acwuxy",
-    "title": "How much of F-Droid is LLM generated?",
-    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-15T12:09:13.731-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jsvadf",
-    "title": "From Intern to Software Architect",
-    "url": "https://chauhankiran.blogspot.com/2026/09/levels.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-15T13:38:43.643-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685276242113052706",
-    "title": "阿里又开源了一个神级 Skill 项目！",
-    "url": "https://juejin.cn/post/7685276242113052706",
-    "source": "juejin",
-    "score": 0.84646157,
-    "published_at": "2026-09-15T02:45:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49689685",
-    "title": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
-    "url": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-13T23:07:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49691696",
-    "title": "The Two MMLU Scores: What a Benchmark Name Does Not Fix",
-    "url": "https://zatona.dev/blog/the-two-mmlu-scores",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-14T03:41:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49718025",
-    "title": "How much oil-market buffer is left?",
-    "url": "https://www.depletion.org",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-15T19:56:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49677648",
-    "title": "Giving up on smart rings",
-    "url": "https://notesbylex.com/giving-up-on-smart-rings",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-09-12T22:00:20+00:00",
     "summary": "",
     "key_points": []
   }
