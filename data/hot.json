@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:ywnsld",
+    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+    "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-19T03:44:38.517-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9njxl2",
+    "title": "sudo and OpenDoas timestamp files (2020)",
+    "url": "https://π.duncano.de/sudo-doas-timestamp-files",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-18T14:36:19.605-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ukzxid",
+    "title": "Write while learning",
+    "url": "https://purplesyringa.moe/blog/write-while-learning/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-19T01:56:24.938-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:c0ei1a",
+    "title": "OpenLoco version 26.09",
+    "url": "https://openloco.io/news/2026/09/openloco-v26.09.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-18T23:22:19.845-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:iq6w6l",
+    "title": "The scourge of x86 emulation",
+    "url": "https://fex-emu.com/Scourge-of-emulation/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-09-19T00:01:05.094-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243032",
+    "title": "Zcode 飞书群官方回应来了",
+    "url": "https://www.v2ex.com/t/1243032",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-09-18T09:44:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243125",
+    "title": "2026 年到底还有哪个模型能正常说人话的？不需要能力多强",
+    "url": "https://www.v2ex.com/t/1243125",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-09-19T02:55:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243121",
+    "title": "（源头）包稳不智降企业级的 gpt6 倍率低至 0.24， codex pro 0.2，国模 0.19， Grok Heavy0.19，更有低价高缓存的官 k 首字 1S 缓存 95%。一对一服务，一键自助免点开票。注册回复皆送体验额度。",
+    "url": "https://www.v2ex.com/t/1243121",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-09-19T02:34:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243026",
+    "title": "电信十全十美 99 套餐改单宽带 480 包年安全换车",
+    "url": "https://www.v2ex.com/t/1243026",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-09-18T09:10:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243104",
+    "title": "看图，好像确实是这样子",
+    "url": "https://www.v2ex.com/t/1243104",
+    "source": "v2ex",
+    "score": 58.0,
+    "published_at": "2026-09-19T01:17:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243140",
+    "title": "结婚一年半，准备离婚了",
+    "url": "https://www.v2ex.com/t/1243140",
+    "source": "v2ex",
+    "score": 90.0,
+    "published_at": "2026-09-19T05:50:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686534839903535144",
+    "title": "ZCode 把整个 Git 仓库加密上传到了阿里云 OSS：一次客户端逆向的完整复盘",
+    "url": "https://juejin.cn/post/7686534839903535144",
+    "source": "juejin",
+    "score": 0.54272864,
+    "published_at": "2026-09-18T08:56:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686753873659953198",
+    "title": "ZCode：快来领“免费”3亿tokens和“Git打包服务”",
+    "url": "https://juejin.cn/post/7686753873659953198",
+    "source": "juejin",
+    "score": 0.95750734,
+    "published_at": "2026-09-18T15:22:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686669083098775562",
+    "title": "发布 3 天登顶 HN：不生成一个字的模型 Jev，我把它的源码和黑料都扒了一遍",
+    "url": "https://juejin.cn/post/7686669083098775562",
+    "source": "juejin",
+    "score": 0.69478771,
+    "published_at": "2026-09-18T07:32:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49763660",
+    "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+    "url": "https://artificialanalysis.ai/models/step-5",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-19T05:42:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49740606",
+    "title": "Suppress vulnerabilities applying Kubernetes context to scans",
+    "url": "https://github.com/alegrey91/vex8s",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-17T13:39:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49728602",
+    "title": "Veronese's Dogs",
+    "url": "https://publicdomainreview.org/essay/veroneses-dogs",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-16T15:32:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49735541",
+    "title": "Ctenophores: Wonders of Biology",
+    "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-17T01:58:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49763379",
+    "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+    "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-19T04:44:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49763883",
+    "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+    "url": "https://browser.geekbench.com/v7/cpu/389219",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-19T06:19:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49730069",
+    "title": "You can run Git on object storage if you re-make packfiles",
+    "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-09-16T17:16:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49733647",
+    "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+    "url": "https://github.com/awlevin/typesafe-computer-use",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-09-16T22:01:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49763296",
+    "title": "San Francisco Onion Futures Company",
+    "url": "https://onionfutures.com/",
+    "source": "hackernews",
+    "score": 173.0,
+    "published_at": "2026-09-19T04:23:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49763987",
+    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+    "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-09-19T06:41:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49763928",
+    "title": "If math is more than proof, we need to better celebrate the rest of it",
+    "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-19T06:28:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49763697",
+    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "source": "hackernews",
+    "score": 174.0,
+    "published_at": "2026-09-19T05:48:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:mkv2pl",
     "title": "Unit tests mark territory more than squash bugs",
     "url": "https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html",
@@ -4736,266 +4996,6 @@
     "source": "v2ex",
     "score": 164.0,
     "published_at": "2026-09-15T02:17:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1241977",
-    "title": "弱电箱（鞋柜）如何散热？",
-    "url": "https://www.v2ex.com/t/1241977",
-    "source": "v2ex",
-    "score": 166.0,
-    "published_at": "2026-09-14T14:37:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242069",
-    "title": "大家都喝什么酒，交出你们的必喝酒单！",
-    "url": "https://www.v2ex.com/t/1242069",
-    "source": "v2ex",
-    "score": 176.0,
-    "published_at": "2026-09-15T02:39:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242184",
-    "title": "天崩开局 2026",
-    "url": "https://www.v2ex.com/t/1242184",
-    "source": "v2ex",
-    "score": 198.0,
-    "published_at": "2026-09-15T08:08:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684795356343336998",
-    "title": "最近火爆出圈的，FDE 到底是个什么岗位？",
-    "url": "https://juejin.cn/post/7684795356343336998",
-    "source": "juejin",
-    "score": 0.31490507,
-    "published_at": "2026-09-14T00:36:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685320540698361899",
-    "title": "黄仁勋台上接特朗普电话开免提，全场听到一句话：AI 不会减速",
-    "url": "https://juejin.cn/post/7685320540698361899",
-    "source": "juejin",
-    "score": 4.24531847,
-    "published_at": "2026-09-15T05:21:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684649314159312930",
-    "title": "ValidX时间段验证详解：ISO 8601标准与简化格式",
-    "url": "https://juejin.cn/post/7684649314159312930",
-    "source": "juejin",
-    "score": 1.46916681,
-    "published_at": "2026-09-14T01:24:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:earendil-works/pi",
-    "title": "pi",
-    "url": "https://github.com/earendil-works/pi",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:addyosmani/agent-skills",
-    "title": "agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:MG1937/ASC",
-    "title": "ASC",
-    "url": "https://github.com/MG1937/ASC",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:pacifio/atlas",
-    "title": "atlas",
-    "url": "https://github.com/pacifio/atlas",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:danny-avila/LibreChat",
-    "title": "LibreChat",
-    "url": "https://github.com/danny-avila/LibreChat",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:NationalSecurityAgency/ghidra",
-    "title": "ghidra",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Homebrew/BrewUI",
-    "title": "BrewUI",
-    "url": "https://github.com/Homebrew/BrewUI",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49707473",
-    "title": "US confirms for first time it has deployed space weapons",
-    "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
-    "source": "hackernews",
-    "score": 91.0,
-    "published_at": "2026-09-15T03:47:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49711240",
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-15T12:01:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49695519",
-    "title": "There are only twelve 4x4 sudokus (and a cool trick for finding minimal subsets)",
-    "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-14T12:10:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49695331",
-    "title": "High-performance garbage collection for C++",
-    "url": "https://v8.dev/blog/high-performance-cpp-gc",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-09-14T11:55:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49708774",
-    "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
-    "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-15T07:00:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49710883",
-    "title": "25 Years of Mass Surveillance Is Enough",
-    "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-09-15T11:26:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49697549",
-    "title": "A rough guide for going back to the Moon",
-    "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-14T14:33:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49709129",
-    "title": "The k-server conjecture is true",
-    "url": "https://arxiv.org/abs/2609.15979",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-09-15T07:45:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49708993",
-    "title": "CSS-Tricks in Limbo",
-    "url": "https://vale.rocks/micros/20260915-0135",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-09-15T07:27:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49709381",
-    "title": "Alternatives to MinIO for single-node local S3",
-    "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-09-15T08:21:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49710253",
-    "title": "Suspected sabotage causes major Netherlands rail disruption",
-    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-    "source": "hackernews",
-    "score": 200.0,
-    "published_at": "2026-09-15T10:22:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49708431",
-    "title": "I can't stop thinking about Papua New Guinea",
-    "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-    "source": "hackernews",
-    "score": 390.0,
-    "published_at": "2026-09-15T06:16:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:klbjuj",
-    "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
-    "url": "https://maggieappleton.com/planning-agents",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-15T01:17:27.132-05:00",
     "summary": "",
     "key_points": []
   }
