@@ -1,5 +1,105 @@
 [
   {
+    "id": "lobsters:uzbhh8",
+    "title": "Most Normal C++ Project: Coding a B2 Stealth Bomber in GTA 3",
+    "url": "https://www.youtube.com/watch?v=OQM42Ee0fn8",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-19T16:27:01.062-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:re9wk8",
+    "title": "we have a year to fix security everywhere",
+    "url": "https://jyn.dev/a-year-to-fix-security/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-19T14:27:46.429-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49768921",
+    "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-09-19T18:21:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49754194",
+    "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
+    "url": "https://ufoseries.com/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-18T13:35:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49743934",
+    "title": "Compiler-style optimization for drawing via Skia",
+    "url": "https://arxiv.org/abs/2603.23696",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-17T17:30:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49731996",
+    "title": "Deodands put a price on objects that caused death",
+    "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-16T19:51:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49769405",
+    "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+    "url": "https://eprint.iacr.org/2026/2039",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-19T19:23:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49766966",
+    "title": "Brood War Bench",
+    "url": "https://bw.swerdlow.dev/report",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-09-19T14:44:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49769676",
+    "title": "Measure internet censorship. Contribute to the largest open dataset",
+    "url": "https://ooni.org/install",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-19T20:00:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49769694",
+    "title": "I captured 72 hours of idle Android packets behind pfSense",
+    "url": "https://www.praveentechworld.com/research/degoogle-telemetry-2026",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-19T20:03:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:rpc7qb",
     "title": "Thread-identity switcheroo for io_uring",
     "url": "https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/",
@@ -4896,106 +4996,6 @@
     "source": "lobsters",
     "score": 5.0,
     "published_at": "2026-09-15T13:24:41.929-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:f65fy3",
-    "title": "Small Programming Tricks",
-    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-15T15:50:57.381-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49697242",
-    "title": "XLS: Accelerated HW Synthesis",
-    "url": "https://google.github.io/xls/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-14T14:14:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49713894",
-    "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-    "url": "https://github.com/pizza-bot-app/pizza-bot",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-15T15:20:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49706708",
-    "title": "Vibe Coding is the new Internet Dating?",
-    "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-15T01:45:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49679949",
-    "title": "Data races and the limits of ThreadSanitizer in C and Go",
-    "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-13T04:09:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49717280",
-    "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-    "url": "https://mnoukhov.github.io/posts/ngu/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-15T19:07:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49715927",
-    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-09-15T17:37:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49718928",
-    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-    "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-09-15T21:07:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ptegb0",
-    "title": "Swift 6.4 Released",
-    "url": "https://www.swift.org/blog/swift-6.4-released/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-15T13:55:10.632-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qx8dxe",
-    "title": "1Password's AI patching benchmark is misleading",
-    "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-15T15:03:12.094-05:00",
     "summary": "",
     "key_points": []
   }
