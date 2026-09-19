@@ -1,5 +1,285 @@
 [
   {
+    "id": "lobsters:q75kgo",
+    "title": "What happens to TLDs when their country stops existing? (2022)",
+    "url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-19T06:53:28.060-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bkjmjg",
+    "title": "The Implications of Linguistic Illegibility for LLM Security",
+    "url": "https://arxiv.org/abs/2609.02852",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-19T00:34:15.085-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7knhjd",
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-19T04:52:30.528-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hmkk2c",
+    "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+    "url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-19T07:38:11.952-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sn8voe",
+    "title": "“The Secret Life of Circuits” is here",
+    "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-19T07:12:18.763-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:upvrzs",
+    "title": "LispBM: Concurrent Lisp for Microcontrollers",
+    "url": "https://www.lispbm.com/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-19T06:36:56.503-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:3xfxnj",
+    "title": "Don’t Let Architecture Astronauts Scare You (2001)",
+    "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-19T07:08:52.631-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243111",
+    "title": "有没有什么养成类游戏，可以刷 ，然后变现的，比如卖号，或者卖装备的这些操作；",
+    "url": "https://www.v2ex.com/t/1243111",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-09-19T02:03:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243074",
+    "title": "问一下，有没有合成语音的 api？英式英语",
+    "url": "https://www.v2ex.com/t/1243074",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-09-18T13:48:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243138",
+    "title": "现在 reddit 太难养号了",
+    "url": "https://www.v2ex.com/t/1243138",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-09-19T05:44:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243154",
+    "title": "有什么比较好的方案让 AI 实现 24 小时自动化开发？",
+    "url": "https://www.v2ex.com/t/1243154",
+    "source": "v2ex",
+    "score": 72.0,
+    "published_at": "2026-09-19T07:17:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686043275371282466",
+    "title": "网页端, 40mb离线模型, 自动抠图, 不用 Python，不用服务器，不用 API Key, 不用显卡",
+    "url": "https://juejin.cn/post/7686043275371282466",
+    "source": "juejin",
+    "score": 0.10482195,
+    "published_at": "2026-09-17T00:38:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:yynxxxxx/Codex-X",
+    "title": "Codex-X",
+    "url": "https://github.com/yynxxxxx/Codex-X",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cactus-compute/needle",
+    "title": "needle",
+    "url": "https://github.com/cactus-compute/needle",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ZuodaoTech/everyone-can-use-english",
+    "title": "everyone-can-use-english",
+    "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ruanyf/weekly",
+    "title": "weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cloudflare/quiche",
+    "title": "quiche",
+    "url": "https://github.com/cloudflare/quiche",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:docling-project/docling",
+    "title": "docling",
+    "url": "https://github.com/docling-project/docling",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:higgsfield-ai/higgsfield",
+    "title": "higgsfield",
+    "url": "https://github.com/higgsfield-ai/higgsfield",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Open-Dev-Society/OpenStock",
+    "title": "OpenStock",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:addyosmani/agent-skills",
+    "title": "agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:trycua/cua",
+    "title": "cua",
+    "url": "https://github.com/trycua/cua",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49743490",
+    "title": "From Stonemasons to Carpenters",
+    "url": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-17T16:55:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49736823",
+    "title": "Communication by means of modulated Johnson noise",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-17T05:41:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49744174",
+    "title": "Show HN: I wrote a custom assembler for CHIP-8 in C++",
+    "url": "https://github.com/Tackx/c8-ass",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-17T17:47:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49720143",
+    "title": "“The Secret Life of Circuits” is here",
+    "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+    "source": "hackernews",
+    "score": 104.0,
+    "published_at": "2026-09-15T23:15:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49765348",
+    "title": "Laya the open source version of Jev",
+    "url": "https://laya.convaiinnovations.com/",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-09-19T10:46:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49764791",
+    "title": "AI-generated posters don’t have to be horrible",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "source": "hackernews",
+    "score": 366.0,
+    "published_at": "2026-09-19T09:20:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ywnsld",
     "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
     "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
@@ -4716,286 +4996,6 @@
     "source": "hackernews",
     "score": 255.0,
     "published_at": "2026-09-15T13:13:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49710015",
-    "title": "How much of F-Droid is LLM generated?",
-    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-    "source": "hackernews",
-    "score": 86.0,
-    "published_at": "2026-09-15T09:47:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49713261",
-    "title": "What we have learned at OpenShell applying formal methods to control AI agents",
-    "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-15T14:40:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49714547",
-    "title": "America's Driver's License Breach Is a National Security Disaster",
-    "url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-15T15:58:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49689770",
-    "title": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug",
-    "url": "https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-13T23:19:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49704132",
-    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-    "url": "https://www.effort.news/irregular",
-    "source": "hackernews",
-    "score": 127.0,
-    "published_at": "2026-09-14T21:15:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49697496",
-    "title": "Most people prefer traditional architecture",
-    "url": "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
-    "source": "hackernews",
-    "score": 122.0,
-    "published_at": "2026-09-14T14:30:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49712621",
-    "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-    "url": "https://github.com/greentfrapp/panel",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-15T13:58:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49680428",
-    "title": "Sony's First Computer – The SMC-70 from 1982 [video]",
-    "url": "https://www.youtube.com/watch?v=cT2-7KkPkBc",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-09-13T05:47:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49713024",
-    "title": "The Inference Hardware Revolution of 2026",
-    "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-15T14:24:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49715590",
-    "title": "GEFS on OpenBSD: A Early Preview",
-    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-15T17:12:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49710109",
-    "title": "Let's make quality the norm again",
-    "url": "https://www.forbrukerradet.no/short-life/",
-    "source": "hackernews",
-    "score": 140.0,
-    "published_at": "2026-09-15T10:00:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49694382",
-    "title": "Archiving pirate radio station Kool FM",
-    "url": "https://londonist.com/london/music/kool-fm-archives",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-09-14T10:01:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49713337",
-    "title": "Closing the IPv6 first-packet gap with GRAND",
-    "url": "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-15T14:44:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49715463",
-    "title": "Leaving Linux",
-    "url": "https://jackevans.bearblog.dev/leaving-linux/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-15T17:02:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49713999",
-    "title": "Cartesian – AI 3D Modeling for Design",
-    "url": "https://www.formas.ai/cartesian",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-09-15T15:26:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49715446",
-    "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
-    "url": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-15T17:00:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49713262",
-    "title": "The CSS Zen Garden dream, finally shipped",
-    "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-15T14:40:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49715113",
-    "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-    "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-    "source": "hackernews",
-    "score": 103.0,
-    "published_at": "2026-09-15T16:38:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49712102",
-    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-    "url": "https://bkovac.github.io/modem-thing/",
-    "source": "hackernews",
-    "score": 115.0,
-    "published_at": "2026-09-15T13:20:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49712278",
-    "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-    "url": "https://withcapsule.app/",
-    "source": "hackernews",
-    "score": 164.0,
-    "published_at": "2026-09-15T13:31:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49711544",
-    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "url": "https://github.com/arnegiacomo/fugleramme",
-    "source": "hackernews",
-    "score": 733.0,
-    "published_at": "2026-09-15T12:31:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ixjmzm",
-    "title": "Simpler time map plots (2017)",
-    "url": "https://lepisma.xyz/2017/06/25/simple-time-maps/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-15T05:31:20.918-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cw8fep",
-    "title": "Search over Algebraic Graphs",
-    "url": "https://anekstein.com/posts/2026-08-22.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-15T07:04:42.177-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:m1zfy8",
-    "title": "The terminal should not own the work",
-    "url": "https://lezli01.is-a.dev/vincent/docs/why/the-terminal-should-not-own-the-work.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-15T03:55:35.287-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lgcmoo",
-    "title": "CSS-Tricks in Limbo",
-    "url": "https://vale.rocks/micros/20260915-0135",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-15T04:12:31.945-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pgzlof",
-    "title": "Stalling installing",
-    "url": "https://adactio.com/journal/22757",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-15T02:31:11.986-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zbcua4",
-    "title": "Coreutils - rejected feature requests",
-    "url": "https://www.gnu.org/software/coreutils/rejected_requests.html",
-    "source": "lobsters",
-    "score": 19.0,
-    "published_at": "2026-09-15T04:06:36.640-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242058",
-    "title": "[赠送 赠送 赠送！] aicoding.inc 全员福利：额度 $10/余额 $2",
-    "url": "https://www.v2ex.com/t/1242058",
-    "source": "v2ex",
-    "score": 164.0,
-    "published_at": "2026-09-15T02:17:46+00:00",
     "summary": "",
     "key_points": []
   }
