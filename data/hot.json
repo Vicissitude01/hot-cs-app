@@ -1,5 +1,205 @@
 [
   {
+    "id": "lobsters:ojukrw",
+    "title": "Laya — 33ms Multilingual System 1 Decision Engine",
+    "url": "https://laya.convaiinnovations.com/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-19T11:31:05.897-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1auq61",
+    "title": "Faster JSON parsing with SVE2 on ARM processors",
+    "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-19T10:10:09.421-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:eplmed",
+    "title": "Consistent Hashing Proofs",
+    "url": "https://ch.terabyteoff.com/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-19T09:24:51.480-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:blmlco",
+    "title": "AI Is an Elite Crime Spree",
+    "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-19T10:44:52.572-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xfeuet",
+    "title": "Reviving the language that brought us the Jak & Daxter Series",
+    "url": "https://opengoal.dev/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-19T09:28:49.182-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kaqsr5",
+    "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+    "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-19T08:41:57.630-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243108",
+    "title": "watch 充电器是不是随便用就可以了",
+    "url": "https://www.v2ex.com/t/1243108",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-09-19T01:39:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243139",
+    "title": "来了， M1Max 升级 macOS27",
+    "url": "https://www.v2ex.com/t/1243139",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-09-19T05:50:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243155",
+    "title": "鉴于发现冰箱里有一个放了三个月的黄瓜，所以 vibe 了一个家用 WMS",
+    "url": "https://www.v2ex.com/t/1243155",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-09-19T07:24:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686452260913053715",
+    "title": " 2026年，前端框架开始为 AI 而生了",
+    "url": "https://juejin.cn/post/7686452260913053715",
+    "source": "juejin",
+    "score": 0.23641359,
+    "published_at": "2026-09-18T01:22:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49738518",
+    "title": "Ray Ozzie and the Optimism of Being Early",
+    "url": "https://reproof.app/blog/lotus-notes-history",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-17T09:57:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49766821",
+    "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+    "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-09-19T14:23:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49742697",
+    "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
+    "url": "https://www.nature.com/articles/d41586-026-02621-2",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-17T15:58:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49766637",
+    "title": "What Zig felt like, coming from Rust",
+    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "source": "hackernews",
+    "score": 97.0,
+    "published_at": "2026-09-19T13:55:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49749789",
+    "title": "I built the fastest PHP webserver in the world",
+    "url": "https://qbixserver.com",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-18T03:08:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49766976",
+    "title": "Agreement between the USA and Denmark (1951,2004) [pdf]",
+    "url": "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-19T14:45:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49734467",
+    "title": "Asking Authors About Their Own Papers",
+    "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-09-16T23:31:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49756121",
+    "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+    "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-18T15:47:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49766611",
+    "title": "Tin: full-text search for Postgres",
+    "url": "https://planetscale.com/blog/introducing-tin",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-09-19T13:52:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49766676",
+    "title": "A graphical desktop for the ZX Spectrum",
+    "url": "https://github.com/mindbox77/zxdesk",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-09-19T14:01:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:q75kgo",
     "title": "What happens to TLDs when their country stops existing? (2022)",
     "url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
@@ -4796,206 +4996,6 @@
     "source": "hackernews",
     "score": 69.0,
     "published_at": "2026-09-12T22:00:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49717638",
-    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-    "url": "https://codyho.dev/blog/gpu-driver/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-15T19:30:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49716953",
-    "title": "Chopping up books when they're physically too big",
-    "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-15T18:45:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49717605",
-    "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-    "url": "https://github.com/GraafHenk/numberwang",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-15T19:27:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49718822",
-    "title": "Jean-Pierre Serre is 100 years old today",
-    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-15T20:57:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49716476",
-    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-    "source": "hackernews",
-    "score": 143.0,
-    "published_at": "2026-09-15T18:11:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49715947",
-    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "source": "hackernews",
-    "score": 167.0,
-    "published_at": "2026-09-15T17:38:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49716176",
-    "title": "An Update on Wayback Machine Access",
-    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-    "source": "hackernews",
-    "score": 232.0,
-    "published_at": "2026-09-15T17:52:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49717558",
-    "title": "Introducing System One Models and Jev",
-    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "source": "hackernews",
-    "score": 310.0,
-    "published_at": "2026-09-15T19:25:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:udwhz2",
-    "title": "Performance Improvements in .NET 11",
-    "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-15T12:03:47.369-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:buzdkb",
-    "title": "GEFS on OpenBSD: A very early preview",
-    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-15T12:21:47.861-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4nhhax",
-    "title": "Trying to Make a Loop Auto-Vectorize",
-    "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-15T12:29:43.351-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ccy1nr",
-    "title": "How I Wrote a Forth (Without Knowing How)",
-    "url": "https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-15T07:51:55.822-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pwofca",
-    "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
-    "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-15T06:22:06.884-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:klussk",
-    "title": "Converting a $20 4G wireless hotspot into a texting device",
-    "url": "https://bkovac.github.io/modem-thing/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-15T08:43:30.592-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242083",
-    "title": "Deepseek V4.1 Flash 真实体验",
-    "url": "https://www.v2ex.com/t/1242083",
-    "source": "v2ex",
-    "score": 136.0,
-    "published_at": "2026-09-15T03:04:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:alphaXiv/OpenResearch",
-    "title": "OpenResearch",
-    "url": "https://github.com/alphaXiv/OpenResearch",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:melgarafael/DeskcommCRM",
-    "title": "DeskcommCRM",
-    "url": "https://github.com/melgarafael/DeskcommCRM",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49713130",
-    "title": "GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt",
-    "url": "https://arxiv.org/abs/2602.06258",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-15T14:31:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49712276",
-    "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
-    "url": "https://github.com/ordewell/ordewell",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-15T13:31:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49712041",
-    "title": "Java 27",
-    "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
-    "source": "hackernews",
-    "score": 255.0,
-    "published_at": "2026-09-15T13:13:43+00:00",
     "summary": "",
     "key_points": []
   }
