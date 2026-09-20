@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:1xxu7n",
+    "title": "Bot-free self-hosted analytics with GoatCounter on NixOS",
+    "url": "https://vincent.bernat.ch/en/blog/2026-goatcounter",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-20T17:51:03.251-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qupohm",
+    "title": "Deterministic Core, Non-Deterministic Shell",
+    "url": "https://outdata.net/blog/260803",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-20T16:13:51.416-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49780022",
+    "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+    "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-20T20:59:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49776523",
+    "title": "Show HN: A competition for small neural networks that play strategy games",
+    "url": "https://tinybrains.dev",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-20T14:59:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49780630",
+    "title": "Bill to Ban Private Equity from Owning Medical Practices",
+    "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-09-20T22:13:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49780820",
+    "title": "What Happened to the Snowden Archive",
+    "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-20T22:35:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49768336",
+    "title": "The Effect of CRTs on Pixel Art",
+    "url": "https://datagubbe.se/crt/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-19T17:14:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49780064",
+    "title": "Nobody pays for FOSS, we can force them to",
+    "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-09-20T21:04:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49780797",
+    "title": "Google's Open Agentic Orchestrator",
+    "url": "https://agentexecutor.io",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-20T22:32:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:lmmuu3",
     "title": "Adversarial examples for fast hash functions",
     "url": "https://thomasahle.com/blog/adversarial-examples-for-hashes/",
@@ -4906,96 +4996,6 @@
     "source": "hackernews",
     "score": 13.0,
     "published_at": "2026-09-16T13:11:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49700598",
-    "title": "Destroy After Reading: photocopiers,cheap paper and DIY gave metal it's look",
-    "url": "https://www.truegrittexturesupply.com/blogs/news/destroy-after-reading",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-14T17:24:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49732087",
-    "title": "Why Does the Universe Expand?",
-    "url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-16T19:56:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49731282",
-    "title": "Reverse-engineered Jev-like model",
-    "url": "https://github.com/vinnylarouge/jevlike",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-09-16T18:49:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49734171",
-    "title": "Australia says it could follow Canada in forging deeper ties with EU",
-    "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
-    "source": "hackernews",
-    "score": 68.0,
-    "published_at": "2026-09-16T22:56:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49734264",
-    "title": "OpenSpec – A lightweight and configurable AI spec framework",
-    "url": "https://openspec.dev/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-16T23:06:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49719596",
-    "title": "The engineering behind the US Strategic Petroleum Reserve",
-    "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-09-15T22:15:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49732513",
-    "title": "Backups Aren't Simple",
-    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-16T20:27:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49724881",
-    "title": "Nvidia announces native GPU programming in Rust",
-    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-    "source": "hackernews",
-    "score": 148.0,
-    "published_at": "2026-09-16T11:15:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7ehqzv",
-    "title": "Style Guide for Online Hypertext (1992)",
-    "url": "https://www.w3.org/Provider/Style/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-16T14:26:10.998-05:00",
     "summary": "",
     "key_points": []
   }
