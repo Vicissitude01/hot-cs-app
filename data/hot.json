@@ -1,5 +1,255 @@
 [
   {
+    "id": "lobsters:hbipbf",
+    "title": "Vim's UserGettingBored autocmd",
+    "url": "https://evanhahn.com/usergettingbored-vim/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-20T12:18:49.856-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ilqm2u",
+    "title": "What's been going on in w64devkit the past year",
+    "url": "https://nullprogram.com/blog/2026/09/20/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-20T10:31:09.124-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xrnbcn",
+    "title": "An actively maintained and updated Motif fork actually exists",
+    "url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-20T12:13:41.124-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:o6vyfj",
+    "title": "Lambda MicroEgg",
+    "url": "https://www.philipzucker.com/lambda_miller_egg/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-20T11:04:18.544-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:brptxb",
+    "title": "Software sandboxing: The basics (2025)",
+    "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-20T09:13:11.598-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243294",
+    "title": "18 Pro 的充电头太难买了，大伙有推荐的吗",
+    "url": "https://www.v2ex.com/t/1243294",
+    "source": "v2ex",
+    "score": 110.0,
+    "published_at": "2026-09-20T02:31:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687331138987196425",
+    "title": "本地图库语义搜索实战：接上蓝耘元生代，让\"傍晚的海边\"能搜到图",
+    "url": "https://juejin.cn/post/7687331138987196425",
+    "source": "juejin",
+    "score": 1.68232841,
+    "published_at": "2026-09-20T09:06:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687439830713237513",
+    "title": "只恢复一张表，别把整个库都还回去",
+    "url": "https://juejin.cn/post/7687439830713237513",
+    "source": "juejin",
+    "score": 1.61323716,
+    "published_at": "2026-09-20T09:02:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/claude-code",
+    "title": "claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:affaan-m/ECC",
+    "title": "ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49775802",
+    "title": "Mathematical Billiards (2024)",
+    "url": "https://structures.uni-heidelberg.de/blog/posts/2024_01_costa/index.php",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-20T13:42:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49742642",
+    "title": "Go-based Robotics Framework built around NATS.io",
+    "url": "https://github.com/emergingrobotics/gorai",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-17T15:54:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49776826",
+    "title": "One-Electron Universe",
+    "url": "https://en.wikipedia.org/wiki/One-electron_universe",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-09-20T15:28:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49776960",
+    "title": "Custom home server built from spare parts",
+    "url": "https://asmat.ca/blog/i-went-bananas/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-20T15:43:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49766671",
+    "title": "So I have a weatherman, which also tells me the news",
+    "url": "https://dexteroot.net/posts/2026/07/so-i-have-a-weatherman-which-also-tells-me-the-news-part-1/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-19T14:01:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49755378",
+    "title": "A custom virtual machine for the Stars 4X game",
+    "url": "https://nullprogram.com/blog/2026/09/17/",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-09-18T15:01:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49776717",
+    "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
+    "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-09-20T15:18:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49776130",
+    "title": "The senior engineer death spiral",
+    "url": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral/",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-09-20T14:16:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49768347",
+    "title": "Key symbols we lost to time, pt. 2: The Mac side",
+    "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-09-19T17:16:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49777106",
+    "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+    "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-09-20T15:58:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49777111",
+    "title": "Prompts Aren't Real",
+    "url": "https://evaluation.club",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-20T15:59:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49777539",
+    "title": "Show HN: Radius – A Meetup.com Alternative",
+    "url": "https://radius.to/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-20T16:51:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49776729",
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "source": "hackernews",
+    "score": 79.0,
+    "published_at": "2026-09-20T15:18:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49776627",
+    "title": "Sherline Tools Is Going Out of Business",
+    "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-09-20T15:09:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49776699",
+    "title": "Pirate Face Rescues LLM Models from Deletion",
+    "url": "https://pirateface.co/",
+    "source": "hackernews",
+    "score": 163.0,
+    "published_at": "2026-09-20T15:16:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ppfyza",
     "title": "How Notion handles concurrent editing with CRDTs",
     "url": "https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts",
@@ -4746,256 +4996,6 @@
     "source": "hackernews",
     "score": 39.0,
     "published_at": "2026-09-16T19:19:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49731054",
-    "title": "Vectorized and performance-portable Quicksort (2022)",
-    "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-    "source": "hackernews",
-    "score": 153.0,
-    "published_at": "2026-09-16T18:31:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49711424",
-    "title": "Performance Improvements in .NET 11",
-    "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-09-15T12:18:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49731360",
-    "title": "Accurate Models of AMD Matrix Cores",
-    "url": "https://arxiv.org/abs/2609.14845",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-09-16T18:56:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49674451",
-    "title": "Reversing Factorio's RNG",
-    "url": "https://gegell.github.io/posts/factorio-rng/",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-09-12T17:02:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49732931",
-    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-    "url": "https://arxiv.org/abs/2609.16338",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-16T20:59:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49732036",
-    "title": "macOS 27 Golden Gate – Review",
-    "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-09-16T19:53:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49732270",
-    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-    "url": "https://mimo.xiaomi.com/rl/",
-    "source": "hackernews",
-    "score": 104.0,
-    "published_at": "2026-09-16T20:09:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49731285",
-    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-    "url": "https://rohanbansal.com/qorl",
-    "source": "hackernews",
-    "score": 220.0,
-    "published_at": "2026-09-16T18:50:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ssg1jp",
-    "title": "The early days of UNIX in the UK",
-    "url": "https://www.coulouris.net/cs_history/em_story/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-16T11:46:02.132-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:aml2pc",
-    "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
-    "url": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-16T12:18:03.472-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qphopj",
-    "title": "type declaration syntax",
-    "url": "https://citrons.xyz/journal/2026-09-09",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-16T11:05:40.510-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vkdmdy",
-    "title": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years",
-    "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-16T12:22:01.110-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lvld5b",
-    "title": "How to get a DOI for your blog posts",
-    "url": "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-16T10:59:17.598-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:c5xrht",
-    "title": "Replacing Pull Requests with Delta",
-    "url": "https://zed.dev/blog/delta-public-beta",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-16T11:27:39.966-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ihw0hq",
-    "title": "The end of verygoodsoftwarenotvirus.ru",
-    "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-16T11:58:43.181-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cianny",
-    "title": "Why i'm still bearish on LLMs after Navier-Stokes",
-    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-16T10:04:45.848-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49725800",
-    "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-    "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-    "source": "hackernews",
-    "score": 127.0,
-    "published_at": "2026-09-16T12:19:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49710201",
-    "title": "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling",
-    "url": "https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-15T10:14:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49727592",
-    "title": "Anatomy of a Texture",
-    "url": "https://agentlien.github.io/texture/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-16T14:28:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49698036",
-    "title": "Anecdotally, Programmers Dislike \"Reduce\"",
-    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-14T14:58:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49728733",
-    "title": "Can we stop with the uptime percentages?",
-    "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-09-16T15:40:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49730239",
-    "title": "ER visits for gambling disorders doubled after expanded online gambling market",
-    "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-16T17:27:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49717298",
-    "title": "The Siberian Ice Maiden and the Scythian World",
-    "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-15T19:09:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49729412",
-    "title": "Claude Cowork and chat are now one Claude",
-    "url": "https://claude.com/blog/cowork-is-now-claude",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-09-16T16:26:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49710903",
-    "title": "Tell the speakers that you liked their talks",
-    "url": "https://ohhelloana.blog/tell-the-speakers/",
-    "source": "hackernews",
-    "score": 150.0,
-    "published_at": "2026-09-15T11:28:19+00:00",
     "summary": "",
     "key_points": []
   }
