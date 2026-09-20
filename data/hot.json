@@ -1,5 +1,315 @@
 [
   {
+    "id": "lobsters:pdulza",
+    "title": "Grit your teeth and ship it",
+    "url": "https://www.seangoedecke.com/grit-your-teeth-and-ship-it/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-19T21:12:23.013-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rf5wuc",
+    "title": "Spain Orders Blocks On Archive.today And Its Mirrors",
+    "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-20T04:05:22.702-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zakub6",
+    "title": "The last mile of a long road: faster NumPy in the browser",
+    "url": "https://notebook.link/blog/the-last-mile-faster-numpy",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-20T04:07:28.722-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6hcogx",
+    "title": "More dirty coding tricks from game developers (2015)",
+    "url": "https://web.archive.org/web/20210605053151/http://www.gamasutra.com/view/news/249475/More_dirty_coding_tricks_from_game_developers.php#tophead",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-20T01:22:23.332-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qpbblx",
+    "title": "HEIF Heist",
+    "url": "https://heif-heist.com",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-20T00:56:25.944-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:poeqrk",
+    "title": "You Know GDPR Is Good Based on Who Hates It",
+    "url": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-20T00:46:48.216-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243337",
+    "title": "2026 自家红心猕猴桃上市了😋， 中秋送礼佳品🧺，送 V 友福利回帖抽奖🥝！抽奖🥝！抽奖🥝！团 10 送 1️⃣团 10 送 1️⃣",
+    "url": "https://www.v2ex.com/t/1243337",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-09-20T04:16:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243247",
+    "title": "收到 giffgaff 退款了，抓紧退款吧",
+    "url": "https://www.v2ex.com/t/1243247",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-09-20T01:18:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243276",
+    "title": "忽然有一天，我离开了东京",
+    "url": "https://www.v2ex.com/t/1243276",
+    "source": "v2ex",
+    "score": 146.0,
+    "published_at": "2026-09-20T01:59:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243283",
+    "title": "[HyperAPI 中转站]限时福利，评论留 ID，就送$10 体验额度",
+    "url": "https://www.v2ex.com/t/1243283",
+    "source": "v2ex",
+    "score": 190.0,
+    "published_at": "2026-09-20T02:05:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243341",
+    "title": "2026 年买电车还买特斯拉吗？",
+    "url": "https://www.v2ex.com/t/1243341",
+    "source": "v2ex",
+    "score": 202.0,
+    "published_at": "2026-09-20T04:56:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686688669902716978",
+    "title": "完蛋了，豆包变这么强？Seed2.1pro小测一下！",
+    "url": "https://juejin.cn/post/7686688669902716978",
+    "source": "juejin",
+    "score": 0.15438562,
+    "published_at": "2026-09-18T09:27:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686699536866181156",
+    "title": "对标 MinIO！全新一代分布式文件系统正式发布",
+    "url": "https://juejin.cn/post/7686699536866181156",
+    "source": "juejin",
+    "score": 0.2031368,
+    "published_at": "2026-09-18T11:05:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686693462478127145",
+    "title": "Three.js 与 Cesium 融合实战问题汇总",
+    "url": "https://juejin.cn/post/7686693462478127145",
+    "source": "juejin",
+    "score": 0.15781794,
+    "published_at": "2026-09-18T07:14:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686396501736357951",
+    "title": "为什么 AI 写代码时，总喜欢“防御性编程”？",
+    "url": "https://juejin.cn/post/7686396501736357951",
+    "source": "juejin",
+    "score": 0.13311826,
+    "published_at": "2026-09-18T01:03:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686769981477814313",
+    "title": "React 19.3 发布，但真正的赢家是 StyleX：当 AI 成为框架的“第一用户”",
+    "url": "https://juejin.cn/post/7686769981477814313",
+    "source": "juejin",
+    "score": 1.47246876,
+    "published_at": "2026-09-20T01:19:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686407614478893108",
+    "title": "WorkBuddy 最值得落地的 10 个技能，效率直接翻倍",
+    "url": "https://juejin.cn/post/7686407614478893108",
+    "source": "juejin",
+    "score": 0.14968603,
+    "published_at": "2026-09-18T06:39:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686462220679594034",
+    "title": "把 Agent 框架拆开：PI 开发生产级 Harness",
+    "url": "https://juejin.cn/post/7686462220679594034",
+    "source": "juejin",
+    "score": 0.18143458,
+    "published_at": "2026-09-18T04:15:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687208012304302131",
+    "title": "ZCode 19号更新来了，偷偷上传问题“已修复”？！",
+    "url": "https://juejin.cn/post/7687208012304302131",
+    "source": "juejin",
+    "score": 3.73225726,
+    "published_at": "2026-09-20T05:31:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687422041256689691",
+    "title": "走进 AI Agent 第四篇：知识获取管道——RAG 基础",
+    "url": "https://juejin.cn/post/7687422041256689691",
+    "source": "juejin",
+    "score": 14.16607793,
+    "published_at": "2026-09-20T06:52:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49759853",
+    "title": "When the FM Band Goes Transatlantic",
+    "url": "https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-18T20:30:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49773439",
+    "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+    "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-20T07:38:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49756548",
+    "title": "Why isn't mutable a subtype of immutable, or vice versa?",
+    "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-18T16:15:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49764631",
+    "title": "Chess Atlas",
+    "url": "https://chess-timeline.vercel.app/gallery.html",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-19T08:48:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49757929",
+    "title": "Seeing Circles, Sines, and Signals",
+    "url": "https://jackschaedler.github.io/circles-sines-signals/index.html",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-18T17:59:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49756319",
+    "title": "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-18T15:59:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49772662",
+    "title": "Telling a Computer to Do Things",
+    "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-20T05:11:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49772806",
+    "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+    "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-20T05:46:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49772961",
+    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+    "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-09-20T06:16:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49772532",
+    "title": "Step 5 Preview: Advancing the Pareto Frontier",
+    "url": "https://www.stepfun.com/step-5-preview",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-09-20T04:35:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49772677",
+    "title": "UTF-8000: Unlimited UTF-8",
+    "url": "https://utf-8000.jb2170.com",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-09-20T05:15:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:cummnx",
     "title": "Union vs sum types",
     "url": "https://viralinstruction.com/posts/uniontypes/",
@@ -4686,316 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:jamiepine/voicebox",
-    "title": "voicebox",
-    "url": "https://github.com/jamiepine/voicebox",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:abue-ammar/tinycast",
-    "title": "tinycast",
-    "url": "https://github.com/abue-ammar/tinycast",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cloudflare/security-audit-skill",
-    "title": "security-audit-skill",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49696995",
-    "title": "We do modern frequentist statistics: Using fake-data simulation",
-    "url": "https://statmodeling.stat.columbia.edu/2026/09/14/this-is-modern-frequentist-statistics-using-fake-data-simulation-to-understand/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-09-14T13:58:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49712185",
-    "title": "How Big Are Factorials?",
-    "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-15T13:25:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49723873",
-    "title": "Learning Programming in an Age of LLMs",
-    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-    "source": "hackernews",
-    "score": 136.0,
-    "published_at": "2026-09-16T09:12:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49726343",
-    "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-    "url": "https://stale.jock.pl/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-16T13:01:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49726955",
-    "title": "DeepMind Paper: Dream-RSI: Recursive Self-Improvement Through Evolving Worlds",
-    "url": "https://arxiv.org/abs/2609.14858",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-16T13:44:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49689062",
-    "title": "Douglas Adams and the exterminated Doctor Who adventure",
-    "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-13T21:49:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49725356",
-    "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-    "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-    "source": "hackernews",
-    "score": 95.0,
-    "published_at": "2026-09-16T11:49:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49725541",
-    "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
-    "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-16T12:01:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49726350",
-    "title": "Scaling Golang CI by Replacing actions/setup-go",
-    "url": "https://www.cloudx.ai/posts/setup-go",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-16T13:02:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49726586",
-    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
-    "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-09-16T13:18:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49727041",
-    "title": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
-    "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-16T13:51:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49726329",
-    "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-    "url": "https://github.com/officefloor/ImpactGate",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-16T13:01:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49723408",
-    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "url": "https://mistral.ai/news/mistral-x-mozilla/",
-    "source": "hackernews",
-    "score": 242.0,
-    "published_at": "2026-09-16T08:08:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49724488",
-    "title": "Salesforce Global Outage",
-    "url": "https://status.salesforce.com/products/all",
-    "source": "hackernews",
-    "score": 143.0,
-    "published_at": "2026-09-16T10:37:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49724927",
-    "title": "The Google Play app review process now regularly takes longer than a week",
-    "url": "https://gultsch.social/@daniel/117280438824908947",
-    "source": "hackernews",
-    "score": 168.0,
-    "published_at": "2026-09-16T11:19:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mmrtig",
-    "title": "Apple Reference Image: A New Approach for Verified Photography",
-    "url": "https://security.apple.com/blog/apple-reference-image/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-15T23:19:42.787-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rwzf83",
-    "title": "Agent State in the Tmux Status Line",
-    "url": "https://thecloudlet.github.io/technical/til/tmux-agent-status-indicator/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-16T02:09:43.830-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:glywa4",
-    "title": "Maintaining the love for coding in the time of AI",
-    "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-16T01:31:52.450-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ynjgbz",
-    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-09-15T22:39:05.470-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wxnibb",
-    "title": "A/I Shuts Down",
-    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-    "source": "lobsters",
-    "score": 29.0,
-    "published_at": "2026-09-16T01:05:38.170-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242299",
-    "title": "即日起 iCloud+用户可免费享受 TV 和 Arcade",
-    "url": "https://www.v2ex.com/t/1242299",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-09-16T01:07:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242300",
-    "title": "大家对骚扰电话有什么好的屏蔽办法",
-    "url": "https://www.v2ex.com/t/1242300",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-09-16T01:10:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242204",
-    "title": "幽门螺旋杆菌治疗中，真难熬...",
-    "url": "https://www.v2ex.com/t/1242204",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-09-15T09:26:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242357",
-    "title": "卷王都是什么心态呢",
-    "url": "https://www.v2ex.com/t/1242357",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-09-16T03:03:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242350",
-    "title": "夫妻之间的一点小事儿 请教方法",
-    "url": "https://www.v2ex.com/t/1242350",
-    "source": "v2ex",
-    "score": 156.0,
-    "published_at": "2026-09-16T02:42:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684460980934164495",
-    "title": "“这需求用 AI 也就十分钟吧？”——周五深夜十一点，我在工位给 Cursor 擦屁股",
-    "url": "https://juejin.cn/post/7684460980934164495",
-    "source": "juejin",
-    "score": 0.17082697,
-    "published_at": "2026-09-13T12:42:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7684565470046339107",
-    "title": "真实调研2500名程序员：工资差一倍，AI拉开分水岭",
-    "url": "https://juejin.cn/post/7684565470046339107",
-    "source": "juejin",
-    "score": 0.15115889,
-    "published_at": "2026-09-14T03:26:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685770509585629190",
-    "title": "ChatGPT 开启无限 token",
-    "url": "https://juejin.cn/post/7685770509585629190",
-    "source": "juejin",
-    "score": 3.75374625,
-    "published_at": "2026-09-16T02:52:36+00:00",
     "summary": "",
     "key_points": []
   }
