@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:cvqxkk",
+    "title": "ZK-JPEG: Zero-knowledge Image Editing and Compression",
+    "url": "https://eprint.iacr.org/2026/2039",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-19T18:38:01.956-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:96omjg",
+    "title": "Thoughts on the Future of Web Browsers",
+    "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-19T17:27:02.722-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:adploh",
+    "title": "CleanShot’s bulldozed settings",
+    "url": "https://unsung.aresluna.org/cleanshots-bulldozed-settings/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-19T16:25:34.131-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243198",
+    "title": "刚刚发了封措辞严厉的邮件给 ZCode/智谱，要求退款",
+    "url": "https://www.v2ex.com/t/1243198",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-09-19T12:24:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49769944",
+    "title": "English: A vs. An",
+    "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+    "source": "hackernews",
+    "score": 98.0,
+    "published_at": "2026-09-19T20:41:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49767242",
+    "title": "The Lamentable Later Life of Lemmings",
+    "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-19T15:17:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49770256",
+    "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+    "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-19T21:25:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49770362",
+    "title": "Mayday Mysteries",
+    "url": "http://www.maydaymystery.org/mayday/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-19T21:43:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49770293",
+    "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+    "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-09-19T21:30:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:uzbhh8",
     "title": "Most Normal C++ Project: Coding a B2 Stealth Bomber in GTA 3",
     "url": "https://www.youtube.com/watch?v=OQM42Ee0fn8",
@@ -4906,96 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-09-13T14:09:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49680916",
-    "title": "Sierra digital cameras on the Apple II",
-    "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-13T07:11:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49693971",
-    "title": "Show HN: I made a flight simulator, except you're just a passenger",
-    "url": "https://inflightsimulator.com",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-14T09:08:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49720164",
-    "title": "Saving Jet Fuel",
-    "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-09-15T23:17:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49721435",
-    "title": "Stay discoverable in search while disallowing AI training",
-    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-16T02:25:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49719938",
-    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-    "source": "hackernews",
-    "score": 67.0,
-    "published_at": "2026-09-15T22:50:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49721548",
-    "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-    "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-16T02:46:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49721322",
-    "title": "Apple Reference Image: A New Approach for Verified Photography",
-    "url": "https://security.apple.com/blog/apple-reference-image/",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-09-16T02:07:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:d7kmuj",
-    "title": "txcript: Switching coding agents mid-conversation",
-    "url": "https://github.com/skillsynchq/txcript",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-15T17:12:07.344-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6gro0u",
-    "title": "PlayBook: A Programmable Paper Notebook",
-    "url": "https://www.youtube.com/watch?v=GurWDZ8ENpA",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-15T13:24:41.929-05:00",
     "summary": "",
     "key_points": []
   }
