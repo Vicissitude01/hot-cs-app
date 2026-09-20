@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:lmmuu3",
+    "title": "Adversarial examples for fast hash functions",
+    "url": "https://thomasahle.com/blog/adversarial-examples-for-hashes/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-20T14:14:36.383-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vpvdlw",
+    "title": "Scott Jenson: Are we really going to use the same Desktop UX forever?",
+    "url": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-20T15:34:34.067-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4zhnfn",
+    "title": "Unix Year 2038 problem and the art of underestimating",
+    "url": "https://www.buzzsprout.com/2469780/episodes/19824439",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-20T12:40:19.352-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jbnmj9",
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-20T12:43:10.204-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49779432",
+    "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
+    "url": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-20T19:55:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49777841",
+    "title": "US Revokes Limits on Power Plants' Climate Pollution",
+    "url": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
+    "source": "hackernews",
+    "score": 115.0,
+    "published_at": "2026-09-20T17:19:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49778022",
+    "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
+    "url": "https://github.com/adonis-singh/re4",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-09-20T17:38:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49777913",
+    "title": "Trying the Software Factory Pattern",
+    "url": "https://lethain.com/software-factory-experiment/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-20T17:27:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49777467",
+    "title": "I am often wrong",
+    "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-09-20T16:41:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49778670",
+    "title": "Software Sandboxing: The Basics",
+    "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-20T18:42:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49778162",
+    "title": "I turned Jev into a (lousy) chatbot",
+    "url": "https://github.com/kyle-pena-nlp/jevchat/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-09-20T17:51:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49779253",
+    "title": "The Hierarchy of Money",
+    "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-20T19:37:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49771218",
+    "title": "Apple iPhone 18 Pro Camera test",
+    "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-09-20T00:00:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49778195",
+    "title": "A Necessary History of the Oddest Letter: W",
+    "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-09-20T17:55:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49778029",
+    "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+    "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+    "source": "hackernews",
+    "score": 172.0,
+    "published_at": "2026-09-20T17:38:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:hbipbf",
     "title": "Vim's UserGettingBored autocmd",
     "url": "https://evanhahn.com/usergettingbored-vim/",
@@ -4846,156 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-09-16T14:26:10.998-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wo4fuj",
-    "title": "Gothub lists",
-    "url": "https://gothub.org/lists.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-16T11:55:24.658-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:q35pnm",
-    "title": "Why building a Rust LSP is hard",
-    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-16T11:17:16.785-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sh6yeo",
-    "title": "Unicode 18.0.0",
-    "url": "https://www.unicode.org/versions/Unicode18.0.0/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-16T12:38:31.926-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gs10ad",
-    "title": "Introducing GNOME 51",
-    "url": "https://release.gnome.org/51/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-16T13:05:43.967-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242432",
-    "title": "发现 6 astra 无限能源了",
-    "url": "https://www.v2ex.com/t/1242432",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-09-16T06:40:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49710420",
-    "title": "Randomized query complexity can beat certificate complexity",
-    "url": "https://arxiv.org/abs/2609.15063",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-15T10:43:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49727580",
-    "title": "A warning about 'model welfare'",
-    "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-    "source": "hackernews",
-    "score": 161.0,
-    "published_at": "2026-09-16T14:27:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49699477",
-    "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
-    "url": "https://attalambda.com",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-14T16:21:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49710968",
-    "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
-    "url": "https://restarted.io/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-15T11:34:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49729816",
-    "title": "Training Text-to-Image Models 3.6× Faster",
-    "url": "https://www.linum.ai/field-notes/jit-ddt",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-16T16:58:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49692844",
-    "title": "Anecdotally, programmers dislike \"reduce\"",
-    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-14T06:46:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49677916",
-    "title": "Japan's book scene is moving from bookstores to libraries",
-    "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-09-12T22:35:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49660791",
-    "title": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
-    "url": "https://clickhouse.com/blog/introducing-walshadow",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-11T16:09:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49719249",
-    "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
-    "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-09-15T21:41:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49731620",
-    "title": "How good are frontier models at physics?",
-    "url": "https://arxiv.org/abs/2609.13009",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-09-16T19:19:08+00:00",
     "summary": "",
     "key_points": []
   }
