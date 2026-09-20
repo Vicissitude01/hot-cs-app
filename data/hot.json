@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:ppfyza",
+    "title": "How Notion handles concurrent editing with CRDTs",
+    "url": "https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-20T07:06:29.397-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bvsaiy",
+    "title": "Using non-breakable spaces in test method names",
+    "url": "https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-20T05:04:37.588-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xgdt4u",
+    "title": "Beyond jj: config & tools ecosystem",
+    "url": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-20T05:51:04.335-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243269",
+    "title": "18 PM 1T 和 2T 都是 QLC",
+    "url": "https://www.v2ex.com/t/1243269",
+    "source": "v2ex",
+    "score": 106.0,
+    "published_at": "2026-09-20T01:52:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686397150885855259",
+    "title": "儿童免费学习网站大更新",
+    "url": "https://juejin.cn/post/7686397150885855259",
+    "source": "juejin",
+    "score": 0.12237768,
+    "published_at": "2026-09-18T00:41:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687263540910063625",
+    "title": "做独立开发三个月，我的第一个产品终于有了 1000 个用户",
+    "url": "https://juejin.cn/post/7687263540910063625",
+    "source": "juejin",
+    "score": 1.30721056,
+    "published_at": "2026-09-20T04:02:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687436260063100963",
+    "title": "记录一种很新的大屏开发方式",
+    "url": "https://juejin.cn/post/7687436260063100963",
+    "source": "juejin",
+    "score": 3.00636746,
+    "published_at": "2026-09-20T07:51:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:vercel-labs/json-render",
+    "title": "json-render",
+    "url": "https://github.com/vercel-labs/json-render",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mihail911/modern-software-dev-assignments",
+    "title": "modern-software-dev-assignments",
+    "url": "https://github.com/mihail911/modern-software-dev-assignments",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:paperless-ngx/paperless-ngx",
+    "title": "paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/financial-services",
+    "title": "financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cloudflare/security-audit-skill",
+    "title": "security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:BuilderIO/agent-native",
+    "title": "agent-native",
+    "url": "https://github.com/BuilderIO/agent-native",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49757493",
+    "title": "A Model for Winning Survivor",
+    "url": "https://victoriaritvo.com/blog/predicting-survivor/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-18T17:25:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49775579",
+    "title": "Do birds have accents? the regional differences in birdsong",
+    "url": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-20T13:19:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49765798",
+    "title": "FreeBSD on Aoostar WTR Pro NAS",
+    "url": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-19T11:55:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49765354",
+    "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+    "url": "https://sigabrt.dev",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-19T10:47:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49775082",
+    "title": "The Millennium Problems for Biology",
+    "url": "https://millenniumproblems.bio/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-20T12:17:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49774329",
+    "title": "AI and the Destruction of the Creative Commons",
+    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+    "source": "hackernews",
+    "score": 183.0,
+    "published_at": "2026-09-20T10:07:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49775700",
+    "title": "Teen Social Media Bans Miss the Point",
+    "url": "https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-20T13:32:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49775104",
+    "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+    "url": "https://softwarecrisis.dev/letters/llmentalist/",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-20T12:20:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49775499",
+    "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-20T13:09:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:pdulza",
     "title": "Grit your teeth and ship it",
     "url": "https://www.seangoedecke.com/grit-your-teeth-and-ship-it/",
@@ -4776,226 +4996,6 @@
     "source": "hackernews",
     "score": 150.0,
     "published_at": "2026-09-15T11:28:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49727659",
-    "title": "The DeepMind Institute",
-    "url": "https://institute.deepmind.com/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-16T14:32:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49729000",
-    "title": "Small Programming Tricks",
-    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-    "source": "hackernews",
-    "score": 146.0,
-    "published_at": "2026-09-16T15:56:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zwhnko",
-    "title": "The smallest possible Linux distribution",
-    "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-16T08:04:59.363-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nhdqgh",
-    "title": "Simple and Efficient Row-Level Security",
-    "url": "https://acadia.engineering/blog/simple-and-efficient-row-level-security",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-16T07:54:22.253-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tgrvxh",
-    "title": "Forgery of C2PA on a Pixel 10",
-    "url": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-16T08:24:31.337-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ue8rof",
-    "title": "When adding a fractional part to a number fixes your shader",
-    "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-16T05:20:07.415-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4tb4nk",
-    "title": "Reinventing issue tracking: Local-first and Git-native",
-    "url": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-16T05:17:30.841-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242303",
-    "title": "有没有喜欢徒步的 v 友？",
-    "url": "https://www.v2ex.com/t/1242303",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-09-16T01:16:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242417",
-    "title": "今晚发布的理想 i9 请教下看法",
-    "url": "https://www.v2ex.com/t/1242417",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-09-16T06:12:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242483",
-    "title": "我的 v 站余额是什么水平？",
-    "url": "https://www.v2ex.com/t/1242483",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-09-16T09:10:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685561582916304906",
-    "title": "前端转型全栈 00：AI 时代该学哪些，不该学哪些",
-    "url": "https://juejin.cn/post/7685561582916304906",
-    "source": "juejin",
-    "score": 0.42229227,
-    "published_at": "2026-09-15T07:45:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:affaan-m/ECC",
-    "title": "ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cline/cline",
-    "title": "cline",
-    "url": "https://github.com/cline/cline",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:multimodal-art-projection/YuE",
-    "title": "YuE",
-    "url": "https://github.com/multimodal-art-projection/YuE",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:SnailSploit/Claude-Red",
-    "title": "Claude-Red",
-    "url": "https://github.com/SnailSploit/Claude-Red",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Tencent/WeKnora",
-    "title": "WeKnora",
-    "url": "https://github.com/Tencent/WeKnora",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:supabase/supabase",
-    "title": "supabase",
-    "url": "https://github.com/supabase/supabase",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:roboflow/supervision",
-    "title": "supervision",
-    "url": "https://github.com/roboflow/supervision",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/claude-code",
-    "title": "claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ankitects/anki",
-    "title": "anki",
-    "url": "https://github.com/ankitects/anki",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/knowledge-work-plugins",
-    "title": "knowledge-work-plugins",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Lakr233/vphone-cli",
-    "title": "vphone-cli",
-    "url": "https://github.com/Lakr233/vphone-cli",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
