@@ -1,5 +1,145 @@
 [
   {
+    "id": "lobsters:tamvz4",
+    "title": "A study of sequence weighting at scale",
+    "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-20T20:18:47.903-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:r8xecf",
+    "title": "Roku launches open-source Roku LT OS for creative programmers",
+    "url": "https://blog.roku.com/developer/roku-lt-os",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-20T18:15:16.168-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243249",
+    "title": "看了一下 iPhone18Pro 真机，默默的把拼多多订单取消了。",
+    "url": "https://www.v2ex.com/t/1243249",
+    "source": "v2ex",
+    "score": 106.0,
+    "published_at": "2026-09-20T01:29:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243292",
+    "title": "Codex 20x 不太够用了，没有重置的时候，用啥来替补一下好呢？",
+    "url": "https://www.v2ex.com/t/1243292",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-09-20T02:29:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243412",
+    "title": "中秋节礼品发了， 500 算是什么水平？",
+    "url": "https://www.v2ex.com/t/1243412",
+    "source": "v2ex",
+    "score": 120.0,
+    "published_at": "2026-09-20T08:33:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243502",
+    "title": "女友第一次去我家 不是很想住我家里",
+    "url": "https://www.v2ex.com/t/1243502",
+    "source": "v2ex",
+    "score": 184.0,
+    "published_at": "2026-09-20T23:28:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7686808742222856211",
+    "title": "为什么最近开始关注 JEV？几个实战案例告诉你答案",
+    "url": "https://juejin.cn/post/7686808742222856211",
+    "source": "juejin",
+    "score": 0.60329204,
+    "published_at": "2026-09-19T12:57:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687440193649033222",
+    "title": "Spring AI、LangChain4j、AgentScope、Embabel，哪个AI框架更好？",
+    "url": "https://juejin.cn/post/7687440193649033222",
+    "source": "juejin",
+    "score": 0.76668371,
+    "published_at": "2026-09-20T07:38:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687441604429692955",
+    "title": "智谱 ZCode 静默上传 Git 历史：48 小时信任危机复盘",
+    "url": "https://juejin.cn/post/7687441604429692955",
+    "source": "juejin",
+    "score": 0.99298196,
+    "published_at": "2026-09-20T11:10:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49776796",
+    "title": "What's been going on in w64devkit the past year",
+    "url": "https://nullprogram.com/blog/2026/09/20/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-20T15:25:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49779329",
+    "title": "Why MCP Was Always a Bad Idea?",
+    "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-20T19:44:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49774521",
+    "title": "Why do we need human mathematicians anymore?",
+    "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+    "source": "hackernews",
+    "score": 129.0,
+    "published_at": "2026-09-20T10:49:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49781138",
+    "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+    "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-20T23:19:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49781436",
+    "title": "Amiga Unix, Again",
+    "url": "https://amigaux.org/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-20T23:57:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:1xxu7n",
     "title": "Bot-free self-hosted analytics with GoatCounter on NixOS",
     "url": "https://vincent.bernat.ch/en/blog/2026-goatcounter",
@@ -4856,146 +4996,6 @@
     "source": "juejin",
     "score": 0.28251976,
     "published_at": "2026-09-15T09:59:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685276242113019938",
-    "title": "AI会让程序员失业吗？200年前的手工织工已经给出了答案",
-    "url": "https://juejin.cn/post/7685276242113019938",
-    "source": "juejin",
-    "score": 0.19778013,
-    "published_at": "2026-09-15T02:39:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49735692",
-    "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
-    "url": "https://www.vanityfair.com/news/2008/05/monsanto200805",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-17T02:19:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49735410",
-    "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-    "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-09-17T01:39:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49717525",
-    "title": "Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps",
-    "url": "https://www.danvk.org/2026/09/10/mapsnap.html",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-15T19:22:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49735367",
-    "title": "Part-human part-mouse brain developed in science breakthrough",
-    "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-17T01:33:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49733726",
-    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-    "url": "https://harnesstax.github.io/",
-    "source": "hackernews",
-    "score": 79.0,
-    "published_at": "2026-09-16T22:10:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49695689",
-    "title": "PCB is brought to you by Fable 5",
-    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-14T12:25:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49734929",
-    "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-    "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-09-17T00:28:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49721291",
-    "title": "A 32-year-old bug walks into a Telnet server",
-    "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-16T02:01:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49700153",
-    "title": "Developing provably correct Rust code with Verus",
-    "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-09-14T16:57:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49735930",
-    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-    "url": "https://ryan.science/blog/keys-not-included",
-    "source": "hackernews",
-    "score": 78.0,
-    "published_at": "2026-09-17T03:03:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:phbfog",
-    "title": "Reversing Factorio's RNG",
-    "url": "https://gegell.github.io/posts/factorio-rng/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-16T16:06:25.213-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uvrata",
-    "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-16T14:33:37.164-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49726501",
-    "title": "I replaced my brown-noise browser tab with a menu bar app",
-    "url": "https://oldmanrahul.com/2026/09/14/hush/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-16T13:11:57+00:00",
     "summary": "",
     "key_points": []
   }
