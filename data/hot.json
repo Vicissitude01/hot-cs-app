@@ -1,5 +1,355 @@
 [
   {
+    "id": "lobsters:gxjhqo",
+    "title": "A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data",
+    "url": "https://github.com/volotat/mini-AGI/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-21T12:22:31.908-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:l8evsw",
+    "title": "D2300R11: `std::execution`",
+    "url": "https://wg21.link/P2300",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-21T12:43:57.171-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lp2qvh",
+    "title": "tobi: keep commands running in detachable sessions across your devices",
+    "url": "https://tangled.org/ptr.pet/tobi",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-21T10:31:37.066-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1somoo",
+    "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+    "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-21T13:21:25.252-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bcbuqk",
+    "title": "rift - a tiling window manager for macos",
+    "url": "https://github.com/acsandmann/rift/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-21T13:02:53.927-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xvkvhh",
+    "title": "Making a game for the GBA and PC from the same codebase",
+    "url": "https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-21T11:02:54.229-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jbbxgy",
+    "title": "Running an Optimal Trace",
+    "url": "https://anishathalye.com/optimal-trace/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-21T10:13:38.656-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:t5fquc",
+    "title": "Relation algebra is not relational algebra",
+    "url": "https://remy.wang/blog/ra-ra.html",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-21T12:01:35.726-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sus08k",
+    "title": "Self-Hosting Behind CGNAT",
+    "url": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-21T12:53:28.062-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:haq46t",
+    "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
+    "url": "https://github.com/dtonon/squalk",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-21T09:44:12.725-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:73ei6g",
+    "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
+    "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+    "source": "lobsters",
+    "score": 20.0,
+    "published_at": "2026-09-21T09:28:38.597-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687630544474701870",
+    "title": "Jev是什么？哑巴模型居然全网爆火",
+    "url": "https://juejin.cn/post/7687630544474701870",
+    "source": "juejin",
+    "score": 0.85823396,
+    "published_at": "2026-09-21T09:24:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49787535",
+    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+    "source": "hackernews",
+    "score": 156.0,
+    "published_at": "2026-09-21T14:10:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791944",
+    "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
+    "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-21T19:14:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49789982",
+    "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+    "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-09-21T17:00:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49787684",
+    "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
+    "url": "https://digitalescapetools.com/tools/noodlegallery.html",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-21T14:22:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791380",
+    "title": "Help 404 Media Find Out How Your Local Police Are Surveiling You",
+    "url": "https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-09-21T18:33:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49780226",
+    "title": "Whirlpool Washer Transmission Repair (2007)",
+    "url": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-20T21:24:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49790389",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-21T17:27:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791468",
+    "title": "Gravity Linux Alpha Release: Linux on the M4 Mac Mini with GPU and DCP Support",
+    "url": "https://gravitylinux.org/blog/early-alpha-m4-mac-mini/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-21T18:38:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49789081",
+    "title": "How do Traffic Signals Work (2019)",
+    "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-21T16:06:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49788773",
+    "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
+    "url": "http://pdp1173.com/",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-09-21T15:45:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49789224",
+    "title": "Fable 5 – Median thinking declined in August",
+    "url": "https://twitter.com/Lon/status/2101793422487204027",
+    "source": "hackernews",
+    "score": 238.0,
+    "published_at": "2026-09-21T16:13:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49789228",
+    "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+    "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-09-21T16:14:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49792067",
+    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "url": "https://linear.app/now/ci-bottleneck-reworked",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-21T19:23:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49787142",
+    "title": "Python Workers are now generally available",
+    "url": "https://blog.cloudflare.com/python-workers-ga/",
+    "source": "hackernews",
+    "score": 123.0,
+    "published_at": "2026-09-21T13:38:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791117",
+    "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+    "url": "https://ieeexplore.ieee.org/document/689473",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-21T18:14:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791997",
+    "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-21T19:17:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791509",
+    "title": "US halts flights at busy East Coast airports, says fiber line cut",
+    "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-09-21T18:41:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49788838",
+    "title": "Grok 4.7",
+    "url": "https://x.ai/news/grok-4-7",
+    "source": "hackernews",
+    "score": 351.0,
+    "published_at": "2026-09-21T15:50:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791797",
+    "title": "In Search of a Compositional Theory of Self-Stabilization",
+    "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-21T19:04:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791378",
+    "title": "Why Does an NPM Math Library Need an Encrypted Loader?",
+    "url": "https://safedep.io/mathmain-encrypted-loader/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-09-21T18:33:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791939",
+    "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+    "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-21T19:14:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49787726",
+    "title": "Attention is all you have",
+    "url": "https://alicegg.tech/2026/09/21/attention",
+    "source": "hackernews",
+    "score": 368.0,
+    "published_at": "2026-09-21T14:26:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49790409",
+    "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+    "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-09-21T17:30:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:xooho4",
     "title": "Markdown in /src",
     "url": "https://htmx.org/essays/markdown-in-src/",
@@ -4646,356 +4996,6 @@
     "source": "hackernews",
     "score": 30.0,
     "published_at": "2026-09-15T04:17:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49742439",
-    "title": "Vinix – A modern operating system written in V",
-    "url": "https://vinix-os.org/",
-    "source": "hackernews",
-    "score": 67.0,
-    "published_at": "2026-09-17T15:40:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49744530",
-    "title": "Don't Make Job Referrals Public",
-    "url": "https://blog.melashri.net/micro/public-job-referral/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-17T18:16:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49743685",
-    "title": "Economic policy for AGI",
-    "url": "https://institute.deepmind.com/essays/economic-policy-for-agi/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-17T17:12:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49742021",
-    "title": "Artificial intelligence now beats some of the best human forecasters",
-    "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
-    "source": "hackernews",
-    "score": 91.0,
-    "published_at": "2026-09-17T15:13:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49743756",
-    "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
-    "url": "https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-09-17T17:20:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49742437",
-    "title": "LLM Classification Is Feature Engineering",
-    "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-09-17T15:40:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49742714",
-    "title": "Whoisinspace.com/",
-    "url": "https://whoisinspace.com",
-    "source": "hackernews",
-    "score": 106.0,
-    "published_at": "2026-09-17T15:59:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49714096",
-    "title": "TSMC revealing details about next gen A14 node",
-    "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-09-15T15:31:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49742976",
-    "title": "Ask HN: How to recover Google auth after phone stolen?",
-    "url": "https://news.ycombinator.com/item?id=49742976",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-09-17T16:17:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49743459",
-    "title": "Show HN: Craigslist for agent skills, curated by a human",
-    "url": "https://skillbay.sh/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-17T16:53:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49714196",
-    "title": "Grand MS-DOS Gaming General MIDI Showdown",
-    "url": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-15T15:37:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49704503",
-    "title": "Running Ubuntu on the Lenovo IdeaPad Duet",
-    "url": "https://vhaudiquet.fr/blog/duet-ubuntu/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-14T21:40:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49740260",
-    "title": "The American Religion of Self-Storage Facilities",
-    "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-    "source": "hackernews",
-    "score": 104.0,
-    "published_at": "2026-09-17T13:12:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49743049",
-    "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-    "url": "https://news.ycombinator.com/item?id=49743049",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-17T16:22:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49743567",
-    "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-    "url": "https://zscc.ai/careers?job_id=109821",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-17T17:00:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49743483",
-    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-    "url": "https://arxiv.org/abs/2609.18842",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-17T16:55:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49738091",
-    "title": "Why I didn’t sign the Fields medallists’ letter",
-    "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-    "source": "hackernews",
-    "score": 120.0,
-    "published_at": "2026-09-17T08:51:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49743527",
-    "title": "Towards Self-Driving Codebases",
-    "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-17T16:58:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49742353",
-    "title": "Rate limits on GitLab.com are changing",
-    "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-    "source": "hackernews",
-    "score": 100.0,
-    "published_at": "2026-09-17T15:33:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49742355",
-    "title": "CrowdSec Source Code Leak",
-    "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-09-17T15:34:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49743097",
-    "title": "Hister: A private search engine for the pages you visit and the files you keep",
-    "url": "https://github.com/asciimoo/hister",
-    "source": "hackernews",
-    "score": 170.0,
-    "published_at": "2026-09-17T16:25:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:iul1vv",
-    "title": "Trust, but benchmark: How we let an AI agent optimize Elasticsearch",
-    "url": "https://www.elastic.co/search-labs/blog/ai-code-optimization-elasticsearch-agent-harness",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-17T08:52:53.335-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fjnkn4",
-    "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
-    "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-17T10:10:44.531-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yyijiq",
-    "title": "Developing provably correct Rust code with Verus",
-    "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-17T03:57:43.843-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hp1xkh",
-    "title": "On learning programming in an age of LLMs",
-    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-17T07:05:11.172-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mc3zgo",
-    "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-    "url": "https://jakeasmith.com/blog/http-build-url/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-17T08:42:17.057-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:oigetg",
-    "title": "Your Donations at Work: One Year of Sponsored Servo Development",
-    "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-09-17T05:37:58.820-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:11uiiv",
-    "title": "I expected better from Google",
-    "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-    "source": "lobsters",
-    "score": 19.0,
-    "published_at": "2026-09-17T05:01:13.998-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686054741464694826",
-    "title": "周下载量1.1亿的Tailwind，为什么养不活自己？",
-    "url": "https://juejin.cn/post/7686054741464694826",
-    "source": "juejin",
-    "score": 1.85137047,
-    "published_at": "2026-09-17T06:14:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:n8n-io/n8n",
-    "title": "n8n",
-    "url": "https://github.com/n8n-io/n8n",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:coder/coder",
-    "title": "coder",
-    "url": "https://github.com/coder/coder",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ever-co/ever-gauzy",
-    "title": "ever-gauzy",
-    "url": "https://github.com/ever-co/ever-gauzy",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:TencentCloud/Octop",
-    "title": "Octop",
-    "url": "https://github.com/TencentCloud/Octop",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cilium/cilium",
-    "title": "cilium",
-    "url": "https://github.com/cilium/cilium",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Tencent/BrowserSkill",
-    "title": "BrowserSkill",
-    "url": "https://github.com/Tencent/BrowserSkill",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
