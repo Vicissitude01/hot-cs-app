@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:xlbphk",
+    "title": "Named and Optional Arguments are Awesome",
+    "url": "https://botahamec.dev/named-optional-args",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-21T16:16:53.226-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kpegs1",
+    "title": "evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it",
+    "url": "https://code.irenes.space/evocation/tree/README.txt",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-21T16:51:56.741-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xb9tkn",
+    "title": "Lifestreams: a storage model for personal data (1996)",
+    "url": "https://www.ee.columbia.edu/~dpwe/papers/FreeG96-lifestreams.pdf",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-21T12:40:40.954-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fbo41b",
+    "title": "Attention is all you have",
+    "url": "https://alicegg.tech/2026/09/21/attention",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-09-21T14:06:21.139-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687648292588470287",
+    "title": "不只看跑分，Step 5 Preview 两个真实编程任务实测",
+    "url": "https://juejin.cn/post/7687648292588470287",
+    "source": "juejin",
+    "score": 1.26596918,
+    "published_at": "2026-09-21T12:07:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:coder/coder",
+    "title": "coder",
+    "url": "https://github.com/coder/coder",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49789356",
+    "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+    "url": "https://github.com/naw103/foremerge",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-21T16:22:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49783274",
+    "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
+    "url": "https://www.nongnu.org/txr/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-21T05:09:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49776382",
+    "title": "The Journey of a Migratory Shorebird",
+    "url": "https://www.newyorker.com/magazine/2026/09/21/the-incredible-journey-of-a-migratory-shorebird",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-20T14:44:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791720",
+    "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+    "url": "https://robocurve.org/roboharm/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-21T18:58:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791647",
+    "title": "Frontier AI on Your Own Hardware",
+    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-09-21T18:53:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791125",
+    "title": "Apple Copland D11E4 Booting in the Browser",
+    "url": "https://www.pagetable.com/300",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-09-21T18:15:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49769561",
+    "title": "Divide by depth for instant 3D",
+    "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-09-19T19:43:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49794330",
+    "title": "I don't want to read what you didn't write",
+    "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-21T22:30:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49792342",
+    "title": "Transformers Explained Visually",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "source": "hackernews",
+    "score": 128.0,
+    "published_at": "2026-09-21T19:43:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49794354",
+    "title": "Data Protection Commission fines Google €403M over processing of location data",
+    "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-21T22:33:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49793322",
+    "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+    "url": "https://www.personalimportation.org/advocacy",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-09-21T20:58:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49792730",
+    "title": "Xiaomi MiMo v2.6",
+    "url": "https://mimo.xiaomi.com/mimo-v2-6",
+    "source": "hackernews",
+    "score": 375.0,
+    "published_at": "2026-09-21T20:12:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gxjhqo",
     "title": "A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data",
     "url": "https://github.com/volotat/mini-AGI/",
@@ -4816,186 +4996,6 @@
     "source": "hackernews",
     "score": 21.0,
     "published_at": "2026-09-17T18:32:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49711931",
-    "title": "GraphViz Pocket Reference – Make a Graph",
-    "url": "https://graphs.grevian.org/graph/6322783643500544",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-15T13:03:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49671157",
-    "title": "André Weil and the Hodge Conjecture",
-    "url": "https://jiahao116.github.io/Articles/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-09-12T11:13:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49715936",
-    "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
-    "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-09-15T17:37:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49746628",
-    "title": "How Uber Protects Against Retry Storms",
-    "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-17T21:14:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49746290",
-    "title": "Flet 1.0 – Build cross-platform apps in Python",
-    "url": "https://flet.dev/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-17T20:44:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49745570",
-    "title": "Everybody's Lost Their Minds",
-    "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-    "source": "hackernews",
-    "score": 232.0,
-    "published_at": "2026-09-17T19:43:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49746654",
-    "title": "Sex, AI, and the Apocalypse",
-    "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-17T21:15:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49726007",
-    "title": "Wax motor",
-    "url": "https://en.wikipedia.org/wiki/Wax_motor",
-    "source": "hackernews",
-    "score": 151.0,
-    "published_at": "2026-09-16T12:35:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49746986",
-    "title": "I Hate You Microsoft",
-    "url": "https://henriquenunez.eu/posts/you_did_it_again_ms/",
-    "source": "hackernews",
-    "score": 100.0,
-    "published_at": "2026-09-17T21:41:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49746618",
-    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-    "url": "https://prismml.com/news/bonsai-2-27b",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-09-17T21:13:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49746163",
-    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-    "url": "https://bend-lang.com/",
-    "source": "hackernews",
-    "score": 164.0,
-    "published_at": "2026-09-17T20:36:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49745940",
-    "title": "Astra for Law",
-    "url": "https://openai.com/index/astra-for-law/",
-    "source": "hackernews",
-    "score": 178.0,
-    "published_at": "2026-09-17T20:17:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:eiqamo",
-    "title": "jemalloc 5.4.0 release",
-    "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-17T13:47:39.432-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uz30ed",
-    "title": "Be alert: targeted attacks on prominent Rustaceans",
-    "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-17T13:10:52.241-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7d6sh9",
-    "title": "Labeled matches: why is this not in every regex engine?",
-    "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-17T11:44:39.414-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rok1za",
-    "title": "Everybody's Lost Their Minds",
-    "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-    "source": "lobsters",
-    "score": 44.0,
-    "published_at": "2026-09-17T10:06:08.154-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pkj7mf",
-    "title": "I Don't Like LLMs",
-    "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-    "source": "lobsters",
-    "score": 31.0,
-    "published_at": "2026-09-17T10:25:24.745-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49707643",
-    "title": "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
-    "url": "https://guides.visual-paradigm.com/mastering-graphviz-layout-engines-dot-neato-twopi-circo/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-15T04:17:53+00:00",
     "summary": "",
     "key_points": []
   }
