@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:9jjplv",
+    "title": "Fifty Years of Open Source Software Supply Chain Security",
+    "url": "https://queue.acm.org/doi/10.1145/3722542",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-22T16:08:55.168-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:oqipmz",
+    "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+    "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-22T16:45:11.788-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:acz9kk",
+    "title": "GitHub Actions leaking secrets when Miri output is cached",
+    "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-22T16:38:02.383-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hburvt",
+    "title": "No Sloptober",
+    "url": "https://no-sloptober.com/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-22T16:06:34.391-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49788433",
+    "title": "Apple's Dimensional Drawings",
+    "url": "https://512pixels.net/2026/09/apple-dimensional-drawings/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-21T15:20:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49782702",
+    "title": "The trouble with 'ntile()'",
+    "url": "https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-21T03:23:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49808816",
+    "title": "The current balance of power in open models",
+    "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-22T22:03:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49781862",
+    "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+    "url": "https://github.com/xCuri0/ReBarUEFI",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-21T01:07:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49808023",
+    "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+    "url": "https://foxscript.org/",
+    "source": "hackernews",
+    "score": 127.0,
+    "published_at": "2026-09-22T21:00:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:2kfsi1",
     "title": "Serious editors are a commitment (at least for me)",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment",
@@ -4906,96 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-09-18T23:04:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9myagn",
-    "title": "The Bikeshed email — PHKs Bikeshed",
-    "url": "https://phk.freebsd.dk/sagas/bikeshed/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-18T14:46:10.224-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:anvcfz",
-    "title": "Vale, code-like linting for prose",
-    "url": "https://vale.sh",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-18T15:38:52.432-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xr7p0k",
-    "title": "Internet Phone Book",
-    "url": "https://internetphonebook.net/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-18T09:04:44.535-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49744416",
-    "title": "Show HN: Ax-check.com – Can agents use your product?",
-    "url": "https://www.ax-check.com/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-09-17T18:08:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49749724",
-    "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-    "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-18T02:56:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49750694",
-    "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-    "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-    "source": "hackernews",
-    "score": 219.0,
-    "published_at": "2026-09-18T06:11:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49749369",
-    "title": "Minimal Phone 2",
-    "url": "https://minimalcompany.com/",
-    "source": "hackernews",
-    "score": 117.0,
-    "published_at": "2026-09-18T02:00:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49714157",
-    "title": "A search-and-inference database from scratch in pure Zig",
-    "url": "https://antfly.io/research/antfly-zig",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-15T15:35:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49740371",
-    "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
-    "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-17T13:20:03+00:00",
     "summary": "",
     "key_points": []
   }
