@@ -1,5 +1,285 @@
 [
   {
+    "id": "lobsters:mrtqsz",
+    "title": "Shifting the Trap",
+    "url": "https://jxself.org/shifting-the-trap.shtml",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-09-22T11:50:50.152-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bg9j71",
+    "title": "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
+    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-22T12:03:48.306-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5ybneq",
+    "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+    "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-22T03:20:19.656-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ph1g2v",
+    "title": "Plain-text files are at risk",
+    "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-22T12:14:56.329-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vhbyvk",
+    "title": "EvilVM: Forth shellcode",
+    "url": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-22T09:10:07.498-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243794",
+    "title": "老马解锁新能力， grok 4.7 吉吉 api 第一时间已经同步上线，欢迎大佬们来品尝，不降今日 0.19 不降智继续。回复送测试额度。",
+    "url": "https://www.v2ex.com/t/1243794",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-09-22T00:00:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49802581",
+    "title": "Vacate a drone restriction that criminalized recording immigration agents",
+    "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-09-22T15:07:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49801218",
+    "title": "The Economics of Open-Weight Inference",
+    "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-22T13:45:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49782452",
+    "title": "Relativistic raytracing",
+    "url": "https://publish.obsidian.md/h1m3/Articles/Relativistic+raytracing",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-21T02:39:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49780622",
+    "title": "MUNI Heritage Weekend in San Francisco",
+    "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
+    "source": "hackernews",
+    "score": 106.0,
+    "published_at": "2026-09-20T22:13:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49802030",
+    "title": "Meta’s Muse has a serious 0-day",
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "source": "hackernews",
+    "score": 78.0,
+    "published_at": "2026-09-22T14:35:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49802871",
+    "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+    "url": "https://mouse.dev/blog/muse-runtime-export/",
+    "source": "hackernews",
+    "score": 191.0,
+    "published_at": "2026-09-22T15:25:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49773597",
+    "title": "Teleoperated Humans",
+    "url": "https://www.jefftk.com/p/teleoperated-humans",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-20T08:02:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49779984",
+    "title": "One Minute Park",
+    "url": "https://oneminutepark.tv/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-20T20:55:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49802789",
+    "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+    "url": "https://github.com/General-Instinct/InstinctFlash",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-22T15:20:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49794193",
+    "title": "Solitaire Alone Together",
+    "url": "https://solitairealonetogether.com/",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-09-21T22:16:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49803683",
+    "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+    "url": "https://ai-rete-rag.com/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-22T16:15:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49801329",
+    "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+    "url": "https://droprun.sh/",
+    "source": "hackernews",
+    "score": 104.0,
+    "published_at": "2026-09-22T13:52:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49803085",
+    "title": "Writing Rust code that's fast by asking agents to make the code faster",
+    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-22T15:38:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49801939",
+    "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+    "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+    "source": "hackernews",
+    "score": 373.0,
+    "published_at": "2026-09-22T14:30:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49804931",
+    "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+    "url": "https://www.coveragecat.com/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-22T17:26:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49802161",
+    "title": "OpenAI is well positioned to fast-follow Jev",
+    "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+    "source": "hackernews",
+    "score": 157.0,
+    "published_at": "2026-09-22T14:42:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49804683",
+    "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+    "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-22T17:12:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49803635",
+    "title": "16-bit Intel 8088 chip",
+    "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-09-22T16:11:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49803959",
+    "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+    "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-22T16:33:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49804316",
+    "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-09-22T16:51:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49801324",
+    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "source": "hackernews",
+    "score": 351.0,
+    "published_at": "2026-09-22T13:52:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49803892",
+    "title": "Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "source": "hackernews",
+    "score": 319.0,
+    "published_at": "2026-09-22T16:29:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:20c9v3",
     "title": "graphing my sleep schedule",
     "url": "https://char.lt/blog/2026/09/non24swd/",
@@ -4716,286 +4996,6 @@
     "source": "hackernews",
     "score": 37.0,
     "published_at": "2026-09-18T17:28:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49746406",
-    "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-    "source": "hackernews",
-    "score": 79.0,
-    "published_at": "2026-09-17T20:52:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49748553",
-    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-    "url": "https://cactuscompute.com/needle",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-09-18T00:11:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49755160",
-    "title": "North Korean nuclear test sets off years of earthquakes",
-    "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-    "source": "hackernews",
-    "score": 111.0,
-    "published_at": "2026-09-18T14:45:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49757050",
-    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-09-18T16:54:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49754785",
-    "title": "Cloudflare Quick Tunnels",
-    "url": "https://try.cloudflare.com/",
-    "source": "hackernews",
-    "score": 272.0,
-    "published_at": "2026-09-18T14:18:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7d3zs8",
-    "title": "A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill",
-    "url": "https://seclists.org/oss-sec/2026/q3/822",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-18T02:57:04.274-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:riugyt",
-    "title": "Release v0.29.0 · warp-tech/warpgate",
-    "url": "https://github.com/warp-tech/warpgate/releases/tag/v0.29.0",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-18T09:21:53.861-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4a7qly",
-    "title": "I don't like passkeys",
-    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-18T07:52:18.949-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:j4oyxa",
-    "title": "Typst makes big strides",
-    "url": "https://lwn.net/Articles/1092993/",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-09-18T08:14:17.568-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49751222",
-    "title": "New wild cat species discovered – with only one known living member",
-    "url": "https://www.bbc.com/news/articles/c6x2zgv9rr4ro",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-18T07:32:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49689337",
-    "title": "Show HN: Navier-Stokes Visualized as 1kB i386 demos",
-    "url": "https://juandecos.github.io/TurboZip/vortex.html",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-09-13T22:22:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49754687",
-    "title": "Second Circuit Allows Government to Search Electronic Devices at the Border",
-    "url": "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-18T14:11:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49754064",
-    "title": "NATS publishes preliminary report on technical incident of 8 September",
-    "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-18T13:24:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49753131",
-    "title": "Cekura (YC F24) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-18T12:00:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49752422",
-    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-    "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-    "source": "hackernews",
-    "score": 214.0,
-    "published_at": "2026-09-18T10:35:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49752614",
-    "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-    "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-    "source": "hackernews",
-    "score": 151.0,
-    "published_at": "2026-09-18T11:01:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49715408",
-    "title": "Subnormal floating-point numbers are expensive on Intel processors",
-    "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-09-15T16:58:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49721507",
-    "title": "The Shadows Lurking in the Equations – Underwater Islands",
-    "url": "https://gods.art/articles/equation_shadows",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-16T02:37:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49753211",
-    "title": "I don't like passkeys",
-    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-    "source": "hackernews",
-    "score": 302.0,
-    "published_at": "2026-09-18T12:06:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49753179",
-    "title": "Bend 2 and the Vibe-Coding Trap",
-    "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-    "source": "hackernews",
-    "score": 249.0,
-    "published_at": "2026-09-18T12:03:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49755024",
-    "title": "I Vibed a Proof of Conway's Conjecture",
-    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-18T14:36:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49753878",
-    "title": "An Empirical Study of Harness Design for Coding Agents",
-    "url": "https://arxiv.org/abs/2609.20804",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-09-18T13:06:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:r9wkkk",
-    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-    "url": "https://prismml.com/news/bonsai-2-27b",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-18T03:28:04.805-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:eeykfl",
-    "title": "Flet : Build cross-platform apps in Python",
-    "url": "https://flet.dev/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-18T03:42:48.307-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:htziuj",
-    "title": "Hacking OpenAI",
-    "url": "https://www.hacktron.ai/blog/hacking-openai",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-18T05:26:42.381-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ltjgvl",
-    "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
-    "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-18T04:21:24.744-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tvrnbv",
-    "title": "Not In My Git Yard: Catching Backdoors at Commit and Release Time",
-    "url": "https://arxiv.org/abs/2607.26719",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-18T03:14:44.937-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xysdy9",
-    "title": "Bend",
-    "url": "https://bend-lang.com/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-18T03:15:30.255-05:00",
     "summary": "",
     "key_points": []
   }
