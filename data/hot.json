@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:20c9v3",
+    "title": "graphing my sleep schedule",
+    "url": "https://char.lt/blog/2026/09/non24swd/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-22T01:30:42.369-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qwijru",
+    "title": "Extralite 3.1.0 is Here",
+    "url": "https://noteflakes.com/articles/2026-09-22-extralite-3-1-0",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-22T04:38:54.074-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uahccr",
+    "title": "A First Futamura Projection",
+    "url": "https://blog.veitheller.de/A_First_Futamura_Projection.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-22T00:24:59.478-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5svlut",
+    "title": "AI Has No Wisdom and Neither Will You",
+    "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-22T06:55:39.143-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ub3vw7",
+    "title": "Reviving TEMPEST Attacks With An Injected Signal",
+    "url": "https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-22T07:25:27.489-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wx3qsm",
+    "title": "Fearless SIMD v1.0 is here",
+    "url": "https://linebender.org/blog/fearless-simd-1-0/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-22T07:10:21.859-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243894",
+    "title": "扫地大妈、保安大爷使用 AI Agent，能否替代程序员？",
+    "url": "https://www.v2ex.com/t/1243894",
+    "source": "v2ex",
+    "score": 158.0,
+    "published_at": "2026-09-22T03:14:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243917",
+    "title": "大家打发时间都玩什么游戏，有没有不肝不氪的推荐一下",
+    "url": "https://www.v2ex.com/t/1243917",
+    "source": "v2ex",
+    "score": 238.0,
+    "published_at": "2026-09-22T04:31:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1243934",
+    "title": "有没有日漫推荐下？不要太幼稚的",
+    "url": "https://www.v2ex.com/t/1243934",
+    "source": "v2ex",
+    "score": 280.0,
+    "published_at": "2026-09-22T05:45:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:browser-use/video-use",
+    "title": "video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:superdesigndev/treg",
+    "title": "treg",
+    "url": "https://github.com/superdesigndev/treg",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:google/ax",
+    "title": "ax",
+    "url": "https://github.com/google/ax",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:davila7/claude-code-templates",
+    "title": "claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:dream-num/univer",
+    "title": "univer",
+    "url": "https://github.com/dream-num/univer",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:agent-substrate/substrate",
+    "title": "substrate",
+    "url": "https://github.com/agent-substrate/substrate",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49780175",
+    "title": "What It's Like to Work in One of America's Data Centers",
+    "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-20T21:18:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49786643",
+    "title": "A build graph that rolls dice",
+    "url": "https://fzakaria.com/2026/09/20/a-build-graph-that-rolls-dice",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-21T12:50:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49798597",
+    "title": "Verda (Finland) raises $189M in Series B",
+    "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-09-22T09:36:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49774161",
+    "title": "A font that reads what you wrote",
+    "url": "https://rohanadwankar.github.io/posts/semfont.html",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-20T09:38:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49797982",
+    "title": "I said no and Apple said yes",
+    "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+    "source": "hackernews",
+    "score": 378.0,
+    "published_at": "2026-09-22T08:04:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49799083",
+    "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+    "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-09-22T10:36:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49798204",
+    "title": "AMD's random number generator can't generate a 0?",
+    "url": "https://board.flatassembler.net/topic.php?t=24261",
+    "source": "hackernews",
+    "score": 140.0,
+    "published_at": "2026-09-22T08:39:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49777121",
+    "title": "Video games inspire great UX (2019)",
+    "url": "https://jenson.org/games/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-09-20T16:00:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49799577",
+    "title": "Type Punning in C and C++",
+    "url": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-22T11:29:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49799910",
+    "title": "Will Open Source Survive the Agents That Replaced It?",
+    "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-09-22T12:05:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49799965",
+    "title": "AI Has No Wisdom and Neither Will You",
+    "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+    "source": "hackernews",
+    "score": 115.0,
+    "published_at": "2026-09-22T12:11:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:fdgccx",
     "title": "Design your programming languages right (2024)",
     "url": "https://blog.veritates.love/design-it-right",
@@ -4736,266 +4996,6 @@
     "source": "lobsters",
     "score": 4.0,
     "published_at": "2026-09-18T03:15:30.255-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:e1xglz",
-    "title": "What are you doing this weekend?",
-    "url": "https://lobste.rs/s/e1xglz",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-18T03:15:23.174-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lcjf7c",
-    "title": "What is still exciting in tech?",
-    "url": "https://lobste.rs/s/lcjf7c",
-    "source": "lobsters",
-    "score": 15.0,
-    "published_at": "2026-09-18T03:14:52.256-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242854",
-    "title": "Claude 封号问题，想使用 claude 不被封，这是我近半年 100+账号跌跌撞撞的一些心得",
-    "url": "https://www.v2ex.com/t/1242854",
-    "source": "v2ex",
-    "score": 110.0,
-    "published_at": "2026-09-18T01:29:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242849",
-    "title": "肝了！真的做了一个 PS，再也不用 photoshop 了",
-    "url": "https://www.v2ex.com/t/1242849",
-    "source": "v2ex",
-    "score": 132.0,
-    "published_at": "2026-09-18T01:14:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242862",
-    "title": "亲戚欠钱不还，要不要起诉",
-    "url": "https://www.v2ex.com/t/1242862",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-09-18T01:49:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242880",
-    "title": "写了一个 大明 1566 的模拟器，模拟一个小官面对浙江的局面如何生存和破局",
-    "url": "https://www.v2ex.com/t/1242880",
-    "source": "v2ex",
-    "score": 158.0,
-    "published_at": "2026-09-18T02:19:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242973",
-    "title": "有用 zcode 的，马上关闭 ！它打包上传了你整个代码库！",
-    "url": "https://www.v2ex.com/t/1242973",
-    "source": "v2ex",
-    "score": 208.0,
-    "published_at": "2026-09-18T06:36:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685770509586284550",
-    "title": "摸鱼神器：一边写代码，一边刷剧，从此没有一点摸鱼时间会被浪费！",
-    "url": "https://juejin.cn/post/7685770509586284550",
-    "source": "juejin",
-    "score": 0.16602624,
-    "published_at": "2026-09-16T04:04:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7685944661652602914",
-    "title": "别再堆 AGENTS.md 了：前端团队的 Agent 上下文分层落地指南",
-    "url": "https://juejin.cn/post/7685944661652602914",
-    "source": "juejin",
-    "score": 0.24432532,
-    "published_at": "2026-09-16T09:29:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686407614478237748",
-    "title": "用了一个月 WorkBuddy，聊聊我的真实感受",
-    "url": "https://juejin.cn/post/7686407614478237748",
-    "source": "juejin",
-    "score": 4.15682665,
-    "published_at": "2026-09-18T03:37:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:asciimoo/hister",
-    "title": "hister",
-    "url": "https://github.com/asciimoo/hister",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ahmedkhaleel2004/gitdiagram",
-    "title": "gitdiagram",
-    "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:rustfs/rustfs",
-    "title": "rustfs",
-    "url": "https://github.com/rustfs/rustfs",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:tradesdontlie/tradingview-mcp",
-    "title": "tradingview-mcp",
-    "url": "https://github.com/tradesdontlie/tradingview-mcp",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:supermemoryai/supermemory",
-    "title": "supermemory",
-    "url": "https://github.com/supermemoryai/supermemory",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Fission-AI/OpenSpec",
-    "title": "OpenSpec",
-    "url": "https://github.com/Fission-AI/OpenSpec",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49713088",
-    "title": "Dr Julius Neubronner's Miniature Pigeon Camera",
-    "url": "https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-15T14:27:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49726614",
-    "title": "When the fractional part of a float fixes your shader",
-    "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-09-16T13:20:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49727245",
-    "title": "Replacing Pull Requests with Delta",
-    "url": "https://zed.dev/blog/delta-public-beta",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-16T14:05:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49752056",
-    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "source": "hackernews",
-    "score": 89.0,
-    "published_at": "2026-09-18T09:45:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49752041",
-    "title": "OpenJev",
-    "url": "https://openjev.com/",
-    "source": "hackernews",
-    "score": 93.0,
-    "published_at": "2026-09-18T09:42:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3qdik0",
-    "title": "Telstra outage: The night a network decided the year was 2006",
-    "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-17T19:27:43.828-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:iq4dwz",
-    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-    "url": "https://harnesstax.github.io/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-17T09:45:33.518-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242699",
-    "title": "公司给报销 100 元买 token,该如何选择呢?必须有正规发票",
-    "url": "https://www.v2ex.com/t/1242699",
-    "source": "v2ex",
-    "score": 88.0,
-    "published_at": "2026-09-17T06:21:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242932",
-    "title": "国内的麦当劳，肯德基，汉堡王，好像大部分人都不会收盘子",
-    "url": "https://www.v2ex.com/t/1242932",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-09-18T04:01:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1242844",
-    "title": "[送终身会员] Termind： AI 驱动的 SSH 终端，现已支持 iOS",
-    "url": "https://www.v2ex.com/t/1242844",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-09-18T01:03:23+00:00",
     "summary": "",
     "key_points": []
   }
