@@ -1,5 +1,205 @@
 [
   {
+    "id": "lobsters:nwg2ha",
+    "title": "Why didn't anybody tell me about Redis hash slots?",
+    "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-23T12:07:56.935-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5xxm0v",
+    "title": "The Zig Journey",
+    "url": "https://kristoff.it/blog/the-zig-journey/",
+    "source": "lobsters",
+    "score": 21.0,
+    "published_at": "2026-09-23T10:25:52.923-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:b39503",
+    "title": "KDE for People",
+    "url": "https://kdeforpeople.com",
+    "source": "lobsters",
+    "score": 24.0,
+    "published_at": "2026-09-23T11:08:33.758-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:r3ydgj",
+    "title": "I want my mesh networks to be signed, not encrypted",
+    "url": "https://andanti.no/blog/SignedMesh.html",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-09-23T09:39:46.740-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ad5vwg",
+    "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+    "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+    "source": "lobsters",
+    "score": 38.0,
+    "published_at": "2026-09-23T09:34:37.015-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244262",
+    "title": "33 岁 8 年大厂前端 Gap 三年找工作近况最后一次更新，决定放弃找工作，在家人的支持下决定再创业一年试试，送各位大佬五个码，希望大佬们给个商店好评",
+    "url": "https://www.v2ex.com/t/1244262",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-09-23T07:04:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688238990706016283",
+    "title": "最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！",
+    "url": "https://juejin.cn/post/7688238990706016283",
+    "source": "juejin",
+    "score": 1.09500363,
+    "published_at": "2026-09-23T00:52:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Open-Dev-Society/OpenStock",
+    "title": "OpenStock",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49817404",
+    "title": "GPT-6 Astra has gained the ability to drive a car",
+    "url": "https://drivingbench.com/",
+    "source": "hackernews",
+    "score": 203.0,
+    "published_at": "2026-09-23T15:14:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49816374",
+    "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+    "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+    "source": "hackernews",
+    "score": 132.0,
+    "published_at": "2026-09-23T14:04:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49809935",
+    "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+    "url": "https://github.com/pkimpel/retro-1620",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-23T00:06:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49817289",
+    "title": "Strands Harness",
+    "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+    "source": "hackernews",
+    "score": 100.0,
+    "published_at": "2026-09-23T15:05:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49818698",
+    "title": "28% of job postings on company career sites have been open over 90 days",
+    "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-09-23T16:35:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49820065",
+    "title": "A brief history of Windows scroll bar shortcuts",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-23T18:02:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49815982",
+    "title": "Stripe's Knowledge AI Platform",
+    "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+    "source": "hackernews",
+    "score": 126.0,
+    "published_at": "2026-09-23T13:38:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49817524",
+    "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+    "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-23T15:23:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49817615",
+    "title": "Gemini 3.8 text-to-speech",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+    "source": "hackernews",
+    "score": 142.0,
+    "published_at": "2026-09-23T15:29:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49819221",
+    "title": "Italian parliament votes for return to nuclear energy",
+    "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+    "source": "hackernews",
+    "score": 117.0,
+    "published_at": "2026-09-23T17:06:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49819814",
+    "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+    "url": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-23T17:45:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49817469",
+    "title": "Fixing the Portobello Police Station Clock",
+    "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+    "source": "hackernews",
+    "score": 232.0,
+    "published_at": "2026-09-23T15:18:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:huj44r",
     "title": "Do not let your type system reason about aliasing in your programming language",
     "url": "https://futhark-lang.org/blog/2026-09-22-aliasing.html",
@@ -4796,206 +4996,6 @@
     "source": "hackernews",
     "score": 27.0,
     "published_at": "2026-09-18T03:08:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49766976",
-    "title": "Agreement between the USA and Denmark (1951,2004) [pdf]",
-    "url": "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-19T14:45:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49734467",
-    "title": "Asking Authors About Their Own Papers",
-    "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-09-16T23:31:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49756121",
-    "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-    "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-18T15:47:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49766611",
-    "title": "Tin: full-text search for Postgres",
-    "url": "https://planetscale.com/blog/introducing-tin",
-    "source": "hackernews",
-    "score": 83.0,
-    "published_at": "2026-09-19T13:52:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49766676",
-    "title": "A graphical desktop for the ZX Spectrum",
-    "url": "https://github.com/mindbox77/zxdesk",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-09-19T14:01:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:q75kgo",
-    "title": "What happens to TLDs when their country stops existing? (2022)",
-    "url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-19T06:53:28.060-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bkjmjg",
-    "title": "The Implications of Linguistic Illegibility for LLM Security",
-    "url": "https://arxiv.org/abs/2609.02852",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-19T00:34:15.085-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7knhjd",
-    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-    "url": "https://spectrum.ieee.org/llms-for-chip-design",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-19T04:52:30.528-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hmkk2c",
-    "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
-    "url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-19T07:38:11.952-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sn8voe",
-    "title": "“The Secret Life of Circuits” is here",
-    "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-19T07:12:18.763-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:upvrzs",
-    "title": "LispBM: Concurrent Lisp for Microcontrollers",
-    "url": "https://www.lispbm.com/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-19T06:36:56.503-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3xfxnj",
-    "title": "Don’t Let Architecture Astronauts Scare You (2001)",
-    "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-19T07:08:52.631-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243111",
-    "title": "有没有什么养成类游戏，可以刷 ，然后变现的，比如卖号，或者卖装备的这些操作；",
-    "url": "https://www.v2ex.com/t/1243111",
-    "source": "v2ex",
-    "score": 34.0,
-    "published_at": "2026-09-19T02:03:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243074",
-    "title": "问一下，有没有合成语音的 api？英式英语",
-    "url": "https://www.v2ex.com/t/1243074",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-09-18T13:48:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243138",
-    "title": "现在 reddit 太难养号了",
-    "url": "https://www.v2ex.com/t/1243138",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-09-19T05:44:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243154",
-    "title": "有什么比较好的方案让 AI 实现 24 小时自动化开发？",
-    "url": "https://www.v2ex.com/t/1243154",
-    "source": "v2ex",
-    "score": 72.0,
-    "published_at": "2026-09-19T07:17:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686043275371282466",
-    "title": "网页端, 40mb离线模型, 自动抠图, 不用 Python，不用服务器，不用 API Key, 不用显卡",
-    "url": "https://juejin.cn/post/7686043275371282466",
-    "source": "juejin",
-    "score": 0.10482195,
-    "published_at": "2026-09-17T00:38:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:yynxxxxx/Codex-X",
-    "title": "Codex-X",
-    "url": "https://github.com/yynxxxxx/Codex-X",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cactus-compute/needle",
-    "title": "needle",
-    "url": "https://github.com/cactus-compute/needle",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ZuodaoTech/everyone-can-use-english",
-    "title": "everyone-can-use-english",
-    "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
