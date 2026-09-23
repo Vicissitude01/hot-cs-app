@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:dtozf3",
+    "title": "Adaptive Lossless Floating-Point Encoding in Apache Parquet",
+    "url": "https://parquet.apache.org/blog/2026/09/22/alp-adaptive-lossless-floating-point-encoding-in-apache-parquet/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-23T14:23:21.754-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kjqjse",
+    "title": "A brief history of Windows scroll bar shortcuts",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-23T14:51:19.594-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:aaq59w",
+    "title": "Ideas on modernizing the open-source desktop",
+    "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-23T14:49:57.115-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49791296",
+    "title": "Show HN: Conway's Game of Life in boot sector",
+    "url": "https://github.com/0xAX/BootLife",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-21T18:28:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49819880",
+    "title": "Making Tailscale Faster",
+    "url": "https://tailscale.com/blog/making-tailscale-faster",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-23T17:49:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49821196",
+    "title": "Once Claude can measure something, it can make it faster",
+    "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+    "source": "hackernews",
+    "score": 122.0,
+    "published_at": "2026-09-23T19:23:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49821086",
+    "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
+    "url": "https://www.forensicdbg.com",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-23T19:15:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49781492",
+    "title": "A refined phylochronology of the second plague pandemic in Western Eurasia",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.2534899123",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-21T00:06:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49820136",
+    "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
+    "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-23T18:07:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49821608",
+    "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+    "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+    "source": "hackernews",
+    "score": 234.0,
+    "published_at": "2026-09-23T19:55:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49799855",
+    "title": "The mystery animal on an ancient god's head",
+    "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-22T12:00:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49806413",
+    "title": "The Curious Power of Punctuation",
+    "url": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-22T19:02:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49799241",
+    "title": "Show HN: An atlas of system designs with interactive architecture diagrams",
+    "url": "https://atlas-sysdes.vercel.app/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-22T10:54:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49822864",
+    "title": "Claude's Load-Bearing Seams",
+    "url": "https://madradavid.com/claudes-load-bearing-seams/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-23T21:31:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49822556",
+    "title": "OpenAI breaches Medicare, Albanese reveals",
+    "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-09-23T21:01:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49820496",
+    "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+    "url": "https://huggingface.co/apple/LensVLM-9B",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-23T18:36:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49822555",
+    "title": "VSCode's SSH Agent Is Bananas",
+    "url": "https://fly.io/blog/vscode-ssh-wtf/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-23T21:01:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49820134",
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "source": "hackernews",
+    "score": 351.0,
+    "published_at": "2026-09-23T18:06:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nwg2ha",
     "title": "Why didn't anybody tell me about Redis hash slots?",
     "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
@@ -4816,186 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-09-19T15:52:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49768220",
-    "title": "Supabase (YC S20) Is Hiring for OrioleDB",
-    "url": "https://supabase.link/orioledbjob",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-19T17:01:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49735010",
-    "title": "Suzanne Ciani's Buchla Cookbook",
-    "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-17T00:39:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49768833",
-    "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-    "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-19T18:11:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ojukrw",
-    "title": "Laya — 33ms Multilingual System 1 Decision Engine",
-    "url": "https://laya.convaiinnovations.com/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-19T11:31:05.897-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1auq61",
-    "title": "Faster JSON parsing with SVE2 on ARM processors",
-    "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-19T10:10:09.421-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:eplmed",
-    "title": "Consistent Hashing Proofs",
-    "url": "https://ch.terabyteoff.com/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-19T09:24:51.480-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:blmlco",
-    "title": "AI Is an Elite Crime Spree",
-    "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-19T10:44:52.572-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xfeuet",
-    "title": "Reviving the language that brought us the Jak & Daxter Series",
-    "url": "https://opengoal.dev/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-19T09:28:49.182-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kaqsr5",
-    "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-    "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-19T08:41:57.630-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243108",
-    "title": "watch 充电器是不是随便用就可以了",
-    "url": "https://www.v2ex.com/t/1243108",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-09-19T01:39:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243139",
-    "title": "来了， M1Max 升级 macOS27",
-    "url": "https://www.v2ex.com/t/1243139",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-09-19T05:50:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243155",
-    "title": "鉴于发现冰箱里有一个放了三个月的黄瓜，所以 vibe 了一个家用 WMS",
-    "url": "https://www.v2ex.com/t/1243155",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-09-19T07:24:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686452260913053715",
-    "title": " 2026年，前端框架开始为 AI 而生了",
-    "url": "https://juejin.cn/post/7686452260913053715",
-    "source": "juejin",
-    "score": 0.23641359,
-    "published_at": "2026-09-18T01:22:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49738518",
-    "title": "Ray Ozzie and the Optimism of Being Early",
-    "url": "https://reproof.app/blog/lotus-notes-history",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-17T09:57:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49766821",
-    "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
-    "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-19T14:23:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49742697",
-    "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
-    "url": "https://www.nature.com/articles/d41586-026-02621-2",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-17T15:58:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49766637",
-    "title": "What Zig felt like, coming from Rust",
-    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "source": "hackernews",
-    "score": 97.0,
-    "published_at": "2026-09-19T13:55:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49749789",
-    "title": "I built the fastest PHP webserver in the world",
-    "url": "https://qbixserver.com",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-18T03:08:04+00:00",
     "summary": "",
     "key_points": []
   }
