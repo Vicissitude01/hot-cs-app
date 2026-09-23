@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:huj44r",
+    "title": "Do not let your type system reason about aliasing in your programming language",
+    "url": "https://futhark-lang.org/blog/2026-09-22-aliasing.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-23T09:07:23.555-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:eqme8i",
+    "title": "Latest BGP hijack targets hosting software vendor",
+    "url": "https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-23T06:55:38.027-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4uqtta",
+    "title": "SAML: A fractal of bad design",
+    "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-23T05:58:54.731-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9zjyto",
+    "title": "Cheaper LLM labelling",
+    "url": "https://entropicthoughts.com/cheaper-llm-labeling",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-23T08:14:06.452-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:d339rn",
+    "title": "The GitHub wiki is an anti-pattern",
+    "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-09-23T06:48:39.707-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qysrps",
+    "title": "Abandoning Scientific Linux Was a Mistake",
+    "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-09-23T04:53:20.473-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kras1h",
+    "title": "The GNOME LLM Policy That I Want",
+    "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+    "source": "lobsters",
+    "score": 21.0,
+    "published_at": "2026-09-23T05:28:14.797-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244201",
+    "title": "注册 meta 的 muse 智能体 使用 google gemini pro 的 spark [绕过 ip 问题与排队]",
+    "url": "https://www.v2ex.com/t/1244201",
+    "source": "v2ex",
+    "score": 150.0,
+    "published_at": "2026-09-23T03:45:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688298824981856271",
+    "title": "程序员即将隐退，建造者持续辉煌",
+    "url": "https://juejin.cn/post/7688298824981856271",
+    "source": "juejin",
+    "score": 2.17304393,
+    "published_at": "2026-09-23T04:03:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:TNT-Likely/PanWatch",
+    "title": "PanWatch",
+    "url": "https://github.com/TNT-Likely/PanWatch",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:harry7557558/spirula-studio",
+    "title": "spirula-studio",
+    "url": "https://github.com/harry7557558/spirula-studio",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:DeusData/codebase-memory-mcp",
+    "title": "codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:pbakaus/impeccable",
+    "title": "impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:HKUDS/CLI-Anything",
+    "title": "CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:strands-agents/harness-sdk",
+    "title": "harness-sdk",
+    "url": "https://github.com/strands-agents/harness-sdk",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:obra/superpowers",
+    "title": "superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49815095",
+    "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+    "url": "https://filmstudio.rxlab.app",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-23T12:28:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49816176",
+    "title": "Comma's hands-off driving tech under investigation after 2 fatal crashes",
+    "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-23T13:50:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49815526",
+    "title": "The Price of Intelligence Is Falling Rapidly",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-23T13:08:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49815168",
+    "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
+    "url": "https://ivesentit.com",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-23T12:36:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49815066",
+    "title": "Show HN: Jevper – the Jev interface on top of any OpenAI-compatible model",
+    "url": "https://github.com/zhulinchng/jevper",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-23T12:25:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49814432",
+    "title": "Two Git ignore files nobody told me about",
+    "url": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-23T11:28:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49814780",
+    "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+    "url": "https://questdb.com/careers/pre-sales-engineer-north-america/",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-23T12:01:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49813482",
+    "title": "Tokens Too Cheap to Meter",
+    "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-23T09:21:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49815381",
+    "title": "Samsung accidentally freezes its smart fridges with a software update",
+    "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+    "source": "hackernews",
+    "score": 91.0,
+    "published_at": "2026-09-23T12:57:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49815127",
+    "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+    "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+    "source": "hackernews",
+    "score": 122.0,
+    "published_at": "2026-09-23T12:32:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49814236",
+    "title": "Z80 REPL",
+    "url": "https://abagames.github.io/z80-repl/index.html",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-09-23T11:04:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49815466",
+    "title": "I Don't Want the Details",
+    "url": "https://michaelheap.com/i-dont-want-the-details/",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-23T13:04:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49815484",
+    "title": "The GitHub wiki is an anti-pattern",
+    "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-09-23T13:05:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49814947",
+    "title": "Claude Code reads AGENTS.md only when telemetry is on",
+    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+    "source": "hackernews",
+    "score": 239.0,
+    "published_at": "2026-09-23T12:15:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ut3ncn",
     "title": "Measuring Taiwan’s Mobile Slowdown with OONI in Taipei",
     "url": "https://mashbean.net/en/blog/2026/0813-16xy2v/",
@@ -4696,306 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ruanyf/weekly",
-    "title": "weekly",
-    "url": "https://github.com/ruanyf/weekly",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cloudflare/quiche",
-    "title": "quiche",
-    "url": "https://github.com/cloudflare/quiche",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:docling-project/docling",
-    "title": "docling",
-    "url": "https://github.com/docling-project/docling",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:higgsfield-ai/higgsfield",
-    "title": "higgsfield",
-    "url": "https://github.com/higgsfield-ai/higgsfield",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Open-Dev-Society/OpenStock",
-    "title": "OpenStock",
-    "url": "https://github.com/Open-Dev-Society/OpenStock",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:addyosmani/agent-skills",
-    "title": "agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:trycua/cua",
-    "title": "cua",
-    "url": "https://github.com/trycua/cua",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49743490",
-    "title": "From Stonemasons to Carpenters",
-    "url": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-17T16:55:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49736823",
-    "title": "Communication by means of modulated Johnson noise",
-    "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-17T05:41:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49744174",
-    "title": "Show HN: I wrote a custom assembler for CHIP-8 in C++",
-    "url": "https://github.com/Tackx/c8-ass",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-17T17:47:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49720143",
-    "title": "“The Secret Life of Circuits” is here",
-    "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-    "source": "hackernews",
-    "score": 104.0,
-    "published_at": "2026-09-15T23:15:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49765348",
-    "title": "Laya the open source version of Jev",
-    "url": "https://laya.convaiinnovations.com/",
-    "source": "hackernews",
-    "score": 95.0,
-    "published_at": "2026-09-19T10:46:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49764791",
-    "title": "AI-generated posters don’t have to be horrible",
-    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-    "source": "hackernews",
-    "score": 366.0,
-    "published_at": "2026-09-19T09:20:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ywnsld",
-    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-    "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-19T03:44:38.517-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9njxl2",
-    "title": "sudo and OpenDoas timestamp files (2020)",
-    "url": "https://π.duncano.de/sudo-doas-timestamp-files",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-18T14:36:19.605-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ukzxid",
-    "title": "Write while learning",
-    "url": "https://purplesyringa.moe/blog/write-while-learning/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-19T01:56:24.938-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:c0ei1a",
-    "title": "OpenLoco version 26.09",
-    "url": "https://openloco.io/news/2026/09/openloco-v26.09.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-18T23:22:19.845-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:iq6w6l",
-    "title": "The scourge of x86 emulation",
-    "url": "https://fex-emu.com/Scourge-of-emulation/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-09-19T00:01:05.094-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243032",
-    "title": "Zcode 飞书群官方回应来了",
-    "url": "https://www.v2ex.com/t/1243032",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-09-18T09:44:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243125",
-    "title": "2026 年到底还有哪个模型能正常说人话的？不需要能力多强",
-    "url": "https://www.v2ex.com/t/1243125",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-09-19T02:55:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243121",
-    "title": "（源头）包稳不智降企业级的 gpt6 倍率低至 0.24， codex pro 0.2，国模 0.19， Grok Heavy0.19，更有低价高缓存的官 k 首字 1S 缓存 95%。一对一服务，一键自助免点开票。注册回复皆送体验额度。",
-    "url": "https://www.v2ex.com/t/1243121",
-    "source": "v2ex",
-    "score": 54.0,
-    "published_at": "2026-09-19T02:34:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243026",
-    "title": "电信十全十美 99 套餐改单宽带 480 包年安全换车",
-    "url": "https://www.v2ex.com/t/1243026",
-    "source": "v2ex",
-    "score": 54.0,
-    "published_at": "2026-09-18T09:10:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243104",
-    "title": "看图，好像确实是这样子",
-    "url": "https://www.v2ex.com/t/1243104",
-    "source": "v2ex",
-    "score": 58.0,
-    "published_at": "2026-09-19T01:17:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243140",
-    "title": "结婚一年半，准备离婚了",
-    "url": "https://www.v2ex.com/t/1243140",
-    "source": "v2ex",
-    "score": 90.0,
-    "published_at": "2026-09-19T05:50:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686534839903535144",
-    "title": "ZCode 把整个 Git 仓库加密上传到了阿里云 OSS：一次客户端逆向的完整复盘",
-    "url": "https://juejin.cn/post/7686534839903535144",
-    "source": "juejin",
-    "score": 0.54272864,
-    "published_at": "2026-09-18T08:56:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686753873659953198",
-    "title": "ZCode：快来领“免费”3亿tokens和“Git打包服务”",
-    "url": "https://juejin.cn/post/7686753873659953198",
-    "source": "juejin",
-    "score": 0.95750734,
-    "published_at": "2026-09-18T15:22:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686669083098775562",
-    "title": "发布 3 天登顶 HN：不生成一个字的模型 Jev，我把它的源码和黑料都扒了一遍",
-    "url": "https://juejin.cn/post/7686669083098775562",
-    "source": "juejin",
-    "score": 0.69478771,
-    "published_at": "2026-09-18T07:32:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49763660",
-    "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
-    "url": "https://artificialanalysis.ai/models/step-5",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-19T05:42:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49740606",
-    "title": "Suppress vulnerabilities applying Kubernetes context to scans",
-    "url": "https://github.com/alegrey91/vex8s",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-17T13:39:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49728602",
-    "title": "Veronese's Dogs",
-    "url": "https://publicdomainreview.org/essay/veroneses-dogs",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-16T15:32:27+00:00",
     "summary": "",
     "key_points": []
   }
