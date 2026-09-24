@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:9oeulu",
+    "title": "Solid Modeling in your browser",
+    "url": "https://cartesian-theatrics.github.io/clj-manifold3d/journal/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-23T19:04:48.632-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vmd3gy",
+    "title": "Beware overreliance on metaphor",
+    "url": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-23T18:39:21.504-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244120",
+    "title": "今年中秋国庆中间只要请 3 天假，直接连休 13 天。\r\n想问下各位打算去哪？是长途出游、自驾，还是干脆在家躺平？\r\n有什么推荐目的地或者避坑经验聊聊。",
+    "url": "https://www.v2ex.com/t/1244120",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-09-23T01:22:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244114",
+    "title": "如果让 GPT 把你的人生装进一个盒子里会发生什么，我试了下，感觉还蛮感慨的",
+    "url": "https://www.v2ex.com/t/1244114",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-09-23T01:14:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688300268688572442",
+    "title": "OceanBase VS 金仓：同一组复杂 SQL，分布式与集中式架构怎么跑",
+    "url": "https://juejin.cn/post/7688300268688572442",
+    "source": "juejin",
+    "score": 0.83147831,
+    "published_at": "2026-09-23T04:28:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49823348",
+    "title": "Mercury 2.5 LLM hits 770 tokens per second",
+    "url": "https://artificialanalysis.ai/models/mercury-2-5",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-23T22:16:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49796372",
+    "title": "The \"Windows XP Box\" (2003)",
+    "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-22T03:09:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49823195",
+    "title": "We just shipped support for the ugliest part of HTTP: Vary",
+    "url": "https://blog.cloudflare.com/vary-support/",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-09-23T22:03:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49823664",
+    "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+    "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-23T22:45:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49823582",
+    "title": "Linux support is coming to Snapdragon X2 Series",
+    "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-09-23T22:38:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49824268",
+    "title": "Meta VR Glasses",
+    "url": "https://www.meta.com/vr-glasses/",
+    "source": "hackernews",
+    "score": 124.0,
+    "published_at": "2026-09-23T23:47:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:dtozf3",
     "title": "Adaptive Lossless Floating-Point Encoding in Apache Parquet",
     "url": "https://parquet.apache.org/blog/2026/09/22/alp-adaptive-lossless-floating-point-encoding-in-apache-parquet/",
@@ -4886,116 +4996,6 @@
     "source": "hackernews",
     "score": 8.0,
     "published_at": "2026-09-17T17:30:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49731996",
-    "title": "Deodands put a price on objects that caused death",
-    "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-16T19:51:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49769405",
-    "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-    "url": "https://eprint.iacr.org/2026/2039",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-19T19:23:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49766966",
-    "title": "Brood War Bench",
-    "url": "https://bw.swerdlow.dev/report",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-09-19T14:44:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49769676",
-    "title": "Measure internet censorship. Contribute to the largest open dataset",
-    "url": "https://ooni.org/install",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-19T20:00:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49769694",
-    "title": "I captured 72 hours of idle Android packets behind pfSense",
-    "url": "https://www.praveentechworld.com/research/degoogle-telemetry-2026",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-19T20:03:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rpc7qb",
-    "title": "Thread-identity switcheroo for io_uring",
-    "url": "https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-19T13:42:48.947-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:k5shc5",
-    "title": "Persistent Databases in the Browser with DuckDB-Wasm and OPFS",
-    "url": "https://duckdb.org/2026/09/18/opfs-wasm",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-19T13:46:39.713-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yfz406",
-    "title": "Secure VMs for Kubernetes: Hardening Kata containers",
-    "url": "https://srcreigh.ca/posts/auditable-kata/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-19T12:11:45.363-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49745049",
-    "title": "Adventures in Microcontroller Circuit Debugging",
-    "url": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-17T19:00:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49767937",
-    "title": "Almost Never Use AI to Write Anything Substantive",
-    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-09-19T16:35:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49767564",
-    "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-    "url": "https://github.com/trycua/cua",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-19T15:52:51+00:00",
     "summary": "",
     "key_points": []
   }
