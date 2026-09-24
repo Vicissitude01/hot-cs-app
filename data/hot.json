@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:o74pht",
+    "title": "Nspawn comeback: an OCI hub, new images and nspawn 1.0.0",
+    "url": "https://blog.nspawn.org/posts/nspawn-comeback-an-oci-hub-new-images-and-nspawn-1-0-0/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-24T05:34:13.298-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uviiyx",
+    "title": "Agents: The new, New Kingmakers",
+    "url": "https://redmonk.com/sogrady/2026/09/16/new-new-kingmakers/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-24T04:02:44.861-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1skdhv",
+    "title": "Pick OS is a Living Fossil of Computer History",
+    "url": "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-24T01:14:19.318-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244416",
+    "title": "你们多少人是自费订阅 ai 用在工作上的？",
+    "url": "https://www.v2ex.com/t/1244416",
+    "source": "v2ex",
+    "score": 138.0,
+    "published_at": "2026-09-24T01:30:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244510",
+    "title": "有没有有经验的老哥们，准备起诉离婚了，目前工资到手 2 万，抚养费一般判给多少？\r\n- 成都隔壁三线城市\r\n- 判太高，怕失业了，抚养费都交不起",
+    "url": "https://www.v2ex.com/t/1244510",
+    "source": "v2ex",
+    "score": 166.0,
+    "published_at": "2026-09-24T04:40:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244516",
+    "title": "你们过节都发了什么东西？",
+    "url": "https://www.v2ex.com/t/1244516",
+    "source": "v2ex",
+    "score": 168.0,
+    "published_at": "2026-09-24T05:15:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688644921475924010",
+    "title": "我把 Cursor 接到了蓝湖上，设计师再也不用追着我问\"还原了吗\"",
+    "url": "https://juejin.cn/post/7688644921475924010",
+    "source": "juejin",
+    "score": 2.97422626,
+    "published_at": "2026-09-24T03:40:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687855879102890036",
+    "title": "ZCode 开源了来看看这是个什么东西",
+    "url": "https://juejin.cn/post/7687855879102890036",
+    "source": "juejin",
+    "score": 0.50096898,
+    "published_at": "2026-09-22T01:02:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688159506154209321",
+    "title": "做了近两年的Agent开发，其实真正要学的就是这五件事",
+    "url": "https://juejin.cn/post/7688159506154209321",
+    "source": "juejin",
+    "score": 0.57253159,
+    "published_at": "2026-09-22T07:57:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688628566758555698",
+    "title": "微信开源了一个神级知识库项目",
+    "url": "https://juejin.cn/post/7688628566758555698",
+    "source": "juejin",
+    "score": 2.73520108,
+    "published_at": "2026-09-24T01:06:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:leejet/stable-diffusion.cpp",
+    "title": "stable-diffusion.cpp",
+    "url": "https://github.com/leejet/stable-diffusion.cpp",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:julyx10/lap",
+    "title": "lap",
+    "url": "https://github.com/julyx10/lap",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:FxEmbed/FxEmbed",
+    "title": "FxEmbed",
+    "url": "https://github.com/FxEmbed/FxEmbed",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:NVIDIA/Model-Optimizer",
+    "title": "Model-Optimizer",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:vectorize-io/hindsight",
+    "title": "hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:rohitg00/ai-engineering-from-scratch",
+    "title": "ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49827383",
+    "title": "The Year of Internal Tools",
+    "url": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-24T07:23:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49828177",
+    "title": "Looks promising for document editing with your agent",
+    "url": "https://www.paperinstruments.com/blog/introducing-paper-office",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-24T09:19:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49793249",
+    "title": "Women Who Sold Books Door to Door",
+    "url": "https://daily.jstor.org/the-women-who-sold-books-door-to-door/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-21T20:52:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49804052",
+    "title": "Automated optimization of a molecular simulation program",
+    "url": "https://shishir-iyer.medium.com/automated-optimization-of-a-molecular-simulation-program-4a28a2bc05ad",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-22T16:38:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49825580",
+    "title": "OpenAI agent hacked Australian government website, PM says",
+    "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-09-24T02:44:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49826565",
+    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+    "url": "https://transluce.org/agent-activity",
+    "source": "hackernews",
+    "score": 149.0,
+    "published_at": "2026-09-24T05:21:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49827794",
+    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+    "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+    "source": "hackernews",
+    "score": 207.0,
+    "published_at": "2026-09-24T08:23:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49802661",
+    "title": "RAM: the forgotten history (2024)",
+    "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-09-22T15:12:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49828409",
+    "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
+    "url": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-09-24T09:52:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49828385",
+    "title": "Nokia Design Archive (2025)",
+    "url": "https://nokiadesignarchive.aalto.fi/index.html",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-09-24T09:49:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:3yywjl",
     "title": "FLAWED’s Flaws and What This Means for Industry Research",
     "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
@@ -4736,266 +4996,6 @@
     "source": "lobsters",
     "score": 8.0,
     "published_at": "2026-09-20T00:46:48.216-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243337",
-    "title": "2026 自家红心猕猴桃上市了😋， 中秋送礼佳品🧺，送 V 友福利回帖抽奖🥝！抽奖🥝！抽奖🥝！团 10 送 1️⃣团 10 送 1️⃣",
-    "url": "https://www.v2ex.com/t/1243337",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-09-20T04:16:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243247",
-    "title": "收到 giffgaff 退款了，抓紧退款吧",
-    "url": "https://www.v2ex.com/t/1243247",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-09-20T01:18:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243276",
-    "title": "忽然有一天，我离开了东京",
-    "url": "https://www.v2ex.com/t/1243276",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-09-20T01:59:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243283",
-    "title": "[HyperAPI 中转站]限时福利，评论留 ID，就送$10 体验额度",
-    "url": "https://www.v2ex.com/t/1243283",
-    "source": "v2ex",
-    "score": 190.0,
-    "published_at": "2026-09-20T02:05:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243341",
-    "title": "2026 年买电车还买特斯拉吗？",
-    "url": "https://www.v2ex.com/t/1243341",
-    "source": "v2ex",
-    "score": 202.0,
-    "published_at": "2026-09-20T04:56:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686688669902716978",
-    "title": "完蛋了，豆包变这么强？Seed2.1pro小测一下！",
-    "url": "https://juejin.cn/post/7686688669902716978",
-    "source": "juejin",
-    "score": 0.15438562,
-    "published_at": "2026-09-18T09:27:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686699536866181156",
-    "title": "对标 MinIO！全新一代分布式文件系统正式发布",
-    "url": "https://juejin.cn/post/7686699536866181156",
-    "source": "juejin",
-    "score": 0.2031368,
-    "published_at": "2026-09-18T11:05:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686693462478127145",
-    "title": "Three.js 与 Cesium 融合实战问题汇总",
-    "url": "https://juejin.cn/post/7686693462478127145",
-    "source": "juejin",
-    "score": 0.15781794,
-    "published_at": "2026-09-18T07:14:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686396501736357951",
-    "title": "为什么 AI 写代码时，总喜欢“防御性编程”？",
-    "url": "https://juejin.cn/post/7686396501736357951",
-    "source": "juejin",
-    "score": 0.13311826,
-    "published_at": "2026-09-18T01:03:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686769981477814313",
-    "title": "React 19.3 发布，但真正的赢家是 StyleX：当 AI 成为框架的“第一用户”",
-    "url": "https://juejin.cn/post/7686769981477814313",
-    "source": "juejin",
-    "score": 1.47246876,
-    "published_at": "2026-09-20T01:19:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686407614478893108",
-    "title": "WorkBuddy 最值得落地的 10 个技能，效率直接翻倍",
-    "url": "https://juejin.cn/post/7686407614478893108",
-    "source": "juejin",
-    "score": 0.14968603,
-    "published_at": "2026-09-18T06:39:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686462220679594034",
-    "title": "把 Agent 框架拆开：PI 开发生产级 Harness",
-    "url": "https://juejin.cn/post/7686462220679594034",
-    "source": "juejin",
-    "score": 0.18143458,
-    "published_at": "2026-09-18T04:15:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687208012304302131",
-    "title": "ZCode 19号更新来了，偷偷上传问题“已修复”？！",
-    "url": "https://juejin.cn/post/7687208012304302131",
-    "source": "juejin",
-    "score": 3.73225726,
-    "published_at": "2026-09-20T05:31:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687422041256689691",
-    "title": "走进 AI Agent 第四篇：知识获取管道——RAG 基础",
-    "url": "https://juejin.cn/post/7687422041256689691",
-    "source": "juejin",
-    "score": 14.16607793,
-    "published_at": "2026-09-20T06:52:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49759853",
-    "title": "When the FM Band Goes Transatlantic",
-    "url": "https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-18T20:30:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49773439",
-    "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-    "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-20T07:38:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49756548",
-    "title": "Why isn't mutable a subtype of immutable, or vice versa?",
-    "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-18T16:15:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49764631",
-    "title": "Chess Atlas",
-    "url": "https://chess-timeline.vercel.app/gallery.html",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-19T08:48:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49757929",
-    "title": "Seeing Circles, Sines, and Signals",
-    "url": "https://jackschaedler.github.io/circles-sines-signals/index.html",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-18T17:59:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49756319",
-    "title": "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-18T15:59:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49772662",
-    "title": "Telling a Computer to Do Things",
-    "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-20T05:11:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49772806",
-    "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-    "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-20T05:46:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49772961",
-    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-    "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-    "source": "hackernews",
-    "score": 112.0,
-    "published_at": "2026-09-20T06:16:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49772532",
-    "title": "Step 5 Preview: Advancing the Pareto Frontier",
-    "url": "https://www.stepfun.com/step-5-preview",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-09-20T04:35:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49772677",
-    "title": "UTF-8000: Unlimited UTF-8",
-    "url": "https://utf-8000.jb2170.com",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-09-20T05:15:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cummnx",
-    "title": "Union vs sum types",
-    "url": "https://viralinstruction.com/posts/uniontypes/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-19T18:45:37.972-05:00",
     "summary": "",
     "key_points": []
   }
