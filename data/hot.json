@@ -1,5 +1,145 @@
 [
   {
+    "id": "lobsters:ivm0qn",
+    "title": "Running Pixelflut on a 2010 router",
+    "url": "https://filmroellchen.eu/blog/mipselflut/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-24T15:36:27.199-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:56bnwm",
+    "title": "Apple Copland D11E4 Emulator in Your Browser",
+    "url": "https://www.pagetable.com/300",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-24T14:24:00.101-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zcbk0r",
+    "title": "Introducing Lev",
+    "url": "https://yogthos.net/posts/2026-09-24-introducing-lev.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-24T18:11:11.939-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ky1cr0",
+    "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+    "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+    "source": "lobsters",
+    "score": 22.0,
+    "published_at": "2026-09-24T15:38:32.218-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49831690",
+    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+    "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-09-24T15:09:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49836374",
+    "title": "Opus 5.5 is good at explainer videos",
+    "url": "https://launchvideo.io",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-09-24T20:28:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49836590",
+    "title": "The Board Game of the Alpha Nerds (2014)",
+    "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-24T20:53:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49823568",
+    "title": "Toyota is taking the Corolla electric",
+    "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+    "source": "hackernews",
+    "score": 160.0,
+    "published_at": "2026-09-23T22:37:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49836612",
+    "title": "International observers to investigate Swedish election fraud",
+    "url": "https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-24T20:55:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49837473",
+    "title": "Back and shoulder surgery is often worse than useless",
+    "url": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-24T22:15:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49838034",
+    "title": "GitLab Outage",
+    "url": "https://status.gitlab.com/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-24T23:10:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49801436",
+    "title": "2DWillNeverDie",
+    "url": "https://2dwillneverdie.com/",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-09-22T14:00:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49836419",
+    "title": "California is chasing wealth that has feet",
+    "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-09-24T20:34:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49837006",
+    "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+    "url": "https://koi.rest",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-09-24T21:33:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:iyouff",
     "title": "Massive Parallel Imports in Neo4j Without Deadlock and Lock Contention",
     "url": "https://medium.com/neo4j/massive-parallel-imports-in-neo4j-without-deadlock-and-lock-contention-2c003a48d49a",
@@ -4856,146 +4996,6 @@
     "source": "hackernews",
     "score": 10.0,
     "published_at": "2026-09-20T23:19:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49781436",
-    "title": "Amiga Unix, Again",
-    "url": "https://amigaux.org/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-20T23:57:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1xxu7n",
-    "title": "Bot-free self-hosted analytics with GoatCounter on NixOS",
-    "url": "https://vincent.bernat.ch/en/blog/2026-goatcounter",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-20T17:51:03.251-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qupohm",
-    "title": "Deterministic Core, Non-Deterministic Shell",
-    "url": "https://outdata.net/blog/260803",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-20T16:13:51.416-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49780022",
-    "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-    "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-20T20:59:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49776523",
-    "title": "Show HN: A competition for small neural networks that play strategy games",
-    "url": "https://tinybrains.dev",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-20T14:59:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49780630",
-    "title": "Bill to Ban Private Equity from Owning Medical Practices",
-    "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-20T22:13:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49780820",
-    "title": "What Happened to the Snowden Archive",
-    "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-20T22:35:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49768336",
-    "title": "The Effect of CRTs on Pixel Art",
-    "url": "https://datagubbe.se/crt/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-19T17:14:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49780064",
-    "title": "Nobody pays for FOSS, we can force them to",
-    "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-09-20T21:04:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49780797",
-    "title": "Google's Open Agentic Orchestrator",
-    "url": "https://agentexecutor.io",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-20T22:32:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lmmuu3",
-    "title": "Adversarial examples for fast hash functions",
-    "url": "https://thomasahle.com/blog/adversarial-examples-for-hashes/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-20T14:14:36.383-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vpvdlw",
-    "title": "Scott Jenson: Are we really going to use the same Desktop UX forever?",
-    "url": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-20T15:34:34.067-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4zhnfn",
-    "title": "Unix Year 2038 problem and the art of underestimating",
-    "url": "https://www.buzzsprout.com/2469780/episodes/19824439",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-20T12:40:19.352-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jbnmj9",
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-20T12:43:10.204-05:00",
     "summary": "",
     "key_points": []
   }
