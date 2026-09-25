@@ -1,5 +1,135 @@
 [
   {
+    "id": "lobsters:sfdf3h",
+    "title": "Platform-independent SIMD in Go",
+    "url": "https://go.dev/blog/simd-experiment",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-24T16:02:52.945-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ufor73",
+    "title": "Launching FreeBSD/EC2 desktop AMIs",
+    "url": "https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-24T20:17:51.540-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zr2qoj",
+    "title": "RAM: the forgotten history",
+    "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-24T12:27:03.198-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jiv1c5",
+    "title": "Pencils Down, Eyes Open: A Rails Developer After Rails World",
+    "url": "https://caio.ca/blog/pencils-down-eyes-open-rails-world",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-24T20:31:43.488-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244469",
+    "title": "Your account has been suspended",
+    "url": "https://www.v2ex.com/t/1244469",
+    "source": "v2ex",
+    "score": 80.0,
+    "published_at": "2026-09-24T02:40:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244514",
+    "title": "顶级折磨",
+    "url": "https://www.v2ex.com/t/1244514",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-09-24T05:13:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244506",
+    "title": "想购买一台美国、英国或日本的服务器，用于自建代理，请帮忙推荐下。",
+    "url": "https://www.v2ex.com/t/1244506",
+    "source": "v2ex",
+    "score": 88.0,
+    "published_at": "2026-09-24T04:22:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244528",
+    "title": "大家公司中秋都发了什么？都来晒一下呗",
+    "url": "https://www.v2ex.com/t/1244528",
+    "source": "v2ex",
+    "score": 98.0,
+    "published_at": "2026-09-24T06:04:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244442",
+    "title": "很难想象 2026 年了，再杭州城西欧美金融这边。还有人偷自行车。",
+    "url": "https://www.v2ex.com/t/1244442",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-09-24T02:04:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688627788022284288",
+    "title": "Redis 已正式接入 AI ！",
+    "url": "https://juejin.cn/post/7688627788022284288",
+    "source": "juejin",
+    "score": 0.68669998,
+    "published_at": "2026-09-24T01:58:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49823113",
+    "title": "The Bayeux Tapestry: Woven by the Victors",
+    "url": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-23T21:54:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49794824",
+    "title": "Motor Characterization for Small Running Robots (2016)",
+    "url": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-21T23:27:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49802510",
+    "title": "Writing Parquet files using Haskell",
+    "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-22T15:02:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ivm0qn",
     "title": "Running Pixelflut on a 2010 router",
     "url": "https://filmroellchen.eu/blog/mipselflut/",
@@ -4866,136 +4996,6 @@
     "source": "hackernews",
     "score": 62.0,
     "published_at": "2026-09-21T05:55:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tamvz4",
-    "title": "A study of sequence weighting at scale",
-    "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-20T20:18:47.903-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:r8xecf",
-    "title": "Roku launches open-source Roku LT OS for creative programmers",
-    "url": "https://blog.roku.com/developer/roku-lt-os",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-20T18:15:16.168-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243249",
-    "title": "看了一下 iPhone18Pro 真机，默默的把拼多多订单取消了。",
-    "url": "https://www.v2ex.com/t/1243249",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-09-20T01:29:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243292",
-    "title": "Codex 20x 不太够用了，没有重置的时候，用啥来替补一下好呢？",
-    "url": "https://www.v2ex.com/t/1243292",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-09-20T02:29:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243412",
-    "title": "中秋节礼品发了， 500 算是什么水平？",
-    "url": "https://www.v2ex.com/t/1243412",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-09-20T08:33:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243502",
-    "title": "女友第一次去我家 不是很想住我家里",
-    "url": "https://www.v2ex.com/t/1243502",
-    "source": "v2ex",
-    "score": 184.0,
-    "published_at": "2026-09-20T23:28:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686808742222856211",
-    "title": "为什么最近开始关注 JEV？几个实战案例告诉你答案",
-    "url": "https://juejin.cn/post/7686808742222856211",
-    "source": "juejin",
-    "score": 0.60329204,
-    "published_at": "2026-09-19T12:57:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687440193649033222",
-    "title": "Spring AI、LangChain4j、AgentScope、Embabel，哪个AI框架更好？",
-    "url": "https://juejin.cn/post/7687440193649033222",
-    "source": "juejin",
-    "score": 0.76668371,
-    "published_at": "2026-09-20T07:38:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687441604429692955",
-    "title": "智谱 ZCode 静默上传 Git 历史：48 小时信任危机复盘",
-    "url": "https://juejin.cn/post/7687441604429692955",
-    "source": "juejin",
-    "score": 0.99298196,
-    "published_at": "2026-09-20T11:10:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49776796",
-    "title": "What's been going on in w64devkit the past year",
-    "url": "https://nullprogram.com/blog/2026/09/20/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-20T15:25:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49779329",
-    "title": "Why MCP Was Always a Bad Idea?",
-    "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-09-20T19:44:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49774521",
-    "title": "Why do we need human mathematicians anymore?",
-    "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
-    "source": "hackernews",
-    "score": 129.0,
-    "published_at": "2026-09-20T10:49:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49781138",
-    "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-    "url": "https://github.com/BytedTsinghua-SIA/DAPO",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-20T23:19:04+00:00",
     "summary": "",
     "key_points": []
   }
