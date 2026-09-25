@@ -1,5 +1,195 @@
 [
   {
+    "id": "lobsters:5qgygw",
+    "title": "How to use this project?",
+    "url": "https://github.com/antirez/ds4#how-to-use-this-project",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-25T16:01:44.139-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uipfvv",
+    "title": "Cross-Site Scripting (XSS) Cheat Sheet",
+    "url": "https://portswigger.net/web-security/cross-site-scripting/cheat-sheet",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-25T09:30:37.640-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nidcls",
+    "title": "Commodified Intelligence",
+    "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-25T13:24:29.215-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49777515",
+    "title": "A History of the Chiming Machines at Gloucester's Cathedral and Churches (2017) [pdf]",
+    "url": "https://www.bgas.org.uk/tbgas_bg/v135/251-268-MacKechnie-Jarvis.pdf",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-20T16:48:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49848227",
+    "title": "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
+    "url": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-25T18:29:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49846640",
+    "title": "Typst makes big strides",
+    "url": "https://lwn.net/Articles/1092993/",
+    "source": "hackernews",
+    "score": 77.0,
+    "published_at": "2026-09-25T16:25:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49846953",
+    "title": "Show HN: Doom or Bloom, map your AI worldview",
+    "url": "https://www.doom-or-bloom.com",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-09-25T16:51:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49848819",
+    "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
+    "url": "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-09-25T19:26:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49844642",
+    "title": "What happens when you analyze your favorite college football team like the CIA?",
+    "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-25T13:47:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49848095",
+    "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+    "url": "https://mouse.dev/blog/muse-special/",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-09-25T18:18:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49849312",
+    "title": "Rising sea destroys homes, erases beaches in California",
+    "url": "https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-25T20:13:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49788014",
+    "title": "Show HN: Make math automatic with Mathy",
+    "url": "https://gmays.com/making-math-automatic-with-mathy/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-09-21T14:49:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49848680",
+    "title": "Advice to a Beginning Graduate Student (2001)",
+    "url": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-25T19:12:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49800114",
+    "title": "Bwbach, My Guardian Goblin",
+    "url": "https://robertmay.photography/journal/bwbach-my-guardian-goblin",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-22T12:25:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49848295",
+    "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+    "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-09-25T18:37:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49848838",
+    "title": "Bug: Border radius has infected VSCode editor",
+    "url": "https://github.com/microsoft/vscode/issues/338035",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-09-25T19:27:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49845172",
+    "title": "Show HN: Jev Plays Pokémon Red",
+    "url": "https://jev-pokemon.vercel.app/",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-09-25T14:28:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49849625",
+    "title": "Too AI; Didn't Read",
+    "url": "https://www.tai-dr.com/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-25T20:37:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49848269",
+    "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+    "url": "https://ollaya.dev/",
+    "source": "hackernews",
+    "score": 199.0,
+    "published_at": "2026-09-25T18:33:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ztvy1b",
     "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
     "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
@@ -4806,196 +4996,6 @@
     "source": "hackernews",
     "score": 128.0,
     "published_at": "2026-09-21T19:43:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49794354",
-    "title": "Data Protection Commission fines Google €403M over processing of location data",
-    "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-21T22:33:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49793322",
-    "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
-    "url": "https://www.personalimportation.org/advocacy",
-    "source": "hackernews",
-    "score": 86.0,
-    "published_at": "2026-09-21T20:58:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49792730",
-    "title": "Xiaomi MiMo v2.6",
-    "url": "https://mimo.xiaomi.com/mimo-v2-6",
-    "source": "hackernews",
-    "score": 375.0,
-    "published_at": "2026-09-21T20:12:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gxjhqo",
-    "title": "A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data",
-    "url": "https://github.com/volotat/mini-AGI/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-21T12:22:31.908-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:l8evsw",
-    "title": "D2300R11: `std::execution`",
-    "url": "https://wg21.link/P2300",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-21T12:43:57.171-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lp2qvh",
-    "title": "tobi: keep commands running in detachable sessions across your devices",
-    "url": "https://tangled.org/ptr.pet/tobi",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-21T10:31:37.066-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1somoo",
-    "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-    "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-21T13:21:25.252-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bcbuqk",
-    "title": "rift - a tiling window manager for macos",
-    "url": "https://github.com/acsandmann/rift/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-21T13:02:53.927-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xvkvhh",
-    "title": "Making a game for the GBA and PC from the same codebase",
-    "url": "https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-21T11:02:54.229-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jbbxgy",
-    "title": "Running an Optimal Trace",
-    "url": "https://anishathalye.com/optimal-trace/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-21T10:13:38.656-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:t5fquc",
-    "title": "Relation algebra is not relational algebra",
-    "url": "https://remy.wang/blog/ra-ra.html",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-21T12:01:35.726-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sus08k",
-    "title": "Self-Hosting Behind CGNAT",
-    "url": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-21T12:53:28.062-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:haq46t",
-    "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
-    "url": "https://github.com/dtonon/squalk",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-21T09:44:12.725-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:73ei6g",
-    "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
-    "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-    "source": "lobsters",
-    "score": 20.0,
-    "published_at": "2026-09-21T09:28:38.597-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687630544474701870",
-    "title": "Jev是什么？哑巴模型居然全网爆火",
-    "url": "https://juejin.cn/post/7687630544474701870",
-    "source": "juejin",
-    "score": 0.85823396,
-    "published_at": "2026-09-21T09:24:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49787535",
-    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-    "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-    "source": "hackernews",
-    "score": 156.0,
-    "published_at": "2026-09-21T14:10:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49791944",
-    "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
-    "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-21T19:14:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49789982",
-    "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-    "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-09-21T17:00:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49787684",
-    "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
-    "url": "https://digitalescapetools.com/tools/noodlegallery.html",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-09-21T14:22:58+00:00",
     "summary": "",
     "key_points": []
   }
