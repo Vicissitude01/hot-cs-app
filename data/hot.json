@@ -1,5 +1,405 @@
 [
   {
+    "id": "lobsters:uc2ovf",
+    "title": "Paranoia-Sans: A conspiratorial typeface",
+    "url": "https://github.com/flegfleg/Paranoia-Sans",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-25T03:32:30.543-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5gqorv",
+    "title": "Who Is Open Source About?",
+    "url": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-25T05:57:30.238-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jmlnak",
+    "title": "Grieving the loss of details",
+    "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-25T06:29:33.807-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:v6nizc",
+    "title": "LLM Policies: Progress At All Costs",
+    "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-25T07:30:36.039-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wqzbpw",
+    "title": "Every package is already installed",
+    "url": "https://fzakaria.com/2026/09/24/every-package-is-already-installed",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-25T01:39:43.034-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1ub0m3",
+    "title": "AI is not “just a tool”",
+    "url": "https://brettcodes.com/ai-is-not-just-a-tool/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-25T06:12:22.776-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bubfjf",
+    "title": "What are you doing this weekend?",
+    "url": "https://lobste.rs/s/bubfjf",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-25T04:13:44.222-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ya3cl7",
+    "title": "Understanding NvPCRs in systemd v262",
+    "url": "https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-25T03:26:44.155-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244730",
+    "title": "有个能稳赚不赔的洗脚店项目，但是没有资金，去哪里找资金？🤔找人投资？贷款？",
+    "url": "https://www.v2ex.com/t/1244730",
+    "source": "v2ex",
+    "score": 60.0,
+    "published_at": "2026-09-25T05:22:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244728",
+    "title": "一个不需要 gemini pro 的完全免费的注册 Muse 的方法",
+    "url": "https://www.v2ex.com/t/1244728",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-09-25T04:43:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244750",
+    "title": "我以一己之力，用三年时间，带起来了国内独立开发做出海网站赚美元养老行业。\r\n让不少中老年程序员焕发了第二春，让不少新程序员找到了人生方向。",
+    "url": "https://www.v2ex.com/t/1244750",
+    "source": "v2ex",
+    "score": 164.0,
+    "published_at": "2026-09-25T07:25:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688212417864024091",
+    "title": "5 次优化让首屏快 3.6 秒，只有 1 次是改代码",
+    "url": "https://juejin.cn/post/7688212417864024091",
+    "source": "juejin",
+    "score": 0.18538528,
+    "published_at": "2026-09-22T10:47:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688603830758195235",
+    "title": "傻瓜式UX：ERP的致命糖衣",
+    "url": "https://juejin.cn/post/7688603830758195235",
+    "source": "juejin",
+    "score": 0.12608746,
+    "published_at": "2026-09-23T06:43:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688532185121439754",
+    "title": "突发！GPT-6 Sol与Claude Opus 5.5同日开打，谁是「性价比之王」",
+    "url": "https://juejin.cn/post/7688532185121439754",
+    "source": "juejin",
+    "score": 0.41453873,
+    "published_at": "2026-09-23T08:39:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688270826491658266",
+    "title": "轻松掌握 LangGraph 的状态与节点",
+    "url": "https://juejin.cn/post/7688270826491658266",
+    "source": "juejin",
+    "score": 0.51286955,
+    "published_at": "2026-09-23T00:58:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:openbao/openbao",
+    "title": "openbao",
+    "url": "https://github.com/openbao/openbao",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:shy3130/tick-stock-panel",
+    "title": "tick-stock-panel",
+    "url": "https://github.com/shy3130/tick-stock-panel",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:kelseyhightower/kubernetes-the-hard-way",
+    "title": "kubernetes-the-hard-way",
+    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:derv82/wifit3",
+    "title": "wifit3",
+    "url": "https://github.com/derv82/wifit3",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:androoAGI/starnet",
+    "title": "starnet",
+    "url": "https://github.com/androoAGI/starnet",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/skills",
+    "title": "skills",
+    "url": "https://github.com/anthropics/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mattpocock/skills",
+    "title": "skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/claude-plugins-official",
+    "title": "claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:paperclipai/paperclip",
+    "title": "paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49843909",
+    "title": "Show HN: Hamilton – a no-internet Android health dashboard, named after my dog",
+    "url": "https://play.google.com/store/apps/details?id=com.gads.hamilton&hl=en_US",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-25T12:49:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49839664",
+    "title": "What About Rails?",
+    "url": "https://jardo.dev/what-about-rails",
+    "source": "hackernews",
+    "score": 113.0,
+    "published_at": "2026-09-25T02:50:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49843550",
+    "title": "The Test",
+    "url": "https://tante.cc/2026/09/24/the-test/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-25T12:14:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49841309",
+    "title": "Amiga Screens: A Primer",
+    "url": "https://www.datagubbe.se/amscr/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-25T07:31:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49842084",
+    "title": "Boards of Casio",
+    "url": "https://www.ambionix.com/blog/boards-of-casio/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-25T09:26:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49842596",
+    "title": "Show HN: Agentic CUDA Kernel Optimizer",
+    "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-25T10:32:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49842487",
+    "title": "The Mafia may be keeping fentanyl out of Italy",
+    "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-09-25T10:20:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49842483",
+    "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+    "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-09-25T10:19:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49841893",
+    "title": "Special Projects (2016)",
+    "url": "https://openai.com/index/special-projects/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-25T08:55:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49843547",
+    "title": "I'm Tired of Being on the Network",
+    "url": "https://matduggan.com/im-tired-of-being-on-the-network/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-25T12:13:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49842332",
+    "title": "Topcoat is pushing the boundary of server applications with Rust",
+    "url": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-25T09:59:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49842270",
+    "title": "Ink and Switch Interactive Homepage",
+    "url": "https://www.inkandswitch.com/",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-09-25T09:50:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49841285",
+    "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+    "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+    "source": "hackernews",
+    "score": 114.0,
+    "published_at": "2026-09-25T07:27:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49843174",
+    "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+    "url": "https://github.com/git-bug/git-bug",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-09-25T11:38:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49843269",
+    "title": "Platform-Independent SIMD in Go",
+    "url": "https://go.dev/blog/simd-experiment",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-25T11:47:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49841563",
+    "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+    "url": "https://www.dawo.community/en/",
+    "source": "hackernews",
+    "score": 456.0,
+    "published_at": "2026-09-25T08:06:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:cuxdjq",
     "title": "Remembering Johannes Doerfert",
     "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
@@ -4596,406 +4996,6 @@
     "source": "hackernews",
     "score": 368.0,
     "published_at": "2026-09-21T14:26:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49790409",
-    "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-    "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-09-21T17:30:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xooho4",
-    "title": "Markdown in /src",
-    "url": "https://htmx.org/essays/markdown-in-src/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-21T09:27:08.869-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sp4dnk",
-    "title": "Overview of AOOSTAR WTR Pro on *BSD",
-    "url": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-21T06:00:40.366-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gexhnh",
-    "title": "Skia compositor for WPE WebKit and WebKitGTK",
-    "url": "https://blogs.igalia.com/carlosgc/2026/09/21/skia-compositor-for-wpe-webkit-and-webkitgtk/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-21T06:02:50.792-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lz0qfv",
-    "title": "Canonical announces Zephyr 26.04 LTS",
-    "url": "https://canonical.com/blog/zephyr-lts-announcement",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-21T08:53:04.045-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8gy9fa",
-    "title": "Why do computers look like this anyway?",
-    "url": "https://www.youtube.com/watch?v=dpIuNUn0PZc",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-21T04:37:22.485-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qxzjqt",
-    "title": "Creating a Blog in Gemini://",
-    "url": "https://brennan.day/creating-a-blog-in-gemini/",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-09-21T06:24:46.585-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:34xsdg",
-    "title": "Do you use :visited on links?",
-    "url": "https://kevquirk.com/do-you-use-visited-on-links",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-21T06:42:15.164-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fyngrv",
-    "title": "What are you doing this week?",
-    "url": "https://lobste.rs/s/fyngrv",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-21T07:30:37.334-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vqsefk",
-    "title": "What happened to the Snowden archive",
-    "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-    "source": "lobsters",
-    "score": 27.0,
-    "published_at": "2026-09-21T03:56:58.850-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vwl2kn",
-    "title": "What Sun got wrong",
-    "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-    "source": "lobsters",
-    "score": 55.0,
-    "published_at": "2026-09-21T02:14:39.869-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243558",
-    "title": "如果是你的话， 17pro1t 和 18pro512g 选哪个？",
-    "url": "https://www.v2ex.com/t/1243558",
-    "source": "v2ex",
-    "score": 160.0,
-    "published_at": "2026-09-21T02:32:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687537292214501412",
-    "title": "DeepSeek V4.1 Flash，等等，为什么现在大家都在卷 Flash？",
-    "url": "https://juejin.cn/post/7687537292214501412",
-    "source": "juejin",
-    "score": 0.90596915,
-    "published_at": "2026-09-21T00:51:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687209773675937818",
-    "title": "货拉拉开源Hadice：安卓 & 鸿蒙桌面调试工具",
-    "url": "https://juejin.cn/post/7687209773675937818",
-    "source": "juejin",
-    "score": 0.34917184,
-    "published_at": "2026-09-20T06:03:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687521521468325929",
-    "title": "Sass 和 Less 在 2026 年彻底多余了吗？",
-    "url": "https://juejin.cn/post/7687521521468325929",
-    "source": "juejin",
-    "score": 1.39193958,
-    "published_at": "2026-09-21T02:01:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687438959296413732",
-    "title": "推荐一个牛逼的AgentScope系统",
-    "url": "https://juejin.cn/post/7687438959296413732",
-    "source": "juejin",
-    "score": 1.71319359,
-    "published_at": "2026-09-21T03:04:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687499915136942134",
-    "title": "为什么越来越多人放弃 Claude Code 转而用 Pi？",
-    "url": "https://juejin.cn/post/7687499915136942134",
-    "source": "juejin",
-    "score": 1.20811097,
-    "published_at": "2026-09-20T23:20:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Crosstalk-Solutions/project-nomad",
-    "title": "project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:zhouxiaoka/autoclip",
-    "title": "autoclip",
-    "url": "https://github.com/zhouxiaoka/autoclip",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mvt-project/mvt",
-    "title": "mvt",
-    "url": "https://github.com/mvt-project/mvt",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:akitaonrails/ai-memory",
-    "title": "ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49783568",
-    "title": "Elektron Machinedrum in the Browser",
-    "url": "https://machinedrum-study.pages.dev/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-21T06:07:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49784816",
-    "title": "Don't Use AI to Write",
-    "url": "https://paulbakker.io/writing/no-ai-for-writing/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-21T08:54:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49786401",
-    "title": "Show HN: SQLBraid – Write SQL directly in TypeScript without a query-builder DSL",
-    "url": "https://github.com/Clickin/SQLBraid",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-21T12:25:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49786689",
-    "title": "Raspberry Pi blocks changing RAM chips",
-    "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-09-21T12:54:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49783101",
-    "title": "Heretic removes restrictions from language models",
-    "url": "https://heretic-project.org/",
-    "source": "hackernews",
-    "score": 124.0,
-    "published_at": "2026-09-21T04:35:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49787313",
-    "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-    "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-21T13:53:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49786609",
-    "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
-    "url": "https://news.ycombinator.com/item?id=49786609",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-21T12:47:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49783133",
-    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-    "url": "https://github.com/volotat/mini-AGI/",
-    "source": "hackernews",
-    "score": 192.0,
-    "published_at": "2026-09-21T04:42:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49786419",
-    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-    "url": "https://github.com/aru-labs/lossless-memory",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-21T12:28:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49785397",
-    "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-    "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-    "source": "hackernews",
-    "score": 261.0,
-    "published_at": "2026-09-21T10:27:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49784706",
-    "title": "Jev-Leftpad",
-    "url": "https://github.com/f/jev-leftpad",
-    "source": "hackernews",
-    "score": 170.0,
-    "published_at": "2026-09-21T08:39:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49783999",
-    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-    "url": "https://github.com/jaredpalmer/kev/tree/main",
-    "source": "hackernews",
-    "score": 232.0,
-    "published_at": "2026-09-21T07:11:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49784336",
-    "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-    "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-    "source": "hackernews",
-    "score": 280.0,
-    "published_at": "2026-09-21T07:55:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49787523",
-    "title": "Uber arbitration award over Emily Normandin-Parker's death",
-    "url": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-09-21T14:09:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49787436",
-    "title": "What Sun Got Wrong",
-    "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-21T14:03:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49785429",
-    "title": "ZuckOff Know when a camera is in the room",
-    "url": "https://zuckoff.app/",
-    "source": "hackernews",
-    "score": 522.0,
-    "published_at": "2026-09-21T10:33:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243570",
-    "title": "油车怎么选",
-    "url": "https://www.v2ex.com/t/1243570",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-09-21T02:58:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243555",
-    "title": "纯吐槽，被当初装修安装工坑了",
-    "url": "https://www.v2ex.com/t/1243555",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-09-21T02:29:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243453",
-    "title": "还有用 Mac 打游戏的吗？",
-    "url": "https://www.v2ex.com/t/1243453",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-09-20T11:02:24+00:00",
     "summary": "",
     "key_points": []
   }
