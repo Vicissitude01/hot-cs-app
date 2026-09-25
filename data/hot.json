@@ -1,5 +1,165 @@
 [
   {
+    "id": "lobsters:cuxdjq",
+    "title": "Remembering Johannes Doerfert",
+    "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-25T00:31:56.142-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sxlf4a",
+    "title": "Goodbye Google",
+    "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-25T00:51:12.558-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:3bgvbn",
+    "title": "Real-Time Telemetry with Eventlog Live",
+    "url": "https://www.well-typed.com/blog/2026/09/real-time-telemetry-with-eventlog-live/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-25T01:34:27.180-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:68n22g",
+    "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+    "url": "https://greasyfork.org/en/scripts?by=1646191",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-25T00:33:53.765-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:x6yjrc",
+    "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
+    "url": "https://inoti.fyi/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-24T21:50:41.729-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244695",
+    "title": "国内注册 Muse 的方法，亲测可用",
+    "url": "https://www.v2ex.com/t/1244695",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-09-25T01:20:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244642",
+    "title": "贴膜的价值：回收的时候多 200 块",
+    "url": "https://www.v2ex.com/t/1244642",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-09-24T11:26:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244710",
+    "title": "黑神话悟空-在线版",
+    "url": "https://www.v2ex.com/t/1244710",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-09-25T03:25:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244722",
+    "title": "LockSticky 上架不到 2 天收入 25 刀，再送本帖评论数量 * 0.1 个永久会员码！",
+    "url": "https://www.v2ex.com/t/1244722",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-09-25T04:16:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244588",
+    "title": "dmit 洛杉矶 补货了！",
+    "url": "https://www.v2ex.com/t/1244588",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-09-24T08:09:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244668",
+    "title": "实体倒闭真是活该的",
+    "url": "https://www.v2ex.com/t/1244668",
+    "source": "v2ex",
+    "score": 58.0,
+    "published_at": "2026-09-24T15:00:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244704",
+    "title": "今天中秋节，还要加班的有吗？来报道下",
+    "url": "https://www.v2ex.com/t/1244704",
+    "source": "v2ex",
+    "score": 60.0,
+    "published_at": "2026-09-25T02:47:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244674",
+    "title": "用半年时间打磨的 HTTPS 抓包和调试工具-ApiCatcher，对标 Proxyman",
+    "url": "https://www.v2ex.com/t/1244674",
+    "source": "v2ex",
+    "score": 80.0,
+    "published_at": "2026-09-24T15:58:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7687902696659894314",
+    "title": " 2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写",
+    "url": "https://juejin.cn/post/7687902696659894314",
+    "source": "juejin",
+    "score": 0.23932383,
+    "published_at": "2026-09-22T06:11:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49840300",
+    "title": "Jev Based Code Review",
+    "url": "https://github.com/egma-ai/jev-code-reviewer",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-25T04:49:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49841115",
+    "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+    "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-25T07:03:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:sfdf3h",
     "title": "Platform-independent SIMD in Go",
     "url": "https://go.dev/blog/simd-experiment",
@@ -4836,166 +4996,6 @@
     "source": "v2ex",
     "score": 96.0,
     "published_at": "2026-09-20T11:02:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243534",
-    "title": "我发现写病毒居然很有意思。无害的那种",
-    "url": "https://www.v2ex.com/t/1243534",
-    "source": "v2ex",
-    "score": 138.0,
-    "published_at": "2026-09-21T01:45:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243535",
-    "title": "ZCode 开源了",
-    "url": "https://www.v2ex.com/t/1243535",
-    "source": "v2ex",
-    "score": 142.0,
-    "published_at": "2026-09-21T01:48:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243567",
-    "title": "Airpods5 到手，说下感受",
-    "url": "https://www.v2ex.com/t/1243567",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-09-21T02:49:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243506",
-    "title": "为什么大家偏爱银河？",
-    "url": "https://www.v2ex.com/t/1243506",
-    "source": "v2ex",
-    "score": 234.0,
-    "published_at": "2026-09-21T00:03:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243520",
-    "title": "Vex —— 更好用的 V2EX iOS 客户端 ｜ 送码",
-    "url": "https://www.v2ex.com/t/1243520",
-    "source": "v2ex",
-    "score": 672.0,
-    "published_at": "2026-09-21T01:01:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687443714885959699",
-    "title": "2026年9月，前端圈同时发生了四件事，指向同一个方向",
-    "url": "https://juejin.cn/post/7687443714885959699",
-    "source": "juejin",
-    "score": 4.56676235,
-    "published_at": "2026-09-21T03:34:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686762541280378889",
-    "title": "Jev来了，一个不会说话的AI模型正在改写自动化的规则",
-    "url": "https://juejin.cn/post/7686762541280378889",
-    "source": "juejin",
-    "score": 0.11376092,
-    "published_at": "2026-09-19T00:04:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687439830713417737",
-    "title": "为什么全世界的 AI 都画不好一只骑自行车的鹈鹕",
-    "url": "https://juejin.cn/post/7687439830713417737",
-    "source": "juejin",
-    "score": 0.56429228,
-    "published_at": "2026-09-20T09:31:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7686925590315696138",
-    "title": "Jev 入门第一课",
-    "url": "https://juejin.cn/post/7686925590315696138",
-    "source": "juejin",
-    "score": 0.38994452,
-    "published_at": "2026-09-19T12:18:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687457196955631657",
-    "title": "从 0 到 1，记录我的第一个出海 SaaS 独立开发项目",
-    "url": "https://juejin.cn/post/7687457196955631657",
-    "source": "juejin",
-    "score": 3.66825679,
-    "published_at": "2026-09-21T01:38:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49783062",
-    "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-    "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-09-21T04:28:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49782220",
-    "title": "Deterministic Core, Non-Deterministic Shell",
-    "url": "https://outdata.net/blog/260803",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-21T02:02:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49781693",
-    "title": "Why back propagation goes backward",
-    "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-21T00:42:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49783406",
-    "title": "Far-left party wins Berlin election, pledging to nationalise housing",
-    "url": "https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-09-21T05:36:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49782775",
-    "title": "Winning the Visa Lottery",
-    "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-21T03:37:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49783495",
-    "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-    "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-09-21T05:55:22+00:00",
     "summary": "",
     "key_points": []
   }
