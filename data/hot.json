@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:9ry4yi",
+    "title": "Reinventing the wheel to draw wide tree hierarchies",
+    "url": "https://lonami.dev/blog/tree-node-positioning/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-25T15:29:10.507-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mitm2h",
+    "title": "Suggestion to replace LibreOffice with Collabora as default on Fedora",
+    "url": "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-26T04:13:15.170-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ivunna",
+    "title": "There is more to code review than (automatable) detection",
+    "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-26T01:18:59.482-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:iotaty",
+    "title": "The state of SIMD in Rust in 2026",
+    "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-26T03:28:50.571-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:crvszb",
+    "title": "Ukraine's army is experimenting with using Steam Decks to remote-control gun turrets (2023)",
+    "url": "https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-26T01:10:13.457-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244872",
+    "title": "讨论一下今天 apple pay 万事达 被盗刷的技术漏洞",
+    "url": "https://www.v2ex.com/t/1244872",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-09-26T05:05:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244853",
+    "title": "脱离了 Windows 的保护，发现外边根本没有雨",
+    "url": "https://www.v2ex.com/t/1244853",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-09-26T02:50:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244848",
+    "title": "geoip=cn 无法识别所有中国网站吗",
+    "url": "https://www.v2ex.com/t/1244848",
+    "source": "v2ex",
+    "score": 64.0,
+    "published_at": "2026-09-26T02:23:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244854",
+    "title": "最新 muse 注册方式，直连！",
+    "url": "https://www.v2ex.com/t/1244854",
+    "source": "v2ex",
+    "score": 104.0,
+    "published_at": "2026-09-26T02:59:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688585710283014184",
+    "title": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案",
+    "url": "https://juejin.cn/post/7688585710283014184",
+    "source": "juejin",
+    "score": 0.30608629,
+    "published_at": "2026-09-23T16:56:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688669403517681674",
+    "title": "安卓代码加固（1）：加密DEX",
+    "url": "https://juejin.cn/post/7688669403517681674",
+    "source": "juejin",
+    "score": 0.1028694,
+    "published_at": "2026-09-24T02:38:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688739949714997288",
+    "title": "VibeCoding 一套 Admin 系统，五种技术栈实现",
+    "url": "https://juejin.cn/post/7688739949714997288",
+    "source": "juejin",
+    "score": 0.16421158,
+    "published_at": "2026-09-24T06:46:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688333234086150178",
+    "title": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+    "url": "https://juejin.cn/post/7688333234086150178",
+    "source": "juejin",
+    "score": 0.0790943,
+    "published_at": "2026-09-22T13:34:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688528701483827241",
+    "title": "Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级",
+    "url": "https://juejin.cn/post/7688528701483827241",
+    "source": "juejin",
+    "score": 0.1332942,
+    "published_at": "2026-09-23T12:31:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688737629098999843",
+    "title": "📱iPhone Duo 开屏动画咋实现的？",
+    "url": "https://juejin.cn/post/7688737629098999843",
+    "source": "juejin",
+    "score": 0.14272234,
+    "published_at": "2026-09-24T06:39:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688329495955243058",
+    "title": "Antigravity + Blender MCP（下）：3D 智慧仓储数字孪生进阶实战",
+    "url": "https://juejin.cn/post/7688329495955243058",
+    "source": "juejin",
+    "score": 0.17606713,
+    "published_at": "2026-09-23T05:04:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688334749719789604",
+    "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
+    "url": "https://juejin.cn/post/7688334749719789604",
+    "source": "juejin",
+    "score": 0.09727501,
+    "published_at": "2026-09-23T10:24:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49853918",
+    "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+    "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-26T06:51:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49830265",
+    "title": "From Thin Air to Bootable Images: The Tine Build System",
+    "url": "https://amutable.com/blog/tine-build-system",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-24T13:25:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49852462",
+    "title": "HomelabFest will be in St. Louis in September 2027",
+    "url": "https://www.homelabfest.org",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-26T02:03:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49823490",
+    "title": "A new world airport and its baggage",
+    "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-23T22:30:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49824846",
+    "title": "Scientists build most accurate atomic clock",
+    "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-24T01:00:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49854416",
+    "title": "Floci: Locally emulating any cloud service",
+    "url": "https://floci.io",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-26T08:31:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49826087",
+    "title": "16GB iPod Nano 3G Upgrade",
+    "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-24T03:58:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49854161",
+    "title": "Is your Postgres migration safe or not safe?",
+    "url": "https://safenotsafe.dev/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-26T07:33:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49854875",
+    "title": "How to keep enjoying programming in a world of LLMs",
+    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-26T09:41:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:buroqq",
     "title": "Keep if clauses side-effect free",
     "url": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
@@ -4736,266 +4996,6 @@
     "source": "lobsters",
     "score": 3.0,
     "published_at": "2026-09-22T06:55:39.143-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ub3vw7",
-    "title": "Reviving TEMPEST Attacks With An Injected Signal",
-    "url": "https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-22T07:25:27.489-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wx3qsm",
-    "title": "Fearless SIMD v1.0 is here",
-    "url": "https://linebender.org/blog/fearless-simd-1-0/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-22T07:10:21.859-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243894",
-    "title": "扫地大妈、保安大爷使用 AI Agent，能否替代程序员？",
-    "url": "https://www.v2ex.com/t/1243894",
-    "source": "v2ex",
-    "score": 158.0,
-    "published_at": "2026-09-22T03:14:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243917",
-    "title": "大家打发时间都玩什么游戏，有没有不肝不氪的推荐一下",
-    "url": "https://www.v2ex.com/t/1243917",
-    "source": "v2ex",
-    "score": 238.0,
-    "published_at": "2026-09-22T04:31:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243934",
-    "title": "有没有日漫推荐下？不要太幼稚的",
-    "url": "https://www.v2ex.com/t/1243934",
-    "source": "v2ex",
-    "score": 280.0,
-    "published_at": "2026-09-22T05:45:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:browser-use/video-use",
-    "title": "video-use",
-    "url": "https://github.com/browser-use/video-use",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:superdesigndev/treg",
-    "title": "treg",
-    "url": "https://github.com/superdesigndev/treg",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:google/ax",
-    "title": "ax",
-    "url": "https://github.com/google/ax",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:davila7/claude-code-templates",
-    "title": "claude-code-templates",
-    "url": "https://github.com/davila7/claude-code-templates",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:dream-num/univer",
-    "title": "univer",
-    "url": "https://github.com/dream-num/univer",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:agent-substrate/substrate",
-    "title": "substrate",
-    "url": "https://github.com/agent-substrate/substrate",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49780175",
-    "title": "What It's Like to Work in One of America's Data Centers",
-    "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-20T21:18:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49786643",
-    "title": "A build graph that rolls dice",
-    "url": "https://fzakaria.com/2026/09/20/a-build-graph-that-rolls-dice",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-21T12:50:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49798597",
-    "title": "Verda (Finland) raises $189M in Series B",
-    "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-22T09:36:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49774161",
-    "title": "A font that reads what you wrote",
-    "url": "https://rohanadwankar.github.io/posts/semfont.html",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-09-20T09:38:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49797982",
-    "title": "I said no and Apple said yes",
-    "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-    "source": "hackernews",
-    "score": 378.0,
-    "published_at": "2026-09-22T08:04:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49799083",
-    "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
-    "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
-    "source": "hackernews",
-    "score": 112.0,
-    "published_at": "2026-09-22T10:36:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49798204",
-    "title": "AMD's random number generator can't generate a 0?",
-    "url": "https://board.flatassembler.net/topic.php?t=24261",
-    "source": "hackernews",
-    "score": 140.0,
-    "published_at": "2026-09-22T08:39:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49777121",
-    "title": "Video games inspire great UX (2019)",
-    "url": "https://jenson.org/games/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-20T16:00:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49799577",
-    "title": "Type Punning in C and C++",
-    "url": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-22T11:29:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49799910",
-    "title": "Will Open Source Survive the Agents That Replaced It?",
-    "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-09-22T12:05:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49799965",
-    "title": "AI Has No Wisdom and Neither Will You",
-    "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-    "source": "hackernews",
-    "score": 115.0,
-    "published_at": "2026-09-22T12:11:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fdgccx",
-    "title": "Design your programming languages right (2024)",
-    "url": "https://blog.veritates.love/design-it-right",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-22T00:21:15.888-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:npjb02",
-    "title": "Cheap and easy throwaway VPN server",
-    "url": "https://a.l3x.in/blog/throwaway-vpn/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-22T01:56:57.611-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bvrhgq",
-    "title": "Arguing about arguments",
-    "url": "https://steveklabnik.com/writing/arguing-about-arguments/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-21T23:29:12.182-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:d4wq0w",
-    "title": "Ju! Ju! Tsu",
-    "url": "https://arialdo.codeberg.page/ju-ju-tsu/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-21T15:59:09.005-05:00",
     "summary": "",
     "key_points": []
   }
