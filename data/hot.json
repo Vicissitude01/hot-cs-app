@@ -1,5 +1,215 @@
 [
   {
+    "id": "lobsters:6dcgr9",
+    "title": "The Graveyard of Good Ideas",
+    "url": "https://www.youtube.com/watch?v=ovlQ81rBc-4",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-26T10:09:50.396-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:70f3hi",
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "url": "https://swarmtraces.org/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-26T11:27:29.766-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ibpgio",
+    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-26T12:34:14.313-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rtcnc8",
+    "title": "The JavaScript Pun: tagged template literal",
+    "url": "https://shukla.io/blog/2026-09/pun.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-26T10:37:12.781-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8pjbtj",
+    "title": "Can we have reachability properties in TLA⁺?",
+    "url": "https://ahelwer.ca/post/2026-09-26-reachability/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-26T10:49:22.686-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:aokbai",
+    "title": "Wrong, not broken",
+    "url": "https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-26T12:08:06.946-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244920",
+    "title": "26 号还能注册 muse.ai 的方法",
+    "url": "https://www.v2ex.com/t/1244920",
+    "source": "v2ex",
+    "score": 68.0,
+    "published_at": "2026-09-26T12:26:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244857",
+    "title": "刷屏式地注册 muse，所以这玩意儿你们用起来了吗？",
+    "url": "https://www.v2ex.com/t/1244857",
+    "source": "v2ex",
+    "score": 74.0,
+    "published_at": "2026-09-26T03:14:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688669403517960202",
+    "title": "Trae 每天自动签到：Serverless 定时任务完整复盘",
+    "url": "https://juejin.cn/post/7688669403517960202",
+    "source": "juejin",
+    "score": 0.19859212,
+    "published_at": "2026-09-24T03:15:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689029662157602854",
+    "title": "UniApp 内嵌 H5 通信全攻略",
+    "url": "https://juejin.cn/post/7689029662157602854",
+    "source": "juejin",
+    "score": 0.09468804,
+    "published_at": "2026-09-24T09:57:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49857323",
+    "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
+    "url": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-09-26T15:10:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49858253",
+    "title": "US jury says Apple owes record $5.7B in haptic technology patent case",
+    "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-26T16:46:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49832768",
+    "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+    "url": "https://www.movingimagearchive.com/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-24T16:11:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49857899",
+    "title": "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
+    "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+    "source": "hackernews",
+    "score": 206.0,
+    "published_at": "2026-09-26T16:12:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49857651",
+    "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+    "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-09-26T15:48:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49849820",
+    "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+    "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-25T20:53:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49827900",
+    "title": "The Lost Atomic Update on Loongson CPU",
+    "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-24T08:36:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49856665",
+    "title": "OpenAI bots meddled with multiple US Government agency sites",
+    "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-26T14:03:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49857729",
+    "title": "Make Claude your assistant in excalidraw",
+    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-26T15:56:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49857528",
+    "title": "Show HN: A Claude Code skill to analyze your chess games",
+    "url": "https://github.com/brumar/chess-postmortem-skills",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-09-26T15:34:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49842764",
+    "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "url": "https://github.com/InfinityLoop1308/PipePipe",
+    "source": "hackernews",
+    "score": 132.0,
+    "published_at": "2026-09-25T10:55:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:fejuat",
     "title": "Tuning a Server for Benchmarking",
     "url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
@@ -4786,216 +4996,6 @@
     "source": "lobsters",
     "score": 3.0,
     "published_at": "2026-09-22T13:22:57.573-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ayyuqc",
-    "title": "Jev-powered autocorrection",
-    "url": "https://levmiseri.com/nospace",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-22T13:55:00.112-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vvg9ue",
-    "title": "That About Wraps It Up for Stock Mac UI",
-    "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-22T14:29:53.840-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49773646",
-    "title": "Porsche puts wireless EV charging into production",
-    "url": "https://electrek.co/2026/09/18/its-finally-here-porsche-puts-wireless-ev-charging-into-production-video/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-20T08:10:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49807248",
-    "title": "The JavaScript Midlife Crisis",
-    "url": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-22T19:58:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49795686",
-    "title": "People hooked on vapes try a new way to quit: cigarettes",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-22T01:21:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49787163",
-    "title": "George Lucas Returns to Earth, Bearing Gifts",
-    "url": "https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-21T13:40:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49806430",
-    "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-    "source": "hackernews",
-    "score": 231.0,
-    "published_at": "2026-09-22T19:03:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49806778",
-    "title": "A Faster Shortest Path Algorithm",
-    "url": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-22T19:24:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49808109",
-    "title": "The UV index is not the warm sensation of sunlight on bare skin",
-    "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-22T21:06:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49758709",
-    "title": "How did AMD Ryzen get 50% faster in two years?",
-    "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-    "source": "hackernews",
-    "score": 124.0,
-    "published_at": "2026-09-18T19:01:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49800574",
-    "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-    "url": "https://benchmarkheaven.com/jev-models",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-09-22T13:01:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49800566",
-    "title": "Show HN: Training a model to identify AI web content from structure alone",
-    "url": "https://arxiv.org/abs/2609.15369",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-22T13:00:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49742438",
-    "title": "Rabbit Hole: Minimum L-seams",
-    "url": "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-17T15:40:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49794478",
-    "title": "Markdown in /src",
-    "url": "https://htmx.org/essays/markdown-in-src/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-21T22:47:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49805677",
-    "title": "An update on how we confirm your age group on Discord",
-    "url": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-09-22T18:10:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49795260",
-    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-    "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-09-22T00:24:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49796379",
-    "title": "What California is learning from solar panels built over irrigation canals",
-    "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-22T03:10:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49805748",
-    "title": "Unreal Agent",
-    "url": "https://unreallabs.ai/blog/unreal-agent/",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-09-22T18:15:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49807021",
-    "title": "Native apps written in TypeScript and CSS",
-    "url": "https://github.com/geastack/examples",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-09-22T19:42:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49806335",
-    "title": "SAML: A Fractal of Bad Design",
-    "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-09-22T18:57:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49805278",
-    "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-    "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-    "source": "hackernews",
-    "score": 117.0,
-    "published_at": "2026-09-22T17:46:02+00:00",
     "summary": "",
     "key_points": []
   }
