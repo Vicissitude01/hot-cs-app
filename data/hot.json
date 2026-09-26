@@ -1,5 +1,295 @@
 [
   {
+    "id": "lobsters:buroqq",
+    "title": "Keep if clauses side-effect free",
+    "url": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-25T22:45:44.108-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qknavp",
+    "title": "NetBSD Playing with disklabels",
+    "url": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-25T21:14:59.759-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244807",
+    "title": "直营店 Mac 屏幕保修被拒了",
+    "url": "https://www.v2ex.com/t/1244807",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-09-25T15:56:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244792",
+    "title": "每一天都很累",
+    "url": "https://www.v2ex.com/t/1244792",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-09-25T13:56:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244788",
+    "title": "前端之神 Opus 5.5 做了一张中秋贺卡，看完我瘫坐了",
+    "url": "https://www.v2ex.com/t/1244788",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-09-25T13:30:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244850",
+    "title": "有人用 AI 赚到钱了吗，可以分享下吗",
+    "url": "https://www.v2ex.com/t/1244850",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-09-26T02:43:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244838",
+    "title": "每周免费 10 亿 token 的 muse，使用场景有哪些呢？附上注册方法，大家一起来探讨",
+    "url": "https://www.v2ex.com/t/1244838",
+    "source": "v2ex",
+    "score": 62.0,
+    "published_at": "2026-09-26T01:29:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244814",
+    "title": "独立开发产品无收入，有必要买 Claude Max 吗",
+    "url": "https://www.v2ex.com/t/1244814",
+    "source": "v2ex",
+    "score": 68.0,
+    "published_at": "2026-09-25T18:09:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688528701483515945",
+    "title": "给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择",
+    "url": "https://juejin.cn/post/7688528701483515945",
+    "source": "juejin",
+    "score": 0.12267399,
+    "published_at": "2026-09-23T10:20:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688571406653849646",
+    "title": "GPT-6 Sol 和 Claude Opus 5.5 发布，直接杀死比赛！",
+    "url": "https://juejin.cn/post/7688571406653849646",
+    "source": "juejin",
+    "score": 0.15703117,
+    "published_at": "2026-09-23T13:49:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688611918492008490",
+    "title": "Flutter Golden Tests：给 AI Agent 的 UI 测试系统",
+    "url": "https://juejin.cn/post/7688611918492008490",
+    "source": "juejin",
+    "score": 0.61659428,
+    "published_at": "2026-09-24T00:54:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688905988846305289",
+    "title": "WorkBuddy 每天自动领积分！教你用云函数做个签到机器人",
+    "url": "https://juejin.cn/post/7688905988846305289",
+    "source": "juejin",
+    "score": 0.21409431,
+    "published_at": "2026-09-24T05:55:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688009718430662666",
+    "title": "Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码",
+    "url": "https://juejin.cn/post/7688009718430662666",
+    "source": "juejin",
+    "score": 0.12077225,
+    "published_at": "2026-09-22T08:27:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688532185122422794",
+    "title": "订单30分钟未支付自动取消：定时任务为什么被面试官嫌弃",
+    "url": "https://juejin.cn/post/7688532185122422794",
+    "source": "juejin",
+    "score": 0.19277803,
+    "published_at": "2026-09-23T14:33:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49853133",
+    "title": "Pencils Down, Notation Up",
+    "url": "https://intertwingly.net/blog/2026/09/25/Pencils-Down-Notation-Up.html",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-26T04:13:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49851985",
+    "title": "Linguistic humor, Foreign hotel signs",
+    "url": "https://www.ling.upenn.edu/~beatrice/humor/foreign-hotel-signs.html",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-26T00:45:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49851776",
+    "title": "Show HN: A game about fake news and memes",
+    "url": "https://unspin.app/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-26T00:11:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49851879",
+    "title": "TiddlyInstall: A universal, reusable, install system",
+    "url": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-26T00:29:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49829472",
+    "title": "Fourier Analysis: Drawing Llamas with Circles",
+    "url": "https://adekau.github.io/posts/2020/llamas.html",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-24T12:03:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49830434",
+    "title": "Two and a half years without a gallbladder",
+    "url": "https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-24T13:40:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49850781",
+    "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+    "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-25T22:28:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49838040",
+    "title": "The Murky History of Soviet-Born Tetris",
+    "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-24T23:11:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49844497",
+    "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+    "url": "https://hackeratlas.com/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-25T13:37:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49852065",
+    "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+    "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+    "source": "hackernews",
+    "score": 119.0,
+    "published_at": "2026-09-26T00:59:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49852302",
+    "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+    "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+    "source": "hackernews",
+    "score": 134.0,
+    "published_at": "2026-09-26T01:36:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49835096",
+    "title": "Postgres SELECT DISTINCT Does Not Scale",
+    "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-24T18:43:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49853175",
+    "title": "A single function Jev-like wrapper for LLMs, including vision models",
+    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-26T04:20:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49840054",
+    "title": "Plan mode is dead",
+    "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+    "source": "hackernews",
+    "score": 195.0,
+    "published_at": "2026-09-25T03:59:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49852717",
+    "title": "We're gonna need a lot more mathematicians",
+    "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-09-26T02:46:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ekbatu",
     "title": "How to keep enjoying programming in a world of LLMs",
     "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
@@ -4706,296 +4996,6 @@
     "source": "lobsters",
     "score": 10.0,
     "published_at": "2026-09-21T15:59:09.005-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:liey8q",
-    "title": "Looking forward to Git 2.56 - and 3.0",
-    "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-22T00:23:55.135-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243856",
-    "title": "润加两周年",
-    "url": "https://www.v2ex.com/t/1243856",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-09-22T02:18:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243834",
-    "title": "小米的 MiMo v2.6 Pro 登顶国模分数第一了，大家实测效果怎么样？",
-    "url": "https://www.v2ex.com/t/1243834",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-09-22T01:37:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243891",
-    "title": "救命 上班看微信被领导谈话了。。。",
-    "url": "https://www.v2ex.com/t/1243891",
-    "source": "v2ex",
-    "score": 142.0,
-    "published_at": "2026-09-22T03:10:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243797",
-    "title": "苹果闹钟今天没响?",
-    "url": "https://www.v2ex.com/t/1243797",
-    "source": "v2ex",
-    "score": 142.0,
-    "published_at": "2026-09-22T00:21:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243734",
-    "title": "日本硕士回国能找到工作吗",
-    "url": "https://www.v2ex.com/t/1243734",
-    "source": "v2ex",
-    "score": 150.0,
-    "published_at": "2026-09-21T12:01:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243805",
-    "title": "ETF 基金股票免五或成历史",
-    "url": "https://www.v2ex.com/t/1243805",
-    "source": "v2ex",
-    "score": 244.0,
-    "published_at": "2026-09-22T00:59:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243848",
-    "title": "昨晚发生在健身房的冲突事件，冷静后复盘",
-    "url": "https://www.v2ex.com/t/1243848",
-    "source": "v2ex",
-    "score": 294.0,
-    "published_at": "2026-09-22T02:06:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687972882228461609",
-    "title": "为什么死磕 1px 的团队，用户体验反而更差？",
-    "url": "https://juejin.cn/post/7687972882228461609",
-    "source": "juejin",
-    "score": 5.40333871,
-    "published_at": "2026-09-22T02:47:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687793891199418374",
-    "title": "别吹 Jev 了",
-    "url": "https://juejin.cn/post/7687793891199418374",
-    "source": "juejin",
-    "score": 1.11002393,
-    "published_at": "2026-09-21T12:20:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687855879103021108",
-    "title": "⚡上线 24 小时，13% 的付费团队连夜换到 Jev：它到底什么来头？",
-    "url": "https://juejin.cn/post/7687855879103021108",
-    "source": "juejin",
-    "score": 4.11322744,
-    "published_at": "2026-09-22T01:14:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49774269",
-    "title": "PDF Forgeries Are Surprisingly Rare (2022)",
-    "url": "https://gwern.net/blog/2022/pdf-forgery",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-20T09:57:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49772263",
-    "title": "World Wide Words",
-    "url": "https://www.worldwidewords.org/genindex.html",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-20T03:21:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49785202",
-    "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
-    "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-21T09:56:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49797139",
-    "title": "Apple Music to open concert venue in Battersea Power Station",
-    "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-09-22T05:32:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49796660",
-    "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-    "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-22T04:02:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49797323",
-    "title": "Can gzip be a language model?",
-    "url": "https://nathan.rs/posts/gzip-lm/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-22T06:08:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:2ym3yg",
-    "title": "Why 0xCAFEBABE?",
-    "url": "https://www.artima.com/insidejvm/whyCAFEBABE.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-21T19:05:45.764-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hirktz",
-    "title": "Deterministic Hypervisors For Cheap",
-    "url": "https://redvice.org/2026/deterministic-hypervisor/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-21T19:25:06.129-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0d6gcs",
-    "title": "stack unwinding can lead to leakless code execution",
-    "url": "https://pepsipu.com/blog/2026-09-dwarf/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-21T18:01:34.329-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243633",
-    "title": "突然想到 AI 一个很可怕的点，以后会没有程序员了，而这是我们自己造成的！",
-    "url": "https://www.v2ex.com/t/1243633",
-    "source": "v2ex",
-    "score": 138.0,
-    "published_at": "2026-09-21T06:17:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243605",
-    "title": "哪位老哥的公司编码已经进化到这种程度了吗，感觉都是穷途末路",
-    "url": "https://www.v2ex.com/t/1243605",
-    "source": "v2ex",
-    "score": 152.0,
-    "published_at": "2026-09-21T04:16:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243715",
-    "title": "做了半年，我决定把我的 App 卖 1 元",
-    "url": "https://www.v2ex.com/t/1243715",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-09-21T10:21:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687445339747958793",
-    "title": "Kotlin 协程闯关：看代码，猜结果",
-    "url": "https://juejin.cn/post/7687445339747958793",
-    "source": "juejin",
-    "score": 0.47774748,
-    "published_at": "2026-09-20T23:18:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49795122",
-    "title": "Socrates vs. the Written Word (2011)",
-    "url": "https://wondermark.com/socrates-vs-writing/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-22T00:06:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49789361",
-    "title": "The agents, they just want to talk",
-    "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-21T16:22:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49771543",
-    "title": "More Floating Point Alternatives",
-    "url": "https://wizardzines.com/comics/floating-point-alternatives/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-20T00:55:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49785609",
-    "title": "First Shader from Zero in Godot 4",
-    "url": "https://www.gdquest.com/library/first_shader_godot4_portal/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-21T10:57:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49794736",
-    "title": "Looking forward to Git 2.56 – and 3.0",
-    "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-21T23:16:51+00:00",
     "summary": "",
     "key_points": []
   }
