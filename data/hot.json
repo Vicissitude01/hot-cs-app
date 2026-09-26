@@ -1,5 +1,135 @@
 [
   {
+    "id": "lobsters:uvmajz",
+    "title": "Rusty thoughts on \"Parse, don't validate\"",
+    "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-26T15:45:24.308-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vpis72",
+    "title": "Reassurance",
+    "url": "https://www.rocketpoweredjetpants.com/reassurance/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-26T15:53:24.096-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uhlr9z",
+    "title": "Dissecting House of Apple 2 on modern glibc",
+    "url": "https://jazho76.github.io/house_of_apple_2/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-26T14:31:45.655-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:iqqqbg",
+    "title": "AI Agents Push Humans Out of the Loop",
+    "url": "https://arxiv.org/abs/2608.23642",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-26T14:21:56.883-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5soxba",
+    "title": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
+    "url": "http://www.righto.com/2026/09/8087-tangent-cordic.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-26T14:01:50.552-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688910933353054244",
+    "title": " Redis 常见的数据类型及底层结构",
+    "url": "https://juejin.cn/post/7688910933353054244",
+    "source": "juejin",
+    "score": 0.0643811,
+    "published_at": "2026-09-24T10:44:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49857572",
+    "title": "Automattic has a new board after failed attempt to put CEO on leave",
+    "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-09-26T15:40:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49857442",
+    "title": "Plunging test scores are a slow-moving catastrophe",
+    "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+    "source": "hackernews",
+    "score": 141.0,
+    "published_at": "2026-09-26T15:24:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49834040",
+    "title": "The Rise of Audio AR",
+    "url": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-24T17:31:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49833444",
+    "title": "LA Metro has some of the slowest escalators on Earth",
+    "url": "https://basin.la/articles/ninety-feet-a-minute.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-24T16:52:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49860074",
+    "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+    "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-26T20:08:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49858513",
+    "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+    "url": "https://github.com/reladraw/reladraw",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-09-26T17:10:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49859112",
+    "title": "DeepSeek Elastic Compute (DSec)",
+    "url": "https://arxiv.org/abs/2609.22978",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-09-26T18:22:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:6dcgr9",
     "title": "The Graveyard of Good Ideas",
     "url": "https://www.youtube.com/watch?v=ovlQ81rBc-4",
@@ -4866,136 +4996,6 @@
     "source": "hackernews",
     "score": 24.0,
     "published_at": "2026-09-23T02:52:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49810829",
-    "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-    "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-09-23T02:13:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9jjplv",
-    "title": "Fifty Years of Open Source Software Supply Chain Security",
-    "url": "https://queue.acm.org/doi/10.1145/3722542",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-22T16:08:55.168-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:oqipmz",
-    "title": "How to talk about \"AI\" without adding to the anthropomorphization",
-    "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-22T16:45:11.788-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:acz9kk",
-    "title": "GitHub Actions leaking secrets when Miri output is cached",
-    "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-22T16:38:02.383-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hburvt",
-    "title": "No Sloptober",
-    "url": "https://no-sloptober.com/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-22T16:06:34.391-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49788433",
-    "title": "Apple's Dimensional Drawings",
-    "url": "https://512pixels.net/2026/09/apple-dimensional-drawings/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-21T15:20:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49782702",
-    "title": "The trouble with 'ntile()'",
-    "url": "https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-21T03:23:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49808816",
-    "title": "The current balance of power in open models",
-    "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-22T22:03:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49781862",
-    "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-    "url": "https://github.com/xCuri0/ReBarUEFI",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-21T01:07:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49808023",
-    "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-    "url": "https://foxscript.org/",
-    "source": "hackernews",
-    "score": 127.0,
-    "published_at": "2026-09-22T21:00:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:2kfsi1",
-    "title": "Serious editors are a commitment (at least for me)",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-22T13:50:12.898-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:n4vfwm",
-    "title": "tokens too cheap to meter",
-    "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-22T11:28:45.312-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wiuzrg",
-    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-    "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-22T13:22:57.573-05:00",
     "summary": "",
     "key_points": []
   }
