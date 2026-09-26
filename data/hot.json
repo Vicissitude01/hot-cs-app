@@ -1,5 +1,165 @@
 [
   {
+    "id": "lobsters:7dkvey",
+    "title": "Introducing Toolpak",
+    "url": "https://blogs.gnome.org/alatiera/2026/09/26/introducing-toolpak/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-26T14:25:21.432-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:j1nvpt",
+    "title": "How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail",
+    "url": "https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-26T14:29:50.848-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:duu1z0",
+    "title": "The lost atomic update on LoongArch LA664",
+    "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-26T13:44:00.363-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49836979",
+    "title": "Dutch designer made DE9: Closer to the Edit into a playable web-based instrument",
+    "url": "https://www.creativeboom.com/work/why-merijn-straathof-turned-a-landmark-techno-album-into-a-playable-web-based-instrument/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-24T21:30:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49861717",
+    "title": "Claude Deleted 48k Files",
+    "url": "https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-26T23:42:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49849986",
+    "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+    "url": "https://www.gptbeyond.com/try?home=1",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-25T21:09:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49836579",
+    "title": "How I changed teaching after AI managed to do all my homework assignments",
+    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "source": "hackernews",
+    "score": 115.0,
+    "published_at": "2026-09-24T20:51:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49858810",
+    "title": "Japan moves to tighten rules for foreigners",
+    "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-09-26T17:43:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49858676",
+    "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+    "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-26T17:26:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49852143",
+    "title": "How one Twitch chat message became code execution on a streamer’s PC",
+    "url": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-26T01:13:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49851883",
+    "title": "Generate fonts where every LLM token is the same width",
+    "url": "https://ampdot.mesh.host/token-space-fonts.html",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-26T00:30:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49855276",
+    "title": "Reading’s Bayeux Tapestry",
+    "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-26T10:48:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49844663",
+    "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+    "source": "hackernews",
+    "score": 124.0,
+    "published_at": "2026-09-25T13:49:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49844657",
+    "title": "Does Georgism work? Five years later",
+    "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-25T13:48:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49853137",
+    "title": "An agent used DNS to reach an external chatbot",
+    "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-26T04:14:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49839567",
+    "title": "Evolving programming languages in the AI era",
+    "url": "https://dashbit.co/blog/evolving-ai-era",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-25T02:34:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:uvmajz",
     "title": "Rusty thoughts on \"Parse, don't validate\"",
     "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
@@ -4836,166 +4996,6 @@
     "source": "hackernews",
     "score": 20.0,
     "published_at": "2026-09-23T08:46:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49812769",
-    "title": "Jev in 25 Lines of Python",
-    "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-    "source": "hackernews",
-    "score": 112.0,
-    "published_at": "2026-09-23T07:26:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3hbty3",
-    "title": "DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale",
-    "url": "https://arxiv.org/abs/2609.22978",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-22T19:51:04.767-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:itqeag",
-    "title": "Why do common Rust packages depend on C code? (2023)",
-    "url": "https://langdev.stackexchange.com/questions/3233/why-do-common-rust-packages-depend-on-c-code/3237#3237",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-22T15:42:02.208-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244052",
-    "title": "ds 4.1 现在能干活吗？",
-    "url": "https://www.v2ex.com/t/1244052",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-09-22T12:11:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243920",
-    "title": "Jev 五子棋",
-    "url": "https://www.v2ex.com/t/1243920",
-    "source": "v2ex",
-    "score": 110.0,
-    "published_at": "2026-09-22T04:36:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244093",
-    "title": "[送码]庆祝我的 AppleTV 小红书客户端进入 AppStore 榜单，再次送码！",
-    "url": "https://www.v2ex.com/t/1244093",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-09-22T17:15:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244147",
-    "title": "如果有一个实名制且类似豆瓣的平台，只让男性用户注册，你会用么？",
-    "url": "https://www.v2ex.com/t/1244147",
-    "source": "v2ex",
-    "score": 126.0,
-    "published_at": "2026-09-23T02:07:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244021",
-    "title": "[送额度] 灵眸 AI 全员福利：注册 $2 + 回帖再送 $9",
-    "url": "https://www.v2ex.com/t/1244021",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-09-22T09:23:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244111",
-    "title": "纳斯达克又创历史新高了",
-    "url": "https://www.v2ex.com/t/1244111",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-09-23T01:07:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244105",
-    "title": "试用期没通过，很迷茫，求指点🙏",
-    "url": "https://www.v2ex.com/t/1244105",
-    "source": "v2ex",
-    "score": 180.0,
-    "published_at": "2026-09-23T00:24:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244101",
-    "title": "[Token Unlimited 中转站] GPT 6 Sol & Luna 已上线，这 luna 简直和不要钱一样（留言最高赠 $20）",
-    "url": "https://www.v2ex.com/t/1244101",
-    "source": "v2ex",
-    "score": 302.0,
-    "published_at": "2026-09-23T00:05:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49807003",
-    "title": "Obscura: VPN that can't log your activity",
-    "url": "https://obscura.com/#faq-technical",
-    "source": "hackernews",
-    "score": 97.0,
-    "published_at": "2026-09-22T19:40:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49795053",
-    "title": "The Softness of Metal",
-    "url": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-21T23:59:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49794844",
-    "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
-    "url": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-21T23:29:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49811429",
-    "title": "Data-Only Attacks Are Easier Than You Think",
-    "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-23T03:49:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49811065",
-    "title": "Transit rewards (Waymo pays you to take the train)",
-    "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-09-23T02:52:29+00:00",
     "summary": "",
     "key_points": []
   }
