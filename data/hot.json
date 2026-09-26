@@ -1,5 +1,335 @@
 [
   {
+    "id": "lobsters:fejuat",
+    "title": "Tuning a Server for Benchmarking",
+    "url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-26T06:48:40.380-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rucvky",
+    "title": "Go concurrency distilled",
+    "url": "https://antonz.org/go-concurrency-distilled/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-26T07:14:01.590-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wpv5ed",
+    "title": "Infecting the Steam Link with NixOS",
+    "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-26T08:45:59.865-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:p3iq7v",
+    "title": "If we do not stop to help each other, what do we become?",
+    "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-09-26T06:02:48.079-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244842",
+    "title": "真正做 FDE 的进来聊聊",
+    "url": "https://www.v2ex.com/t/1244842",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-09-26T01:49:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244878",
+    "title": "悲报， gemini spark 和 cloud browser 注册全部被封堵",
+    "url": "https://www.v2ex.com/t/1244878",
+    "source": "v2ex",
+    "score": 66.0,
+    "published_at": "2026-09-26T05:56:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689029662157717542",
+    "title": "突发：Claude自主发现未知生物系统，或能编辑基因",
+    "url": "https://juejin.cn/post/7689029662157717542",
+    "source": "juejin",
+    "score": 0.09647044,
+    "published_at": "2026-09-24T10:22:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688569614586953754",
+    "title": "我手写了一版 React Compiler：AI 最常漏的 3 个 memo 场景",
+    "url": "https://juejin.cn/post/7688569614586953754",
+    "source": "juejin",
+    "score": 0.10243752,
+    "published_at": "2026-09-23T10:46:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688579804614361138",
+    "title": "管理后台数据国际化：不建翻译表、一列 JSON、后端零改动",
+    "url": "https://juejin.cn/post/7688579804614361138",
+    "source": "juejin",
+    "score": 0.11220467,
+    "published_at": "2026-09-24T00:18:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688917667420717091",
+    "title": "Flutter 获取 iPhone Duo 预留区位置",
+    "url": "https://juejin.cn/post/7688917667420717091",
+    "source": "juejin",
+    "score": 0.23040469,
+    "published_at": "2026-09-24T10:34:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689029662157668390",
+    "title": "我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议",
+    "url": "https://juejin.cn/post/7689029662157668390",
+    "source": "juejin",
+    "score": 0.21144618,
+    "published_at": "2026-09-24T10:05:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:vercel/next.js",
+    "title": "next.js",
+    "url": "https://github.com/vercel/next.js",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mobile-next/mobile-mcp",
+    "title": "mobile-mcp",
+    "url": "https://github.com/mobile-next/mobile-mcp",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:actions/runner-images",
+    "title": "runner-images",
+    "url": "https://github.com/actions/runner-images",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/claude-code-action",
+    "title": "claude-code-action",
+    "url": "https://github.com/anthropics/claude-code-action",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:llvm/llvm-project",
+    "title": "llvm-project",
+    "url": "https://github.com/llvm/llvm-project",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:zhaoxuya520/reverse-skill",
+    "title": "reverse-skill",
+    "url": "https://github.com/zhaoxuya520/reverse-skill",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:microsoft/vscode",
+    "title": "vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:block/buzz",
+    "title": "buzz",
+    "url": "https://github.com/block/buzz",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:tensorflow/tensorflow",
+    "title": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:dream-num/univer",
+    "title": "univer",
+    "url": "https://github.com/dream-num/univer",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49855018",
+    "title": "One Month Without AI",
+    "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+    "source": "hackernews",
+    "score": 124.0,
+    "published_at": "2026-09-26T10:08:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49854216",
+    "title": "The far side of the Moon provides clues to a previous magnetic field",
+    "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-26T07:49:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49854945",
+    "title": "The Copilot+ PC brand is dead",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-09-26T09:55:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49856971",
+    "title": "Earth is tearing apart beneath the Pacific Northwest",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-26T14:33:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49824642",
+    "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
+    "url": "https://www.osti.gov/servlets/purl/1124870",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-24T00:34:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49829528",
+    "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
+    "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-09-24T12:10:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49823628",
+    "title": "ASML currently sells no chipmaking machines in Europe, executive says",
+    "url": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-09-23T22:42:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49816907",
+    "title": "Reflections on 1,000 Days of Math",
+    "url": "https://gmays.com/reflections-on-1000-days-of-math/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-23T14:40:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49829202",
+    "title": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
+    "url": "https://castle-engine.io/modern_pascal",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-24T11:33:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49854693",
+    "title": "Fifteen years later, the Apple Cards origin story",
+    "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+    "source": "hackernews",
+    "score": 153.0,
+    "published_at": "2026-09-26T09:13:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49856149",
+    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+    "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-26T13:05:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49855315",
+    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+    "source": "hackernews",
+    "score": 279.0,
+    "published_at": "2026-09-26T10:55:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9ry4yi",
     "title": "Reinventing the wheel to draw wide tree hierarchies",
     "url": "https://lonami.dev/blog/tree-node-positioning/",
@@ -4666,336 +4996,6 @@
     "source": "hackernews",
     "score": 117.0,
     "published_at": "2026-09-22T17:46:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49805509",
-    "title": "GPT-6 Sol and Luna",
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-    "source": "hackernews",
-    "score": 817.0,
-    "published_at": "2026-09-22T18:00:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mrtqsz",
-    "title": "Shifting the Trap",
-    "url": "https://jxself.org/shifting-the-trap.shtml",
-    "source": "lobsters",
-    "score": 0.0,
-    "published_at": "2026-09-22T11:50:50.152-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bg9j71",
-    "title": "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
-    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-22T12:03:48.306-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5ybneq",
-    "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
-    "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-22T03:20:19.656-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ph1g2v",
-    "title": "Plain-text files are at risk",
-    "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-22T12:14:56.329-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vhbyvk",
-    "title": "EvilVM: Forth shellcode",
-    "url": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-22T09:10:07.498-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1243794",
-    "title": "老马解锁新能力， grok 4.7 吉吉 api 第一时间已经同步上线，欢迎大佬们来品尝，不降今日 0.19 不降智继续。回复送测试额度。",
-    "url": "https://www.v2ex.com/t/1243794",
-    "source": "v2ex",
-    "score": 136.0,
-    "published_at": "2026-09-22T00:00:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49802581",
-    "title": "Vacate a drone restriction that criminalized recording immigration agents",
-    "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-09-22T15:07:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49801218",
-    "title": "The Economics of Open-Weight Inference",
-    "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-22T13:45:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49782452",
-    "title": "Relativistic raytracing",
-    "url": "https://publish.obsidian.md/h1m3/Articles/Relativistic+raytracing",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-21T02:39:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49780622",
-    "title": "MUNI Heritage Weekend in San Francisco",
-    "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
-    "source": "hackernews",
-    "score": 106.0,
-    "published_at": "2026-09-20T22:13:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49802030",
-    "title": "Meta’s Muse has a serious 0-day",
-    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-    "source": "hackernews",
-    "score": 78.0,
-    "published_at": "2026-09-22T14:35:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49802871",
-    "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
-    "url": "https://mouse.dev/blog/muse-runtime-export/",
-    "source": "hackernews",
-    "score": 191.0,
-    "published_at": "2026-09-22T15:25:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49773597",
-    "title": "Teleoperated Humans",
-    "url": "https://www.jefftk.com/p/teleoperated-humans",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-20T08:02:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49779984",
-    "title": "One Minute Park",
-    "url": "https://oneminutepark.tv/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-20T20:55:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49802789",
-    "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
-    "url": "https://github.com/General-Instinct/InstinctFlash",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-22T15:20:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49794193",
-    "title": "Solitaire Alone Together",
-    "url": "https://solitairealonetogether.com/",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-09-21T22:16:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49803683",
-    "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-    "url": "https://ai-rete-rag.com/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-22T16:15:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49801329",
-    "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
-    "url": "https://droprun.sh/",
-    "source": "hackernews",
-    "score": 104.0,
-    "published_at": "2026-09-22T13:52:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49803085",
-    "title": "Writing Rust code that's fast by asking agents to make the code faster",
-    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-22T15:38:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49801939",
-    "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-    "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
-    "source": "hackernews",
-    "score": 373.0,
-    "published_at": "2026-09-22T14:30:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49804931",
-    "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-    "url": "https://www.coveragecat.com/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-22T17:26:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49802161",
-    "title": "OpenAI is well positioned to fast-follow Jev",
-    "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-    "source": "hackernews",
-    "score": 157.0,
-    "published_at": "2026-09-22T14:42:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49804683",
-    "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-    "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-22T17:12:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49803635",
-    "title": "16-bit Intel 8088 chip",
-    "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-22T16:11:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49803959",
-    "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-    "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-22T16:33:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49804316",
-    "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
-    "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-22T16:51:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49801324",
-    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-    "source": "hackernews",
-    "score": 351.0,
-    "published_at": "2026-09-22T13:52:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49803892",
-    "title": "Claude Opus 5.5",
-    "url": "https://www.anthropic.com/claude-opus-5-5",
-    "source": "hackernews",
-    "score": 319.0,
-    "published_at": "2026-09-22T16:29:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:20c9v3",
-    "title": "graphing my sleep schedule",
-    "url": "https://char.lt/blog/2026/09/non24swd/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-22T01:30:42.369-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qwijru",
-    "title": "Extralite 3.1.0 is Here",
-    "url": "https://noteflakes.com/articles/2026-09-22-extralite-3-1-0",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-22T04:38:54.074-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uahccr",
-    "title": "A First Futamura Projection",
-    "url": "https://blog.veitheller.de/A_First_Futamura_Projection.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-22T00:24:59.478-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5svlut",
-    "title": "AI Has No Wisdom and Neither Will You",
-    "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-22T06:55:39.143-05:00",
     "summary": "",
     "key_points": []
   }
