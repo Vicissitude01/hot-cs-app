@@ -1,5 +1,175 @@
 [
   {
+    "id": "lobsters:ekbatu",
+    "title": "How to keep enjoying programming in a world of LLMs",
+    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-25T18:22:27.151-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:33w4jp",
+    "title": "weave: structural merging for different languages",
+    "url": "https://github.com/Ataraxy-Labs/weave",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-25T17:33:21.333-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gt2jle",
+    "title": "We’re gonna need a lot more mathematicians",
+    "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-25T13:27:05.345-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49846409",
+    "title": "Show HN: I discovered roads in the US across > 1000 themes",
+    "url": "https://road-about-a-theme.pinedesk.biz/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-25T16:05:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49842409",
+    "title": "I wrote a ray tracer in Brainfuck",
+    "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-25T10:08:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49820349",
+    "title": "Loopjacking in A2A Implementations: Hijacking Human-in-the-Loop Approvals",
+    "url": "https://adithyanak.com/loopjacking-in-a2a-implementations/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-23T18:23:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49851169",
+    "title": "Issues with Codex – Identified – Full Outage",
+    "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-25T23:04:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49848955",
+    "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+    "url": "https://news.ycombinator.com/item?id=49848955",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-09-25T19:37:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49849907",
+    "title": "Teaching a World Model to Play Pokemon",
+    "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-25T21:02:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49849141",
+    "title": "How we learned to stop worrying and love campus surveillance",
+    "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+    "source": "hackernews",
+    "score": 78.0,
+    "published_at": "2026-09-25T19:56:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49827208",
+    "title": "Initial DIY Cleanroom Experimentation",
+    "url": "https://www.jefftk.com/p/initial-diy-cleanroom-experimentation",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-24T07:02:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49849832",
+    "title": "Excel now supports multiple values in a single cell",
+    "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-09-25T20:55:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49838247",
+    "title": "Remembering Johannes Doerfert",
+    "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-24T23:36:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49850305",
+    "title": "What even is an OS now?",
+    "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-09-25T21:36:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49842462",
+    "title": "An airport cooled by natural ventilation",
+    "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-25T10:16:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49851032",
+    "title": "Tell HN: Codex Is Down",
+    "url": "https://news.ycombinator.com/item?id=49851032",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-09-25T22:51:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49849985",
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "url": "https://swarmtraces.org/",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-09-25T21:09:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:5qgygw",
     "title": "How to use this project?",
     "url": "https://github.com/antirez/ds4#how-to-use-this-project",
@@ -4826,176 +4996,6 @@
     "source": "hackernews",
     "score": 29.0,
     "published_at": "2026-09-21T23:16:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49794615",
-    "title": "Spymarks, Not Watermarks",
-    "url": "https://brand.io/article/spymarks/",
-    "source": "hackernews",
-    "score": 110.0,
-    "published_at": "2026-09-21T23:03:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49795579",
-    "title": "Claude Status – Elevated errors for multiple models",
-    "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-09-22T01:05:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xlbphk",
-    "title": "Named and Optional Arguments are Awesome",
-    "url": "https://botahamec.dev/named-optional-args",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-21T16:16:53.226-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kpegs1",
-    "title": "evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it",
-    "url": "https://code.irenes.space/evocation/tree/README.txt",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-21T16:51:56.741-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xb9tkn",
-    "title": "Lifestreams: a storage model for personal data (1996)",
-    "url": "https://www.ee.columbia.edu/~dpwe/papers/FreeG96-lifestreams.pdf",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-21T12:40:40.954-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fbo41b",
-    "title": "Attention is all you have",
-    "url": "https://alicegg.tech/2026/09/21/attention",
-    "source": "lobsters",
-    "score": 13.0,
-    "published_at": "2026-09-21T14:06:21.139-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687648292588470287",
-    "title": "不只看跑分，Step 5 Preview 两个真实编程任务实测",
-    "url": "https://juejin.cn/post/7687648292588470287",
-    "source": "juejin",
-    "score": 1.26596918,
-    "published_at": "2026-09-21T12:07:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:coder/coder",
-    "title": "coder",
-    "url": "https://github.com/coder/coder",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49789356",
-    "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-    "url": "https://github.com/naw103/foremerge",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-21T16:22:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49783274",
-    "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
-    "url": "https://www.nongnu.org/txr/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-21T05:09:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49776382",
-    "title": "The Journey of a Migratory Shorebird",
-    "url": "https://www.newyorker.com/magazine/2026/09/21/the-incredible-journey-of-a-migratory-shorebird",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-20T14:44:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49791720",
-    "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-    "url": "https://robocurve.org/roboharm/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-21T18:58:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49791647",
-    "title": "Frontier AI on Your Own Hardware",
-    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-09-21T18:53:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49791125",
-    "title": "Apple Copland D11E4 Booting in the Browser",
-    "url": "https://www.pagetable.com/300",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-09-21T18:15:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49769561",
-    "title": "Divide by depth for instant 3D",
-    "url": "https://gabrieloc.com/2026/09/15/perspective.html",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-09-19T19:43:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49794330",
-    "title": "I don't want to read what you didn't write",
-    "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-21T22:30:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49792342",
-    "title": "Transformers Explained Visually",
-    "url": "https://poloclub.github.io/transformer-explainer/",
-    "source": "hackernews",
-    "score": 128.0,
-    "published_at": "2026-09-21T19:43:49+00:00",
     "summary": "",
     "key_points": []
   }
