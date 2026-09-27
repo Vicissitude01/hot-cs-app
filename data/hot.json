@@ -1,5 +1,285 @@
 [
   {
+    "id": "lobsters:exda3k",
+    "title": "Writing Efficient C++ Code",
+    "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-27T13:03:12.695-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:msjitj",
+    "title": "postmarketOS rebrands as Nura",
+    "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-27T12:34:21.672-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244972",
+    "title": "屌爆了，一句话使用 Opus5.5 制作了一个开源项目 StrokeMouse 宣传片，附提示词",
+    "url": "https://www.v2ex.com/t/1244972",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-09-27T00:38:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689299285138128932",
+    "title": "一天一个开源项目（第 227 篇）：Strands Agents Harness SDK —— 从「手写 Agent 循环」到「一行代码拿到生产级 Agent」",
+    "url": "https://juejin.cn/post/7689299285138128932",
+    "source": "juejin",
+    "score": 0.13599162,
+    "published_at": "2026-09-25T10:02:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49864743",
+    "title": "Rusty thoughts on \"Parse, don't validate\"",
+    "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-09-27T08:59:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49866534",
+    "title": "Ten lines of code that changed my world",
+    "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+    "source": "hackernews",
+    "score": 93.0,
+    "published_at": "2026-09-27T13:33:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49864105",
+    "title": "Show HN: Trail – new kind of logic game",
+    "url": "https://trail.franzai.com/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-27T07:02:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49824144",
+    "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
+    "url": "https://3d-retro.com/",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-09-23T23:33:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49867553",
+    "title": "PostmarketOS is rebranding as Nura",
+    "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-09-27T15:31:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49859982",
+    "title": "Faster prompt lookup drafting in llama.cpp",
+    "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-26T19:57:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49859759",
+    "title": "Video CDs Break Windows Explorer",
+    "url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-09-26T19:30:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49866597",
+    "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
+    "url": "https://www.markdown.beauty/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-27T13:44:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49856885",
+    "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+    "url": "https://fakecloud.dev/",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-09-26T14:25:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49853476",
+    "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
+    "url": "https://generalroboticslab.com/cartesian_handv1",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-26T05:27:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49852832",
+    "title": "Walgit: A Git server that is one binary in front of an object store",
+    "url": "https://github.com/rgodha24/walgithub",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-09-26T03:09:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49868083",
+    "title": "There are no \"rogue\" AI agents",
+    "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+    "source": "hackernews",
+    "score": 217.0,
+    "published_at": "2026-09-27T16:19:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49845284",
+    "title": "John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes",
+    "url": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-25T14:38:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49866988",
+    "title": "Fragment of oldest known peace treaty found in Turkey",
+    "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-27T14:35:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49867067",
+    "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+    "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+    "source": "hackernews",
+    "score": 292.0,
+    "published_at": "2026-09-27T14:45:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49869142",
+    "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+    "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-27T18:02:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49868831",
+    "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+    "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+    "source": "hackernews",
+    "score": 130.0,
+    "published_at": "2026-09-27T17:32:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49867486",
+    "title": "The Normalization of Inexplicable Failures",
+    "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+    "source": "hackernews",
+    "score": 186.0,
+    "published_at": "2026-09-27T15:26:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49867775",
+    "title": "Show HN: TinyAIArena watch AI agents battle it out",
+    "url": "https://tinyaiarena.com/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-09-27T15:51:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49866515",
+    "title": "Replacing the old battery on rechargeable bike lights",
+    "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+    "source": "hackernews",
+    "score": 100.0,
+    "published_at": "2026-09-27T13:30:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49849409",
+    "title": "Writing Efficient C++ Code (2013)",
+    "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+    "source": "hackernews",
+    "score": 109.0,
+    "published_at": "2026-09-25T20:20:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49866951",
+    "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+    "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+    "source": "hackernews",
+    "score": 136.0,
+    "published_at": "2026-09-27T14:30:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49869574",
+    "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+    "url": "https://loficities.com/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-27T18:44:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49868830",
+    "title": "Ember-1",
+    "url": "https://fireworks.ai/blog/ember-1",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-09-27T17:31:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:fcj31p",
     "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
     "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
@@ -4716,286 +4996,6 @@
     "source": "juejin",
     "score": 0.83147831,
     "published_at": "2026-09-23T04:28:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49823348",
-    "title": "Mercury 2.5 LLM hits 770 tokens per second",
-    "url": "https://artificialanalysis.ai/models/mercury-2-5",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-09-23T22:16:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49796372",
-    "title": "The \"Windows XP Box\" (2003)",
-    "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-22T03:09:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49823195",
-    "title": "We just shipped support for the ugliest part of HTTP: Vary",
-    "url": "https://blog.cloudflare.com/vary-support/",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-23T22:03:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49823664",
-    "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-    "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-23T22:45:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49823582",
-    "title": "Linux support is coming to Snapdragon X2 Series",
-    "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-09-23T22:38:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49824268",
-    "title": "Meta VR Glasses",
-    "url": "https://www.meta.com/vr-glasses/",
-    "source": "hackernews",
-    "score": 124.0,
-    "published_at": "2026-09-23T23:47:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dtozf3",
-    "title": "Adaptive Lossless Floating-Point Encoding in Apache Parquet",
-    "url": "https://parquet.apache.org/blog/2026/09/22/alp-adaptive-lossless-floating-point-encoding-in-apache-parquet/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-23T14:23:21.754-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kjqjse",
-    "title": "A brief history of Windows scroll bar shortcuts",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-23T14:51:19.594-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:aaq59w",
-    "title": "Ideas on modernizing the open-source desktop",
-    "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-23T14:49:57.115-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49791296",
-    "title": "Show HN: Conway's Game of Life in boot sector",
-    "url": "https://github.com/0xAX/BootLife",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-21T18:28:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49819880",
-    "title": "Making Tailscale Faster",
-    "url": "https://tailscale.com/blog/making-tailscale-faster",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-23T17:49:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49821196",
-    "title": "Once Claude can measure something, it can make it faster",
-    "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-    "source": "hackernews",
-    "score": 122.0,
-    "published_at": "2026-09-23T19:23:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49821086",
-    "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
-    "url": "https://www.forensicdbg.com",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-23T19:15:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49781492",
-    "title": "A refined phylochronology of the second plague pandemic in Western Eurasia",
-    "url": "https://www.pnas.org/doi/10.1073/pnas.2534899123",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-21T00:06:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49820136",
-    "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
-    "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-23T18:07:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49821608",
-    "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
-    "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
-    "source": "hackernews",
-    "score": 234.0,
-    "published_at": "2026-09-23T19:55:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49799855",
-    "title": "The mystery animal on an ancient god's head",
-    "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-22T12:00:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49806413",
-    "title": "The Curious Power of Punctuation",
-    "url": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-22T19:02:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49799241",
-    "title": "Show HN: An atlas of system designs with interactive architecture diagrams",
-    "url": "https://atlas-sysdes.vercel.app/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-22T10:54:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49822864",
-    "title": "Claude's Load-Bearing Seams",
-    "url": "https://madradavid.com/claudes-load-bearing-seams/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-23T21:31:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49822556",
-    "title": "OpenAI breaches Medicare, Albanese reveals",
-    "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-09-23T21:01:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49820496",
-    "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-    "url": "https://huggingface.co/apple/LensVLM-9B",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-23T18:36:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49822555",
-    "title": "VSCode's SSH Agent Is Bananas",
-    "url": "https://fly.io/blog/vscode-ssh-wtf/",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-23T21:01:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49820134",
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "source": "hackernews",
-    "score": 351.0,
-    "published_at": "2026-09-23T18:06:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nwg2ha",
-    "title": "Why didn't anybody tell me about Redis hash slots?",
-    "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-23T12:07:56.935-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5xxm0v",
-    "title": "The Zig Journey",
-    "url": "https://kristoff.it/blog/the-zig-journey/",
-    "source": "lobsters",
-    "score": 21.0,
-    "published_at": "2026-09-23T10:25:52.923-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:b39503",
-    "title": "KDE for People",
-    "url": "https://kdeforpeople.com",
-    "source": "lobsters",
-    "score": 24.0,
-    "published_at": "2026-09-23T11:08:33.758-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:r3ydgj",
-    "title": "I want my mesh networks to be signed, not encrypted",
-    "url": "https://andanti.no/blog/SignedMesh.html",
-    "source": "lobsters",
-    "score": 13.0,
-    "published_at": "2026-09-23T09:39:46.740-05:00",
     "summary": "",
     "key_points": []
   }
