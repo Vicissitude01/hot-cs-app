@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:lw0e1u",
+    "title": "mantle.nes breakdown blog part 1",
+    "url": "https://melon.zone/blog/blog/gamedev/tech/fun/2026-09-23-mantle-nes-breakdown-part-1/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-26T20:06:21.886-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ueh7gz",
+    "title": "Robot-use agents",
+    "url": "https://web.mit.edu/phillipi/www/writing/robot-use-agents.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-27T02:15:07.852-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fli8va",
+    "title": "Improving site performance by shipping more CSS",
+    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-27T02:15:30.259-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ivbx5f",
+    "title": "One month without AI",
+    "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-09-27T01:22:21.194-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244965",
+    "title": "重置已收到，但是 X 上看了评论。。。",
+    "url": "https://www.v2ex.com/t/1244965",
+    "source": "v2ex",
+    "score": 58.0,
+    "published_at": "2026-09-26T23:34:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244952",
+    "title": "开始弃用 vscode",
+    "url": "https://www.v2ex.com/t/1244952",
+    "source": "v2ex",
+    "score": 70.0,
+    "published_at": "2026-09-26T16:23:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689029864910225458",
+    "title": "GetX 在 Flutter 中的使用：两种视图管理方式解析",
+    "url": "https://juejin.cn/post/7689029864910225458",
+    "source": "juejin",
+    "score": 0.09935511,
+    "published_at": "2026-09-24T10:01:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688968064205586474",
+    "title": "一张平面图把学校做成2D游戏",
+    "url": "https://juejin.cn/post/7688968064205586474",
+    "source": "juejin",
+    "score": 0.03348924,
+    "published_at": "2026-09-24T15:54:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689305673976938523",
+    "title": "Claude注册，订阅，防风，解风经验！",
+    "url": "https://juejin.cn/post/7689305673976938523",
+    "source": "juejin",
+    "score": 0.36390009,
+    "published_at": "2026-09-26T15:18:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688528701484302377",
+    "title": "Java 27 悄悄改了 3 个默认值，我在 1 核小机器上逐个验证了一遍",
+    "url": "https://juejin.cn/post/7688528701484302377",
+    "source": "juejin",
+    "score": 0.09712149,
+    "published_at": "2026-09-23T22:54:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688611918492614698",
+    "title": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
+    "url": "https://juejin.cn/post/7688611918492614698",
+    "source": "juejin",
+    "score": 0.12265214,
+    "published_at": "2026-09-24T01:50:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689030470209896498",
+    "title": "同一个审批流引擎，我写了两次：一次 11226 行，一次 7036 行",
+    "url": "https://juejin.cn/post/7689030470209896498",
+    "source": "juejin",
+    "score": 0.10063442,
+    "published_at": "2026-09-24T23:40:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689030783365873690",
+    "title": "Claude Opus5.5的关键信息和实测结果！",
+    "url": "https://juejin.cn/post/7689030783365873690",
+    "source": "juejin",
+    "score": 0.13185953,
+    "published_at": "2026-09-25T14:15:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689030315844419630",
+    "title": "耗时两周从零搭建私有化企业 RAG 知识库，完整架构与踩坑总结",
+    "url": "https://juejin.cn/post/7689030315844419630",
+    "source": "juejin",
+    "score": 0.0997151,
+    "published_at": "2026-09-25T02:05:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688689006075756580",
+    "title": "Android HWC退化与防治方法",
+    "url": "https://juejin.cn/post/7688689006075756580",
+    "source": "juejin",
+    "score": 0.13920503,
+    "published_at": "2026-09-24T06:59:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49847430",
+    "title": "LP Voting and Investor Consent for AIFs",
+    "url": "https://taghash.io/blog/lp-voting-and-investor-consent-for-aifs-a-practical-workflow",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-09-25T17:23:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49849723",
+    "title": "Finally, A True Blue Rose Exists",
+    "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-25T20:44:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49863600",
+    "title": "The internet discovers TLA+. Now what?",
+    "url": "https://reasonable.io/blog/tla-tutorial/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-27T05:26:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49845114",
+    "title": "C's Flexible Integer Sizes Were Not a Design Mistake",
+    "url": "https://pikuma.com/blog/c-integer-sizes-not-a-mistake",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-25T14:23:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49856193",
+    "title": "Improving site performance by shipping more CSS",
+    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-26T13:10:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49854219",
+    "title": "Flip Fluid on Flip Dots",
+    "url": "https://mitxela.com/projects/flipflip",
+    "source": "hackernews",
+    "score": 92.0,
+    "published_at": "2026-09-26T07:50:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49863864",
+    "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "source": "hackernews",
+    "score": 205.0,
+    "published_at": "2026-09-27T06:19:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49864642",
+    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+    "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+    "source": "hackernews",
+    "score": 132.0,
+    "published_at": "2026-09-27T08:44:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:0rcuoj",
     "title": "Honeypot on the boykisser forum",
     "url": "https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/",
@@ -4766,236 +4996,6 @@
     "source": "hackernews",
     "score": 232.0,
     "published_at": "2026-09-23T15:18:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:huj44r",
-    "title": "Do not let your type system reason about aliasing in your programming language",
-    "url": "https://futhark-lang.org/blog/2026-09-22-aliasing.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-23T09:07:23.555-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:eqme8i",
-    "title": "Latest BGP hijack targets hosting software vendor",
-    "url": "https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-23T06:55:38.027-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4uqtta",
-    "title": "SAML: A fractal of bad design",
-    "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-23T05:58:54.731-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9zjyto",
-    "title": "Cheaper LLM labelling",
-    "url": "https://entropicthoughts.com/cheaper-llm-labeling",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-23T08:14:06.452-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:d339rn",
-    "title": "The GitHub wiki is an anti-pattern",
-    "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-09-23T06:48:39.707-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qysrps",
-    "title": "Abandoning Scientific Linux Was a Mistake",
-    "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
-    "source": "lobsters",
-    "score": 13.0,
-    "published_at": "2026-09-23T04:53:20.473-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kras1h",
-    "title": "The GNOME LLM Policy That I Want",
-    "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
-    "source": "lobsters",
-    "score": 21.0,
-    "published_at": "2026-09-23T05:28:14.797-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244201",
-    "title": "注册 meta 的 muse 智能体 使用 google gemini pro 的 spark [绕过 ip 问题与排队]",
-    "url": "https://www.v2ex.com/t/1244201",
-    "source": "v2ex",
-    "score": 150.0,
-    "published_at": "2026-09-23T03:45:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688298824981856271",
-    "title": "程序员即将隐退，建造者持续辉煌",
-    "url": "https://juejin.cn/post/7688298824981856271",
-    "source": "juejin",
-    "score": 2.17304393,
-    "published_at": "2026-09-23T04:03:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:TNT-Likely/PanWatch",
-    "title": "PanWatch",
-    "url": "https://github.com/TNT-Likely/PanWatch",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:harry7557558/spirula-studio",
-    "title": "spirula-studio",
-    "url": "https://github.com/harry7557558/spirula-studio",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:DeusData/codebase-memory-mcp",
-    "title": "codebase-memory-mcp",
-    "url": "https://github.com/DeusData/codebase-memory-mcp",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:pbakaus/impeccable",
-    "title": "impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:HKUDS/CLI-Anything",
-    "title": "CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:strands-agents/harness-sdk",
-    "title": "harness-sdk",
-    "url": "https://github.com/strands-agents/harness-sdk",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:obra/superpowers",
-    "title": "superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49815095",
-    "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
-    "url": "https://filmstudio.rxlab.app",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-23T12:28:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49816176",
-    "title": "Comma's hands-off driving tech under investigation after 2 fatal crashes",
-    "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-23T13:50:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49815526",
-    "title": "The Price of Intelligence Is Falling Rapidly",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-23T13:08:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49815168",
-    "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
-    "url": "https://ivesentit.com",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-23T12:36:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49815066",
-    "title": "Show HN: Jevper – the Jev interface on top of any OpenAI-compatible model",
-    "url": "https://github.com/zhulinchng/jevper",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-23T12:25:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49814432",
-    "title": "Two Git ignore files nobody told me about",
-    "url": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-23T11:28:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49814780",
-    "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
-    "url": "https://questdb.com/careers/pre-sales-engineer-north-america/",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-09-23T12:01:04+00:00",
     "summary": "",
     "key_points": []
   }
