@@ -1,5 +1,165 @@
 [
   {
+    "id": "lobsters:fcj31p",
+    "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
+    "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-09-27T09:47:13.187-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fpk9gq",
+    "title": "Ten Lines Of Code That Changed My World",
+    "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-27T08:05:28.206-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mwc2fu",
+    "title": "What Improves Developer Productivity at Google? Code Quality",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-27T07:52:57.601-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1colyy",
+    "title": "“They had no concept of a duty of care to their users.”",
+    "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-27T09:44:53.153-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:apoyxs",
+    "title": "LuaRocks Security Incident September 2026",
+    "url": "https://luarocks.org/security-incident-september-2026",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-27T08:58:57.101-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244968",
+    "title": "Claude 这波操作给我整不会了",
+    "url": "https://www.v2ex.com/t/1244968",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-09-27T00:05:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245031",
+    "title": "muse 注册非常丝滑，正常注册就行！",
+    "url": "https://www.v2ex.com/t/1245031",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-09-27T06:47:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1244970",
+    "title": "各位大佬，请问怎么才能用上 Claude？",
+    "url": "https://www.v2ex.com/t/1244970",
+    "source": "v2ex",
+    "score": 68.0,
+    "published_at": "2026-09-27T00:13:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245045",
+    "title": "MUSE 好像放开注册了，比较轻松就成功了",
+    "url": "https://www.v2ex.com/t/1245045",
+    "source": "v2ex",
+    "score": 78.0,
+    "published_at": "2026-09-27T08:42:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245024",
+    "title": "10000000000 Token MUSE.AI，整理了七八十吧，省的翻了。",
+    "url": "https://www.v2ex.com/t/1245024",
+    "source": "v2ex",
+    "score": 102.0,
+    "published_at": "2026-09-27T06:00:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689599510955278336",
+    "title": "为什么越来越多人用 OnlyOffice？",
+    "url": "https://juejin.cn/post/7689599510955278336",
+    "source": "juejin",
+    "score": 1.80352624,
+    "published_at": "2026-09-27T07:58:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:willfaust/Madeira",
+    "title": "Madeira",
+    "url": "https://github.com/willfaust/Madeira",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mvschwarz/openrig",
+    "title": "openrig",
+    "url": "https://github.com/mvschwarz/openrig",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:vercel-labs/scriptc",
+    "title": "scriptc",
+    "url": "https://github.com/vercel-labs/scriptc",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:InfinityLoop1308/PipePipe",
+    "title": "PipePipe",
+    "url": "https://github.com/InfinityLoop1308/PipePipe",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:debpalash/VoiceStudio",
+    "title": "VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:lw0e1u",
     "title": "mantle.nes breakdown blog part 1",
     "url": "https://melon.zone/blog/blog/gamedev/tech/fun/2026-09-23-mantle-nes-breakdown-part-1/",
@@ -4836,166 +4996,6 @@
     "source": "lobsters",
     "score": 13.0,
     "published_at": "2026-09-23T09:39:46.740-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ad5vwg",
-    "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-    "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
-    "source": "lobsters",
-    "score": 38.0,
-    "published_at": "2026-09-23T09:34:37.015-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244262",
-    "title": "33 岁 8 年大厂前端 Gap 三年找工作近况最后一次更新，决定放弃找工作，在家人的支持下决定再创业一年试试，送各位大佬五个码，希望大佬们给个商店好评",
-    "url": "https://www.v2ex.com/t/1244262",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-09-23T07:04:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688238990706016283",
-    "title": "最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！",
-    "url": "https://juejin.cn/post/7688238990706016283",
-    "source": "juejin",
-    "score": 1.09500363,
-    "published_at": "2026-09-23T00:52:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Open-Dev-Society/OpenStock",
-    "title": "OpenStock",
-    "url": "https://github.com/Open-Dev-Society/OpenStock",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49817404",
-    "title": "GPT-6 Astra has gained the ability to drive a car",
-    "url": "https://drivingbench.com/",
-    "source": "hackernews",
-    "score": 203.0,
-    "published_at": "2026-09-23T15:14:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49816374",
-    "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
-    "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
-    "source": "hackernews",
-    "score": 132.0,
-    "published_at": "2026-09-23T14:04:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49809935",
-    "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
-    "url": "https://github.com/pkimpel/retro-1620",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-23T00:06:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49817289",
-    "title": "Strands Harness",
-    "url": "https://strandsagents.com/blog/introducing-strands-harness/",
-    "source": "hackernews",
-    "score": 100.0,
-    "published_at": "2026-09-23T15:05:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49818698",
-    "title": "28% of job postings on company career sites have been open over 90 days",
-    "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-09-23T16:35:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49820065",
-    "title": "A brief history of Windows scroll bar shortcuts",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-23T18:02:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49815982",
-    "title": "Stripe's Knowledge AI Platform",
-    "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-    "source": "hackernews",
-    "score": 126.0,
-    "published_at": "2026-09-23T13:38:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49817524",
-    "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-    "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-09-23T15:23:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49817615",
-    "title": "Gemini 3.8 text-to-speech",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-    "source": "hackernews",
-    "score": 142.0,
-    "published_at": "2026-09-23T15:29:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49819221",
-    "title": "Italian parliament votes for return to nuclear energy",
-    "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-    "source": "hackernews",
-    "score": 117.0,
-    "published_at": "2026-09-23T17:06:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49819814",
-    "title": "UK military jamming other nations' satellites to defend itself, BBC told",
-    "url": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-09-23T17:45:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49817469",
-    "title": "Fixing the Portobello Police Station Clock",
-    "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-    "source": "hackernews",
-    "score": 232.0,
-    "published_at": "2026-09-23T15:18:53+00:00",
     "summary": "",
     "key_points": []
   }
