@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:69mmo0",
+    "title": "DogWood: Monitoring Policies using First Order Temporal Logic",
+    "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-27T23:36:20.822-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yidvju",
+    "title": "Pragmatic Anthropomorphism, or: How to Talk to an Autocompleting Cricket",
+    "url": "https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-28T00:48:54.004-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0knxvq",
+    "title": "Expert asterisks",
+    "url": "https://nedbatchelder.com/blog/202609/expert_asterisks",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-27T22:48:21.007-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pfzhxp",
+    "title": "Replacing the old battery on rechargeable bike lights",
+    "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-27T22:27:24.858-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hjkktn",
+    "title": "Fool's Expertise",
+    "url": "https://bcantrill.dtrace.org/2026/09/27/fools-expertise/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-27T22:50:52.079-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fqype1",
+    "title": "What makes Lisp difficult to read?",
+    "url": "https://paultm.nl/paren-thesis",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-27T23:44:02.263-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245109",
+    "title": "AI 带来的不是便利性，而是更多人的迷失",
+    "url": "https://www.v2ex.com/t/1245109",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-09-27T23:57:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245137",
+    "title": "自从看了动漫 还看看的下去电影,电视剧吗?",
+    "url": "https://www.v2ex.com/t/1245137",
+    "source": "v2ex",
+    "score": 88.0,
+    "published_at": "2026-09-28T01:42:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245130",
+    "title": "第一次去港澳，想问问有什么值得特地去买的东西吗",
+    "url": "https://www.v2ex.com/t/1245130",
+    "source": "v2ex",
+    "score": 114.0,
+    "published_at": "2026-09-28T01:22:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245124",
+    "title": "有多少人和我一样今天连休！中秋到国庆之间这三天！",
+    "url": "https://www.v2ex.com/t/1245124",
+    "source": "v2ex",
+    "score": 154.0,
+    "published_at": "2026-09-28T01:20:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245121",
+    "title": "VVAE：一个 V2EX 原生 iOS 客户端 - 送 Premium 兑换码",
+    "url": "https://www.v2ex.com/t/1245121",
+    "source": "v2ex",
+    "score": 190.0,
+    "published_at": "2026-09-28T01:08:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245140",
+    "title": "我实在是无法理解认为重置周期时间会亏这种想法",
+    "url": "https://www.v2ex.com/t/1245140",
+    "source": "v2ex",
+    "score": 212.0,
+    "published_at": "2026-09-28T01:54:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689377403413430307",
+    "title": "顶级模型一句话，AI 写出了能玩的 QQ飞车",
+    "url": "https://juejin.cn/post/7689377403413430307",
+    "source": "juejin",
+    "score": 0.28469991,
+    "published_at": "2026-09-27T03:13:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7689818941397778478",
+    "title": "突发！字节内部大调整，QA直接转研发了？",
+    "url": "https://juejin.cn/post/7689818941397778478",
+    "source": "juejin",
+    "score": 5.45386119,
+    "published_at": "2026-09-28T01:56:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49872541",
+    "title": "Packing Binary Is Fun",
+    "url": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-28T01:33:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49872864",
+    "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+    "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-28T02:27:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49851795",
+    "title": "Deterministic Concurrency [video]",
+    "url": "https://www.youtube.com/watch?v=25x0UuSCKuU",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-26T00:14:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49855447",
+    "title": "The Greatest Pun in JavaScript",
+    "url": "https://shukla.io/blog/2026-09/pun.html",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-26T11:18:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49872474",
+    "title": "Was silent reading unusual during Augustine's time?",
+    "url": "https://www.historyofinformation.com/detail.php?entryid=4341",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-09-28T01:22:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49852238",
+    "title": "Functional Mechanical Sympathy [video]",
+    "url": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-26T01:26:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49869755",
+    "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+    "url": "https://www.inkandswitch.com/essay/malleable-software/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-09-27T19:01:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49873241",
+    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+    "url": "https://arxiv.org/abs/2110.01834",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-09-28T03:23:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49872723",
+    "title": "Owed a billion dollars in Nvidia stock",
+    "url": "https://colo.to/nvidia-stock-narrative.html",
+    "source": "hackernews",
+    "score": 517.0,
+    "published_at": "2026-09-28T02:05:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:edx1gf",
     "title": "Thorsten Ball - What I believe about the future of software development",
     "url": "https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/",
@@ -4766,236 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:FxEmbed/FxEmbed",
-    "title": "FxEmbed",
-    "url": "https://github.com/FxEmbed/FxEmbed",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:NVIDIA/Model-Optimizer",
-    "title": "Model-Optimizer",
-    "url": "https://github.com/NVIDIA/Model-Optimizer",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:vectorize-io/hindsight",
-    "title": "hindsight",
-    "url": "https://github.com/vectorize-io/hindsight",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:rohitg00/ai-engineering-from-scratch",
-    "title": "ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49827383",
-    "title": "The Year of Internal Tools",
-    "url": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-24T07:23:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49828177",
-    "title": "Looks promising for document editing with your agent",
-    "url": "https://www.paperinstruments.com/blog/introducing-paper-office",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-24T09:19:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49793249",
-    "title": "Women Who Sold Books Door to Door",
-    "url": "https://daily.jstor.org/the-women-who-sold-books-door-to-door/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-09-21T20:52:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49804052",
-    "title": "Automated optimization of a molecular simulation program",
-    "url": "https://shishir-iyer.medium.com/automated-optimization-of-a-molecular-simulation-program-4a28a2bc05ad",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-22T16:38:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49825580",
-    "title": "OpenAI agent hacked Australian government website, PM says",
-    "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-    "source": "hackernews",
-    "score": 88.0,
-    "published_at": "2026-09-24T02:44:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49826565",
-    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-    "url": "https://transluce.org/agent-activity",
-    "source": "hackernews",
-    "score": 149.0,
-    "published_at": "2026-09-24T05:21:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49827794",
-    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-    "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-    "source": "hackernews",
-    "score": 207.0,
-    "published_at": "2026-09-24T08:23:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49802661",
-    "title": "RAM: the forgotten history (2024)",
-    "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-09-22T15:12:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49828409",
-    "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
-    "url": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
-    "source": "hackernews",
-    "score": 80.0,
-    "published_at": "2026-09-24T09:52:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49828385",
-    "title": "Nokia Design Archive (2025)",
-    "url": "https://nokiadesignarchive.aalto.fi/index.html",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-09-24T09:49:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3yywjl",
-    "title": "FLAWED’s Flaws and What This Means for Industry Research",
-    "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-23T20:18:23.555-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:a6wzgu",
-    "title": "Why you should check your gem's lines of code",
-    "url": "https://spinel.coop/blog/why-you-should-check-your-gems-lines-of-code/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-23T19:48:47.587-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:iulfsj",
-    "title": "We just shipped support for the ugliest part of HTTP: Vary",
-    "url": "https://blog.cloudflare.com/vary-support/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-23T17:41:53.108-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ip3taa",
-    "title": "Inside Snapdragon Summit 2026: Agentic AI PCs, Googlebooks and Linux | Qualcomm",
-    "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-23T22:51:54.823-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wvb8wg",
-    "title": "Automatically detecting AI text in my browser",
-    "url": "https://www.seangoedecke.com/deckard/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-23T20:38:45.389-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wf4wid",
-    "title": "The Story of Mel",
-    "url": "https://users.cs.utah.edu/~elb/folklore/mel.html",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-23T23:09:40.357-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244397",
-    "title": "假设发生极端意外，你的 NAS、私有云、数字资产和一堆密码打算怎么留给家人？",
-    "url": "https://www.v2ex.com/t/1244397",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-09-24T00:34:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244335",
-    "title": "逝世三周年民俗调查",
-    "url": "https://www.v2ex.com/t/1244335",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-09-23T12:39:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244433",
-    "title": "你敢信，小米 18 系列都 9999 了，这价格谁还买小米啊！",
-    "url": "https://www.v2ex.com/t/1244433",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-09-24T01:57:15+00:00",
     "summary": "",
     "key_points": []
   }
