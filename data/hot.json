@@ -1,5 +1,165 @@
 [
   {
+    "id": "lobsters:edx1gf",
+    "title": "Thorsten Ball - What I believe about the future of software development",
+    "url": "https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-09-27T18:37:33.930-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qgsfdf",
+    "title": "EX-ARRR: Sailing the 0-click Seas",
+    "url": "https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-09-27T18:32:38.750-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hy7ckt",
+    "title": "Syncing Rust GCC backend or how to test Murphy's law",
+    "url": "https://blog.guillaume-gomez.fr/articles/2026-09-22+Syncing+Rust+GCC+backend+or+how+to+test+Murphy%27s+law",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-27T19:10:55.368-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nmksyw",
+    "title": "Dropping Swift entirely from our Bevy iOS crates",
+    "url": "https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-27T18:22:45.754-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245115",
+    "title": "银河 ETF 免 5 即将停止，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。",
+    "url": "https://www.v2ex.com/t/1245115",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-09-28T00:37:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245020",
+    "title": "离职半年了， AI 对工作流程的影响有多大？想回去上班",
+    "url": "https://www.v2ex.com/t/1245020",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-09-27T05:18:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245037",
+    "title": "求家庭组网方案建议",
+    "url": "https://www.v2ex.com/t/1245037",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-09-27T07:15:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245104",
+    "title": "看了影视飓风 Tim 的创业视频，聊聊我的看法",
+    "url": "https://www.v2ex.com/t/1245104",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-09-27T18:17:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7688929298951864335",
+    "title": "开发自己的第一个MCP--用 AI 智能重构 Excel 处理工作流",
+    "url": "https://juejin.cn/post/7688929298951864335",
+    "source": "juejin",
+    "score": 0.14035562,
+    "published_at": "2026-09-25T08:24:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49859271",
+    "title": "Coltrane's Shadow",
+    "url": "https://www.tabletmag.com/sections/arts-letters/articles/coltranes-shadow-tiberi-tapes",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-26T18:39:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49870541",
+    "title": "My Recent Woodworking Projects",
+    "url": "https://notoriousbfg.com/recent-woodworking-projects/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-27T20:33:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49844266",
+    "title": "A New Experiment Meta-Strategy",
+    "url": "https://chillphysicsenjoyer.substack.com/p/a-new-experiment-meta-strategy",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-25T13:20:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49870304",
+    "title": "Have an LLC",
+    "url": "https://zachholman.com/posts/you-should-have-an-llc",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-27T20:04:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49852600",
+    "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+    "url": "https://github.com/dashersw/coyopedal",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-26T02:24:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49870295",
+    "title": "Self-Hosting on the Dark Web",
+    "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-09-27T20:03:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49872472",
+    "title": "Self-parking car using genetic algorithm (2021)",
+    "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-28T01:21:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:czoeax",
     "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip",
     "url": "https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/",
@@ -4836,166 +4996,6 @@
     "source": "v2ex",
     "score": 102.0,
     "published_at": "2026-09-24T01:57:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244259",
-    "title": "应届生住满北京 1 年到上海，我感觉生活品质提升了 100 倍",
-    "url": "https://www.v2ex.com/t/1244259",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-09-23T06:52:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244460",
-    "title": "特朗普接机，说明了什么呢？个人的尊重友谊还是国家层面的强大？",
-    "url": "https://www.v2ex.com/t/1244460",
-    "source": "v2ex",
-    "score": 144.0,
-    "published_at": "2026-09-24T02:22:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244393",
-    "title": "手机都这么贵了，越来越买不起了！",
-    "url": "https://www.v2ex.com/t/1244393",
-    "source": "v2ex",
-    "score": 158.0,
-    "published_at": "2026-09-24T00:24:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244389",
-    "title": "注册 Meta 的 muse，免费领取 10 亿 token",
-    "url": "https://www.v2ex.com/t/1244389",
-    "source": "v2ex",
-    "score": 214.0,
-    "published_at": "2026-09-24T00:12:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244359",
-    "title": "服气！老婆不想换工作",
-    "url": "https://www.v2ex.com/t/1244359",
-    "source": "v2ex",
-    "score": 232.0,
-    "published_at": "2026-09-23T14:40:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244403",
-    "title": "Muse 注册的新方法，已经成功",
-    "url": "https://www.v2ex.com/t/1244403",
-    "source": "v2ex",
-    "score": 394.0,
-    "published_at": "2026-09-24T01:04:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687902696659943466",
-    "title": "小米发布并开源 MiMo-V2.6 系列，Pro 与 Flash 双版本，API 价格与前代持平",
-    "url": "https://juejin.cn/post/7687902696659943466",
-    "source": "juejin",
-    "score": 0.21117757,
-    "published_at": "2026-09-22T06:20:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687807835842248710",
-    "title": "AndroidX 新增 Security State ，支持可编程的系统安全状态查询",
-    "url": "https://juejin.cn/post/7687807835842248710",
-    "source": "juejin",
-    "score": 0.75178484,
-    "published_at": "2026-09-22T01:14:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688265188425973775",
-    "title": "Step 5 Preview 实测：和 DeepSeek V4 Pro、GLM5.3 同做一个 3D 游戏",
-    "url": "https://juejin.cn/post/7688265188425973775",
-    "source": "juejin",
-    "score": 0.5837802,
-    "published_at": "2026-09-23T03:12:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688300268687130650",
-    "title": "一个人 + AI 做的小程序，一个半月把服务器钱赚回来一半了",
-    "url": "https://juejin.cn/post/7688300268687130650",
-    "source": "juejin",
-    "score": 0.51801091,
-    "published_at": "2026-09-23T01:41:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688252916676231168",
-    "title": "ZCode 开源 24 小时：一份没有历史的账本，回答不了\"有没有偷代码\"",
-    "url": "https://juejin.cn/post/7688252916676231168",
-    "source": "juejin",
-    "score": 0.28083007,
-    "published_at": "2026-09-22T08:18:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687818534403588146",
-    "title": "别再跟AI说“请”了，它根本不 care——但有个东西它超在意",
-    "url": "https://juejin.cn/post/7687818534403588146",
-    "source": "juejin",
-    "score": 0.18495578,
-    "published_at": "2026-09-21T12:43:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49824715",
-    "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-    "url": "https://carbon.ms/self-hosted",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-24T00:45:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49824969",
-    "title": "FLAWED's Flaws and What This Means for Industry Research",
-    "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-24T01:16:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49791558",
-    "title": "Solving for faster SHA-1 collision detection",
-    "url": "https://sam.dev/blog/faster-sha1-collision-detection",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-21T18:46:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49826221",
-    "title": "Contrastive Language Models",
-    "url": "https://contrastive-lm.notion.site/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-24T04:20:59+00:00",
     "summary": "",
     "key_points": []
   }
