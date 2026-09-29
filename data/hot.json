@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:bm2juk",
+    "title": "Adding Floating-Point Decimals for Fun and Profit",
+    "url": "https://blog.vero.site/post/float",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-28T22:07:39.636-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bctr1m",
+    "title": "Switching To Emacs as a Neovim User",
+    "url": "https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-28T22:41:34.837-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vlywx2",
+    "title": "My experience writing automated tests for a SPA",
+    "url": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-29T01:00:10.041-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245457",
+    "title": "都是牛马，我也是只能帮到你这里了",
+    "url": "https://www.v2ex.com/t/1245457",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-09-29T02:47:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245417",
+    "title": "蛋白粉换鸡蛋补充蛋白的经历",
+    "url": "https://www.v2ex.com/t/1245417",
+    "source": "v2ex",
+    "score": 138.0,
+    "published_at": "2026-09-29T01:41:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245405",
+    "title": "想换电车了，帮忙推荐下， 10w+ 的预算",
+    "url": "https://www.v2ex.com/t/1245405",
+    "source": "v2ex",
+    "score": 152.0,
+    "published_at": "2026-09-29T01:13:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245426",
+    "title": "过了三十你还行吗",
+    "url": "https://www.v2ex.com/t/1245426",
+    "source": "v2ex",
+    "score": 166.0,
+    "published_at": "2026-09-29T01:56:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245430",
+    "title": "我发现下雨天两轮电瓶车才是最优解",
+    "url": "https://www.v2ex.com/t/1245430",
+    "source": "v2ex",
+    "score": 212.0,
+    "published_at": "2026-09-29T02:03:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245433",
+    "title": "违停被拍了，做一个“共享违章地图” 网站咋样",
+    "url": "https://www.v2ex.com/t/1245433",
+    "source": "v2ex",
+    "score": 230.0,
+    "published_at": "2026-09-29T02:08:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245443",
+    "title": "兄弟们，我好像错过了一个好女孩",
+    "url": "https://www.v2ex.com/t/1245443",
+    "source": "v2ex",
+    "score": 464.0,
+    "published_at": "2026-09-29T02:26:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690467043259187242",
+    "title": "Opus5.5的“弟弟”来了，GPT6变弟中弟！",
+    "url": "https://juejin.cn/post/7690467043259187242",
+    "source": "juejin",
+    "score": 1.38048196,
+    "published_at": "2026-09-29T00:46:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690497704220196883",
+    "title": "用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录",
+    "url": "https://juejin.cn/post/7690497704220196883",
+    "source": "juejin",
+    "score": 1.60750803,
+    "published_at": "2026-09-29T00:33:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690614916369252387",
+    "title": "我排查了一下午，发现项目打包体积翻倍的元凶是它",
+    "url": "https://juejin.cn/post/7690614916369252387",
+    "source": "juejin",
+    "score": 3.60995141,
+    "published_at": "2026-09-29T05:51:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690512501442625570",
+    "title": "DeepSeek Harness 官方桌面端终于有了！",
+    "url": "https://juejin.cn/post/7690512501442625570",
+    "source": "juejin",
+    "score": 3.42196432,
+    "published_at": "2026-09-29T04:44:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690468159975637038",
+    "title": "读懂LangGraph 的分支执行逻辑",
+    "url": "https://juejin.cn/post/7690468159975637038",
+    "source": "juejin",
+    "score": 2.76174725,
+    "published_at": "2026-09-29T01:17:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49858756",
+    "title": "Show HN: Museum of Numbers",
+    "url": "https://numbermuseum.com/2147483647",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-26T17:36:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49866903",
+    "title": "Who Killed Paulina Borsook's Career?",
+    "url": "https://www.wired.com/story/paulina-borsook-profile/",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-09-27T14:25:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49862602",
+    "title": "Simulating Airband AM Radios",
+    "url": "https://bitbashing.io/am-radio.html",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-09-27T02:01:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49866783",
+    "title": "Software occlusion culling in Block Game",
+    "url": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-27T14:07:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49885493",
+    "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+    "url": "https://jonclegg.github.io/pacman-bakeoff/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-09-28T22:43:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49889934",
+    "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
+    "url": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-29T08:26:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49888937",
+    "title": "Uncensored and Offensive Security AI Models Benchmark",
+    "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-29T06:16:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49870376",
+    "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
+    "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-27T20:13:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49876052",
+    "title": "The systems that no one will test",
+    "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-28T10:51:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49880411",
+    "title": "Phyllotaxis: An audio-reactive LED display",
+    "url": "https://jagi.studio/posts/phyllotaxis/",
+    "source": "hackernews",
+    "score": 134.0,
+    "published_at": "2026-09-28T16:18:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49890051",
+    "title": "Using any C++ library in Godot",
+    "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-29T08:40:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:kmlhg1",
     "title": "Intuitive equals familiar",
     "url": "https://dl.acm.org/doi/10.1145/182987.584629",
@@ -4736,266 +4996,6 @@
     "source": "hackernews",
     "score": 3.0,
     "published_at": "2026-09-25T12:13:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49842332",
-    "title": "Topcoat is pushing the boundary of server applications with Rust",
-    "url": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-25T09:59:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49842270",
-    "title": "Ink and Switch Interactive Homepage",
-    "url": "https://www.inkandswitch.com/",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-09-25T09:50:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49841285",
-    "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-    "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-    "source": "hackernews",
-    "score": 114.0,
-    "published_at": "2026-09-25T07:27:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49843174",
-    "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-    "url": "https://github.com/git-bug/git-bug",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-25T11:38:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49843269",
-    "title": "Platform-Independent SIMD in Go",
-    "url": "https://go.dev/blog/simd-experiment",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-25T11:47:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49841563",
-    "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-    "url": "https://www.dawo.community/en/",
-    "source": "hackernews",
-    "score": 456.0,
-    "published_at": "2026-09-25T08:06:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cuxdjq",
-    "title": "Remembering Johannes Doerfert",
-    "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-25T00:31:56.142-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sxlf4a",
-    "title": "Goodbye Google",
-    "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-25T00:51:12.558-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3bgvbn",
-    "title": "Real-Time Telemetry with Eventlog Live",
-    "url": "https://www.well-typed.com/blog/2026/09/real-time-telemetry-with-eventlog-live/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-25T01:34:27.180-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:68n22g",
-    "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-    "url": "https://greasyfork.org/en/scripts?by=1646191",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-25T00:33:53.765-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:x6yjrc",
-    "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
-    "url": "https://inoti.fyi/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-24T21:50:41.729-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244695",
-    "title": "国内注册 Muse 的方法，亲测可用",
-    "url": "https://www.v2ex.com/t/1244695",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-09-25T01:20:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244642",
-    "title": "贴膜的价值：回收的时候多 200 块",
-    "url": "https://www.v2ex.com/t/1244642",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-09-24T11:26:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244710",
-    "title": "黑神话悟空-在线版",
-    "url": "https://www.v2ex.com/t/1244710",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-09-25T03:25:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244722",
-    "title": "LockSticky 上架不到 2 天收入 25 刀，再送本帖评论数量 * 0.1 个永久会员码！",
-    "url": "https://www.v2ex.com/t/1244722",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-09-25T04:16:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244588",
-    "title": "dmit 洛杉矶 补货了！",
-    "url": "https://www.v2ex.com/t/1244588",
-    "source": "v2ex",
-    "score": 54.0,
-    "published_at": "2026-09-24T08:09:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244668",
-    "title": "实体倒闭真是活该的",
-    "url": "https://www.v2ex.com/t/1244668",
-    "source": "v2ex",
-    "score": 58.0,
-    "published_at": "2026-09-24T15:00:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244704",
-    "title": "今天中秋节，还要加班的有吗？来报道下",
-    "url": "https://www.v2ex.com/t/1244704",
-    "source": "v2ex",
-    "score": 60.0,
-    "published_at": "2026-09-25T02:47:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244674",
-    "title": "用半年时间打磨的 HTTPS 抓包和调试工具-ApiCatcher，对标 Proxyman",
-    "url": "https://www.v2ex.com/t/1244674",
-    "source": "v2ex",
-    "score": 80.0,
-    "published_at": "2026-09-24T15:58:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7687902696659894314",
-    "title": " 2026年HTML迎来重磅进化：原生3D、可定制Select、声明式交互，前端开发范式正在被改写",
-    "url": "https://juejin.cn/post/7687902696659894314",
-    "source": "juejin",
-    "score": 0.23932383,
-    "published_at": "2026-09-22T06:11:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49840300",
-    "title": "Jev Based Code Review",
-    "url": "https://github.com/egma-ai/jev-code-reviewer",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-25T04:49:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49841115",
-    "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-    "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-25T07:03:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sfdf3h",
-    "title": "Platform-independent SIMD in Go",
-    "url": "https://go.dev/blog/simd-experiment",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-24T16:02:52.945-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ufor73",
-    "title": "Launching FreeBSD/EC2 desktop AMIs",
-    "url": "https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-24T20:17:51.540-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zr2qoj",
-    "title": "RAM: the forgotten history",
-    "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-24T12:27:03.198-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jiv1c5",
-    "title": "Pencils Down, Eyes Open: A Rails Developer After Rails World",
-    "url": "https://caio.ca/blog/pencils-down-eyes-open-rails-world",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-24T20:31:43.488-05:00",
     "summary": "",
     "key_points": []
   }
