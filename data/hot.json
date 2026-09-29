@@ -1,5 +1,295 @@
 [
   {
+    "id": "lobsters:1xr8zc",
+    "title": "Text-to-meowdio models",
+    "url": "https://www.kmjn.org/notes/text_to_meowdio_models.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-29T11:51:35.804-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yj7sbv",
+    "title": "Unix File and Directory Permissions and Modes (2018)",
+    "url": "https://wpollock.com/AUnix1/FilePermissions.htm",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-29T13:22:20.439-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hnb7tb",
+    "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
+    "url": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-29T14:20:05.967-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:joqdsi",
+    "title": "The Shell & Email",
+    "url": "https://www.machtiani.chat/blogs/the-shell",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-29T15:14:41.130-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ggolae",
+    "title": "How I Built an iPhone App in Four Days with Opus 5.5",
+    "url": "https://projectautonomy.substack.com/p/i-built-an-iphone-app-in-four-days",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-29T13:57:26.748-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:a5rcxy",
+    "title": "Getting root on OnePlus 15 from an untrusted app",
+    "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-29T12:25:55.917-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690010257952178218",
+    "title": "ZCode 可以自己看微信小程序了",
+    "url": "https://juejin.cn/post/7690010257952178218",
+    "source": "juejin",
+    "score": 0.19219446,
+    "published_at": "2026-09-28T01:28:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:paperclipai/paperclip",
+    "title": "paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49898778",
+    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+    "url": "https://space.bl2.net/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-29T19:08:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49895970",
+    "title": "What if Jev spoke Arrow?",
+    "url": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-09-29T16:25:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49896600",
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap/",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-09-29T17:07:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49899004",
+    "title": "Galaxy Game – Interim Computer Museum",
+    "url": "https://icm.museum/blog/?p=698",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-29T19:24:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49878857",
+    "title": "A Staff Engineer's Guide to Inventing Work",
+    "url": "https://sujithjay.com/inventing-work",
+    "source": "hackernews",
+    "score": 114.0,
+    "published_at": "2026-09-28T14:46:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49899051",
+    "title": "Memory Companies Have Destroyed the Consumer Market",
+    "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-09-29T19:27:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49898931",
+    "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+    "url": "https://github.com/lostmsu/TurboGPT",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-09-29T19:20:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49878093",
+    "title": "Walking Men",
+    "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-09-28T14:00:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49893157",
+    "title": "Ask HN: What are you reading?",
+    "url": "https://news.ycombinator.com/item?id=49893157",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-29T13:44:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49866031",
+    "title": "Stuck in the Suez Canal – the short version (2021)",
+    "url": "https://cathsenker.co.uk/stuck-in-the-suez-canal-the-short-version/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-27T12:17:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49897075",
+    "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+    "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-09-29T17:31:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49883635",
+    "title": "Virus Stole a Human Gene and Won't Let Go of It",
+    "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-09-28T20:07:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49896604",
+    "title": "Dots: Always-on agents",
+    "url": "https://openai.com/index/introducing-dots/",
+    "source": "hackernews",
+    "score": 365.0,
+    "published_at": "2026-09-29T17:07:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49871018",
+    "title": "NAND-16: a computer built from 277,248 NAND gates",
+    "url": "https://somethingbig.ai/computer",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-09-27T21:26:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49896050",
+    "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+    "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+    "source": "hackernews",
+    "score": 423.0,
+    "published_at": "2026-09-29T16:30:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49895304",
+    "title": "PS5 Relapse Exploit",
+    "url": "https://github.com/ntfargo/Relapse-Exploit",
+    "source": "hackernews",
+    "score": 148.0,
+    "published_at": "2026-09-29T15:44:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49898952",
+    "title": "AI needs $6T in annual revenue to justify data centre boom",
+    "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+    "source": "hackernews",
+    "score": 111.0,
+    "published_at": "2026-09-29T19:21:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49898877",
+    "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
+    "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-09-29T19:15:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49896712",
+    "title": "Tcl/Tk 9.1 Released",
+    "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+    "source": "hackernews",
+    "score": 161.0,
+    "published_at": "2026-09-29T17:13:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49896586",
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "source": "hackernews",
+    "score": 600.0,
+    "published_at": "2026-09-29T17:06:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49899090",
+    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+    "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-09-29T19:30:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:xdk1cp",
     "title": "Prototyping a Small Genetic Algorithms Library inHaskell (2019)",
     "url": "https://anekstein.com/posts/2019-11-15.html",
@@ -4706,296 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-09-25T16:01:44.139-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uipfvv",
-    "title": "Cross-Site Scripting (XSS) Cheat Sheet",
-    "url": "https://portswigger.net/web-security/cross-site-scripting/cheat-sheet",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-25T09:30:37.640-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nidcls",
-    "title": "Commodified Intelligence",
-    "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-25T13:24:29.215-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49777515",
-    "title": "A History of the Chiming Machines at Gloucester's Cathedral and Churches (2017) [pdf]",
-    "url": "https://www.bgas.org.uk/tbgas_bg/v135/251-268-MacKechnie-Jarvis.pdf",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-20T16:48:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49848227",
-    "title": "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
-    "url": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-25T18:29:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49846640",
-    "title": "Typst makes big strides",
-    "url": "https://lwn.net/Articles/1092993/",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-09-25T16:25:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49846953",
-    "title": "Show HN: Doom or Bloom, map your AI worldview",
-    "url": "https://www.doom-or-bloom.com",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-09-25T16:51:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49848819",
-    "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
-    "url": "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-25T19:26:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49844642",
-    "title": "What happens when you analyze your favorite college football team like the CIA?",
-    "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-25T13:47:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49848095",
-    "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-    "url": "https://mouse.dev/blog/muse-special/",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-09-25T18:18:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49849312",
-    "title": "Rising sea destroys homes, erases beaches in California",
-    "url": "https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-25T20:13:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49788014",
-    "title": "Show HN: Make math automatic with Mathy",
-    "url": "https://gmays.com/making-math-automatic-with-mathy/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-09-21T14:49:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49848680",
-    "title": "Advice to a Beginning Graduate Student (2001)",
-    "url": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-25T19:12:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49800114",
-    "title": "Bwbach, My Guardian Goblin",
-    "url": "https://robertmay.photography/journal/bwbach-my-guardian-goblin",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-22T12:25:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49848295",
-    "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-    "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-09-25T18:37:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49848838",
-    "title": "Bug: Border radius has infected VSCode editor",
-    "url": "https://github.com/microsoft/vscode/issues/338035",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-09-25T19:27:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49845172",
-    "title": "Show HN: Jev Plays Pokémon Red",
-    "url": "https://jev-pokemon.vercel.app/",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-09-25T14:28:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49849625",
-    "title": "Too AI; Didn't Read",
-    "url": "https://www.tai-dr.com/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-25T20:37:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49848269",
-    "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-    "url": "https://ollaya.dev/",
-    "source": "hackernews",
-    "score": 199.0,
-    "published_at": "2026-09-25T18:33:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ztvy1b",
-    "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-    "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-25T11:28:39.943-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tasulj",
-    "title": "A Type Stronger than the Sum of its Components",
-    "url": "https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-25T10:23:16.820-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kc8t26",
-    "title": "This Month in Redox - August 2026",
-    "url": "https://www.redox-os.org/news/this-month-260831/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-25T10:59:24.612-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jfbo1r",
-    "title": "CommonGrid: The open source registry of the US power grid",
-    "url": "https://commongrid.info",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-25T11:12:04.949-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rvvqos",
-    "title": "What About Rails?",
-    "url": "https://jardo.dev/what-about-rails",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-25T09:44:57.530-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dsungs",
-    "title": "Amiga screens: a primer",
-    "url": "https://www.datagubbe.se/amscr/",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-09-25T08:01:42.474-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244692",
-    "title": "“你们怎么被封的，我机场节点随便换”的评论好像变少了",
-    "url": "https://www.v2ex.com/t/1244692",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-09-25T00:43:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244794",
-    "title": "那个什么哥飞是把 V 站给收购了吗?",
-    "url": "https://www.v2ex.com/t/1244794",
-    "source": "v2ex",
-    "score": 54.0,
-    "published_at": "2026-09-25T14:21:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244732",
-    "title": "大陆用户注册 Meta Muse AI 完整教程（2026 最新）",
-    "url": "https://www.v2ex.com/t/1244732",
-    "source": "v2ex",
-    "score": 54.0,
-    "published_at": "2026-09-25T05:36:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688805244534325263",
-    "title": "同样叫 Harness，DeepSeek Harness 和 Pi 根本不在同一层",
-    "url": "https://juejin.cn/post/7688805244534325263",
-    "source": "juejin",
-    "score": 1.87679797,
-    "published_at": "2026-09-24T10:47:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49844896",
-    "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-25T14:07:08+00:00",
     "summary": "",
     "key_points": []
   }
