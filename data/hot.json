@@ -1,5 +1,415 @@
 [
   {
+    "id": "lobsters:xdk1cp",
+    "title": "Prototyping a Small Genetic Algorithms Library inHaskell (2019)",
+    "url": "https://anekstein.com/posts/2019-11-15.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-29T06:36:16.960-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wuiaba",
+    "title": "Deterministic Concurrency",
+    "url": "https://www.youtube.com/watch?v=25x0UuSCKuU",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-29T04:42:58.477-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dayzwt",
+    "title": "Pining for Arc Downcasting in Rust",
+    "url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-29T10:35:14.850-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:otexs4",
+    "title": "MotifCentral - All Things Motif/Xt/Xlib",
+    "url": "https://motif-central.org/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-29T04:01:47.493-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:s0x5nd",
+    "title": "Aho-Corasick Algorithm",
+    "url": "https://compiler.club/aho-corasick/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-29T09:49:08.046-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qhszda",
+    "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
+    "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-29T04:40:33.245-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tyivfg",
+    "title": "CoW — a stacking window manager for Wayland",
+    "url": "https://cow-wm.codeberg.page/cow/",
+    "source": "lobsters",
+    "score": 59.0,
+    "published_at": "2026-09-29T04:07:37.137-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245507",
+    "title": "农村私自搭建雨棚，硬化公共路面，怎么投诉？",
+    "url": "https://www.v2ex.com/t/1245507",
+    "source": "v2ex",
+    "score": 160.0,
+    "published_at": "2026-09-29T05:33:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245448",
+    "title": "[HyperAPI 中转站]祝大家国庆节快乐，评论留 ID，就送$15 体验额度",
+    "url": "https://www.v2ex.com/t/1245448",
+    "source": "v2ex",
+    "score": 178.0,
+    "published_at": "2026-09-29T02:35:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245485",
+    "title": "和漂亮女孩订婚了",
+    "url": "https://www.v2ex.com/t/1245485",
+    "source": "v2ex",
+    "score": 232.0,
+    "published_at": "2026-09-29T03:48:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690026779798208547",
+    "title": "分享一个做视频的skill，这条白板视频，每一笔都是代码画的",
+    "url": "https://juejin.cn/post/7690026779798208547",
+    "source": "juejin",
+    "score": 0.27362842,
+    "published_at": "2026-09-28T05:12:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690730050313257001",
+    "title": "别急着买大模型——老板能看懂的落地路线图",
+    "url": "https://juejin.cn/post/7690730050313257001",
+    "source": "juejin",
+    "score": 3.45818436,
+    "published_at": "2026-09-29T08:30:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:rakyll/hey",
+    "title": "hey",
+    "url": "https://github.com/rakyll/hey",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:VectifyAI/PageIndex",
+    "title": "PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:rohitg00/ai-engineering-from-scratch",
+    "title": "ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:averygan/reclip",
+    "title": "reclip",
+    "url": "https://github.com/averygan/reclip",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:oblien/openship",
+    "title": "openship",
+    "url": "https://github.com/oblien/openship",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:t8y2/dbx",
+    "title": "dbx",
+    "url": "https://github.com/t8y2/dbx",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:NVIDIA/OpenShell",
+    "title": "OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49858158",
+    "title": "Optimizing x264 settings and per-title ladders",
+    "url": "https://streaminglearningcenter.com/articles/optimizing-x264-settings-and-per-title-ladders.html",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-26T16:36:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49859863",
+    "title": "The Beatles have permeated research papers across academic disciplines",
+    "url": "https://phys.org/news/2026-09-beatles-permeated-papers-academic-disciplines.html",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-09-26T19:43:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49863594",
+    "title": "Four CHI '26 papers I wish I wrote",
+    "url": "https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-27T05:23:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49891550",
+    "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+    "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+    "source": "hackernews",
+    "score": 301.0,
+    "published_at": "2026-09-29T11:44:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49876467",
+    "title": "Georeferencing Chernarus and visiting in real life (2021)",
+    "url": "https://longcreek.me/blog/2021/chernarus-irl",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-09-28T11:35:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49890647",
+    "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+    "url": "https://github.com/EverMind-AI/Raven",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-29T09:58:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49891769",
+    "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
+    "url": "https://jevstiller.pages.dev/posts/the-guarantee/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-09-29T12:05:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49892120",
+    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+    "url": "https://www.cbc.ca/lite/story/9.7361622",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-09-29T12:33:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49893653",
+    "title": "Google ending ChromeOS support two years early",
+    "url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-09-29T14:12:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49893850",
+    "title": "Why Doesn't Anyone Want to Fix One of America's Scariest Roads?",
+    "url": "https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-29T14:23:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49869441",
+    "title": "Digital Audio on the ZX Spectrum's 1-Bit Beeper",
+    "url": "https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-27T18:30:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49892958",
+    "title": "What makes software development engineering",
+    "url": "https://parksb.github.io/en/article/44.html",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-09-29T13:31:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49891480",
+    "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+    "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+    "source": "hackernews",
+    "score": 296.0,
+    "published_at": "2026-09-29T11:35:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49891295",
+    "title": "You Are No Longer Invited to Dinner",
+    "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+    "source": "hackernews",
+    "score": 435.0,
+    "published_at": "2026-09-29T11:14:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49893709",
+    "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+    "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+    "source": "hackernews",
+    "score": 97.0,
+    "published_at": "2026-09-29T14:15:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49892175",
+    "title": "Without the Hot Air",
+    "url": "https://www.withouthotair.com/",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-09-29T12:38:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49891290",
+    "title": "Jeeves. Reasoning improves Jev-like decision models",
+    "url": "https://github.com/PostHog/jeeves",
+    "source": "hackernews",
+    "score": 146.0,
+    "published_at": "2026-09-29T11:13:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49893509",
+    "title": "America.gov – Whatever you need from government, start here",
+    "url": "https://america.gov/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-09-29T14:04:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49890226",
+    "title": "AI companies leak data to advertisers [pdf]",
+    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "source": "hackernews",
+    "score": 327.0,
+    "published_at": "2026-09-29T09:03:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49892245",
+    "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
+    "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+    "source": "hackernews",
+    "score": 210.0,
+    "published_at": "2026-09-29T12:43:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49893876",
+    "title": "Claude partial outage",
+    "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
+    "source": "hackernews",
+    "score": 133.0,
+    "published_at": "2026-09-29T14:25:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49894005",
+    "title": "macOS Golden Gate Is a Buggy Mess",
+    "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+    "source": "hackernews",
+    "score": 136.0,
+    "published_at": "2026-09-29T14:32:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:bm2juk",
     "title": "Adding Floating-Point Decimals for Fun and Profit",
     "url": "https://blog.vero.site/post/float",
@@ -4586,416 +4996,6 @@
     "source": "hackernews",
     "score": 52.0,
     "published_at": "2026-09-25T14:07:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49844786",
-    "title": "Allow Carriers on Planes",
-    "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
-    "source": "hackernews",
-    "score": 163.0,
-    "published_at": "2026-09-25T14:00:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49846391",
-    "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-    "url": "https://github.com/Avinash-jetwani/jevmem",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-09-25T16:04:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49845998",
-    "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
-    "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-09-25T15:31:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49845133",
-    "title": "Factorio that you can touch",
-    "url": "https://factorio.com/blog/post/fff-447",
-    "source": "hackernews",
-    "score": 158.0,
-    "published_at": "2026-09-25T14:24:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49845952",
-    "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-    "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-09-25T15:27:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49845977",
-    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-    "source": "hackernews",
-    "score": 189.0,
-    "published_at": "2026-09-25T15:29:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49844736",
-    "title": "First Principles Thinking",
-    "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-    "source": "hackernews",
-    "score": 98.0,
-    "published_at": "2026-09-25T13:55:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uc2ovf",
-    "title": "Paranoia-Sans: A conspiratorial typeface",
-    "url": "https://github.com/flegfleg/Paranoia-Sans",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-25T03:32:30.543-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5gqorv",
-    "title": "Who Is Open Source About?",
-    "url": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-25T05:57:30.238-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jmlnak",
-    "title": "Grieving the loss of details",
-    "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-25T06:29:33.807-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:v6nizc",
-    "title": "LLM Policies: Progress At All Costs",
-    "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-25T07:30:36.039-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wqzbpw",
-    "title": "Every package is already installed",
-    "url": "https://fzakaria.com/2026/09/24/every-package-is-already-installed",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-25T01:39:43.034-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1ub0m3",
-    "title": "AI is not “just a tool”",
-    "url": "https://brettcodes.com/ai-is-not-just-a-tool/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-25T06:12:22.776-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bubfjf",
-    "title": "What are you doing this weekend?",
-    "url": "https://lobste.rs/s/bubfjf",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-25T04:13:44.222-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ya3cl7",
-    "title": "Understanding NvPCRs in systemd v262",
-    "url": "https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-25T03:26:44.155-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244730",
-    "title": "有个能稳赚不赔的洗脚店项目，但是没有资金，去哪里找资金？🤔找人投资？贷款？",
-    "url": "https://www.v2ex.com/t/1244730",
-    "source": "v2ex",
-    "score": 60.0,
-    "published_at": "2026-09-25T05:22:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244728",
-    "title": "一个不需要 gemini pro 的完全免费的注册 Muse 的方法",
-    "url": "https://www.v2ex.com/t/1244728",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-09-25T04:43:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244750",
-    "title": "我以一己之力，用三年时间，带起来了国内独立开发做出海网站赚美元养老行业。\r\n让不少中老年程序员焕发了第二春，让不少新程序员找到了人生方向。",
-    "url": "https://www.v2ex.com/t/1244750",
-    "source": "v2ex",
-    "score": 164.0,
-    "published_at": "2026-09-25T07:25:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688212417864024091",
-    "title": "5 次优化让首屏快 3.6 秒，只有 1 次是改代码",
-    "url": "https://juejin.cn/post/7688212417864024091",
-    "source": "juejin",
-    "score": 0.18538528,
-    "published_at": "2026-09-22T10:47:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688603830758195235",
-    "title": "傻瓜式UX：ERP的致命糖衣",
-    "url": "https://juejin.cn/post/7688603830758195235",
-    "source": "juejin",
-    "score": 0.12608746,
-    "published_at": "2026-09-23T06:43:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688532185121439754",
-    "title": "突发！GPT-6 Sol与Claude Opus 5.5同日开打，谁是「性价比之王」",
-    "url": "https://juejin.cn/post/7688532185121439754",
-    "source": "juejin",
-    "score": 0.41453873,
-    "published_at": "2026-09-23T08:39:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688270826491658266",
-    "title": "轻松掌握 LangGraph 的状态与节点",
-    "url": "https://juejin.cn/post/7688270826491658266",
-    "source": "juejin",
-    "score": 0.51286955,
-    "published_at": "2026-09-23T00:58:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:openbao/openbao",
-    "title": "openbao",
-    "url": "https://github.com/openbao/openbao",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:shy3130/tick-stock-panel",
-    "title": "tick-stock-panel",
-    "url": "https://github.com/shy3130/tick-stock-panel",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:kelseyhightower/kubernetes-the-hard-way",
-    "title": "kubernetes-the-hard-way",
-    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:derv82/wifit3",
-    "title": "wifit3",
-    "url": "https://github.com/derv82/wifit3",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:androoAGI/starnet",
-    "title": "starnet",
-    "url": "https://github.com/androoAGI/starnet",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/skills",
-    "title": "skills",
-    "url": "https://github.com/anthropics/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mattpocock/skills",
-    "title": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/claude-plugins-official",
-    "title": "claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:paperclipai/paperclip",
-    "title": "paperclip",
-    "url": "https://github.com/paperclipai/paperclip",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49843909",
-    "title": "Show HN: Hamilton – a no-internet Android health dashboard, named after my dog",
-    "url": "https://play.google.com/store/apps/details?id=com.gads.hamilton&hl=en_US",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-25T12:49:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49839664",
-    "title": "What About Rails?",
-    "url": "https://jardo.dev/what-about-rails",
-    "source": "hackernews",
-    "score": 113.0,
-    "published_at": "2026-09-25T02:50:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49843550",
-    "title": "The Test",
-    "url": "https://tante.cc/2026/09/24/the-test/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-25T12:14:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49841309",
-    "title": "Amiga Screens: A Primer",
-    "url": "https://www.datagubbe.se/amscr/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-25T07:31:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49842084",
-    "title": "Boards of Casio",
-    "url": "https://www.ambionix.com/blog/boards-of-casio/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-25T09:26:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49842596",
-    "title": "Show HN: Agentic CUDA Kernel Optimizer",
-    "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-25T10:32:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49842487",
-    "title": "The Mafia may be keeping fentanyl out of Italy",
-    "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
-    "source": "hackernews",
-    "score": 112.0,
-    "published_at": "2026-09-25T10:20:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49842483",
-    "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
-    "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-09-25T10:19:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49841893",
-    "title": "Special Projects (2016)",
-    "url": "https://openai.com/index/special-projects/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-25T08:55:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49843547",
-    "title": "I'm Tired of Being on the Network",
-    "url": "https://matduggan.com/im-tired-of-being-on-the-network/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-25T12:13:55+00:00",
     "summary": "",
     "key_points": []
   }
