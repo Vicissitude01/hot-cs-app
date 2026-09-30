@@ -1,5 +1,195 @@
 [
   {
+    "id": "lobsters:fmnvbk",
+    "title": "How to work in a software engineering team (2022)",
+    "url": "https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-29T17:34:26.349-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:werm2e",
+    "title": "ESPARGOS - ESP-SDR: Raw IQ Capture with Espressif's ESP32 Chips",
+    "url": "https://espargos.net/espsdr/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-29T17:13:56.802-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hxmtyv",
+    "title": "Deser: Rethinking Rust Serialization",
+    "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-29T17:02:31.395-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zknqct",
+    "title": "Two Kinds of SQL Query Builders",
+    "url": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-29T15:47:03.820-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49901149",
+    "title": "Deser: Rethinking Rust Serialization",
+    "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-29T21:48:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49894351",
+    "title": "Show HN: NSL – WSL for Linux",
+    "url": "https://frostyard.github.io/nsl/",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-09-29T14:51:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49886422",
+    "title": "Show HN: Corral – Kill every command your agent starts",
+    "url": "https://github.com/Cardinal44/corral",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-29T00:35:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49859482",
+    "title": "Commodore 64: Mercenary",
+    "url": "https://gamesexplained.com/c64/mercenary/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-09-26T19:00:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49891203",
+    "title": "Language models for text classification: From bag-of-words to Jev",
+    "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-29T11:06:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49893002",
+    "title": "Backblaze drive stats for Q2 2026",
+    "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-09-29T13:34:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49888182",
+    "title": "When oil prices spike, where does the money go?",
+    "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-09-29T04:14:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49895864",
+    "title": "Needed 1+1, built a functional programming language",
+    "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-29T16:18:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49901437",
+    "title": "UnoDOS",
+    "url": "https://github.com/hmofet/unodos",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-09-29T22:10:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49901973",
+    "title": "How our vibe coded website looks like a designer made it",
+    "url": "https://railcode.dev/blog/vibe-coded-website",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-09-29T22:59:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49897993",
+    "title": "Vermont replacing power plants with home batteries",
+    "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-09-29T18:19:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49896757",
+    "title": "Show HN: A working 3D model of an Enigma machine",
+    "url": "https://enigma.design",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-29T17:15:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49898050",
+    "title": "We’re forgetting what darkness feels like",
+    "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-29T18:22:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49890733",
+    "title": "NASA asked several former SR-71A staffers to help secret restart",
+    "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-29T10:10:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49901736",
+    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+    "url": "https://github.com/ninjahawk/livenerf",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-09-29T22:36:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:1xr8zc",
     "title": "Text-to-meowdio models",
     "url": "https://www.kmjn.org/notes/text_to_meowdio_models.html",
@@ -4806,196 +4996,6 @@
     "source": "hackernews",
     "score": 195.0,
     "published_at": "2026-09-25T03:59:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49852717",
-    "title": "We're gonna need a lot more mathematicians",
-    "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-09-26T02:46:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ekbatu",
-    "title": "How to keep enjoying programming in a world of LLMs",
-    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-25T18:22:27.151-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:33w4jp",
-    "title": "weave: structural merging for different languages",
-    "url": "https://github.com/Ataraxy-Labs/weave",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-25T17:33:21.333-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gt2jle",
-    "title": "We’re gonna need a lot more mathematicians",
-    "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-25T13:27:05.345-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49846409",
-    "title": "Show HN: I discovered roads in the US across > 1000 themes",
-    "url": "https://road-about-a-theme.pinedesk.biz/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-25T16:05:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49842409",
-    "title": "I wrote a ray tracer in Brainfuck",
-    "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-25T10:08:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49820349",
-    "title": "Loopjacking in A2A Implementations: Hijacking Human-in-the-Loop Approvals",
-    "url": "https://adithyanak.com/loopjacking-in-a2a-implementations/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-23T18:23:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49851169",
-    "title": "Issues with Codex – Identified – Full Outage",
-    "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-25T23:04:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49848955",
-    "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-    "url": "https://news.ycombinator.com/item?id=49848955",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-09-25T19:37:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49849907",
-    "title": "Teaching a World Model to Play Pokemon",
-    "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-25T21:02:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49849141",
-    "title": "How we learned to stop worrying and love campus surveillance",
-    "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
-    "source": "hackernews",
-    "score": 78.0,
-    "published_at": "2026-09-25T19:56:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49827208",
-    "title": "Initial DIY Cleanroom Experimentation",
-    "url": "https://www.jefftk.com/p/initial-diy-cleanroom-experimentation",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-24T07:02:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49849832",
-    "title": "Excel now supports multiple values in a single cell",
-    "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-09-25T20:55:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49838247",
-    "title": "Remembering Johannes Doerfert",
-    "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-24T23:36:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49850305",
-    "title": "What even is an OS now?",
-    "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-09-25T21:36:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49842462",
-    "title": "An airport cooled by natural ventilation",
-    "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-25T10:16:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49851032",
-    "title": "Tell HN: Codex Is Down",
-    "url": "https://news.ycombinator.com/item?id=49851032",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-09-25T22:51:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49849985",
-    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "url": "https://swarmtraces.org/",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-09-25T21:09:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5qgygw",
-    "title": "How to use this project?",
-    "url": "https://github.com/antirez/ds4#how-to-use-this-project",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-25T16:01:44.139-05:00",
     "summary": "",
     "key_points": []
   }
