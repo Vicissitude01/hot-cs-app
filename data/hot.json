@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:rhkwg1",
+    "title": "Back to Backups: A Year in Review",
+    "url": "https://signal.org/blog/backup-improvements/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-30T08:01:18.357-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0xfpgo",
+    "title": "We used a database as a message queue. Now we use Kafka",
+    "url": "https://www.tigrisdata.com/blog/quick-fdb-kafka/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-30T15:28:27.900-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:y3ppje",
+    "title": "Branch Target Reuse: Spectre-v2 Attacks in JIT Engines",
+    "url": "https://www.vusec.net/projects/btr/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-09-30T13:06:19.835-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:2r2sg8",
+    "title": "Finding Bugs",
+    "url": "https://matklad.github.io/2026/09/19/finding-bugs.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-30T14:57:54.701-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49914236",
+    "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-09-30T20:50:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49913975",
+    "title": "Gitea 28.0",
+    "url": "https://blog.gitea.com/release-of-28.0.0/",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-09-30T20:32:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49909648",
+    "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+    "url": "https://lathoa.ai/en",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-30T14:38:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49912792",
+    "title": "Before pixels: Modular industrial dashboards",
+    "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-09-30T18:49:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49911534",
+    "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
+    "url": "https://www.software3d.com/MillersMonster.php",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-30T17:00:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49913364",
+    "title": "Dear Software Makers",
+    "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-09-30T19:45:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49913604",
+    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+    "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-30T20:06:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49909908",
+    "title": "Coltrane's Tone Circle",
+    "url": "https://jtomschroeder.com/blog/tone-circle/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-09-30T14:59:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49890732",
+    "title": "Why the Bronze Age Collapsed",
+    "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-09-29T10:10:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49905644",
+    "title": "Doing a Machine Learning PhD While Working in Japan",
+    "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-09-30T07:33:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49912048",
+    "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+    "url": "https://www.chompiclub.com/opensource",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-09-30T17:42:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49906432",
+    "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+    "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-09-30T09:27:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49913458",
+    "title": "CS240 AI Cheating Retrospective",
+    "url": "https://turkeyland.net/thoughts/ai.php",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-30T19:54:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49913350",
+    "title": "Halfspace experimental IDE for solid modeling with distance fields",
+    "url": "https://www.mattkeeter.com/projects/halfspace/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-09-30T19:44:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49912444",
+    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-09-30T18:17:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49913192",
+    "title": "EDG C++ front-end goes public",
+    "url": "https://edgcpp.org/#transition",
+    "source": "hackernews",
+    "score": 101.0,
+    "published_at": "2026-09-30T19:26:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49912955",
+    "title": "Surprisingly complex waves reveal the brain's inner workings",
+    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-09-30T19:04:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49915082",
+    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+    "url": "https://www.thespacereview.com/article/4951/1",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-09-30T22:03:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49913571",
+    "title": "Gemini 4 Argon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "source": "hackernews",
+    "score": 716.0,
+    "published_at": "2026-09-30T20:04:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:3ixiwz",
     "title": "Qt 6.12 LTS Released",
     "url": "https://www.qt.io/blog/qt-6.12-released",
@@ -4766,236 +4996,6 @@
     "source": "hackernews",
     "score": 50.0,
     "published_at": "2026-09-26T18:22:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6dcgr9",
-    "title": "The Graveyard of Good Ideas",
-    "url": "https://www.youtube.com/watch?v=ovlQ81rBc-4",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-26T10:09:50.396-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:70f3hi",
-    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "url": "https://swarmtraces.org/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-26T11:27:29.766-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ibpgio",
-    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
-    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-26T12:34:14.313-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rtcnc8",
-    "title": "The JavaScript Pun: tagged template literal",
-    "url": "https://shukla.io/blog/2026-09/pun.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-26T10:37:12.781-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8pjbtj",
-    "title": "Can we have reachability properties in TLA⁺?",
-    "url": "https://ahelwer.ca/post/2026-09-26-reachability/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-26T10:49:22.686-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:aokbai",
-    "title": "Wrong, not broken",
-    "url": "https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-26T12:08:06.946-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244920",
-    "title": "26 号还能注册 muse.ai 的方法",
-    "url": "https://www.v2ex.com/t/1244920",
-    "source": "v2ex",
-    "score": 68.0,
-    "published_at": "2026-09-26T12:26:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244857",
-    "title": "刷屏式地注册 muse，所以这玩意儿你们用起来了吗？",
-    "url": "https://www.v2ex.com/t/1244857",
-    "source": "v2ex",
-    "score": 74.0,
-    "published_at": "2026-09-26T03:14:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688669403517960202",
-    "title": "Trae 每天自动签到：Serverless 定时任务完整复盘",
-    "url": "https://juejin.cn/post/7688669403517960202",
-    "source": "juejin",
-    "score": 0.19859212,
-    "published_at": "2026-09-24T03:15:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7689029662157602854",
-    "title": "UniApp 内嵌 H5 通信全攻略",
-    "url": "https://juejin.cn/post/7689029662157602854",
-    "source": "juejin",
-    "score": 0.09468804,
-    "published_at": "2026-09-24T09:57:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49857323",
-    "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
-    "url": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-09-26T15:10:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49858253",
-    "title": "US jury says Apple owes record $5.7B in haptic technology patent case",
-    "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-26T16:46:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49832768",
-    "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-    "url": "https://www.movingimagearchive.com/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-24T16:11:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49857899",
-    "title": "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
-    "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
-    "source": "hackernews",
-    "score": 206.0,
-    "published_at": "2026-09-26T16:12:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49857651",
-    "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
-    "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-09-26T15:48:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49849820",
-    "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-    "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-25T20:53:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49827900",
-    "title": "The Lost Atomic Update on Loongson CPU",
-    "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-09-24T08:36:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49856665",
-    "title": "OpenAI bots meddled with multiple US Government agency sites",
-    "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-09-26T14:03:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49857729",
-    "title": "Make Claude your assistant in excalidraw",
-    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-09-26T15:56:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49857528",
-    "title": "Show HN: A Claude Code skill to analyze your chess games",
-    "url": "https://github.com/brumar/chess-postmortem-skills",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-09-26T15:34:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49842764",
-    "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-    "url": "https://github.com/InfinityLoop1308/PipePipe",
-    "source": "hackernews",
-    "score": 132.0,
-    "published_at": "2026-09-25T10:55:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fejuat",
-    "title": "Tuning a Server for Benchmarking",
-    "url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-26T06:48:40.380-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rucvky",
-    "title": "Go concurrency distilled",
-    "url": "https://antonz.org/go-concurrency-distilled/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-26T07:14:01.590-05:00",
     "summary": "",
     "key_points": []
   }
