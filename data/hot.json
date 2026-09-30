@@ -1,5 +1,295 @@
 [
   {
+    "id": "lobsters:3ixiwz",
+    "title": "Qt 6.12 LTS Released",
+    "url": "https://www.qt.io/blog/qt-6.12-released",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-30T12:10:52.107-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:obix99",
+    "title": "attezt: device attestation, PKCS11 and ACME",
+    "url": "https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-and-acme#t=30",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-30T07:23:08.846-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bag41j",
+    "title": "Hanami, Why?: Introductions",
+    "url": "https://aaronmallen.me/writing/hanami-why-introductions",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-30T10:55:21.340-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:iqapj6",
+    "title": "Coding is not solved",
+    "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-09-30T04:40:18.436-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:oevyhw",
+    "title": "Q2 2026 Backblaze Drive Stats: Hard Drive Failure Rates",
+    "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-09-30T09:28:23.283-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:j7kltq",
+    "title": "Turbo Haskell",
+    "url": "https://comonad.com/reader/2026/turbo-haskell/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-09-30T08:35:52.964-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:2ybfba",
+    "title": "Songhive — A fully self-hosted and federated music platform",
+    "url": "https://blog.fabiomanganiello.com/article/Songhive",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-30T12:07:43.189-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kbdf4q",
+    "title": "Tcl/Tk 9.1",
+    "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-09-30T10:27:41.851-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:3ufaju",
+    "title": "What TLA+ can and can't check",
+    "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-30T09:02:33.254-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:irijoi",
+    "title": "Differences between `foldl` and `foldr`",
+    "url": "https://blog.haskell.org/foldl-and-foldr/",
+    "source": "lobsters",
+    "score": 19.0,
+    "published_at": "2026-09-30T07:47:02.869-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245765",
+    "title": "吐槽，公司疑似招了个没做过开发的做开发",
+    "url": "https://www.v2ex.com/t/1245765",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-09-30T03:17:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690414588748464138",
+    "title": "AI 测试 Skill 大全，我日常在用的 25 个，夯爆了！",
+    "url": "https://juejin.cn/post/7690414588748464138",
+    "source": "juejin",
+    "score": 0.26198689,
+    "published_at": "2026-09-29T00:55:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690435049426681898",
+    "title": "非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑",
+    "url": "https://juejin.cn/post/7690435049426681898",
+    "source": "juejin",
+    "score": 0.40291519,
+    "published_at": "2026-09-28T09:57:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49910328",
+    "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+    "url": "https://openparrot.app",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-09-30T15:33:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49909913",
+    "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+    "url": "https://strata.do/try/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-09-30T14:59:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49902382",
+    "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+    "url": "https://ledge.sh",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-09-29T23:41:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49879346",
+    "title": "Getting out of the way: my robotics crash course",
+    "url": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-09-28T15:12:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49909056",
+    "title": "What TLA+ can and can't check",
+    "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-09-30T13:57:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49908394",
+    "title": "The last time my family was replaced by technology",
+    "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-09-30T13:06:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49884346",
+    "title": "Reverse-engineering a $35 backup camera display (AMT630A)",
+    "url": "https://github.com/mogrinz/AMT630A",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-28T21:06:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49909610",
+    "title": "SDF Public Access Unix System ... est. 1987",
+    "url": "https://sdf.org/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-09-30T14:36:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49882754",
+    "title": "Burning Man Death Rates – A Short Lesson in Statistics",
+    "url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-09-28T18:57:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49911531",
+    "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+    "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-09-30T17:00:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49908962",
+    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-09-30T13:50:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49910613",
+    "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+    "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-09-30T15:54:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49883970",
+    "title": "I Could've Accessed 17T Microsoft Records",
+    "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+    "source": "hackernews",
+    "score": 139.0,
+    "published_at": "2026-09-28T20:32:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49909583",
+    "title": "A brief history of the Bloomberg terminal",
+    "url": "https://spectrum.ieee.org/bloomberg-terminal",
+    "source": "hackernews",
+    "score": 101.0,
+    "published_at": "2026-09-30T14:34:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49911757",
+    "title": "Commit Description as a Thinking Tool",
+    "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-30T17:18:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49911995",
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-09-30T17:37:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:phvgme",
     "title": "Join Ordering, Part 1: The Shape of the Search Space",
     "url": "https://deferworks.org/posts/join-ordering/",
@@ -4706,296 +4996,6 @@
     "source": "lobsters",
     "score": 5.0,
     "published_at": "2026-09-26T07:14:01.590-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wpv5ed",
-    "title": "Infecting the Steam Link with NixOS",
-    "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-26T08:45:59.865-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:p3iq7v",
-    "title": "If we do not stop to help each other, what do we become?",
-    "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-09-26T06:02:48.079-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244842",
-    "title": "真正做 FDE 的进来聊聊",
-    "url": "https://www.v2ex.com/t/1244842",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-09-26T01:49:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244878",
-    "title": "悲报， gemini spark 和 cloud browser 注册全部被封堵",
-    "url": "https://www.v2ex.com/t/1244878",
-    "source": "v2ex",
-    "score": 66.0,
-    "published_at": "2026-09-26T05:56:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7689029662157717542",
-    "title": "突发：Claude自主发现未知生物系统，或能编辑基因",
-    "url": "https://juejin.cn/post/7689029662157717542",
-    "source": "juejin",
-    "score": 0.09647044,
-    "published_at": "2026-09-24T10:22:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688569614586953754",
-    "title": "我手写了一版 React Compiler：AI 最常漏的 3 个 memo 场景",
-    "url": "https://juejin.cn/post/7688569614586953754",
-    "source": "juejin",
-    "score": 0.10243752,
-    "published_at": "2026-09-23T10:46:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688579804614361138",
-    "title": "管理后台数据国际化：不建翻译表、一列 JSON、后端零改动",
-    "url": "https://juejin.cn/post/7688579804614361138",
-    "source": "juejin",
-    "score": 0.11220467,
-    "published_at": "2026-09-24T00:18:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688917667420717091",
-    "title": "Flutter 获取 iPhone Duo 预留区位置",
-    "url": "https://juejin.cn/post/7688917667420717091",
-    "source": "juejin",
-    "score": 0.23040469,
-    "published_at": "2026-09-24T10:34:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7689029662157668390",
-    "title": "我打回了 AI 写的 PR：新立 3 条规矩，第 1 条就有争议",
-    "url": "https://juejin.cn/post/7689029662157668390",
-    "source": "juejin",
-    "score": 0.21144618,
-    "published_at": "2026-09-24T10:05:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:vercel/next.js",
-    "title": "next.js",
-    "url": "https://github.com/vercel/next.js",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mobile-next/mobile-mcp",
-    "title": "mobile-mcp",
-    "url": "https://github.com/mobile-next/mobile-mcp",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:actions/runner-images",
-    "title": "runner-images",
-    "url": "https://github.com/actions/runner-images",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/claude-code-action",
-    "title": "claude-code-action",
-    "url": "https://github.com/anthropics/claude-code-action",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:llvm/llvm-project",
-    "title": "llvm-project",
-    "url": "https://github.com/llvm/llvm-project",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:zhaoxuya520/reverse-skill",
-    "title": "reverse-skill",
-    "url": "https://github.com/zhaoxuya520/reverse-skill",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:microsoft/vscode",
-    "title": "vscode",
-    "url": "https://github.com/microsoft/vscode",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:block/buzz",
-    "title": "buzz",
-    "url": "https://github.com/block/buzz",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:tensorflow/tensorflow",
-    "title": "tensorflow",
-    "url": "https://github.com/tensorflow/tensorflow",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:dream-num/univer",
-    "title": "univer",
-    "url": "https://github.com/dream-num/univer",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49855018",
-    "title": "One Month Without AI",
-    "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-    "source": "hackernews",
-    "score": 124.0,
-    "published_at": "2026-09-26T10:08:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49854216",
-    "title": "The far side of the Moon provides clues to a previous magnetic field",
-    "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-26T07:49:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49854945",
-    "title": "The Copilot+ PC brand is dead",
-    "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-09-26T09:55:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49856971",
-    "title": "Earth is tearing apart beneath the Pacific Northwest",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-26T14:33:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49824642",
-    "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
-    "url": "https://www.osti.gov/servlets/purl/1124870",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-24T00:34:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49829528",
-    "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
-    "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-24T12:10:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49823628",
-    "title": "ASML currently sells no chipmaking machines in Europe, executive says",
-    "url": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
-    "source": "hackernews",
-    "score": 82.0,
-    "published_at": "2026-09-23T22:42:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49816907",
-    "title": "Reflections on 1,000 Days of Math",
-    "url": "https://gmays.com/reflections-on-1000-days-of-math/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-23T14:40:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49829202",
-    "title": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
-    "url": "https://castle-engine.io/modern_pascal",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-24T11:33:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49854693",
-    "title": "Fifteen years later, the Apple Cards origin story",
-    "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-    "source": "hackernews",
-    "score": 153.0,
-    "published_at": "2026-09-26T09:13:41+00:00",
     "summary": "",
     "key_points": []
   }
