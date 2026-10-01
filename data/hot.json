@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:tslwlq",
+    "title": "How to make a text box: A crash course in Unicode and OpenType",
+    "url": "https://www.youtube.com/watch?v=7Tr0ty9-yeQ",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-01T13:31:36.359-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:eqemtu",
+    "title": "Lists that keep track of their reversal",
+    "url": "https://grim.cargocut.org/a/rev-list.html",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-01T11:29:04.562-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:td9dxd",
+    "title": "The death of web development education",
+    "url": "https://molily.de/web-dev-education/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-01T12:14:23.255-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bytzgl",
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "url": "https://blog.gitbutler.com/git-3-sha-256",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-10-01T13:26:59.318-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ccxvh6",
+    "title": "Pidgin 3.0 Alpha 3 2.97.0 has been released",
+    "url": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-3-2-97-0-has-been-released/436",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-10-01T11:47:42.962-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245993",
+    "title": "[分享送码] Forma Drive 在 Mac 上读写 NTFS 和 ext4 移动硬盘，顺带看线缆速度、清理磁盘",
+    "url": "https://www.v2ex.com/t/1245993",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-10-01T05:11:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mvschwarz/openrig",
+    "title": "openrig",
+    "url": "https://github.com/mvschwarz/openrig",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49924275",
+    "title": "ParadeDB Search Performance Improvements",
+    "url": "https://www.paradedb.com/blog/opening-a-closed-tin",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-10-01T17:05:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49923638",
+    "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+    "url": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-10-01T16:14:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49922437",
+    "title": "Context Language Models",
+    "url": "https://arxiv.org/abs/2609.37725",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-10-01T14:51:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49922568",
+    "title": "Ask HN: Who wants to be hired? (October 2026)",
+    "url": "https://news.ycombinator.com/item?id=49922568",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-10-01T15:02:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49926773",
+    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+    "url": "https://github.com/Vibra-Ingenn/Janus",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-01T20:36:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49911500",
+    "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+    "url": "https://news.ycombinator.com/item?id=49911500",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-09-30T16:58:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49922674",
+    "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+    "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+    "source": "hackernews",
+    "score": 123.0,
+    "published_at": "2026-10-01T15:07:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49922569",
+    "title": "Ask HN: Who is hiring? (October 2026)",
+    "url": "https://news.ycombinator.com/item?id=49922569",
+    "source": "hackernews",
+    "score": 118.0,
+    "published_at": "2026-10-01T15:02:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49925036",
+    "title": "Bez: Generating a browser engine from specs and tests",
+    "url": "https://tangled.org/burrito.space/bez",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-10-01T18:08:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49926512",
+    "title": "ArXiv's Updated Rate Limit Policy",
+    "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-01T20:12:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49925742",
+    "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-10-01T19:03:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49925969",
+    "title": "Pi Durable",
+    "url": "https://earendil.com/posts/pi-durable/",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-10-01T19:24:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49926628",
+    "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
+    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-01T20:23:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49923692",
+    "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "source": "hackernews",
+    "score": 340.0,
+    "published_at": "2026-10-01T16:18:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49926069",
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "source": "hackernews",
+    "score": 341.0,
+    "published_at": "2026-10-01T19:33:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:yknfii",
     "title": "A brief history of the Bloomberg Terminal",
     "url": "https://spectrum.ieee.org/bloomberg-terminal",
@@ -4776,226 +4996,6 @@
     "source": "hackernews",
     "score": 18.0,
     "published_at": "2026-09-25T14:38:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49866988",
-    "title": "Fragment of oldest known peace treaty found in Turkey",
-    "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-27T14:35:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49867067",
-    "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
-    "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-    "source": "hackernews",
-    "score": 292.0,
-    "published_at": "2026-09-27T14:45:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49869142",
-    "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
-    "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-27T18:02:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49868831",
-    "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-    "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-    "source": "hackernews",
-    "score": 130.0,
-    "published_at": "2026-09-27T17:32:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49867486",
-    "title": "The Normalization of Inexplicable Failures",
-    "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-    "source": "hackernews",
-    "score": 186.0,
-    "published_at": "2026-09-27T15:26:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49867775",
-    "title": "Show HN: TinyAIArena watch AI agents battle it out",
-    "url": "https://tinyaiarena.com/",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-09-27T15:51:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49866515",
-    "title": "Replacing the old battery on rechargeable bike lights",
-    "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-    "source": "hackernews",
-    "score": 100.0,
-    "published_at": "2026-09-27T13:30:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49849409",
-    "title": "Writing Efficient C++ Code (2013)",
-    "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-    "source": "hackernews",
-    "score": 109.0,
-    "published_at": "2026-09-25T20:20:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49866951",
-    "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-    "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-    "source": "hackernews",
-    "score": 136.0,
-    "published_at": "2026-09-27T14:30:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49869574",
-    "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-    "url": "https://loficities.com/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-27T18:44:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49868830",
-    "title": "Ember-1",
-    "url": "https://fireworks.ai/blog/ember-1",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-09-27T17:31:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fcj31p",
-    "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
-    "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
-    "source": "lobsters",
-    "score": 0.0,
-    "published_at": "2026-09-27T09:47:13.187-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fpk9gq",
-    "title": "Ten Lines Of Code That Changed My World",
-    "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-27T08:05:28.206-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mwc2fu",
-    "title": "What Improves Developer Productivity at Google? Code Quality",
-    "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-27T07:52:57.601-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1colyy",
-    "title": "“They had no concept of a duty of care to their users.”",
-    "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-27T09:44:53.153-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:apoyxs",
-    "title": "LuaRocks Security Incident September 2026",
-    "url": "https://luarocks.org/security-incident-september-2026",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-27T08:58:57.101-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244968",
-    "title": "Claude 这波操作给我整不会了",
-    "url": "https://www.v2ex.com/t/1244968",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-09-27T00:05:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245031",
-    "title": "muse 注册非常丝滑，正常注册就行！",
-    "url": "https://www.v2ex.com/t/1245031",
-    "source": "v2ex",
-    "score": 56.0,
-    "published_at": "2026-09-27T06:47:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244970",
-    "title": "各位大佬，请问怎么才能用上 Claude？",
-    "url": "https://www.v2ex.com/t/1244970",
-    "source": "v2ex",
-    "score": 68.0,
-    "published_at": "2026-09-27T00:13:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245045",
-    "title": "MUSE 好像放开注册了，比较轻松就成功了",
-    "url": "https://www.v2ex.com/t/1245045",
-    "source": "v2ex",
-    "score": 78.0,
-    "published_at": "2026-09-27T08:42:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245024",
-    "title": "10000000000 Token MUSE.AI，整理了七八十吧，省的翻了。",
-    "url": "https://www.v2ex.com/t/1245024",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-09-27T06:00:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7689599510955278336",
-    "title": "为什么越来越多人用 OnlyOffice？",
-    "url": "https://juejin.cn/post/7689599510955278336",
-    "source": "juejin",
-    "score": 1.80352624,
-    "published_at": "2026-09-27T07:58:53+00:00",
     "summary": "",
     "key_points": []
   }
