@@ -1,5 +1,135 @@
 [
   {
+    "id": "lobsters:enijty",
+    "title": "Rust to WGSL transpiler `wgsl-rs` released",
+    "url": "https://renderling.xyz/articles/wgsl-rs-beta-release.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-30T19:13:12.110-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nwdxko",
+    "title": "EDG C/C++ Compiler Project",
+    "url": "https://github.com/edgcpp/compiler",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-30T17:06:21.893-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245903",
+    "title": "关于买房，现在是一个好的机会么？",
+    "url": "https://www.v2ex.com/t/1245903",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-09-30T12:36:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245891",
+    "title": "节前最后一天，被裁员了。",
+    "url": "https://www.v2ex.com/t/1245891",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-09-30T11:14:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245741",
+    "title": "如果 10 年前已经有买房钱，你会选择买房吗？ 我选择住了 10 年合租房",
+    "url": "https://www.v2ex.com/t/1245741",
+    "source": "v2ex",
+    "score": 90.0,
+    "published_at": "2026-09-30T02:35:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245781",
+    "title": "闲鱼租了辆 SU7 Pro，押金 3000 要不回来，对方人在里面了",
+    "url": "https://www.v2ex.com/t/1245781",
+    "source": "v2ex",
+    "score": 102.0,
+    "published_at": "2026-09-30T03:42:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690110881577304079",
+    "title": "AI时代最大的红利：个人做量化，也能开发出一套适合你的策略",
+    "url": "https://juejin.cn/post/7690110881577304079",
+    "source": "juejin",
+    "score": 0.09479938,
+    "published_at": "2026-09-28T03:31:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49894143",
+    "title": "Mechanochemistry of Molecular Motors [video]",
+    "url": "https://www.youtube.com/watch?v=hpxbMVbL3Ms",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-29T14:40:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49916668",
+    "title": "10-year Treasury yield climbs above 5.3% to a level not seen in 24 years",
+    "url": "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-01T01:40:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49915119",
+    "title": "Automating Wi-Fi setup testing on the ESP32",
+    "url": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-09-30T22:07:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49899047",
+    "title": "A Closer Look at Australopithecus Africanus",
+    "url": "https://lflank.wordpress.com/2026/09/29/a-closer-look-at-australopithecus-africanus/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-29T19:27:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49897600",
+    "title": "What a Massive New 728-Foot-Wide Crater Means for Future Moon Bases",
+    "url": "https://www.nytimes.com/2026/09/21/science/space/what-a-massive-new-crater-means-for-future-moon-bases.html",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-09-29T17:58:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49915126",
+    "title": "56k.rip – the 1996 dial-up internet experience",
+    "url": "https://56k.rip/",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-09-30T22:08:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:rhkwg1",
     "title": "Back to Backups: A Year in Review",
     "url": "https://signal.org/blog/backup-improvements/",
@@ -4866,136 +4996,6 @@
     "source": "hackernews",
     "score": 4.0,
     "published_at": "2026-09-25T02:34:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uvmajz",
-    "title": "Rusty thoughts on \"Parse, don't validate\"",
-    "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-26T15:45:24.308-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vpis72",
-    "title": "Reassurance",
-    "url": "https://www.rocketpoweredjetpants.com/reassurance/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-26T15:53:24.096-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uhlr9z",
-    "title": "Dissecting House of Apple 2 on modern glibc",
-    "url": "https://jazho76.github.io/house_of_apple_2/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-26T14:31:45.655-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:iqqqbg",
-    "title": "AI Agents Push Humans Out of the Loop",
-    "url": "https://arxiv.org/abs/2608.23642",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-26T14:21:56.883-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5soxba",
-    "title": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
-    "url": "http://www.righto.com/2026/09/8087-tangent-cordic.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-26T14:01:50.552-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688910933353054244",
-    "title": " Redis 常见的数据类型及底层结构",
-    "url": "https://juejin.cn/post/7688910933353054244",
-    "source": "juejin",
-    "score": 0.0643811,
-    "published_at": "2026-09-24T10:44:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49857572",
-    "title": "Automattic has a new board after failed attempt to put CEO on leave",
-    "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-09-26T15:40:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49857442",
-    "title": "Plunging test scores are a slow-moving catastrophe",
-    "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
-    "source": "hackernews",
-    "score": 141.0,
-    "published_at": "2026-09-26T15:24:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49834040",
-    "title": "The Rise of Audio AR",
-    "url": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-24T17:31:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49833444",
-    "title": "LA Metro has some of the slowest escalators on Earth",
-    "url": "https://basin.la/articles/ninety-feet-a-minute.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-24T16:52:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49860074",
-    "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
-    "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-26T20:08:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49858513",
-    "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-    "url": "https://github.com/reladraw/reladraw",
-    "source": "hackernews",
-    "score": 87.0,
-    "published_at": "2026-09-26T17:10:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49859112",
-    "title": "DeepSeek Elastic Compute (DSec)",
-    "url": "https://arxiv.org/abs/2609.22978",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-26T18:22:41+00:00",
     "summary": "",
     "key_points": []
   }
