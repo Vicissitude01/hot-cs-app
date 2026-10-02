@@ -1,5 +1,325 @@
 [
   {
+    "id": "lobsters:jh245o",
+    "title": "Debian 13 as a dual WAN router",
+    "url": "https://www.tqdev.com/2026-dual-wan-router-debian-13/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-02T07:59:58.992-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1eukia",
+    "title": "GIMP - Interview with LiamQuin",
+    "url": "https://www.gimp.org/news/2026/10/01/liam-quin-interview-lgm2017/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-02T05:41:38.013-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:auypcd",
+    "title": "sixteenth RacketCon this weekend",
+    "url": "https://con.racket-lang.org/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-02T02:53:02.835-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fidpdw",
+    "title": "Advice to a beginning software engineer",
+    "url": "https://www.seangoedecke.com/advice-to-a-beginning-software-engineer/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-02T08:19:46.829-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uuu6us",
+    "title": "The hidden design compromises of Docker layers",
+    "url": "https://loige.co/hidden-design-compromises-of-docker-layers/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-02T03:29:47.847-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kp2tg8",
+    "title": "Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)",
+    "url": "https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-02T03:14:44.133-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:3hdied",
+    "title": "Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs' rx",
+    "url": "https://rahuljuliato.com/posts/emacs-rx-in-typescript",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-02T03:20:02.189-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6jcvdn",
+    "title": "Generic Const Args and You",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-02T04:20:42.528-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hfmcxi",
+    "title": "What are you doing this weekend?",
+    "url": "https://lobste.rs/s/hfmcxi",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-02T03:18:01.576-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246096",
+    "title": "gpt 6 luna 都这么蠢吗？连个小插件，都写了 10 几遍，还没有写好！",
+    "url": "https://www.v2ex.com/t/1246096",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-10-02T02:42:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246122",
+    "title": "戒短视频，碎片时间，可以干啥？",
+    "url": "https://www.v2ex.com/t/1246122",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-10-02T05:28:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246061",
+    "title": "Grok Bot/Muse/Dots 这些龙虾类产品卷土重来，我想给上一代产品说几句公道话",
+    "url": "https://www.v2ex.com/t/1246061",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-10-01T15:01:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246146",
+    "title": "你更相信门诊医生还是 AI？",
+    "url": "https://www.v2ex.com/t/1246146",
+    "source": "v2ex",
+    "score": 68.0,
+    "published_at": "2026-10-02T10:03:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690841638806421538",
+    "title": "3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完",
+    "url": "https://juejin.cn/post/7690841638806421538",
+    "source": "juejin",
+    "score": 0.04995598,
+    "published_at": "2026-09-30T01:25:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690869176362172425",
+    "title": "游戏引擎都没用！纯AI又上线了一款蚂蚁搬家小游戏！",
+    "url": "https://juejin.cn/post/7690869176362172425",
+    "source": "juejin",
+    "score": 0.09728062,
+    "published_at": "2026-09-30T03:18:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690930433831895050",
+    "title": "OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra",
+    "url": "https://juejin.cn/post/7690930433831895050",
+    "source": "juejin",
+    "score": 0.08279015,
+    "published_at": "2026-09-30T03:23:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691030977348108351",
+    "title": "一个人+AI做情侣食谱小程序，30天纯赚",
+    "url": "https://juejin.cn/post/7691030977348108351",
+    "source": "juejin",
+    "score": 0.104233,
+    "published_at": "2026-09-30T10:12:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691142360248614947",
+    "title": "在职前端 Skill 和 MCP 分享",
+    "url": "https://juejin.cn/post/7691142360248614947",
+    "source": "juejin",
+    "score": 0.06269953,
+    "published_at": "2026-09-30T13:23:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691227873460125734",
+    "title": "31岁罗福莉，晋升小米最高职级22级",
+    "url": "https://juejin.cn/post/7691227873460125734",
+    "source": "juejin",
+    "score": 0.93023294,
+    "published_at": "2026-10-02T03:17:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691154454523576354",
+    "title": "2026年金九银十，我面了22个前端",
+    "url": "https://juejin.cn/post/7691154454523576354",
+    "source": "juejin",
+    "score": 0.11652016,
+    "published_at": "2026-09-30T10:26:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691248453423497252",
+    "title": "不错不错！GPT6.1Sol的测试结果来了！",
+    "url": "https://juejin.cn/post/7691248453423497252",
+    "source": "juejin",
+    "score": 0.11873248,
+    "published_at": "2026-09-30T10:01:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690784318688804914",
+    "title": "Windows 下 Claude Code 落地全指南：从安装配置到避坑优化",
+    "url": "https://juejin.cn/post/7690784318688804914",
+    "source": "juejin",
+    "score": 0.09064449,
+    "published_at": "2026-09-30T00:34:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Effect-TS/effect",
+    "title": "effect",
+    "url": "https://github.com/Effect-TS/effect",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:getsentry/sentry",
+    "title": "sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:google/skills",
+    "title": "skills",
+    "url": "https://github.com/google/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:coreyhaines31/marketingskills",
+    "title": "marketingskills",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:JuliusBrussee/caveman",
+    "title": "caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Panniantong/Agent-Reach",
+    "title": "Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49932499",
+    "title": "Memory executives expect RAM shortage to continue through 2028",
+    "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-02T11:58:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49933459",
+    "title": "Don't be fooled–LLMs don't reason",
+    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-02T13:45:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49931031",
+    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+    "url": "https://github.com/kvoltmer/Audionaut",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-10-02T08:05:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49933235",
+    "title": "The Legend of von Neumann [pdf]",
+    "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-02T13:18:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gx0wiv",
     "title": "@storyteller-platform/epub v1.0.0 release",
     "url": "https://storyteller-platform.dev/blog/20261001_epub_v1",
@@ -4676,326 +4996,6 @@
     "source": "hackernews",
     "score": 6.0,
     "published_at": "2026-09-28T15:12:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49877988",
-    "title": "Coding Is Not Solved",
-    "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
-    "source": "hackernews",
-    "score": 254.0,
-    "published_at": "2026-09-28T13:52:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49879702",
-    "title": "Hijacking the PS5's RTMP Stream",
-    "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-28T15:35:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49878900",
-    "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
-    "url": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-28T14:48:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49875913",
-    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-    "url": "https://git.mills.io/prologic/parley",
-    "source": "hackernews",
-    "score": 220.0,
-    "published_at": "2026-09-28T10:30:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49880036",
-    "title": "Pirating the Pirates",
-    "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-28T15:54:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49880312",
-    "title": "The problem is not the AI code, but nobody knows anything anymore",
-    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-09-28T16:11:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:69mmo0",
-    "title": "DogWood: Monitoring Policies using First Order Temporal Logic",
-    "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-27T23:36:20.822-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yidvju",
-    "title": "Pragmatic Anthropomorphism, or: How to Talk to an Autocompleting Cricket",
-    "url": "https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-28T00:48:54.004-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0knxvq",
-    "title": "Expert asterisks",
-    "url": "https://nedbatchelder.com/blog/202609/expert_asterisks",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-09-27T22:48:21.007-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pfzhxp",
-    "title": "Replacing the old battery on rechargeable bike lights",
-    "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-27T22:27:24.858-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hjkktn",
-    "title": "Fool's Expertise",
-    "url": "https://bcantrill.dtrace.org/2026/09/27/fools-expertise/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-27T22:50:52.079-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fqype1",
-    "title": "What makes Lisp difficult to read?",
-    "url": "https://paultm.nl/paren-thesis",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-27T23:44:02.263-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245109",
-    "title": "AI 带来的不是便利性，而是更多人的迷失",
-    "url": "https://www.v2ex.com/t/1245109",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-09-27T23:57:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245137",
-    "title": "自从看了动漫 还看看的下去电影,电视剧吗?",
-    "url": "https://www.v2ex.com/t/1245137",
-    "source": "v2ex",
-    "score": 88.0,
-    "published_at": "2026-09-28T01:42:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245130",
-    "title": "第一次去港澳，想问问有什么值得特地去买的东西吗",
-    "url": "https://www.v2ex.com/t/1245130",
-    "source": "v2ex",
-    "score": 114.0,
-    "published_at": "2026-09-28T01:22:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245124",
-    "title": "有多少人和我一样今天连休！中秋到国庆之间这三天！",
-    "url": "https://www.v2ex.com/t/1245124",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-09-28T01:20:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245121",
-    "title": "VVAE：一个 V2EX 原生 iOS 客户端 - 送 Premium 兑换码",
-    "url": "https://www.v2ex.com/t/1245121",
-    "source": "v2ex",
-    "score": 190.0,
-    "published_at": "2026-09-28T01:08:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245140",
-    "title": "我实在是无法理解认为重置周期时间会亏这种想法",
-    "url": "https://www.v2ex.com/t/1245140",
-    "source": "v2ex",
-    "score": 212.0,
-    "published_at": "2026-09-28T01:54:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7689377403413430307",
-    "title": "顶级模型一句话，AI 写出了能玩的 QQ飞车",
-    "url": "https://juejin.cn/post/7689377403413430307",
-    "source": "juejin",
-    "score": 0.28469991,
-    "published_at": "2026-09-27T03:13:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7689818941397778478",
-    "title": "突发！字节内部大调整，QA直接转研发了？",
-    "url": "https://juejin.cn/post/7689818941397778478",
-    "source": "juejin",
-    "score": 5.45386119,
-    "published_at": "2026-09-28T01:56:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49872541",
-    "title": "Packing Binary Is Fun",
-    "url": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-09-28T01:33:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49872864",
-    "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
-    "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-28T02:27:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49851795",
-    "title": "Deterministic Concurrency [video]",
-    "url": "https://www.youtube.com/watch?v=25x0UuSCKuU",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-26T00:14:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49855447",
-    "title": "The Greatest Pun in JavaScript",
-    "url": "https://shukla.io/blog/2026-09/pun.html",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-26T11:18:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49872474",
-    "title": "Was silent reading unusual during Augustine's time?",
-    "url": "https://www.historyofinformation.com/detail.php?entryid=4341",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-09-28T01:22:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49852238",
-    "title": "Functional Mechanical Sympathy [video]",
-    "url": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-26T01:26:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49869755",
-    "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
-    "url": "https://www.inkandswitch.com/essay/malleable-software/",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-09-27T19:01:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49873241",
-    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-    "url": "https://arxiv.org/abs/2110.01834",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-09-28T03:23:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49872723",
-    "title": "Owed a billion dollars in Nvidia stock",
-    "url": "https://colo.to/nvidia-stock-narrative.html",
-    "source": "hackernews",
-    "score": 517.0,
-    "published_at": "2026-09-28T02:05:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:edx1gf",
-    "title": "Thorsten Ball - What I believe about the future of software development",
-    "url": "https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/",
-    "source": "lobsters",
-    "score": 0.0,
-    "published_at": "2026-09-27T18:37:33.930-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qgsfdf",
-    "title": "EX-ARRR: Sailing the 0-click Seas",
-    "url": "https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/",
-    "source": "lobsters",
-    "score": 0.0,
-    "published_at": "2026-09-27T18:32:38.750-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hy7ckt",
-    "title": "Syncing Rust GCC backend or how to test Murphy's law",
-    "url": "https://blog.guillaume-gomez.fr/articles/2026-09-22+Syncing+Rust+GCC+backend+or+how+to+test+Murphy%27s+law",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-27T19:10:55.368-05:00",
     "summary": "",
     "key_points": []
   }
