@@ -1,5 +1,205 @@
 [
   {
+    "id": "lobsters:oeflod",
+    "title": "We Should be Able to Change our Languages",
+    "url": "https://jimmyhmiller.com/change-our-languages",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-01T13:55:58.514-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1245998",
+    "title": "没公网 IP 还会关机？把 Muse 虚拟机变成自己的 VPS",
+    "url": "https://www.v2ex.com/t/1245998",
+    "source": "v2ex",
+    "score": 26.0,
+    "published_at": "2026-10-01T05:43:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246062",
+    "title": "有没有 token 信用合作社,蹬不完的 token 先给别人用,那天自己不够了再去取用",
+    "url": "https://www.v2ex.com/t/1246062",
+    "source": "v2ex",
+    "score": 28.0,
+    "published_at": "2026-10-01T15:09:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246029",
+    "title": "[横琴｜澳资初创｜ AI Agent] 寻找技术联合创始人，前期零薪， 16%股权（4 年归属）",
+    "url": "https://www.v2ex.com/t/1246029",
+    "source": "v2ex",
+    "score": 32.0,
+    "published_at": "2026-10-01T09:21:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690942973639475200",
+    "title": "idea 插件-把数据库的表画出来",
+    "url": "https://juejin.cn/post/7690942973639475200",
+    "source": "juejin",
+    "score": 0.16493955,
+    "published_at": "2026-09-30T04:49:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690468159976701998",
+    "title": "干了 6 年前端，我是怎么一步步转型到 AI 的？",
+    "url": "https://juejin.cn/post/7690468159976701998",
+    "source": "juejin",
+    "score": 0.08669512,
+    "published_at": "2026-09-29T03:12:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690512501442609186",
+    "title": "Agent Memory架构设计与实现",
+    "url": "https://juejin.cn/post/7690512501442609186",
+    "source": "juejin",
+    "score": 0.05777809,
+    "published_at": "2026-09-29T04:43:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691207444283113506",
+    "title": "Shopify 回应为什么从 RN 回到原生，为什么不用 KMP ？",
+    "url": "https://juejin.cn/post/7691207444283113506",
+    "source": "juejin",
+    "score": 0.67703194,
+    "published_at": "2026-10-01T08:37:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49928152",
+    "title": "Butterflies use optical illusions to dodge predators",
+    "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-01T23:15:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49927100",
+    "title": "The death of web development education",
+    "url": "https://molily.de/web-dev-education/",
+    "source": "hackernews",
+    "score": 153.0,
+    "published_at": "2026-10-01T21:07:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49927844",
+    "title": "2026 International Utility Locate Rodeo",
+    "url": "https://locaterodeo.net/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-01T22:33:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49928054",
+    "title": "Apple's smart home camera reportedly won't record video",
+    "url": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-01T23:00:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49927693",
+    "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+    "url": "https://neow.in/NGxhb3d6",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-10-01T22:15:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49924618",
+    "title": "Vote on which of Hacker News' challenges for AI have been met",
+    "url": "https://stoppels.ch/goalposts/",
+    "source": "hackernews",
+    "score": 84.0,
+    "published_at": "2026-10-01T17:32:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49927587",
+    "title": "Aweb – Communication for AI Agents",
+    "url": "https://aweb.ai",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-01T22:02:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49924179",
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "url": "https://blog.gitbutler.com/git-3-sha-256",
+    "source": "hackernews",
+    "score": 192.0,
+    "published_at": "2026-10-01T16:57:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49926917",
+    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+    "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-10-01T20:48:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49927212",
+    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+    "url": "https://www.cssbed.com",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-10-01T21:21:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49926536",
+    "title": "SvelteKit 3",
+    "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-10-01T20:14:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49928121",
+    "title": "Several vulnerabilities have been discovered in the Linux kernel",
+    "url": "https://lwn.net/Articles/1097401/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-10-01T23:10:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:tslwlq",
     "title": "How to make a text box: A crash course in Unicode and OpenType",
     "url": "https://www.youtube.com/watch?v=7Tr0ty9-yeQ",
@@ -4796,206 +4996,6 @@
     "source": "hackernews",
     "score": 58.0,
     "published_at": "2026-09-25T13:46:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49870070",
-    "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-    "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-09-27T19:37:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49870837",
-    "title": "Lunar Terminator Paradox",
-    "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-09-27T21:06:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49870367",
-    "title": "When did Google get so weird?",
-    "url": "https://sancho.bearblog.dev/google-weird/",
-    "source": "hackernews",
-    "score": 429.0,
-    "published_at": "2026-09-27T20:12:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:exda3k",
-    "title": "Writing Efficient C++ Code",
-    "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-27T13:03:12.695-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:msjitj",
-    "title": "postmarketOS rebrands as Nura",
-    "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-27T12:34:21.672-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1244972",
-    "title": "屌爆了，一句话使用 Opus5.5 制作了一个开源项目 StrokeMouse 宣传片，附提示词",
-    "url": "https://www.v2ex.com/t/1244972",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-09-27T00:38:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7689299285138128932",
-    "title": "一天一个开源项目（第 227 篇）：Strands Agents Harness SDK —— 从「手写 Agent 循环」到「一行代码拿到生产级 Agent」",
-    "url": "https://juejin.cn/post/7689299285138128932",
-    "source": "juejin",
-    "score": 0.13599162,
-    "published_at": "2026-09-25T10:02:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49864743",
-    "title": "Rusty thoughts on \"Parse, don't validate\"",
-    "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-09-27T08:59:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49866534",
-    "title": "Ten lines of code that changed my world",
-    "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-    "source": "hackernews",
-    "score": 93.0,
-    "published_at": "2026-09-27T13:33:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49864105",
-    "title": "Show HN: Trail – new kind of logic game",
-    "url": "https://trail.franzai.com/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-09-27T07:02:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49824144",
-    "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
-    "url": "https://3d-retro.com/",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-09-23T23:33:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49867553",
-    "title": "PostmarketOS is rebranding as Nura",
-    "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
-    "source": "hackernews",
-    "score": 112.0,
-    "published_at": "2026-09-27T15:31:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49859982",
-    "title": "Faster prompt lookup drafting in llama.cpp",
-    "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-26T19:57:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49859759",
-    "title": "Video CDs Break Windows Explorer",
-    "url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-09-26T19:30:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49866597",
-    "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
-    "url": "https://www.markdown.beauty/",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-09-27T13:44:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49856885",
-    "title": "Fakecloud: Local AWS cloud emulator for integration tests",
-    "url": "https://fakecloud.dev/",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-09-26T14:25:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49853476",
-    "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
-    "url": "https://generalroboticslab.com/cartesian_handv1",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-26T05:27:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49852832",
-    "title": "Walgit: A Git server that is one binary in front of an object store",
-    "url": "https://github.com/rgodha24/walgithub",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-09-26T03:09:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49868083",
-    "title": "There are no \"rogue\" AI agents",
-    "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-    "source": "hackernews",
-    "score": 217.0,
-    "published_at": "2026-09-27T16:19:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49845284",
-    "title": "John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes",
-    "url": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-09-25T14:38:06+00:00",
     "summary": "",
     "key_points": []
   }
