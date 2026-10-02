@@ -1,5 +1,255 @@
 [
   {
+    "id": "lobsters:gx0wiv",
+    "title": "@storyteller-platform/epub v1.0.0 release",
+    "url": "https://storyteller-platform.dev/blog/20261001_epub_v1",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-02T02:09:51.112-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gmjegm",
+    "title": "Waterfox 6.7.5 Adds a Built-in Feed Reader",
+    "url": "https://www.waterfox.com/releases/6.7.5/",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-10-01T21:17:04.275-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246051",
+    "title": "如果 Google 账号被封了，关联的 Claude 是不是废了？",
+    "url": "https://www.v2ex.com/t/1246051",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-10-01T13:06:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246095",
+    "title": "Tibo 耍猴了， 明天全局重置",
+    "url": "https://www.v2ex.com/t/1246095",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-02T02:32:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246094",
+    "title": "看重隐私买什么车好？",
+    "url": "https://www.v2ex.com/t/1246094",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-02T02:29:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246052",
+    "title": "时隔 3 年，终于更新了个人主页",
+    "url": "https://www.v2ex.com/t/1246052",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-10-01T13:14:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246090",
+    "title": "电脑价格什么时候能回到冰点？日常轻度使用，现在入手还是再等等？",
+    "url": "https://www.v2ex.com/t/1246090",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-10-02T02:05:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246103",
+    "title": "现在反驳型人格怎么改呀？",
+    "url": "https://www.v2ex.com/t/1246103",
+    "source": "v2ex",
+    "score": 90.0,
+    "published_at": "2026-10-02T03:23:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690799816373583899",
+    "title": "从零做一个可视化规则引擎：Vue3 递归条件树 + 双引擎结果对比",
+    "url": "https://juejin.cn/post/7690799816373583899",
+    "source": "juejin",
+    "score": 0.11979917,
+    "published_at": "2026-09-29T12:20:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690867753125199907",
+    "title": "Pro 200 额度砍半，OpenAI 给的理由是模型变聪明了",
+    "url": "https://juejin.cn/post/7690867753125199907",
+    "source": "juejin",
+    "score": 0.11747426,
+    "published_at": "2026-09-30T02:22:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690762523469742121",
+    "title": "告别选型困难！集 VueUse、ahooks、Mantine 于一身：286 个 Hook 的 ReaUse 来了",
+    "url": "https://juejin.cn/post/7690762523469742121",
+    "source": "juejin",
+    "score": 0.09114759,
+    "published_at": "2026-09-29T09:44:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690869043603292206",
+    "title": "Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）",
+    "url": "https://juejin.cn/post/7690869043603292206",
+    "source": "juejin",
+    "score": 0.11683348,
+    "published_at": "2026-09-30T01:02:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691223664159326271",
+    "title": "“凤雏”MiniMax3.1和 “太空兔”一锅炖了吧！！",
+    "url": "https://juejin.cn/post/7691223664159326271",
+    "source": "juejin",
+    "score": 0.30889529,
+    "published_at": "2026-10-01T04:19:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691284233897656383",
+    "title": "千问偷偷进村修改 token plan 重置周期这个事大家都知道了吧？",
+    "url": "https://juejin.cn/post/7691284233897656383",
+    "source": "juejin",
+    "score": 0.25143646,
+    "published_at": "2026-09-30T11:10:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690744409042206760",
+    "title": "Android APK安全防护",
+    "url": "https://juejin.cn/post/7690744409042206760",
+    "source": "juejin",
+    "score": 0.08963314,
+    "published_at": "2026-09-29T08:23:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690797132370427919",
+    "title": "Skill 体检：30 个 Skill 全凭感觉？体检器先自曝了 8 个“假 0 分",
+    "url": "https://juejin.cn/post/7690797132370427919",
+    "source": "juejin",
+    "score": 0.1131212,
+    "published_at": "2026-09-29T11:21:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690797132371738639",
+    "title": "个人开发者、OPC 个体狂喜的免费资源网站合集，额度不是免费试用：1300个开发者资源",
+    "url": "https://juejin.cn/post/7690797132371738639",
+    "source": "juejin",
+    "score": 0.12429066,
+    "published_at": "2026-09-30T00:54:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49929925",
+    "title": "Building reliable (and fast) directory sync",
+    "url": "https://www.firezone.dev/blog/building-reliable-directory-sync",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-02T04:45:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49930086",
+    "title": "US tells France and Germany to release diesel stocks or face US export ban",
+    "url": "https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-02T05:22:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49927760",
+    "title": "Frog and Toad and the Increasingly Capable Machines",
+    "url": "https://www.frogandtoad.ai/",
+    "source": "hackernews",
+    "score": 125.0,
+    "published_at": "2026-10-01T22:23:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49919676",
+    "title": "To grieve, or not to grieve?",
+    "url": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-10-01T09:47:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49921798",
+    "title": "Turbo Haskell",
+    "url": "https://comonad.com/reader/2026/turbo-haskell/",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-10-01T13:58:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49929489",
+    "title": "DeepSeek Harness Desktop for macOS and Windows",
+    "url": "https://www.deepseek.com/en/harness/",
+    "source": "hackernews",
+    "score": 184.0,
+    "published_at": "2026-10-02T03:11:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49929113",
+    "title": "How Singapore's government-run dating service works",
+    "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+    "source": "hackernews",
+    "score": 100.0,
+    "published_at": "2026-10-02T01:56:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49930047",
+    "title": "Shimano Bicycle Museum Review",
+    "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-10-02T05:12:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:oeflod",
     "title": "We Should be Able to Change our Languages",
     "url": "https://jimmyhmiller.com/change-our-languages",
@@ -4746,256 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-09-27T19:10:55.368-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nmksyw",
-    "title": "Dropping Swift entirely from our Bevy iOS crates",
-    "url": "https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-27T18:22:45.754-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245115",
-    "title": "银河 ETF 免 5 即将停止，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。",
-    "url": "https://www.v2ex.com/t/1245115",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-09-28T00:37:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245020",
-    "title": "离职半年了， AI 对工作流程的影响有多大？想回去上班",
-    "url": "https://www.v2ex.com/t/1245020",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-09-27T05:18:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245037",
-    "title": "求家庭组网方案建议",
-    "url": "https://www.v2ex.com/t/1245037",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-09-27T07:15:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245104",
-    "title": "看了影视飓风 Tim 的创业视频，聊聊我的看法",
-    "url": "https://www.v2ex.com/t/1245104",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-09-27T18:17:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688929298951864335",
-    "title": "开发自己的第一个MCP--用 AI 智能重构 Excel 处理工作流",
-    "url": "https://juejin.cn/post/7688929298951864335",
-    "source": "juejin",
-    "score": 0.14035562,
-    "published_at": "2026-09-25T08:24:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49859271",
-    "title": "Coltrane's Shadow",
-    "url": "https://www.tabletmag.com/sections/arts-letters/articles/coltranes-shadow-tiberi-tapes",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-26T18:39:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49870541",
-    "title": "My Recent Woodworking Projects",
-    "url": "https://notoriousbfg.com/recent-woodworking-projects/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-27T20:33:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49844266",
-    "title": "A New Experiment Meta-Strategy",
-    "url": "https://chillphysicsenjoyer.substack.com/p/a-new-experiment-meta-strategy",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-09-25T13:20:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49870304",
-    "title": "Have an LLC",
-    "url": "https://zachholman.com/posts/you-should-have-an-llc",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-27T20:04:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49852600",
-    "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
-    "url": "https://github.com/dashersw/coyopedal",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-26T02:24:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49870295",
-    "title": "Self-Hosting on the Dark Web",
-    "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-27T20:03:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49872472",
-    "title": "Self-parking car using genetic algorithm (2021)",
-    "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-28T01:21:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:czoeax",
-    "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip",
-    "url": "https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-27T14:58:31.261-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:e5vf6k",
-    "title": "Don't couple your Go code to GitHub",
-    "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-09-27T15:17:42.121-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245062",
-    "title": "新款 Apple Watch 的设计太离谱了吧",
-    "url": "https://www.v2ex.com/t/1245062",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-09-27T12:19:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7688978039406346259",
-    "title": "官方说一个破折号拖慢整段高亮，我在 Node 里验证了一遍：机制是真的，2.8 倍没跑出来",
-    "url": "https://juejin.cn/post/7688978039406346259",
-    "source": "juejin",
-    "score": 0.11756765,
-    "published_at": "2026-09-25T00:09:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49870394",
-    "title": "Show HN: Cartopolis, interactive globe-sized 3D world",
-    "url": "https://code.garage44.eu/jeroen/cartopolis",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-09-27T20:14:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49850613",
-    "title": "KICKI: a DECsystem1060",
-    "url": "https://icm.museum/blog/?p=207",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-25T22:11:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49851693",
-    "title": "S3 Is the Future, S3 Is the Past",
-    "url": "https://btrblocks.com/blog/s3_is_the_future_and_the_past/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-25T23:58:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49869773",
-    "title": "What I did at Recurse Center",
-    "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-27T19:04:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49869995",
-    "title": "Imp is a full port of DSPy to the BEAM",
-    "url": "https://github.com/deepfates/imp",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-27T19:28:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49868404",
-    "title": "Don't couple your Go code to GitHub",
-    "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-    "source": "hackernews",
-    "score": 90.0,
-    "published_at": "2026-09-27T16:50:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49857281",
-    "title": "There is more to code review than (automatable) detection",
-    "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-26T15:06:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49844629",
-    "title": "The state of SIMD in Rust in 2026",
-    "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-09-25T13:46:34+00:00",
     "summary": "",
     "key_points": []
   }
