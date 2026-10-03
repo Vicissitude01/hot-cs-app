@@ -1,5 +1,135 @@
 [
   {
+    "id": "lobsters:cdkmaf",
+    "title": "Upstream Rust maintenance report",
+    "url": "https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-02T20:27:47.619-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246157",
+    "title": "爷青回！在浏览器里复刻了 CS/CF「运输船」联机版",
+    "url": "https://www.v2ex.com/t/1246157",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-10-02T11:59:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7690982503821246506",
+    "title": "构建稳定的 AI Agent：Harness 工程的核心机制与实践思考",
+    "url": "https://juejin.cn/post/7690982503821246506",
+    "source": "juejin",
+    "score": 0.08535772,
+    "published_at": "2026-09-30T03:36:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691151105850310694",
+    "title": "GitHub 今日推荐｜DiPlay：让 iPhone CarPlay 直连 BYD 车机，无需硬件适配器",
+    "url": "https://juejin.cn/post/7691151105850310694",
+    "source": "juejin",
+    "score": 0.04624115,
+    "published_at": "2026-09-30T12:09:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691155417934594074",
+    "title": "给页面加一个 JSON 编辑器：jsoneditor 的功能、配置和接入注意事项",
+    "url": "https://juejin.cn/post/7691155417934594074",
+    "source": "juejin",
+    "score": 0.07592235,
+    "published_at": "2026-09-30T11:27:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49912091",
+    "title": "Billions of Triangles Redux",
+    "url": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-09-30T17:46:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49940233",
+    "title": "Where Is the Planet",
+    "url": "http://whereistheplanet.com",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-03T00:26:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49921543",
+    "title": "Eight Bytes Are a Number",
+    "url": "https://blog.sebastiansastre.co/posts/eight-bytes-are-already-a-number/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-01T13:39:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49937631",
+    "title": "Updates to Full Disk Access in macOS",
+    "url": "https://developer.apple.com/news/?id=p6zjojqw",
+    "source": "hackernews",
+    "score": 129.0,
+    "published_at": "2026-10-02T19:37:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49940467",
+    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+    "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-03T01:09:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49940505",
+    "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble",
+    "url": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-10-03T01:15:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49940653",
+    "title": "Show HN: Google Maps Scraper MCP",
+    "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-03T01:46:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49940219",
+    "title": "Things That Apparently Cause Cancer",
+    "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-10-03T00:23:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qmcuiv",
     "title": "Klassik Revives the KDE 3 Desktop on Modern Plasma 6",
     "url": "https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/",
@@ -4866,136 +4996,6 @@
     "source": "hackernews",
     "score": 55.0,
     "published_at": "2026-09-28T20:00:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49884625",
-    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-    "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-09-28T21:26:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49886195",
-    "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-    "url": "https://lolchat.rip/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-29T00:06:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ir1emf",
-    "title": "It’s Time to Investigate the AI Labs",
-    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-    "source": "lobsters",
-    "score": 18.0,
-    "published_at": "2026-09-28T08:56:41.713-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:okds3e",
-    "title": "State of the (Tagged) Union Address by Andrew Kelley",
-    "url": "https://www.youtube.com/watch?v=zwi5b5xSsKA",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-28T15:35:51.568-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:q2rymh",
-    "title": "What Would A Serious AI Product Look Like?",
-    "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-    "source": "lobsters",
-    "score": 35.0,
-    "published_at": "2026-09-28T12:01:01.997-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lfqtgh",
-    "title": "Bill Gates tries to install Movie Maker",
-    "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-    "source": "lobsters",
-    "score": 39.0,
-    "published_at": "2026-09-28T11:18:16.783-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245142",
-    "title": "大 A 又是韧性的一天",
-    "url": "https://www.v2ex.com/t/1245142",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-09-28T01:59:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49881951",
-    "title": "So long Google, and thanks for all the nudes",
-    "url": "https://lecaro.me/20260921-google-less.html",
-    "source": "hackernews",
-    "score": 188.0,
-    "published_at": "2026-09-28T18:04:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49882894",
-    "title": "Neal Stephenson responds with wit and humor (2004)",
-    "url": "https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-09-28T19:06:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49882208",
-    "title": "GrapheneOS – When an app is slow",
-    "url": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-09-28T18:21:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49881692",
-    "title": "Who wrote Elizabeth I's most scathing letters?",
-    "url": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-28T17:47:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49880601",
-    "title": "Show HN: Destroy Any Website with Stickman",
-    "url": "https://destroy.spritefusion.com/",
-    "source": "hackernews",
-    "score": 83.0,
-    "published_at": "2026-09-28T16:31:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49881777",
-    "title": "I made a visual workspace for AI Automations",
-    "url": "https://www.biom.dev/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-28T17:53:14+00:00",
     "summary": "",
     "key_points": []
   }
