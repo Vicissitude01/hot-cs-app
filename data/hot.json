@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:kt0yxd",
+    "title": "Why I recommend Renovate over any other dependency update tools (2024)",
+    "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-03T17:54:52.919-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dqp0oc",
+    "title": "Customization: Optimizing Compiler Technology for SELF, a Dynamically-Typed Object-Oriented Programming Language (1989)",
+    "url": "https://dl.acm.org/doi/epdf/10.1145/74818.74831",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-03T15:59:46.524-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:srduzv",
+    "title": "Why don’t more developers \"use the platform\"?",
+    "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-03T16:35:28.658-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49928196",
+    "title": "The Softmax function and its derivative",
+    "url": "https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-01T23:24:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946707",
+    "title": "How to hack time, with C2PA",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-03T18:52:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49941641",
+    "title": "Memory-Safe WebP Decoding",
+    "url": "https://halide.cx/blog/wpd/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-03T05:45:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49945352",
+    "title": "Docker has always used microVMs (well since 2016)",
+    "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-03T15:55:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49945933",
+    "title": "Agents don't need memory, they need documentation",
+    "url": "https://liao.gg/blog/agents-dont-need-memory",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-03T17:03:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49943685",
+    "title": "Watson Jr. memo about CDC 6600 (1963)",
+    "url": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-03T12:27:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49942103",
+    "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+    "url": "https://thoreaubasic.com/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-03T07:28:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49947472",
+    "title": "Surely you have ultra-wideband radios on your bins too?",
+    "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-03T20:27:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49941572",
+    "title": "Haunted by the ghosts of materialism",
+    "url": "https://blog.coredump.cx/p/haunted-by-the-ghosts-of-materialism",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-03T05:30:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49927514",
+    "title": "Gboard Conveyor Belt Version",
+    "url": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-01T21:54:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49948438",
+    "title": "Big Balls Now Exposed to Serious Criminal Charges in at Least Six States",
+    "url": "https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-10-03T22:35:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49948332",
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-10-03T22:18:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946228",
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-10-03T17:44:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946526",
+    "title": "What Meta got right with Muse",
+    "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-03T18:23:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49940877",
+    "title": "New York City should carefully measure a new tree",
+    "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-03T02:28:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946895",
+    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-10-03T19:14:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49947631",
+    "title": "Reasons I didn't become an EMT, ranked",
+    "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-10-03T20:49:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946355",
+    "title": "Treachery in the Rodin Museum 3D scan verdict",
+    "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-03T18:01:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49948254",
+    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "source": "hackernews",
+    "score": 145.0,
+    "published_at": "2026-10-03T22:07:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:opwgtj",
     "title": "BSides Orlando 2026 Badge",
     "url": "https://github.com/bsidesorlando/2026-badge",
@@ -4776,226 +4996,6 @@
     "source": "hackernews",
     "score": 42.0,
     "published_at": "2026-09-29T22:59:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49897993",
-    "title": "Vermont replacing power plants with home batteries",
-    "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-29T18:19:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49896757",
-    "title": "Show HN: A working 3D model of an Enigma machine",
-    "url": "https://enigma.design",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-29T17:15:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49898050",
-    "title": "We’re forgetting what darkness feels like",
-    "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-29T18:22:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49890733",
-    "title": "NASA asked several former SR-71A staffers to help secret restart",
-    "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-29T10:10:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49901736",
-    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-    "url": "https://github.com/ninjahawk/livenerf",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-09-29T22:36:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1xr8zc",
-    "title": "Text-to-meowdio models",
-    "url": "https://www.kmjn.org/notes/text_to_meowdio_models.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-29T11:51:35.804-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yj7sbv",
-    "title": "Unix File and Directory Permissions and Modes (2018)",
-    "url": "https://wpollock.com/AUnix1/FilePermissions.htm",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-29T13:22:20.439-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hnb7tb",
-    "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
-    "url": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-29T14:20:05.967-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:joqdsi",
-    "title": "The Shell & Email",
-    "url": "https://www.machtiani.chat/blogs/the-shell",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-29T15:14:41.130-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ggolae",
-    "title": "How I Built an iPhone App in Four Days with Opus 5.5",
-    "url": "https://projectautonomy.substack.com/p/i-built-an-iphone-app-in-four-days",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-29T13:57:26.748-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:a5rcxy",
-    "title": "Getting root on OnePlus 15 from an untrusted app",
-    "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-29T12:25:55.917-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690010257952178218",
-    "title": "ZCode 可以自己看微信小程序了",
-    "url": "https://juejin.cn/post/7690010257952178218",
-    "source": "juejin",
-    "score": 0.19219446,
-    "published_at": "2026-09-28T01:28:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:paperclipai/paperclip",
-    "title": "paperclip",
-    "url": "https://github.com/paperclipai/paperclip",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49898778",
-    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-    "url": "https://space.bl2.net/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-29T19:08:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49895970",
-    "title": "What if Jev spoke Arrow?",
-    "url": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-09-29T16:25:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49896600",
-    "title": "DevDay 2026 Recap",
-    "url": "https://openai.com/index/devday-2026-recap/",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-09-29T17:07:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49899004",
-    "title": "Galaxy Game – Interim Computer Museum",
-    "url": "https://icm.museum/blog/?p=698",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-29T19:24:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49878857",
-    "title": "A Staff Engineer's Guide to Inventing Work",
-    "url": "https://sujithjay.com/inventing-work",
-    "source": "hackernews",
-    "score": 114.0,
-    "published_at": "2026-09-28T14:46:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49899051",
-    "title": "Memory Companies Have Destroyed the Consumer Market",
-    "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-09-29T19:27:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49898931",
-    "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-    "url": "https://github.com/lostmsu/TurboGPT",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-29T19:20:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49878093",
-    "title": "Walking Men",
-    "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-09-28T14:00:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49893157",
-    "title": "Ask HN: What are you reading?",
-    "url": "https://news.ycombinator.com/item?id=49893157",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-29T13:44:43+00:00",
     "summary": "",
     "key_points": []
   }
