@@ -1,5 +1,165 @@
 [
   {
+    "id": "lobsters:xruas8",
+    "title": "An Update on Orion for Linux and Windows",
+    "url": "https://blog.kagi.com/update-orion-linux-windows",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-03T10:57:16.909-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246258",
+    "title": "你愿意付费在韩国/越南租一台家庭里的电脑使用 ai 吗？",
+    "url": "https://www.v2ex.com/t/1246258",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-03T08:32:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246297",
+    "title": "199 的小米充电宝放在图书馆，插着充电忘记拿走，第二天一大家被一家子（女的还考公）偷走了，我需要较真吗？",
+    "url": "https://www.v2ex.com/t/1246297",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-10-03T13:27:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246278",
+    "title": "微信输入法安装的时候强制要管理员权限",
+    "url": "https://www.v2ex.com/t/1246278",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-10-03T11:33:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246282",
+    "title": "历经千辛万苦终于用上了 opus5.5.",
+    "url": "https://www.v2ex.com/t/1246282",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-10-03T11:43:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691512357834768430",
+    "title": "从乱码到高精度检索：探矿业务中 TXT、Word、PDF 与网页的 RAG 清洗之道",
+    "url": "https://juejin.cn/post/7691512357834768430",
+    "source": "juejin",
+    "score": 0.16248824,
+    "published_at": "2026-10-02T03:13:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691152001448820746",
+    "title": "Go 写业务，Rust 扛底盘：一套可落地的混合架构",
+    "url": "https://juejin.cn/post/7691152001448820746",
+    "source": "juejin",
+    "score": 0.08098568,
+    "published_at": "2026-10-01T04:41:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691717198448148518",
+    "title": "Personal Agent 火了，新酿还是旧酒？",
+    "url": "https://juejin.cn/post/7691717198448148518",
+    "source": "juejin",
+    "score": 0.2074252,
+    "published_at": "2026-10-02T13:40:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691872111024586752",
+    "title": "KMP 又改了编译流程， Separate Compilation 禁止了 `commonMain` 的依赖穿透",
+    "url": "https://juejin.cn/post/7691872111024586752",
+    "source": "juejin",
+    "score": 0.67684535,
+    "published_at": "2026-10-03T03:08:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49932509",
+    "title": "On building a worm detector",
+    "url": "https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-02T12:00:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49934261",
+    "title": "Holes (1996-2025)",
+    "url": "https://plato.stanford.edu/entries/holes/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-02T15:00:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49945904",
+    "title": "RetailReady (YC W24) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-10-03T17:00:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49913106",
+    "title": "Body Awareness in Goffin's Cockatoos",
+    "url": "https://www.nature.com/articles/s41598-026-57500-7",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-09-30T19:17:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49945323",
+    "title": "City building games have a Soul Problem pt.2",
+    "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-10-03T15:52:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49938399",
+    "title": "Woking Electrical Control Room (2016)",
+    "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-10-02T20:44:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49944912",
+    "title": "FTL: A new operating system for clouds",
+    "url": "https://ftl-os.org/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-10-03T15:02:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:e90dzr",
     "title": "Grow and control a swarm",
     "url": "https://nohope.io",
@@ -4836,166 +4996,6 @@
     "source": "lobsters",
     "score": 59.0,
     "published_at": "2026-09-29T04:07:37.137-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245507",
-    "title": "农村私自搭建雨棚，硬化公共路面，怎么投诉？",
-    "url": "https://www.v2ex.com/t/1245507",
-    "source": "v2ex",
-    "score": 160.0,
-    "published_at": "2026-09-29T05:33:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245448",
-    "title": "[HyperAPI 中转站]祝大家国庆节快乐，评论留 ID，就送$15 体验额度",
-    "url": "https://www.v2ex.com/t/1245448",
-    "source": "v2ex",
-    "score": 178.0,
-    "published_at": "2026-09-29T02:35:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245485",
-    "title": "和漂亮女孩订婚了",
-    "url": "https://www.v2ex.com/t/1245485",
-    "source": "v2ex",
-    "score": 232.0,
-    "published_at": "2026-09-29T03:48:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690026779798208547",
-    "title": "分享一个做视频的skill，这条白板视频，每一笔都是代码画的",
-    "url": "https://juejin.cn/post/7690026779798208547",
-    "source": "juejin",
-    "score": 0.27362842,
-    "published_at": "2026-09-28T05:12:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690730050313257001",
-    "title": "别急着买大模型——老板能看懂的落地路线图",
-    "url": "https://juejin.cn/post/7690730050313257001",
-    "source": "juejin",
-    "score": 3.45818436,
-    "published_at": "2026-09-29T08:30:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:rakyll/hey",
-    "title": "hey",
-    "url": "https://github.com/rakyll/hey",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:VectifyAI/PageIndex",
-    "title": "PageIndex",
-    "url": "https://github.com/VectifyAI/PageIndex",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:rohitg00/ai-engineering-from-scratch",
-    "title": "ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:averygan/reclip",
-    "title": "reclip",
-    "url": "https://github.com/averygan/reclip",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:oblien/openship",
-    "title": "openship",
-    "url": "https://github.com/oblien/openship",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:t8y2/dbx",
-    "title": "dbx",
-    "url": "https://github.com/t8y2/dbx",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:NVIDIA/OpenShell",
-    "title": "OpenShell",
-    "url": "https://github.com/NVIDIA/OpenShell",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49858158",
-    "title": "Optimizing x264 settings and per-title ladders",
-    "url": "https://streaminglearningcenter.com/articles/optimizing-x264-settings-and-per-title-ladders.html",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-26T16:36:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49859863",
-    "title": "The Beatles have permeated research papers across academic disciplines",
-    "url": "https://phys.org/news/2026-09-beatles-permeated-papers-academic-disciplines.html",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-26T19:43:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49863594",
-    "title": "Four CHI '26 papers I wish I wrote",
-    "url": "https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-09-27T05:23:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49891550",
-    "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
-    "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
-    "source": "hackernews",
-    "score": 301.0,
-    "published_at": "2026-09-29T11:44:25+00:00",
     "summary": "",
     "key_points": []
   }
