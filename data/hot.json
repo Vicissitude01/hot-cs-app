@@ -1,5 +1,195 @@
 [
   {
+    "id": "lobsters:opwgtj",
+    "title": "BSides Orlando 2026 Badge",
+    "url": "https://github.com/bsidesorlando/2026-badge",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-03T13:57:32.782-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hfq43j",
+    "title": "Rust, In Sickness & In Health",
+    "url": "https://www.youtube.com/watch?v=3kbPyuAtk7g",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-03T15:37:40.362-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hk0ohb",
+    "title": "System-level ad-blocking in Android",
+    "url": "https://kevinboone.me/adblock.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-03T15:43:41.881-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691498553261342760",
+    "title": "pnpm 12 升级实测",
+    "url": "https://juejin.cn/post/7691498553261342760",
+    "source": "juejin",
+    "score": 0.16120603,
+    "published_at": "2026-10-02T12:36:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946321",
+    "title": "Pop!_OS bans AI-generated code from much of its codebase",
+    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-10-03T17:57:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946827",
+    "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
+    "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-03T19:07:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946403",
+    "title": "ADHD, autism or complex trauma? [pdf]",
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+    "source": "hackernews",
+    "score": 172.0,
+    "published_at": "2026-10-03T18:08:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946873",
+    "title": "Our AI Midwife",
+    "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-03T19:12:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49931993",
+    "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+    "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-10-02T10:40:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49923602",
+    "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
+    "url": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-01T16:11:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49927295",
+    "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
+    "url": "https://github.com/graphene-data/graphene",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-01T21:29:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946076",
+    "title": "Vx – One Language, Every Chip",
+    "url": "https://vxlang.org/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-03T17:23:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946845",
+    "title": "RSS Feed Best Practices (2022)",
+    "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-03T19:09:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49937304",
+    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+    "url": "https://pipod.dev/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-02T19:10:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946567",
+    "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+    "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-10-03T18:29:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49923873",
+    "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+    "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-10-01T16:32:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946069",
+    "title": "Kolibri – Tech Report [pdf]",
+    "url": "https://aleph-alpha.com/downloads/tech-report.pdf",
+    "source": "hackernews",
+    "score": 96.0,
+    "published_at": "2026-10-03T17:22:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49947051",
+    "title": "We want you to build the next Git platform on Cloudflare",
+    "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-03T19:33:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49946393",
+    "title": "Hole Punch: Sling your spaceship around gravitational fields",
+    "url": "https://notoriousbfg.com/hole-punch/",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-10-03T18:06:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:xruas8",
     "title": "An Update on Orion for Linux and Windows",
     "url": "https://blog.kagi.com/update-orion-linux-windows",
@@ -4806,196 +4996,6 @@
     "source": "hackernews",
     "score": 32.0,
     "published_at": "2026-09-29T13:44:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49866031",
-    "title": "Stuck in the Suez Canal – the short version (2021)",
-    "url": "https://cathsenker.co.uk/stuck-in-the-suez-canal-the-short-version/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-27T12:17:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49897075",
-    "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-    "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-09-29T17:31:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49883635",
-    "title": "Virus Stole a Human Gene and Won't Let Go of It",
-    "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-09-28T20:07:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49896604",
-    "title": "Dots: Always-on agents",
-    "url": "https://openai.com/index/introducing-dots/",
-    "source": "hackernews",
-    "score": 365.0,
-    "published_at": "2026-09-29T17:07:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49871018",
-    "title": "NAND-16: a computer built from 277,248 NAND gates",
-    "url": "https://somethingbig.ai/computer",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-27T21:26:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49896050",
-    "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-    "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-    "source": "hackernews",
-    "score": 423.0,
-    "published_at": "2026-09-29T16:30:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49895304",
-    "title": "PS5 Relapse Exploit",
-    "url": "https://github.com/ntfargo/Relapse-Exploit",
-    "source": "hackernews",
-    "score": 148.0,
-    "published_at": "2026-09-29T15:44:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49898952",
-    "title": "AI needs $6T in annual revenue to justify data centre boom",
-    "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-    "source": "hackernews",
-    "score": 111.0,
-    "published_at": "2026-09-29T19:21:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49898877",
-    "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
-    "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-09-29T19:15:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49896712",
-    "title": "Tcl/Tk 9.1 Released",
-    "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-    "source": "hackernews",
-    "score": 161.0,
-    "published_at": "2026-09-29T17:13:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49896586",
-    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-    "source": "hackernews",
-    "score": 600.0,
-    "published_at": "2026-09-29T17:06:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49899090",
-    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-    "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-29T19:30:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xdk1cp",
-    "title": "Prototyping a Small Genetic Algorithms Library inHaskell (2019)",
-    "url": "https://anekstein.com/posts/2019-11-15.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-29T06:36:16.960-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wuiaba",
-    "title": "Deterministic Concurrency",
-    "url": "https://www.youtube.com/watch?v=25x0UuSCKuU",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-29T04:42:58.477-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dayzwt",
-    "title": "Pining for Arc Downcasting in Rust",
-    "url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-29T10:35:14.850-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:otexs4",
-    "title": "MotifCentral - All Things Motif/Xt/Xlib",
-    "url": "https://motif-central.org/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-09-29T04:01:47.493-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:s0x5nd",
-    "title": "Aho-Corasick Algorithm",
-    "url": "https://compiler.club/aho-corasick/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-09-29T09:49:08.046-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qhszda",
-    "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
-    "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-29T04:40:33.245-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tyivfg",
-    "title": "CoW — a stacking window manager for Wayland",
-    "url": "https://cow-wm.codeberg.page/cow/",
-    "source": "lobsters",
-    "score": 59.0,
-    "published_at": "2026-09-29T04:07:37.137-05:00",
     "summary": "",
     "key_points": []
   }
