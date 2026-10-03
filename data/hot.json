@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:c105dq",
+    "title": "Respecting your users' dread of the clankers",
+    "url": "https://thoughtbot.com/blog/respecting-your-users-dread-of-the-clankers",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-02T16:03:08.641-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gjlxiz",
+    "title": "Problems and solutions to the modern desktop (Make tmux the OS)",
+    "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-03T03:17:27.437-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1rmsib",
+    "title": "The Era of Programming Languages Exploration is upon Us",
+    "url": "https://kirancodes.me/posts/log-end-of-pl.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-02T23:56:09.793-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:asoxjl",
+    "title": "gVisor is being donated to CNCF",
+    "url": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-02T21:41:38.394-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246170",
+    "title": "个人项目做到哪种程度你才愿意发出来给别人用呢？",
+    "url": "https://www.v2ex.com/t/1246170",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-10-02T13:27:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246252",
+    "title": "没明白为什么突然就应激了",
+    "url": "https://www.v2ex.com/t/1246252",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-10-03T07:33:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246145",
+    "title": "最近一段时间使用 ai 的惊人发现",
+    "url": "https://www.v2ex.com/t/1246145",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-10-02T09:59:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246158",
+    "title": "做了个真匿名的树洞",
+    "url": "https://www.v2ex.com/t/1246158",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-02T12:13:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246207",
+    "title": "这两年 AI 进步太快了 一年一个新模样",
+    "url": "https://www.v2ex.com/t/1246207",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-10-03T01:01:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246202",
+    "title": "GPT 6.1 秀",
+    "url": "https://www.v2ex.com/t/1246202",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-10-03T00:17:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246209",
+    "title": "大佬们，如果让你们推荐一本此生必读的书，你们会推荐哪一本？",
+    "url": "https://www.v2ex.com/t/1246209",
+    "source": "v2ex",
+    "score": 98.0,
+    "published_at": "2026-10-03T01:27:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691284233897951295",
+    "title": "ai agent --- postgreSQL 关系型数据库",
+    "url": "https://juejin.cn/post/7691284233897951295",
+    "source": "juejin",
+    "score": 0.07436959,
+    "published_at": "2026-09-30T14:39:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691450666427547702",
+    "title": " iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突",
+    "url": "https://juejin.cn/post/7691450666427547702",
+    "source": "juejin",
+    "score": 0.19972394,
+    "published_at": "2026-10-02T05:54:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691149921397145650",
+    "title": "ECharts：把数据变成故事的可视化利器",
+    "url": "https://juejin.cn/post/7691149921397145650",
+    "source": "juejin",
+    "score": 0.06655354,
+    "published_at": "2026-09-30T13:47:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691154454523559970",
+    "title": "2026年9月面18个后端",
+    "url": "https://juejin.cn/post/7691154454523559970",
+    "source": "juejin",
+    "score": 0.06662633,
+    "published_at": "2026-09-30T10:25:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691227873459028006",
+    "title": "Node.js 50个优势场景盘点：一个人单干，为啥我多数时候只用它",
+    "url": "https://juejin.cn/post/7691227873459028006",
+    "source": "juejin",
+    "score": 0.11972257,
+    "published_at": "2026-10-01T10:22:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691835382220111872",
+    "title": "MCP 技术分享：从协议握手到 LangGraph 多 Server 调用",
+    "url": "https://juejin.cn/post/7691835382220111872",
+    "source": "juejin",
+    "score": 0.18717247,
+    "published_at": "2026-10-02T00:45:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691151105850654758",
+    "title": "OpenAI 给 AI 发了台电脑，可惜你还没学会派活",
+    "url": "https://juejin.cn/post/7691151105850654758",
+    "source": "juejin",
+    "score": 0.07223897,
+    "published_at": "2026-09-30T13:53:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691166815721275433",
+    "title": "Opus5.5大考！做一个赛车游戏\"秋名山车神\"",
+    "url": "https://juejin.cn/post/7691166815721275433",
+    "source": "juejin",
+    "score": 0.13441601,
+    "published_at": "2026-10-01T12:08:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691345821564174363",
+    "title": "Vue3 UIKit 实战：把聊天、会话、主题和移动端适配全部封装好",
+    "url": "https://juejin.cn/post/7691345821564174363",
+    "source": "juejin",
+    "score": 0.29300913,
+    "published_at": "2026-10-02T06:30:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691450666426286134",
+    "title": "ai agent --- redis 缓存",
+    "url": "https://juejin.cn/post/7691450666426286134",
+    "source": "juejin",
+    "score": 0.15261897,
+    "published_at": "2026-10-01T14:23:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49916007",
+    "title": "Nobody Is Listening on Port 8125",
+    "url": "https://yeet.cx/blog/nobody-is-listening-on-8125",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-09-30T23:56:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49924121",
+    "title": "More like SC-Forth-thousand, am I right?",
+    "url": "https://www.leadedsolder.com/2026/10/01/rc2026-10-sg1000-forth-port.html",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-01T16:52:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49921825",
+    "title": "OKI Develops 124-Layer PCB Technology",
+    "url": "https://www.oki.com/global/press/2025/z25006e.html",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-01T14:00:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49937146",
+    "title": "The Nintendo 64 Partner-N64 Development Kit",
+    "url": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-02T18:53:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49941447",
+    "title": "An Update on Orion for Linux and Windows",
+    "url": "https://blog.kagi.com/update-orion-linux-windows",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-10-03T04:53:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49941091",
+    "title": "Cloudflare OHTTP gateway",
+    "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-10-03T03:15:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49940394",
+    "title": "Newgrounds.com – A community of games, music, and art",
+    "url": "https://www.newgrounds.com/",
+    "source": "hackernews",
+    "score": 191.0,
+    "published_at": "2026-10-03T00:55:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49942002",
+    "title": "Understanding Frontier Artificial Intelligence",
+    "url": "https://casp.ac/reports/intelligence-explosion",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-03T07:06:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49941114",
+    "title": "Extra Big Ass Intelligence",
+    "url": "https://www.extrabigassintelligence.com/",
+    "source": "hackernews",
+    "score": 250.0,
+    "published_at": "2026-10-03T03:19:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:cdkmaf",
     "title": "Upstream Rust maintenance report",
     "url": "https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html",
@@ -4696,306 +4996,6 @@
     "source": "hackernews",
     "score": 31.0,
     "published_at": "2026-09-27T02:01:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49866783",
-    "title": "Software occlusion culling in Block Game",
-    "url": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-09-27T14:07:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49885493",
-    "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
-    "url": "https://jonclegg.github.io/pacman-bakeoff/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-28T22:43:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49889934",
-    "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
-    "url": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-29T08:26:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49888937",
-    "title": "Uncensored and Offensive Security AI Models Benchmark",
-    "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-29T06:16:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49870376",
-    "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
-    "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-27T20:13:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49876052",
-    "title": "The systems that no one will test",
-    "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-09-28T10:51:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49880411",
-    "title": "Phyllotaxis: An audio-reactive LED display",
-    "url": "https://jagi.studio/posts/phyllotaxis/",
-    "source": "hackernews",
-    "score": 134.0,
-    "published_at": "2026-09-28T16:18:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49890051",
-    "title": "Using any C++ library in Godot",
-    "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-09-29T08:40:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kmlhg1",
-    "title": "Intuitive equals familiar",
-    "url": "https://dl.acm.org/doi/10.1145/182987.584629",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-28T11:12:11.911-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:t8bsws",
-    "title": "Thoughts on Flash (2010)",
-    "url": "https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-28T16:43:15.550-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245329",
-    "title": "被人当冤大头的一次恶心经历",
-    "url": "https://www.v2ex.com/t/1245329",
-    "source": "v2ex",
-    "score": 80.0,
-    "published_at": "2026-09-28T11:12:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245350",
-    "title": "大家多久没用百度了？",
-    "url": "https://www.v2ex.com/t/1245350",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-09-28T13:31:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245218",
-    "title": "国庆前又喜提裁员",
-    "url": "https://www.v2ex.com/t/1245218",
-    "source": "v2ex",
-    "score": 88.0,
-    "published_at": "2026-09-28T05:38:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245196",
-    "title": "国庆打算杭州自驾去日照/青岛旅游，求攻略",
-    "url": "https://www.v2ex.com/t/1245196",
-    "source": "v2ex",
-    "score": 90.0,
-    "published_at": "2026-09-28T03:51:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245208",
-    "title": "有人注册过美国 llc 公司开通 claude teams 账号吗？",
-    "url": "https://www.v2ex.com/t/1245208",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-09-28T05:02:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245226",
-    "title": "国企也换着法子逼人走了",
-    "url": "https://www.v2ex.com/t/1245226",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-09-28T05:59:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245227",
-    "title": "26 年配眼镜分享",
-    "url": "https://www.v2ex.com/t/1245227",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-09-28T06:01:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245409",
-    "title": "兄弟们，我分手了，好难受",
-    "url": "https://www.v2ex.com/t/1245409",
-    "source": "v2ex",
-    "score": 170.0,
-    "published_at": "2026-09-29T01:25:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690159620451811337",
-    "title": "王者荣耀日志组件BqLog为什么这么快之2——从环形队列到自适应数据总线",
-    "url": "https://juejin.cn/post/7690159620451811337",
-    "source": "juejin",
-    "score": 0.29676402,
-    "published_at": "2026-09-28T08:29:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690197651808616502",
-    "title": "DeepSeek Harness 出了桌面端？我把它扒了一遍",
-    "url": "https://juejin.cn/post/7690197651808616502",
-    "source": "juejin",
-    "score": 0.65025991,
-    "published_at": "2026-09-28T08:12:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49872612",
-    "title": "Behold the pawpaw",
-    "url": "https://www.cbc.ca/radio/thecurrent/pawpaw-tropical-fruit-canada-9.7356882",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-09-28T01:46:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49886482",
-    "title": "Tank Body Problem",
-    "url": "http://www.jimsitu.com",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-29T00:41:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49879645",
-    "title": "Updated Google Maps shows destruction of the city of Rafah",
-    "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-    "source": "hackernews",
-    "score": 221.0,
-    "published_at": "2026-09-28T15:32:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49879401",
-    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-    "url": "https://hn.watch/",
-    "source": "hackernews",
-    "score": 130.0,
-    "published_at": "2026-09-28T15:16:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49886609",
-    "title": "We found 24 Android vulnerabilities using our open source AI security agent",
-    "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-29T00:55:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49858193",
-    "title": "How to win a beer with high-dimensional statistics",
-    "url": "https://jamiesimon.io/blog/how-to-win-a-beer-with-high-dimensional-statistics/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-26T16:40:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49877678",
-    "title": "Does Reddit have an astroturfing problem? What the data suggests",
-    "url": "https://www.petervijeh.com/projects/reddit-astroturf",
-    "source": "hackernews",
-    "score": 121.0,
-    "published_at": "2026-09-28T13:30:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49858643",
-    "title": "What is the best shape of a city? Modelling effect of urban form on distance",
-    "url": "https://journals.sagepub.com/doi/10.1177/23998083261458842",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-09-26T17:23:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49857231",
-    "title": "The Art Forger Who Became a National Hero",
-    "url": "https://priceonomics.com/the-art-forger-who-became-a-national-hero/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-26T15:00:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49883539",
-    "title": "California farmers are struggling to sell grapes as demand for wine drops",
-    "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-09-28T20:00:06+00:00",
     "summary": "",
     "key_points": []
   }
