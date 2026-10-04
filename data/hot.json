@@ -1,5 +1,195 @@
 [
   {
+    "id": "lobsters:rsx2a6",
+    "title": "Our RISC-V emulator PasRISCV",
+    "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-04T03:40:38.612-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uuxij7",
+    "title": "Models ranked by normative score across twelve paradigms, once neutral and once human-primed",
+    "url": "https://cognit.rajtilak.tech",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-04T04:21:18.571-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xpyahx",
+    "title": "grubby: static site generator for git repos written in Ruby",
+    "url": "https://git.btxx.org/grubby",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-04T05:28:57.685-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xkwswd",
+    "title": "We’re going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-04T02:58:14.077-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qcgjpu",
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-04T02:57:55.868-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246360",
+    "title": "下周 25 周岁，公司没了，想尝试跨考 28 考研的科软，求意见",
+    "url": "https://www.v2ex.com/t/1246360",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-10-04T04:49:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246315",
+    "title": "还有人说这波 Personal AI Agent 是伪需求？",
+    "url": "https://www.v2ex.com/t/1246315",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-10-03T16:05:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246331",
+    "title": "macOS 上 ChatGPT 客户端长期无法使用",
+    "url": "https://www.v2ex.com/t/1246331",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-10-04T00:04:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246350",
+    "title": "claude 的 100 刀在苹果商店要加 24 刀税,如何避免?",
+    "url": "https://www.v2ex.com/t/1246350",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-10-04T03:10:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691223664160112703",
+    "title": "半年翻倍！OpenAI再融300亿，估值冲到1.4万亿",
+    "url": "https://juejin.cn/post/7691223664160112703",
+    "source": "juejin",
+    "score": 0.05522673,
+    "published_at": "2026-10-01T11:14:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691533849411829779",
+    "title": "对于LangGraph的时间旅行底层机制的理解",
+    "url": "https://juejin.cn/post/7691533849411829779",
+    "source": "juejin",
+    "score": 0.15624223,
+    "published_at": "2026-10-03T05:28:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691399863522918438",
+    "title": "GitHub 周榜趋势速报 | 2026-10-02",
+    "url": "https://juejin.cn/post/7691399863522918438",
+    "source": "juejin",
+    "score": 0.04953049,
+    "published_at": "2026-10-02T09:44:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691774360802246671",
+    "title": "LangSmith：从链路追踪到 RAG 自动化评估",
+    "url": "https://juejin.cn/post/7691774360802246671",
+    "source": "juejin",
+    "score": 0.16400965,
+    "published_at": "2026-10-03T15:06:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49951218",
+    "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+    "url": "https://github.com/PowderworksCode/headstart",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-04T06:26:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49936017",
+    "title": "Dirty Optimization Secrets (C for Playdate)",
+    "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-02T17:16:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49934351",
+    "title": "Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence",
+    "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-02T15:09:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49951881",
+    "title": "In Ukraine, distributed renewables foil Russia's assaults",
+    "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+    "source": "hackernews",
+    "score": 89.0,
+    "published_at": "2026-10-04T08:39:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49935097",
+    "title": "gpuvis: GPU Trace Visualizer",
+    "url": "https://github.com/mikesart/gpuvis",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-02T16:04:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49952029",
+    "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+    "url": "https://gamehistory.org/5k-magazines/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-04T09:07:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:dldhpw",
     "title": "Rust's derive often implies inline",
     "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
@@ -4806,196 +4996,6 @@
     "source": "hackernews",
     "score": 328.0,
     "published_at": "2026-09-30T07:12:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49887343",
-    "title": "Solving Factorio Quality",
-    "url": "https://exyr.org/2026/solving-factorio-quality/",
-    "source": "hackernews",
-    "score": 123.0,
-    "published_at": "2026-09-29T02:27:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49890707",
-    "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
-    "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-09-29T10:05:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49906637",
-    "title": "Pi.dev: You Said No MCP",
-    "url": "https://earendil.com/posts/you-said-no-mcp/",
-    "source": "hackernews",
-    "score": 165.0,
-    "published_at": "2026-09-30T09:55:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:e2gxro",
-    "title": "Fake Express Packages on npm Spread a Linux Worm",
-    "url": "https://safedep.io/dirtyblanket-express-impersonation-npm",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-29T23:05:15.115-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zyzrlh",
-    "title": "Dirty Optimization Secrets (C for Playdate)",
-    "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-30T00:05:56.191-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wkhrba",
-    "title": "The Only Intuitive Interface Is The Nipple",
-    "url": "https://www.greenend.org.uk/rjk/misc/nipple.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-29T22:45:19.552-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:odrfgk",
-    "title": "How to speed up the Rust compiler in September 2026",
-    "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-29T21:08:22.758-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dcrwg8",
-    "title": "Hardly Promethean",
-    "url": "https://jardo.dev/hardly-promethean",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-09-29T21:10:26.657-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245626",
-    "title": "这里技术向居多，有没有发现很多客户根本不懂技术，却能大把赚钱？",
-    "url": "https://www.v2ex.com/t/1245626",
-    "source": "v2ex",
-    "score": 76.0,
-    "published_at": "2026-09-29T12:34:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245581",
-    "title": "20w-30w 的智驾车求推荐和评价",
-    "url": "https://www.v2ex.com/t/1245581",
-    "source": "v2ex",
-    "score": 78.0,
-    "published_at": "2026-09-29T08:39:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245748",
-    "title": "亲戚借钱问题",
-    "url": "https://www.v2ex.com/t/1245748",
-    "source": "v2ex",
-    "score": 78.0,
-    "published_at": "2026-09-30T02:56:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245697",
-    "title": "纠结很久的油车换电车，大家来看看这样算合理不",
-    "url": "https://www.v2ex.com/t/1245697",
-    "source": "v2ex",
-    "score": 78.0,
-    "published_at": "2026-09-30T01:10:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245533",
-    "title": "成为数字游民后旅居几个月的碎碎念",
-    "url": "https://www.v2ex.com/t/1245533",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-09-29T06:42:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245546",
-    "title": "真心发问，如果你们的女朋友有意无意提起跟前任的性经历，你们会怎么想？",
-    "url": "https://www.v2ex.com/t/1245546",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-09-29T07:06:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245690",
-    "title": "[公共场合] 求问在高铁上开外放的傻笔一般是啥心态？",
-    "url": "https://www.v2ex.com/t/1245690",
-    "source": "v2ex",
-    "score": 132.0,
-    "published_at": "2026-09-30T00:44:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245715",
-    "title": "iPhone 18 pro max 和 华为 Meta 90 pro max 如何选择",
-    "url": "https://www.v2ex.com/t/1245715",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-09-30T01:44:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245698",
-    "title": "看到房贷贴息的消息真难受，老一代享受了房价上涨的时代红利，新一代得到了房价降低的实惠，我这高位接盘的一代，变成了时代的炮灰",
-    "url": "https://www.v2ex.com/t/1245698",
-    "source": "v2ex",
-    "score": 270.0,
-    "published_at": "2026-09-30T01:11:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690769804492341298",
-    "title": "漫话大模型：7 家中国公司被点名「蒸馏」，他们到底偷走了什么？",
-    "url": "https://juejin.cn/post/7690769804492341298",
-    "source": "juejin",
-    "score": 0.92535627,
-    "published_at": "2026-09-29T09:51:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49903383",
-    "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
-    "url": "https://mightygodking.com/2008/04/21/fun-from-yesterday/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-09-30T01:47:14+00:00",
     "summary": "",
     "key_points": []
   }
