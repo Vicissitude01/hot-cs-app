@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:hucih9",
+    "title": "A Mere Mortal's Introduction to JIT Vulnerabilities in JavaScript Engines",
+    "url": "https://trustfoundry.net/blog/jit-vulnerabilities-javascript-engines",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-04T06:53:51.930-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lnmgaw",
+    "title": "Flatpak from the CLI sucks",
+    "url": "https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-04T10:21:34.965-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wbpt5y",
+    "title": "Improving and Stabilizing the racoon2 IKE Daemon in NetBSD",
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-04T07:46:13.419-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:g0q8ub",
+    "title": "Obelisk 0.42: Durable Agents, Layered Sandboxes",
+    "url": "https://obeli.sk/blog/announcing-obelisk-0-42/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-04T09:30:55.967-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4bzoft",
+    "title": "The complement of true is true, except when it's false",
+    "url": "https://dryperspective.github.io/posts/complement-of-true/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-04T07:30:26.844-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246345",
+    "title": "大模型对 Vuejs 支持不如 react：",
+    "url": "https://www.v2ex.com/t/1246345",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-10-04T02:23:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246403",
+    "title": "想入个 macmini 做 iOS 开发 16g 够用吗",
+    "url": "https://www.v2ex.com/t/1246403",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-10-04T10:45:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246421",
+    "title": "感觉程序员行业有点死了",
+    "url": "https://www.v2ex.com/t/1246421",
+    "source": "v2ex",
+    "score": 70.0,
+    "published_at": "2026-10-04T13:23:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246355",
+    "title": "实测， 6.1sol 不降智真的太能打了，我感觉不比 6astra 差，但是价格只有 5 分之一，一天下来十来块钱随便蹬，真的不要太爽了。",
+    "url": "https://www.v2ex.com/t/1246355",
+    "source": "v2ex",
+    "score": 76.0,
+    "published_at": "2026-10-04T03:44:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691876916195016719",
+    "title": "Space-Bunny 匿名模型观察：0.03 倍积分、1M 上下文，以及模型选型的算术题",
+    "url": "https://juejin.cn/post/7691876916195016719",
+    "source": "juejin",
+    "score": 0.15122483,
+    "published_at": "2026-10-03T05:57:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691898006993010698",
+    "title": "Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透",
+    "url": "https://juejin.cn/post/7691898006993010698",
+    "source": "juejin",
+    "score": 0.06666335,
+    "published_at": "2026-10-03T04:40:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7692485970524373026",
+    "title": " Meta 分享怎么用 AI 迁移 Compose 项目不烧心",
+    "url": "https://juejin.cn/post/7692485970524373026",
+    "source": "juejin",
+    "score": 0.64400455,
+    "published_at": "2026-10-04T00:42:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:antirez/ds4",
+    "title": "ds4",
+    "url": "https://github.com/antirez/ds4",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:garrytan/gstack",
+    "title": "gstack",
+    "url": "https://github.com/garrytan/gstack",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:caddyserver/caddy",
+    "title": "caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:calesthio/OpenMontage",
+    "title": "OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:earthtojake/text-to-cad",
+    "title": "text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:tester-army/e2e",
+    "title": "e2e",
+    "url": "https://github.com/tester-army/e2e",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49951641",
+    "title": "What's the Future for Pure Math Research in the Age of AI?",
+    "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-04T07:53:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49953116",
+    "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+    "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-10-04T11:58:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49954745",
+    "title": "RuneScape's Position on Gen AI",
+    "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-04T15:29:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49935038",
+    "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+    "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-02T16:01:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49939637",
+    "title": "The Heilbronn Problem",
+    "url": "https://math.tejstead.com/heilbronn/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-02T23:01:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49952111",
+    "title": "Show HN: AI search for every photo and every frame of video on macOS",
+    "url": "https://github.com/allenv0/SCM",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-10-04T09:24:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49930439",
+    "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+    "url": "https://niklasroy.com/gtc/",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-10-02T06:33:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49954882",
+    "title": "Car is a smartphone on wheels. Here's who's listening",
+    "url": "https://automatictransmission.khoury.northeastern.edu/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-04T15:43:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49953495",
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "source": "hackernews",
+    "score": 225.0,
+    "published_at": "2026-10-04T12:51:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:rsx2a6",
     "title": "Our RISC-V emulator PasRISCV",
     "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
@@ -4726,276 +4996,6 @@
     "source": "lobsters",
     "score": 1.0,
     "published_at": "2026-09-30T07:18:22.528-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:igpxhf",
-    "title": "snowdesktop: Immutable Debian desktop for developers",
-    "url": "https://github.com/frostyard/snowdesktop",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-30T06:51:27.173-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nicozi",
-    "title": "The Cuckoo's Egg (book) - Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-09-30T03:48:43.805-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vmmq7g",
-    "title": "OpenBSD's ports tree keeps GPL coreutils and rejects uutils (Rust rewrite)",
-    "url": "https://www.mail-archive.com/ports%40openbsd.org/msg143892.html",
-    "source": "lobsters",
-    "score": 21.0,
-    "published_at": "2026-09-30T02:47:04.435-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245736",
-    "title": "程序员想创业求指教",
-    "url": "https://www.v2ex.com/t/1245736",
-    "source": "v2ex",
-    "score": 114.0,
-    "published_at": "2026-09-30T02:27:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245678",
-    "title": "不患寡而患不均- 房贷贴息政策 2026",
-    "url": "https://www.v2ex.com/t/1245678",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-09-29T21:03:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245763",
-    "title": "让 AI 做网页，总是有一股 AI 味道。看到那种圆角、漆黑网站就本能的反感。",
-    "url": "https://www.v2ex.com/t/1245763",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-09-30T03:16:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245730",
-    "title": "节前最后一天班了，大家 10 月 1 都去干啥呢？",
-    "url": "https://www.v2ex.com/t/1245730",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-09-30T02:15:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690776567971872768",
-    "title": "从程序员到一人公司创业者：这一年半我经历了什么",
-    "url": "https://juejin.cn/post/7690776567971872768",
-    "source": "juejin",
-    "score": 0.46592324,
-    "published_at": "2026-09-29T10:27:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690490511467544602",
-    "title": "再见了 WebUI，DeepSeek 桌面版真不错。",
-    "url": "https://juejin.cn/post/7690490511467544602",
-    "source": "juejin",
-    "score": 0.37281689,
-    "published_at": "2026-09-29T01:37:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690869176362270729",
-    "title": "我重写了整个项目，但没人感谢我！",
-    "url": "https://juejin.cn/post/7690869176362270729",
-    "source": "juejin",
-    "score": 2.72552877,
-    "published_at": "2026-09-30T03:37:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:colbymchenry/codegraph",
-    "title": "codegraph",
-    "url": "https://github.com/colbymchenry/codegraph",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:modelcontextprotocol/servers",
-    "title": "servers",
-    "url": "https://github.com/modelcontextprotocol/servers",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:firebase/firebase-ios-sdk",
-    "title": "firebase-ios-sdk",
-    "url": "https://github.com/firebase/firebase-ios-sdk",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:heygen-com/hyperframes",
-    "title": "hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mattpocock/skills",
-    "title": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ComposioHQ/awesome-claude-skills",
-    "title": "awesome-claude-skills",
-    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:openclaw/openclaw",
-    "title": "openclaw",
-    "url": "https://github.com/openclaw/openclaw",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:harry0703/MoneyPrinterTurbo",
-    "title": "MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:DietrichGebert/ponytail",
-    "title": "ponytail",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mksglu/context-mode",
-    "title": "context-mode",
-    "url": "https://github.com/mksglu/context-mode",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49879758",
-    "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-    "url": "https://github.com/ciromattia/kcc",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-09-28T15:39:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49902019",
-    "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-    "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-29T23:03:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49889140",
-    "title": "Mathematical Origami",
-    "url": "https://mathigon.org/origami",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-09-29T06:45:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49902093",
-    "title": "Floppy Emu Hardware Failure Analysis Results",
-    "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-29T23:10:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49886535",
-    "title": "Built Dental Scope",
-    "url": "https://dental-scope.com/",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-09-29T00:47:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49907057",
-    "title": "Most data centers refusing to say how much water, electricity they use",
-    "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-30T10:49:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49905487",
-    "title": "September 2026: The world today, as seen by one Polish guy",
-    "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-    "source": "hackernews",
-    "score": 328.0,
-    "published_at": "2026-09-30T07:12:31+00:00",
     "summary": "",
     "key_points": []
   }
