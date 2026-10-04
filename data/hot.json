@@ -1,5 +1,215 @@
 [
   {
+    "id": "lobsters:dldhpw",
+    "title": "Rust's derive often implies inline",
+    "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-10-03T20:41:57.843-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246346",
+    "title": "IINA 1.5.0 发布了",
+    "url": "https://www.v2ex.com/t/1246346",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-04T02:48:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246332",
+    "title": "公司让开发个某书刷阅读系统",
+    "url": "https://www.v2ex.com/t/1246332",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-10-04T00:07:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246308",
+    "title": "国庆参加表哥的婚礼，让我有点不同的人生感悟",
+    "url": "https://www.v2ex.com/t/1246308",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-10-03T14:53:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246264",
+    "title": "闲来无事，梳理了下自己最近的 ai 订阅",
+    "url": "https://www.v2ex.com/t/1246264",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-10-03T09:07:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691498553260851240",
+    "title": "DuckDB：一个正在改变数据分析方式的数据库",
+    "url": "https://juejin.cn/post/7691498553260851240",
+    "source": "juejin",
+    "score": 0.09659786,
+    "published_at": "2026-10-02T05:45:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691823753387376649",
+    "title": "云端部署阿里 Qwen-Image-2.1 保姆级教程",
+    "url": "https://juejin.cn/post/7691823753387376649",
+    "source": "juejin",
+    "score": 0.09344711,
+    "published_at": "2026-10-03T02:20:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691155417935855642",
+    "title": "仓颉版 Tauri：基于轻量化线程与纯血鸿蒙架构的下一代 Web 混合开发利器",
+    "url": "https://juejin.cn/post/7691155417935855642",
+    "source": "juejin",
+    "score": 0.05844949,
+    "published_at": "2026-10-01T04:07:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691835382221389824",
+    "title": "前端转全栈笔记：讲框架之前，先把 TypeScript 这关过了",
+    "url": "https://juejin.cn/post/7691835382221389824",
+    "source": "juejin",
+    "score": 0.23771121,
+    "published_at": "2026-10-02T12:59:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49950052",
+    "title": "Religious scholars met with Anthropic",
+    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-10-04T02:34:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49949588",
+    "title": "We're working on a new RuneScape MMO",
+    "url": "https://play.runescape.com/4",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-04T01:12:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49944227",
+    "title": "I quit OpenAI because its culture is broken",
+    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+    "source": "hackernews",
+    "score": 129.0,
+    "published_at": "2026-10-03T13:46:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49942130",
+    "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
+    "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-03T07:32:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49941764",
+    "title": "The characters of plastics (2024)",
+    "url": "https://yarchive.net/blog/plastics/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-03T06:14:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49908570",
+    "title": "Your body of work thinks back at you",
+    "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-09-30T13:20:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49940482",
+    "title": "Math's pedagogical curse – Grant Sanderson [video]",
+    "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-03T01:11:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49938326",
+    "title": "Three AI agents, two countries, and one uneven world wide web",
+    "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-02T20:39:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49949235",
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "source": "hackernews",
+    "score": 319.0,
+    "published_at": "2026-10-04T00:20:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49910462",
+    "title": "So you think you could be an electrician?",
+    "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-09-30T15:43:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49950554",
+    "title": "Why don't more developers \"use the platform\"?",
+    "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-04T04:10:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49949438",
+    "title": "Tell HN: Bob Cringely has died",
+    "url": "https://news.ycombinator.com/item?id=49949438",
+    "source": "hackernews",
+    "score": 290.0,
+    "published_at": "2026-10-04T00:50:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:kt0yxd",
     "title": "Why I recommend Renovate over any other dependency update tools (2024)",
     "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
@@ -4786,216 +4996,6 @@
     "source": "hackernews",
     "score": 29.0,
     "published_at": "2026-09-30T01:47:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49903712",
-    "title": "Ballmer Peak",
-    "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-09-30T02:35:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49904314",
-    "title": "LinkedIn Larpmaxxing",
-    "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-09-30T04:19:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49903862",
-    "title": "RSS Feeds for Last.fm",
-    "url": "https://lfm.xiffy.nl/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-09-30T03:00:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49883913",
-    "title": "Testing WebGPU data layouts with Facet",
-    "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-28T20:28:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49903713",
-    "title": "Responsible Release of AI-Generated Mathematics",
-    "url": "https://agmai.org/general-sep29/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-30T02:36:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49904408",
-    "title": "Tesla takes on $30B in credit as it approaches unprofitability",
-    "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-09-30T04:37:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49903993",
-    "title": "PSSA: A non-transformer language model written from scratch in Rust",
-    "url": "https://github.com/Sparticle62ops/pssa",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-09-30T03:19:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fmnvbk",
-    "title": "How to work in a software engineering team (2022)",
-    "url": "https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-09-29T17:34:26.349-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:werm2e",
-    "title": "ESPARGOS - ESP-SDR: Raw IQ Capture with Espressif's ESP32 Chips",
-    "url": "https://espargos.net/espsdr/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-09-29T17:13:56.802-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hxmtyv",
-    "title": "Deser: Rethinking Rust Serialization",
-    "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-09-29T17:02:31.395-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zknqct",
-    "title": "Two Kinds of SQL Query Builders",
-    "url": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-09-29T15:47:03.820-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49901149",
-    "title": "Deser: Rethinking Rust Serialization",
-    "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-29T21:48:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49894351",
-    "title": "Show HN: NSL – WSL for Linux",
-    "url": "https://frostyard.github.io/nsl/",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-09-29T14:51:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49886422",
-    "title": "Show HN: Corral – Kill every command your agent starts",
-    "url": "https://github.com/Cardinal44/corral",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-09-29T00:35:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49859482",
-    "title": "Commodore 64: Mercenary",
-    "url": "https://gamesexplained.com/c64/mercenary/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-09-26T19:00:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49891203",
-    "title": "Language models for text classification: From bag-of-words to Jev",
-    "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-29T11:06:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49893002",
-    "title": "Backblaze drive stats for Q2 2026",
-    "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-09-29T13:34:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49888182",
-    "title": "When oil prices spike, where does the money go?",
-    "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-09-29T04:14:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49895864",
-    "title": "Needed 1+1, built a functional programming language",
-    "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-29T16:18:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49901437",
-    "title": "UnoDOS",
-    "url": "https://github.com/hmofet/unodos",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-09-29T22:10:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49901973",
-    "title": "How our vibe coded website looks like a designer made it",
-    "url": "https://railcode.dev/blog/vibe-coded-website",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-09-29T22:59:28+00:00",
     "summary": "",
     "key_points": []
   }
