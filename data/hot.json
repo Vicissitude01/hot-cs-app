@@ -1,5 +1,115 @@
 [
   {
+    "id": "v2ex:1246361",
+    "title": "港版 18pro 能在大陆添加香港 esim 吗？",
+    "url": "https://www.v2ex.com/t/1246361",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-04T05:16:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246425",
+    "title": "[送码] macOS 的活动记录和回顾软件「日影」",
+    "url": "https://www.v2ex.com/t/1246425",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-10-04T14:01:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7692042894160511011",
+    "title": "组合式 API（Composition API）",
+    "url": "https://juejin.cn/post/7692042894160511011",
+    "source": "juejin",
+    "score": 0.13329902,
+    "published_at": "2026-10-03T13:01:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:michael-denyer/pstack-claude",
+    "title": "pstack-claude",
+    "url": "https://github.com/michael-denyer/pstack-claude",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49939308",
+    "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+    "url": "https://alexalejandre.com/interviews/peter-bex/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-02T22:17:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49940044",
+    "title": "Demystifying Tufte's data-ink ratio",
+    "url": "https://tuftesrazor.scienceux.org/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-02T23:55:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49959583",
+    "title": "The logic of gambling undergirds everything coming out of Silicon Valley",
+    "url": "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-05T00:58:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49932236",
+    "title": "The Tao of Backup",
+    "url": "http://www.taobackup.com/index.html",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-02T11:19:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49958569",
+    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+    "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-10-04T22:25:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49958850",
+    "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+    "url": "https://getartcraft.com/apps",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-04T23:02:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49957812",
+    "title": "In the wake of closure, a digital archive of animated materials appears online",
+    "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-04T21:01:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:4bzboj",
     "title": "Protocol-aware recovery for consensus-based storage (2018)",
     "url": "https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf",
@@ -4886,116 +4996,6 @@
     "source": "hackernews",
     "score": 13.0,
     "published_at": "2026-09-30T20:06:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49909908",
-    "title": "Coltrane's Tone Circle",
-    "url": "https://jtomschroeder.com/blog/tone-circle/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-09-30T14:59:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49890732",
-    "title": "Why the Bronze Age Collapsed",
-    "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-09-29T10:10:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49905644",
-    "title": "Doing a Machine Learning PhD While Working in Japan",
-    "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-09-30T07:33:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49912048",
-    "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-    "url": "https://www.chompiclub.com/opensource",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-09-30T17:42:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49906432",
-    "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-    "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-09-30T09:27:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49913458",
-    "title": "CS240 AI Cheating Retrospective",
-    "url": "https://turkeyland.net/thoughts/ai.php",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-09-30T19:54:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49913350",
-    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-    "url": "https://www.mattkeeter.com/projects/halfspace/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-09-30T19:44:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49912444",
-    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-    "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-    "source": "hackernews",
-    "score": 82.0,
-    "published_at": "2026-09-30T18:17:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49913192",
-    "title": "EDG C++ front-end goes public",
-    "url": "https://edgcpp.org/#transition",
-    "source": "hackernews",
-    "score": 101.0,
-    "published_at": "2026-09-30T19:26:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49912955",
-    "title": "Surprisingly complex waves reveal the brain's inner workings",
-    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-    "source": "hackernews",
-    "score": 86.0,
-    "published_at": "2026-09-30T19:04:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49915082",
-    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
-    "url": "https://www.thespacereview.com/article/4951/1",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-09-30T22:03:04+00:00",
     "summary": "",
     "key_points": []
   }
