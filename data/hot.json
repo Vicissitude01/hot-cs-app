@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:jwidjn",
+    "title": "Inside the Windows I/O Manager: Deep dive into how read I/O requests are initialized",
+    "url": "https://winware31.blogspot.com/2026/10/inside-windows-io-manager-deep-dive.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-06T14:03:48.107-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4fop73",
+    "title": "Chrome's Response to Recent ccTLD Registry Hijacks",
+    "url": "https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-06T13:00:33.008-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fpcicg",
+    "title": "Last rites for Gentoo's Chromium package",
+    "url": "https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-06T12:46:53.386-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ppzbqo",
+    "title": "Release of Polars 2.0",
+    "url": "https://pola.rs/posts/release-polars-2/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-06T09:30:40.552-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0xpi8s",
+    "title": "Why We Should Inject Dependencies",
+    "url": "https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-06T13:03:04.730-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tcmpcw",
+    "title": "Pared - remove unwanted Apple Intelligence models without disabling SIP",
+    "url": "https://github.com/4evy/pared",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-06T13:27:16.404-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sshhsl",
+    "title": "What is Codemode",
+    "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-06T09:27:03.518-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jxhi2i",
+    "title": "A sustainable web career, for when all this blows over",
+    "url": "https://dbushell.com/2026/10/07/sustainable-web-career/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-06T13:29:11.053-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dwbksa",
+    "title": "Brut, the Brutal Router for Unix Tools",
+    "url": "https://brut.sh",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-06T12:17:23.875-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246664",
+    "title": "Claude 一条龙服务？",
+    "url": "https://www.v2ex.com/t/1246664",
+    "source": "v2ex",
+    "score": 58.0,
+    "published_at": "2026-10-06T11:25:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7692742889198387200",
+    "title": "从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析",
+    "url": "https://juejin.cn/post/7692742889198387200",
+    "source": "juejin",
+    "score": 0.19893571,
+    "published_at": "2026-10-05T12:57:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7692741078311157787",
+    "title": "免费截图工具，长截图、OCR 、录屏、水印、聚光灯、马赛克全都有！",
+    "url": "https://juejin.cn/post/7692741078311157787",
+    "source": "juejin",
+    "score": 0.12932693,
+    "published_at": "2026-10-05T00:47:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49953344",
+    "title": "The complement of true is true, except when it's false",
+    "url": "https://dryperspective.github.io/posts/complement-of-true/",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-10-04T12:28:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49977531",
+    "title": "What's Earth's dominant species by mass?",
+    "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-06T12:40:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49977689",
+    "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+    "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-06T12:53:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49981063",
+    "title": "Former German spy chief arrested for attempted treason",
+    "url": "https://www.reuters.com/business/finance/former-german-spy-chief-detained-suspicion-espionage-treason-bild-reports-2026-10-06/",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-10-06T16:51:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49976751",
+    "title": "I'm the AGI that's wiping out humanity",
+    "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-10-06T10:59:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49980715",
+    "title": "AI is now capable of developing its own inference hardware",
+    "url": "https://github.com/FeSens/openTPU",
+    "source": "hackernews",
+    "score": 151.0,
+    "published_at": "2026-10-06T16:23:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49979845",
+    "title": "The Early History of Smalltalk (1993)",
+    "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-10-06T15:19:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49977437",
+    "title": "Subquadratic 3SUM and Subcubic APSP",
+    "url": "https://arxiv.org/abs/2610.06783",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-10-06T12:31:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49978595",
+    "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+    "url": "https://peterszentkiralyi.eu/darkplug/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-06T13:58:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49967427",
+    "title": "Benchmark in Milliseconds",
+    "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-10-05T17:00:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:odew1t",
     "title": "Bidirectional Type Slicing",
     "url": "https://arxiv.org/pdf/2607.12197",
@@ -4776,226 +4996,6 @@
     "source": "hackernews",
     "score": 46.0,
     "published_at": "2026-10-02T02:51:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49932147",
-    "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-    "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-02T11:07:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49933740",
-    "title": "With most information hidden, the game Stratego had stumped AI until now",
-    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-10-02T14:11:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49927754",
-    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-    "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-    "source": "hackernews",
-    "score": 263.0,
-    "published_at": "2026-10-01T22:23:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49937276",
-    "title": "Apple Pass Designer",
-    "url": "https://developer.apple.com/pass-designer/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-10-02T19:06:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jh245o",
-    "title": "Debian 13 as a dual WAN router",
-    "url": "https://www.tqdev.com/2026-dual-wan-router-debian-13/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-02T07:59:58.992-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1eukia",
-    "title": "GIMP - Interview with LiamQuin",
-    "url": "https://www.gimp.org/news/2026/10/01/liam-quin-interview-lgm2017/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-02T05:41:38.013-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:auypcd",
-    "title": "sixteenth RacketCon this weekend",
-    "url": "https://con.racket-lang.org/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-02T02:53:02.835-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fidpdw",
-    "title": "Advice to a beginning software engineer",
-    "url": "https://www.seangoedecke.com/advice-to-a-beginning-software-engineer/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-02T08:19:46.829-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uuu6us",
-    "title": "The hidden design compromises of Docker layers",
-    "url": "https://loige.co/hidden-design-compromises-of-docker-layers/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-02T03:29:47.847-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kp2tg8",
-    "title": "Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)",
-    "url": "https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-02T03:14:44.133-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3hdied",
-    "title": "Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs' rx",
-    "url": "https://rahuljuliato.com/posts/emacs-rx-in-typescript",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-02T03:20:02.189-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6jcvdn",
-    "title": "Generic Const Args and You",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-10-02T04:20:42.528-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hfmcxi",
-    "title": "What are you doing this weekend?",
-    "url": "https://lobste.rs/s/hfmcxi",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-02T03:18:01.576-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246096",
-    "title": "gpt 6 luna 都这么蠢吗？连个小插件，都写了 10 几遍，还没有写好！",
-    "url": "https://www.v2ex.com/t/1246096",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-10-02T02:42:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246122",
-    "title": "戒短视频，碎片时间，可以干啥？",
-    "url": "https://www.v2ex.com/t/1246122",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-10-02T05:28:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246061",
-    "title": "Grok Bot/Muse/Dots 这些龙虾类产品卷土重来，我想给上一代产品说几句公道话",
-    "url": "https://www.v2ex.com/t/1246061",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-10-01T15:01:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246146",
-    "title": "你更相信门诊医生还是 AI？",
-    "url": "https://www.v2ex.com/t/1246146",
-    "source": "v2ex",
-    "score": 68.0,
-    "published_at": "2026-10-02T10:03:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690841638806421538",
-    "title": "3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完",
-    "url": "https://juejin.cn/post/7690841638806421538",
-    "source": "juejin",
-    "score": 0.04995598,
-    "published_at": "2026-09-30T01:25:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690869176362172425",
-    "title": "游戏引擎都没用！纯AI又上线了一款蚂蚁搬家小游戏！",
-    "url": "https://juejin.cn/post/7690869176362172425",
-    "source": "juejin",
-    "score": 0.09728062,
-    "published_at": "2026-09-30T03:18:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690930433831895050",
-    "title": "OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra",
-    "url": "https://juejin.cn/post/7690930433831895050",
-    "source": "juejin",
-    "score": 0.08279015,
-    "published_at": "2026-09-30T03:23:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691030977348108351",
-    "title": "一个人+AI做情侣食谱小程序，30天纯赚",
-    "url": "https://juejin.cn/post/7691030977348108351",
-    "source": "juejin",
-    "score": 0.104233,
-    "published_at": "2026-09-30T10:12:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691142360248614947",
-    "title": "在职前端 Skill 和 MCP 分享",
-    "url": "https://juejin.cn/post/7691142360248614947",
-    "source": "juejin",
-    "score": 0.06269953,
-    "published_at": "2026-09-30T13:23:45+00:00",
     "summary": "",
     "key_points": []
   }
