@@ -1,5 +1,335 @@
 [
   {
+    "id": "lobsters:gm2ziy",
+    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+    "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-05T18:03:17.096-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:oevwp5",
+    "title": "Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging",
+    "url": "https://nivdayan.github.io/dostoevsky.pdf",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-05T15:18:23.545-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:az2lgv",
+    "title": "spoonful: static site generator written in Nix",
+    "url": "https://tangled.org/poacher.dev/spoonful",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-05T13:48:15.689-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:okq4dm",
+    "title": "You don't need an effect system",
+    "url": "https://burningwitness.github.io/blog/posts/against-effect-systems/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-05T13:03:27.608-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bw7k1r",
+    "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
+    "url": "https://git.sig-io.nl/Sig-IO/mailcheck/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-05T14:50:52.894-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:okk4bg",
+    "title": "Async Rust: Where does the scheduler live?",
+    "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-10-05T13:31:29.400-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246462",
+    "title": "Muse 互助帖",
+    "url": "https://www.v2ex.com/t/1246462",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-10-05T02:29:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246444",
+    "title": "ai 时代怎么感觉招 js/ts 全栈还是那么少？",
+    "url": "https://www.v2ex.com/t/1246444",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-10-05T00:17:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7691917465479446591",
+    "title": "2026年后端开发进化：告别CRUD内卷，拥抱AI原生架构与服务编排新时代",
+    "url": "https://juejin.cn/post/7691917465479446591",
+    "source": "juejin",
+    "score": 0.04699297,
+    "published_at": "2026-10-03T12:12:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:M-Abozaid/esp32-c3-adblock",
+    "title": "esp32-c3-adblock",
+    "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49969961",
+    "title": "Incident with Actions",
+    "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+    "source": "hackernews",
+    "score": 93.0,
+    "published_at": "2026-10-05T20:09:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49962857",
+    "title": "Apple and a hacker's future",
+    "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+    "source": "hackernews",
+    "score": 196.0,
+    "published_at": "2026-10-05T10:05:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49969256",
+    "title": "The Future of Mathematics",
+    "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-10-05T19:22:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49971356",
+    "title": "Graphical UI",
+    "url": "https://www.graphicalui.com/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-05T21:51:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49971678",
+    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
+    "url": "https://nivdayan.github.io/dostoevsky.pdf",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-05T22:25:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49971523",
+    "title": "Texas city demands $2M for public records on Flock usage",
+    "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-10-05T22:05:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49971719",
+    "title": "Friendship ended with Deno, now Node is my best friend",
+    "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-05T22:30:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49971782",
+    "title": "Global Solar Atlas: summary of solar power potential globally",
+    "url": "https://globalsolaratlas.info/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-05T22:37:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49950653",
+    "title": "Testing 12 different Zigbee temperature/humidity sensors",
+    "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-04T04:30:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49971726",
+    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
+    "url": "https://almostimplemented.github.io/jazz-pianist-style/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-05T22:30:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49953195",
+    "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+    "url": "https://github.com/dfd-tud/deda",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-04T12:09:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49963382",
+    "title": "Is mathematics over, or just graduating?",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-05T11:16:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49951693",
+    "title": "Using Blu-ray M-Disk as backup of last resort",
+    "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-10-04T08:03:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49972419",
+    "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+    "url": "https://edworkingpapers.com/ai26-1551",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-06T00:00:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49944049",
+    "title": "Competitive Programmer's Handbook (2018) [pdf]",
+    "url": "https://cses.fi/book/book.pdf",
+    "source": "hackernews",
+    "score": 105.0,
+    "published_at": "2026-10-03T13:24:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49971952",
+    "title": "Worth Building",
+    "url": "https://armstr.ng/writing/worth-building",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-05T22:59:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49970667",
+    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "source": "hackernews",
+    "score": 180.0,
+    "published_at": "2026-10-05T21:00:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49972008",
+    "title": "Ephemeral Testing",
+    "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-05T23:06:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49970871",
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "url": "https://qlabs.sh/research/dust",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-10-05T21:15:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49971230",
+    "title": "Find the flattest route between any two points in SF",
+    "url": "https://flattensf.com/",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-10-05T21:40:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49971921",
+    "title": "Example.com Just Launched the Biggest Redesign in Decades",
+    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-10-05T22:55:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49969183",
+    "title": "Beam: Reflection's 501B open-weight model",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "source": "hackernews",
+    "score": 279.0,
+    "published_at": "2026-10-05T19:16:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49971846",
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "source": "hackernews",
+    "score": 106.0,
+    "published_at": "2026-10-05T22:46:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nvkrb9",
     "title": "What are you doing this week?",
     "url": "https://lobste.rs/s/nvkrb9",
@@ -4666,336 +4996,6 @@
     "source": "v2ex",
     "score": 34.0,
     "published_at": "2026-10-01T05:11:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mvschwarz/openrig",
-    "title": "openrig",
-    "url": "https://github.com/mvschwarz/openrig",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49924275",
-    "title": "ParadeDB Search Performance Improvements",
-    "url": "https://www.paradedb.com/blog/opening-a-closed-tin",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-10-01T17:05:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49923638",
-    "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
-    "url": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-10-01T16:14:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49922437",
-    "title": "Context Language Models",
-    "url": "https://arxiv.org/abs/2609.37725",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-10-01T14:51:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49922568",
-    "title": "Ask HN: Who wants to be hired? (October 2026)",
-    "url": "https://news.ycombinator.com/item?id=49922568",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-10-01T15:02:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49926773",
-    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-    "url": "https://github.com/Vibra-Ingenn/Janus",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-01T20:36:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49911500",
-    "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
-    "url": "https://news.ycombinator.com/item?id=49911500",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-09-30T16:58:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49922674",
-    "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
-    "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
-    "source": "hackernews",
-    "score": 123.0,
-    "published_at": "2026-10-01T15:07:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49922569",
-    "title": "Ask HN: Who is hiring? (October 2026)",
-    "url": "https://news.ycombinator.com/item?id=49922569",
-    "source": "hackernews",
-    "score": 118.0,
-    "published_at": "2026-10-01T15:02:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49925036",
-    "title": "Bez: Generating a browser engine from specs and tests",
-    "url": "https://tangled.org/burrito.space/bez",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-10-01T18:08:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49926512",
-    "title": "ArXiv's Updated Rate Limit Policy",
-    "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-01T20:12:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49925742",
-    "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-10-01T19:03:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49925969",
-    "title": "Pi Durable",
-    "url": "https://earendil.com/posts/pi-durable/",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-10-01T19:24:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49926628",
-    "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
-    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-10-01T20:23:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49923692",
-    "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-    "url": "https://blog.cloudflare.com/clef-decision-models/",
-    "source": "hackernews",
-    "score": 340.0,
-    "published_at": "2026-10-01T16:18:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49926069",
-    "title": "Pi 1.0",
-    "url": "https://earendil.com/posts/pi-1-0/",
-    "source": "hackernews",
-    "score": 341.0,
-    "published_at": "2026-10-01T19:33:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yknfii",
-    "title": "A brief history of the Bloomberg Terminal",
-    "url": "https://spectrum.ieee.org/bloomberg-terminal",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-09-30T21:14:34.589-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bbi3w9",
-    "title": "EU KIDS Act",
-    "url": "https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-10-01T05:19:09.227-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1h7qzj",
-    "title": "outis: Fight AI spam by generating and sending a fake \"user unknown\" bounce emails",
-    "url": "https://github.com/dtonon/outis",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-01T10:54:02.796-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ajtnc6",
-    "title": "The Second Golden Spike: Memory Safety Across the Valen/Rust Boundary",
-    "url": "https://verdagon.dev/blog/boundary-memory-safety",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-01T09:12:03.343-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8ckgq8",
-    "title": "WSL containers are now generally available",
-    "url": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-01T06:43:16.865-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1gt0o1",
-    "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
-    "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-01T08:58:58.255-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zcr7in",
-    "title": "Is sandboxing sufficient to contain rogue agents?",
-    "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-01T07:16:51.385-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dfvxvs",
-    "title": "Announcing Rust 1.99.0",
-    "url": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-10-01T08:08:57.777-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:iwvjr0",
-    "title": "Reducing the cognitive load of AI changes",
-    "url": "https://amoffat.github.io/blog/cognitive-load.html",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-01T07:57:19.033-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bmcnwp",
-    "title": "Who's hiring? Q4 2026",
-    "url": "https://lobste.rs/s/bmcnwp",
-    "source": "lobsters",
-    "score": 36.0,
-    "published_at": "2026-10-01T05:03:52.944-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qgd17n",
-    "title": "IANA's email about why example.com changed",
-    "url": "https://www.oliverdunk.com/2026/09/30/iana-reply",
-    "source": "lobsters",
-    "score": 77.0,
-    "published_at": "2026-10-01T03:47:50.120-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245987",
-    "title": "通过 firefox 注册 muse",
-    "url": "https://www.v2ex.com/t/1245987",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-10-01T04:23:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246060",
-    "title": "主力邮箱还是得选国内邮箱",
-    "url": "https://www.v2ex.com/t/1246060",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-10-01T14:42:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245944",
-    "title": "最近迁移到 Catsxp 浏览器",
-    "url": "https://www.v2ex.com/t/1245944",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-09-30T23:41:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1245950",
-    "title": "有什么有意思的 3C 产品推荐嘛",
-    "url": "https://www.v2ex.com/t/1245950",
-    "source": "v2ex",
-    "score": 68.0,
-    "published_at": "2026-10-01T00:20:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246024",
-    "title": "ClipSeek 成功上架 Microsoft Store 啦 ｜ 送码",
-    "url": "https://www.v2ex.com/t/1246024",
-    "source": "v2ex",
-    "score": 114.0,
-    "published_at": "2026-10-01T09:03:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7690456283196637184",
-    "title": "iPhone Duo 留给开发者的一个月 -- 肘子的 Swift 周报 #155",
-    "url": "https://juejin.cn/post/7690456283196637184",
-    "source": "juejin",
-    "score": 0.1082442,
-    "published_at": "2026-09-28T23:45:30+00:00",
     "summary": "",
     "key_points": []
   }
