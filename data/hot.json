@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:d0cthg",
+    "title": "How to fix a bug in a fix",
+    "url": "https://projectzero.google/2026/10/emergency-patching.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-06T15:33:01.352-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rmh4fg",
+    "title": "A Terminal Protocol for Program Status (OSC 7501)",
+    "url": "https://mitchellh.com/writing/program-status-osc7501",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-06T16:12:46.779-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:am1cuw",
+    "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+    "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-06T17:26:46.902-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0slgpl",
+    "title": "That Time I Worked With a Laptop Thief",
+    "url": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
+    "source": "lobsters",
+    "score": 23.0,
+    "published_at": "2026-10-06T15:16:33.717-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693358476032049162",
+    "title": "AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了",
+    "url": "https://juejin.cn/post/7693358476032049162",
+    "source": "juejin",
+    "score": 0.7058753,
+    "published_at": "2026-10-06T11:50:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49983647",
+    "title": "System-level ad-blocking in Android",
+    "url": "https://kevinboone.me/adblock.html",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-10-06T20:29:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49982471",
+    "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
+    "url": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-10-06T18:52:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49982498",
+    "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+    "url": "https://news.ycombinator.com/item?id=49982498",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-06T18:54:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49982735",
+    "title": "Berthd",
+    "url": "https://berthd.app/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-10-06T19:14:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49984484",
+    "title": "Ask HN: Why is Ask HN only showing me 14 posts?",
+    "url": "https://news.ycombinator.com/item?id=49984484",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-06T21:37:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49984652",
+    "title": "How Fast is Python 3.15?",
+    "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-06T21:52:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49972125",
+    "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
+    "url": "https://news.ycombinator.com/item?id=49972125",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-05T23:24:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49983791",
+    "title": "OpenSSH 10.6",
+    "url": "https://www.openssh.org/releasenotes.html#10.6",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-10-06T20:41:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49984834",
+    "title": "The Query Transformation Pipeline",
+    "url": "https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-06T22:09:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49973644",
+    "title": "LLMs may have helped my RSI",
+    "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-06T03:01:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49983404",
+    "title": "When random is not actually random enough",
+    "url": "https://ersc.io/blog/when-random-isnt-random-enough",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-06T20:12:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49981905",
+    "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+    "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-10-06T18:00:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49983703",
+    "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+    "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-10-06T20:33:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49984716",
+    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "url": "https://penguin-mail.com/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-06T21:59:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49980487",
+    "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+    "source": "hackernews",
+    "score": 188.0,
+    "published_at": "2026-10-06T16:03:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49983780",
+    "title": "Vibecoding Photoshop: Time and pressure",
+    "url": "https://andreklein.net/vibecoding-photoshop-time-and-pressure/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-06T20:40:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49984025",
+    "title": "Decisions API is in public beta",
+    "url": "https://developers.openai.com/api/docs/guides/decisions",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-10-06T20:57:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49984923",
+    "title": "Sharing AI Progress in Mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "source": "hackernews",
+    "score": 208.0,
+    "published_at": "2026-10-06T22:17:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:jwidjn",
     "title": "Inside the Windows I/O Manager: Deep dive into how read I/O requests are initialized",
     "url": "https://winware31.blogspot.com/2026/10/inside-windows-io-manager-deep-dive.html",
@@ -4766,236 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-10-02T13:56:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49932079",
-    "title": "F.02 Decommission",
-    "url": "https://www.figure.ai/news/f-02-decommission",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-02T10:57:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49928215",
-    "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
-    "url": "https://github.com/kitao/pyxel",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-01T23:26:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49933230",
-    "title": "Venice’s failed war against Constantinople led to the first bond market",
-    "url": "https://bigthink.com/books/a-fabulous-debt/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-02T13:17:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49935751",
-    "title": "Dutch computer museums (2022)",
-    "url": "https://aresluna.org/dutch-computer-museums/",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-10-02T16:52:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49936575",
-    "title": "From the creator of Redis; run LLM locally with ds4",
-    "url": "https://dwarfstar.sh/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-02T18:01:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49925602",
-    "title": "Anatomy of a Lean proof for software engineers",
-    "url": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-01T18:53:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49932694",
-    "title": "100 years of student radio history in the DLARC college radio collections",
-    "url": "https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-02T12:23:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49934784",
-    "title": "Supabase is acquiring Turso",
-    "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
-    "source": "hackernews",
-    "score": 162.0,
-    "published_at": "2026-10-02T15:43:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49925184",
-    "title": "Mike Tomlin spent 12 years building a Minecraft city",
-    "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-01T18:20:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49908055",
-    "title": "Lace and Labor: Lessons from the actual Luddites",
-    "url": "https://articlesofinterest.substack.com/p/lace-and-labor",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-09-30T12:40:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49936671",
-    "title": "What if we stopped using GPUs? [video]",
-    "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-02T18:09:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49937387",
-    "title": "The Only Intuitive Interface Is the Nipple",
-    "url": "https://www.greenend.org.uk/rjk/misc/nipple.html",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-02T19:18:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49928566",
-    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-    "url": "https://stillwet.art/",
-    "source": "hackernews",
-    "score": 131.0,
-    "published_at": "2026-10-02T00:27:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49934399",
-    "title": "How accurately calibrated is Jev?",
-    "url": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-02T15:12:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49932402",
-    "title": "On social reality in China",
-    "url": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-02T11:42:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49934620",
-    "title": "One month coding with GLM 5.3 Flash",
-    "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-02T15:29:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49933476",
-    "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-    "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-02T13:47:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49932191",
-    "title": "Our Project Suncatcher prototype satellite is in orbit",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-02T11:13:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49927747",
-    "title": "Sites in ChatGPT",
-    "url": "https://chatgpt.com/features/sites/",
-    "source": "hackernews",
-    "score": 104.0,
-    "published_at": "2026-10-01T22:22:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49932340",
-    "title": "Blogging with Gleam, Org-Mode and Pandoc",
-    "url": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-02T11:34:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49925974",
-    "title": "FLUX 3 Image",
-    "url": "https://bfl.ai/models/flux-3-image",
-    "source": "hackernews",
-    "score": 180.0,
-    "published_at": "2026-10-01T19:24:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49926411",
-    "title": "Loss of cell identity drives human aging: Two new papers",
-    "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-10-01T20:02:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49929391",
-    "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-    "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-10-02T02:51:27+00:00",
     "summary": "",
     "key_points": []
   }
