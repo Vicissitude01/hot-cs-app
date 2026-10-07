@@ -1,5 +1,215 @@
 [
   {
+    "id": "lobsters:zlhyss",
+    "title": "The Mathocalypse",
+    "url": "https://scottaaronson.blog/?p=10169",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-07T17:48:25.257-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hhga98",
+    "title": "When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection",
+    "url": "https://resilience.ocf.tw/web/report/en.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-07T14:44:06.009-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9qtgrm",
+    "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+    "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+    "source": "lobsters",
+    "score": 29.0,
+    "published_at": "2026-10-07T16:38:09.574-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0gvyif",
+    "title": "Software developers are not okay",
+    "url": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+    "source": "lobsters",
+    "score": 43.0,
+    "published_at": "2026-10-07T14:35:08.637-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246729",
+    "title": "Claude 封号无法避免，只能不断想办法重开",
+    "url": "https://www.v2ex.com/t/1246729",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-10-07T02:05:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693160537133629455",
+    "title": "Rust/Go/Java/Python/PHP 大比拼：负载下后端框架到底差多少？",
+    "url": "https://juejin.cn/post/7693160537133629455",
+    "source": "juejin",
+    "score": 0.27570887,
+    "published_at": "2026-10-07T09:44:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:thedotmack/claude-mem",
+    "title": "claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:addyosmani/agent-skills",
+    "title": "agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49993908",
+    "title": "Why were Victorian elites so effective?",
+    "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-10-07T15:09:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49995539",
+    "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+    "url": "https://agent.reviews/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-07T16:59:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49993188",
+    "title": "SynthID Detector",
+    "url": "https://synthid.com/",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-10-07T14:16:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49991823",
+    "title": "Google Playground: Create and play custom games",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "source": "hackernews",
+    "score": 106.0,
+    "published_at": "2026-10-07T12:28:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49992125",
+    "title": "House with 15m underground tunnels for sale for 300k",
+    "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+    "source": "hackernews",
+    "score": 146.0,
+    "published_at": "2026-10-07T12:57:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49963568",
+    "title": "A new write and space optimized storage engine for MySQL is here",
+    "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-05T11:40:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49976818",
+    "title": "Brownian Motion",
+    "url": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-06T11:11:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49997161",
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+    "source": "hackernews",
+    "score": 242.0,
+    "published_at": "2026-10-07T18:49:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49980626",
+    "title": "How machines learned precision",
+    "url": "https://glinscott.github.io/how-machines-learned-precision/",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-10-06T16:14:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49994145",
+    "title": "Navier–Stokes Lost in Translation",
+    "url": "https://arxiv.org/abs/2610.08144",
+    "source": "hackernews",
+    "score": 224.0,
+    "published_at": "2026-10-07T15:24:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49978315",
+    "title": "If somebody tries to hot-patch an already-hot-patched function",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-06T13:39:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49997073",
+    "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+    "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+    "source": "hackernews",
+    "score": 84.0,
+    "published_at": "2026-10-07T18:43:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49998895",
+    "title": "Margaret Hamilton, who led software development for the Apollo program, has died",
+    "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+    "source": "hackernews",
+    "score": 315.0,
+    "published_at": "2026-10-07T21:16:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:u88nlh",
     "title": "On Git Refs",
     "url": "https://matklad.github.io/2026/10/07/git-ref.html",
@@ -4786,216 +4996,6 @@
     "source": "hackernews",
     "score": 35.0,
     "published_at": "2026-10-03T18:29:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49923873",
-    "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-    "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-    "source": "hackernews",
-    "score": 68.0,
-    "published_at": "2026-10-01T16:32:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946069",
-    "title": "Kolibri – Tech Report [pdf]",
-    "url": "https://aleph-alpha.com/downloads/tech-report.pdf",
-    "source": "hackernews",
-    "score": 96.0,
-    "published_at": "2026-10-03T17:22:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49947051",
-    "title": "We want you to build the next Git platform on Cloudflare",
-    "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-10-03T19:33:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946393",
-    "title": "Hole Punch: Sling your spaceship around gravitational fields",
-    "url": "https://notoriousbfg.com/hole-punch/",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-10-03T18:06:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xruas8",
-    "title": "An Update on Orion for Linux and Windows",
-    "url": "https://blog.kagi.com/update-orion-linux-windows",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-03T10:57:16.909-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246258",
-    "title": "你愿意付费在韩国/越南租一台家庭里的电脑使用 ai 吗？",
-    "url": "https://www.v2ex.com/t/1246258",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-10-03T08:32:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246297",
-    "title": "199 的小米充电宝放在图书馆，插着充电忘记拿走，第二天一大家被一家子（女的还考公）偷走了，我需要较真吗？",
-    "url": "https://www.v2ex.com/t/1246297",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-10-03T13:27:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246278",
-    "title": "微信输入法安装的时候强制要管理员权限",
-    "url": "https://www.v2ex.com/t/1246278",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-10-03T11:33:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246282",
-    "title": "历经千辛万苦终于用上了 opus5.5.",
-    "url": "https://www.v2ex.com/t/1246282",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-10-03T11:43:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691512357834768430",
-    "title": "从乱码到高精度检索：探矿业务中 TXT、Word、PDF 与网页的 RAG 清洗之道",
-    "url": "https://juejin.cn/post/7691512357834768430",
-    "source": "juejin",
-    "score": 0.16248824,
-    "published_at": "2026-10-02T03:13:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691152001448820746",
-    "title": "Go 写业务，Rust 扛底盘：一套可落地的混合架构",
-    "url": "https://juejin.cn/post/7691152001448820746",
-    "source": "juejin",
-    "score": 0.08098568,
-    "published_at": "2026-10-01T04:41:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691717198448148518",
-    "title": "Personal Agent 火了，新酿还是旧酒？",
-    "url": "https://juejin.cn/post/7691717198448148518",
-    "source": "juejin",
-    "score": 0.2074252,
-    "published_at": "2026-10-02T13:40:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691872111024586752",
-    "title": "KMP 又改了编译流程， Separate Compilation 禁止了 `commonMain` 的依赖穿透",
-    "url": "https://juejin.cn/post/7691872111024586752",
-    "source": "juejin",
-    "score": 0.67684535,
-    "published_at": "2026-10-03T03:08:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49932509",
-    "title": "On building a worm detector",
-    "url": "https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-02T12:00:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49934261",
-    "title": "Holes (1996-2025)",
-    "url": "https://plato.stanford.edu/entries/holes/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-02T15:00:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49945904",
-    "title": "RetailReady (YC W24) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-10-03T17:00:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49913106",
-    "title": "Body Awareness in Goffin's Cockatoos",
-    "url": "https://www.nature.com/articles/s41598-026-57500-7",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-09-30T19:17:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49945323",
-    "title": "City building games have a Soul Problem pt.2",
-    "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-10-03T15:52:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49938399",
-    "title": "Woking Electrical Control Room (2016)",
-    "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-    "source": "hackernews",
-    "score": 87.0,
-    "published_at": "2026-10-02T20:44:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49944912",
-    "title": "FTL: A new operating system for clouds",
-    "url": "https://ftl-os.org/",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-10-03T15:02:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:e90dzr",
-    "title": "Grow and control a swarm",
-    "url": "https://nohope.io",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-03T04:03:13.235-05:00",
     "summary": "",
     "key_points": []
   }
