@@ -1,5 +1,475 @@
 [
   {
+    "id": "lobsters:u88nlh",
+    "title": "On Git Refs",
+    "url": "https://matklad.github.io/2026/10/07/git-ref.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-07T13:14:26.590-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:b1iafm",
+    "title": "Introducing mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps",
+    "url": "https://www.danvk.org/2026/09/10/mapsnap.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-07T08:27:58.255-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qffffv",
+    "title": "Chromium Hardening Guide",
+    "url": "https://rknf404.github.io/chromium-hardening-guide/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-07T09:06:59.941-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4hxxad",
+    "title": "Zeroization, part 1: Wiping can make things worse",
+    "url": "https://00f.net/2026/10/06/zeroization-1/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-07T11:22:50.826-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:frav12",
+    "title": "rat's minimal register allocator",
+    "url": "https://hexrat.cc/pages/blog/2026_10_07",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-07T13:01:25.709-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ucwapn",
+    "title": "Calling a function in C without naming it",
+    "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-07T13:15:02.307-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lu8hl9",
+    "title": "Twenty-two pending curl vulnerabilities",
+    "url": "https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-07T10:04:10.849-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hccdqa",
+    "title": "Shipping JPEG XL in Chrome",
+    "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-10-07T06:57:56.497-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:y5tke0",
+    "title": "Creating distro build tooling for a small community",
+    "url": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-10-07T11:23:03.781-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qn61ip",
+    "title": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+    "url": "https://github.com/storytold/photocraft",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-10-07T07:04:13.826-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lgdxtw",
+    "title": "C for Rust Programmers",
+    "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-10-07T09:30:05.893-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rwdufq",
+    "title": "Anti-Patterns in Software Blogging",
+    "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+    "source": "lobsters",
+    "score": 47.0,
+    "published_at": "2026-10-07T08:09:33.721-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246740",
+    "title": "Safari 用户苦沉浸式翻译久矣，所以我开发了一个代替它的软件，支持 iOS 和 macOS，正在 TestFlight 中，欢迎使用",
+    "url": "https://www.v2ex.com/t/1246740",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-10-07T03:19:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246722",
+    "title": "youtube 上有没有颜值比较高的旅游博主推荐？",
+    "url": "https://www.v2ex.com/t/1246722",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-10-07T01:32:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246808",
+    "title": "我有个很缺德的想法",
+    "url": "https://www.v2ex.com/t/1246808",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-10-07T10:59:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246762",
+    "title": "北上广深哪里有好的皮肤病科室吗，湿疹感觉严重了",
+    "url": "https://www.v2ex.com/t/1246762",
+    "source": "v2ex",
+    "score": 66.0,
+    "published_at": "2026-10-07T06:20:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693225151680774154",
+    "title": "Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通",
+    "url": "https://juejin.cn/post/7693225151680774154",
+    "source": "juejin",
+    "score": 0.17044431,
+    "published_at": "2026-10-06T08:24:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7692739051067342857",
+    "title": "Spring Boot 2.1 → 3.5 迁移推演：这个 2018 年的项目会炸在哪",
+    "url": "https://juejin.cn/post/7692739051067342857",
+    "source": "juejin",
+    "score": 0.12903035,
+    "published_at": "2026-10-05T14:52:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693049513120661550",
+    "title": "GitHub 日榜趋势速报 | 2026-10-07",
+    "url": "https://juejin.cn/post/7693049513120661550",
+    "source": "juejin",
+    "score": 0.36134418,
+    "published_at": "2026-10-07T00:07:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693225151681396746",
+    "title": "万物皆插件：DeepSeek Harness 底层揭秘，脚手架如何蜕变为产品",
+    "url": "https://juejin.cn/post/7693225151681396746",
+    "source": "juejin",
+    "score": 0.10675843,
+    "published_at": "2026-10-06T14:45:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7692614083904274486",
+    "title": "workbuddy-to-dsh使用教程",
+    "url": "https://juejin.cn/post/7692614083904274486",
+    "source": "juejin",
+    "score": 0.04614118,
+    "published_at": "2026-10-05T08:37:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49949680",
+    "title": "Rust's derive often implies inline",
+    "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+    "source": "hackernews",
+    "score": 101.0,
+    "published_at": "2026-10-04T01:27:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49991580",
+    "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+    "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-10-07T12:04:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49992905",
+    "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
+    "url": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-07T13:51:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49955697",
+    "title": "The Auditor's Opinion",
+    "url": "https://www.cringely.com/2026/07/16/the-auditors-opinion/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-04T17:05:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49996574",
+    "title": "When the machine boots but the reply disappears",
+    "url": "https://mainbrella.com/blog/inside-our-brella/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-07T18:10:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49992057",
+    "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+    "url": "https://artmuseum.artfrompixels.com/",
+    "source": "hackernews",
+    "score": 119.0,
+    "published_at": "2026-10-07T12:51:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49984984",
+    "title": "VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]",
+    "url": "https://www.youtube.com/watch?v=9ranfp_vz30",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-06T22:23:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49991243",
+    "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+    "url": "https://github.com/snuri00/psp-web-recomp",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-10-07T11:27:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49994065",
+    "title": "Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware",
+    "url": "https://github.com/AL-255/FM-1-RE",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-07T15:19:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49994481",
+    "title": "Open source 160 sound visualization experiments",
+    "url": "https://www.kagan.in/iwrzwr/visual-archive/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-07T15:46:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49992257",
+    "title": "Anti-Patterns in Software Blogging",
+    "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+    "source": "hackernews",
+    "score": 135.0,
+    "published_at": "2026-10-07T13:08:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49980399",
+    "title": "Show HN: Durable Actors – OSS Durable Objects with configurable compute",
+    "url": "https://github.com/TerseAI/durable-actors",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-06T15:58:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49970459",
+    "title": "3D-printing platform rapidly produces complex electric machines",
+    "url": "https://news.mit.edu/2026/3d-printing-platform-rapidly-produces-complex-electric-machines-0218",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-05T20:46:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49975373",
+    "title": "Redis in the Wild: Unexpectedly Bumping into Antirez in His Hometown",
+    "url": "https://orazioscicolone.it/posts/2026-10-04-meetantirez/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-06T07:34:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49996542",
+    "title": "AI Model Groupthink",
+    "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-07T18:08:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49995740",
+    "title": "EmDash uses Clef to moderate the plugin registry",
+    "url": "https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-07T17:12:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49993997",
+    "title": "ShinyHunters Extorted Boeing Spin-Off Prior to Arrests",
+    "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-10-07T15:15:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49974173",
+    "title": "Wood Tape (2004)",
+    "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+    "source": "hackernews",
+    "score": 89.0,
+    "published_at": "2026-10-06T04:25:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49993121",
+    "title": "AI-assisted proof of optimal packing for 11 squares",
+    "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+    "source": "hackernews",
+    "score": 84.0,
+    "published_at": "2026-10-07T14:10:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49994027",
+    "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
+    "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+    "source": "hackernews",
+    "score": 219.0,
+    "published_at": "2026-10-07T15:17:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49996259",
+    "title": "Docker Agent",
+    "url": "https://github.com/docker/docker-agent",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-07T17:48:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49993857",
+    "title": "Animated ASCII Art for Web Pages",
+    "url": "https://ascii.rest/",
+    "source": "hackernews",
+    "score": 163.0,
+    "published_at": "2026-10-07T15:05:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49994443",
+    "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+    "url": "https://bigwords.page/",
+    "source": "hackernews",
+    "score": 136.0,
+    "published_at": "2026-10-07T15:44:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49993914",
+    "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+    "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+    "source": "hackernews",
+    "score": 289.0,
+    "published_at": "2026-10-07T15:09:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49996425",
+    "title": "GPT‑6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-10-07T18:00:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49996437",
+    "title": "Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "source": "hackernews",
+    "score": 206.0,
+    "published_at": "2026-10-07T18:01:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:v1amrz",
     "title": "Inside the Mojo compiler",
     "url": "https://www.youtube.com/watch?v=tWWgCxRKuYo",
@@ -4526,476 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-10-03T04:03:13.235-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hlnjbj",
-    "title": "Writing the Cyclone Scheme Compiler (2017)",
-    "url": "https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-03T08:23:29.007-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:elziso",
-    "title": "The Era of Software Quality, or the Era of Ostriches?",
-    "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-03T08:31:58.277-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:49glor",
-    "title": "Two-Stack Sliding-Window Aggregation",
-    "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-03T07:39:14.892-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:l5ev1t",
-    "title": "Announcing Cloudflare OHTTP Gateway",
-    "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-03T05:58:07.744-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rghh9w",
-    "title": "Greg Kroah-Hartman - Security in the LLM Age",
-    "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-03T06:57:02.831-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cpf8w6",
-    "title": "Rust for CPython (Python Language Summit 2026)",
-    "url": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-03T04:40:38.169-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:u8uvlr",
-    "title": "How to Hack Time, With C2PA",
-    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-03T06:58:14.604-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246219",
-    "title": "不降智的 6.1sol 很能打，吉吉 api 先人一步 已经实现 6.1sol 全站不降智并加入实时监测，倍率 0.19，能打省钱才是真理，欢迎 v 佬来测，回复送鸡蛋测试。",
-    "url": "https://www.v2ex.com/t/1246219",
-    "source": "v2ex",
-    "score": 22.0,
-    "published_at": "2026-10-03T02:27:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246205",
-    "title": "求问，安卓，有啥好用的，轻量使用的 RSS？",
-    "url": "https://www.v2ex.com/t/1246205",
-    "source": "v2ex",
-    "score": 34.0,
-    "published_at": "2026-10-03T00:43:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246251",
-    "title": "体感上， ChatGPT plus 5 小时额度少于 Claude pro",
-    "url": "https://www.v2ex.com/t/1246251",
-    "source": "v2ex",
-    "score": 34.0,
-    "published_at": "2026-10-03T07:31:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246247",
-    "title": "Antitravity 三方模型要变成 Opus 5.5 and sonnet 5.5 了",
-    "url": "https://www.v2ex.com/t/1246247",
-    "source": "v2ex",
-    "score": 34.0,
-    "published_at": "2026-10-03T07:10:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246216",
-    "title": "16U 落地机架 U 位设备布局与理线顺序，求 V 友帮看是否有坑",
-    "url": "https://www.v2ex.com/t/1246216",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-10-03T02:11:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691201978224787498",
-    "title": "为了脱离前端鄙视链，于是自己写个框架 - React 党看完沉默了",
-    "url": "https://juejin.cn/post/7691201978224787498",
-    "source": "juejin",
-    "score": 0.09611388,
-    "published_at": "2026-10-01T04:43:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691231137718353920",
-    "title": "2026 年 AI Agent 面试到底考什么？这套题库覆盖了 90% 的高频考点",
-    "url": "https://juejin.cn/post/7691231137718353920",
-    "source": "juejin",
-    "score": 0.10863177,
-    "published_at": "2026-10-01T16:06:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691270105432784931",
-    "title": "「vConsole MCP🛠️」我让 AI 直接看见任何 H5 的日志和请求帮你 debug",
-    "url": "https://juejin.cn/post/7691270105432784931",
-    "source": "juejin",
-    "score": 0.18355519,
-    "published_at": "2026-10-02T06:58:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691530846752538639",
-    "title": "LLM 面试必问的 8 个问题，答不上来直接淘汰",
-    "url": "https://juejin.cn/post/7691530846752538639",
-    "source": "juejin",
-    "score": 0.2500106,
-    "published_at": "2026-10-02T14:06:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691156905345679398",
-    "title": "GitHub 日榜趋势速报 | 2026-10-01",
-    "url": "https://juejin.cn/post/7691156905345679398",
-    "source": "juejin",
-    "score": 0.07790164,
-    "published_at": "2026-10-01T00:15:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:OpenCut-app/OpenCut",
-    "title": "OpenCut",
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:meituan-longcat/LongCat-Video",
-    "title": "LongCat-Video",
-    "url": "https://github.com/meituan-longcat/LongCat-Video",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:jamwithai/production-agentic-rag-course",
-    "title": "production-agentic-rag-course",
-    "url": "https://github.com/jamwithai/production-agentic-rag-course",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/claude-code",
-    "title": "claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:addyosmani/agent-skills",
-    "title": "agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cloudflare/cloudflare-os",
-    "title": "cloudflare-os",
-    "url": "https://github.com/cloudflare/cloudflare-os",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:thedotmack/claude-mem",
-    "title": "claude-mem",
-    "url": "https://github.com/thedotmack/claude-mem",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:pingdotgg/t3code",
-    "title": "t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:affaan-m/ECC",
-    "title": "ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49942706",
-    "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
-    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-10-03T09:36:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49931725",
-    "title": "Scientists invent underwater umbrellas to protect coral reefs",
-    "url": "https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-02T09:57:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49937540",
-    "title": "Make Tmux the OS",
-    "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-    "source": "hackernews",
-    "score": 92.0,
-    "published_at": "2026-10-02T19:29:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49942818",
-    "title": "GitHub's new dashboard experience now the default",
-    "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-10-03T09:59:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49943524",
-    "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
-    "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-10-03T12:02:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49942434",
-    "title": "Show HN: Offrun – manage every coding agent from one workspace",
-    "url": "https://offrun.dev/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-10-03T08:40:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49928361",
-    "title": "C++ Insights – See your source code with the eyes of a Compiler",
-    "url": "https://github.com/andreasfertig/cppinsights",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-01T23:53:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49943034",
-    "title": "Show HN: Germany's new sovereign AI model Kolibri",
-    "url": "https://tej.as/blog/aleph-alpha-kolibri",
-    "source": "hackernews",
-    "score": 67.0,
-    "published_at": "2026-10-03T10:43:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49943451",
-    "title": "The Escalation of War in Ethiopia",
-    "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-03T11:54:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:c105dq",
-    "title": "Respecting your users' dread of the clankers",
-    "url": "https://thoughtbot.com/blog/respecting-your-users-dread-of-the-clankers",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-02T16:03:08.641-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gjlxiz",
-    "title": "Problems and solutions to the modern desktop (Make tmux the OS)",
-    "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-03T03:17:27.437-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1rmsib",
-    "title": "The Era of Programming Languages Exploration is upon Us",
-    "url": "https://kirancodes.me/posts/log-end-of-pl.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-02T23:56:09.793-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:asoxjl",
-    "title": "gVisor is being donated to CNCF",
-    "url": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-10-02T21:41:38.394-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246170",
-    "title": "个人项目做到哪种程度你才愿意发出来给别人用呢？",
-    "url": "https://www.v2ex.com/t/1246170",
-    "source": "v2ex",
-    "score": 34.0,
-    "published_at": "2026-10-02T13:27:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246252",
-    "title": "没明白为什么突然就应激了",
-    "url": "https://www.v2ex.com/t/1246252",
-    "source": "v2ex",
-    "score": 34.0,
-    "published_at": "2026-10-03T07:33:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246145",
-    "title": "最近一段时间使用 ai 的惊人发现",
-    "url": "https://www.v2ex.com/t/1246145",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-10-02T09:59:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246158",
-    "title": "做了个真匿名的树洞",
-    "url": "https://www.v2ex.com/t/1246158",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-10-02T12:13:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246207",
-    "title": "这两年 AI 进步太快了 一年一个新模样",
-    "url": "https://www.v2ex.com/t/1246207",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-10-03T01:01:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246202",
-    "title": "GPT 6.1 秀",
-    "url": "https://www.v2ex.com/t/1246202",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-10-03T00:17:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246209",
-    "title": "大佬们，如果让你们推荐一本此生必读的书，你们会推荐哪一本？",
-    "url": "https://www.v2ex.com/t/1246209",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-10-03T01:27:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691284233897951295",
-    "title": "ai agent --- postgreSQL 关系型数据库",
-    "url": "https://juejin.cn/post/7691284233897951295",
-    "source": "juejin",
-    "score": 0.07436959,
-    "published_at": "2026-09-30T14:39:55+00:00",
     "summary": "",
     "key_points": []
   }
