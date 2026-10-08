@@ -1,5 +1,375 @@
 [
   {
+    "id": "lobsters:mosbat",
+    "title": "Thinking will become a hobby",
+    "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-08T07:23:28.962-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wks0s9",
+    "title": "Beyond the &",
+    "url": "https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-08T04:04:32.340-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ug8erg",
+    "title": "Migrating Git repos to SHA-256",
+    "url": "https://exa.y2k.diy/garden/git-sha256/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-08T05:00:39.813-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ycmpvw",
+    "title": "Property Testing with Agent Swarms",
+    "url": "https://recursion.wtf/posts/agents-and-property-tests/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-08T03:41:26.479-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:t4fwqd",
+    "title": "`specialArgs` considered harmful",
+    "url": "https://ysun.co/special/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-08T07:16:07.680-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nz3b1h",
+    "title": "jujutsu (jj) 0.46.0",
+    "url": "https://github.com/jj-vcs/jj/releases/tag/v0.46.0",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-10-08T04:02:42.520-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:en3vgh",
+    "title": "I've Been Deindexed by Google",
+    "url": "https://kennyqin.com/deindexed-by-google/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-08T02:59:30.045-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jiphkt",
+    "title": "A rant about APIs",
+    "url": "https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-08T01:07:14.732-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lhr4oy",
+    "title": "The people holding up the internet",
+    "url": "https://sheets.works/data-viz/holding-up-the-internet",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-10-08T03:18:39.422-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247026",
+    "title": "看到某界车刹车断的新闻",
+    "url": "https://www.v2ex.com/t/1247026",
+    "source": "v2ex",
+    "score": 158.0,
+    "published_at": "2026-10-08T05:56:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246969",
+    "title": "有在薅马斯克 X 低保工资的兄弟吗？进来交流下",
+    "url": "https://www.v2ex.com/t/1246969",
+    "source": "v2ex",
+    "score": 174.0,
+    "published_at": "2026-10-08T03:03:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693451894564765696",
+    "title": "当 AI 承包了 90% 的代码，架构师那致命的 10% 到底在控什么？",
+    "url": "https://juejin.cn/post/7693451894564765696",
+    "source": "juejin",
+    "score": 0.78757839,
+    "published_at": "2026-10-08T00:24:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693689217004732459",
+    "title": "RAG 面试 6 连问，从原理到优化全部覆盖",
+    "url": "https://juejin.cn/post/7693689217004732459",
+    "source": "juejin",
+    "score": 0.37932333,
+    "published_at": "2026-10-07T15:24:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693805723601764362",
+    "title": "Agent 天天挂在嘴边的沙箱，到底是个啥？",
+    "url": "https://juejin.cn/post/7693805723601764362",
+    "source": "juejin",
+    "score": 0.80874627,
+    "published_at": "2026-10-08T01:36:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693414422438723626",
+    "title": "AI 帮我投资 85 天，最多赚到 3733 元",
+    "url": "https://juejin.cn/post/7693414422438723626",
+    "source": "juejin",
+    "score": 1.32221258,
+    "published_at": "2026-10-07T12:55:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693481478181584932",
+    "title": "A 社为什么反超了",
+    "url": "https://juejin.cn/post/7693481478181584932",
+    "source": "juejin",
+    "score": 0.47391073,
+    "published_at": "2026-10-07T13:54:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693351700208140288",
+    "title": "Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏",
+    "url": "https://juejin.cn/post/7693351700208140288",
+    "source": "juejin",
+    "score": 0.27600661,
+    "published_at": "2026-10-07T03:35:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693909029785042959",
+    "title": "Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了",
+    "url": "https://juejin.cn/post/7693909029785042959",
+    "source": "juejin",
+    "score": 1.62804201,
+    "published_at": "2026-10-08T04:27:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694107051320311827",
+    "title": "做全栈是前端骗局还是出路？",
+    "url": "https://juejin.cn/post/7694107051320311827",
+    "source": "juejin",
+    "score": 3.52807853,
+    "published_at": "2026-10-08T08:36:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693225151681560586",
+    "title": "C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB",
+    "url": "https://juejin.cn/post/7693225151681560586",
+    "source": "juejin",
+    "score": 0.28033787,
+    "published_at": "2026-10-06T16:14:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693805723602157578",
+    "title": "一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行",
+    "url": "https://juejin.cn/post/7693805723602157578",
+    "source": "juejin",
+    "score": 1.53939114,
+    "published_at": "2026-10-08T02:09:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:liquidslr/system-design-notes",
+    "title": "system-design-notes",
+    "url": "https://github.com/liquidslr/system-design-notes",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:storytold/artcraft",
+    "title": "artcraft",
+    "url": "https://github.com/storytold/artcraft",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/knowledge-work-plugins",
+    "title": "knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50000676",
+    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "source": "hackernews",
+    "score": 84.0,
+    "published_at": "2026-10-08T00:46:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49958194",
+    "title": "Time Travel in Braid (2015)",
+    "url": "https://qntm.org/braid",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-04T21:42:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49983765",
+    "title": "Bloody Cavemen",
+    "url": "https://www.lrb.co.uk/the-paper/v48/n18/edmund-gordon/bloody-cavemen",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-06T20:39:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49975158",
+    "title": "New repository settings for configuring pull request access",
+    "url": "https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-10-06T07:01:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50002426",
+    "title": "Classic PC demoscene productions running natively in the browser",
+    "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+    "source": "hackernews",
+    "score": 110.0,
+    "published_at": "2026-10-08T06:29:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50002505",
+    "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+    "url": "https://dat-ecosystem.org/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-10-08T06:43:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50003677",
+    "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
+    "url": "https://www.ahmath.org/statements",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-08T09:29:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49997718",
+    "title": "The Mathocalypse",
+    "url": "https://scottaaronson.blog/?p=10169",
+    "source": "hackernews",
+    "score": 289.0,
+    "published_at": "2026-10-07T19:33:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50004777",
+    "title": "Anne Carson wins Nobel Prize in literature 2026",
+    "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-10-08T11:58:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50003107",
+    "title": "OpenAI Withdraws 3 Math Papers",
+    "url": "https://github.com/openai/math/blob/main/history.md",
+    "source": "hackernews",
+    "score": 106.0,
+    "published_at": "2026-10-08T08:08:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50005017",
+    "title": "Telnet BBS Guide",
+    "url": "https://www.telnetbbsguide.com/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-08T12:28:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50004790",
+    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+    "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-08T12:00:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49980346",
+    "title": "The Slow Formation of Durable Software",
+    "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-10-06T15:54:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:jfxvvk",
     "title": "On using AI as a writing assistant",
     "url": "https://ninashamsi.com/writing/i-am-a-bad-writer.html",
@@ -4626,376 +4996,6 @@
     "source": "juejin",
     "score": 0.16400965,
     "published_at": "2026-10-03T15:06:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49951218",
-    "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-    "url": "https://github.com/PowderworksCode/headstart",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-04T06:26:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49936017",
-    "title": "Dirty Optimization Secrets (C for Playdate)",
-    "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-02T17:16:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49934351",
-    "title": "Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence",
-    "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-02T15:09:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49951881",
-    "title": "In Ukraine, distributed renewables foil Russia's assaults",
-    "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-    "source": "hackernews",
-    "score": 89.0,
-    "published_at": "2026-10-04T08:39:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49935097",
-    "title": "gpuvis: GPU Trace Visualizer",
-    "url": "https://github.com/mikesart/gpuvis",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-02T16:04:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49952029",
-    "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-    "url": "https://gamehistory.org/5k-magazines/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-10-04T09:07:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dldhpw",
-    "title": "Rust's derive often implies inline",
-    "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
-    "source": "lobsters",
-    "score": 13.0,
-    "published_at": "2026-10-03T20:41:57.843-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246346",
-    "title": "IINA 1.5.0 发布了",
-    "url": "https://www.v2ex.com/t/1246346",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-10-04T02:48:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246332",
-    "title": "公司让开发个某书刷阅读系统",
-    "url": "https://www.v2ex.com/t/1246332",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-10-04T00:07:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246308",
-    "title": "国庆参加表哥的婚礼，让我有点不同的人生感悟",
-    "url": "https://www.v2ex.com/t/1246308",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-10-03T14:53:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246264",
-    "title": "闲来无事，梳理了下自己最近的 ai 订阅",
-    "url": "https://www.v2ex.com/t/1246264",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-10-03T09:07:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691498553260851240",
-    "title": "DuckDB：一个正在改变数据分析方式的数据库",
-    "url": "https://juejin.cn/post/7691498553260851240",
-    "source": "juejin",
-    "score": 0.09659786,
-    "published_at": "2026-10-02T05:45:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691823753387376649",
-    "title": "云端部署阿里 Qwen-Image-2.1 保姆级教程",
-    "url": "https://juejin.cn/post/7691823753387376649",
-    "source": "juejin",
-    "score": 0.09344711,
-    "published_at": "2026-10-03T02:20:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691155417935855642",
-    "title": "仓颉版 Tauri：基于轻量化线程与纯血鸿蒙架构的下一代 Web 混合开发利器",
-    "url": "https://juejin.cn/post/7691155417935855642",
-    "source": "juejin",
-    "score": 0.05844949,
-    "published_at": "2026-10-01T04:07:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691835382221389824",
-    "title": "前端转全栈笔记：讲框架之前，先把 TypeScript 这关过了",
-    "url": "https://juejin.cn/post/7691835382221389824",
-    "source": "juejin",
-    "score": 0.23771121,
-    "published_at": "2026-10-02T12:59:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49950052",
-    "title": "Religious scholars met with Anthropic",
-    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-10-04T02:34:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49949588",
-    "title": "We're working on a new RuneScape MMO",
-    "url": "https://play.runescape.com/4",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-04T01:12:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49944227",
-    "title": "I quit OpenAI because its culture is broken",
-    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-    "source": "hackernews",
-    "score": 129.0,
-    "published_at": "2026-10-03T13:46:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49942130",
-    "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
-    "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-03T07:32:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49941764",
-    "title": "The characters of plastics (2024)",
-    "url": "https://yarchive.net/blog/plastics/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-03T06:14:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49908570",
-    "title": "Your body of work thinks back at you",
-    "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-09-30T13:20:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49940482",
-    "title": "Math's pedagogical curse – Grant Sanderson [video]",
-    "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-03T01:11:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49938326",
-    "title": "Three AI agents, two countries, and one uneven world wide web",
-    "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-02T20:39:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49949235",
-    "title": "We're going to need default hard budget caps on pretty much everything",
-    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-    "source": "hackernews",
-    "score": 319.0,
-    "published_at": "2026-10-04T00:20:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49910462",
-    "title": "So you think you could be an electrician?",
-    "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-    "source": "hackernews",
-    "score": 102.0,
-    "published_at": "2026-09-30T15:43:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49950554",
-    "title": "Why don't more developers \"use the platform\"?",
-    "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-04T04:10:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49949438",
-    "title": "Tell HN: Bob Cringely has died",
-    "url": "https://news.ycombinator.com/item?id=49949438",
-    "source": "hackernews",
-    "score": 290.0,
-    "published_at": "2026-10-04T00:50:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kt0yxd",
-    "title": "Why I recommend Renovate over any other dependency update tools (2024)",
-    "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-03T17:54:52.919-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dqp0oc",
-    "title": "Customization: Optimizing Compiler Technology for SELF, a Dynamically-Typed Object-Oriented Programming Language (1989)",
-    "url": "https://dl.acm.org/doi/epdf/10.1145/74818.74831",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-03T15:59:46.524-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:srduzv",
-    "title": "Why don’t more developers \"use the platform\"?",
-    "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-03T16:35:28.658-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49928196",
-    "title": "The Softmax function and its derivative",
-    "url": "https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-01T23:24:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946707",
-    "title": "How to hack time, with C2PA",
-    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-03T18:52:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49941641",
-    "title": "Memory-Safe WebP Decoding",
-    "url": "https://halide.cx/blog/wpd/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-03T05:45:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49945352",
-    "title": "Docker has always used microVMs (well since 2016)",
-    "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-03T15:55:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49945933",
-    "title": "Agents don't need memory, they need documentation",
-    "url": "https://liao.gg/blog/agents-dont-need-memory",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-10-03T17:03:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49943685",
-    "title": "Watson Jr. memo about CDC 6600 (1963)",
-    "url": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-03T12:27:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49942103",
-    "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-    "url": "https://thoreaubasic.com/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-03T07:28:54+00:00",
     "summary": "",
     "key_points": []
   }
