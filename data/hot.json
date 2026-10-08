@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:jfxvvk",
+    "title": "On using AI as a writing assistant",
+    "url": "https://ninashamsi.com/writing/i-am-a-bad-writer.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-07T22:07:41.552-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246883",
+    "title": "国庆假期回来后第一天好像人生陷入了一种虚无的状态",
+    "url": "https://www.v2ex.com/t/1246883",
+    "source": "v2ex",
+    "score": 92.0,
+    "published_at": "2026-10-08T00:02:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246863",
+    "title": "AI 有沒有可能真的产生意识呢？",
+    "url": "https://www.v2ex.com/t/1246863",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-10-07T16:42:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246948",
+    "title": "交通事故责任认定",
+    "url": "https://www.v2ex.com/t/1246948",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-10-08T02:26:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246902",
+    "title": "国庆自驾来回两千公里有感",
+    "url": "https://www.v2ex.com/t/1246902",
+    "source": "v2ex",
+    "score": 142.0,
+    "published_at": "2026-10-08T01:27:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246888",
+    "title": "很多决定都是在很短时间内完成的，趁着假期尾巴全力倚己拿下人生第一辆小车车",
+    "url": "https://www.v2ex.com/t/1246888",
+    "source": "v2ex",
+    "score": 194.0,
+    "published_at": "2026-10-08T00:48:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246918",
+    "title": "裸辞三个月：貌似要结束地球 online 了",
+    "url": "https://www.v2ex.com/t/1246918",
+    "source": "v2ex",
+    "score": 202.0,
+    "published_at": "2026-10-08T01:53:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246897",
+    "title": "生活在小县城的孩子怎么开阔眼界，提高认知？",
+    "url": "https://www.v2ex.com/t/1246897",
+    "source": "v2ex",
+    "score": 208.0,
+    "published_at": "2026-10-08T01:17:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246923",
+    "title": "想卖掉房子 压力太大了",
+    "url": "https://www.v2ex.com/t/1246923",
+    "source": "v2ex",
+    "score": 266.0,
+    "published_at": "2026-10-08T01:59:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246877",
+    "title": "大学的错综复杂的宿舍关系",
+    "url": "https://www.v2ex.com/t/1246877",
+    "source": "v2ex",
+    "score": 312.0,
+    "published_at": "2026-10-07T22:42:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7692498648035819563",
+    "title": "一段需求、零素材，Claude Code 派了 33 个代理给我做了个 3D 动作游戏",
+    "url": "https://juejin.cn/post/7692498648035819563",
+    "source": "juejin",
+    "score": 0.04996702,
+    "published_at": "2026-10-05T14:25:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693160537133203471",
+    "title": "SVG和Canvas，前端里的两支“画笔”，用的时候怎么选择？",
+    "url": "https://juejin.cn/post/7693160537133203471",
+    "source": "juejin",
+    "score": 0.33868468,
+    "published_at": "2026-10-07T06:58:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693712140221792271",
+    "title": "DeepSeek Harness 桌面端来啦！更便捷更安全的选择",
+    "url": "https://juejin.cn/post/7693712140221792271",
+    "source": "juejin",
+    "score": 2.21333144,
+    "published_at": "2026-10-08T00:49:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694064588329320490",
+    "title": "Android 以后可能不会再有横竖屏适配了",
+    "url": "https://juejin.cn/post/7694064588329320490",
+    "source": "juejin",
+    "score": 2.80231145,
+    "published_at": "2026-10-08T01:13:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693579496969486382",
+    "title": "别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？",
+    "url": "https://juejin.cn/post/7693579496969486382",
+    "source": "juejin",
+    "score": 3.24892962,
+    "published_at": "2026-10-08T01:11:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693144953569493043",
+    "title": "9、古代没有程序员，但蒲松龄们早就被\"裁员\"过了",
+    "url": "https://juejin.cn/post/7693144953569493043",
+    "source": "juejin",
+    "score": 0.36395957,
+    "published_at": "2026-10-06T14:04:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693757919828901923",
+    "title": "🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了",
+    "url": "https://juejin.cn/post/7693757919828901923",
+    "source": "juejin",
+    "score": 4.76347853,
+    "published_at": "2026-10-08T01:37:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49959280",
+    "title": "The 15-year search for a band that charted once and vanished",
+    "url": "https://shahidhussain.com/writing/search-for-salvage/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-05T00:06:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49971347",
+    "title": "ENIAC Programmers (2011)",
+    "url": "https://www.columbia.edu/cu/computinghistory/eniac.html",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-05T21:50:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49977351",
+    "title": "A minimal kernel in Swift, running in QEMU",
+    "url": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-10-06T12:20:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49996406",
+    "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+    "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-10-07T17:59:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49998066",
+    "title": "'Jonathan' is the oldest land animal on Earth",
+    "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+    "source": "hackernews",
+    "score": 108.0,
+    "published_at": "2026-10-07T20:01:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50001580",
+    "title": "A 100x faster* alternative to homebrew",
+    "url": "https://github.com/zerobrewhq/zerobrew",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-08T03:23:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49982445",
+    "title": "Cleo (Mathematician)",
+    "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-10-06T18:49:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49969073",
+    "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+    "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+    "source": "hackernews",
+    "score": 127.0,
+    "published_at": "2026-10-05T19:07:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49970767",
+    "title": "Living off-grid: Hundred Rabbits",
+    "url": "https://100r.ca/site/home.html",
+    "source": "hackernews",
+    "score": 105.0,
+    "published_at": "2026-10-05T21:08:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50002008",
+    "title": "Terence Tao Responds to the OpenAI Math Drop",
+    "url": "https://mathstodon.xyz/@tao/117395269325940185",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-08T05:14:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:zlhyss",
     "title": "The Mathocalypse",
     "url": "https://scottaaronson.blog/?p=10169",
@@ -4726,276 +4996,6 @@
     "source": "hackernews",
     "score": 13.0,
     "published_at": "2026-10-03T07:28:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49947472",
-    "title": "Surely you have ultra-wideband radios on your bins too?",
-    "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-10-03T20:27:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49941572",
-    "title": "Haunted by the ghosts of materialism",
-    "url": "https://blog.coredump.cx/p/haunted-by-the-ghosts-of-materialism",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-03T05:30:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49927514",
-    "title": "Gboard Conveyor Belt Version",
-    "url": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-01T21:54:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49948438",
-    "title": "Big Balls Now Exposed to Serious Criminal Charges in at Least Six States",
-    "url": "https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-10-03T22:35:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49948332",
-    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-10-03T22:18:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946228",
-    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-10-03T17:44:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946526",
-    "title": "What Meta got right with Muse",
-    "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-03T18:23:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49940877",
-    "title": "New York City should carefully measure a new tree",
-    "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-03T02:28:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946895",
-    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-10-03T19:14:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49947631",
-    "title": "Reasons I didn't become an EMT, ranked",
-    "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-10-03T20:49:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946355",
-    "title": "Treachery in the Rodin Museum 3D scan verdict",
-    "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-10-03T18:01:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49948254",
-    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-    "source": "hackernews",
-    "score": 145.0,
-    "published_at": "2026-10-03T22:07:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:opwgtj",
-    "title": "BSides Orlando 2026 Badge",
-    "url": "https://github.com/bsidesorlando/2026-badge",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-03T13:57:32.782-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hfq43j",
-    "title": "Rust, In Sickness & In Health",
-    "url": "https://www.youtube.com/watch?v=3kbPyuAtk7g",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-03T15:37:40.362-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hk0ohb",
-    "title": "System-level ad-blocking in Android",
-    "url": "https://kevinboone.me/adblock.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-03T15:43:41.881-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691498553261342760",
-    "title": "pnpm 12 升级实测",
-    "url": "https://juejin.cn/post/7691498553261342760",
-    "source": "juejin",
-    "score": 0.16120603,
-    "published_at": "2026-10-02T12:36:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946321",
-    "title": "Pop!_OS bans AI-generated code from much of its codebase",
-    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-10-03T17:57:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946827",
-    "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
-    "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-03T19:07:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946403",
-    "title": "ADHD, autism or complex trauma? [pdf]",
-    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
-    "source": "hackernews",
-    "score": 172.0,
-    "published_at": "2026-10-03T18:08:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946873",
-    "title": "Our AI Midwife",
-    "url": "https://www.astralcodexten.com/p/our-ai-midwife",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-10-03T19:12:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49931993",
-    "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-    "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-10-02T10:40:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49923602",
-    "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
-    "url": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-10-01T16:11:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49927295",
-    "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
-    "url": "https://github.com/graphene-data/graphene",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-01T21:29:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946076",
-    "title": "Vx – One Language, Every Chip",
-    "url": "https://vxlang.org/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-03T17:23:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946845",
-    "title": "RSS Feed Best Practices (2022)",
-    "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-03T19:09:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49937304",
-    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-    "url": "https://pipod.dev/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-02T19:10:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49946567",
-    "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-    "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-10-03T18:29:30+00:00",
     "summary": "",
     "key_points": []
   }
