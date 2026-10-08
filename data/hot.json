@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:ibtc9r",
+    "title": "Rolling the Root Key (Update)",
+    "url": "https://ispcol.potaroo.net/2026-10/kskroll.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-08T16:45:09.893-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9mykk7",
+    "title": "Beauty in DVD Menus",
+    "url": "https://vale.rocks/posts/dvd-menus",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-10-08T10:00:23.959-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dcrosf",
+    "title": "64-Day Certificate Lifetimes Coming Feb 2027",
+    "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-10-08T14:06:25.805-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1246943",
+    "title": "AI 时代的十字路口",
+    "url": "https://www.v2ex.com/t/1246943",
+    "source": "v2ex",
+    "score": 142.0,
+    "published_at": "2026-10-08T02:24:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693354909602627647",
+    "title": "面试官让我手写一个 Tool Use，我用了 3 种方案",
+    "url": "https://juejin.cn/post/7693354909602627647",
+    "source": "juejin",
+    "score": 0.1601532,
+    "published_at": "2026-10-07T01:40:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50007353",
+    "title": "New gTLD Application for .lan",
+    "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
+    "source": "hackernews",
+    "score": 96.0,
+    "published_at": "2026-10-08T15:51:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50006012",
+    "title": "Orkut.com",
+    "url": "https://orkut.com/",
+    "source": "hackernews",
+    "score": 131.0,
+    "published_at": "2026-10-08T14:09:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49986740",
+    "title": "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
+    "url": "https://huggingface.co/joe-gibbs/terrainsr",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-07T01:24:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50009634",
+    "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+    "url": "https://pocketty.app/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-08T18:11:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49985548",
+    "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+    "url": "https://news.ycombinator.com/item?id=49985548",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-10-06T23:16:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49994663",
+    "title": "The dawn of the age of the exoskeleton",
+    "url": "https://theconversation.com/the-dawn-of-the-age-of-the-exoskeleton-281804",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-10-07T15:59:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50000985",
+    "title": "US man given prison sentence for bot-farming music streams",
+    "url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-10-08T01:33:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49996149",
+    "title": "DuckDB Ducklake",
+    "url": "https://github.com/duckdb/ducklake",
+    "source": "hackernews",
+    "score": 104.0,
+    "published_at": "2026-10-07T17:40:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49988516",
+    "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+    "url": "https://github.com/ymcrcat/rgpu",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-07T05:15:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50004115",
+    "title": "OLED burn-in test: 30-month update",
+    "url": "https://www.techspot.com/article/3178-oled-burn-in-test/",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-10-08T10:34:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50008047",
+    "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+    "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+    "source": "hackernews",
+    "score": 91.0,
+    "published_at": "2026-10-08T16:37:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49996639",
+    "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
+    "url": "https://www.nature.com/articles/s41586-026-10546-z",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-10-07T18:14:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49984159",
+    "title": "A Terminal Protocol for Program Status (OSC 7501)",
+    "url": "https://mitchellh.com/writing/program-status-osc7501",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-10-06T21:08:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49992994",
+    "title": "ETH-68: Ethernet Audio Interface for Linux",
+    "url": "https://naturalsystems.io/eth68",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-10-07T13:58:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50011928",
+    "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+    "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+    "source": "hackernews",
+    "score": 117.0,
+    "published_at": "2026-10-08T20:42:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50003796",
+    "title": "Yes, and",
+    "url": "https://htmx.org/essays/yes-and/",
+    "source": "hackernews",
+    "score": 111.0,
+    "published_at": "2026-10-08T09:48:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50013902",
+    "title": "OpenAI, the Partition Principle, and Mathematics",
+    "url": "https://karagila.org/2026/openai-pp/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-08T23:29:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49986882",
+    "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+    "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+    "source": "hackernews",
+    "score": 319.0,
+    "published_at": "2026-10-07T01:41:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50011999",
+    "title": "AI-ready biological data: $1.8B global commitment",
+    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-10-08T20:46:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49995495",
+    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+    "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+    "source": "hackernews",
+    "score": 327.0,
+    "published_at": "2026-10-07T16:56:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50000488",
+    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+    "source": "hackernews",
+    "score": 339.0,
+    "published_at": "2026-10-08T00:14:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50009295",
+    "title": "Theranos.world",
+    "url": "https://www.theranos.world/",
+    "source": "hackernews",
+    "score": 226.0,
+    "published_at": "2026-10-08T17:51:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:pioj21",
     "title": "The Performance Cost of RwLock in Our Read-Heavy Workload",
     "url": "https://pranitha.dev/posts/rwlock-vs-lockfree/",
@@ -4726,276 +4996,6 @@
     "source": "hackernews",
     "score": 24.0,
     "published_at": "2026-10-03T12:19:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49957116",
-    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-    "url": "https://github.com/omlahore/RemoveMacAI",
-    "source": "hackernews",
-    "score": 242.0,
-    "published_at": "2026-10-04T19:42:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:eoibah",
-    "title": "Iroh global content discovery",
-    "url": "https://www.iroh.computer/blog/iroh-global-content-discovery",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-04T14:19:42.619-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:x5ug70",
-    "title": "Thoreau BASIC",
-    "url": "https://thoreaubasic.com/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-04T11:37:33.256-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jba52r",
-    "title": "Self-hosted HTTP tunnels with SSH and nginx",
-    "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-04T14:08:58.378-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ul9krj",
-    "title": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
-    "url": "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-04T13:49:55.122-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246367",
-    "title": "[开源] 我做了一个没有删除和升级权限的链上论坛",
-    "url": "https://www.v2ex.com/t/1246367",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-10-04T06:51:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692387846459654178",
-    "title": "Nuxt 中使用 useHead 优化 SEO 与 GEO",
-    "url": "https://juejin.cn/post/7692387846459654178",
-    "source": "juejin",
-    "score": 0.07950765,
-    "published_at": "2026-10-03T11:25:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:DietrichGebert/ponytail",
-    "title": "ponytail",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49933069",
-    "title": "L-systems generate weevils, pizza toppings, and matriarchal lineages",
-    "url": "https://blog.plover.com/2026/09/25/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-02T13:00:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49955297",
-    "title": "Blindsight (Watts Novel)",
-    "url": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-10-04T16:25:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49956148",
-    "title": "Building a RAG pipeline for semantic code search",
-    "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-04T17:51:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49935250",
-    "title": "A Minsky machine in ncurses terminfo",
-    "url": "https://seriot.ch/computation/terminfo/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-02T16:17:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49934078",
-    "title": "Results from the Jane Street hardware puzzle",
-    "url": "https://blog.janestreet.com/asic-puzzle-results/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-02T14:42:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49947565",
-    "title": "'Neanderthals Among Us' review",
-    "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-03T20:41:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49933461",
-    "title": "A map of every lighthouse",
-    "url": "https://mapped.earth/lighthouses/world",
-    "source": "hackernews",
-    "score": 102.0,
-    "published_at": "2026-10-02T13:45:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hucih9",
-    "title": "A Mere Mortal's Introduction to JIT Vulnerabilities in JavaScript Engines",
-    "url": "https://trustfoundry.net/blog/jit-vulnerabilities-javascript-engines",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-04T06:53:51.930-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lnmgaw",
-    "title": "Flatpak from the CLI sucks",
-    "url": "https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-04T10:21:34.965-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wbpt5y",
-    "title": "Improving and Stabilizing the racoon2 IKE Daemon in NetBSD",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-04T07:46:13.419-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:g0q8ub",
-    "title": "Obelisk 0.42: Durable Agents, Layered Sandboxes",
-    "url": "https://obeli.sk/blog/announcing-obelisk-0-42/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-04T09:30:55.967-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4bzoft",
-    "title": "The complement of true is true, except when it's false",
-    "url": "https://dryperspective.github.io/posts/complement-of-true/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-10-04T07:30:26.844-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246345",
-    "title": "大模型对 Vuejs 支持不如 react：",
-    "url": "https://www.v2ex.com/t/1246345",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-10-04T02:23:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246403",
-    "title": "想入个 macmini 做 iOS 开发 16g 够用吗",
-    "url": "https://www.v2ex.com/t/1246403",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-10-04T10:45:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246421",
-    "title": "感觉程序员行业有点死了",
-    "url": "https://www.v2ex.com/t/1246421",
-    "source": "v2ex",
-    "score": 70.0,
-    "published_at": "2026-10-04T13:23:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246355",
-    "title": "实测， 6.1sol 不降智真的太能打了，我感觉不比 6astra 差，但是价格只有 5 分之一，一天下来十来块钱随便蹬，真的不要太爽了。",
-    "url": "https://www.v2ex.com/t/1246355",
-    "source": "v2ex",
-    "score": 76.0,
-    "published_at": "2026-10-04T03:44:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691876916195016719",
-    "title": "Space-Bunny 匿名模型观察：0.03 倍积分、1M 上下文，以及模型选型的算术题",
-    "url": "https://juejin.cn/post/7691876916195016719",
-    "source": "juejin",
-    "score": 0.15122483,
-    "published_at": "2026-10-03T05:57:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691898006993010698",
-    "title": "Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透",
-    "url": "https://juejin.cn/post/7691898006993010698",
-    "source": "juejin",
-    "score": 0.06666335,
-    "published_at": "2026-10-03T04:40:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692485970524373026",
-    "title": " Meta 分享怎么用 AI 迁移 Compose 项目不烧心",
-    "url": "https://juejin.cn/post/7692485970524373026",
-    "source": "juejin",
-    "score": 0.64400455,
-    "published_at": "2026-10-04T00:42:55+00:00",
     "summary": "",
     "key_points": []
   }
