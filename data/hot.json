@@ -1,5 +1,285 @@
 [
   {
+    "id": "lobsters:pioj21",
+    "title": "The Performance Cost of RwLock in Our Read-Heavy Workload",
+    "url": "https://pranitha.dev/posts/rwlock-vs-lockfree/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-08T06:58:52.090-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mpl36m",
+    "title": "Composition over Inheritance Explained using Retro Games",
+    "url": "https://www.youtube.com/watch?v=HNzP1aLAffM&list=PLCl5BUbK0jXt5l18S5UNAoUc4eQ2PJDye",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-08T13:52:25.143-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:aco14q",
+    "title": "The history of the Hetzner Cloud network stack",
+    "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-08T10:02:28.693-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:axmhji",
+    "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
+    "url": "https://arxiv.org/abs/2610.08144",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-08T12:16:42.874-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:3vfu09",
+    "title": "The Missing Piece in Rust Error Handling",
+    "url": "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-08T09:43:19.489-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sdlhhs",
+    "title": "Ending the Casuarina Linux Experiment",
+    "url": "https://casuarina.org/news/ending-the-casuarina-linux-experiment/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-08T08:08:00.550-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qfzzmi",
+    "title": "Extending Guix",
+    "url": "https://guix.gnu.org/en/blog/2026/extending-guix/",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-10-08T08:20:22.582-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jmqi5h",
+    "title": "Gentoo infrastructure sponsors wanted",
+    "url": "https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html",
+    "source": "lobsters",
+    "score": 22.0,
+    "published_at": "2026-10-08T04:23:49.640-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694124645507940379",
+    "title": "国庆七天，AI圈没一天消停",
+    "url": "https://juejin.cn/post/7694124645507940379",
+    "source": "juejin",
+    "score": 1.20663939,
+    "published_at": "2026-10-08T09:49:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50009965",
+    "title": "Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties in France",
+    "url": "https://torrentfreak.com/cloudflare-keeps-1-1-1-1-out-of-piracy-blocking-escapes-penalties-in-france/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-08T18:32:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49965117",
+    "title": "Float and integer arithmetic follow two different paradigms",
+    "url": "https://blog.pkh.me/p/49-float-and-integer-arithmetic-follow-two-different-paradigms.html",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-10-05T14:09:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50008642",
+    "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+    "url": "https://github.com/edgedelta/project-arena",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-08T17:13:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50009654",
+    "title": "Serverless Horrors $10,811.41",
+    "url": "https://serverlesshorrors.com/all/cloudflare-108k/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-08T18:12:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50009580",
+    "title": "Show HN: Artvinto – Vintage posters and fine art prints",
+    "url": "https://www.artvinto.com",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-08T18:08:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50002650",
+    "title": "OpenAI withdraws three mathematical results",
+    "url": "https://twitter.com/danintheory/status/2108065033070789090",
+    "source": "hackernews",
+    "score": 202.0,
+    "published_at": "2026-10-08T07:05:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50005608",
+    "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+    "url": "https://github.com/SamsungLabs/LittleBit",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-10-08T13:29:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50006366",
+    "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+    "url": "https://news.ycombinator.com/item?id=50006366",
+    "source": "hackernews",
+    "score": 573.0,
+    "published_at": "2026-10-08T14:39:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50010470",
+    "title": "The value of not getting to the point (2015)",
+    "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-08T19:04:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50007519",
+    "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+    "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
+    "source": "hackernews",
+    "score": 173.0,
+    "published_at": "2026-10-08T16:03:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50008685",
+    "title": "The Deeply Impersonal Personalized Recruiter Mail",
+    "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-08T17:15:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50010170",
+    "title": "What ArtCraft's Vibe-Coded Apps Say About Adobe",
+    "url": "https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-08T18:44:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50008187",
+    "title": "OpenAI annualised revenues $20B less than previously signalled",
+    "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+    "source": "hackernews",
+    "score": 176.0,
+    "published_at": "2026-10-08T16:45:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49998992",
+    "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+    "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-10-07T21:25:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50005527",
+    "title": "Beauty in DVD Menus",
+    "url": "https://vale.rocks/posts/dvd-menus",
+    "source": "hackernews",
+    "score": 197.0,
+    "published_at": "2026-10-08T13:22:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50007764",
+    "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+    "url": "https://openrouter.ai/stepfun/step-5-preview",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-10-08T16:20:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50006832",
+    "title": "Trump administration is suspending Microsoft from a green card program",
+    "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+    "source": "hackernews",
+    "score": 606.0,
+    "published_at": "2026-10-08T15:15:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50009904",
+    "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
+    "url": "https://github.com/p10node/k10s",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-08T18:29:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50008427",
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "source": "hackernews",
+    "score": 197.0,
+    "published_at": "2026-10-08T16:59:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:mosbat",
     "title": "Thinking will become a hobby",
     "url": "https://www.spinellis.gr/blog/20261008/?li261008",
@@ -4716,286 +4996,6 @@
     "source": "juejin",
     "score": 0.64400455,
     "published_at": "2026-10-04T00:42:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:antirez/ds4",
-    "title": "ds4",
-    "url": "https://github.com/antirez/ds4",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:garrytan/gstack",
-    "title": "gstack",
-    "url": "https://github.com/garrytan/gstack",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:caddyserver/caddy",
-    "title": "caddy",
-    "url": "https://github.com/caddyserver/caddy",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:calesthio/OpenMontage",
-    "title": "OpenMontage",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:earthtojake/text-to-cad",
-    "title": "text-to-cad",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:tester-army/e2e",
-    "title": "e2e",
-    "url": "https://github.com/tester-army/e2e",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49951641",
-    "title": "What's the Future for Pure Math Research in the Age of AI?",
-    "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-04T07:53:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49953116",
-    "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
-    "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-10-04T11:58:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49954745",
-    "title": "RuneScape's Position on Gen AI",
-    "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-04T15:29:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49935038",
-    "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-    "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-02T16:01:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49939637",
-    "title": "The Heilbronn Problem",
-    "url": "https://math.tejstead.com/heilbronn/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-02T23:01:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49952111",
-    "title": "Show HN: AI search for every photo and every frame of video on macOS",
-    "url": "https://github.com/allenv0/SCM",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-10-04T09:24:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49930439",
-    "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
-    "url": "https://niklasroy.com/gtc/",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-10-02T06:33:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49954882",
-    "title": "Car is a smartphone on wheels. Here's who's listening",
-    "url": "https://automatictransmission.khoury.northeastern.edu/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-04T15:43:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49953495",
-    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-    "url": "https://github.com/Niko1221/Strata",
-    "source": "hackernews",
-    "score": 225.0,
-    "published_at": "2026-10-04T12:51:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rsx2a6",
-    "title": "Our RISC-V emulator PasRISCV",
-    "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-04T03:40:38.612-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uuxij7",
-    "title": "Models ranked by normative score across twelve paradigms, once neutral and once human-primed",
-    "url": "https://cognit.rajtilak.tech",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-04T04:21:18.571-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xpyahx",
-    "title": "grubby: static site generator for git repos written in Ruby",
-    "url": "https://git.btxx.org/grubby",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-04T05:28:57.685-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xkwswd",
-    "title": "We’re going to need default hard budget caps on pretty much everything",
-    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-04T02:58:14.077-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qcgjpu",
-    "title": "Kolibri: A Sovereign Open-Weight Model",
-    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-04T02:57:55.868-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246360",
-    "title": "下周 25 周岁，公司没了，想尝试跨考 28 考研的科软，求意见",
-    "url": "https://www.v2ex.com/t/1246360",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-10-04T04:49:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246315",
-    "title": "还有人说这波 Personal AI Agent 是伪需求？",
-    "url": "https://www.v2ex.com/t/1246315",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-10-03T16:05:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246331",
-    "title": "macOS 上 ChatGPT 客户端长期无法使用",
-    "url": "https://www.v2ex.com/t/1246331",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-10-04T00:04:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246350",
-    "title": "claude 的 100 刀在苹果商店要加 24 刀税,如何避免?",
-    "url": "https://www.v2ex.com/t/1246350",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-10-04T03:10:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691223664160112703",
-    "title": "半年翻倍！OpenAI再融300亿，估值冲到1.4万亿",
-    "url": "https://juejin.cn/post/7691223664160112703",
-    "source": "juejin",
-    "score": 0.05522673,
-    "published_at": "2026-10-01T11:14:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691533849411829779",
-    "title": "对于LangGraph的时间旅行底层机制的理解",
-    "url": "https://juejin.cn/post/7691533849411829779",
-    "source": "juejin",
-    "score": 0.15624223,
-    "published_at": "2026-10-03T05:28:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691399863522918438",
-    "title": "GitHub 周榜趋势速报 | 2026-10-02",
-    "url": "https://juejin.cn/post/7691399863522918438",
-    "source": "juejin",
-    "score": 0.04953049,
-    "published_at": "2026-10-02T09:44:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691774360802246671",
-    "title": "LangSmith：从链路追踪到 RAG 自动化评估",
-    "url": "https://juejin.cn/post/7691774360802246671",
-    "source": "juejin",
-    "score": 0.16400965,
-    "published_at": "2026-10-03T15:06:33+00:00",
     "summary": "",
     "key_points": []
   }
