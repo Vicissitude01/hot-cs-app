@@ -1,5 +1,285 @@
 [
   {
+    "id": "lobsters:t3xjln",
+    "title": "What are you doing this weekend?",
+    "url": "https://lobste.rs/s/t3xjln",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-09T07:53:09.890-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:meoyc6",
+    "title": "The making of a very fast SPI flasher",
+    "url": "https://localcc.cc/blog/dualnand-opt/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-09T06:39:36.130-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:m2ixv3",
+    "title": "Deeper dive: Keyboard differences between Windows and Macs",
+    "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-09T01:51:52.922-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pbjhnt",
+    "title": "Reverse Engineer Anything",
+    "url": "https://github.com/morluto/rea",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-09T06:53:52.456-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:85k8am",
+    "title": "en-html.org is a Scam Site",
+    "url": "https://etbe.coker.com.au/2026/10/09/en-html-org-scam-site/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-09T02:37:38.877-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:3zcaxw",
+    "title": "There are many themes, but this one is yours",
+    "url": "https://earendil.com/posts/system-theme/",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-10-09T07:08:09.491-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dstt3o",
+    "title": "Reducing undefined behavior in the C language",
+    "url": "https://lwn.net/Articles/1095811/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-09T00:30:04.204-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ily7as",
+    "title": "Programming Isn’t Special",
+    "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+    "source": "lobsters",
+    "score": 22.0,
+    "published_at": "2026-10-09T06:09:10.381-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247331",
+    "title": "32 岁做啥啥失败，是不是该被斩杀了？",
+    "url": "https://www.v2ex.com/t/1247331",
+    "source": "v2ex",
+    "score": 124.0,
+    "published_at": "2026-10-09T05:53:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247211",
+    "title": "你们用 AI 写代码，会每次都看它改了什么吗？",
+    "url": "https://www.v2ex.com/t/1247211",
+    "source": "v2ex",
+    "score": 154.0,
+    "published_at": "2026-10-08T16:12:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247192",
+    "title": "这绝对是 Window 最炸裂的终端效果了！",
+    "url": "https://www.v2ex.com/t/1247192",
+    "source": "v2ex",
+    "score": 166.0,
+    "published_at": "2026-10-08T14:22:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247300",
+    "title": "分享一下国庆美国东海岸的行程和花费",
+    "url": "https://www.v2ex.com/t/1247300",
+    "source": "v2ex",
+    "score": 188.0,
+    "published_at": "2026-10-09T03:42:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247361",
+    "title": "[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 迎来 macOS 首发，送 30 个永久 Pro",
+    "url": "https://www.v2ex.com/t/1247361",
+    "source": "v2ex",
+    "score": 256.0,
+    "published_at": "2026-10-09T07:10:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694016286322556969",
+    "title": "后台管理框架存活率大调查（2026版）",
+    "url": "https://juejin.cn/post/7694016286322556969",
+    "source": "juejin",
+    "score": 0.48247971,
+    "published_at": "2026-10-08T06:54:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693828979246186546",
+    "title": "🚀 2026 年 9 月 GitHub 十大热门项目排行榜 🔥",
+    "url": "https://juejin.cn/post/7693828979246186546",
+    "source": "juejin",
+    "score": 0.59237829,
+    "published_at": "2026-10-08T08:49:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:twostraws/SwiftUI-Agent-Skill",
+    "title": "SwiftUI-Agent-Skill",
+    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Robbyant/lingbot-map",
+    "title": "lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:BerriAI/litellm",
+    "title": "litellm",
+    "url": "https://github.com/BerriAI/litellm",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:alibaba/open-code-review",
+    "title": "open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50019451",
+    "title": "The Hetzner Cloud network stack – history and technical overview",
+    "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-09T12:20:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50018350",
+    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-10-09T10:00:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50019090",
+    "title": "US proposes $100k charge for international students to do post-graduate work",
+    "url": "https://www.nature.com/articles/d41586-026-02921-7",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-09T11:40:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50015515",
+    "title": "Keyboard differences between Windows and Macs",
+    "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+    "source": "hackernews",
+    "score": 194.0,
+    "published_at": "2026-10-09T03:08:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50016489",
+    "title": "MXC - a sandboxed code execution system",
+    "url": "https://github.com/microsoft/mxc",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-10-09T05:51:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50018239",
+    "title": "Once: Cache CLI Commands",
+    "url": "https://github.com/alex0ptr/once",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-09T09:43:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50018088",
+    "title": "I'm in a Meeting",
+    "url": "https://iminafleeting.com/",
+    "source": "hackernews",
+    "score": 109.0,
+    "published_at": "2026-10-09T09:21:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50018420",
+    "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+    "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+    "source": "hackernews",
+    "score": 152.0,
+    "published_at": "2026-10-09T10:12:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50018817",
+    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "source": "hackernews",
+    "score": 121.0,
+    "published_at": "2026-10-09T11:03:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:kfla2w",
     "title": "Demoting i686 Windows targets to std-only",
     "url": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
@@ -4716,286 +4996,6 @@
     "source": "lobsters",
     "score": 12.0,
     "published_at": "2026-10-04T21:23:30.392-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246491",
-    "title": "香港仓库管理 或 日本永居 如何选择，请 V 友们给点想法",
-    "url": "https://www.v2ex.com/t/1246491",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-10-05T06:13:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246440",
-    "title": "29 年没跟家里人红过脸的我跟我爷爷顶嘴了",
-    "url": "https://www.v2ex.com/t/1246440",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-10-04T22:23:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246459",
-    "title": "久坐提醒，有没有啥好的方案，能让自己站起来？",
-    "url": "https://www.v2ex.com/t/1246459",
-    "source": "v2ex",
-    "score": 54.0,
-    "published_at": "2026-10-05T02:18:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246477",
-    "title": "喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-    "url": "https://www.v2ex.com/t/1246477",
-    "source": "v2ex",
-    "score": 56.0,
-    "published_at": "2026-10-05T03:36:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246441",
-    "title": "大伙是咋面对比自己技能强/收入多/储蓄多人的焦虑和不甘心昀？",
-    "url": "https://www.v2ex.com/t/1246441",
-    "source": "v2ex",
-    "score": 76.0,
-    "published_at": "2026-10-04T22:57:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246483",
-    "title": "如果因为特殊原因无法结婚生子，那该如何找到新的支点来度过比较充实的一生？",
-    "url": "https://www.v2ex.com/t/1246483",
-    "source": "v2ex",
-    "score": 76.0,
-    "published_at": "2026-10-05T04:56:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691876829276602377",
-    "title": "canvas最大能开多大：先看面积，再看导出格式",
-    "url": "https://juejin.cn/post/7691876829276602377",
-    "source": "juejin",
-    "score": 0.08714434,
-    "published_at": "2026-10-04T02:55:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691498553261391912",
-    "title": "Vue3 响应式与编译：依赖收集如何升级为节点级靶向更新",
-    "url": "https://juejin.cn/post/7691498553261391912",
-    "source": "juejin",
-    "score": 0.0341368,
-    "published_at": "2026-10-02T13:23:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691517675236556854",
-    "title": "ai agent --- mem0 外挂记忆系统",
-    "url": "https://juejin.cn/post/7691517675236556854",
-    "source": "juejin",
-    "score": 0.11415167,
-    "published_at": "2026-10-03T08:25:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691537889868021795",
-    "title": "Personal Agent爆火 - 它到底是个什么",
-    "url": "https://juejin.cn/post/7691537889868021795",
-    "source": "juejin",
-    "score": 0.06719428,
-    "published_at": "2026-10-02T10:24:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692296625806508072",
-    "title": "Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段",
-    "url": "https://juejin.cn/post/7692296625806508072",
-    "source": "juejin",
-    "score": 0.40263517,
-    "published_at": "2026-10-04T15:10:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692676879360720923",
-    "title": "让 AI 替我看图：蓝耘 MaaS 视觉模型实测，全对背后有个必须学会的探测器",
-    "url": "https://juejin.cn/post/7692676879360720923",
-    "source": "juejin",
-    "score": 0.97740555,
-    "published_at": "2026-10-04T23:59:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49923125",
-    "title": "Safe Optimistic Lock Coupling",
-    "url": "http://databasearchitects.blogspot.com/2026/04/safe-optimistic-lock-coupling.html",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-01T15:37:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49959654",
-    "title": "A 40ms Go garbage collector pause caused by swap",
-    "url": "https://frn.sh/go-gc/",
-    "source": "hackernews",
-    "score": 90.0,
-    "published_at": "2026-10-05T01:11:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49959869",
-    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-    "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-    "source": "hackernews",
-    "score": 188.0,
-    "published_at": "2026-10-05T01:54:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49948300",
-    "title": "We ported the original Doom to SQL",
-    "url": "https://cedardb.com/blog/sqldoom/",
-    "source": "hackernews",
-    "score": 89.0,
-    "published_at": "2026-10-03T22:14:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49960901",
-    "title": "Replacement of petroleum based products with plant-based materials (2025)",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-10-05T05:09:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49920332",
-    "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
-    "url": "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-01T11:31:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49961890",
-    "title": "Sales of sub-€25,000 electric car models set to rise sevenfold",
-    "url": "https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-05T07:51:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49961861",
-    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-    "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-05T07:46:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246361",
-    "title": "港版 18pro 能在大陆添加香港 esim 吗？",
-    "url": "https://www.v2ex.com/t/1246361",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-10-04T05:16:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246425",
-    "title": "[送码] macOS 的活动记录和回顾软件「日影」",
-    "url": "https://www.v2ex.com/t/1246425",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-10-04T14:01:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692042894160511011",
-    "title": "组合式 API（Composition API）",
-    "url": "https://juejin.cn/post/7692042894160511011",
-    "source": "juejin",
-    "score": 0.13329902,
-    "published_at": "2026-10-03T13:01:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:michael-denyer/pstack-claude",
-    "title": "pstack-claude",
-    "url": "https://github.com/michael-denyer/pstack-claude",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49939308",
-    "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-    "url": "https://alexalejandre.com/interviews/peter-bex/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-02T22:17:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49940044",
-    "title": "Demystifying Tufte's data-ink ratio",
-    "url": "https://tuftesrazor.scienceux.org/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-02T23:55:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49959583",
-    "title": "The logic of gambling undergirds everything coming out of Silicon Valley",
-    "url": "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-05T00:58:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49932236",
-    "title": "The Tao of Backup",
-    "url": "http://www.taobackup.com/index.html",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-02T11:19:36+00:00",
     "summary": "",
     "key_points": []
   }
