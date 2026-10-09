@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:yrcmjj",
+    "title": "A Practical Guide to “Plug&Pwn” for Pentesters and Defenders",
+    "url": "https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-09T15:25:21.595-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5n7zxa",
+    "title": "Equality Saturation: An “Incomplete” Project",
+    "url": "https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-09T12:49:54.519-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:o8xo9z",
+    "title": "The importance of communities around software",
+    "url": "https://lumi.codeberg.page/blog/software-community.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-09T16:27:20.935-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8rrtma",
+    "title": "Cloudflare shutting down Deno is news, not just PR",
+    "url": "https://lobste.rs/s/8rrtma",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-10-09T16:20:03.262-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dsbt5a",
+    "title": "Branches in branch-free code",
+    "url": "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-09T14:31:17.250-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qwqne6",
+    "title": "Lifeguard: A static analyzer for Python lazy imports compatibility",
+    "url": "https://github.com/Facebook/lifeguard",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-09T16:44:50.573-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50020947",
+    "title": "Why are coding agents so dumb?",
+    "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-10-09T14:21:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50026734",
+    "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+    "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-09T21:25:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50005772",
+    "title": "How to Fix autoconf-style Configuration Probing",
+    "url": "https://build2.org/blog/fix-autoconf.xhtml",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-08T13:48:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50022266",
+    "title": "A statement on the Tor Project's relationship with Mullvad",
+    "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-10-09T15:49:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50024913",
+    "title": "Microsoft-Decision-1, our model for fast decision-making",
+    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-10-09T18:38:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50027252",
+    "title": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology",
+    "url": "https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-09T22:14:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50024055",
+    "title": "Show HN: The rarest tech books and docs you've probably never read",
+    "url": "https://readrare.com/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-09T17:39:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50027167",
+    "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
+    "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-09T22:05:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50003545",
+    "title": "Show HN: Proton Drive for Linux",
+    "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-08T09:10:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50024571",
+    "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
+    "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+    "source": "hackernews",
+    "score": 107.0,
+    "published_at": "2026-10-09T18:16:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50025935",
+    "title": "No Man Is an Island",
+    "url": "https://borretti.me/article/no-man-is-an-island",
+    "source": "hackernews",
+    "score": 226.0,
+    "published_at": "2026-10-09T20:04:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50026555",
+    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+    "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+    "source": "hackernews",
+    "score": 293.0,
+    "published_at": "2026-10-09T21:06:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9xcc2g",
     "title": "Vectorized CLZ and CTZ",
     "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
@@ -4816,186 +4996,6 @@
     "source": "lobsters",
     "score": 14.0,
     "published_at": "2026-10-05T09:24:26.756-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tpxwfe",
-    "title": "Using docker-compose with Podman rootless",
-    "url": "https://elou.world/en/tutorial/podman-docker-compose",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-05T04:51:28.692-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fks4pf",
-    "title": "Another step towards elm v1",
-    "url": "https://elm-lang.org/news/another-step-towards-elm-v1",
-    "source": "lobsters",
-    "score": 26.0,
-    "published_at": "2026-10-05T08:20:47.476-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:a9kwzv",
-    "title": "Friendship ended with Deno, now Node is my best friend",
-    "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-    "source": "lobsters",
-    "score": 34.0,
-    "published_at": "2026-10-05T05:01:55.874-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9iztqv",
-    "title": "Flirt is now Open-Source",
-    "url": "https://blog.buenzli.dev/flirt-is-open-source/",
-    "source": "lobsters",
-    "score": 32.0,
-    "published_at": "2026-10-05T04:34:42.913-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246516",
-    "title": "感觉到了一些不好的苗头",
-    "url": "https://www.v2ex.com/t/1246516",
-    "source": "v2ex",
-    "score": 66.0,
-    "published_at": "2026-10-05T08:41:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246473",
-    "title": "codex 的梯子流量消耗很大，怎么治？",
-    "url": "https://www.v2ex.com/t/1246473",
-    "source": "v2ex",
-    "score": 70.0,
-    "published_at": "2026-10-05T03:13:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246523",
-    "title": "准备注册美国公司来使用 claude",
-    "url": "https://www.v2ex.com/t/1246523",
-    "source": "v2ex",
-    "score": 72.0,
-    "published_at": "2026-10-05T10:20:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692143474695569458",
-    "title": "2026-09-27-Qwen-Image-2.1-1660Ti本地部署实战",
-    "url": "https://juejin.cn/post/7692143474695569458",
-    "source": "juejin",
-    "score": 0.09709808,
-    "published_at": "2026-10-04T02:46:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692379120273899560",
-    "title": "Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机",
-    "url": "https://juejin.cn/post/7692379120273899560",
-    "source": "juejin",
-    "score": 0.46736977,
-    "published_at": "2026-10-05T00:57:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691917465479315519",
-    "title": "什么是零拷贝？别被“零”字骗了：一次讲透完整链路",
-    "url": "https://juejin.cn/post/7691917465479315519",
-    "source": "juejin",
-    "score": 0.06244816,
-    "published_at": "2026-10-03T10:58:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692059206256738313",
-    "title": "GitHub 今日推荐｜lipflow：无麦克风唇读文字输入工具",
-    "url": "https://juejin.cn/post/7692059206256738313",
-    "source": "juejin",
-    "score": 0.14588939,
-    "published_at": "2026-10-04T06:37:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691585964053512238",
-    "title": "百万级数据导出OOM：POI的坑与EasyExcel的流式写入实战（附内存对比）",
-    "url": "https://juejin.cn/post/7691585964053512238",
-    "source": "juejin",
-    "score": 0.06519106,
-    "published_at": "2026-10-02T15:57:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692440533922971667",
-    "title": "副业搞起来，小说，漫画，漫剧的成本优化思路",
-    "url": "https://juejin.cn/post/7692440533922971667",
-    "source": "juejin",
-    "score": 0.89950786,
-    "published_at": "2026-10-05T11:55:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:msitarzewski/agency-agents",
-    "title": "agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Stremio/stremio-web",
-    "title": "stremio-web",
-    "url": "https://github.com/Stremio/stremio-web",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:DuarteSantos8/openGym",
-    "title": "openGym",
-    "url": "https://github.com/DuarteSantos8/openGym",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:boykopovar/AnyPS5",
-    "title": "AnyPS5",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49930872",
-    "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-    "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-10-02T07:40:15+00:00",
     "summary": "",
     "key_points": []
   }
