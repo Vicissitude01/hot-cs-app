@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:lgxq91",
+    "title": "There's little that's \"inevitable\" about AI",
+    "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-10T04:08:30.104-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:txa6dj",
+    "title": "1-click MMI execution in Android",
+    "url": "https://karansaini.com/mmi-android/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-10T02:20:53.136-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gqaqgq",
+    "title": "Voxlocal: a minimal voice agent written in Rust",
+    "url": "https://samkhawase.com/blog/voxlocal-minimal-voice-agent/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-10T03:42:06.202-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:skpliy",
+    "title": "Adding Go's defer to the TypeScript Compiler",
+    "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-10T00:34:40.410-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rb2ulg",
+    "title": "oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c",
+    "url": "https://sebsite.pw/w/20261009-strtod.html",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-10T00:37:18.608-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247540",
+    "title": "Apple TV 看样子真要来了",
+    "url": "https://www.v2ex.com/t/1247540",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-10-10T02:20:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247525",
+    "title": "曝光一个互联网小骗子 本站用户 @missx",
+    "url": "https://www.v2ex.com/t/1247525",
+    "source": "v2ex",
+    "score": 110.0,
+    "published_at": "2026-10-10T01:49:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247591",
+    "title": "深圳社保上涨. 需要补缴..",
+    "url": "https://www.v2ex.com/t/1247591",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-10-10T05:28:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247422",
+    "title": "你们现在花在 AI 上的月度开销是多少？",
+    "url": "https://www.v2ex.com/t/1247422",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-10-09T09:49:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247527",
+    "title": "做了一个“珠光宝气”的页面， V 友看看咋样，提提意见",
+    "url": "https://www.v2ex.com/t/1247527",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-10-10T01:53:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247509",
+    "title": "五年后，还有多少程序员能靠写代码活着？",
+    "url": "https://www.v2ex.com/t/1247509",
+    "source": "v2ex",
+    "score": 150.0,
+    "published_at": "2026-10-10T01:19:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247511",
+    "title": "超过 500 行的代码改动， codex 根本无法独立完成。astra 也不行",
+    "url": "https://www.v2ex.com/t/1247511",
+    "source": "v2ex",
+    "score": 190.0,
+    "published_at": "2026-10-10T01:26:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247465",
+    "title": "十年挚友，突然离世",
+    "url": "https://www.v2ex.com/t/1247465",
+    "source": "v2ex",
+    "score": 214.0,
+    "published_at": "2026-10-09T14:08:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49980208",
+    "title": "Communication Between the Compiler, the Build System, and Beyond",
+    "url": "https://shrub.industries/words/problem.html",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-06T15:44:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50006734",
+    "title": "Vegetative Electron Microscopy WTF? (2025)",
+    "url": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-08T15:06:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49998350",
+    "title": "I tried to move my notes out of Emacs. I failed. Again",
+    "url": "https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-07T20:27:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50028027",
+    "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+    "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-10-09T23:53:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49981264",
+    "title": "How to head into VR without wearing a headset",
+    "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-06T17:07:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50029830",
+    "title": "Food processing influences metabolism and brain activity",
+    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-10-10T05:22:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50010986",
+    "title": "Cube Type – Isometric Typography Generator",
+    "url": "https://typeincube.com/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-08T19:41:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49997481",
+    "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+    "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+    "source": "hackernews",
+    "score": 153.0,
+    "published_at": "2026-10-07T19:15:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50029982",
+    "title": "Computers Cannot Make Decisions",
+    "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-10-10T05:47:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50029123",
+    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+    "source": "hackernews",
+    "score": 161.0,
+    "published_at": "2026-10-10T03:02:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nxspz6",
     "title": "No Man Is an Island",
     "url": "https://borretti.me/article/no-man-is-an-island",
@@ -4766,236 +4996,6 @@
     "source": "hackernews",
     "score": 6.0,
     "published_at": "2026-10-04T10:15:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49951155",
-    "title": "Accountability mechanisms can be joyful",
-    "url": "https://liquidbrain.net/blog/accountability-and-joy/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-04T06:15:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49943598",
-    "title": "Show HN: Entombed in a Raycaster",
-    "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-03T12:13:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49944196",
-    "title": "Show HN: Photoc – Command-line tools for photographers",
-    "url": "https://github.com/ahmetomerv/photoc",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-10-03T13:42:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49945588",
-    "title": "An algorithmic failure beneath the secret ballot",
-    "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-10-03T16:23:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49973598",
-    "title": "Why Common Lisp is now the best programming language",
-    "url": "https://www.vivienhenz.com/common-lisp",
-    "source": "hackernews",
-    "score": 119.0,
-    "published_at": "2026-10-06T02:51:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49973878",
-    "title": "Resurrecting iChat Audio and Video Conferencing",
-    "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-06T03:39:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gm2ziy",
-    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-    "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-05T18:03:17.096-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:oevwp5",
-    "title": "Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging",
-    "url": "https://nivdayan.github.io/dostoevsky.pdf",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-05T15:18:23.545-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:az2lgv",
-    "title": "spoonful: static site generator written in Nix",
-    "url": "https://tangled.org/poacher.dev/spoonful",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-05T13:48:15.689-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:okq4dm",
-    "title": "You don't need an effect system",
-    "url": "https://burningwitness.github.io/blog/posts/against-effect-systems/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-05T13:03:27.608-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bw7k1r",
-    "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
-    "url": "https://git.sig-io.nl/Sig-IO/mailcheck/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-05T14:50:52.894-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:okk4bg",
-    "title": "Async Rust: Where does the scheduler live?",
-    "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-10-05T13:31:29.400-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246462",
-    "title": "Muse 互助帖",
-    "url": "https://www.v2ex.com/t/1246462",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-10-05T02:29:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246444",
-    "title": "ai 时代怎么感觉招 js/ts 全栈还是那么少？",
-    "url": "https://www.v2ex.com/t/1246444",
-    "source": "v2ex",
-    "score": 54.0,
-    "published_at": "2026-10-05T00:17:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691917465479446591",
-    "title": "2026年后端开发进化：告别CRUD内卷，拥抱AI原生架构与服务编排新时代",
-    "url": "https://juejin.cn/post/7691917465479446591",
-    "source": "juejin",
-    "score": 0.04699297,
-    "published_at": "2026-10-03T12:12:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:M-Abozaid/esp32-c3-adblock",
-    "title": "esp32-c3-adblock",
-    "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49969961",
-    "title": "Incident with Actions",
-    "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
-    "source": "hackernews",
-    "score": 93.0,
-    "published_at": "2026-10-05T20:09:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49962857",
-    "title": "Apple and a hacker's future",
-    "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-    "source": "hackernews",
-    "score": 196.0,
-    "published_at": "2026-10-05T10:05:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49969256",
-    "title": "The Future of Mathematics",
-    "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
-    "source": "hackernews",
-    "score": 83.0,
-    "published_at": "2026-10-05T19:22:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49971356",
-    "title": "Graphical UI",
-    "url": "https://www.graphicalui.com/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-05T21:51:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49971678",
-    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-    "url": "https://nivdayan.github.io/dostoevsky.pdf",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-05T22:25:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49971523",
-    "title": "Texas city demands $2M for public records on Flock usage",
-    "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-10-05T22:05:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49971719",
-    "title": "Friendship ended with Deno, now Node is my best friend",
-    "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-05T22:30:02+00:00",
     "summary": "",
     "key_points": []
   }
