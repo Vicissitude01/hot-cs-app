@@ -1,5 +1,125 @@
 [
   {
+    "id": "lobsters:9ros7d",
+    "title": "The 2D physics prototype behind GTA’s vehicles",
+    "url": "https://patkerr.co.uk/2d-vehicles/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-10T16:06:15.264-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mbyawi",
+    "title": "Inside a 1980s filter chip that uses switched capacitors",
+    "url": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-10T16:28:51.816-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:t2fxpt",
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "url": "https://arxiv.org/html/2610.05978v1",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-10T17:25:14.935-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mattpocock/skills",
+    "title": "skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cathrynlavery/diagram-design",
+    "title": "diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:morluto/rea",
+    "title": "rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50037299",
+    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-10T21:19:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50021899",
+    "title": "Five months treating bugs like patients and coding agents like a medical team",
+    "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-09T15:26:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49998116",
+    "title": "A nuclear clock synchronized to 229Th",
+    "url": "https://www.nature.com/articles/s41586-026-11122-1",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-07T20:07:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50034123",
+    "title": "MrBeast 'spends millions reverse engineering the algorithms on each platform'",
+    "url": "https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-10T15:51:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50037949",
+    "title": "Build your own decision model",
+    "url": "https://nishtahir.com/build-your-own-decision-model/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-10T22:50:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50036864",
+    "title": "A city-building game in which the city would prefer you didn't",
+    "url": "https://housing.over.pizza/",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-10-10T20:31:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gytcvn",
     "title": "Why 'externalized' proofs of cyclic trait impls does not work",
     "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
@@ -4876,126 +4996,6 @@
     "source": "hackernews",
     "score": 151.0,
     "published_at": "2026-10-06T16:23:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49979845",
-    "title": "The Early History of Smalltalk (1993)",
-    "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-10-06T15:19:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49977437",
-    "title": "Subquadratic 3SUM and Subcubic APSP",
-    "url": "https://arxiv.org/abs/2610.06783",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-10-06T12:31:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49978595",
-    "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
-    "url": "https://peterszentkiralyi.eu/darkplug/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-10-06T13:58:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49967427",
-    "title": "Benchmark in Milliseconds",
-    "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-10-05T17:00:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:odew1t",
-    "title": "Bidirectional Type Slicing",
-    "url": "https://arxiv.org/pdf/2607.12197",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-06T08:36:33.005-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fu57cb",
-    "title": "Two arm64-specific miscompiles induce vulnerabilities in curl",
-    "url": "https://mastodon.social/@bagder/117392573268225646",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-06T02:52:24.425-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tmr7jp",
-    "title": "Extend Lua with Zig 1: Hello World",
-    "url": "https://www.robbielyman.com/blog/extend-lua-with-zig-1/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-06T06:58:23.637-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gveu0c",
-    "title": "Montray - a tray icon for systemd service health",
-    "url": "https://github.com/dimonomid/montray/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-06T04:07:39.717-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rwloew",
-    "title": "Email Self Hosters - what are you using?",
-    "url": "https://lobste.rs/s/rwloew",
-    "source": "lobsters",
-    "score": 35.0,
-    "published_at": "2026-10-06T03:09:53.070-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246629",
-    "title": "怎么反制楼上租户制造噪音，沟通了效果不大",
-    "url": "https://www.v2ex.com/t/1246629",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-10-06T06:17:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246601",
-    "title": "ai 最可怕的，不是取代你，而是让你无效成功",
-    "url": "https://www.v2ex.com/t/1246601",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-10-06T02:40:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246642",
-    "title": "手太痒了，终于开发了个操作系统，免安装那种",
-    "url": "https://www.v2ex.com/t/1246642",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-10-06T07:35:49+00:00",
     "summary": "",
     "key_points": []
   }
