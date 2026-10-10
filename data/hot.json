@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:nxspz6",
+    "title": "No Man Is an Island",
+    "url": "https://borretti.me/article/no-man-is-an-island",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-09T20:37:07.995-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:46lhbm",
+    "title": "Patches Updated To Begin Removing The Linux x32 ABI",
+    "url": "https://www.phoronix.com/news/Patches-Removing-Linux-x32-ABI",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-09T21:18:02.194-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247383",
+    "title": "[送码] Picser 3.0 上线：我开发的 macOS 看图软件加了挑片功能",
+    "url": "https://www.v2ex.com/t/1247383",
+    "source": "v2ex",
+    "score": 100.0,
+    "published_at": "2026-10-09T08:04:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247297",
+    "title": "换车选极氪 009 还是 MEGA",
+    "url": "https://www.v2ex.com/t/1247297",
+    "source": "v2ex",
+    "score": 104.0,
+    "published_at": "2026-10-09T03:40:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247310",
+    "title": "[免费赠] PolyDrive Disk: NTFS 和 Linux 盘在 Finder 里自由读写",
+    "url": "https://www.v2ex.com/t/1247310",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-10-09T04:09:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247313",
+    "title": "记录一次关于我和楼上隔壁邻居魔法咚咚咚",
+    "url": "https://www.v2ex.com/t/1247313",
+    "source": "v2ex",
+    "score": 148.0,
+    "published_at": "2026-10-09T04:17:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247354",
+    "title": "大家有什么二手便宜好物推荐吗？感觉生活很枯燥，想买点东西玩一玩或者折腾点什么东西",
+    "url": "https://www.v2ex.com/t/1247354",
+    "source": "v2ex",
+    "score": 162.0,
+    "published_at": "2026-10-09T06:55:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694131662615117851",
+    "title": "WorkBuddy悄悄干了件大事，下一代Office真来了！",
+    "url": "https://juejin.cn/post/7694131662615117851",
+    "source": "juejin",
+    "score": 0.4178903,
+    "published_at": "2026-10-08T10:20:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694121230733246499",
+    "title": "GROUP BY 先别想当然，查汇总前把规则跑清楚",
+    "url": "https://juejin.cn/post/7694121230733246499",
+    "source": "juejin",
+    "score": 0.43675796,
+    "published_at": "2026-10-08T10:35:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694490288811376680",
+    "title": "有了 Parallels Desktop，我终于不用问别人借Windows电脑用了",
+    "url": "https://juejin.cn/post/7694490288811376680",
+    "source": "juejin",
+    "score": 1.34062117,
+    "published_at": "2026-10-09T10:14:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:boykopovar/AnyPS5",
+    "title": "AnyPS5",
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50028162",
+    "title": "How Strong Is the Strong Force?",
+    "url": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-10T00:13:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50027694",
+    "title": "Rewriting Prime Agent in Rust",
+    "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-09T23:06:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50024090",
+    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-09T17:42:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50023995",
+    "title": "Scam American companies are using to manipulate ingredient lists",
+    "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-10-09T17:35:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50027884",
+    "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
+    "url": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-09T23:32:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50027118",
+    "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+    "source": "hackernews",
+    "score": 77.0,
+    "published_at": "2026-10-09T22:00:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49984854",
+    "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
+    "url": "https://www.nature.com/articles/s41598-020-73426-0",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-10-06T22:10:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50002114",
+    "title": "Smart contracts: Ship the parachute in v1",
+    "url": "https://medium.com/@giladha/ship-the-parachute-in-v1-why-upgradeability-and-disaster-recovery-are-not-v2-features-88191f35ba1c",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-08T05:39:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50028062",
+    "title": "Has the Autonomous Trucking Revolution Arrived?",
+    "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-09T23:57:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50027590",
+    "title": "Atari Falcon",
+    "url": "https://atarimuseum.nl/atari-falcon/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-09T22:54:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50027234",
+    "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
+    "url": "https://www.nber.org/papers/w35854",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-09T22:12:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50027853",
+    "title": "Compiling Rust to readable C with Eurydice",
+    "url": "https://lwn.net/Articles/1055211/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-09T23:28:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50028059",
+    "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+    "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-10-09T23:56:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50021410",
+    "title": "Can you use autoregressive diffusion to generate market data?",
+    "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-09T14:56:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50028275",
+    "title": "REA Reverse – Engineer Anything",
+    "url": "https://rea.tools/",
+    "source": "hackernews",
+    "score": 101.0,
+    "published_at": "2026-10-10T00:37:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:yrcmjj",
     "title": "A Practical Guide to “Plug&Pwn” for Pentesters and Defenders",
     "url": "https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/",
@@ -4736,266 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-10-05T22:30:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49971782",
-    "title": "Global Solar Atlas: summary of solar power potential globally",
-    "url": "https://globalsolaratlas.info/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-05T22:37:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49950653",
-    "title": "Testing 12 different Zigbee temperature/humidity sensors",
-    "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-04T04:30:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49971726",
-    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-    "url": "https://almostimplemented.github.io/jazz-pianist-style/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-05T22:30:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49953195",
-    "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-    "url": "https://github.com/dfd-tud/deda",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-04T12:09:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49963382",
-    "title": "Is mathematics over, or just graduating?",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-05T11:16:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49951693",
-    "title": "Using Blu-ray M-Disk as backup of last resort",
-    "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-10-04T08:03:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49972419",
-    "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-    "url": "https://edworkingpapers.com/ai26-1551",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-06T00:00:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49944049",
-    "title": "Competitive Programmer's Handbook (2018) [pdf]",
-    "url": "https://cses.fi/book/book.pdf",
-    "source": "hackernews",
-    "score": 105.0,
-    "published_at": "2026-10-03T13:24:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49971952",
-    "title": "Worth Building",
-    "url": "https://armstr.ng/writing/worth-building",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-05T22:59:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49970667",
-    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-    "source": "hackernews",
-    "score": 180.0,
-    "published_at": "2026-10-05T21:00:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49972008",
-    "title": "Ephemeral Testing",
-    "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-05T23:06:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49970871",
-    "title": "Dust: Pretraining Transformers Without Backpropagation",
-    "url": "https://qlabs.sh/research/dust",
-    "source": "hackernews",
-    "score": 80.0,
-    "published_at": "2026-10-05T21:15:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49971230",
-    "title": "Find the flattest route between any two points in SF",
-    "url": "https://flattensf.com/",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-10-05T21:40:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49971921",
-    "title": "Example.com Just Launched the Biggest Redesign in Decades",
-    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-10-05T22:55:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49969183",
-    "title": "Beam: Reflection's 501B open-weight model",
-    "url": "https://reflection.ai/blog/introducing-beam",
-    "source": "hackernews",
-    "score": 279.0,
-    "published_at": "2026-10-05T19:16:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49971846",
-    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-    "source": "hackernews",
-    "score": 106.0,
-    "published_at": "2026-10-05T22:46:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nvkrb9",
-    "title": "What are you doing this week?",
-    "url": "https://lobste.rs/s/nvkrb9",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-05T11:07:55.872-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1m4kx1",
-    "title": "Nix on the Steam Frame",
-    "url": "https://johns.codes/blog/nix-on-steam-frame",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-05T08:46:18.147-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qf2mtz",
-    "title": "We ported the original Doom to SQL",
-    "url": "https://cedardb.com/blog/sqldoom/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-05T05:27:06.699-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hmu7ym",
-    "title": "Tufte's Razor: an interactive guide to the data-ink ratio",
-    "url": "https://tuftesrazor.scienceux.org/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-05T04:08:15.470-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yj99wd",
-    "title": "A new, bespoke static site generator to replace Jekyll",
-    "url": "https://nullprogram.com/blog/2026/10/04/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-05T04:59:25.188-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qcafwq",
-    "title": "Reverse Engineering Comanche Terrain Maps",
-    "url": "https://pikuma.com/blog/comanche-maps-reverse-engineering",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-05T05:45:51.812-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:2svplr",
-    "title": "Gleam doesn't compile to Erlang source anymore",
-    "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-05T12:29:17.719-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xmir2s",
-    "title": "Making a GTK application in Haskell, part 1",
-    "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-05T09:22:54.820-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bwtzhy",
-    "title": "Factor Overview",
-    "url": "https://re.factorcode.org/2026/10/factor-overview.html",
-    "source": "lobsters",
-    "score": 15.0,
-    "published_at": "2026-10-05T07:11:57.329-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9srb4r",
-    "title": "Mold 3.0.0 Released",
-    "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-10-05T09:24:26.756-05:00",
     "summary": "",
     "key_points": []
   }
