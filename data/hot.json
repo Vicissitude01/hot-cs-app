@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:roij3t",
+    "title": "Reporting vulnerabilities to Estonian companies",
+    "url": "https://www.youtube.com/watch?v=4gcSlBORoTI",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-10T09:56:06.382-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0g9ctg",
+    "title": "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
+    "url": "https://lightbulbcomputer.com/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-10T06:53:29.482-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ptnq74",
+    "title": "dasSDL3: Idiomatic SDL3 bindings for daslang",
+    "url": "https://spiiin.github.io/blog/339855472/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-10T08:48:45.665-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ka6d0y",
+    "title": "Iframes that finally fit their content",
+    "url": "https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-10T07:54:56.199-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:a1ser9",
+    "title": "culpert - rust heap profiling with span awareness and regression tooling",
+    "url": "https://github.com/rupert648/culpert",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-10T09:49:49.315-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pmwc4h",
+    "title": "Mars Pathfinder Priority Inversion Bug: What Really Happened",
+    "url": "https://nerdyelectronics.com/mars-pathfinder-what-really-happened/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-10T07:24:42.324-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247556",
+    "title": "有男的脱毛过吗？想把腹毛脱了，有没有过来人请教下",
+    "url": "https://www.v2ex.com/t/1247556",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-10-10T03:07:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247629",
+    "title": "[送码]我把 1996 年《小浣熊水浒卡》的 [闪光] 效果做出来了",
+    "url": "https://www.v2ex.com/t/1247629",
+    "source": "v2ex",
+    "score": 154.0,
+    "published_at": "2026-10-10T06:59:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247676",
+    "title": "发工资了今晚干一票大的，我准备直接用招行卡开 5 倍 max",
+    "url": "https://www.v2ex.com/t/1247676",
+    "source": "v2ex",
+    "score": 256.0,
+    "published_at": "2026-10-10T09:06:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694185019603337256",
+    "title": "裁员裁掉了那个干了14年的人：我这才看清职场的5条潜规则",
+    "url": "https://juejin.cn/post/7694185019603337256",
+    "source": "juejin",
+    "score": 0.32438302,
+    "published_at": "2026-10-09T02:11:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:multica-ai/andrej-karpathy-skills",
+    "title": "andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:huggingface/transformers",
+    "title": "transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:pytorch/pytorch",
+    "title": "pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:hugohe3/ppt-master",
+    "title": "ppt-master",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:tensorflow/tensorflow",
+    "title": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:flutter/flutter",
+    "title": "flutter",
+    "url": "https://github.com/flutter/flutter",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mksglu/context-mode",
+    "title": "context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50014397",
+    "title": "Timestamping a Giant Record of the Web",
+    "url": "https://projecttimestamper.org/blog/common-crawl/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-09T00:29:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50005743",
+    "title": "C for Rust Programmers",
+    "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-10-08T13:44:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50016696",
+    "title": "Whooping Cranes Learned to Migrate by Following Costumed Pilots",
+    "url": "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-09T06:21:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49981508",
+    "title": "Noto means \"no tofu\": fixing dotted circles in Myanmar text",
+    "url": "https://www.datocms.com/blog/handling-less-common-scripts",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-06T17:24:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50031653",
+    "title": "Apple/macOS silently removed from official Unix registry",
+    "url": "https://www.opengroup.org//openbrand/register/",
+    "source": "hackernews",
+    "score": 115.0,
+    "published_at": "2026-10-10T10:57:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49986919",
+    "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+    "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-10-07T01:44:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50033517",
+    "title": "My personal AI agent posted my bank details on company Slack",
+    "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-10T14:46:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:49998801",
+    "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+    "url": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
+    "source": "hackernews",
+    "score": 155.0,
+    "published_at": "2026-10-07T21:06:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50016956",
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-09T06:52:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50031269",
+    "title": "`123456' password used in Danish CPR data breach",
+    "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+    "source": "hackernews",
+    "score": 293.0,
+    "published_at": "2026-10-10T09:51:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50024242",
+    "title": "Rampart: Browser native on-device PII radaction",
+    "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-09T17:52:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50031614",
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "url": "https://github.com/rociiu/talorys",
+    "source": "hackernews",
+    "score": 115.0,
+    "published_at": "2026-10-10T10:52:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50033407",
+    "title": "Bitwarden Dual License Model",
+    "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+    "source": "hackernews",
+    "score": 98.0,
+    "published_at": "2026-10-10T14:32:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:lgxq91",
     "title": "There's little that's \"inevitable\" about AI",
     "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
@@ -4696,306 +4996,6 @@
     "source": "hackernews",
     "score": 68.0,
     "published_at": "2026-10-06T12:45:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49977819",
-    "title": "Mathematics of Geothermal Energy",
-    "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-06T13:05:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49977072",
-    "title": "JetBrains reported a net financial loss first time in its tracked history",
-    "url": "https://www.helgilibrary.com/companies/jetbrains",
-    "source": "hackernews",
-    "score": 216.0,
-    "published_at": "2026-10-06T11:45:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49978563",
-    "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-    "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-06T13:55:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49976265",
-    "title": "Nobel Prize in Physics goes to Francis Halzen",
-    "url": "https://www.nobelprize.org/prizes/physics/2026/",
-    "source": "hackernews",
-    "score": 247.0,
-    "published_at": "2026-10-06T09:48:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49977177",
-    "title": "Release of Polars 2.0",
-    "url": "https://pola.rs/posts/release-polars-2/",
-    "source": "hackernews",
-    "score": 109.0,
-    "published_at": "2026-10-06T11:59:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49978116",
-    "title": "Mistral Large 4: \"Le Chonk\"",
-    "url": "https://mistral.ai/news/mistral-large-4/",
-    "source": "hackernews",
-    "score": 89.0,
-    "published_at": "2026-10-06T13:25:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49977979",
-    "title": "Mistral Large 4",
-    "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-    "source": "hackernews",
-    "score": 321.0,
-    "published_at": "2026-10-06T13:15:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xhe1vl",
-    "title": "Why Continuations are Coming to Java (2019)",
-    "url": "https://www.infoq.com/presentations/continuations-java/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-05T19:59:38.397-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vqm1fy",
-    "title": "hutch: local code reviews in emacs for the mildly disenfranchised",
-    "url": "https://kitallis.in/p/hutch-a-local-code-review-interface-for-magit/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-06T00:39:57.482-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1hnx0k",
-    "title": "Open Source as We Know It Is Dead",
-    "url": "https://jross.me/open-source-as-we-know-it-is-dead/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-05T18:25:52.404-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246573",
-    "title": "codex 现在这消耗也太快了吧",
-    "url": "https://www.v2ex.com/t/1246573",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-10-06T00:35:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246588",
-    "title": "接下来一年的时间，我将从京东过渡到其它平台",
-    "url": "https://www.v2ex.com/t/1246588",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-10-06T01:50:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246515",
-    "title": "目前还有可用的微信聊天记录导出工具吗，最好不用降级的",
-    "url": "https://www.v2ex.com/t/1246515",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-10-05T08:26:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246570",
-    "title": "没想到在 GitHub 下载软件还能中木马病毒…真的吃一堑长一智了",
-    "url": "https://www.v2ex.com/t/1246570",
-    "source": "v2ex",
-    "score": 54.0,
-    "published_at": "2026-10-05T21:39:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246558",
-    "title": "目前有没有用了两年 Claude 没被封的？",
-    "url": "https://www.v2ex.com/t/1246558",
-    "source": "v2ex",
-    "score": 60.0,
-    "published_at": "2026-10-05T15:49:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246531",
-    "title": "[送码] 给 Navidrome 写的安卓播放器 Mu3ic：现代 UI、智能歌单、混音、断网也能听，基础版免费",
-    "url": "https://www.v2ex.com/t/1246531",
-    "source": "v2ex",
-    "score": 62.0,
-    "published_at": "2026-10-05T11:49:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246595",
-    "title": "做了个 AI API 聚合服务， V2EX 前 20 位送 20 元额度",
-    "url": "https://www.v2ex.com/t/1246595",
-    "source": "v2ex",
-    "score": 66.0,
-    "published_at": "2026-10-06T02:15:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246574",
-    "title": "个人使用 Claude 防止封号的经验分享",
-    "url": "https://www.v2ex.com/t/1246574",
-    "source": "v2ex",
-    "score": 68.0,
-    "published_at": "2026-10-06T00:42:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692336657548279842",
-    "title": "Loop Engineering 保姆级教程 + 项目实战",
-    "url": "https://juejin.cn/post/7692336657548279842",
-    "source": "juejin",
-    "score": 0.11121518,
-    "published_at": "2026-10-04T12:56:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692379120273080360",
-    "title": "Harness：Agent 运行时架构",
-    "url": "https://juejin.cn/post/7692379120273080360",
-    "source": "juejin",
-    "score": 0.1695873,
-    "published_at": "2026-10-04T11:45:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692612898275967002",
-    "title": "Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁",
-    "url": "https://juejin.cn/post/7692612898275967002",
-    "source": "juejin",
-    "score": 0.20160577,
-    "published_at": "2026-10-04T17:08:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691774360802164751",
-    "title": "前端转 NestJS 全栈实践：从表单页面到微信业务系统",
-    "url": "https://juejin.cn/post/7691774360802164751",
-    "source": "juejin",
-    "score": 0.08844895,
-    "published_at": "2026-10-03T14:38:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692058641252237322",
-    "title": "用 Codex 加速 Java 开发：从代码生成到测试覆盖的完整实战",
-    "url": "https://juejin.cn/post/7692058641252237322",
-    "source": "juejin",
-    "score": 0.05583632,
-    "published_at": "2026-10-04T07:45:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692084224499367971",
-    "title": "用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍",
-    "url": "https://juejin.cn/post/7692084224499367971",
-    "source": "juejin",
-    "score": 0.11381669,
-    "published_at": "2026-10-04T07:40:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692127219867123750",
-    "title": "LangChain4j 新手入门实战教程（Java版）",
-    "url": "https://juejin.cn/post/7692127219867123750",
-    "source": "juejin",
-    "score": 0.05601923,
-    "published_at": "2026-10-04T09:22:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692743066844135433",
-    "title": "我埋了 8 个假文件，看谁会上钩：12 天 502 次扫描实录",
-    "url": "https://juejin.cn/post/7692743066844135433",
-    "source": "juejin",
-    "score": 0.13819884,
-    "published_at": "2026-10-05T03:33:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49920785",
-    "title": "The first fully implanted cochlear implant reaches patients",
-    "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-10-01T12:31:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49945445",
-    "title": "Using Theme park rides and smartphones for demonstrating Newtonian mechanics",
-    "url": "https://iopscience.iop.org/article/10.1088/1361-6404/aea271",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-03T16:07:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49972211",
-    "title": "Samon: Designing a Zen Garden Raking Puzzle",
-    "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-10-05T23:35:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49952464",
-    "title": "Ocean the Man Who Listens to Whales",
-    "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-04T10:15:13+00:00",
     "summary": "",
     "key_points": []
   }
