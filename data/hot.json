@@ -1,5 +1,325 @@
 [
   {
+    "id": "lobsters:7mllxi",
+    "title": "JSON Tiles: Fast Analytics on Semi-Structured Data (2021)",
+    "url": "https://db.cit.tum.de/~durner/papers/json-tiles-sigmod21.pdf",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-11T01:21:34.089-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6vjx1k",
+    "title": "How shredding JSON is giving Logfire 1000x query speedups",
+    "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-11T01:16:26.688-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ecxril",
+    "title": "LineageOS 24.0 released",
+    "url": "https://lineageos.org/Changelog-32/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-11T01:21:25.386-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247774",
+    "title": "发现了新的泡水好喝的东西",
+    "url": "https://www.v2ex.com/t/1247774",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-10-11T02:37:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247768",
+    "title": "给大家分享我的小玩具",
+    "url": "https://www.v2ex.com/t/1247768",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-10-11T02:12:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247751",
+    "title": "codex 下午 15:00~16:00 重置？",
+    "url": "https://www.v2ex.com/t/1247751",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-10-10T22:38:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247797",
+    "title": "求助，为什么新申请的招行 visa 信用卡死活绑不了 google play 的支付",
+    "url": "https://www.v2ex.com/t/1247797",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-10-11T04:43:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247755",
+    "title": "我认为应用开发包括前端正在迎来最好的时代",
+    "url": "https://www.v2ex.com/t/1247755",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-10-10T23:48:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247734",
+    "title": "[免费赠] NasV：直接刷 NAS 里的照片和视频，整个文件夹递归扫一遍，不用一层层点",
+    "url": "https://www.v2ex.com/t/1247734",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-10-10T15:22:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247762",
+    "title": "中文版讨论，哪些童书能让孩子爱上阅读？",
+    "url": "https://www.v2ex.com/t/1247762",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-10-11T01:18:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247761",
+    "title": "Google Play 开通 Claude Pro，搭配大陆护照 KYC，安全上车中...",
+    "url": "https://www.v2ex.com/t/1247761",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-10-11T01:06:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247696",
+    "title": "[天外 AI | 低价易得，稳定难求] 福利送码$5",
+    "url": "https://www.v2ex.com/t/1247696",
+    "source": "v2ex",
+    "score": 74.0,
+    "published_at": "2026-10-10T10:39:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247772",
+    "title": "内存越来越贵会不会拉高 Linux 的装机率？",
+    "url": "https://www.v2ex.com/t/1247772",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-10-11T02:27:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694182755944923199",
+    "title": "我免费开源的 Archify 约 8 万 Star，别人先做出了 $19/月的在线版",
+    "url": "https://juejin.cn/post/7694182755944923199",
+    "source": "juejin",
+    "score": 0.18472425,
+    "published_at": "2026-10-09T01:06:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694595110121832491",
+    "title": "为什么越来越多人用 ZXing？",
+    "url": "https://juejin.cn/post/7694595110121832491",
+    "source": "juejin",
+    "score": 0.45673957,
+    "published_at": "2026-10-10T03:07:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694469284471390242",
+    "title": "GitHub 热榜项目：日榜（2026-10-09）",
+    "url": "https://juejin.cn/post/7694469284471390242",
+    "source": "juejin",
+    "score": 0.22407655,
+    "published_at": "2026-10-09T08:18:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694632392432009242",
+    "title": "82.4k 星！把十几万行代码变成知识图谱，新人终于不用硬啃了",
+    "url": "https://juejin.cn/post/7694632392432009242",
+    "source": "juejin",
+    "score": 0.40047169,
+    "published_at": "2026-10-10T02:14:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694835192107860009",
+    "title": "公司从 400 多人缩减到 100 多人，我开始重新思考程序员的未来",
+    "url": "https://juejin.cn/post/7694835192107860009",
+    "source": "juejin",
+    "score": 0.46719174,
+    "published_at": "2026-10-10T07:59:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694187254181494820",
+    "title": "GraphQL 在国内为什么水土不服？",
+    "url": "https://juejin.cn/post/7694187254181494820",
+    "source": "juejin",
+    "score": 0.2541342,
+    "published_at": "2026-10-09T01:49:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694844501786050596",
+    "title": "腾讯又来一王炸，开源版 WorkBuddy 太夯了！",
+    "url": "https://juejin.cn/post/7694844501786050596",
+    "source": "juejin",
+    "score": 0.79084069,
+    "published_at": "2026-10-10T09:36:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694263365225693230",
+    "title": "用原生 JS 做了一个中国历史帝皇梳理的可视化站（7 朝 77 帝 + Leaflet 地图）",
+    "url": "https://juejin.cn/post/7694263365225693230",
+    "source": "juejin",
+    "score": 0.22208593,
+    "published_at": "2026-10-09T04:51:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50039092",
+    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "source": "hackernews",
+    "score": 90.0,
+    "published_at": "2026-10-11T02:02:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50039063",
+    "title": "European Alternatives",
+    "url": "https://buy-european.net/en/alternatives",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-11T01:56:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50039536",
+    "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+    "url": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-10-11T03:21:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50009451",
+    "title": "The Marriage That Captures a High Point of American Art",
+    "url": "https://www.theatlantic.com/culture/2026/10/jackson-pollock-lee-krasner-met-review/688916",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-08T18:00:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50040625",
+    "title": "I wish you the best in the Offline",
+    "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-11T07:53:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50024805",
+    "title": "Deterministic Simulation Testing in Celld",
+    "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-09T18:31:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50015833",
+    "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+    "url": "https://hangul.ink/blog/hangul-day",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-10-09T03:58:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50040547",
+    "title": "3rd Yandex Cloud Data Center Was Hit",
+    "url": "https://status.yandex.cloud/en/incidents/2136",
+    "source": "hackernews",
+    "score": 158.0,
+    "published_at": "2026-10-11T07:34:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50017548",
+    "title": "How big is a Git commit?",
+    "url": "https://ratfactor.com/cards/git-commit-size",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-09T08:13:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50028647",
+    "title": "Decade-old RAM is making a comeback",
+    "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-10-10T01:37:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50040276",
+    "title": "LineageOS 24.0",
+    "url": "https://lineageos.org/Changelog-32/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-11T06:18:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:fbs3k7",
     "title": "Making np.searchsorted up to 25× Faster in NumPy 2.5",
     "url": "https://blog.scientific-python.org/numpy/searchsorted/",
@@ -4676,326 +4996,6 @@
     "source": "hackernews",
     "score": 5.0,
     "published_at": "2026-10-05T15:16:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49953455",
-    "title": "Improving and Stabilizing the Racoon2 IKE Daemon in NetBSD",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-04T12:45:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49986765",
-    "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-    "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-07T01:27:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49988142",
-    "title": "Calling It Quits on ServerFault",
-    "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-10-07T04:22:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49985664",
-    "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "source": "hackernews",
-    "score": 174.0,
-    "published_at": "2026-10-06T23:28:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49986862",
-    "title": "ESP32-C3 Adblock",
-    "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-10-07T01:39:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49978333",
-    "title": "What Is Codemode",
-    "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-10-06T13:41:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49950865",
-    "title": "The cost of lies: A Mineserver story",
-    "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-10-04T05:17:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49987675",
-    "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-    "url": "https://nanochess.org/la_cueva_bbs.html",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-07T03:16:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49987076",
-    "title": "Strands Decider 2B: a small, open-source, decision model",
-    "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-10-07T02:02:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:d0cthg",
-    "title": "How to fix a bug in a fix",
-    "url": "https://projectzero.google/2026/10/emergency-patching.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-06T15:33:01.352-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rmh4fg",
-    "title": "A Terminal Protocol for Program Status (OSC 7501)",
-    "url": "https://mitchellh.com/writing/program-status-osc7501",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-06T16:12:46.779-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:am1cuw",
-    "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
-    "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-06T17:26:46.902-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0slgpl",
-    "title": "That Time I Worked With a Laptop Thief",
-    "url": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
-    "source": "lobsters",
-    "score": 23.0,
-    "published_at": "2026-10-06T15:16:33.717-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693358476032049162",
-    "title": "AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了",
-    "url": "https://juejin.cn/post/7693358476032049162",
-    "source": "juejin",
-    "score": 0.7058753,
-    "published_at": "2026-10-06T11:50:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49983647",
-    "title": "System-level ad-blocking in Android",
-    "url": "https://kevinboone.me/adblock.html",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-10-06T20:29:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49982471",
-    "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
-    "url": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/",
-    "source": "hackernews",
-    "score": 80.0,
-    "published_at": "2026-10-06T18:52:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49982498",
-    "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-    "url": "https://news.ycombinator.com/item?id=49982498",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-06T18:54:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49982735",
-    "title": "Berthd",
-    "url": "https://berthd.app/",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-10-06T19:14:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49984484",
-    "title": "Ask HN: Why is Ask HN only showing me 14 posts?",
-    "url": "https://news.ycombinator.com/item?id=49984484",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-06T21:37:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49984652",
-    "title": "How Fast is Python 3.15?",
-    "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-06T21:52:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49972125",
-    "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
-    "url": "https://news.ycombinator.com/item?id=49972125",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-05T23:24:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49983791",
-    "title": "OpenSSH 10.6",
-    "url": "https://www.openssh.org/releasenotes.html#10.6",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-10-06T20:41:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49984834",
-    "title": "The Query Transformation Pipeline",
-    "url": "https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-06T22:09:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49973644",
-    "title": "LLMs may have helped my RSI",
-    "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-06T03:01:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49983404",
-    "title": "When random is not actually random enough",
-    "url": "https://ersc.io/blog/when-random-isnt-random-enough",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-06T20:12:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49981905",
-    "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-    "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-10-06T18:00:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49983703",
-    "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
-    "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-    "source": "hackernews",
-    "score": 143.0,
-    "published_at": "2026-10-06T20:33:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49984716",
-    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "url": "https://penguin-mail.com/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-06T21:59:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49980487",
-    "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-    "source": "hackernews",
-    "score": 188.0,
-    "published_at": "2026-10-06T16:03:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49983780",
-    "title": "Vibecoding Photoshop: Time and pressure",
-    "url": "https://andreklein.net/vibecoding-photoshop-time-and-pressure/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-06T20:40:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49984025",
-    "title": "Decisions API is in public beta",
-    "url": "https://developers.openai.com/api/docs/guides/decisions",
-    "source": "hackernews",
-    "score": 87.0,
-    "published_at": "2026-10-06T20:57:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49984923",
-    "title": "Sharing AI Progress in Mathematics",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "source": "hackernews",
-    "score": 208.0,
-    "published_at": "2026-10-06T22:17:21+00:00",
     "summary": "",
     "key_points": []
   }
