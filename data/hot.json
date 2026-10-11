@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:fbs3k7",
+    "title": "Making np.searchsorted up to 25× Faster in NumPy 2.5",
+    "url": "https://blog.scientific-python.org/numpy/searchsorted/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-10T18:25:51.517-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rhy5zp",
+    "title": "Consistency is not a localized property",
+    "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-10T19:51:28.569-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247601",
+    "title": "医院和医院还真不一样",
+    "url": "https://www.v2ex.com/t/1247601",
+    "source": "v2ex",
+    "score": 68.0,
+    "published_at": "2026-10-10T05:48:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247639",
+    "title": "那些托管在国外的真正家庭中的机器（mac mini/主机）用 claude 真的会封吗？",
+    "url": "https://www.v2ex.com/t/1247639",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-10-10T07:25:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247542",
+    "title": "从 ChatGPT 转向 Claude 体验好了一大截",
+    "url": "https://www.v2ex.com/t/1247542",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-10-10T02:25:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247677",
+    "title": "AI 时代为什么硬件工程师反而不焦虑",
+    "url": "https://www.v2ex.com/t/1247677",
+    "source": "v2ex",
+    "score": 92.0,
+    "published_at": "2026-10-10T09:08:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247545",
+    "title": "目前最好的语音输入法是哪个?",
+    "url": "https://www.v2ex.com/t/1247545",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-10-10T02:40:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694205589761343503",
+    "title": "Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight",
+    "url": "https://juejin.cn/post/7694205589761343503",
+    "source": "juejin",
+    "score": 0.29894457,
+    "published_at": "2026-10-09T01:51:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7693469680510763017",
+    "title": "跑通了所有测试，却没跑过一句“界面太丑”",
+    "url": "https://juejin.cn/post/7693469680510763017",
+    "source": "juejin",
+    "score": 0.18488776,
+    "published_at": "2026-10-07T17:39:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694262411306762259",
+    "title": "纯前端播 40GB 本地视频？我把浏览器改造成了「磁盘流式」播放器",
+    "url": "https://juejin.cn/post/7694262411306762259",
+    "source": "juejin",
+    "score": 0.3357541,
+    "published_at": "2026-10-09T06:23:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694481800701542446",
+    "title": "Flet 1.0 思路很好，可惜来晚了",
+    "url": "https://juejin.cn/post/7694481800701542446",
+    "source": "juejin",
+    "score": 0.35420168,
+    "published_at": "2026-10-09T07:58:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50006930",
+    "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+    "url": "https://github.com/moritzwilksch/diffle",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-08T15:23:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50020901",
+    "title": "Getting old Macromedia Director Games to run on modern Hardware",
+    "url": "https://werwolv.net/posts/macromedia_copy_protection/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-09T14:18:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50001234",
+    "title": "Retrofitting language models to operate over bytes",
+    "url": "https://www.nature.com/articles/s41586-026-11111-4",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-08T02:15:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50038473",
+    "title": "Veda: The First Agentic Hobby Operating System",
+    "url": "https://github.com/vahmoh25/Veda",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-11T00:22:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50038640",
+    "title": "Generative AI scandal has come to one of Nikon's competitions",
+    "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-11T00:47:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50038623",
+    "title": "PSPi 6 – Raspberry Pi in a PSP",
+    "url": "https://github.com/othermod/PSPi-Version-6",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-11T00:45:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50038634",
+    "title": "WallHop – 12ft.io is gone, so I built a replacement",
+    "url": "https://wallhop.io/",
+    "source": "hackernews",
+    "score": 79.0,
+    "published_at": "2026-10-11T00:46:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9ros7d",
     "title": "The 2D physics prototype behind GTA’s vehicles",
     "url": "https://patkerr.co.uk/2d-vehicles/",
@@ -4816,186 +4996,6 @@
     "source": "hackernews",
     "score": 208.0,
     "published_at": "2026-10-06T22:17:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jwidjn",
-    "title": "Inside the Windows I/O Manager: Deep dive into how read I/O requests are initialized",
-    "url": "https://winware31.blogspot.com/2026/10/inside-windows-io-manager-deep-dive.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-06T14:03:48.107-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4fop73",
-    "title": "Chrome's Response to Recent ccTLD Registry Hijacks",
-    "url": "https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-06T13:00:33.008-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fpcicg",
-    "title": "Last rites for Gentoo's Chromium package",
-    "url": "https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-06T12:46:53.386-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ppzbqo",
-    "title": "Release of Polars 2.0",
-    "url": "https://pola.rs/posts/release-polars-2/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-06T09:30:40.552-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0xpi8s",
-    "title": "Why We Should Inject Dependencies",
-    "url": "https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-06T13:03:04.730-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tcmpcw",
-    "title": "Pared - remove unwanted Apple Intelligence models without disabling SIP",
-    "url": "https://github.com/4evy/pared",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-06T13:27:16.404-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sshhsl",
-    "title": "What is Codemode",
-    "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-06T09:27:03.518-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jxhi2i",
-    "title": "A sustainable web career, for when all this blows over",
-    "url": "https://dbushell.com/2026/10/07/sustainable-web-career/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-06T13:29:11.053-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dwbksa",
-    "title": "Brut, the Brutal Router for Unix Tools",
-    "url": "https://brut.sh",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-06T12:17:23.875-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246664",
-    "title": "Claude 一条龙服务？",
-    "url": "https://www.v2ex.com/t/1246664",
-    "source": "v2ex",
-    "score": 58.0,
-    "published_at": "2026-10-06T11:25:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692742889198387200",
-    "title": "从零用 Java 构建 AI Agent 框架：JavaManus 设计与实现深度解析",
-    "url": "https://juejin.cn/post/7692742889198387200",
-    "source": "juejin",
-    "score": 0.19893571,
-    "published_at": "2026-10-05T12:57:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692741078311157787",
-    "title": "免费截图工具，长截图、OCR 、录屏、水印、聚光灯、马赛克全都有！",
-    "url": "https://juejin.cn/post/7692741078311157787",
-    "source": "juejin",
-    "score": 0.12932693,
-    "published_at": "2026-10-05T00:47:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49953344",
-    "title": "The complement of true is true, except when it's false",
-    "url": "https://dryperspective.github.io/posts/complement-of-true/",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-10-04T12:28:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49977531",
-    "title": "What's Earth's dominant species by mass?",
-    "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-10-06T12:40:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49977689",
-    "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-    "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-06T12:53:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49981063",
-    "title": "Former German spy chief arrested for attempted treason",
-    "url": "https://www.reuters.com/business/finance/former-german-spy-chief-detained-suspicion-espionage-treason-bild-reports-2026-10-06/",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-10-06T16:51:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49976751",
-    "title": "I'm the AGI that's wiping out humanity",
-    "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-10-06T10:59:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49980715",
-    "title": "AI is now capable of developing its own inference hardware",
-    "url": "https://github.com/FeSens/openTPU",
-    "source": "hackernews",
-    "score": 151.0,
-    "published_at": "2026-10-06T16:23:25+00:00",
     "summary": "",
     "key_points": []
   }
