@@ -1,5 +1,195 @@
 [
   {
+    "id": "lobsters:dodzdb",
+    "title": "Highlights from \"I spent 6 years developing a game in Rust and it just shipped, AMA\" (2024)",
+    "url": "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-11T18:28:36.977-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dxftjg",
+    "title": "Tello's GameSir T1d controller as a Linux Xbox controller",
+    "url": "https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-11T17:01:59.484-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qgybwb",
+    "title": "D-Bus Hell",
+    "url": "https://dbushell.com/2026/10/11/d-bus-hell/",
+    "source": "lobsters",
+    "score": 19.0,
+    "published_at": "2026-10-11T15:36:07.477-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247791",
+    "title": "周末不休， 6.1sol 不降智稳的一批，倍率 0.19，十几二十块爽蹬一天，不降智能力拉满综合吊打 6astra，周末人少速度特爽，用中转站的佬可以来切来体验一下不降智的 6.1sol，回复送体验额度。",
+    "url": "https://www.v2ex.com/t/1247791",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-10-11T04:27:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50036023",
+    "title": "Cbirds: A flock of birds in your terminal",
+    "url": "https://github.com/clainstone/cbirds",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-10T19:02:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50046864",
+    "title": "The Unreasonable Effectiveness of Vex in NixOS",
+    "url": "https://blog.kammel.dev/post/nixos_vex/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-10-11T19:23:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50048702",
+    "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
+    "url": "https://github.com/julianjohnson-web/julianflux-research",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-11T22:39:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50039291",
+    "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+    "url": "https://news.ycombinator.com/item?id=50039291",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-11T02:37:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50033486",
+    "title": "FlowCE: Calculus on your TI-84 Plus CE",
+    "url": "https://tommyb3ll.github.io/FlowCE/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-10T14:43:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50033601",
+    "title": "Safe SIMD in Rust, even on the inside",
+    "url": "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-10T14:56:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50048638",
+    "title": "Google is illegaly cutting forest to build data centers",
+    "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-10-11T22:33:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50047825",
+    "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+    "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+    "source": "hackernews",
+    "score": 109.0,
+    "published_at": "2026-10-11T21:07:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50048312",
+    "title": "Passkeys are a trap. Do not use them",
+    "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+    "source": "hackernews",
+    "score": 145.0,
+    "published_at": "2026-10-11T21:59:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50048642",
+    "title": "Fingerprints Are the New Cookies",
+    "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-11T22:33:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50049411",
+    "title": "Whatever became of holography? (2011)",
+    "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-11T23:50:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50048768",
+    "title": "Google Data Centers around the world",
+    "url": "https://datacenters.google/locations/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-11T22:45:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50047422",
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "url": "https://twitter.com/karpathy/status/2109361546505966046",
+    "source": "hackernews",
+    "score": 179.0,
+    "published_at": "2026-10-11T20:20:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50048522",
+    "title": "Recursive self-improvement through collective intelligence",
+    "url": "https://pub.sakana.ai/mass/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-11T22:22:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50047091",
+    "title": "Cartographers of North Korea",
+    "url": "https://cartographers-nk.wonyoung.so/",
+    "source": "hackernews",
+    "score": 153.0,
+    "published_at": "2026-10-11T19:46:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:lxsu0m",
     "title": "Making React Context Cheap with React Compiler",
     "url": "https://jjenzz.com/making-react-context-cheap/",
@@ -4806,196 +4996,6 @@
     "source": "hackernews",
     "score": 38.0,
     "published_at": "2026-10-07T15:19:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49994481",
-    "title": "Open source 160 sound visualization experiments",
-    "url": "https://www.kagan.in/iwrzwr/visual-archive/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-07T15:46:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49992257",
-    "title": "Anti-Patterns in Software Blogging",
-    "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-    "source": "hackernews",
-    "score": 135.0,
-    "published_at": "2026-10-07T13:08:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49980399",
-    "title": "Show HN: Durable Actors – OSS Durable Objects with configurable compute",
-    "url": "https://github.com/TerseAI/durable-actors",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-06T15:58:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49970459",
-    "title": "3D-printing platform rapidly produces complex electric machines",
-    "url": "https://news.mit.edu/2026/3d-printing-platform-rapidly-produces-complex-electric-machines-0218",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-10-05T20:46:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49975373",
-    "title": "Redis in the Wild: Unexpectedly Bumping into Antirez in His Hometown",
-    "url": "https://orazioscicolone.it/posts/2026-10-04-meetantirez/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-06T07:34:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49996542",
-    "title": "AI Model Groupthink",
-    "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-07T18:08:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49995740",
-    "title": "EmDash uses Clef to moderate the plugin registry",
-    "url": "https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-07T17:12:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49993997",
-    "title": "ShinyHunters Extorted Boeing Spin-Off Prior to Arrests",
-    "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-10-07T15:15:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49974173",
-    "title": "Wood Tape (2004)",
-    "url": "http://gamesbyemail.com/WoodTape/Default.htm",
-    "source": "hackernews",
-    "score": 89.0,
-    "published_at": "2026-10-06T04:25:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49993121",
-    "title": "AI-assisted proof of optimal packing for 11 squares",
-    "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-10-07T14:10:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49994027",
-    "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
-    "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
-    "source": "hackernews",
-    "score": 219.0,
-    "published_at": "2026-10-07T15:17:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49996259",
-    "title": "Docker Agent",
-    "url": "https://github.com/docker/docker-agent",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-10-07T17:48:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49993857",
-    "title": "Animated ASCII Art for Web Pages",
-    "url": "https://ascii.rest/",
-    "source": "hackernews",
-    "score": 163.0,
-    "published_at": "2026-10-07T15:05:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49994443",
-    "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-    "url": "https://bigwords.page/",
-    "source": "hackernews",
-    "score": 136.0,
-    "published_at": "2026-10-07T15:44:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49993914",
-    "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
-    "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-    "source": "hackernews",
-    "score": 289.0,
-    "published_at": "2026-10-07T15:09:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49996425",
-    "title": "GPT‑6 and Intelligent UI for everyone",
-    "url": "https://openai.com/index/gpt-6-for-everyone/",
-    "source": "hackernews",
-    "score": 112.0,
-    "published_at": "2026-10-07T18:00:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49996437",
-    "title": "Claude Haiku 5.5",
-    "url": "https://www.anthropic.com/claude-haiku-5-5",
-    "source": "hackernews",
-    "score": 206.0,
-    "published_at": "2026-10-07T18:01:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:v1amrz",
-    "title": "Inside the Mojo compiler",
-    "url": "https://www.youtube.com/watch?v=tWWgCxRKuYo",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-07T04:17:18.337-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cuidxe",
-    "title": "Headers Up! What's New in httpd and relayd",
-    "url": "https://rsadowski.de/posts/2026/update-relayd-and-httpd/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-07T02:05:27.522-05:00",
     "summary": "",
     "key_points": []
   }
