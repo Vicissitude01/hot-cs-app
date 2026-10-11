@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:e84scc",
+    "title": "Hacking the Eufy Doorbell and Base Station",
+    "url": "https://adepts.of0x.cc/Eufy-DoorBell-hacking/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-11T06:54:20.326-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4ehrkn",
+    "title": "I'm still around.. I'm just not writing here",
+    "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-10-11T09:44:03.386-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9wcfld",
+    "title": "How big is a Git commit?",
+    "url": "https://ratfactor.com/cards/git-commit-size",
+    "source": "lobsters",
+    "score": 18.0,
+    "published_at": "2026-10-11T04:25:42.986-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gmnqhj",
+    "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+    "url": "https://verdagon.dev/blog/valen-group-borrowing",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-11T07:23:01.029-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:u9ue6c",
+    "title": "What's Wrong with GitHub",
+    "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
+    "source": "lobsters",
+    "score": 31.0,
+    "published_at": "2026-10-11T04:37:56.100-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247855",
+    "title": "麦当劳现在越来越贵了",
+    "url": "https://www.v2ex.com/t/1247855",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-10-11T11:22:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247811",
+    "title": "相亲贴-找对象自救",
+    "url": "https://www.v2ex.com/t/1247811",
+    "source": "v2ex",
+    "score": 66.0,
+    "published_at": "2026-10-11T06:26:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1247820",
+    "title": "3 个月用了 287 亿的 token。。。",
+    "url": "https://www.v2ex.com/t/1247820",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-10-11T07:43:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694564397683867688",
+    "title": "Genkit Dart 1.0 发布，Flutter 原生的 AI Agent 终于完整了",
+    "url": "https://juejin.cn/post/7694564397683867688",
+    "source": "juejin",
+    "score": 0.27900211,
+    "published_at": "2026-10-10T01:20:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694883716313759795",
+    "title": "最近爆火的 Muse 浙大开源版 nanoMuse，来了！",
+    "url": "https://juejin.cn/post/7694883716313759795",
+    "source": "juejin",
+    "score": 0.40361901,
+    "published_at": "2026-10-10T09:11:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694628974492270643",
+    "title": "一只离线鼠鼠，干翻了一堆在线格式转换网站",
+    "url": "https://juejin.cn/post/7694628974492270643",
+    "source": "juejin",
+    "score": 0.29342878,
+    "published_at": "2026-10-10T02:38:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694150823396163625",
+    "title": "Codex + 可视化大屏工作流实践：15 个行业场景的设计产出合集",
+    "url": "https://juejin.cn/post/7694150823396163625",
+    "source": "juejin",
+    "score": 0.12476413,
+    "published_at": "2026-10-09T00:27:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:chrislgarry/Apollo-11",
+    "title": "Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:lyogavin/airllm",
+    "title": "airllm",
+    "url": "https://github.com/lyogavin/airllm",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:bilawalsidhu/gods-eye-view",
+    "title": "gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50031289",
+    "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
+    "url": "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-10T09:55:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50043110",
+    "title": "Open-Source Microsoft Office Excel, PowerPoint, and Word Replications",
+    "url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-11T13:28:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50030470",
+    "title": "Rat's Register Allocator",
+    "url": "https://hexrat.cc/pages/blog/2026_10_07",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-10-10T07:10:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50043026",
+    "title": "Terence Tao: Math 2.0 [pdf]",
+    "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+    "source": "hackernews",
+    "score": 100.0,
+    "published_at": "2026-10-11T13:16:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50024570",
+    "title": "Rolling the Root Key",
+    "url": "https://blog.apnic.net/2026/10/09/rolling-the-root-key-2/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-09T18:15:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50042330",
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "url": "https://jobs.ashbyhq.com/weave-os",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-10-11T12:01:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50041540",
+    "title": "IRCv3",
+    "url": "https://ircv3.net/",
+    "source": "hackernews",
+    "score": 205.0,
+    "published_at": "2026-10-11T10:11:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50019213",
+    "title": "The Wild West of polyglot docs sites",
+    "url": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-09T11:53:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50018929",
+    "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+    "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-09T11:20:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50042333",
+    "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+    "url": "https://betterwispr.com/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-11T12:01:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50041682",
+    "title": "Nitter: Update Oct 10th seeking funding and legal help",
+    "url": "https://nitter.net",
+    "source": "hackernews",
+    "score": 288.0,
+    "published_at": "2026-10-11T10:37:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50042362",
+    "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+    "url": "https://verdagon.dev/blog/valen-group-borrowing",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-10-11T12:06:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50042425",
+    "title": "The tilde in your PATH may not be your HOME",
+    "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-10-11T12:13:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50042219",
+    "title": "I paid people to try and follow my README",
+    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+    "source": "hackernews",
+    "score": 200.0,
+    "published_at": "2026-10-11T11:47:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50043682",
+    "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+    "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+    "source": "hackernews",
+    "score": 198.0,
+    "published_at": "2026-10-11T14:28:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:7mllxi",
     "title": "JSON Tiles: Fast Analytics on Semi-Structured Data (2021)",
     "url": "https://db.cit.tum.de/~durner/papers/json-tiles-sigmod21.pdf",
@@ -4696,306 +4996,6 @@
     "source": "hackernews",
     "score": 8.0,
     "published_at": "2026-10-04T19:33:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49953939",
-    "title": "The Legend of the Paper Crane",
-    "url": "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-04T13:49:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49988709",
-    "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-    "url": "https://github.com/shader-effects-inc/shaders",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-10-07T05:38:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49956219",
-    "title": "Gallery of Processor Cache Effects (2010)",
-    "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-10-04T17:58:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49954015",
-    "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
-    "url": "https://astrohelm.app/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-04T14:01:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49991078",
-    "title": "Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says",
-    "url": "https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-10-07T11:08:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49990470",
-    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-    "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-10-07T09:51:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49990224",
-    "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-    "url": "https://github.com/szabadkai/c64-keyboard-font/",
-    "source": "hackernews",
-    "score": 114.0,
-    "published_at": "2026-10-07T09:17:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49991227",
-    "title": "Shipping JPEG XL in Chrome",
-    "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-10-07T11:25:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cme2vx",
-    "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
-    "url": "https://tracel.ai/blog/release-0.22.0/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-06T18:57:25.703-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6sogng",
-    "title": "Raspberry Pi Desktop now available for PC and Mac",
-    "url": "https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-06T19:24:16.949-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:se6wbx",
-    "title": "How fast is Python 3.15?",
-    "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-06T21:58:16.154-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:z0lxub",
-    "title": "OpenAI shares mathematics research catalogue",
-    "url": "https://github.com/openai/math",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-06T22:16:26.748-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:njjwgr",
-    "title": "When random is not actually random enough",
-    "url": "https://ersc.io/blog/when-random-isnt-random-enough",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-06T19:43:47.511-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7qjhic",
-    "title": "Is COSMIC DE mogging KDE Plasma?",
-    "url": "https://thelibre.news/is-cosmic-de-mogging-kde-plasma/",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-10-06T19:15:00.506-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246636",
-    "title": "[Token Unlimited 中转站] Azure 官 key 渠道，满血 GPT 模型，最后两天限时优惠，留言赠 $3（新老同享）",
-    "url": "https://www.v2ex.com/t/1246636",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-10-06T06:54:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246645",
-    "title": "大家还搞 Python 吗 , 感觉现在用的不多了啊",
-    "url": "https://www.v2ex.com/t/1246645",
-    "source": "v2ex",
-    "score": 58.0,
-    "published_at": "2026-10-06T08:00:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246735",
-    "title": "公安局或者派出所可以监听微信语音通话吗？或者通过腾讯获取通话内容？",
-    "url": "https://www.v2ex.com/t/1246735",
-    "source": "v2ex",
-    "score": 58.0,
-    "published_at": "2026-10-07T03:01:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246674",
-    "title": "6W 以内的二手车有什么推荐吗？",
-    "url": "https://www.v2ex.com/t/1246674",
-    "source": "v2ex",
-    "score": 62.0,
-    "published_at": "2026-10-06T12:45:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246705",
-    "title": "我要和女朋友结婚了，关于婚纱照，求各位大佬给我点意见！",
-    "url": "https://www.v2ex.com/t/1246705",
-    "source": "v2ex",
-    "score": 66.0,
-    "published_at": "2026-10-06T17:08:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246711",
-    "title": "从转行到失败： 32 岁程序员跨界做女鞋的经历",
-    "url": "https://www.v2ex.com/t/1246711",
-    "source": "v2ex",
-    "score": 78.0,
-    "published_at": "2026-10-06T23:12:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692881705649193001",
-    "title": "单片机底层系列：C 库运行时——从 libspace 到多任务与中断安全",
-    "url": "https://juejin.cn/post/7692881705649193001",
-    "source": "juejin",
-    "score": 0.1464596,
-    "published_at": "2026-10-06T05:13:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7691917465479020607",
-    "title": "我用 Rust 重写了 Pi，启动快了 10 倍",
-    "url": "https://juejin.cn/post/7691917465479020607",
-    "source": "juejin",
-    "score": 0.06864513,
-    "published_at": "2026-10-03T07:42:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692127219867877414",
-    "title": "给 Vue 页面加个 Markdown 编辑器：ME.js 的接入、图片粘贴与音视频",
-    "url": "https://juejin.cn/post/7692127219867877414",
-    "source": "juejin",
-    "score": 0.05270156,
-    "published_at": "2026-10-04T11:40:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7692059206256394249",
-    "title": " 我给 DeepSeek 的编程智能体写了三个插件:余额胶囊、任务面板、番茄钟",
-    "url": "https://juejin.cn/post/7692059206256394249",
-    "source": "juejin",
-    "score": 0.06251747,
-    "published_at": "2026-10-04T03:54:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49987245",
-    "title": "Xbox has secured exclusive GTA 6 streaming rights",
-    "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-07T02:22:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49981186",
-    "title": "California closed the Montana license plate loophole",
-    "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
-    "source": "hackernews",
-    "score": 89.0,
-    "published_at": "2026-10-06T17:00:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49980790",
-    "title": "Treg (OpenRouter for Tools)",
-    "url": "https://github.com/superdesigndev/treg",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-06T16:29:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49985643",
-    "title": "State of Devs 2026",
-    "url": "https://2026.stateofdevs.com/en-US/",
-    "source": "hackernews",
-    "score": 110.0,
-    "published_at": "2026-10-06T23:26:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49987858",
-    "title": "The art of defusing a second world war bomb",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-07T03:43:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49965959",
-    "title": "My Homelab Two Years Later, Every Upgrade and What It Cost",
-    "url": "https://www.joekarlsson.com/blog/homelab-two-years-later/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-05T15:16:10+00:00",
     "summary": "",
     "key_points": []
   }
