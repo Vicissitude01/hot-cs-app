@@ -1,5 +1,335 @@
 [
   {
+    "id": "lobsters:x1ucie",
+    "title": "ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor",
+    "url": "https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-12T13:00:48.328-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cjdy6d",
+    "title": "A modern web app in c",
+    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-10-12T15:52:08.860-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5feguu",
+    "title": "Speeding up the Unreal editor by… not using unnecessarily secure hash methods",
+    "url": "https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-12T13:37:55.759-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:i1lyv7",
+    "title": "512 bytes at a time: reconstructing IBM i save-file checksums",
+    "url": "https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-12T13:12:46.001-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0aocct",
+    "title": "your c is not standard c",
+    "url": "https://sebsite.pw/w/20261012-notstdc.html",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-12T12:17:18.829-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:awjqvn",
+    "title": "What I've been seeing lately (in software)",
+    "url": "https://mei.puppycat.house/w/seeing-261010",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-12T12:08:00.505-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:iufma5",
+    "title": "Parsing JSON at tens of gigabytes per second… in Python",
+    "url": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-12T10:24:45.118-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7vzgsl",
+    "title": "What are you doing this week?",
+    "url": "https://lobste.rs/s/7vzgsl",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-12T12:04:52.208-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mldt0o",
+    "title": "Finding a $90,000 Remote Code Execution Vulnerability in Google",
+    "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+    "source": "lobsters",
+    "score": 22.0,
+    "published_at": "2026-10-12T09:40:35.395-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sozl9e",
+    "title": "(Post-Quantum) Cryptographic Right Answers",
+    "url": "https://words.filippo.io/right-answers/",
+    "source": "lobsters",
+    "score": 38.0,
+    "published_at": "2026-10-12T08:44:38.009-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694614473173352467",
+    "title": "国庆7天AI圈3次大翻车：你还没被割韭菜，代码已先崩盘",
+    "url": "https://juejin.cn/post/7694614473173352467",
+    "source": "juejin",
+    "score": 0.11001984,
+    "published_at": "2026-10-10T05:36:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7694638437243469864",
+    "title": "开源 Vue 3 组件库 Morya UI：把组件、文档、AI 工具链一起做进一个包",
+    "url": "https://juejin.cn/post/7694638437243469864",
+    "source": "juejin",
+    "score": 0.14029536,
+    "published_at": "2026-10-10T06:09:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50052638",
+    "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+    "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+    "source": "hackernews",
+    "score": 162.0,
+    "published_at": "2026-10-12T07:28:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50061278",
+    "title": "OpenFatigue™ – Open is the new closed",
+    "url": "https://openfatigue.ai/",
+    "source": "hackernews",
+    "score": 166.0,
+    "published_at": "2026-10-12T19:08:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50061791",
+    "title": "Making big downloads resumable in Firefox",
+    "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-12T19:36:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50060296",
+    "title": "My Reddit AMA on the Law of Web Scraping",
+    "url": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-10-12T18:02:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50060269",
+    "title": "'AI' Is Not a Tool by Rich Hickey",
+    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+    "source": "hackernews",
+    "score": 97.0,
+    "published_at": "2026-10-12T18:00:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50062237",
+    "title": "Epic Games tells employees to use AI to get Disney game done",
+    "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-10-12T20:07:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50056822",
+    "title": "Solar panels that plug into your wall",
+    "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-10-12T14:19:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50060674",
+    "title": "Publishers Killed the Paperback, Then Blamed Readers",
+    "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-10-12T18:27:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50062922",
+    "title": "In Praise of John Cale, the Superior Velvet",
+    "url": "https://thequietus.com/subscriber-area/low-culture-essay/john-cale-low-culture/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-12T20:52:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50059204",
+    "title": "Thinking will become a hobby",
+    "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+    "source": "hackernews",
+    "score": 172.0,
+    "published_at": "2026-10-12T16:54:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50057668",
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "url": "https://taylor.town/kk-ai-2026",
+    "source": "hackernews",
+    "score": 101.0,
+    "published_at": "2026-10-12T15:16:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50059523",
+    "title": "AI coding agents generate more code, but not more software",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "source": "hackernews",
+    "score": 257.0,
+    "published_at": "2026-10-12T17:14:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50059115",
+    "title": "Muse Wonder",
+    "url": "https://research.meta.ai/blog/muse-wonder",
+    "source": "hackernews",
+    "score": 448.0,
+    "published_at": "2026-10-12T16:48:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50063417",
+    "title": "Phreak.ing – Internet Phone Switch",
+    "url": "https://phreak.ing/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-12T21:39:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50063427",
+    "title": "AI Is a Tool. Using It Well Takes Skill.",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-12T21:40:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50055593",
+    "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+    "url": "https://github.com/h0m3us3r/w1700k-sdr",
+    "source": "hackernews",
+    "score": 208.0,
+    "published_at": "2026-10-12T12:41:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50059096",
+    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+    "url": "https://news.ycombinator.com/item?id=50059096",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-10-12T16:46:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50060694",
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "source": "hackernews",
+    "score": 360.0,
+    "published_at": "2026-10-12T18:29:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50061859",
+    "title": "Writing a Demoscene Intro for the ZX Spectrum",
+    "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-12T19:40:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50058528",
+    "title": "A Modern Web App in C",
+    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+    "source": "hackernews",
+    "score": 307.0,
+    "published_at": "2026-10-12T16:13:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50058507",
+    "title": "GLM-Legal",
+    "url": "https://z.ai/blog/glm-legal",
+    "source": "hackernews",
+    "score": 361.0,
+    "published_at": "2026-10-12T16:11:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nothr5",
     "title": "Implementing kubernetes node bin packing",
     "url": "https://blog.costgraph.ai/node-rightsizing/",
@@ -4666,336 +4996,6 @@
     "source": "juejin",
     "score": 0.78757839,
     "published_at": "2026-10-08T00:24:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693689217004732459",
-    "title": "RAG 面试 6 连问，从原理到优化全部覆盖",
-    "url": "https://juejin.cn/post/7693689217004732459",
-    "source": "juejin",
-    "score": 0.37932333,
-    "published_at": "2026-10-07T15:24:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693805723601764362",
-    "title": "Agent 天天挂在嘴边的沙箱，到底是个啥？",
-    "url": "https://juejin.cn/post/7693805723601764362",
-    "source": "juejin",
-    "score": 0.80874627,
-    "published_at": "2026-10-08T01:36:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693414422438723626",
-    "title": "AI 帮我投资 85 天，最多赚到 3733 元",
-    "url": "https://juejin.cn/post/7693414422438723626",
-    "source": "juejin",
-    "score": 1.32221258,
-    "published_at": "2026-10-07T12:55:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693481478181584932",
-    "title": "A 社为什么反超了",
-    "url": "https://juejin.cn/post/7693481478181584932",
-    "source": "juejin",
-    "score": 0.47391073,
-    "published_at": "2026-10-07T13:54:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693351700208140288",
-    "title": "Blender 建模 + Three.js 展示：和 AI 一起做一个光储充超充站数字孪生大屏",
-    "url": "https://juejin.cn/post/7693351700208140288",
-    "source": "juejin",
-    "score": 0.27600661,
-    "published_at": "2026-10-07T03:35:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693909029785042959",
-    "title": "Dart 4.0 要彻底移除 dart:mirrors，Augmentations 应该要来了",
-    "url": "https://juejin.cn/post/7693909029785042959",
-    "source": "juejin",
-    "score": 1.62804201,
-    "published_at": "2026-10-08T04:27:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694107051320311827",
-    "title": "做全栈是前端骗局还是出路？",
-    "url": "https://juejin.cn/post/7694107051320311827",
-    "source": "juejin",
-    "score": 3.52807853,
-    "published_at": "2026-10-08T08:36:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693225151681560586",
-    "title": "C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB",
-    "url": "https://juejin.cn/post/7693225151681560586",
-    "source": "juejin",
-    "score": 0.28033787,
-    "published_at": "2026-10-06T16:14:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693805723602157578",
-    "title": "一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行",
-    "url": "https://juejin.cn/post/7693805723602157578",
-    "source": "juejin",
-    "score": 1.53939114,
-    "published_at": "2026-10-08T02:09:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:liquidslr/system-design-notes",
-    "title": "system-design-notes",
-    "url": "https://github.com/liquidslr/system-design-notes",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:storytold/artcraft",
-    "title": "artcraft",
-    "url": "https://github.com/storytold/artcraft",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/knowledge-work-plugins",
-    "title": "knowledge-work-plugins",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50000676",
-    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-    "url": "https://github.com/pingdotgg/ts-rust",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-10-08T00:46:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49958194",
-    "title": "Time Travel in Braid (2015)",
-    "url": "https://qntm.org/braid",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-04T21:42:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49983765",
-    "title": "Bloody Cavemen",
-    "url": "https://www.lrb.co.uk/the-paper/v48/n18/edmund-gordon/bloody-cavemen",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-06T20:39:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49975158",
-    "title": "New repository settings for configuring pull request access",
-    "url": "https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-10-06T07:01:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50002426",
-    "title": "Classic PC demoscene productions running natively in the browser",
-    "url": "https://treylorswift.github.io/demoscene-recomp/web/",
-    "source": "hackernews",
-    "score": 110.0,
-    "published_at": "2026-10-08T06:29:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50002505",
-    "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
-    "url": "https://dat-ecosystem.org/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-10-08T06:43:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50003677",
-    "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
-    "url": "https://www.ahmath.org/statements",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-08T09:29:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49997718",
-    "title": "The Mathocalypse",
-    "url": "https://scottaaronson.blog/?p=10169",
-    "source": "hackernews",
-    "score": 289.0,
-    "published_at": "2026-10-07T19:33:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50004777",
-    "title": "Anne Carson wins Nobel Prize in literature 2026",
-    "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-10-08T11:58:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50003107",
-    "title": "OpenAI Withdraws 3 Math Papers",
-    "url": "https://github.com/openai/math/blob/main/history.md",
-    "source": "hackernews",
-    "score": 106.0,
-    "published_at": "2026-10-08T08:08:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50005017",
-    "title": "Telnet BBS Guide",
-    "url": "https://www.telnetbbsguide.com/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-08T12:28:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50004790",
-    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-    "url": "https://quesma.com/blog/invisible-cities-one-shot/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-08T12:00:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49980346",
-    "title": "The Slow Formation of Durable Software",
-    "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-10-06T15:54:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jfxvvk",
-    "title": "On using AI as a writing assistant",
-    "url": "https://ninashamsi.com/writing/i-am-a-bad-writer.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-07T22:07:41.552-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246883",
-    "title": "国庆假期回来后第一天好像人生陷入了一种虚无的状态",
-    "url": "https://www.v2ex.com/t/1246883",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-10-08T00:02:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246863",
-    "title": "AI 有沒有可能真的产生意识呢？",
-    "url": "https://www.v2ex.com/t/1246863",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-10-07T16:42:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246948",
-    "title": "交通事故责任认定",
-    "url": "https://www.v2ex.com/t/1246948",
-    "source": "v2ex",
-    "score": 136.0,
-    "published_at": "2026-10-08T02:26:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246902",
-    "title": "国庆自驾来回两千公里有感",
-    "url": "https://www.v2ex.com/t/1246902",
-    "source": "v2ex",
-    "score": 142.0,
-    "published_at": "2026-10-08T01:27:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246888",
-    "title": "很多决定都是在很短时间内完成的，趁着假期尾巴全力倚己拿下人生第一辆小车车",
-    "url": "https://www.v2ex.com/t/1246888",
-    "source": "v2ex",
-    "score": 194.0,
-    "published_at": "2026-10-08T00:48:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246918",
-    "title": "裸辞三个月：貌似要结束地球 online 了",
-    "url": "https://www.v2ex.com/t/1246918",
-    "source": "v2ex",
-    "score": 202.0,
-    "published_at": "2026-10-08T01:53:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246897",
-    "title": "生活在小县城的孩子怎么开阔眼界，提高认知？",
-    "url": "https://www.v2ex.com/t/1246897",
-    "source": "v2ex",
-    "score": 208.0,
-    "published_at": "2026-10-08T01:17:12+00:00",
     "summary": "",
     "key_points": []
   }
