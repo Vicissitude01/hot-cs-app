@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:4jfegi",
+    "title": "Nixpkgs for the frontend impaired",
+    "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-13T05:55:15.022-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jref3l",
+    "title": "Accelerating the Zig Tokenizer (with AVX-512)",
+    "url": "https://www.youtube.com/watch?v=E6dWIwPLx3s",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-13T15:36:59.449-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5ucftp",
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-13T15:37:52.009-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:y65egs",
+    "title": "Announcing Lix 2.96 “Bingsu”",
+    "url": "https://lix.systems/blog/2026-10-13-lix-2.96-release/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-13T16:17:07.868-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:es1vaj",
+    "title": "Data-oriented Design for Mortals",
+    "url": "https://www.youtube.com/watch?v=uI1Yx1CJAB0",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-13T13:54:29.969-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50075665",
+    "title": "Show HN: XY Music Notation",
+    "url": "https://music.xy.dev/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-10-13T17:43:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50070554",
+    "title": "Worlds more habitable than Earth?",
+    "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-10-13T12:23:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50059542",
+    "title": "Hiking the world in search of rare cheeses",
+    "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-12T17:15:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50077096",
+    "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+    "url": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-13T19:17:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50058649",
+    "title": "IDRs as Records of Intent",
+    "url": "https://wrla.ch/log/2026/10/idrs-as-records-of-intent/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-12T16:20:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50077619",
+    "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+    "url": "https://parsimony.lasu.dev/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-13T19:50:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50067721",
+    "title": "Maybe a better way to track the release history of a Git repo",
+    "url": "https://blog.plover.com/prog/git/history-proposal.html",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-13T06:47:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50070010",
+    "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+    "url": "https://github.com/LargeModGames/spotatui",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-10-13T11:32:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50072286",
+    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-10-13T14:26:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50078686",
+    "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+    "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-10-13T21:01:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50054092",
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "source": "hackernews",
+    "score": 312.0,
+    "published_at": "2026-10-12T10:09:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50077020",
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "url": "https://guitoro.com/",
+    "source": "hackernews",
+    "score": 156.0,
+    "published_at": "2026-10-13T19:11:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50078141",
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "source": "hackernews",
+    "score": 185.0,
+    "published_at": "2026-10-13T20:23:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nsjjo3",
     "title": "Running RAG with a (small) language model in the browser",
     "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
@@ -4816,186 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-10-09T06:39:36.130-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:m2ixv3",
-    "title": "Deeper dive: Keyboard differences between Windows and Macs",
-    "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-09T01:51:52.922-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pbjhnt",
-    "title": "Reverse Engineer Anything",
-    "url": "https://github.com/morluto/rea",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-09T06:53:52.456-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:85k8am",
-    "title": "en-html.org is a Scam Site",
-    "url": "https://etbe.coker.com.au/2026/10/09/en-html-org-scam-site/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-09T02:37:38.877-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3zcaxw",
-    "title": "There are many themes, but this one is yours",
-    "url": "https://earendil.com/posts/system-theme/",
-    "source": "lobsters",
-    "score": 0.0,
-    "published_at": "2026-10-09T07:08:09.491-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dstt3o",
-    "title": "Reducing undefined behavior in the C language",
-    "url": "https://lwn.net/Articles/1095811/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-09T00:30:04.204-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ily7as",
-    "title": "Programming Isn’t Special",
-    "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-    "source": "lobsters",
-    "score": 22.0,
-    "published_at": "2026-10-09T06:09:10.381-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247331",
-    "title": "32 岁做啥啥失败，是不是该被斩杀了？",
-    "url": "https://www.v2ex.com/t/1247331",
-    "source": "v2ex",
-    "score": 124.0,
-    "published_at": "2026-10-09T05:53:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247211",
-    "title": "你们用 AI 写代码，会每次都看它改了什么吗？",
-    "url": "https://www.v2ex.com/t/1247211",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-10-08T16:12:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247192",
-    "title": "这绝对是 Window 最炸裂的终端效果了！",
-    "url": "https://www.v2ex.com/t/1247192",
-    "source": "v2ex",
-    "score": 166.0,
-    "published_at": "2026-10-08T14:22:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247300",
-    "title": "分享一下国庆美国东海岸的行程和花费",
-    "url": "https://www.v2ex.com/t/1247300",
-    "source": "v2ex",
-    "score": 188.0,
-    "published_at": "2026-10-09T03:42:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247361",
-    "title": "[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 迎来 macOS 首发，送 30 个永久 Pro",
-    "url": "https://www.v2ex.com/t/1247361",
-    "source": "v2ex",
-    "score": 256.0,
-    "published_at": "2026-10-09T07:10:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694016286322556969",
-    "title": "后台管理框架存活率大调查（2026版）",
-    "url": "https://juejin.cn/post/7694016286322556969",
-    "source": "juejin",
-    "score": 0.48247971,
-    "published_at": "2026-10-08T06:54:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693828979246186546",
-    "title": "🚀 2026 年 9 月 GitHub 十大热门项目排行榜 🔥",
-    "url": "https://juejin.cn/post/7693828979246186546",
-    "source": "juejin",
-    "score": 0.59237829,
-    "published_at": "2026-10-08T08:49:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:twostraws/SwiftUI-Agent-Skill",
-    "title": "SwiftUI-Agent-Skill",
-    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Robbyant/lingbot-map",
-    "title": "lingbot-map",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:BerriAI/litellm",
-    "title": "litellm",
-    "url": "https://github.com/BerriAI/litellm",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:alibaba/open-code-review",
-    "title": "open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50019451",
-    "title": "The Hetzner Cloud network stack – history and technical overview",
-    "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-09T12:20:55+00:00",
     "summary": "",
     "key_points": []
   }
