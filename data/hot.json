@@ -1,5 +1,365 @@
 [
   {
+    "id": "lobsters:nsjjo3",
+    "title": "Running RAG with a (small) language model in the browser",
+    "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-13T10:56:29.994-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jecehj",
+    "title": "Can Ease of Creation Lead to Decrease in Quality & Value?",
+    "url": "https://pikuma.com/blog/ease-creation-decrease-quality-value",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-13T08:52:46.284-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:oq6nhr",
+    "title": "Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC",
+    "url": "https://easylang.online/ide",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-13T08:37:44.114-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zmuawx",
+    "title": "Lotus Improv on the NeXT",
+    "url": "https://stonetools.ghost.io/lotusimprov-next/",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-10-13T06:15:09.948-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:aasanp",
+    "title": "The reverts will continue until morale improves",
+    "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+    "source": "lobsters",
+    "score": 25.0,
+    "published_at": "2026-10-13T06:37:06.816-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uiulqe",
+    "title": "Did Ente Locker copy my code without attribution?",
+    "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+    "source": "lobsters",
+    "score": 23.0,
+    "published_at": "2026-10-13T08:44:47.394-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:73ssw1",
+    "title": "A plea not to use uv-build",
+    "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+    "source": "lobsters",
+    "score": 27.0,
+    "published_at": "2026-10-13T09:36:52.168-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248372",
+    "title": "2026 年了，还有老架构坚持 MySQL 单表数据不能超过 2000 万行",
+    "url": "https://www.v2ex.com/t/1248372",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-10-13T06:05:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248324",
+    "title": "Claude 很好开啊",
+    "url": "https://www.v2ex.com/t/1248324",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-10-13T03:20:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7695613822451384370",
+    "title": "Flitz ，一个把 Flutter 玩成热插拔 Preview 的有趣项目，不错的思路",
+    "url": "https://juejin.cn/post/7695613822451384370",
+    "source": "juejin",
+    "score": 0.7761235,
+    "published_at": "2026-10-13T00:58:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7695939202564669474",
+    "title": "SQL 编辑器不只是写查询：我用 KStudio 排查一次订单异常",
+    "url": "https://juejin.cn/post/7695939202564669474",
+    "source": "juejin",
+    "score": 2.5186087,
+    "published_at": "2026-10-13T10:22:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:xtool-org/xtool",
+    "title": "xtool",
+    "url": "https://github.com/xtool-org/xtool",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:vercel-labs/skills",
+    "title": "skills",
+    "url": "https://github.com/vercel-labs/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:debpalash/VoiceStudio",
+    "title": "VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50072994",
+    "title": "The United Kingdom Generates Less Electricity per Person Than in the 1970s",
+    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-10-13T15:12:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50070287",
+    "title": "A Visual Intro to Complex Numbers",
+    "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-10-13T12:00:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50068036",
+    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+    "url": "https://blog.character.ai/an-update-on-character-ai/",
+    "source": "hackernews",
+    "score": 176.0,
+    "published_at": "2026-10-13T07:28:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50072120",
+    "title": "How to engineer an AI harness for game development",
+    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-13T14:14:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50074909",
+    "title": "Show HN: How Random Are You?",
+    "url": "https://lab.specr.net/rigged-draw/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-13T16:57:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50069337",
+    "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+    "url": "https://pdftomp3.com/connect-ai/",
+    "source": "hackernews",
+    "score": 135.0,
+    "published_at": "2026-10-13T10:08:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50070741",
+    "title": "BB(10) > Graham's Number",
+    "url": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-10-13T12:40:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50073471",
+    "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+    "url": "https://news.ycombinator.com/item?id=50073471",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-13T15:41:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50074869",
+    "title": "Gemini 4 Argon for Robotics",
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-13T16:55:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50061659",
+    "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+    "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-10-12T19:28:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50071310",
+    "title": "New Apple TV 4K",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+    "source": "hackernews",
+    "score": 153.0,
+    "published_at": "2026-10-13T13:21:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50070593",
+    "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+    "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+    "source": "hackernews",
+    "score": 174.0,
+    "published_at": "2026-10-13T12:26:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50073633",
+    "title": "Redesigning Source Control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-10-13T15:49:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50069971",
+    "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+    "url": "https://eg2.haku.sh/",
+    "source": "hackernews",
+    "score": 306.0,
+    "published_at": "2026-10-13T11:27:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50070302",
+    "title": "Firefox Enterprise",
+    "url": "https://www.firefox.com/en-US/enterprise/",
+    "source": "hackernews",
+    "score": 382.0,
+    "published_at": "2026-10-13T12:00:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50074969",
+    "title": "Coris (YC S22) Is Hiring Back End Engineer",
+    "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-10-13T17:00:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50073221",
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "source": "hackernews",
+    "score": 98.0,
+    "published_at": "2026-10-13T15:25:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50069499",
+    "title": "11 year old unsoundness bugs found in Rust borrow checker",
+    "url": "https://github.com/rust-lang/rust/issues/164250",
+    "source": "hackernews",
+    "score": 551.0,
+    "published_at": "2026-10-13T10:27:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50074289",
+    "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
+    "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-10-13T16:24:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50072913",
+    "title": "Thunderbird for iOS",
+    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+    "source": "hackernews",
+    "score": 144.0,
+    "published_at": "2026-10-13T15:07:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50071017",
+    "title": "Apple HomeView",
+    "url": "https://www.apple.com/apple-homeview/",
+    "source": "hackernews",
+    "score": 453.0,
+    "published_at": "2026-10-13T13:02:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50073879",
+    "title": "Gemini 4 Argon",
+    "url": "https://deepmind.google/models/gemini/",
+    "source": "hackernews",
+    "score": 385.0,
+    "published_at": "2026-10-13T16:03:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:fdxjtr",
     "title": "500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter",
     "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
@@ -4636,366 +4996,6 @@
     "source": "hackernews",
     "score": 11.0,
     "published_at": "2026-10-09T12:20:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50018350",
-    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-10-09T10:00:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50019090",
-    "title": "US proposes $100k charge for international students to do post-graduate work",
-    "url": "https://www.nature.com/articles/d41586-026-02921-7",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-10-09T11:40:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50015515",
-    "title": "Keyboard differences between Windows and Macs",
-    "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-    "source": "hackernews",
-    "score": 194.0,
-    "published_at": "2026-10-09T03:08:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50016489",
-    "title": "MXC - a sandboxed code execution system",
-    "url": "https://github.com/microsoft/mxc",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-10-09T05:51:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50018239",
-    "title": "Once: Cache CLI Commands",
-    "url": "https://github.com/alex0ptr/once",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-09T09:43:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50018088",
-    "title": "I'm in a Meeting",
-    "url": "https://iminafleeting.com/",
-    "source": "hackernews",
-    "score": 109.0,
-    "published_at": "2026-10-09T09:21:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50018420",
-    "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
-    "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-    "source": "hackernews",
-    "score": 152.0,
-    "published_at": "2026-10-09T10:12:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50018817",
-    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "source": "hackernews",
-    "score": 121.0,
-    "published_at": "2026-10-09T11:03:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kfla2w",
-    "title": "Demoting i686 Windows targets to std-only",
-    "url": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-08T16:39:50.616-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gvbqdy",
-    "title": "B-Trees Are Back: Engineering Fast and Pageable Node Layouts",
-    "url": "https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrees-are-back.pdf",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-08T19:52:27.658-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3gikyb",
-    "title": "Bevy 0.20",
-    "url": "https://bevy.org/news/bevy-0-20/",
-    "source": "lobsters",
-    "score": 22.0,
-    "published_at": "2026-10-08T18:21:57.992-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247254",
-    "title": "大家多久没去电影院看电影了",
-    "url": "https://www.v2ex.com/t/1247254",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-10-09T01:50:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247058",
-    "title": "今天的大 A 有 V 友赚钱吗",
-    "url": "https://www.v2ex.com/t/1247058",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-10-08T07:06:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247029",
-    "title": "注册了一个美国公司，可以提供 Claude Code 团队订阅席位。",
-    "url": "https://www.v2ex.com/t/1247029",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-10-08T05:57:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247194",
-    "title": "紧急情况，不应该一脚踩死么，还要点点刹？",
-    "url": "https://www.v2ex.com/t/1247194",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-10-08T14:26:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247032",
-    "title": "JetBrains 确实失势了，首次净亏损也没人聊了",
-    "url": "https://www.v2ex.com/t/1247032",
-    "source": "v2ex",
-    "score": 110.0,
-    "published_at": "2026-10-08T06:00:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247250",
-    "title": "绝了，碰到神人了！一大早给我奶头气堵了",
-    "url": "https://www.v2ex.com/t/1247250",
-    "source": "v2ex",
-    "score": 114.0,
-    "published_at": "2026-10-09T01:41:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247240",
-    "title": "第一次相亲，请教下各位怎么聊，应该聊些什么。",
-    "url": "https://www.v2ex.com/t/1247240",
-    "source": "v2ex",
-    "score": 208.0,
-    "published_at": "2026-10-09T01:12:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694124645507219483",
-    "title": "MCP 已死？Pi 1.0 正式发布，原生支持 MCP！",
-    "url": "https://juejin.cn/post/7694124645507219483",
-    "source": "juejin",
-    "score": 0.433699,
-    "published_at": "2026-10-08T08:25:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694205589761441807",
-    "title": " 🧐 为什么大厂 RAG 从不用纯向量检索？",
-    "url": "https://juejin.cn/post/7694205589761441807",
-    "source": "juejin",
-    "score": 5.63797661,
-    "published_at": "2026-10-09T01:56:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694106511605317658",
-    "title": "程序员 Codex 提问急救卡：7 个常用模板＋组合写法",
-    "url": "https://juejin.cn/post/7694106511605317658",
-    "source": "juejin",
-    "score": 0.82162131,
-    "published_at": "2026-10-08T06:30:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694185019602812968",
-    "title": "朋友面试谈薪报价2w，HR非得压到1.9，还反问他：你就差这1000块钱？后来背调时问了他前同事十几个问题，对方最后直接挂了",
-    "url": "https://juejin.cn/post/7694185019602812968",
-    "source": "juejin",
-    "score": 8.67898079,
-    "published_at": "2026-10-09T01:24:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50002665",
-    "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-    "source": "hackernews",
-    "score": 129.0,
-    "published_at": "2026-10-08T07:07:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50015486",
-    "title": "Anger as man sentenced to death for Facebook comment",
-    "url": "https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-10-09T03:03:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50007993",
-    "title": "Show HN: Jevman – AI decision models play Pac-Man",
-    "url": "https://opper.ai/jevman-benchmark/",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-10-08T16:34:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50009066",
-    "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
-    "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-08T17:39:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50013610",
-    "title": "Bevy 0.20",
-    "url": "https://bevy.org/news/bevy-0-20/",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-10-08T22:57:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50016312",
-    "title": "Show HN: Quake ported to safe Rust, playable in browser",
-    "url": "https://quake-srp.pages.dev/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-09T05:22:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50015074",
-    "title": "Reducing undefined behavior in the C language",
-    "url": "https://lwn.net/Articles/1095811/",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-10-09T02:02:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ibtc9r",
-    "title": "Rolling the Root Key (Update)",
-    "url": "https://ispcol.potaroo.net/2026-10/kskroll.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-08T16:45:09.893-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9mykk7",
-    "title": "Beauty in DVD Menus",
-    "url": "https://vale.rocks/posts/dvd-menus",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-08T10:00:23.959-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dcrosf",
-    "title": "64-Day Certificate Lifetimes Coming Feb 2027",
-    "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-08T14:06:25.805-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1246943",
-    "title": "AI 时代的十字路口",
-    "url": "https://www.v2ex.com/t/1246943",
-    "source": "v2ex",
-    "score": 142.0,
-    "published_at": "2026-10-08T02:24:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693354909602627647",
-    "title": "面试官让我手写一个 Tool Use，我用了 3 种方案",
-    "url": "https://juejin.cn/post/7693354909602627647",
-    "source": "juejin",
-    "score": 0.1601532,
-    "published_at": "2026-10-07T01:40:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50007353",
-    "title": "New gTLD Application for .lan",
-    "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
-    "source": "hackernews",
-    "score": 96.0,
-    "published_at": "2026-10-08T15:51:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50006012",
-    "title": "Orkut.com",
-    "url": "https://orkut.com/",
-    "source": "hackernews",
-    "score": 131.0,
-    "published_at": "2026-10-08T14:09:53+00:00",
     "summary": "",
     "key_points": []
   }
