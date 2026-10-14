@@ -1,5 +1,295 @@
 [
   {
+    "id": "lobsters:sj09ps",
+    "title": "Building a Linearizable Log on READ COMMITTED Isolation",
+    "url": "https://materialize.com/blog/building-a-linearizable-log-on-read-committed/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-14T08:43:10.987-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:plbei0",
+    "title": "OpenFatigue™ — Open is the new closed",
+    "url": "https://openfatigue.ai/",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-10-14T06:24:24.996-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lmx2hi",
+    "title": "Package managers have an integrity problem",
+    "url": "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-14T11:14:11.534-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tehays",
+    "title": "GitLab warns of max severity code execution vulnerability",
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-14T10:55:52.017-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:x9fqa4",
+    "title": "Awesome Gaming on Linux Without Cheating",
+    "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-14T10:13:26.313-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mf3tmv",
+    "title": "ZXC: Lossless compression built for ultra-fast decode",
+    "url": "https://libzxc.org/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-14T09:36:51.412-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:a4ljnh",
+    "title": "Factor 0.102 now available",
+    "url": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-14T08:42:39.966-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:j4tlzg",
+    "title": "What I Self-Host | Aspirational Self Hosting Guide",
+    "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-14T10:32:48.892-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248601",
+    "title": "如果这份工作没了",
+    "url": "https://www.v2ex.com/t/1248601",
+    "source": "v2ex",
+    "score": 138.0,
+    "published_at": "2026-10-14T02:02:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7695579556078993442",
+    "title": "从“会说”到“能做”：设备运维 AI 落地实录",
+    "url": "https://juejin.cn/post/7695579556078993442",
+    "source": "juejin",
+    "score": 0.39826541,
+    "published_at": "2026-10-12T11:12:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50090662",
+    "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+    "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-14T16:45:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50086363",
+    "title": "Nvidia's first GPU: GeForce 256",
+    "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-14T12:05:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50062575",
+    "title": "The Genealogy of Eliza",
+    "url": "https://elizagen.org/genealogy.html",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-12T20:29:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50088447",
+    "title": "Strands Decider: Why Not an Encoder?",
+    "url": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-14T14:40:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50090443",
+    "title": "Why do LLM pelicans look like this?",
+    "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+    "source": "hackernews",
+    "score": 115.0,
+    "published_at": "2026-10-14T16:33:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50087337",
+    "title": "Scientists Are Teaching Birds to Sing Lost Songs",
+    "url": "https://e360.yale.edu/digest/teaching-birds-lost-songs",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-14T13:20:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50091647",
+    "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-14T17:37:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50088430",
+    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+    "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+    "source": "hackernews",
+    "score": 145.0,
+    "published_at": "2026-10-14T14:38:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50090842",
+    "title": "Linus Torvalds's first LLM-assisted patch series",
+    "url": "https://lwn.net/Articles/1100449/",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-10-14T16:55:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50090799",
+    "title": "Has AI Tells",
+    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-14T16:52:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50055632",
+    "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+    "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-10-12T12:44:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50090349",
+    "title": "Google is silently linking your phone number across all signed-in accounts",
+    "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-10-14T16:28:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50091519",
+    "title": "US report details extent of 'devastating' dating-app scams",
+    "url": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-14T17:31:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50088643",
+    "title": "Running Windows desktop tests from Linux with disposable VMs",
+    "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-10-14T14:55:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50088713",
+    "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+    "url": "https://github.com/graphicle-ai/graphicle",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-14T15:00:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50065572",
+    "title": "LittleJS is 2D and 3D now",
+    "url": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-13T01:50:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50090246",
+    "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+    "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+    "source": "hackernews",
+    "score": 142.0,
+    "published_at": "2026-10-14T16:24:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50089229",
+    "title": "Submarine cable resilience",
+    "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-10-14T15:31:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50090369",
+    "title": "Better HTTP/1 connection reuse in Go 1.27",
+    "url": "https://go.dev/blog/http-connection-reuse",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-10-14T16:29:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:d1c8zn",
     "title": "Plasma 6.8 released (KDE's 30th birthday)",
     "url": "https://kde.org/announcements/plasma/6/6.8.0/",
@@ -4706,296 +4996,6 @@
     "source": "hackernews",
     "score": 293.0,
     "published_at": "2026-10-10T09:51:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50024242",
-    "title": "Rampart: Browser native on-device PII radaction",
-    "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-09T17:52:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50031614",
-    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "url": "https://github.com/rociiu/talorys",
-    "source": "hackernews",
-    "score": 115.0,
-    "published_at": "2026-10-10T10:52:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50033407",
-    "title": "Bitwarden Dual License Model",
-    "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-    "source": "hackernews",
-    "score": 98.0,
-    "published_at": "2026-10-10T14:32:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lgxq91",
-    "title": "There's little that's \"inevitable\" about AI",
-    "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-10T04:08:30.104-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:txa6dj",
-    "title": "1-click MMI execution in Android",
-    "url": "https://karansaini.com/mmi-android/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-10T02:20:53.136-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gqaqgq",
-    "title": "Voxlocal: a minimal voice agent written in Rust",
-    "url": "https://samkhawase.com/blog/voxlocal-minimal-voice-agent/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-10T03:42:06.202-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:skpliy",
-    "title": "Adding Go's defer to the TypeScript Compiler",
-    "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-10T00:34:40.410-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rb2ulg",
-    "title": "oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c",
-    "url": "https://sebsite.pw/w/20261009-strtod.html",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-10T00:37:18.608-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247540",
-    "title": "Apple TV 看样子真要来了",
-    "url": "https://www.v2ex.com/t/1247540",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-10-10T02:20:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247525",
-    "title": "曝光一个互联网小骗子 本站用户 @missx",
-    "url": "https://www.v2ex.com/t/1247525",
-    "source": "v2ex",
-    "score": 110.0,
-    "published_at": "2026-10-10T01:49:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247591",
-    "title": "深圳社保上涨. 需要补缴..",
-    "url": "https://www.v2ex.com/t/1247591",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-10-10T05:28:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247422",
-    "title": "你们现在花在 AI 上的月度开销是多少？",
-    "url": "https://www.v2ex.com/t/1247422",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-10-09T09:49:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247527",
-    "title": "做了一个“珠光宝气”的页面， V 友看看咋样，提提意见",
-    "url": "https://www.v2ex.com/t/1247527",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-10-10T01:53:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247509",
-    "title": "五年后，还有多少程序员能靠写代码活着？",
-    "url": "https://www.v2ex.com/t/1247509",
-    "source": "v2ex",
-    "score": 150.0,
-    "published_at": "2026-10-10T01:19:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247511",
-    "title": "超过 500 行的代码改动， codex 根本无法独立完成。astra 也不行",
-    "url": "https://www.v2ex.com/t/1247511",
-    "source": "v2ex",
-    "score": 190.0,
-    "published_at": "2026-10-10T01:26:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247465",
-    "title": "十年挚友，突然离世",
-    "url": "https://www.v2ex.com/t/1247465",
-    "source": "v2ex",
-    "score": 214.0,
-    "published_at": "2026-10-09T14:08:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49980208",
-    "title": "Communication Between the Compiler, the Build System, and Beyond",
-    "url": "https://shrub.industries/words/problem.html",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-06T15:44:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50006734",
-    "title": "Vegetative Electron Microscopy WTF? (2025)",
-    "url": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-08T15:06:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49998350",
-    "title": "I tried to move my notes out of Emacs. I failed. Again",
-    "url": "https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-07T20:27:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50028027",
-    "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
-    "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-10-09T23:53:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49981264",
-    "title": "How to head into VR without wearing a headset",
-    "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-10-06T17:07:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50029830",
-    "title": "Food processing influences metabolism and brain activity",
-    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-10-10T05:22:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50010986",
-    "title": "Cube Type – Isometric Typography Generator",
-    "url": "https://typeincube.com/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-08T19:41:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49997481",
-    "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
-    "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-    "source": "hackernews",
-    "score": 153.0,
-    "published_at": "2026-10-07T19:15:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50029982",
-    "title": "Computers Cannot Make Decisions",
-    "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-10-10T05:47:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50029123",
-    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-    "source": "hackernews",
-    "score": 161.0,
-    "published_at": "2026-10-10T03:02:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nxspz6",
-    "title": "No Man Is an Island",
-    "url": "https://borretti.me/article/no-man-is-an-island",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-09T20:37:07.995-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:46lhbm",
-    "title": "Patches Updated To Begin Removing The Linux x32 ABI",
-    "url": "https://www.phoronix.com/news/Patches-Removing-Linux-x32-ABI",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-09T21:18:02.194-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247383",
-    "title": "[送码] Picser 3.0 上线：我开发的 macOS 看图软件加了挑片功能",
-    "url": "https://www.v2ex.com/t/1247383",
-    "source": "v2ex",
-    "score": 100.0,
-    "published_at": "2026-10-09T08:04:19+00:00",
     "summary": "",
     "key_points": []
   }
