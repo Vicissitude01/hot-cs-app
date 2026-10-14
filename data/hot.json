@@ -1,5 +1,135 @@
 [
   {
+    "id": "lobsters:fppgkl",
+    "title": "The 2026 Maintainers Summit",
+    "url": "https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-13T17:25:00.766-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xatiaj",
+    "title": "Please stop hashing the public key first (or: ML-DSA's µ annoys me)",
+    "url": "https://blog.erincandescent.net/2026/10/mu-annoys-me/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-13T17:01:20.307-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248294",
+    "title": "纯前端对接接口的痛， AI 真的解决了吗？",
+    "url": "https://www.v2ex.com/t/1248294",
+    "source": "v2ex",
+    "score": 104.0,
+    "published_at": "2026-10-13T02:13:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248362",
+    "title": "Piczo 相册照片自动分类 | 送码",
+    "url": "https://www.v2ex.com/t/1248362",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-10-13T05:37:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248323",
+    "title": "今年双十一，你们有什么要买的？",
+    "url": "https://www.v2ex.com/t/1248323",
+    "source": "v2ex",
+    "score": 146.0,
+    "published_at": "2026-10-13T03:18:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7695700837499519014",
+    "title": "12个UI组件库，Star最低的下载最多",
+    "url": "https://juejin.cn/post/7695700837499519014",
+    "source": "juejin",
+    "score": 0.547247,
+    "published_at": "2026-10-13T05:16:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7695725609003778111",
+    "title": "开源GIS老大翻脸了：两条规定，AI辅助代码彻底出局",
+    "url": "https://juejin.cn/post/7695725609003778111",
+    "source": "juejin",
+    "score": 0.52778825,
+    "published_at": "2026-10-13T05:56:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50057612",
+    "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
+    "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-12T15:12:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50079437",
+    "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+    "url": "https://www.pi.website/blog/api-beta",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-13T21:55:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50079464",
+    "title": "AlphaNIST",
+    "url": "https://alpha-nist.github.io/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-10-13T21:57:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50079865",
+    "title": "Recreational Programming",
+    "url": "https://www.cphiri.dev/presentations/recreational-programming",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-10-13T22:33:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50053487",
+    "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+    "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-12T09:05:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50080275",
+    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+    "url": "https://pulseos.finance",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-10-13T23:13:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:4jfegi",
     "title": "Nixpkgs for the frontend impaired",
     "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
@@ -4866,136 +4996,6 @@
     "source": "hackernews",
     "score": 112.0,
     "published_at": "2026-10-09T07:44:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50020533",
-    "title": "'Wallace and Gromit,' 90% Alone",
-    "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-09T13:49:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49983582",
-    "title": "Training Text-to-Image Models Without a VAE",
-    "url": "https://www.linum.ai/field-notes/pyramid-jit",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-06T20:24:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50024499",
-    "title": "Show HN: See *almost* any carriers phone settings",
-    "url": "https://carrierexplode.com/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-09T18:10:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50021540",
-    "title": "Germany transforms former coal mines into Europe's largest lake landscape",
-    "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
-    "source": "hackernews",
-    "score": 130.0,
-    "published_at": "2026-10-09T15:05:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50024927",
-    "title": "You Might Want to Try Being Less Creative",
-    "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-09T18:39:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50019056",
-    "title": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
-    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-09T11:36:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50022292",
-    "title": "Triple-A Minesweeper",
-    "url": "https://minesweeper.mikelacher.com/",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-10-09T15:51:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50023450",
-    "title": "TypeSafe a Raises $870M at a $7.5B",
-    "url": "https://typesafe.ai/blog/series-ai",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-10-09T17:02:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50020014",
-    "title": "Our $445M Series D",
-    "url": "https://oxide.computer/blog/our-445m-series-d",
-    "source": "hackernews",
-    "score": 424.0,
-    "published_at": "2026-10-09T13:12:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50024669",
-    "title": "M7.6 Earthquake in Panama",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-10-09T18:22:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50019911",
-    "title": "Cloudflare acquires Deno",
-    "url": "https://deno.com/blog/cloudflare",
-    "source": "hackernews",
-    "score": 777.0,
-    "published_at": "2026-10-09T13:03:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:t3xjln",
-    "title": "What are you doing this weekend?",
-    "url": "https://lobste.rs/s/t3xjln",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-09T07:53:09.890-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:meoyc6",
-    "title": "The making of a very fast SPI flasher",
-    "url": "https://localcc.cc/blog/dualnand-opt/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-09T06:39:36.130-05:00",
     "summary": "",
     "key_points": []
   }
