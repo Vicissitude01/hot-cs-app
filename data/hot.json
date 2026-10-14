@@ -1,5 +1,345 @@
 [
   {
+    "id": "lobsters:d1c8zn",
+    "title": "Plasma 6.8 released (KDE's 30th birthday)",
+    "url": "https://kde.org/announcements/plasma/6/6.8.0/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-14T06:29:51.369-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ckdir0",
+    "title": "Lockstep to pipeline in almost one line",
+    "url": "https://andersmurphy.com/2026/10/12/lockstep-to-pipeline-in-one-line.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-14T06:44:23.759-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rrazyb",
+    "title": "Linux Lockdown and Hibernation (again)",
+    "url": "https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-14T03:52:30.291-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:g46xkj",
+    "title": "A UAF turned RCE",
+    "url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-14T04:44:11.288-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:stmtap",
+    "title": "My Game's Procedural Dialogue System",
+    "url": "https://www.youtube.com/watch?v=NaW0d7Tghw0",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-14T05:50:19.584-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tsjuje",
+    "title": "yet another place where a linux man page is inaccurate",
+    "url": "https://sebsite.pw/w/20261014-initstate.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-14T06:18:09.977-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cwota8",
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-14T02:54:56.274-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7xg9rm",
+    "title": "Introducing Firefox Enterprise",
+    "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+    "source": "lobsters",
+    "score": 20.0,
+    "published_at": "2026-10-14T06:06:48.863-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248643",
+    "title": "冰箱是否高价都是智商税，有必要买贵的吗",
+    "url": "https://www.v2ex.com/t/1248643",
+    "source": "v2ex",
+    "score": 142.0,
+    "published_at": "2026-10-14T03:01:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248672",
+    "title": "考虑再三，我发现，不换车最省钱",
+    "url": "https://www.v2ex.com/t/1248672",
+    "source": "v2ex",
+    "score": 192.0,
+    "published_at": "2026-10-14T03:47:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696056043500716066",
+    "title": "程序员 1v1 访谈系列第二期：很焦虑但又不知道干啥",
+    "url": "https://juejin.cn/post/7696056043500716066",
+    "source": "juejin",
+    "score": 1.79731659,
+    "published_at": "2026-10-14T01:26:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7695999629461291034",
+    "title": "Gemini4 首测，让我伤心欲绝，Claude陨落了！",
+    "url": "https://juejin.cn/post/7695999629461291034",
+    "source": "juejin",
+    "score": 1.80381305,
+    "published_at": "2026-10-14T02:33:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:NationalSecurityAgency/ghidra",
+    "title": "ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ntdevlabs/tiny11builder",
+    "title": "tiny11builder",
+    "url": "https://github.com/ntdevlabs/tiny11builder",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:rust-lang/rust",
+    "title": "rust",
+    "url": "https://github.com/rust-lang/rust",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:vxcontrol/pentagi",
+    "title": "pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ifixai-ai/iFixAi",
+    "title": "iFixAi",
+    "url": "https://github.com/ifixai-ai/iFixAi",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:HKUDS/CLI-Anything",
+    "title": "CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:K-Dense-AI/scientific-agent-skills",
+    "title": "scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:nvm-sh/nvm",
+    "title": "nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50086313",
+    "title": "Smart people don't think others are stupid",
+    "url": "https://sive.rs/ss",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-10-14T12:01:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50060606",
+    "title": "FCSS 2: Utility CSS that reads like CSS",
+    "url": "https://github.com/meerita/FCSS2",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-12T18:23:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50085302",
+    "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+    "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-14T10:26:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50064673",
+    "title": "The Origin Story of Kid Pix",
+    "url": "http://red-green-blue.com/kid-pix-the-early-years",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-10-12T23:52:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50082021",
+    "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+    "url": "https://strafe.chat/",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-10-14T03:28:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50071466",
+    "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+    "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-13T13:31:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50085022",
+    "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+    "url": "https://museumofages.org/w/vinci",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-14T10:00:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50084838",
+    "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+    "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-10-14T09:37:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50084757",
+    "title": "Amazon pushes up prices across the Internet",
+    "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+    "source": "hackernews",
+    "score": 142.0,
+    "published_at": "2026-10-14T09:28:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50085323",
+    "title": "TV4 postpones show after AI agent erases edited material",
+    "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-14T10:28:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50085306",
+    "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+    "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-10-14T10:26:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50086484",
+    "title": "The Aaronson Oracle",
+    "url": "https://aaronsonoracle.com/",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-14T12:16:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50086165",
+    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+    "url": "https://github.com/timescale/pg_vectorsearch",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-14T11:47:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50084240",
+    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "url": "https://typeof.net/Iosevka/",
+    "source": "hackernews",
+    "score": 262.0,
+    "published_at": "2026-10-14T08:27:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:glfn7i",
     "title": "Conquering Recursion",
     "url": "https://nsl.com/misc/Conquering_Recursion.html",
@@ -4656,346 +4996,6 @@
     "source": "v2ex",
     "score": 100.0,
     "published_at": "2026-10-09T08:04:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247297",
-    "title": "换车选极氪 009 还是 MEGA",
-    "url": "https://www.v2ex.com/t/1247297",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-10-09T03:40:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247310",
-    "title": "[免费赠] PolyDrive Disk: NTFS 和 Linux 盘在 Finder 里自由读写",
-    "url": "https://www.v2ex.com/t/1247310",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-10-09T04:09:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247313",
-    "title": "记录一次关于我和楼上隔壁邻居魔法咚咚咚",
-    "url": "https://www.v2ex.com/t/1247313",
-    "source": "v2ex",
-    "score": 148.0,
-    "published_at": "2026-10-09T04:17:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247354",
-    "title": "大家有什么二手便宜好物推荐吗？感觉生活很枯燥，想买点东西玩一玩或者折腾点什么东西",
-    "url": "https://www.v2ex.com/t/1247354",
-    "source": "v2ex",
-    "score": 162.0,
-    "published_at": "2026-10-09T06:55:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694131662615117851",
-    "title": "WorkBuddy悄悄干了件大事，下一代Office真来了！",
-    "url": "https://juejin.cn/post/7694131662615117851",
-    "source": "juejin",
-    "score": 0.4178903,
-    "published_at": "2026-10-08T10:20:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694121230733246499",
-    "title": "GROUP BY 先别想当然，查汇总前把规则跑清楚",
-    "url": "https://juejin.cn/post/7694121230733246499",
-    "source": "juejin",
-    "score": 0.43675796,
-    "published_at": "2026-10-08T10:35:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694490288811376680",
-    "title": "有了 Parallels Desktop，我终于不用问别人借Windows电脑用了",
-    "url": "https://juejin.cn/post/7694490288811376680",
-    "source": "juejin",
-    "score": 1.34062117,
-    "published_at": "2026-10-09T10:14:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:boykopovar/AnyPS5",
-    "title": "AnyPS5",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50028162",
-    "title": "How Strong Is the Strong Force?",
-    "url": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-10T00:13:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50027694",
-    "title": "Rewriting Prime Agent in Rust",
-    "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-09T23:06:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50024090",
-    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-10-09T17:42:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50023995",
-    "title": "Scam American companies are using to manipulate ingredient lists",
-    "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-10-09T17:35:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50027884",
-    "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
-    "url": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-09T23:32:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50027118",
-    "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-10-09T22:00:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49984854",
-    "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
-    "url": "https://www.nature.com/articles/s41598-020-73426-0",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-10-06T22:10:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50002114",
-    "title": "Smart contracts: Ship the parachute in v1",
-    "url": "https://medium.com/@giladha/ship-the-parachute-in-v1-why-upgradeability-and-disaster-recovery-are-not-v2-features-88191f35ba1c",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-08T05:39:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50028062",
-    "title": "Has the Autonomous Trucking Revolution Arrived?",
-    "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-09T23:57:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50027590",
-    "title": "Atari Falcon",
-    "url": "https://atarimuseum.nl/atari-falcon/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-09T22:54:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50027234",
-    "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
-    "url": "https://www.nber.org/papers/w35854",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-09T22:12:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50027853",
-    "title": "Compiling Rust to readable C with Eurydice",
-    "url": "https://lwn.net/Articles/1055211/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-10-09T23:28:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50028059",
-    "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
-    "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-10-09T23:56:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50021410",
-    "title": "Can you use autoregressive diffusion to generate market data?",
-    "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-09T14:56:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50028275",
-    "title": "REA Reverse – Engineer Anything",
-    "url": "https://rea.tools/",
-    "source": "hackernews",
-    "score": 101.0,
-    "published_at": "2026-10-10T00:37:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yrcmjj",
-    "title": "A Practical Guide to “Plug&Pwn” for Pentesters and Defenders",
-    "url": "https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-09T15:25:21.595-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5n7zxa",
-    "title": "Equality Saturation: An “Incomplete” Project",
-    "url": "https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-09T12:49:54.519-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:o8xo9z",
-    "title": "The importance of communities around software",
-    "url": "https://lumi.codeberg.page/blog/software-community.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-09T16:27:20.935-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8rrtma",
-    "title": "Cloudflare shutting down Deno is news, not just PR",
-    "url": "https://lobste.rs/s/8rrtma",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-09T16:20:03.262-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dsbt5a",
-    "title": "Branches in branch-free code",
-    "url": "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-09T14:31:17.250-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qwqne6",
-    "title": "Lifeguard: A static analyzer for Python lazy imports compatibility",
-    "url": "https://github.com/Facebook/lifeguard",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-09T16:44:50.573-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50020947",
-    "title": "Why are coding agents so dumb?",
-    "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-10-09T14:21:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50026734",
-    "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
-    "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-09T21:25:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50005772",
-    "title": "How to Fix autoconf-style Configuration Probing",
-    "url": "https://build2.org/blog/fix-autoconf.xhtml",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-08T13:48:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50022266",
-    "title": "A statement on the Tor Project's relationship with Mullvad",
-    "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-10-09T15:49:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50024913",
-    "title": "Microsoft-Decision-1, our model for fast decision-making",
-    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-10-09T18:38:44+00:00",
     "summary": "",
     "key_points": []
   }
