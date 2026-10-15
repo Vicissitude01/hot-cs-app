@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:wcoes4",
+    "title": "We found a Chinese fleet",
+    "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-14T15:08:19.956-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9lqyul",
+    "title": "ito - build terminal ui in lua",
+    "url": "https://uji.sh/ito",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-14T17:27:10.044-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248758",
+    "title": "为什么不让已经退休的人继续缴纳社保？",
+    "url": "https://www.v2ex.com/t/1248758",
+    "source": "v2ex",
+    "score": 110.0,
+    "published_at": "2026-10-14T08:13:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248883",
+    "title": "有没有觉得现在经济复苏的很好",
+    "url": "https://www.v2ex.com/t/1248883",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-10-15T00:43:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248773",
+    "title": "今年 44，公司从 10 个人裁到现在，只剩我一个",
+    "url": "https://www.v2ex.com/t/1248773",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-10-14T08:55:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248931",
+    "title": "理发偶遇,感觉蛋糕分配差距太大了",
+    "url": "https://www.v2ex.com/t/1248931",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-10-15T02:18:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248789",
+    "title": "[补送码] Nas 音乐播放器的终极解决方案： Mu3ic",
+    "url": "https://www.v2ex.com/t/1248789",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-10-14T09:38:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248693",
+    "title": "替朋友请教人生的路该如何走",
+    "url": "https://www.v2ex.com/t/1248693",
+    "source": "v2ex",
+    "score": 132.0,
+    "published_at": "2026-10-14T05:02:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248902",
+    "title": "完了，股灾",
+    "url": "https://www.v2ex.com/t/1248902",
+    "source": "v2ex",
+    "score": 132.0,
+    "published_at": "2026-10-15T01:37:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248884",
+    "title": "比亚迪新车大汉上市，高速续航 566km，续航不及特斯拉与小米",
+    "url": "https://www.v2ex.com/t/1248884",
+    "source": "v2ex",
+    "score": 154.0,
+    "published_at": "2026-10-15T00:48:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248818",
+    "title": "我让 Gemini 4 当高管、DeepSeek 当员工，开了一家软件公司",
+    "url": "https://www.v2ex.com/t/1248818",
+    "source": "v2ex",
+    "score": 192.0,
+    "published_at": "2026-10-14T12:24:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248876",
+    "title": "大家看有短剧的习惯吗? 每天刷多少分钟?",
+    "url": "https://www.v2ex.com/t/1248876",
+    "source": "v2ex",
+    "score": 212.0,
+    "published_at": "2026-10-15T00:04:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696118815168954419",
+    "title": "AI 时代，软件程序员未来 10—15 年的职业前景",
+    "url": "https://juejin.cn/post/7696118815168954419",
+    "source": "juejin",
+    "score": 0.84485712,
+    "published_at": "2026-10-14T07:42:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696048084749484082",
+    "title": "太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA",
+    "url": "https://juejin.cn/post/7696048084749484082",
+    "source": "juejin",
+    "score": 0.61520122,
+    "published_at": "2026-10-14T01:09:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696118815167807539",
+    "title": "老干妈靠AI闷赚54亿，你的AI还在写文案？",
+    "url": "https://juejin.cn/post/7696118815167807539",
+    "source": "juejin",
+    "score": 0.89638447,
+    "published_at": "2026-10-14T03:59:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50098454",
+    "title": "Show HN: My Terminal Themes Web App",
+    "url": "https://news.ycombinator.com/item?id=50098454",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-15T02:33:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50053384",
+    "title": "Catch a Bird – I made it for my own sanity",
+    "url": "https://catchabird.com",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-10-12T08:51:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50071546",
+    "title": "Your C is not standard C",
+    "url": "https://sebsite.pw/w/20261012-notstdc.html",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-10-13T13:36:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50098274",
+    "title": "The Double Headed Stack Allocator",
+    "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-15T02:06:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50077709",
+    "title": "Donaldson Futuro House in Idyllwild, California, USA",
+    "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-13T19:55:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50070661",
+    "title": "It took me nine years to hack my Xbox 360",
+    "url": "https://kennedn.com/blog/posts/glitching/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-13T12:33:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50098570",
+    "title": "One in ten people are older than 65. Three in four live under a leader who is",
+    "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-10-15T02:53:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50098702",
+    "title": "Future of Cancer Care Today (FCCT)",
+    "url": "https://sijbrandijfoundation.org/fcct",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-10-15T03:18:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:5m8mle",
     "title": "How the L0pht (probably) optimized attack against the LanMan hash",
     "url": "https://modexp.wordpress.com/2019/02/02/3883/",
@@ -4766,236 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cathrynlavery/diagram-design",
-    "title": "diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:morluto/rea",
-    "title": "rea",
-    "url": "https://github.com/morluto/rea",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50037299",
-    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-10T21:19:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50021899",
-    "title": "Five months treating bugs like patients and coding agents like a medical team",
-    "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-09T15:26:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49998116",
-    "title": "A nuclear clock synchronized to 229Th",
-    "url": "https://www.nature.com/articles/s41586-026-11122-1",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-07T20:07:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50034123",
-    "title": "MrBeast 'spends millions reverse engineering the algorithms on each platform'",
-    "url": "https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-10T15:51:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50037949",
-    "title": "Build your own decision model",
-    "url": "https://nishtahir.com/build-your-own-decision-model/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-10T22:50:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50036864",
-    "title": "A city-building game in which the city would prefer you didn't",
-    "url": "https://housing.over.pizza/",
-    "source": "hackernews",
-    "score": 95.0,
-    "published_at": "2026-10-10T20:31:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gytcvn",
-    "title": "Why 'externalized' proofs of cyclic trait impls does not work",
-    "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-10T11:56:48.129-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4zmka2",
-    "title": "Kiesel Devlog #15: Release 0.4.0",
-    "url": "https://linus.dev/posts/kiesel-devlog-15/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-10T12:55:46.216-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5zbbd0",
-    "title": "SNTPings, draw on a canvas using ICMPv6",
-    "url": "https://pings.utwente.io/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-10T12:05:41.253-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247523",
-    "title": "用 Rust + GPUI 写了个开源 SSH 客户端 ShellRS： Xshell 式终端 + WinSCP 式 SFTP",
-    "url": "https://www.v2ex.com/t/1247523",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-10-10T01:46:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693915625802907689",
-    "title": "我写了一个“自动写周报”的脚本，结果被领导表扬了",
-    "url": "https://juejin.cn/post/7693915625802907689",
-    "source": "juejin",
-    "score": 0.20718996,
-    "published_at": "2026-10-08T01:08:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50033357",
-    "title": "Unikernels were hard. key word: were",
-    "url": "https://ghuntley.com/unikernels/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-10T14:27:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:49984349",
-    "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-    "url": "https://openscad.org/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-06T21:22:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50036390",
-    "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
-    "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-10T19:39:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50033721",
-    "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-    "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-10-10T15:10:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50034008",
-    "title": "How Protein Took over the World",
-    "url": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-10-10T15:40:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50036119",
-    "title": "Takeshi's Castle",
-    "url": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-10T19:12:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50032758",
-    "title": "I would like the value of my home to rise, while my property taxes fall",
-    "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-    "source": "hackernews",
-    "score": 152.0,
-    "published_at": "2026-10-10T13:29:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50027257",
-    "title": "Recent AI models struggled to match a human algorithmic innovation",
-    "url": "https://epoch.ai/publications/innovationeval",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-09T22:14:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50029487",
-    "title": "The Lightbulb Computer",
-    "url": "https://lightbulbcomputer.com/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-10T04:12:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50035561",
-    "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
-    "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-10-10T18:11:58+00:00",
     "summary": "",
     "key_points": []
   }
