@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:cyp6lv",
+    "title": "The Ferranti files: 40 years of Sinclair secrets unearthed",
+    "url": "https://youtu.be/jiW3P1rJRMc",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-14T22:46:07.545-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yista4",
+    "title": "An Emulator Writer's HOWTO for Static Binary Translation",
+    "url": "https://www.gtoal.com/sbt/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-15T00:28:48.255-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ixoasm",
+    "title": "Furifont: furigana built into the font",
+    "url": "https://furifont.antfu.me/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-15T00:00:23.277-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:o0ixth",
+    "title": "Haxy.net is live! — HAXY (git forge) devlog",
+    "url": "https://youtu.be/89yAiqYEwKg",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-15T02:47:41.027-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bcaopz",
+    "title": "Haxy on Haxy",
+    "url": "https://try.haxy.net/haxy:haxy",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-15T02:58:35.798-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248887",
+    "title": "双 11 大家准备买点啥？说说你的双 11 购货计划",
+    "url": "https://www.v2ex.com/t/1248887",
+    "source": "v2ex",
+    "score": 172.0,
+    "published_at": "2026-10-15T00:54:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249080",
+    "title": "谈了三个月的女朋友才发现她和前任有较大经济纠纷",
+    "url": "https://www.v2ex.com/t/1249080",
+    "source": "v2ex",
+    "score": 224.0,
+    "published_at": "2026-10-15T08:08:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249011",
+    "title": "教老婆开车应该注意什么",
+    "url": "https://www.v2ex.com/t/1249011",
+    "source": "v2ex",
+    "score": 238.0,
+    "published_at": "2026-10-15T05:46:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7695805098719199275",
+    "title": "iOS 26 适配",
+    "url": "https://juejin.cn/post/7695805098719199275",
+    "source": "juejin",
+    "score": 0.23333745,
+    "published_at": "2026-10-13T06:48:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7695940923273478154",
+    "title": "Flutter你看看人家RN",
+    "url": "https://juejin.cn/post/7695940923273478154",
+    "source": "juejin",
+    "score": 0.26076109,
+    "published_at": "2026-10-13T09:24:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7695985750949494818",
+    "title": "开源项目第235期：REA — 让 AI Agent 逆向任何东西，从网站/Electron 应用一路分析到二进制层",
+    "url": "https://juejin.cn/post/7695985750949494818",
+    "source": "juejin",
+    "score": 0.31545896,
+    "published_at": "2026-10-13T13:04:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696483064553701376",
+    "title": "把 AutoCAD 搬进浏览器，到底有多难？聊聊 CADCraft、OpenCAD Studio 和 MLightCAD",
+    "url": "https://juejin.cn/post/7696483064553701376",
+    "source": "juejin",
+    "score": 34.6912619,
+    "published_at": "2026-10-15T03:07:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696077282666889250",
+    "title": "REA：逆向工程任何事物",
+    "url": "https://juejin.cn/post/7696077282666889250",
+    "source": "juejin",
+    "score": 0.65961352,
+    "published_at": "2026-10-14T02:47:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:morluto/rea",
+    "title": "rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50096300",
+    "title": "Show HN: Ito – Build Terminal UIs in Lua",
+    "url": "https://uji.sh/ito/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-14T22:23:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50060923",
+    "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+    "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-12T18:44:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50100387",
+    "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+    "url": "https://github.com/awslabs/aidlc-workflows",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-15T07:20:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50071902",
+    "title": "Bookofjoe's Favorite Thing: Best Pill Splitter",
+    "url": "https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-13T14:00:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50099136",
+    "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+    "url": "https://github.com/andunieee/flipflop",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-15T04:25:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50047576",
+    "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+    "url": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-10-11T20:36:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50060547",
+    "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+    "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-12T18:20:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50100791",
+    "title": "AI was great until it was not",
+    "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-10-15T08:18:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50079701",
+    "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+    "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-13T22:17:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50064470",
+    "title": "Show HN: Indigene – Native plants for where you stand",
+    "url": "https://indigene.app/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-12T23:25:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50101149",
+    "title": "The cost of getting a job today",
+    "url": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-15T09:13:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50070625",
+    "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+    "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+    "source": "hackernews",
+    "score": 92.0,
+    "published_at": "2026-10-13T12:30:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:wcoes4",
     "title": "We found a Chinese fleet",
     "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
@@ -4736,266 +4996,6 @@
     "source": "hackernews",
     "score": 44.0,
     "published_at": "2026-10-09T03:58:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50040547",
-    "title": "3rd Yandex Cloud Data Center Was Hit",
-    "url": "https://status.yandex.cloud/en/incidents/2136",
-    "source": "hackernews",
-    "score": 158.0,
-    "published_at": "2026-10-11T07:34:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50017548",
-    "title": "How big is a Git commit?",
-    "url": "https://ratfactor.com/cards/git-commit-size",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-09T08:13:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50028647",
-    "title": "Decade-old RAM is making a comeback",
-    "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-10-10T01:37:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50040276",
-    "title": "LineageOS 24.0",
-    "url": "https://lineageos.org/Changelog-32/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-10-11T06:18:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fbs3k7",
-    "title": "Making np.searchsorted up to 25× Faster in NumPy 2.5",
-    "url": "https://blog.scientific-python.org/numpy/searchsorted/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-10T18:25:51.517-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rhy5zp",
-    "title": "Consistency is not a localized property",
-    "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-10T19:51:28.569-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247601",
-    "title": "医院和医院还真不一样",
-    "url": "https://www.v2ex.com/t/1247601",
-    "source": "v2ex",
-    "score": 68.0,
-    "published_at": "2026-10-10T05:48:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247639",
-    "title": "那些托管在国外的真正家庭中的机器（mac mini/主机）用 claude 真的会封吗？",
-    "url": "https://www.v2ex.com/t/1247639",
-    "source": "v2ex",
-    "score": 82.0,
-    "published_at": "2026-10-10T07:25:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247542",
-    "title": "从 ChatGPT 转向 Claude 体验好了一大截",
-    "url": "https://www.v2ex.com/t/1247542",
-    "source": "v2ex",
-    "score": 82.0,
-    "published_at": "2026-10-10T02:25:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247677",
-    "title": "AI 时代为什么硬件工程师反而不焦虑",
-    "url": "https://www.v2ex.com/t/1247677",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-10-10T09:08:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247545",
-    "title": "目前最好的语音输入法是哪个?",
-    "url": "https://www.v2ex.com/t/1247545",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-10-10T02:40:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694205589761343503",
-    "title": "Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight",
-    "url": "https://juejin.cn/post/7694205589761343503",
-    "source": "juejin",
-    "score": 0.29894457,
-    "published_at": "2026-10-09T01:51:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7693469680510763017",
-    "title": "跑通了所有测试，却没跑过一句“界面太丑”",
-    "url": "https://juejin.cn/post/7693469680510763017",
-    "source": "juejin",
-    "score": 0.18488776,
-    "published_at": "2026-10-07T17:39:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694262411306762259",
-    "title": "纯前端播 40GB 本地视频？我把浏览器改造成了「磁盘流式」播放器",
-    "url": "https://juejin.cn/post/7694262411306762259",
-    "source": "juejin",
-    "score": 0.3357541,
-    "published_at": "2026-10-09T06:23:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694481800701542446",
-    "title": "Flet 1.0 思路很好，可惜来晚了",
-    "url": "https://juejin.cn/post/7694481800701542446",
-    "source": "juejin",
-    "score": 0.35420168,
-    "published_at": "2026-10-09T07:58:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50006930",
-    "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
-    "url": "https://github.com/moritzwilksch/diffle",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-08T15:23:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50020901",
-    "title": "Getting old Macromedia Director Games to run on modern Hardware",
-    "url": "https://werwolv.net/posts/macromedia_copy_protection/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-10-09T14:18:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50001234",
-    "title": "Retrofitting language models to operate over bytes",
-    "url": "https://www.nature.com/articles/s41586-026-11111-4",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-08T02:15:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50038473",
-    "title": "Veda: The First Agentic Hobby Operating System",
-    "url": "https://github.com/vahmoh25/Veda",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-11T00:22:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50038640",
-    "title": "Generative AI scandal has come to one of Nikon's competitions",
-    "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-11T00:47:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50038623",
-    "title": "PSPi 6 – Raspberry Pi in a PSP",
-    "url": "https://github.com/othermod/PSPi-Version-6",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-11T00:45:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50038634",
-    "title": "WallHop – 12ft.io is gone, so I built a replacement",
-    "url": "https://wallhop.io/",
-    "source": "hackernews",
-    "score": 79.0,
-    "published_at": "2026-10-11T00:46:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9ros7d",
-    "title": "The 2D physics prototype behind GTA’s vehicles",
-    "url": "https://patkerr.co.uk/2d-vehicles/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-10T16:06:15.264-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mbyawi",
-    "title": "Inside a 1980s filter chip that uses switched capacitors",
-    "url": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-10T16:28:51.816-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:t2fxpt",
-    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
-    "url": "https://arxiv.org/html/2610.05978v1",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-10T17:25:14.935-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mattpocock/skills",
-    "title": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
