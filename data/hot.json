@@ -1,5 +1,355 @@
 [
   {
+    "id": "lobsters:s8bo3z",
+    "title": "Remote Attestation Should Not Be Tolerated",
+    "url": "https://lumi.codeberg.page/blog/remote-attestation.html",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-15T09:02:45.310-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:huk6zu",
+    "title": "ArenaAllocators don't play nicely with ArrayLists",
+    "url": "https://www.openmymind.net/Arena-Allocators-and-ArrayLists/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-15T03:38:41.196-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yxnovw",
+    "title": "End-to-end encrypted relays for OCapN",
+    "url": "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-15T09:42:12.236-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bpvpbe",
+    "title": "The geometric model of maintenance",
+    "url": "https://entropicthoughts.com/geometric-model-of-maintenance",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-15T05:48:58.656-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ydo1wi",
+    "title": "Everyone is doing Git on S3 wrong",
+    "url": "https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-15T04:07:04.765-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9xticb",
+    "title": "Libreboot 26.10 “Ominous Olive” released with full UEFI support",
+    "url": "https://libreboot.org/news/libreboot2610.html",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-15T09:03:09.318-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:p7tf7i",
+    "title": "sslx: A fast, modern alternative to OpenSSL's CLI",
+    "url": "https://github.com/glincker/sslx",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-15T05:02:33.360-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uejdwj",
+    "title": "JPEG XL vs AVIF for web use-cases",
+    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-15T09:42:45.240-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:46dcms",
+    "title": "Microsoft Defender for Linux",
+    "url": "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-15T05:04:47.597-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kaerns",
+    "title": "Sunsetting decomp.dev",
+    "url": "https://decomp.dev/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-15T08:27:41.885-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uqugjk",
+    "title": "The Costa GUI",
+    "url": "https://costa.jacobpalm.dk",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-10-15T07:06:10.597-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696461528959090731",
+    "title": "腾讯又交作业了，开源版 WorkBuddy 太夯了！这回是只粉色小章鱼Octop!",
+    "url": "https://juejin.cn/post/7696461528959090731",
+    "source": "juejin",
+    "score": 1.68079465,
+    "published_at": "2026-10-15T05:13:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696083307454038026",
+    "title": "我让 Gemini 4 当高管、DeepSeek 当员工，开了一家软件公司（Day 1）",
+    "url": "https://juejin.cn/post/7696083307454038026",
+    "source": "juejin",
+    "score": 0.39866215,
+    "published_at": "2026-10-14T04:12:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:xerj-org/xerj",
+    "title": "xerj",
+    "url": "https://github.com/xerj-org/xerj",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:lightseekorg/tokenspeed",
+    "title": "tokenspeed",
+    "url": "https://github.com/lightseekorg/tokenspeed",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:affaan-m/ECC",
+    "title": "ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ruvnet/ruflo",
+    "title": "ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:obra/superpowers",
+    "title": "superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:JuliusBrussee/caveman",
+    "title": "caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/claude-plugins-official",
+    "title": "claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50065237",
+    "title": "Stopping sand from destroying a hydropower turbine [video]",
+    "url": "https://www.youtube.com/watch?v=kCYrSBexF_4",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-13T01:02:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50072456",
+    "title": "Show HN: A 3D Configurator for Macropads",
+    "url": "https://npad.ngrok.dev",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-13T14:38:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50071068",
+    "title": "Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster",
+    "url": "https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-13T13:05:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50075392",
+    "title": "The largest eagle hunted unlike any other bird of prey (2021)",
+    "url": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-13T17:27:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50104299",
+    "title": "Using AI to reverse engineer hardware",
+    "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-15T14:35:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50103263",
+    "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
+    "url": "https://github.com/konieczkow/gridsnap",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-15T13:19:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50104465",
+    "title": "Siri is so bad at everything",
+    "url": "https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-10-15T14:47:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50104726",
+    "title": "Celebrating 70 Years of Fortran",
+    "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-15T15:03:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50058531",
+    "title": "The Haunted Toys R Us",
+    "url": "https://www.retroist.com/p/the-haunted-toys-r-us",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-12T16:13:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50101813",
+    "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-10-15T10:43:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50102247",
+    "title": "Show HN: Unfenced – Land for sale that borders public land",
+    "url": "https://unfenced.land/",
+    "source": "hackernews",
+    "score": 126.0,
+    "published_at": "2026-10-15T11:38:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50104654",
+    "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+    "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-15T14:58:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50104310",
+    "title": "Prompt injection in HTTP headers: what 217M web responses show",
+    "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-15T14:36:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50103338",
+    "title": "Wayland desktop for Linux with skeuomorphic design",
+    "url": "https://github.com/fyzugx/DEsk",
+    "source": "hackernews",
+    "score": 104.0,
+    "published_at": "2026-10-15T13:23:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50102923",
+    "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+    "url": "https://libreboot.org/news/libreboot2610.html",
+    "source": "hackernews",
+    "score": 127.0,
+    "published_at": "2026-10-15T12:52:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:cyp6lv",
     "title": "The Ferranti files: 40 years of Sinclair secrets unearthed",
     "url": "https://youtu.be/jiW3P1rJRMc",
@@ -4646,356 +4996,6 @@
     "source": "hackernews",
     "score": 3.0,
     "published_at": "2026-10-09T11:53:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50018929",
-    "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
-    "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-10-09T11:20:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50042333",
-    "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
-    "url": "https://betterwispr.com/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-11T12:01:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50041682",
-    "title": "Nitter: Update Oct 10th seeking funding and legal help",
-    "url": "https://nitter.net",
-    "source": "hackernews",
-    "score": 288.0,
-    "published_at": "2026-10-11T10:37:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50042362",
-    "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-    "url": "https://verdagon.dev/blog/valen-group-borrowing",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-10-11T12:06:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50042425",
-    "title": "The tilde in your PATH may not be your HOME",
-    "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-    "source": "hackernews",
-    "score": 87.0,
-    "published_at": "2026-10-11T12:13:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50042219",
-    "title": "I paid people to try and follow my README",
-    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-    "source": "hackernews",
-    "score": 200.0,
-    "published_at": "2026-10-11T11:47:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50043682",
-    "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-    "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
-    "source": "hackernews",
-    "score": 198.0,
-    "published_at": "2026-10-11T14:28:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7mllxi",
-    "title": "JSON Tiles: Fast Analytics on Semi-Structured Data (2021)",
-    "url": "https://db.cit.tum.de/~durner/papers/json-tiles-sigmod21.pdf",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-11T01:21:34.089-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6vjx1k",
-    "title": "How shredding JSON is giving Logfire 1000x query speedups",
-    "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-11T01:16:26.688-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ecxril",
-    "title": "LineageOS 24.0 released",
-    "url": "https://lineageos.org/Changelog-32/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-10-11T01:21:25.386-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247774",
-    "title": "发现了新的泡水好喝的东西",
-    "url": "https://www.v2ex.com/t/1247774",
-    "source": "v2ex",
-    "score": 34.0,
-    "published_at": "2026-10-11T02:37:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247768",
-    "title": "给大家分享我的小玩具",
-    "url": "https://www.v2ex.com/t/1247768",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-10-11T02:12:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247751",
-    "title": "codex 下午 15:00~16:00 重置？",
-    "url": "https://www.v2ex.com/t/1247751",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-10-10T22:38:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247797",
-    "title": "求助，为什么新申请的招行 visa 信用卡死活绑不了 google play 的支付",
-    "url": "https://www.v2ex.com/t/1247797",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-10-11T04:43:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247755",
-    "title": "我认为应用开发包括前端正在迎来最好的时代",
-    "url": "https://www.v2ex.com/t/1247755",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-10-10T23:48:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247734",
-    "title": "[免费赠] NasV：直接刷 NAS 里的照片和视频，整个文件夹递归扫一遍，不用一层层点",
-    "url": "https://www.v2ex.com/t/1247734",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-10-10T15:22:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247762",
-    "title": "中文版讨论，哪些童书能让孩子爱上阅读？",
-    "url": "https://www.v2ex.com/t/1247762",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-10-11T01:18:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247761",
-    "title": "Google Play 开通 Claude Pro，搭配大陆护照 KYC，安全上车中...",
-    "url": "https://www.v2ex.com/t/1247761",
-    "source": "v2ex",
-    "score": 54.0,
-    "published_at": "2026-10-11T01:06:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247696",
-    "title": "[天外 AI | 低价易得，稳定难求] 福利送码$5",
-    "url": "https://www.v2ex.com/t/1247696",
-    "source": "v2ex",
-    "score": 74.0,
-    "published_at": "2026-10-10T10:39:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247772",
-    "title": "内存越来越贵会不会拉高 Linux 的装机率？",
-    "url": "https://www.v2ex.com/t/1247772",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-10-11T02:27:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694182755944923199",
-    "title": "我免费开源的 Archify 约 8 万 Star，别人先做出了 $19/月的在线版",
-    "url": "https://juejin.cn/post/7694182755944923199",
-    "source": "juejin",
-    "score": 0.18472425,
-    "published_at": "2026-10-09T01:06:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694595110121832491",
-    "title": "为什么越来越多人用 ZXing？",
-    "url": "https://juejin.cn/post/7694595110121832491",
-    "source": "juejin",
-    "score": 0.45673957,
-    "published_at": "2026-10-10T03:07:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694469284471390242",
-    "title": "GitHub 热榜项目：日榜（2026-10-09）",
-    "url": "https://juejin.cn/post/7694469284471390242",
-    "source": "juejin",
-    "score": 0.22407655,
-    "published_at": "2026-10-09T08:18:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694632392432009242",
-    "title": "82.4k 星！把十几万行代码变成知识图谱，新人终于不用硬啃了",
-    "url": "https://juejin.cn/post/7694632392432009242",
-    "source": "juejin",
-    "score": 0.40047169,
-    "published_at": "2026-10-10T02:14:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694835192107860009",
-    "title": "公司从 400 多人缩减到 100 多人，我开始重新思考程序员的未来",
-    "url": "https://juejin.cn/post/7694835192107860009",
-    "source": "juejin",
-    "score": 0.46719174,
-    "published_at": "2026-10-10T07:59:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694187254181494820",
-    "title": "GraphQL 在国内为什么水土不服？",
-    "url": "https://juejin.cn/post/7694187254181494820",
-    "source": "juejin",
-    "score": 0.2541342,
-    "published_at": "2026-10-09T01:49:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694844501786050596",
-    "title": "腾讯又来一王炸，开源版 WorkBuddy 太夯了！",
-    "url": "https://juejin.cn/post/7694844501786050596",
-    "source": "juejin",
-    "score": 0.79084069,
-    "published_at": "2026-10-10T09:36:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694263365225693230",
-    "title": "用原生 JS 做了一个中国历史帝皇梳理的可视化站（7 朝 77 帝 + Leaflet 地图）",
-    "url": "https://juejin.cn/post/7694263365225693230",
-    "source": "juejin",
-    "score": 0.22208593,
-    "published_at": "2026-10-09T04:51:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50039092",
-    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "source": "hackernews",
-    "score": 90.0,
-    "published_at": "2026-10-11T02:02:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50039063",
-    "title": "European Alternatives",
-    "url": "https://buy-european.net/en/alternatives",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-11T01:56:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50039536",
-    "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
-    "url": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-10-11T03:21:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50009451",
-    "title": "The Marriage That Captures a High Point of American Art",
-    "url": "https://www.theatlantic.com/culture/2026/10/jackson-pollock-lee-krasner-met-review/688916",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-08T18:00:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50040625",
-    "title": "I wish you the best in the Offline",
-    "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-11T07:53:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50024805",
-    "title": "Deterministic Simulation Testing in Celld",
-    "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-09T18:31:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50015833",
-    "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-    "url": "https://hangul.ink/blog/hangul-day",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-10-09T03:58:16+00:00",
     "summary": "",
     "key_points": []
   }
