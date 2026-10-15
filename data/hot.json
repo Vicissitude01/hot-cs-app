@@ -1,5 +1,215 @@
 [
   {
+    "id": "lobsters:umdbht",
+    "title": "My C23 Conventions",
+    "url": "https://abner.page/post/c23-conventions-1/",
+    "source": "lobsters",
+    "score": 21.0,
+    "published_at": "2026-10-15T10:32:15.830-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1248947",
+    "title": "为什么 30 好几了，还是没有一个自己可以一直坚持下去的爱好嗯？",
+    "url": "https://www.v2ex.com/t/1248947",
+    "source": "v2ex",
+    "score": 170.0,
+    "published_at": "2026-10-15T02:52:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50078524",
+    "title": "Turn an old junk phone into a Talking Jack-O-Lantern",
+    "url": "https://jack-o.io/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-13T20:49:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50106676",
+    "title": "An Israeli firm is sending zero-click spyware through online ads",
+    "url": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
+    "source": "hackernews",
+    "score": 168.0,
+    "published_at": "2026-10-15T17:01:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50106738",
+    "title": "More on Anthropic's Scion ripping off Mononoke",
+    "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+    "source": "hackernews",
+    "score": 145.0,
+    "published_at": "2026-10-15T17:05:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50085171",
+    "title": "Game of Life – But Multiplayer, Hypermedia and Python",
+    "url": "https://stario.dev/apps/life",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-14T10:13:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50106054",
+    "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
+    "url": "https://sygal.app",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-15T16:26:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50105635",
+    "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+    "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+    "source": "hackernews",
+    "score": 177.0,
+    "published_at": "2026-10-15T16:03:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50103164",
+    "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+    "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-10-15T13:11:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50103630",
+    "title": "I know why the mathematicians weep",
+    "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+    "source": "hackernews",
+    "score": 276.0,
+    "published_at": "2026-10-15T13:44:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50105467",
+    "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+    "url": "https://proa.so/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-10-15T15:52:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50105777",
+    "title": "The technical actions needed to ensure the continuity of UTC",
+    "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-10-15T16:11:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50108229",
+    "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
+    "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-15T18:38:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50084674",
+    "title": "Why I Wrote PGP (1991, revised 1999)",
+    "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-14T09:17:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50106023",
+    "title": "Jev Meets the Trolley Problem",
+    "url": "https://zachlandes.com/trolley-problem/",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-10-15T16:24:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50108131",
+    "title": "Why We're Banning AI",
+    "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-10-15T18:32:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50080155",
+    "title": "Delta’s Biscoff cookies were supposed to be temporary",
+    "url": "https://www.seriouseats.com/biscoff-history-12168161",
+    "source": "hackernews",
+    "score": 91.0,
+    "published_at": "2026-10-13T23:00:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50097843",
+    "title": "The engineering that allows articulated buses to bend",
+    "url": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-15T01:02:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50105648",
+    "title": "Krea 3 – An image model built for editing at scale",
+    "url": "https://www.krea.ai/krea-3",
+    "source": "hackernews",
+    "score": 157.0,
+    "published_at": "2026-10-15T16:04:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50105647",
+    "title": "Neural networks are clean",
+    "url": "https://already-clean.goodfire.com/",
+    "source": "hackernews",
+    "score": 251.0,
+    "published_at": "2026-10-15T16:04:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50107379",
+    "title": "Muse Spark Open",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "source": "hackernews",
+    "score": 278.0,
+    "published_at": "2026-10-15T17:47:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:s8bo3z",
     "title": "Remote Attestation Should Not Be Tolerated",
     "url": "https://lumi.codeberg.page/blog/remote-attestation.html",
@@ -4786,216 +4996,6 @@
     "source": "lobsters",
     "score": 15.0,
     "published_at": "2026-10-11T09:44:03.386-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9wcfld",
-    "title": "How big is a Git commit?",
-    "url": "https://ratfactor.com/cards/git-commit-size",
-    "source": "lobsters",
-    "score": 18.0,
-    "published_at": "2026-10-11T04:25:42.986-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gmnqhj",
-    "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-    "url": "https://verdagon.dev/blog/valen-group-borrowing",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-11T07:23:01.029-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:u9ue6c",
-    "title": "What's Wrong with GitHub",
-    "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
-    "source": "lobsters",
-    "score": 31.0,
-    "published_at": "2026-10-11T04:37:56.100-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247855",
-    "title": "麦当劳现在越来越贵了",
-    "url": "https://www.v2ex.com/t/1247855",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-10-11T11:22:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247811",
-    "title": "相亲贴-找对象自救",
-    "url": "https://www.v2ex.com/t/1247811",
-    "source": "v2ex",
-    "score": 66.0,
-    "published_at": "2026-10-11T06:26:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247820",
-    "title": "3 个月用了 287 亿的 token。。。",
-    "url": "https://www.v2ex.com/t/1247820",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-10-11T07:43:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694564397683867688",
-    "title": "Genkit Dart 1.0 发布，Flutter 原生的 AI Agent 终于完整了",
-    "url": "https://juejin.cn/post/7694564397683867688",
-    "source": "juejin",
-    "score": 0.27900211,
-    "published_at": "2026-10-10T01:20:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694883716313759795",
-    "title": "最近爆火的 Muse 浙大开源版 nanoMuse，来了！",
-    "url": "https://juejin.cn/post/7694883716313759795",
-    "source": "juejin",
-    "score": 0.40361901,
-    "published_at": "2026-10-10T09:11:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694628974492270643",
-    "title": "一只离线鼠鼠，干翻了一堆在线格式转换网站",
-    "url": "https://juejin.cn/post/7694628974492270643",
-    "source": "juejin",
-    "score": 0.29342878,
-    "published_at": "2026-10-10T02:38:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694150823396163625",
-    "title": "Codex + 可视化大屏工作流实践：15 个行业场景的设计产出合集",
-    "url": "https://juejin.cn/post/7694150823396163625",
-    "source": "juejin",
-    "score": 0.12476413,
-    "published_at": "2026-10-09T00:27:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:chrislgarry/Apollo-11",
-    "title": "Apollo-11",
-    "url": "https://github.com/chrislgarry/Apollo-11",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:lyogavin/airllm",
-    "title": "airllm",
-    "url": "https://github.com/lyogavin/airllm",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:bilawalsidhu/gods-eye-view",
-    "title": "gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50031289",
-    "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
-    "url": "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-10T09:55:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50043110",
-    "title": "Open-Source Microsoft Office Excel, PowerPoint, and Word Replications",
-    "url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-11T13:28:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50030470",
-    "title": "Rat's Register Allocator",
-    "url": "https://hexrat.cc/pages/blog/2026_10_07",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-10-10T07:10:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50043026",
-    "title": "Terence Tao: Math 2.0 [pdf]",
-    "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-    "source": "hackernews",
-    "score": 100.0,
-    "published_at": "2026-10-11T13:16:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50024570",
-    "title": "Rolling the Root Key",
-    "url": "https://blog.apnic.net/2026/10/09/rolling-the-root-key-2/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-09T18:15:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50042330",
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-    "url": "https://jobs.ashbyhq.com/weave-os",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-10-11T12:01:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50041540",
-    "title": "IRCv3",
-    "url": "https://ircv3.net/",
-    "source": "hackernews",
-    "score": 205.0,
-    "published_at": "2026-10-11T10:11:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50019213",
-    "title": "The Wild West of polyglot docs sites",
-    "url": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-09T11:53:43+00:00",
     "summary": "",
     "key_points": []
   }
