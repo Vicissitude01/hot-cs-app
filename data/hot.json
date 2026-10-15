@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:ivsn8e",
+    "title": "Religious Studies In Software Engineering",
+    "url": "https://tombh.co.uk/religious-studies-in-software-engineering",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-15T12:36:38.677-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vyo9n2",
+    "title": "Gleam case exhaustiveness, as a fan",
+    "url": "https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-15T14:33:19.767-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ipyrkv",
+    "title": "About time",
+    "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-15T15:22:14.682-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vemho2",
+    "title": "Forgejo v17.0 is available",
+    "url": "https://forgejo.org/2026-10-release-v17-0/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-15T14:43:19.853-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50099121",
+    "title": "An Apology",
+    "url": "https://www.elevationlab.com/blogs/news/an-apology",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-10-15T04:23:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50062683",
+    "title": "Rediscovering the Romance of Travel Clocks",
+    "url": "https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-12T20:35:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50082637",
+    "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+    "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-14T05:08:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50109375",
+    "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+    "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+    "source": "hackernews",
+    "score": 108.0,
+    "published_at": "2026-10-15T19:55:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50108872",
+    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+    "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+    "source": "hackernews",
+    "score": 126.0,
+    "published_at": "2026-10-15T19:21:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50111112",
+    "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
+    "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-15T22:11:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50109715",
+    "title": "What I Self-Host",
+    "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+    "source": "hackernews",
+    "score": 117.0,
+    "published_at": "2026-10-15T20:23:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:umdbht",
     "title": "My C23 Conventions",
     "url": "https://abner.page/post/c23-conventions-1/",
@@ -4886,116 +4996,6 @@
     "source": "hackernews",
     "score": 11.0,
     "published_at": "2026-10-10T12:27:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50044989",
-    "title": "Playgrnd – tiny tools for making weird, beautiful things",
-    "url": "https://www.playgrnd.tools/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-10-11T16:31:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50021989",
-    "title": "I guess I'm using WebP now?",
-    "url": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-09T15:32:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50008566",
-    "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
-    "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-08T17:08:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50047055",
-    "title": "Be The Onion's Hero for Once",
-    "url": "https://mailchi.mp/email.theonion.com/archivehunt",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-11T19:43:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50044272",
-    "title": "How I reverse engineered a commercial spatial audio effect",
-    "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-10-11T15:21:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50045273",
-    "title": "apsw: Another Python SQLite Wrapper",
-    "url": "https://github.com/rogerbinns/apsw",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-11T16:58:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50045946",
-    "title": "NYC's \"Click to Cancel\" rule is now in effect",
-    "url": "https://www.nyc.gov/main/click-to-cancel",
-    "source": "hackernews",
-    "score": 152.0,
-    "published_at": "2026-10-11T18:01:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50046241",
-    "title": "Chapter 1 of Ways of Seeing by John Berger",
-    "url": "https://www.ways-of-seeing.com/ch1",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-11T18:26:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50045984",
-    "title": "Total Annihilation, rebuilt for modern computers",
-    "url": "https://nanolathe.gg",
-    "source": "hackernews",
-    "score": 127.0,
-    "published_at": "2026-10-11T18:04:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:e84scc",
-    "title": "Hacking the Eufy Doorbell and Base Station",
-    "url": "https://adepts.of0x.cc/Eufy-DoorBell-hacking/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-11T06:54:20.326-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4ehrkn",
-    "title": "I'm still around.. I'm just not writing here",
-    "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
-    "source": "lobsters",
-    "score": 15.0,
-    "published_at": "2026-10-11T09:44:03.386-05:00",
     "summary": "",
     "key_points": []
   }
