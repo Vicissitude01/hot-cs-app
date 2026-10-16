@@ -1,5 +1,215 @@
 [
   {
+    "id": "lobsters:qvomvk",
+    "title": "Why are we even doing all this?",
+    "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-16T00:28:29.452-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qcjvlw",
+    "title": "coopiano: A physically modelled piano synthesizer in C++17",
+    "url": "https://github.com/peterc/coopiano",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-16T00:31:52.615-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:shs3xv",
+    "title": "Writing stateful effect handlers in EYG",
+    "url": "https://eyg.run/guides/advanced-effects",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-16T04:28:51.808-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:norjho",
+    "title": "Folders Esoteric Language",
+    "url": "https://danieltemkin.com/esolangs/folders",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-16T03:46:51.454-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:eqoieo",
+    "title": "Where did WIN32_LEAN_AND_MEAN come from? (2009)",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-15T21:28:13.828-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hounpx",
+    "title": "What are you doing this weekend?",
+    "url": "https://lobste.rs/s/hounpx",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-16T03:19:09.534-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249321",
+    "title": "做了个网页电台：随机一站，听听世界上 3.5 万个电台此刻在播什么",
+    "url": "https://www.v2ex.com/t/1249321",
+    "source": "v2ex",
+    "score": 268.0,
+    "published_at": "2026-10-16T04:28:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7695939202564997154",
+    "title": "借助 Codex 和可视化工作流，从调研到完整实现，3D 大屏竟然可以这么简单",
+    "url": "https://juejin.cn/post/7695939202564997154",
+    "source": "juejin",
+    "score": 0.1625235,
+    "published_at": "2026-10-13T12:30:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696820671752323107",
+    "title": "中国 3D CAD 的突围之路：当 AI 开始挑战几何内核",
+    "url": "https://juejin.cn/post/7696820671752323107",
+    "source": "juejin",
+    "score": 5.46120314,
+    "published_at": "2026-10-16T03:15:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696838570036314148",
+    "title": "Qoder sonus模型 20分钟，复刻 马斯克 飞天汽车",
+    "url": "https://juejin.cn/post/7696838570036314148",
+    "source": "juejin",
+    "score": 2.80357473,
+    "published_at": "2026-10-16T04:29:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696662898144870451",
+    "title": "汽水music自动看广告领取VIP",
+    "url": "https://juejin.cn/post/7696662898144870451",
+    "source": "juejin",
+    "score": 0.59325197,
+    "published_at": "2026-10-15T08:37:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:hmjz100/LinkSwift",
+    "title": "LinkSwift",
+    "url": "https://github.com/hmjz100/LinkSwift",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:MadsLorentzen/ai-job-search",
+    "title": "ai-job-search",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cursor/plugins",
+    "title": "plugins",
+    "url": "https://github.com/cursor/plugins",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:android/skills",
+    "title": "skills",
+    "url": "https://github.com/android/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50115144",
+    "title": "The insider trading you're allowed to do",
+    "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-10-16T07:12:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50079280",
+    "title": "New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete",
+    "url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-13T21:42:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50114342",
+    "title": "The Folders Programming Language",
+    "url": "https://danieltemkin.com/esolangs/folders",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-10-16T05:11:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50072485",
+    "title": "Two-Stack Sliding-Window Aggregation",
+    "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-13T14:40:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50084790",
+    "title": "The Economic Complexity of the Western Roman Empire",
+    "url": "https://www.michelecoscia.com/?p=2613",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-10-14T09:32:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50077225",
+    "title": "Yet another way to invoke functions without parentheses",
+    "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-10-13T19:25:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:q0wobg",
     "title": "My self-hosted infrastructure with Incus OS",
     "url": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
@@ -4786,216 +4996,6 @@
     "source": "lobsters",
     "score": 10.0,
     "published_at": "2026-10-11T20:18:09.541-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247979",
-    "title": "困惑： API KEY 只能复制一次，这不“脱裤子 XX”吗？",
-    "url": "https://www.v2ex.com/t/1247979",
-    "source": "v2ex",
-    "score": 110.0,
-    "published_at": "2026-10-12T01:54:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247944",
-    "title": "兄弟们，别骂星座和 mbti 了，我都信了",
-    "url": "https://www.v2ex.com/t/1247944",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-10-12T00:53:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247985",
-    "title": "被 Claude 钓鱼执法了，这套路我服",
-    "url": "https://www.v2ex.com/t/1247985",
-    "source": "v2ex",
-    "score": 164.0,
-    "published_at": "2026-10-12T02:05:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247938",
-    "title": "银河 ETF 纳指爽，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。",
-    "url": "https://www.v2ex.com/t/1247938",
-    "source": "v2ex",
-    "score": 182.0,
-    "published_at": "2026-10-12T00:40:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247955",
-    "title": "人社部说要“数据找人”应保尽保，是不是说，养老金是否已经不可持续了？",
-    "url": "https://www.v2ex.com/t/1247955",
-    "source": "v2ex",
-    "score": 192.0,
-    "published_at": "2026-10-12T01:26:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248011",
-    "title": "为什么大家对华为这么的憎恶",
-    "url": "https://www.v2ex.com/t/1248011",
-    "source": "v2ex",
-    "score": 234.0,
-    "published_at": "2026-10-12T02:58:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694664695189798947",
-    "title": "数据库写成功，MQ 消息却丢了？4 个故障窗口拆透 Transactional Outbox",
-    "url": "https://juejin.cn/post/7694664695189798947",
-    "source": "juejin",
-    "score": 0.09791104,
-    "published_at": "2026-10-10T03:44:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694474763449516074",
-    "title": "Qwen3.8-27B 本地推理实测：从 14 tok/s 到 159 tok/s 的投机解码调优",
-    "url": "https://juejin.cn/post/7694474763449516074",
-    "source": "juejin",
-    "score": 0.12258269,
-    "published_at": "2026-10-09T13:08:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694457332278280201",
-    "title": "GitHub 今日推荐｜wordcraft：用 Rust 重写 Word 内核并开放给 AI 调用",
-    "url": "https://juejin.cn/post/7694457332278280201",
-    "source": "juejin",
-    "score": 0.10560445,
-    "published_at": "2026-10-09T09:14:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694972872189050934",
-    "title": "为什么我劝应届生不要去创业公司写前端？",
-    "url": "https://juejin.cn/post/7694972872189050934",
-    "source": "juejin",
-    "score": 4.37168988,
-    "published_at": "2026-10-12T01:31:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694595399244349483",
-    "title": "不用反复 nvm use 了：nvm-windows 2.x 按项目自动切换 Node.js",
-    "url": "https://juejin.cn/post/7694595399244349483",
-    "source": "juejin",
-    "score": 0.19443149,
-    "published_at": "2026-10-10T06:43:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694614473172697107",
-    "title": "🔥13年Java老兵转型AI Agent：90%的人挂在同一个坑，根本不用学Python！（万字实战复盘，建议收藏）",
-    "url": "https://juejin.cn/post/7694614473172697107",
-    "source": "juejin",
-    "score": 0.12496591,
-    "published_at": "2026-10-10T02:55:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694614473172566035",
-    "title": "乱序HTML流正式进入浏览器：前端流式渲染的“框架特权”被终结了",
-    "url": "https://juejin.cn/post/7694614473172566035",
-    "source": "juejin",
-    "score": 0.18532284,
-    "published_at": "2026-10-10T02:45:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694882064269967375",
-    "title": "2026，程序员的时代拐点到了",
-    "url": "https://juejin.cn/post/7694882064269967375",
-    "source": "juejin",
-    "score": 0.35060707,
-    "published_at": "2026-10-10T10:57:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50049003",
-    "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
-    "url": "https://github.com/ClickHouse/clickhouse-c",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-10-11T23:08:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50048490",
-    "title": "Shredding JSON columns gave Logfire up to 1000x faster queries",
-    "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-11T22:18:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50049498",
-    "title": "HashiCorp archives the Boundary open source repo",
-    "url": "https://github.com/hashicorp/boundary",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-10-12T00:02:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50047802",
-    "title": "Tattoos you can turn on and off",
-    "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-10-11T21:04:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50041252",
-    "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
-    "url": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-11T09:19:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50049508",
-    "title": "Local Indexing to reduce tool calling and token usage",
-    "url": "https://tedhaley.ca/pensieve/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-10-12T00:03:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50039608",
-    "title": "Vectorized CLZ and CTZ",
-    "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-10-11T03:36:42+00:00",
     "summary": "",
     "key_points": []
   }
