@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:xwng6u",
+    "title": "Introducing GNOME OS Preview",
+    "url": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-16T13:25:15.354-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tty7hm",
+    "title": "Getting Canceled",
+    "url": "https://www.youtube.com/watch?v=5zIOfBLQ3U4",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-16T13:54:16.019-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cgs07z",
+    "title": "Thirty Years of KDE",
+    "url": "https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-16T11:49:07.695-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:e7rvsp",
+    "title": "We're sunsetting Codeberg Pages v2",
+    "url": "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-16T13:03:21.252-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vjmn84",
+    "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+    "url": "https://maevyn.codes/decoherence",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-16T11:36:29.493-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50086838",
+    "title": "Making 1,750 programmable PCB badges for Canada's biggest hackathon",
+    "url": "https://va3ndf.com/blog/hacker-badges/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-14T12:44:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50122776",
+    "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+    "url": "https://stoke.money",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-16T18:54:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50121601",
+    "title": "GifCities",
+    "url": "https://gifcities.org/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-16T17:35:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50076089",
+    "title": "Monte-Carlo Simulations",
+    "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-13T18:11:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50122736",
+    "title": "C++26: The New Debugging Header",
+    "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-16T18:52:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50112657",
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "source": "hackernews",
+    "score": 657.0,
+    "published_at": "2026-10-16T01:32:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50122112",
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-10-16T18:11:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50121004",
+    "title": "/dev/null: social network for developers",
+    "url": "https://dev-null.sh",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-10-16T16:57:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50121188",
+    "title": "Piramidal (YC W24) Is Hiring",
+    "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-10-16T17:08:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50122951",
+    "title": "How the Claude Code team does code review",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-16T19:04:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50123356",
+    "title": "The Fatal Flaw of 911",
+    "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-16T19:33:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50121939",
+    "title": "Designing more efficient quantum circuits with Claude",
+    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-16T18:00:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50121179",
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "source": "hackernews",
+    "score": 231.0,
+    "published_at": "2026-10-16T17:08:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50120224",
+    "title": "JPEG XL vs. AVIF for web use-cases",
+    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-10-16T16:12:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50122920",
+    "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+    "url": "https://words.filippo.io/seeds-solved/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-16T19:03:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50122431",
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "url": "https://github.com/cobanov/PS5LM",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-16T18:32:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50122034",
+    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+    "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-10-16T18:06:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50122800",
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "source": "hackernews",
+    "score": 164.0,
+    "published_at": "2026-10-16T18:55:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:2mlkhe",
     "title": "Matt Mullenweg Orders Accessibility Revert",
     "url": "https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project",
@@ -4766,236 +4996,6 @@
     "source": "hackernews",
     "score": 65.0,
     "published_at": "2026-10-12T14:19:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50060674",
-    "title": "Publishers Killed the Paperback, Then Blamed Readers",
-    "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-10-12T18:27:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50062922",
-    "title": "In Praise of John Cale, the Superior Velvet",
-    "url": "https://thequietus.com/subscriber-area/low-culture-essay/john-cale-low-culture/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-12T20:52:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50059204",
-    "title": "Thinking will become a hobby",
-    "url": "https://www.spinellis.gr/blog/20261008/?li261008",
-    "source": "hackernews",
-    "score": 172.0,
-    "published_at": "2026-10-12T16:54:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50057668",
-    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-    "url": "https://taylor.town/kk-ai-2026",
-    "source": "hackernews",
-    "score": 101.0,
-    "published_at": "2026-10-12T15:16:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50059523",
-    "title": "AI coding agents generate more code, but not more software",
-    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-    "source": "hackernews",
-    "score": 257.0,
-    "published_at": "2026-10-12T17:14:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50059115",
-    "title": "Muse Wonder",
-    "url": "https://research.meta.ai/blog/muse-wonder",
-    "source": "hackernews",
-    "score": 448.0,
-    "published_at": "2026-10-12T16:48:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50063417",
-    "title": "Phreak.ing – Internet Phone Switch",
-    "url": "https://phreak.ing/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-12T21:39:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50063427",
-    "title": "AI Is a Tool. Using It Well Takes Skill.",
-    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-12T21:40:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50055593",
-    "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-    "url": "https://github.com/h0m3us3r/w1700k-sdr",
-    "source": "hackernews",
-    "score": 208.0,
-    "published_at": "2026-10-12T12:41:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50059096",
-    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-    "url": "https://news.ycombinator.com/item?id=50059096",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-10-12T16:46:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50060694",
-    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-    "url": "https://github.com/openai/codex/issues/48195",
-    "source": "hackernews",
-    "score": 360.0,
-    "published_at": "2026-10-12T18:29:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50061859",
-    "title": "Writing a Demoscene Intro for the ZX Spectrum",
-    "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-10-12T19:40:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50058528",
-    "title": "A Modern Web App in C",
-    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-    "source": "hackernews",
-    "score": 307.0,
-    "published_at": "2026-10-12T16:13:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50058507",
-    "title": "GLM-Legal",
-    "url": "https://z.ai/blog/glm-legal",
-    "source": "hackernews",
-    "score": 361.0,
-    "published_at": "2026-10-12T16:11:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nothr5",
-    "title": "Implementing kubernetes node bin packing",
-    "url": "https://blog.costgraph.ai/node-rightsizing/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-12T03:32:12.618-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dujxbl",
-    "title": "Type-safe HTML templating in Zig",
-    "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-12T05:39:10.262-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pirgtp",
-    "title": "How to effectively debug when you no longer understand the code",
-    "url": "https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-12T07:01:18.986-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:u4vlin",
-    "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
-    "url": "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-12T07:23:52.273-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gr0ptb",
-    "title": "We Put Fighting Game Netcode in Brood War",
-    "url": "https://www.youtube.com/watch?v=vIt9xua9bLc",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-12T03:27:11.527-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gid1h4",
-    "title": "Linux boots on iPhone 11",
-    "url": "https://www.patreon.com/partshacker/posts/linux-boots-on-172091834",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-12T03:59:03.156-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ml9xrb",
-    "title": "Fingerprints are the new cookies",
-    "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-12T04:05:44.794-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lfen2h",
-    "title": "Living in the Weimar era of Ruby",
-    "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-12T05:59:26.773-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nroajo",
-    "title": "Writing a Demoscene Intro for the ZX Spectrum",
-    "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-12T03:46:10.600-05:00",
     "summary": "",
     "key_points": []
   }
