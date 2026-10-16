@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:61ujum",
+    "title": "Ubuntu 26.10 (Stonking Stingray) released",
+    "url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-16T13:01:39.664-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wzgadv",
+    "title": "There's never been a better time to go into math",
+    "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-16T15:49:12.465-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ddtqtn",
+    "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+    "url": "https://words.filippo.io/seeds-solved/",
+    "source": "lobsters",
+    "score": 31.0,
+    "published_at": "2026-10-16T15:18:36.306-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50124642",
+    "title": "Why harnesses matter for energy (and token) efficiency",
+    "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-16T21:01:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50090453",
+    "title": "PGO or not PGO this is the dilemma. Step 2",
+    "url": "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-14T16:33:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50124251",
+    "title": "I never authorized an integration that scans my secrets",
+    "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+    "source": "hackernews",
+    "score": 122.0,
+    "published_at": "2026-10-16T20:33:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50122878",
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-10-16T19:01:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50083673",
+    "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+    "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-10-14T07:21:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50123580",
+    "title": "FLUX 3 Image Klein",
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-10-16T19:47:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:xwng6u",
     "title": "Introducing GNOME OS Preview",
     "url": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
@@ -4906,96 +4996,6 @@
     "source": "lobsters",
     "score": 38.0,
     "published_at": "2026-10-12T08:44:38.009-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694614473173352467",
-    "title": "国庆7天AI圈3次大翻车：你还没被割韭菜，代码已先崩盘",
-    "url": "https://juejin.cn/post/7694614473173352467",
-    "source": "juejin",
-    "score": 0.11001984,
-    "published_at": "2026-10-10T05:36:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694638437243469864",
-    "title": "开源 Vue 3 组件库 Morya UI：把组件、文档、AI 工具链一起做进一个包",
-    "url": "https://juejin.cn/post/7694638437243469864",
-    "source": "juejin",
-    "score": 0.14029536,
-    "published_at": "2026-10-10T06:09:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50052638",
-    "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
-    "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-    "source": "hackernews",
-    "score": 162.0,
-    "published_at": "2026-10-12T07:28:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50061278",
-    "title": "OpenFatigue™ – Open is the new closed",
-    "url": "https://openfatigue.ai/",
-    "source": "hackernews",
-    "score": 166.0,
-    "published_at": "2026-10-12T19:08:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50061791",
-    "title": "Making big downloads resumable in Firefox",
-    "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-12T19:36:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50060296",
-    "title": "My Reddit AMA on the Law of Web Scraping",
-    "url": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-10-12T18:02:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50060269",
-    "title": "'AI' Is Not a Tool by Rich Hickey",
-    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-    "source": "hackernews",
-    "score": 97.0,
-    "published_at": "2026-10-12T18:00:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50062237",
-    "title": "Epic Games tells employees to use AI to get Disney game done",
-    "url": "https://www.avclub.com/epic-games-disney-ai-delay",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-10-12T20:07:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50056822",
-    "title": "Solar panels that plug into your wall",
-    "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-10-12T14:19:04+00:00",
     "summary": "",
     "key_points": []
   }
