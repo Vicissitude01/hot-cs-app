@@ -1,5 +1,345 @@
 [
   {
+    "id": "lobsters:2mlkhe",
+    "title": "Matt Mullenweg Orders Accessibility Revert",
+    "url": "https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project",
+    "source": "lobsters",
+    "score": 17.0,
+    "published_at": "2026-10-16T01:22:46.367-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cxlrc5",
+    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+    "url": "https://calif.io/research/big-fish",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-16T10:41:08.721-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vvtzdj",
+    "title": "What agents mean for Rust (and vice versa)",
+    "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-16T06:26:57.346-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xcacrh",
+    "title": "Mull: note-taking with a language server / vscode extension",
+    "url": "https://github.com/stepchowfun/mull",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-16T07:54:20.978-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:v6hhdr",
+    "title": "Making a 88x31 button book using ImageMagick",
+    "url": "https://k.sosnierz.me/08-11-24/",
+    "source": "lobsters",
+    "score": 20.0,
+    "published_at": "2026-10-16T06:21:12.937-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6laoto",
+    "title": "The road to iroh 1.0",
+    "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-10-16T07:02:05.882-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696448963306356746",
+    "title": "面试官问你，你会的 AI 都能做了，公司为什么还需要你",
+    "url": "https://juejin.cn/post/7696448963306356746",
+    "source": "juejin",
+    "score": 0.26672187,
+    "published_at": "2026-10-15T01:25:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696767647511691299",
+    "title": "程序员 1v1 访谈系列第三期：先不要想在工作中有突破",
+    "url": "https://juejin.cn/post/7696767647511691299",
+    "source": "juejin",
+    "score": 1.13065568,
+    "published_at": "2026-10-16T01:13:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696437668125851674",
+    "title": "Flutter Android 改动：APK 不再允许通过 Intent 动态修改 Engine 参数",
+    "url": "https://juejin.cn/post/7696437668125851674",
+    "source": "juejin",
+    "score": 0.32401354,
+    "published_at": "2026-10-15T01:00:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697075629647003698",
+    "title": "本来只想给内网开个口子，Natapp 却多给了一道防护",
+    "url": "https://juejin.cn/post/7697075629647003698",
+    "source": "juejin",
+    "score": 3.24875711,
+    "published_at": "2026-10-16T08:39:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118876",
+    "title": "Show HN: rStation – A shared research lab for your AI agents",
+    "url": "https://rstation.ai/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-16T14:35:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118950",
+    "title": "Show HN: Grimoire for Biology",
+    "url": "https://grimoire.bio",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-16T14:41:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50117504",
+    "title": "Bark: The Toll-Free BBS for 90s Teens",
+    "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-16T12:22:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118624",
+    "title": "Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]",
+    "url": "https://www.youtube.com/watch?v=eqOfmtTJD1A",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-10-16T14:12:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118981",
+    "title": "Hello Toronto – Waymo Is En Route",
+    "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+    "source": "hackernews",
+    "score": 103.0,
+    "published_at": "2026-10-16T14:44:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50120101",
+    "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+    "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-16T16:03:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50082554",
+    "title": "MS Paint Adds Freeform Rotation (2026)",
+    "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-14T04:55:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50080246",
+    "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+    "url": "https://wonderhop.io/en/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-13T23:10:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118048",
+    "title": "My old job feels distant now",
+    "url": "https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-16T13:18:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50085553",
+    "title": "AI-assisted PCB design for KiCad 10",
+    "url": "https://github.com/mixelpixx/Konnect",
+    "source": "hackernews",
+    "score": 92.0,
+    "published_at": "2026-10-14T10:51:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118318",
+    "title": "What was a Token Ring network?",
+    "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-16T13:43:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118662",
+    "title": "How to make System 1 LLMs show System 2 competencies?",
+    "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-16T14:16:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118267",
+    "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+    "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-16T13:38:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50104965",
+    "title": "Gyroscopes Got So Small [video]",
+    "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-10-15T15:20:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50074322",
+    "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+    "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-13T16:26:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50119752",
+    "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+    "url": "https://onedeploy.co",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-16T15:38:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50111752",
+    "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+    "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-10-15T23:23:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118512",
+    "title": "How to Formalize All of Mathematics",
+    "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-16T14:01:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50120010",
+    "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+    "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-16T15:56:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50117746",
+    "title": "I Love Software Rendering",
+    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "source": "hackernews",
+    "score": 185.0,
+    "published_at": "2026-10-16T12:52:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118688",
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-10-16T14:18:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118320",
+    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-10-16T13:43:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118977",
+    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+    "url": "https://calif.io/research/big-fish",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-10-16T14:44:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118828",
+    "title": "What on Earth Is Dekton?",
+    "url": "https://www.worksinprogress.news/p/porcelain",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-16T14:31:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qvomvk",
     "title": "Why are we even doing all this?",
     "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
@@ -4656,346 +4996,6 @@
     "source": "lobsters",
     "score": 10.0,
     "published_at": "2026-10-12T03:46:10.600-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:iq5xtw",
-    "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
-    "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-12T05:11:29.702-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248143",
-    "title": "关于华为，怎么这么多二级管呢？",
-    "url": "https://www.v2ex.com/t/1248143",
-    "source": "v2ex",
-    "score": 176.0,
-    "published_at": "2026-10-12T08:37:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1247964",
-    "title": "「抽奖」iOS 上省电的行程记录 App Passcord 终身兑换码（$19.99）x 50",
-    "url": "https://www.v2ex.com/t/1247964",
-    "source": "v2ex",
-    "score": 200.0,
-    "published_at": "2026-10-12T01:33:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248103",
-    "title": "大厂十年领了大礼包，孑然一身应该如何选择呢？",
-    "url": "https://www.v2ex.com/t/1248103",
-    "source": "v2ex",
-    "score": 276.0,
-    "published_at": "2026-10-12T07:04:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248037",
-    "title": "惊闻现在大学生生活费需要 2000-2500 一个月了",
-    "url": "https://www.v2ex.com/t/1248037",
-    "source": "v2ex",
-    "score": 320.0,
-    "published_at": "2026-10-12T03:46:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694850619532689448",
-    "title": "Kuikly股票查看软件开发体验——SaiRen",
-    "url": "https://juejin.cn/post/7694850619532689448",
-    "source": "juejin",
-    "score": 0.25755488,
-    "published_at": "2026-10-10T13:34:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695079160284446763",
-    "title": "栗子前端技术周刊第 149 期 - Vite+ 1.0、Preact 11、Next.js 16.4...",
-    "url": "https://juejin.cn/post/7695079160284446763",
-    "source": "juejin",
-    "score": 0.91398899,
-    "published_at": "2026-10-12T00:36:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694572028192276543",
-    "title": "告别 Deno 时代？运行时进入一年倒计时，Deno 团队并入 Cloudflare",
-    "url": "https://juejin.cn/post/7694572028192276543",
-    "source": "juejin",
-    "score": 0.12197519,
-    "published_at": "2026-10-10T01:26:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695030462259789874",
-    "title": "🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare",
-    "url": "https://juejin.cn/post/7695030462259789874",
-    "source": "juejin",
-    "score": 1.04045872,
-    "published_at": "2026-10-11T14:42:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695243313538416690",
-    "title": "DeepSeek Harness 重磅更新，Codex、Claude Code 子智能体进官方插件列表了，还有 Git 工作树和思考翻译！",
-    "url": "https://juejin.cn/post/7695243313538416690",
-    "source": "juejin",
-    "score": 1.90619714,
-    "published_at": "2026-10-12T05:20:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694504408210767882",
-    "title": "用了Pi基本就回不去了， 如果你也在用Pi， 强烈推荐安装pi-chrome",
-    "url": "https://juejin.cn/post/7694504408210767882",
-    "source": "juejin",
-    "score": 0.17083758,
-    "published_at": "2026-10-10T02:40:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694967013274370067",
-    "title": "程序员 1v1 访谈系列第一期：转行也不会等到失业以后",
-    "url": "https://juejin.cn/post/7694967013274370067",
-    "source": "juejin",
-    "score": 1.86297107,
-    "published_at": "2026-10-12T01:04:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Alishahryar1/free-claude-code",
-    "title": "free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:microsoft/BitNet",
-    "title": "BitNet",
-    "url": "https://github.com/microsoft/BitNet",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:open-webui/open-webui",
-    "title": "open-webui",
-    "url": "https://github.com/open-webui/open-webui",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50052814",
-    "title": "Zod 4.6.6 compromised by malware?",
-    "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
-    "source": "hackernews",
-    "score": 157.0,
-    "published_at": "2026-10-12T07:47:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50051530",
-    "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-    "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-    "source": "hackernews",
-    "score": 204.0,
-    "published_at": "2026-10-12T04:54:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50055304",
-    "title": "Hackers activate automatic defrosting accross European supermarket fridges",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-10-12T12:16:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50052163",
-    "title": "Postgres isn't slow, your storage is",
-    "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
-    "source": "hackernews",
-    "score": 137.0,
-    "published_at": "2026-10-12T06:36:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50051583",
-    "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-    "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-    "source": "hackernews",
-    "score": 169.0,
-    "published_at": "2026-10-12T05:03:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50042936",
-    "title": "Choreographic Programming in Rust",
-    "url": "https://github.com/hibanaworks/hibana",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-11T13:05:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50034950",
-    "title": "Bag of Decisions Reranker",
-    "url": "https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-10T17:12:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50052251",
-    "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-    "url": "https://github.com/snuri00/ps2-web-recomp",
-    "source": "hackernews",
-    "score": 105.0,
-    "published_at": "2026-10-12T06:46:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50041573",
-    "title": "Running the unmodified Linux amdgpu driver on an iPad",
-    "url": "https://github.com/Geramy/LemonSeed-Studio",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-10-11T10:18:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50055220",
-    "title": "Citroen revives the 2CV for an electric age",
-    "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-10-12T12:09:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50037711",
-    "title": "Secret of Orange Cats Revealed After 60-Year Search",
-    "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-10-10T22:10:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50036287",
-    "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-    "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-10-10T19:28:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50054207",
-    "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-    "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
-    "source": "hackernews",
-    "score": 379.0,
-    "published_at": "2026-10-12T10:21:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50054751",
-    "title": "QGIS bans AI assisted contributions",
-    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-    "source": "hackernews",
-    "score": 177.0,
-    "published_at": "2026-10-12T11:22:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9zcxev",
-    "title": "3-2-1 Backup Strategy with restic and Backblaze B2",
-    "url": "https://chuck.is/paranoid/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-11T23:21:09.078-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ezucf0",
-    "title": "CSS for underlines",
-    "url": "https://www.rubenerd.au/css-for-underlines/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-11T20:43:08.545-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uzfa4k",
-    "title": "When LLM Decompilers Recompile More and Preserve Less",
-    "url": "https://arxiv.org/abs/2609.05370",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-11T21:44:55.698-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cthze7",
-    "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
-    "url": "https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-11T20:49:50.513-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ikk8ie",
-    "title": "'AI' is Not a Tool",
-    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-11T20:18:09.541-05:00",
     "summary": "",
     "key_points": []
   }
