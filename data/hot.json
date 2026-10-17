@@ -1,5 +1,125 @@
 [
   {
+    "id": "lobsters:rtd5gq",
+    "title": "Ship Your Interpreter",
+    "url": "https://www.basis.ai/blog/ship-your-interpreters/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-17T09:16:33.586-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:srao9u",
+    "title": "Intuitive concurrent programming in any language",
+    "url": "https://www.lf-lang.org/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-17T07:17:20.307-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249581",
+    "title": "肉身在墙外，现在做物理机远程 Claude 的生意怎么样？",
+    "url": "https://www.v2ex.com/t/1249581",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-10-17T06:55:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249603",
+    "title": "deepseek-v4.1-flash-1017 发布了",
+    "url": "https://www.v2ex.com/t/1249603",
+    "source": "v2ex",
+    "score": 60.0,
+    "published_at": "2026-10-17T08:34:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249583",
+    "title": "AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度",
+    "url": "https://www.v2ex.com/t/1249583",
+    "source": "v2ex",
+    "score": 60.0,
+    "published_at": "2026-10-17T07:06:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50115354",
+    "title": "Development of Norton Commander",
+    "url": "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-16T07:41:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50129947",
+    "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+    "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-17T10:59:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50103588",
+    "title": "The cryptoint library (2025) [pdf]",
+    "url": "https://cr.yp.to/papers/cryptoint-20250424.pdf",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-15T13:41:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50095730",
+    "title": "Orbital Angular Momentum of Light",
+    "url": "https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-14T21:39:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50121506",
+    "title": "The First Candid",
+    "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-16T17:28:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50119315",
+    "title": "Rendering pretty sky in Around The World game",
+    "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-16T15:06:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50131256",
+    "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-17T14:01:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gwuebx",
     "title": "Some quick thoughts on Unit Testing ActivityPub",
     "url": "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/",
@@ -4876,126 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:vercel-labs/skills",
-    "title": "skills",
-    "url": "https://github.com/vercel-labs/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:debpalash/VoiceStudio",
-    "title": "VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50072994",
-    "title": "The United Kingdom Generates Less Electricity per Person Than in the 1970s",
-    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-10-13T15:12:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50070287",
-    "title": "A Visual Intro to Complex Numbers",
-    "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
-    "source": "hackernews",
-    "score": 86.0,
-    "published_at": "2026-10-13T12:00:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50068036",
-    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-    "url": "https://blog.character.ai/an-update-on-character-ai/",
-    "source": "hackernews",
-    "score": 176.0,
-    "published_at": "2026-10-13T07:28:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50072120",
-    "title": "How to engineer an AI harness for game development",
-    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-13T14:14:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50074909",
-    "title": "Show HN: How Random Are You?",
-    "url": "https://lab.specr.net/rigged-draw/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-13T16:57:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50069337",
-    "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-    "url": "https://pdftomp3.com/connect-ai/",
-    "source": "hackernews",
-    "score": 135.0,
-    "published_at": "2026-10-13T10:08:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50070741",
-    "title": "BB(10) > Graham's Number",
-    "url": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-10-13T12:40:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50073471",
-    "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-    "url": "https://news.ycombinator.com/item?id=50073471",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-13T15:41:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50074869",
-    "title": "Gemini 4 Argon for Robotics",
-    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-13T16:55:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50061659",
-    "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-    "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-10-12T19:28:48+00:00",
     "summary": "",
     "key_points": []
   }
