@@ -1,5 +1,325 @@
 [
   {
+    "id": "lobsters:ku4hwg",
+    "title": "Rust debugging survey 2026 results",
+    "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+    "source": "lobsters",
+    "score": 39.0,
+    "published_at": "2026-09-07T12:00:42.881-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vdalin",
+    "title": "The shortest IPv6 addresses",
+    "url": "https://ache.one/notes/vanity-ipv6",
+    "source": "lobsters",
+    "score": 56.0,
+    "published_at": "2026-09-07T05:53:12.960-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:m6q3ww",
+    "title": "pigeon: my experimental PHY (Part 0/12)",
+    "url": "https://k3xec.com/pigeon/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-09-08T09:40:46.961-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:im7lnc",
+    "title": "NetBSD GSoC 2026 Testing Compat Linux Syscall testing",
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_testing_compat_linux_2",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-08T10:21:19.391-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fvdo91",
+    "title": "Teaching NumPy’s ufuncs new tricks",
+    "url": "https://labs.quansight.org/blog/teaching-numpys-ufuncs-new-tricks",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-09-08T17:05:47.640-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1xzt6e",
+    "title": "TALA is open-source",
+    "url": "https://d2lang.com/blog/tala-is-open-source/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-08T15:47:33.048-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mfhss4",
+    "title": "Type inference has usability problems (2019)",
+    "url": "https://austinhenley.com/blog/typeinference.html",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-09-08T01:36:44.958-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yj9kx4",
+    "title": "OpenNMC is an open replacement for expensive APC management cards",
+    "url": "https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-09-08T16:00:36.777-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dlxqqr",
+    "title": "The Depths of JavaScript: Minesweeper in 247 Bytes",
+    "url": "https://yui.dev/blog/minesweeper-in-247-bytes",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-09-08T09:33:25.507-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wl0mln",
+    "title": "I’ve factored the RSA keys of a Certificate Authority…from the 90s",
+    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+    "source": "lobsters",
+    "score": 35.0,
+    "published_at": "2026-09-07T23:05:34.645-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:twvlv6",
+    "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+    "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-09-09T03:18:10.613-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wolwwd",
+    "title": "A faster way to convert a timestamp to Hour, Min, Sec",
+    "url": "https://www.benjoffe.com/fast-time-of-day",
+    "source": "lobsters",
+    "score": 130.0,
+    "published_at": "2026-09-07T05:27:56.386-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sukgeg",
+    "title": "Emacs Bedrock 2.0 Released",
+    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+    "source": "lobsters",
+    "score": 34.0,
+    "published_at": "2026-09-07T21:55:30.199-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bzwyib",
+    "title": "Antiquated HTML Snippets and Artefacts",
+    "url": "https://vale.rocks/posts/html-relics",
+    "source": "lobsters",
+    "score": 26.0,
+    "published_at": "2026-09-08T02:49:09.578-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:npyzwy",
+    "title": "This Month in Ladybird - August 2026",
+    "url": "https://ladybird.org/newsletter/2026-08-31/",
+    "source": "lobsters",
+    "score": 24.0,
+    "published_at": "2026-09-08T00:24:42.401-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mbzhlq",
+    "title": "Patchwork-26: A malleable, collaborative, local-first workspace",
+    "url": "https://youtu.be/4UxGijnuXEs",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-09T00:22:01.690-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:38tyzg",
+    "title": "What's a computer?",
+    "url": "https://blog.ctms.me/posts/2026-07-15-being-away-from-computers/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-09-09T08:52:54.979-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uhzuen",
+    "title": "Serving Web from volatile Dial-up IP",
+    "url": "https://blog.mro.name/2026/09/web-from-dial-up/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-09-08T10:49:10.259-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dote36",
+    "title": "Fancy Little Lisp λs (2017)",
+    "url": "https://lepisma.xyz/2017/12/20/fancy-lambdas",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-08T23:20:49.904-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ojyeqg",
+    "title": "Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0 (1999)",
+    "url": "https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten_html/index.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-09-09T01:47:58.129-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:aepn8g",
+    "title": "My Nix Config Is Intimate",
+    "url": "https://www.scd31.com/posts/nix-files-are-intimate",
+    "source": "lobsters",
+    "score": 53.0,
+    "published_at": "2026-09-07T22:27:24.244-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1baq3m",
+    "title": "x86 evolution for segmentation and paging",
+    "url": "https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/",
+    "source": "lobsters",
+    "score": 17.0,
+    "published_at": "2026-09-08T05:22:13.336-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ki3ylq",
+    "title": "Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM",
+    "url": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
+    "source": "lobsters",
+    "score": 25.0,
+    "published_at": "2026-09-08T02:43:27.574-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:aguhup",
+    "title": "Bitap: my favorite string matching algorithm",
+    "url": "https://jo3-l.dev/posts/bitap/",
+    "source": "lobsters",
+    "score": 39.0,
+    "published_at": "2026-09-08T01:37:38.684-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:biulze",
+    "title": "Sloc Cloc and Code - Did I just get Buster Scrugged?",
+    "url": "https://boyter.org/posts/did-i-just-get-buster-scrugged/",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-09-08T20:13:32.481-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249237",
+    "title": "claude 最近封了 3 个号，过来交流下经验啊都",
+    "url": "https://www.v2ex.com/t/1249237",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-10-16T01:44:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249287",
+    "title": "企微聊天就和裸聊差不多",
+    "url": "https://www.v2ex.com/t/1249287",
+    "source": "v2ex",
+    "score": 132.0,
+    "published_at": "2026-10-16T03:02:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249225",
+    "title": "[抽奖🧧] 双 11 开始了，推荐下自己的微信返利机器人",
+    "url": "https://www.v2ex.com/t/1249225",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-10-16T01:28:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696048084749746226",
+    "title": "Kotlin 2.5 的 Companion 改造，对 KMP 的重要升级",
+    "url": "https://juejin.cn/post/7696048084749746226",
+    "source": "juejin",
+    "score": 0.13621281,
+    "published_at": "2026-10-14T01:36:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50088748",
+    "title": "I built the RealWorld app in Lean 4",
+    "url": "https://leangineer.com/blog/realworld-in-lean/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-14T15:03:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50125545",
+    "title": "Nine-Inch Snails",
+    "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-16T22:21:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50126774",
+    "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+    "url": "https://www.flexport.com/company/careers/",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-10-17T01:01:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:61ujum",
     "title": "Ubuntu 26.10 (Stonking Stingray) released",
     "url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
@@ -4676,326 +4996,6 @@
     "source": "v2ex",
     "score": 148.0,
     "published_at": "2026-10-13T01:32:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248114",
-    "title": "向下剥削太狠，造就社会各种怪象，包括华为刹车断裂。",
-    "url": "https://www.v2ex.com/t/1248114",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-10-12T07:31:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248044",
-    "title": "大城市的孩子是不是就是比我们小镇做题家聪明",
-    "url": "https://www.v2ex.com/t/1248044",
-    "source": "v2ex",
-    "score": 166.0,
-    "published_at": "2026-10-12T04:07:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248165",
-    "title": "作为一个没见过退休金的农村人，我想知道退休职工和体制内退休后退休金有多少钱？",
-    "url": "https://www.v2ex.com/t/1248165",
-    "source": "v2ex",
-    "score": 168.0,
-    "published_at": "2026-10-12T09:26:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694559519641632811",
-    "title": "AI Agent 驾驭指南",
-    "url": "https://juejin.cn/post/7694559519641632811",
-    "source": "juejin",
-    "score": 0.1187782,
-    "published_at": "2026-10-10T04:21:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694967013273829395",
-    "title": "五道题，测测你有没有真的入门 AI",
-    "url": "https://juejin.cn/post/7694967013273829395",
-    "source": "juejin",
-    "score": 0.25881828,
-    "published_at": "2026-10-11T14:59:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695604296682930186",
-    "title": "三天11万星的逆天开源REA，逆向分析一切，软件开发的门槛被打到了零，最该慌的为什么不是大厂？",
-    "url": "https://juejin.cn/post/7695604296682930186",
-    "source": "juejin",
-    "score": 0.40745117,
-    "published_at": "2026-10-12T07:05:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695604643287531535",
-    "title": "我在浏览器里“盖”了一个村：Vue + Three.js 大屏开发踩坑记",
-    "url": "https://juejin.cn/post/7695604643287531535",
-    "source": "juejin",
-    "score": 0.48105278,
-    "published_at": "2026-10-12T08:14:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695591914960748586",
-    "title": "前端如何生成10000页PDF文件？",
-    "url": "https://juejin.cn/post/7695591914960748586",
-    "source": "juejin",
-    "score": 1.6050658,
-    "published_at": "2026-10-12T13:28:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:storytold/artcraft",
-    "title": "artcraft",
-    "url": "https://github.com/storytold/artcraft",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50064438",
-    "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-    "url": "https://github.com/andrewfader/blokkily",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-12T23:21:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50064318",
-    "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
-    "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-    "source": "hackernews",
-    "score": 129.0,
-    "published_at": "2026-10-12T23:07:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50040317",
-    "title": "Neuroscience can make decluttering easier",
-    "url": "https://www.nytimes.com/2026/10/11/opinion/clutter-spring-cleaning-psychology.html",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-11T06:32:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50065805",
-    "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
-    "url": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-13T02:25:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50063042",
-    "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
-    "url": "https://brickbrag.com/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-10-12T21:03:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50065553",
-    "title": "Strengthening our defenses against distillation attacks",
-    "url": "https://www.anthropic.com/research/distillation-defenses",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-13T01:46:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50064536",
-    "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-    "url": "https://doi.org/10.1111/acel.70751",
-    "source": "hackernews",
-    "score": 109.0,
-    "published_at": "2026-10-12T23:34:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50063717",
-    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-    "url": "https://github.com/prabanta-dev/janas",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-10-12T22:05:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50047664",
-    "title": "Auto Research: Integer multiplication below n log n",
-    "url": "https://app.getsupers.com/auto-research",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-11T20:48:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50063365",
-    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-    "source": "hackernews",
-    "score": 91.0,
-    "published_at": "2026-10-12T21:35:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50063138",
-    "title": "Who is vfmaddrnd231pd?",
-    "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-    "source": "hackernews",
-    "score": 132.0,
-    "published_at": "2026-10-12T21:12:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50041866",
-    "title": "The baffling intelligence of a single cell (2024)",
-    "url": "https://jsomers.net/e-coli-chemotaxis/",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-10-11T11:02:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50065892",
-    "title": "Leaving Tech",
-    "url": "https://ryanbigg.com/2026/10/leaving-tech",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-10-13T02:39:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:x1ucie",
-    "title": "ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor",
-    "url": "https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-12T13:00:48.328-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cjdy6d",
-    "title": "A modern web app in c",
-    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-    "source": "lobsters",
-    "score": 0.0,
-    "published_at": "2026-10-12T15:52:08.860-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5feguu",
-    "title": "Speeding up the Unreal editor by… not using unnecessarily secure hash methods",
-    "url": "https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-12T13:37:55.759-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:i1lyv7",
-    "title": "512 bytes at a time: reconstructing IBM i save-file checksums",
-    "url": "https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-12T13:12:46.001-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0aocct",
-    "title": "your c is not standard c",
-    "url": "https://sebsite.pw/w/20261012-notstdc.html",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-12T12:17:18.829-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:awjqvn",
-    "title": "What I've been seeing lately (in software)",
-    "url": "https://mei.puppycat.house/w/seeing-261010",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-12T12:08:00.505-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:iufma5",
-    "title": "Parsing JSON at tens of gigabytes per second… in Python",
-    "url": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-10-12T10:24:45.118-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7vzgsl",
-    "title": "What are you doing this week?",
-    "url": "https://lobste.rs/s/7vzgsl",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-12T12:04:52.208-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mldt0o",
-    "title": "Finding a $90,000 Remote Code Execution Vulnerability in Google",
-    "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-    "source": "lobsters",
-    "score": 22.0,
-    "published_at": "2026-10-12T09:40:35.395-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sozl9e",
-    "title": "(Post-Quantum) Cryptographic Right Answers",
-    "url": "https://words.filippo.io/right-answers/",
-    "source": "lobsters",
-    "score": 38.0,
-    "published_at": "2026-10-12T08:44:38.009-05:00",
     "summary": "",
     "key_points": []
   }
