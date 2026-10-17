@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:cdb7fq",
+    "title": "Future of Programming",
+    "url": "https://www.youtube.com/watch?v=bISIgO4x49A",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-17T10:42:25.935-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:iyquo7",
+    "title": "Principles of Anchor Engineering",
+    "url": "https://nappingtoheavymetal.com/post/2026-09-15-principles-of-anchor-engineering/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-17T12:08:33.127-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wceg2u",
+    "title": "It took me nine years to hack my Xbox 360",
+    "url": "https://kennedn.com/blog/posts/glitching/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-17T11:13:32.076-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249646",
+    "title": "0 基础入行金融需要多久？",
+    "url": "https://www.v2ex.com/t/1249646",
+    "source": "v2ex",
+    "score": 120.0,
+    "published_at": "2026-10-17T13:06:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:debpalash/VoiceStudio",
+    "title": "VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50129274",
+    "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+    "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-17T09:08:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50100640",
+    "title": "What changes when your search index lives on S3?",
+    "url": "https://infino.ai/blog/search-index-on-s3/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-15T07:55:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50132502",
+    "title": "OpenAI discloses four more rogue incidents",
+    "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-17T16:31:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50131189",
+    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+    "url": "https://github.com/mikroverk/esp32sim",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-17T13:51:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50082358",
+    "title": "A Tudor Life in the Time of Plague",
+    "url": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-14T04:23:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50132278",
+    "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
+    "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-10-17T16:04:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50132839",
+    "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+    "url": "https://www.artie.com/careers",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-10-17T17:02:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50100994",
+    "title": "Furifont, a Japanese font that shows furigana",
+    "url": "https://furifont.antfu.me/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-15T08:48:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50131213",
+    "title": "Making Chicken Transparent Using Dorito Dust",
+    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+    "source": "hackernews",
+    "score": 125.0,
+    "published_at": "2026-10-17T13:55:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50132328",
+    "title": "GLP-1 may slow biological aging",
+    "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-10-17T16:10:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:rtd5gq",
     "title": "Ship Your Interpreter",
     "url": "https://www.basis.ai/blog/ship-your-interpreters/",
@@ -4846,156 +4996,6 @@
     "source": "hackernews",
     "score": 1.0,
     "published_at": "2026-10-13T21:01:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50054092",
-    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-    "source": "hackernews",
-    "score": 312.0,
-    "published_at": "2026-10-12T10:09:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50077020",
-    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-    "url": "https://guitoro.com/",
-    "source": "hackernews",
-    "score": 156.0,
-    "published_at": "2026-10-13T19:11:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50078141",
-    "title": "OpenAI engineer arrested in bugging of executive conference room",
-    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-    "source": "hackernews",
-    "score": 185.0,
-    "published_at": "2026-10-13T20:23:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nsjjo3",
-    "title": "Running RAG with a (small) language model in the browser",
-    "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-13T10:56:29.994-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jecehj",
-    "title": "Can Ease of Creation Lead to Decrease in Quality & Value?",
-    "url": "https://pikuma.com/blog/ease-creation-decrease-quality-value",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-13T08:52:46.284-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:oq6nhr",
-    "title": "Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC",
-    "url": "https://easylang.online/ide",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-13T08:37:44.114-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zmuawx",
-    "title": "Lotus Improv on the NeXT",
-    "url": "https://stonetools.ghost.io/lotusimprov-next/",
-    "source": "lobsters",
-    "score": 15.0,
-    "published_at": "2026-10-13T06:15:09.948-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:aasanp",
-    "title": "The reverts will continue until morale improves",
-    "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-    "source": "lobsters",
-    "score": 25.0,
-    "published_at": "2026-10-13T06:37:06.816-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uiulqe",
-    "title": "Did Ente Locker copy my code without attribution?",
-    "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
-    "source": "lobsters",
-    "score": 23.0,
-    "published_at": "2026-10-13T08:44:47.394-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:73ssw1",
-    "title": "A plea not to use uv-build",
-    "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-    "source": "lobsters",
-    "score": 27.0,
-    "published_at": "2026-10-13T09:36:52.168-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248372",
-    "title": "2026 年了，还有老架构坚持 MySQL 单表数据不能超过 2000 万行",
-    "url": "https://www.v2ex.com/t/1248372",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-10-13T06:05:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248324",
-    "title": "Claude 很好开啊",
-    "url": "https://www.v2ex.com/t/1248324",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-10-13T03:20:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695613822451384370",
-    "title": "Flitz ，一个把 Flutter 玩成热插拔 Preview 的有趣项目，不错的思路",
-    "url": "https://juejin.cn/post/7695613822451384370",
-    "source": "juejin",
-    "score": 0.7761235,
-    "published_at": "2026-10-13T00:58:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695939202564669474",
-    "title": "SQL 编辑器不只是写查询：我用 KStudio 排查一次订单异常",
-    "url": "https://juejin.cn/post/7695939202564669474",
-    "source": "juejin",
-    "score": 2.5186087,
-    "published_at": "2026-10-13T10:22:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:xtool-org/xtool",
-    "title": "xtool",
-    "url": "https://github.com/xtool-org/xtool",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
