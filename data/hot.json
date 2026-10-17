@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:1zknyw",
+    "title": "Someone on Torrent Sites Kept Fucking With My Sonarr",
+    "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-16T15:47:02.336-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:oh4yfc",
+    "title": "STAC-M3 Benchmark: L tick database 1.0 on Oxide OxVM w/ 128 vCPUs & 1.25 TiB of RAM",
+    "url": "https://docs.stacresearch.com/M3-20261005a",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-17T00:08:50.980-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pllfoa",
+    "title": "orib: Bringing back the old Reddit interface, with a few new enhancements",
+    "url": "https://github.com/rajtilakjee/orib",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-16T23:22:50.540-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wn293o",
+    "title": "Interactive refactoring in gopls",
+    "url": "https://go.dev/blog/interactive-refactoring",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-16T20:12:09.772-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:miwcai",
+    "title": "Do you let LLMs write both your tests and your code?",
+    "url": "https://lobste.rs/s/miwcai",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-16T18:53:05.634-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249458",
+    "title": "备货这么充足嘛， iPhone Duo 官网购买很顺利",
+    "url": "https://www.v2ex.com/t/1249458",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-10-16T12:28:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249412",
+    "title": "房子卖了，赔了 37%",
+    "url": "https://www.v2ex.com/t/1249412",
+    "source": "v2ex",
+    "score": 58.0,
+    "published_at": "2026-10-16T08:52:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249437",
+    "title": "大龄程序员 2 个 offer 如何选择啊，纠结。。。",
+    "url": "https://www.v2ex.com/t/1249437",
+    "source": "v2ex",
+    "score": 60.0,
+    "published_at": "2026-10-16T09:56:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249355",
+    "title": "咋卖啥的都非要搞个直播呢",
+    "url": "https://www.v2ex.com/t/1249355",
+    "source": "v2ex",
+    "score": 74.0,
+    "published_at": "2026-10-16T06:23:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249536",
+    "title": "为何我国公安系统对遛狗不栓绳问题非常漠视呢？",
+    "url": "https://www.v2ex.com/t/1249536",
+    "source": "v2ex",
+    "score": 88.0,
+    "published_at": "2026-10-17T02:55:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249406",
+    "title": "抑郁症的人到底在想些什么？",
+    "url": "https://www.v2ex.com/t/1249406",
+    "source": "v2ex",
+    "score": 90.0,
+    "published_at": "2026-10-16T08:41:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249365",
+    "title": "有目前稳定可靠的订阅 gpt plus 的方法吗，分享分享，人在大陆",
+    "url": "https://www.v2ex.com/t/1249365",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-10-16T06:49:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249389",
+    "title": "如何评价 rea 逆向一切？",
+    "url": "https://www.v2ex.com/t/1249389",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-10-16T07:53:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696326603062345778",
+    "title": " 毁掉 Android 现代架构，只需要一个自定义的“FlowBus”",
+    "url": "https://juejin.cn/post/7696326603062345778",
+    "source": "juejin",
+    "score": 0.17083991,
+    "published_at": "2026-10-14T22:56:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696455640667586596",
+    "title": "日合并 3 万次之后，Anthropic 换掉了 Git",
+    "url": "https://juejin.cn/post/7696455640667586596",
+    "source": "juejin",
+    "score": 0.18075033,
+    "published_at": "2026-10-15T03:54:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696709714028216370",
+    "title": "前端是如何死去的？| 完整时间线",
+    "url": "https://juejin.cn/post/7696709714028216370",
+    "source": "juejin",
+    "score": 0.21803141,
+    "published_at": "2026-10-15T10:19:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696324130459467827",
+    "title": "Gemini 4上线！又回到御三家了？",
+    "url": "https://juejin.cn/post/7696324130459467827",
+    "source": "juejin",
+    "score": 0.11517492,
+    "published_at": "2026-10-14T09:18:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696713457149362230",
+    "title": "前端转全栈最低成本的技术栈选择",
+    "url": "https://juejin.cn/post/7696713457149362230",
+    "source": "juejin",
+    "score": 0.35945964,
+    "published_at": "2026-10-16T00:47:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50088767",
+    "title": "0/1 Knapsack Problem in PyTorch",
+    "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-14T15:04:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50127839",
+    "title": "\"In every study that considered the question\"",
+    "url": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-17T04:08:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50119751",
+    "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+    "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-16T15:38:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50127274",
+    "title": "Butlerian Jihad",
+    "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+    "source": "hackernews",
+    "score": 150.0,
+    "published_at": "2026-10-17T02:21:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50088937",
+    "title": "California is building a $400M shield for Yosemite's most dangerous highway",
+    "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-10-14T15:15:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50106747",
+    "title": "Ultramarine 1 Flash",
+    "url": "https://www.paperinstruments.com/ultramarine",
+    "source": "hackernews",
+    "score": 131.0,
+    "published_at": "2026-10-15T17:06:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ku4hwg",
     "title": "Rust debugging survey 2026 results",
     "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
@@ -4756,246 +4996,6 @@
     "source": "v2ex",
     "score": 190.0,
     "published_at": "2026-10-13T07:13:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248259",
-    "title": "现在 AI 是不是逐渐能取代很多高水平程序员了",
-    "url": "https://www.v2ex.com/t/1248259",
-    "source": "v2ex",
-    "score": 194.0,
-    "published_at": "2026-10-13T00:35:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695613699442311222",
-    "title": "AI翻译都这么强了，为什么程序员还是躲不开英语？假如你想用上GPT6，我劝你还是早点背单词吧！",
-    "url": "https://juejin.cn/post/7695613699442311222",
-    "source": "juejin",
-    "score": 1.31710113,
-    "published_at": "2026-10-13T01:48:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695639978206380070",
-    "title": "我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！",
-    "url": "https://juejin.cn/post/7695639978206380070",
-    "source": "juejin",
-    "score": 0.44237687,
-    "published_at": "2026-10-12T13:05:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694908808569192489",
-    "title": "🏮 我把三坊七巷做成了能飞的 3D 地图（901 个真实建筑轮廓、20 处景点，在线直接玩）",
-    "url": "https://juejin.cn/post/7694908808569192489",
-    "source": "juejin",
-    "score": 0.12999373,
-    "published_at": "2026-10-10T14:58:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695553701473943606",
-    "title": "苏格拉底式提问法，也许是AI时代最稀缺的能力",
-    "url": "https://juejin.cn/post/7695553701473943606",
-    "source": "juejin",
-    "score": 0.40502154,
-    "published_at": "2026-10-12T08:17:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695391952385949723",
-    "title": "【升级】一个中国历史可视化站：皇帝时间线梳理、古代思想流派、诗词鉴赏 (2)",
-    "url": "https://juejin.cn/post/7695391952385949723",
-    "source": "juejin",
-    "score": 0.25377568,
-    "published_at": "2026-10-12T03:50:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7694967861421916160",
-    "title": "Kotlin Toolchain 0.13，JetBrains 推荐 KMP 都切换到到全新工具链",
-    "url": "https://juejin.cn/post/7694967861421916160",
-    "source": "juejin",
-    "score": 0.37046975,
-    "published_at": "2026-10-12T01:00:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695079160285397035",
-    "title": "Java程序员需要转Python吗？",
-    "url": "https://juejin.cn/post/7695079160285397035",
-    "source": "juejin",
-    "score": 0.38041625,
-    "published_at": "2026-10-12T02:24:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695562157778157608",
-    "title": "近段时间，AI加持下，我的开发感悟",
-    "url": "https://juejin.cn/post/7695562157778157608",
-    "source": "juejin",
-    "score": 0.49699136,
-    "published_at": "2026-10-12T08:48:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695604296683274250",
-    "title": "✍️ TRAE 双端融合，全面升级｜征文活动开启，赢京东卡、TRAE 精美周边好礼！",
-    "url": "https://juejin.cn/post/7695604296683274250",
-    "source": "juejin",
-    "score": 0.52998765,
-    "published_at": "2026-10-12T07:41:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50068946",
-    "title": "Were Software Engineers blue-collar workers all along?",
-    "url": "https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along",
-    "source": "hackernews",
-    "score": 67.0,
-    "published_at": "2026-10-13T09:25:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50069318",
-    "title": "AWS Lambda Web Functions",
-    "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-13T10:07:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50069329",
-    "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-    "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-13T10:08:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50064840",
-    "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
-    "url": "https://github.com/bherbruck/solidcraft",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-10-13T00:11:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50068508",
-    "title": "Crypto thieves sell hardware wallets with secret eSIM",
-    "url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-13T08:34:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50065692",
-    "title": "AI models can provably hide arbitrary capabilities",
-    "url": "https://arxiv.org/abs/2610.13928",
-    "source": "hackernews",
-    "score": 211.0,
-    "published_at": "2026-10-13T02:07:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50065932",
-    "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
-    "url": "https://www.argmin.net/p/faster-fourier-transforms",
-    "source": "hackernews",
-    "score": 139.0,
-    "published_at": "2026-10-13T02:46:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50068437",
-    "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
-    "url": "https://github.com/composo-ai/DishwasherBench",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-10-13T08:24:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50068443",
-    "title": "Document Review with Unsiloed and TypeSafe Jev",
-    "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-13T08:24:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50067414",
-    "title": "Hittite royal archive found in Turkey",
-    "url": "https://www.thehistoryblog.com/archives/77107",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-13T06:02:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:j30pg4",
-    "title": "Vi Hart's Big Navier-Stokes Post",
-    "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-12T20:29:49.487-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248284",
-    "title": "马克思的按需分配，是不是高估了人性？",
-    "url": "https://www.v2ex.com/t/1248284",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-10-13T01:56:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248258",
-    "title": "广州欢迎你",
-    "url": "https://www.v2ex.com/t/1248258",
-    "source": "v2ex",
-    "score": 132.0,
-    "published_at": "2026-10-13T00:29:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248273",
-    "title": "人生滑铁卢了，哎",
-    "url": "https://www.v2ex.com/t/1248273",
-    "source": "v2ex",
-    "score": 148.0,
-    "published_at": "2026-10-13T01:32:17+00:00",
     "summary": "",
     "key_points": []
   }
