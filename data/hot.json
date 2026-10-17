@@ -1,5 +1,65 @@
 [
   {
+    "id": "hackernews:50133150",
+    "title": "I Became a Citizen of Japan",
+    "url": "https://www.derekwessman.com/blog-1/natural",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-10-17T17:36:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50090927",
+    "title": "Types of types: Haskell's Kind system",
+    "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-14T17:00:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50133231",
+    "title": "Codex is EATING my Mac's disk space",
+    "url": "https://github.com/openai/codex/issues/25921",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-17T17:45:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50101649",
+    "title": "Laser Fault Injection on a Budget: RP2350 Edition",
+    "url": "https://courk.cc/rp2350-challenge-laser",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-15T10:24:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50134617",
+    "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+    "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-10-17T20:07:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50133830",
+    "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-17T18:45:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:np84oh",
     "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
     "url": "https://pwn.ai/blog/pwnescape",
@@ -4936,66 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-10-13T17:01:20.307-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248294",
-    "title": "纯前端对接接口的痛， AI 真的解决了吗？",
-    "url": "https://www.v2ex.com/t/1248294",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-10-13T02:13:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248362",
-    "title": "Piczo 相册照片自动分类 | 送码",
-    "url": "https://www.v2ex.com/t/1248362",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-10-13T05:37:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248323",
-    "title": "今年双十一，你们有什么要买的？",
-    "url": "https://www.v2ex.com/t/1248323",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-10-13T03:18:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695700837499519014",
-    "title": "12个UI组件库，Star最低的下载最多",
-    "url": "https://juejin.cn/post/7695700837499519014",
-    "source": "juejin",
-    "score": 0.547247,
-    "published_at": "2026-10-13T05:16:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695725609003778111",
-    "title": "开源GIS老大翻脸了：两条规定，AI辅助代码彻底出局",
-    "url": "https://juejin.cn/post/7695725609003778111",
-    "source": "juejin",
-    "score": 0.52778825,
-    "published_at": "2026-10-13T05:56:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50057612",
-    "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
-    "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-12T15:12:37+00:00",
     "summary": "",
     "key_points": []
   }
