@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:gwuebx",
+    "title": "Some quick thoughts on Unit Testing ActivityPub",
+    "url": "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-17T01:12:46.936-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:a0og2j",
+    "title": "Developing for Debugging (2025)",
+    "url": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-17T02:21:14.456-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249540",
+    "title": "roadster 发布了，是真的假的这么牛",
+    "url": "https://www.v2ex.com/t/1249540",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-10-17T03:05:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249546",
+    "title": "腾讯云服务器要不要续费？",
+    "url": "https://www.v2ex.com/t/1249546",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-10-17T03:17:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249502",
+    "title": "过敏性鼻炎怎样治疗？",
+    "url": "https://www.v2ex.com/t/1249502",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-10-16T20:22:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249468",
+    "title": "好哥哥们，俺能赚多少呀🤭",
+    "url": "https://www.v2ex.com/t/1249468",
+    "source": "v2ex",
+    "score": 64.0,
+    "published_at": "2026-10-16T13:08:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249610",
+    "title": "96110 冻结银行卡，普通人真是无解",
+    "url": "https://www.v2ex.com/t/1249610",
+    "source": "v2ex",
+    "score": 64.0,
+    "published_at": "2026-10-17T09:12:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249529",
+    "title": "智友社回馈 V 站新老客户，抽送第 10 波 18 个 智友社的 Muse Ai 稳定特殊渠道独享成品号 1A（10 亿 Token，质保首登）",
+    "url": "https://www.v2ex.com/t/1249529",
+    "source": "v2ex",
+    "score": 66.0,
+    "published_at": "2026-10-17T02:14:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249532",
+    "title": "刚接到 96110 反诈宣传电话",
+    "url": "https://www.v2ex.com/t/1249532",
+    "source": "v2ex",
+    "score": 88.0,
+    "published_at": "2026-10-17T02:36:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697087660390547466",
+    "title": "浏览器为什么加载不了超大图片",
+    "url": "https://juejin.cn/post/7697087660390547466",
+    "source": "juejin",
+    "score": 0.37168927,
+    "published_at": "2026-10-16T08:29:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696759034846052367",
+    "title": "传统竖屏 UIKit 项目简单适配 iPhone Duo 的第一版",
+    "url": "https://juejin.cn/post/7696759034846052367",
+    "source": "juejin",
+    "score": 0.21614217,
+    "published_at": "2026-10-15T14:10:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697168479082889243",
+    "title": "学会 SQLAlchemy 搭建 Python 与 MySQL 之间的数据访问桥梁 🚀",
+    "url": "https://juejin.cn/post/7697168479082889243",
+    "source": "juejin",
+    "score": 4.10573932,
+    "published_at": "2026-10-17T01:59:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696889902293614642",
+    "title": "一个周末就想把短链服务推到 10 万 QPS，真能靠加 Redis 做到吗？",
+    "url": "https://juejin.cn/post/7696889902293614642",
+    "source": "juejin",
+    "score": 45.42719918,
+    "published_at": "2026-10-16T03:47:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anomalyco/opencode",
+    "title": "opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/claude-code",
+    "title": "claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:stablyai/orca",
+    "title": "orca",
+    "url": "https://github.com/stablyai/orca",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:akitaonrails/ai-memory",
+    "title": "ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50128654",
+    "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+    "url": "https://github.com/CLoaKY233/siltop",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-17T07:01:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50100440",
+    "title": "We Still Use Paper",
+    "url": "https://humanpro.co/articles/we-still-use-paper/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-15T07:27:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50104783",
+    "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
+    "url": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-15T15:06:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50129235",
+    "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+    "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-17T09:01:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50089577",
+    "title": "Tell HN: Remember to migrate away from .name domain",
+    "url": "https://news.ycombinator.com/item?id=50089577",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-10-14T15:49:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50103255",
+    "title": "Intuitive concurrent programming in any language",
+    "url": "https://www.lf-lang.org/",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-10-15T13:18:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50129045",
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "source": "hackernews",
+    "score": 180.0,
+    "published_at": "2026-10-17T08:21:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50127979",
+    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "url": "https://llmspeed.dev/",
+    "source": "hackernews",
+    "score": 90.0,
+    "published_at": "2026-10-17T04:36:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50129121",
+    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+    "source": "hackernews",
+    "score": 166.0,
+    "published_at": "2026-10-17T08:37:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:1zknyw",
     "title": "Someone on Torrent Sites Kept Fucking With My Sonarr",
     "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
@@ -4736,266 +4996,6 @@
     "source": "hackernews",
     "score": 25.0,
     "published_at": "2026-10-12T19:28:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50071310",
-    "title": "New Apple TV 4K",
-    "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-    "source": "hackernews",
-    "score": 153.0,
-    "published_at": "2026-10-13T13:21:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50070593",
-    "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-    "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-    "source": "hackernews",
-    "score": 174.0,
-    "published_at": "2026-10-13T12:26:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50073633",
-    "title": "Redesigning Source Control at Anthropic",
-    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-10-13T15:49:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50069971",
-    "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-    "url": "https://eg2.haku.sh/",
-    "source": "hackernews",
-    "score": 306.0,
-    "published_at": "2026-10-13T11:27:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50070302",
-    "title": "Firefox Enterprise",
-    "url": "https://www.firefox.com/en-US/enterprise/",
-    "source": "hackernews",
-    "score": 382.0,
-    "published_at": "2026-10-13T12:00:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50074969",
-    "title": "Coris (YC S22) Is Hiring Back End Engineer",
-    "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-10-13T17:00:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50073221",
-    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-    "source": "hackernews",
-    "score": 98.0,
-    "published_at": "2026-10-13T15:25:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50069499",
-    "title": "11 year old unsoundness bugs found in Rust borrow checker",
-    "url": "https://github.com/rust-lang/rust/issues/164250",
-    "source": "hackernews",
-    "score": 551.0,
-    "published_at": "2026-10-13T10:27:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50074289",
-    "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
-    "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-10-13T16:24:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50072913",
-    "title": "Thunderbird for iOS",
-    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-    "source": "hackernews",
-    "score": 144.0,
-    "published_at": "2026-10-13T15:07:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50071017",
-    "title": "Apple HomeView",
-    "url": "https://www.apple.com/apple-homeview/",
-    "source": "hackernews",
-    "score": 453.0,
-    "published_at": "2026-10-13T13:02:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50073879",
-    "title": "Gemini 4 Argon",
-    "url": "https://deepmind.google/models/gemini/",
-    "source": "hackernews",
-    "score": 385.0,
-    "published_at": "2026-10-13T16:03:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fdxjtr",
-    "title": "500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter",
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-13T02:07:53.776-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nsmm3j",
-    "title": "Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers",
-    "url": "https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-13T02:09:54.891-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xz6sst",
-    "title": "Faster Fourier Transforms",
-    "url": "https://www.argmin.net/p/faster-fourier-transforms",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-13T05:01:31.157-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:g2ktrq",
-    "title": "Chasing a -O2 pessimization in antcc",
-    "url": "https://386s.org/w/lua-antcc-pessimization/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-13T04:33:50.147-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6tbd2o",
-    "title": "Creusot 0.14.0 release - Contracts for Rust, formally proved",
-    "url": "https://devlog.creusot.rs/v0-14-0/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-13T02:57:16.122-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hjhufj",
-    "title": "Where is all the new, good software?",
-    "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-13T04:14:09.562-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:d9rpcl",
-    "title": "A slightly faster slimmer curl",
-    "url": "https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-10-13T01:26:20.077-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:2h9opx",
-    "title": "Who is vfmaddrnd231pd??",
-    "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-    "source": "lobsters",
-    "score": 22.0,
-    "published_at": "2026-10-12T23:43:34.162-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248223",
-    "title": "虽然生活压力很大，负债也很多，可有时候也想碰到一个能坚定选择我，爱我的",
-    "url": "https://www.v2ex.com/t/1248223",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-10-12T13:52:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248302",
-    "title": "找工作乏了，感觉岗位越来越少，社会经济越来越差",
-    "url": "https://www.v2ex.com/t/1248302",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-10-13T02:23:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248260",
-    "title": "避坑恒洁卫浴，前所未见的售后体验",
-    "url": "https://www.v2ex.com/t/1248260",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-10-13T00:36:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248245",
-    "title": "因为带孩子去医院，医生开的药，家里其实有，所以我开发了一个记录就诊和家庭药箱的 App",
-    "url": "https://www.v2ex.com/t/1248245",
-    "source": "v2ex",
-    "score": 132.0,
-    "published_at": "2026-10-12T15:36:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248355",
-    "title": "用 Rust 重写一切，这次是 navicat",
-    "url": "https://www.v2ex.com/t/1248355",
-    "source": "v2ex",
-    "score": 176.0,
-    "published_at": "2026-10-13T05:12:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248405",
-    "title": "关于长辈抽烟的问题，有好的解决办法么？",
-    "url": "https://www.v2ex.com/t/1248405",
-    "source": "v2ex",
-    "score": 190.0,
-    "published_at": "2026-10-13T07:13:06+00:00",
     "summary": "",
     "key_points": []
   }
