@@ -1,5 +1,205 @@
 [
   {
+    "id": "lobsters:np84oh",
+    "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
+    "url": "https://pwn.ai/blog/pwnescape",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-17T13:24:39.593-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1kesjm",
+    "title": "Abolish AI! Manifesto",
+    "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-17T13:25:58.714-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50130079",
+    "title": "The future of programming (1982)",
+    "url": "https://dl.acm.org/doi/10.1145/358453.358459",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-17T11:20:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50126384",
+    "title": "Show HN: Things to Do API",
+    "url": "https://thingstodoapi.com/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-16T23:58:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50131006",
+    "title": "Show HN: High-quality duck audio synthesizer",
+    "url": "https://celphase.github.io/duck-pond/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-17T13:28:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50122682",
+    "title": "Espresso machine can run Doom",
+    "url": "https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-16T18:49:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50127572",
+    "title": "A skeptic's first contact with Kubernetes (2024)",
+    "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-10-17T03:16:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50118098",
+    "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+    "url": "https://github.com/Kapendev/parin",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-16T13:22:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50133713",
+    "title": "AI Can Write the Code. Who Verifies It?",
+    "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-17T18:31:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50133736",
+    "title": "Pattern Matching Beats Narrative Reasoning",
+    "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-17T18:34:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50094887",
+    "title": "Vintage Cassettes: 1963-2010",
+    "url": "http://vintagecassettes.com/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-14T20:41:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50133401",
+    "title": "OpenCode Hacked: User credentials leaked",
+    "url": "https://twitter.com/opencode/status/2111516673953935833",
+    "source": "hackernews",
+    "score": 213.0,
+    "published_at": "2026-10-17T18:01:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50132911",
+    "title": "tsc-ts: TypeScript written in TypeScript",
+    "url": "https://github.com/vercel-labs/tsc-ts",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-17T17:10:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50132193",
+    "title": "Pele – Mermaid diagrams as themeable SVG",
+    "url": "https://pele.run/",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-10-17T15:55:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50126312",
+    "title": "Dam removals are bringing fish back across the northeastern United States",
+    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-16T23:47:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50127586",
+    "title": "Source code of the Estonian online voting system",
+    "url": "https://github.com/valimised/ivxv",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-10-17T03:18:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50100366",
+    "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+    "url": "https://github.com/antirez/c64-hw-simulator",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-10-15T07:18:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50132950",
+    "title": "Development statistics for the 7.2 kernel",
+    "url": "https://lwn.net/Articles/1088776/",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-10-17T17:14:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50132870",
+    "title": "Gold is now the top U.S. export",
+    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-10-17T17:06:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50126253",
+    "title": "Bleached corals thrive within days when touching healthy neighbour",
+    "url": "https://www.nature.com/articles/d41586-026-03266-x",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-10-16T23:38:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:cdb7fq",
     "title": "Future of Programming",
     "url": "https://www.youtube.com/watch?v=bISIgO4x49A",
@@ -4796,206 +4996,6 @@
     "source": "hackernews",
     "score": 11.0,
     "published_at": "2026-10-12T15:12:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50079437",
-    "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
-    "url": "https://www.pi.website/blog/api-beta",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-13T21:55:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50079464",
-    "title": "AlphaNIST",
-    "url": "https://alpha-nist.github.io/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-10-13T21:57:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50079865",
-    "title": "Recreational Programming",
-    "url": "https://www.cphiri.dev/presentations/recreational-programming",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-10-13T22:33:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50053487",
-    "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-    "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-12T09:05:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50080275",
-    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "url": "https://pulseos.finance",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-10-13T23:13:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4jfegi",
-    "title": "Nixpkgs for the frontend impaired",
-    "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-13T05:55:15.022-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jref3l",
-    "title": "Accelerating the Zig Tokenizer (with AVX-512)",
-    "url": "https://www.youtube.com/watch?v=E6dWIwPLx3s",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-13T15:36:59.449-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5ucftp",
-    "title": "Redesigning source control at Anthropic",
-    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-13T15:37:52.009-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:y65egs",
-    "title": "Announcing Lix 2.96 “Bingsu”",
-    "url": "https://lix.systems/blog/2026-10-13-lix-2.96-release/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-13T16:17:07.868-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:es1vaj",
-    "title": "Data-oriented Design for Mortals",
-    "url": "https://www.youtube.com/watch?v=uI1Yx1CJAB0",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-13T13:54:29.969-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50075665",
-    "title": "Show HN: XY Music Notation",
-    "url": "https://music.xy.dev/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-10-13T17:43:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50070554",
-    "title": "Worlds more habitable than Earth?",
-    "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-10-13T12:23:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50059542",
-    "title": "Hiking the world in search of rare cheeses",
-    "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-12T17:15:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50077096",
-    "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
-    "url": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-13T19:17:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50058649",
-    "title": "IDRs as Records of Intent",
-    "url": "https://wrla.ch/log/2026/10/idrs-as-records-of-intent/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-12T16:20:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50077619",
-    "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-    "url": "https://parsimony.lasu.dev/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-13T19:50:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50067721",
-    "title": "Maybe a better way to track the release history of a Git repo",
-    "url": "https://blog.plover.com/prog/git/history-proposal.html",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-13T06:47:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50070010",
-    "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-    "url": "https://github.com/LargeModGames/spotatui",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-13T11:32:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50072286",
-    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-    "source": "hackernews",
-    "score": 143.0,
-    "published_at": "2026-10-13T14:26:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50078686",
-    "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-    "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-10-13T21:01:12+00:00",
     "summary": "",
     "key_points": []
   }
