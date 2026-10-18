@@ -1,5 +1,55 @@
 [
   {
+    "id": "v2ex:1249631",
+    "title": "看到有人发银行卡被冻结，我也说下我的经历",
+    "url": "https://www.v2ex.com/t/1249631",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-10-17T11:25:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696499984355442723",
+    "title": "为什么越来越多人用Quarkus？",
+    "url": "https://juejin.cn/post/7696499984355442723",
+    "source": "juejin",
+    "score": 0.14724596,
+    "published_at": "2026-10-15T07:47:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50135379",
+    "title": "JDK 28",
+    "url": "https://openjdk.org/projects/jdk/28/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-17T21:37:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50093006",
+    "title": "Each step of decoding a PNG (2022)",
+    "url": "https://iter.ca/post/png/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-14T18:53:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50092722",
+    "title": "An ESPN producer who quit because of sports gambling",
+    "url": "https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php",
+    "source": "hackernews",
+    "score": 124.0,
+    "published_at": "2026-10-14T18:36:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "hackernews:50133150",
     "title": "I Became a Citizen of Japan",
     "url": "https://www.derekwessman.com/blog-1/natural",
@@ -4946,56 +4996,6 @@
     "source": "hackernews",
     "score": 133.0,
     "published_at": "2026-10-13T22:46:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50045147",
-    "title": "Sound – Bartosz Ciechanowski (2022)",
-    "url": "https://ciechanow.ski/sound/",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-10-11T16:46:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50082470",
-    "title": "Felix Rieseberg Homepage",
-    "url": "https://felixrieseberg.com/",
-    "source": "hackernews",
-    "score": 152.0,
-    "published_at": "2026-10-14T04:42:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50083130",
-    "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-    "url": "https://github.com/android/ndk/issues/2260",
-    "source": "hackernews",
-    "score": 90.0,
-    "published_at": "2026-10-14T06:18:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fppgkl",
-    "title": "The 2026 Maintainers Summit",
-    "url": "https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-13T17:25:00.766-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xatiaj",
-    "title": "Please stop hashing the public key first (or: ML-DSA's µ annoys me)",
-    "url": "https://blog.erincandescent.net/2026/10/mu-annoys-me/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-13T17:01:20.307-05:00",
     "summary": "",
     "key_points": []
   }
