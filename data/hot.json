@@ -1,5 +1,145 @@
 [
   {
+    "id": "lobsters:brrnpm",
+    "title": "Outside the Scope of Our Support",
+    "url": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-18T13:52:01.341-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:izjf9o",
+    "title": "QML for C & Zig",
+    "url": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-18T14:10:04.091-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mp8qye",
+    "title": "Men in tech #YesAllMen",
+    "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-18T13:35:01.063-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nbxnh7",
+    "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
+    "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-18T12:59:21.837-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50143876",
+    "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+    "url": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-18T18:26:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50119819",
+    "title": "CKKS – Addition and Multiplication",
+    "url": "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-16T15:43:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50129060",
+    "title": "Geographical Fun: Being Humourous Outlines of Various Countries (1868)",
+    "url": "https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-17T08:24:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50093020",
+    "title": "I Electrified My Push Scooter with a Power Drill",
+    "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-14T18:53:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50142866",
+    "title": "Namecheap just seized and disabled all my domains",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "source": "hackernews",
+    "score": 126.0,
+    "published_at": "2026-10-18T16:56:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50143755",
+    "title": "Investing in the Public Benefit",
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-18T18:15:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50144066",
+    "title": "Free Pascal Compiler Now Supports Dynamic Packages",
+    "url": "https://www.getlazarus.org/dynamic/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-18T18:48:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50143132",
+    "title": "Mitos editor is a fork of Helix",
+    "url": "https://mitos.computer/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-18T17:19:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50143536",
+    "title": "PalmOS Lemmings by Aaron Ardiri",
+    "url": "https://github.com/ardiri/palmos-lemmings",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-18T17:56:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50144005",
+    "title": "HOA's are making the home crisis worse",
+    "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-10-18T18:40:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:koipdp",
     "title": "The Problem with C++ Safety: Why “It Works” Isn’t Good Enough",
     "url": "https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/",
@@ -4856,146 +4996,6 @@
     "source": "hackernews",
     "score": 54.0,
     "published_at": "2026-10-14T17:45:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50092664",
-    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-    "source": "hackernews",
-    "score": 198.0,
-    "published_at": "2026-10-14T18:32:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50054465",
-    "title": "Phloem: Git history grown like a slime mold",
-    "url": "https://phloem.stemdeck.app/",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-10-12T10:52:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50092470",
-    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-    "url": "https://petal.live/",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-10-14T18:23:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50092730",
-    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-    "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-    "source": "hackernews",
-    "score": 221.0,
-    "published_at": "2026-10-14T18:37:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50093612",
-    "title": "Fancy Curl Sites",
-    "url": "https://nytpu.com/gemlog/2026-03-18",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-14T19:29:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50050553",
-    "title": "Do dentists know what they're doing?",
-    "url": "https://mapwriting.substack.com/p/dentists",
-    "source": "hackernews",
-    "score": 197.0,
-    "published_at": "2026-10-12T02:21:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50091788",
-    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-    "source": "hackernews",
-    "score": 771.0,
-    "published_at": "2026-10-14T17:45:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50095353",
-    "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-    "url": "https://typesafe.ai/blog/jev-1-14",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-10-14T21:11:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50094994",
-    "title": "OpenCode 2.0",
-    "url": "https://anoma.ly/notes/opencode-2-0/",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-10-14T20:48:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50094694",
-    "title": "Anthropic's Scion is heavily inspired by Mononoke",
-    "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-    "source": "hackernews",
-    "score": 122.0,
-    "published_at": "2026-10-14T20:30:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50094673",
-    "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-    "url": "https://blog.cloudflare.com/yandex-outage/",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-10-14T20:29:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50093568",
-    "title": "Things to know when you get cancer – 2026 Edition",
-    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-    "source": "hackernews",
-    "score": 378.0,
-    "published_at": "2026-10-14T19:26:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sj09ps",
-    "title": "Building a Linearizable Log on READ COMMITTED Isolation",
-    "url": "https://materialize.com/blog/building-a-linearizable-log-on-read-committed/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-14T08:43:10.987-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:plbei0",
-    "title": "OpenFatigue™ — Open is the new closed",
-    "url": "https://openfatigue.ai/",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-10-14T06:24:24.996-05:00",
     "summary": "",
     "key_points": []
   }
