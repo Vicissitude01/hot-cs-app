@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:kiq0si",
+    "title": "Algorithmic Sound Design with L-Systems and Granular Synthesis",
+    "url": "https://nathanho.me/posts/evograin/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-18T07:06:05.111-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mmvhup",
+    "title": "ARP! Tell your network to explain itself",
+    "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-18T07:48:02.112-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ggpwfi",
+    "title": "It's enough - vibecoding tag crossed from useless to harmful",
+    "url": "https://lobste.rs/s/ggpwfi",
+    "source": "lobsters",
+    "score": 86.0,
+    "published_at": "2026-10-18T05:35:11.525-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249708",
+    "title": "总是在兴奋和悲观之间反复横跳，这个屌炸天的 REA（逆向一切），原理仅仅只是给大模型提供了更多的上下文",
+    "url": "https://www.v2ex.com/t/1249708",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-10-18T02:22:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249762",
+    "title": "Claude 过验证后丝滑升 5x",
+    "url": "https://www.v2ex.com/t/1249762",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-10-18T08:15:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249671",
+    "title": "DeepSeek-V4.1-Flash-1017 发布了，今晚我让它通宵写代码（Day 4）",
+    "url": "https://www.v2ex.com/t/1249671",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-10-17T16:25:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249712",
+    "title": "AI 发现了我的睡不好的原因",
+    "url": "https://www.v2ex.com/t/1249712",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-10-18T02:37:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696821865848733705",
+    "title": "AI Coding 时代最值钱的东西，软件工程（上）",
+    "url": "https://juejin.cn/post/7696821865848733705",
+    "source": "juejin",
+    "score": 0.13909608,
+    "published_at": "2026-10-16T00:41:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696817605547638794",
+    "title": "WorkBuddy 装完就吃灰？3 个动作让 AI 真帮你干活",
+    "url": "https://juejin.cn/post/7696817605547638794",
+    "source": "juejin",
+    "score": 0.13634353,
+    "published_at": "2026-10-16T04:19:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697431539588251675",
+    "title": "DeepSeek  新版还是难评！",
+    "url": "https://juejin.cn/post/7697431539588251675",
+    "source": "juejin",
+    "score": 0.47170771,
+    "published_at": "2026-10-17T15:44:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697500325122277376",
+    "title": "数据集成软件 KFS：多套业务库汇聚时，先把来源和口径理清",
+    "url": "https://juejin.cn/post/7697500325122277376",
+    "source": "juejin",
+    "score": 4.28614902,
+    "published_at": "2026-10-18T10:03:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Comfy-Org/ComfyUI",
+    "title": "ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Kruk2/jasna",
+    "title": "jasna",
+    "url": "https://github.com/Kruk2/jasna",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mlabonne/llm-course",
+    "title": "llm-course",
+    "url": "https://github.com/mlabonne/llm-course",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50140638",
+    "title": "Germany's 17M Immigrants: Where They Come From",
+    "url": "https://www.visualcapitalist.com/cp/where-germanys-immigrants-come-from/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-18T12:46:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50098485",
+    "title": "Lorenz and Little: How Much Does Your Tail Cost?",
+    "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-15T02:39:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50093081",
+    "title": "Hatching (Heraldry)",
+    "url": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-14T18:57:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50102480",
+    "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
+    "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-15T12:06:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50122671",
+    "title": "Regex visualized as 3D marble run",
+    "url": "https://www.regexmarblerun.com/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-16T18:48:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50139067",
+    "title": "Parser Combinators",
+    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-10-18T08:19:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50140001",
+    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+    "url": "https://github.com/0x23/MicroManipulatorStepper",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-18T11:16:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50139692",
+    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+    "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-18T10:21:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gl8yly",
     "title": "Un-hanging the HP Envy 17-DA0013dx for OpenBSD",
     "url": "https://darwinsys.com/blog/20260925-hp-envy-17/",
@@ -4776,226 +4996,6 @@
     "source": "hackernews",
     "score": 48.0,
     "published_at": "2026-10-14T16:29:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:d1c8zn",
-    "title": "Plasma 6.8 released (KDE's 30th birthday)",
-    "url": "https://kde.org/announcements/plasma/6/6.8.0/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-14T06:29:51.369-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ckdir0",
-    "title": "Lockstep to pipeline in almost one line",
-    "url": "https://andersmurphy.com/2026/10/12/lockstep-to-pipeline-in-one-line.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-14T06:44:23.759-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rrazyb",
-    "title": "Linux Lockdown and Hibernation (again)",
-    "url": "https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-14T03:52:30.291-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:g46xkj",
-    "title": "A UAF turned RCE",
-    "url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-14T04:44:11.288-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:stmtap",
-    "title": "My Game's Procedural Dialogue System",
-    "url": "https://www.youtube.com/watch?v=NaW0d7Tghw0",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-14T05:50:19.584-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tsjuje",
-    "title": "yet another place where a linux man page is inaccurate",
-    "url": "https://sebsite.pw/w/20261014-initstate.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-14T06:18:09.977-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cwota8",
-    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-14T02:54:56.274-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7xg9rm",
-    "title": "Introducing Firefox Enterprise",
-    "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
-    "source": "lobsters",
-    "score": 20.0,
-    "published_at": "2026-10-14T06:06:48.863-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248643",
-    "title": "冰箱是否高价都是智商税，有必要买贵的吗",
-    "url": "https://www.v2ex.com/t/1248643",
-    "source": "v2ex",
-    "score": 142.0,
-    "published_at": "2026-10-14T03:01:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248672",
-    "title": "考虑再三，我发现，不换车最省钱",
-    "url": "https://www.v2ex.com/t/1248672",
-    "source": "v2ex",
-    "score": 192.0,
-    "published_at": "2026-10-14T03:47:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696056043500716066",
-    "title": "程序员 1v1 访谈系列第二期：很焦虑但又不知道干啥",
-    "url": "https://juejin.cn/post/7696056043500716066",
-    "source": "juejin",
-    "score": 1.79731659,
-    "published_at": "2026-10-14T01:26:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695999629461291034",
-    "title": "Gemini4 首测，让我伤心欲绝，Claude陨落了！",
-    "url": "https://juejin.cn/post/7695999629461291034",
-    "source": "juejin",
-    "score": 1.80381305,
-    "published_at": "2026-10-14T02:33:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:NationalSecurityAgency/ghidra",
-    "title": "ghidra",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ntdevlabs/tiny11builder",
-    "title": "tiny11builder",
-    "url": "https://github.com/ntdevlabs/tiny11builder",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:rust-lang/rust",
-    "title": "rust",
-    "url": "https://github.com/rust-lang/rust",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:vxcontrol/pentagi",
-    "title": "pentagi",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ifixai-ai/iFixAi",
-    "title": "iFixAi",
-    "url": "https://github.com/ifixai-ai/iFixAi",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:HKUDS/CLI-Anything",
-    "title": "CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:K-Dense-AI/scientific-agent-skills",
-    "title": "scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:nvm-sh/nvm",
-    "title": "nvm",
-    "url": "https://github.com/nvm-sh/nvm",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50086313",
-    "title": "Smart people don't think others are stupid",
-    "url": "https://sive.rs/ss",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-10-14T12:01:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50060606",
-    "title": "FCSS 2: Utility CSS that reads like CSS",
-    "url": "https://github.com/meerita/FCSS2",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-12T18:23:10+00:00",
     "summary": "",
     "key_points": []
   }
