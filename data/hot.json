@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:koipdp",
+    "title": "The Problem with C++ Safety: Why “It Works” Isn’t Good Enough",
+    "url": "https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-18T11:10:47.504-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wtobpt",
+    "title": "My obituary for programming",
+    "url": "https://dumbmatter.com/2026/10/programming-obituary/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-18T11:44:36.773-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:br0hd7",
+    "title": "Ghidra + CBMC = Assembly Model Checker",
+    "url": "https://www.philipzucker.com/asmc_cpp/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-18T11:58:24.612-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:u8vxmz",
+    "title": "Using timers to perform weekly tasks",
+    "url": "https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-18T09:52:34.682-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:np6czp",
+    "title": "High performance policy routed IPsec mesh SD-WAN",
+    "url": "https://ranet3.com/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-18T09:36:52.682-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vwgrix",
+    "title": "A New Way to Think About Borrow Checking (In Reverse)",
+    "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-10-18T09:29:16.035-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249756",
+    "title": "为什么作为日常聊天询问 感觉 gemini 比 gpt 好用",
+    "url": "https://www.v2ex.com/t/1249756",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-10-18T07:03:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249743",
+    "title": "做了一个 X 的第三方客户端， Liquid Glass，全流程翻译",
+    "url": "https://www.v2ex.com/t/1249743",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-10-18T04:56:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249800",
+    "title": "今天开车被迫窝囊了一次",
+    "url": "https://www.v2ex.com/t/1249800",
+    "source": "v2ex",
+    "score": 78.0,
+    "published_at": "2026-10-18T12:19:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7672849477074616383",
+    "title": "Claude的60个子Agent冲击黎曼猜想：AI自主科研的里程碑与边界",
+    "url": "https://juejin.cn/post/7672849477074616383",
+    "source": "juejin",
+    "score": 1.51736612,
+    "published_at": "2026-08-12T02:45:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697162867455688719",
+    "title": "两个 WorkBuddy 客户端总被“合并”解决方法",
+    "url": "https://juejin.cn/post/7697162867455688719",
+    "source": "juejin",
+    "score": 0.31252469,
+    "published_at": "2026-10-17T09:00:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:HKUDS/CLI-Anything",
+    "title": "CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50141429",
+    "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+    "source": "hackernews",
+    "score": 110.0,
+    "published_at": "2026-10-18T14:30:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50136017",
+    "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+    "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-17T23:08:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50141681",
+    "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+    "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-10-18T15:00:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50139998",
+    "title": "The Brain Sandwich",
+    "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-10-18T11:15:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50141657",
+    "title": "Websites are closing their doors to AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "source": "hackernews",
+    "score": 98.0,
+    "published_at": "2026-10-18T14:58:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50108165",
+    "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
+    "url": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-15T18:34:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50141024",
+    "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+    "url": "https://www.thing.net/~rdom/ecd/EDTECD.html",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-18T13:41:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50140462",
+    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "url": "https://www.vals.ai/blogs/impossible-refund",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-10-18T12:22:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50142449",
+    "title": "The Intel 8087 chip: floating-point addition and subtraction",
+    "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-18T16:20:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50140769",
+    "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+    "url": "https://legendofhyrule.com/",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-10-18T13:06:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50096110",
+    "title": "Sigsaly: Churchill's top secret hotline to the President",
+    "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-14T22:07:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50141579",
+    "title": "Java sealed classes and exhaustive pattern matching",
+    "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-18T14:47:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50142573",
+    "title": "Someone Behind the Software",
+    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-18T16:32:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50141909",
+    "title": "macOS 15.8.2 Breaks OpenGL",
+    "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-10-18T15:26:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50141076",
+    "title": "RepRapMicron",
+    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "source": "hackernews",
+    "score": 189.0,
+    "published_at": "2026-10-18T13:48:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:kiq0si",
     "title": "Algorithmic Sound Design with L-Systems and Granular Synthesis",
     "url": "https://nathanho.me/posts/evograin/",
@@ -4726,276 +4996,6 @@
     "source": "lobsters",
     "score": 16.0,
     "published_at": "2026-10-14T06:24:24.996-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lmx2hi",
-    "title": "Package managers have an integrity problem",
-    "url": "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-14T11:14:11.534-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tehays",
-    "title": "GitLab warns of max severity code execution vulnerability",
-    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-14T10:55:52.017-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:x9fqa4",
-    "title": "Awesome Gaming on Linux Without Cheating",
-    "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-14T10:13:26.313-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mf3tmv",
-    "title": "ZXC: Lossless compression built for ultra-fast decode",
-    "url": "https://libzxc.org/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-14T09:36:51.412-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:a4ljnh",
-    "title": "Factor 0.102 now available",
-    "url": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-10-14T08:42:39.966-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:j4tlzg",
-    "title": "What I Self-Host | Aspirational Self Hosting Guide",
-    "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-14T10:32:48.892-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248601",
-    "title": "如果这份工作没了",
-    "url": "https://www.v2ex.com/t/1248601",
-    "source": "v2ex",
-    "score": 138.0,
-    "published_at": "2026-10-14T02:02:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695579556078993442",
-    "title": "从“会说”到“能做”：设备运维 AI 落地实录",
-    "url": "https://juejin.cn/post/7695579556078993442",
-    "source": "juejin",
-    "score": 0.39826541,
-    "published_at": "2026-10-12T11:12:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50090662",
-    "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
-    "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-14T16:45:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50086363",
-    "title": "Nvidia's first GPU: GeForce 256",
-    "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-14T12:05:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50062575",
-    "title": "The Genealogy of Eliza",
-    "url": "https://elizagen.org/genealogy.html",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-12T20:29:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50088447",
-    "title": "Strands Decider: Why Not an Encoder?",
-    "url": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-14T14:40:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50090443",
-    "title": "Why do LLM pelicans look like this?",
-    "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
-    "source": "hackernews",
-    "score": 115.0,
-    "published_at": "2026-10-14T16:33:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50087337",
-    "title": "Scientists Are Teaching Birds to Sing Lost Songs",
-    "url": "https://e360.yale.edu/digest/teaching-birds-lost-songs",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-14T13:20:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50091647",
-    "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-14T17:37:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50088430",
-    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-    "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-    "source": "hackernews",
-    "score": 145.0,
-    "published_at": "2026-10-14T14:38:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50090842",
-    "title": "Linus Torvalds's first LLM-assisted patch series",
-    "url": "https://lwn.net/Articles/1100449/",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-10-14T16:55:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50090799",
-    "title": "Has AI Tells",
-    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-14T16:52:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50055632",
-    "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
-    "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-10-12T12:44:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50090349",
-    "title": "Google is silently linking your phone number across all signed-in accounts",
-    "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-10-14T16:28:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50091519",
-    "title": "US report details extent of 'devastating' dating-app scams",
-    "url": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-14T17:31:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50088643",
-    "title": "Running Windows desktop tests from Linux with disposable VMs",
-    "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-10-14T14:55:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50088713",
-    "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-    "url": "https://github.com/graphicle-ai/graphicle",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-10-14T15:00:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50065572",
-    "title": "LittleJS is 2D and 3D now",
-    "url": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-13T01:50:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50090246",
-    "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-    "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-    "source": "hackernews",
-    "score": 142.0,
-    "published_at": "2026-10-14T16:24:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50089229",
-    "title": "Submarine cable resilience",
-    "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-10-14T15:31:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50090369",
-    "title": "Better HTTP/1 connection reuse in Go 1.27",
-    "url": "https://go.dev/blog/http-connection-reuse",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-10-14T16:29:33+00:00",
     "summary": "",
     "key_points": []
   }
