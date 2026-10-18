@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:gl8yly",
+    "title": "Un-hanging the HP Envy 17-DA0013dx for OpenBSD",
+    "url": "https://darwinsys.com/blog/20260925-hp-envy-17/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-18T02:42:41.212-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249772",
+    "title": "上海海昌海洋公园一日游(虎鲸等多图警告)",
+    "url": "https://www.v2ex.com/t/1249772",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-10-18T09:00:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249696",
+    "title": "最近这 codex 额度消耗快的离谱啊， 5x 套餐随便几个问题 10% 额度没了",
+    "url": "https://www.v2ex.com/t/1249696",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-10-18T01:15:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249668",
+    "title": "第二次失业后更焦虑了",
+    "url": "https://www.v2ex.com/t/1249668",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-10-17T16:06:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249724",
+    "title": "发明这个闲鱼暗语中枢的人真是个天才",
+    "url": "https://www.v2ex.com/t/1249724",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-10-18T03:41:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696894428132294665",
+    "title": "70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）",
+    "url": "https://juejin.cn/post/7696894428132294665",
+    "source": "juejin",
+    "score": 0.07175213,
+    "published_at": "2026-10-15T15:10:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696791074137030719",
+    "title": "软考高项考下来：每月多600，还被推进数据局当专家（一次800）",
+    "url": "https://juejin.cn/post/7696791074137030719",
+    "source": "juejin",
+    "score": 0.15677936,
+    "published_at": "2026-10-16T04:23:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697134861442039849",
+    "title": "2026年的前端：你引以为傲的框架，正在被浏览器原生能力“架空”",
+    "url": "https://juejin.cn/post/7697134861442039849",
+    "source": "juejin",
+    "score": 0.31016139,
+    "published_at": "2026-10-17T02:19:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696817605548245002",
+    "title": "别再死磕纯技术了：2026 年程序员的 7 条真实出路",
+    "url": "https://juejin.cn/post/7696817605548245002",
+    "source": "juejin",
+    "score": 0.13420196,
+    "published_at": "2026-10-16T06:55:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50126457",
+    "title": "Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]",
+    "url": "https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-17T00:11:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50138044",
+    "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+    "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+    "source": "hackernews",
+    "score": 89.0,
+    "published_at": "2026-10-18T04:59:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50138087",
+    "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+    "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+    "source": "hackernews",
+    "score": 93.0,
+    "published_at": "2026-10-18T05:09:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50110081",
+    "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+    "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-15T20:55:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50138002",
+    "title": "Notes on the Complex Roots of Unity",
+    "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-18T04:49:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50106792",
+    "title": "Fun Extending the C Preprocessor",
+    "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-15T17:08:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50121516",
+    "title": "Go Piss, Girl: The plight of the public potty",
+    "url": "https://thebaffler.com/latest/go-piss-girl-wagner",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-16T17:29:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50124730",
+    "title": "Teal – A statically-typed dialect of Lua",
+    "url": "https://teal-language.org/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-16T21:07:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50138531",
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "source": "hackernews",
+    "score": 169.0,
+    "published_at": "2026-10-18T06:50:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:edli0x",
     "title": "It's time to talk about TEEs",
     "url": "https://alinush.github.io//tee",
@@ -4816,186 +4996,6 @@
     "source": "hackernews",
     "score": 5.0,
     "published_at": "2026-10-12T18:23:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50085302",
-    "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-    "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-14T10:26:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50064673",
-    "title": "The Origin Story of Kid Pix",
-    "url": "http://red-green-blue.com/kid-pix-the-early-years",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-12T23:52:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50082021",
-    "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
-    "url": "https://strafe.chat/",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-10-14T03:28:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50071466",
-    "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-    "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-13T13:31:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50085022",
-    "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-    "url": "https://museumofages.org/w/vinci",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-10-14T10:00:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50084838",
-    "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
-    "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-10-14T09:37:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50084757",
-    "title": "Amazon pushes up prices across the Internet",
-    "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-    "source": "hackernews",
-    "score": 142.0,
-    "published_at": "2026-10-14T09:28:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50085323",
-    "title": "TV4 postpones show after AI agent erases edited material",
-    "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-14T10:28:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50085306",
-    "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-    "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-10-14T10:26:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50086484",
-    "title": "The Aaronson Oracle",
-    "url": "https://aaronsonoracle.com/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-14T12:16:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50086165",
-    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-    "url": "https://github.com/timescale/pg_vectorsearch",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-14T11:47:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50084240",
-    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
-    "url": "https://typeof.net/Iosevka/",
-    "source": "hackernews",
-    "score": 262.0,
-    "published_at": "2026-10-14T08:27:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:glfn7i",
-    "title": "Conquering Recursion",
-    "url": "https://nsl.com/misc/Conquering_Recursion.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-14T00:07:10.073-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6vs8a0",
-    "title": "Compiler bootstrapping depends on more than you might think",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-14T00:34:22.699-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zitobg",
-    "title": "Fancy Curl Sites",
-    "url": "https://nytpu.com/gemlog/2026-03-18",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-14T01:24:41.078-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:a0jmkh",
-    "title": "Bru: Send and read SMS from the browser",
-    "url": "https://sverre.me/projects/bru/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-13T20:14:17.470-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dyypvf",
-    "title": "Apple: Switch to Safari (from Chrome)",
-    "url": "https://www.apple.com/safari/switch/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-13T23:18:17.227-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248543",
-    "title": "吓坏我两岁半姑娘，真想重拳锤这个店员",
-    "url": "https://www.v2ex.com/t/1248543",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-10-13T17:01:43+00:00",
     "summary": "",
     "key_points": []
   }
