@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:mpdk1e",
+    "title": "Finding a home amidst the wreckage",
+    "url": "https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-10-19T11:30:36.531-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:c2ouz0",
+    "title": "2026 is an exciting year for the Rust compiler (and me)",
+    "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-19T12:52:41.834-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:b36ixw",
+    "title": "In Context",
+    "url": "https://www.youtube.com/watch?v=P5eO7BNyJao",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-10-19T13:25:48.327-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697615256115363882",
+    "title": "如何低成本部署网站？Vercel 和 Cloudflare 怎么选？",
+    "url": "https://juejin.cn/post/7697615256115363882",
+    "source": "juejin",
+    "score": 0.53826205,
+    "published_at": "2026-10-19T02:21:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ruvnet/ruflo",
+    "title": "ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50151376",
+    "title": "The obscure trust looming over Anthropic's IPO",
+    "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+    "source": "hackernews",
+    "score": 121.0,
+    "published_at": "2026-10-19T12:06:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50154518",
+    "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+    "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+    "source": "hackernews",
+    "score": 380.0,
+    "published_at": "2026-10-19T16:37:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50146417",
+    "title": "Integer to String Conversion (2014)",
+    "url": "https://tia.mat.br/posts/2014/06/23/integer_to_string_conversion.html",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-18T23:08:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50147760",
+    "title": "The Annotated VT100 Firmware (2022)",
+    "url": "https://vt100.net/dec/vt100/rom/",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-10-19T02:40:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50115703",
+    "title": "Coconuts in Medieval Britain (2015)",
+    "url": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-16T08:28:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50152976",
+    "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
+    "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-19T14:31:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50121834",
+    "title": "Credit where credit is due",
+    "url": "https://thefloatingcontinent.com/blog/credit-is-due/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-16T17:53:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50147462",
+    "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
+    "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+    "source": "hackernews",
+    "score": 78.0,
+    "published_at": "2026-10-19T01:56:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50151036",
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "url": "https://news.ycombinator.com/item?id=50151036",
+    "source": "hackernews",
+    "score": 165.0,
+    "published_at": "2026-10-19T11:24:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50147233",
+    "title": "Starcraft: Ashfall",
+    "url": "https://starcraft-shooter-2026.pages.dev/",
+    "source": "hackernews",
+    "score": 217.0,
+    "published_at": "2026-10-19T01:18:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50158131",
+    "title": "Diablo 2 Survivors",
+    "url": "https://d2survivors.lol/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-19T21:10:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50134359",
+    "title": "The fire retardant in the seafood chain",
+    "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-10-17T19:37:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50154624",
+    "title": "Android apps running native on macOS",
+    "url": "https://github.com/kksimp/Mac.apk",
+    "source": "hackernews",
+    "score": 206.0,
+    "published_at": "2026-10-19T16:45:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50158138",
+    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+    "url": "https://bsd.network/@brynet/117407035545900963",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-19T21:11:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50156206",
+    "title": "The reverts will continue until morale improves",
+    "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+    "source": "hackernews",
+    "score": 138.0,
+    "published_at": "2026-10-19T18:42:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50150089",
+    "title": "I built a drone with only one motor [video]",
+    "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+    "source": "hackernews",
+    "score": 246.0,
+    "published_at": "2026-10-19T09:05:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50154540",
+    "title": "MiniMax M3.1 Flash",
+    "url": "https://www.minimax.io/blog/minimax-m31f",
+    "source": "hackernews",
+    "score": 306.0,
+    "published_at": "2026-10-19T16:39:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50158100",
+    "title": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account",
+    "url": "https://josie.lol/blog/linux-rtx-spark",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-10-19T21:08:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:7r9dcc",
     "title": "Timestral: Mistral's time-series foundation models",
     "url": "https://mistral.ai/news/timestral/",
@@ -4766,236 +4996,6 @@
     "source": "lobsters",
     "score": 8.0,
     "published_at": "2026-10-15T12:36:38.677-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vyo9n2",
-    "title": "Gleam case exhaustiveness, as a fan",
-    "url": "https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-15T14:33:19.767-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ipyrkv",
-    "title": "About time",
-    "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-15T15:22:14.682-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vemho2",
-    "title": "Forgejo v17.0 is available",
-    "url": "https://forgejo.org/2026-10-release-v17-0/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-10-15T14:43:19.853-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50099121",
-    "title": "An Apology",
-    "url": "https://www.elevationlab.com/blogs/news/an-apology",
-    "source": "hackernews",
-    "score": 87.0,
-    "published_at": "2026-10-15T04:23:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50062683",
-    "title": "Rediscovering the Romance of Travel Clocks",
-    "url": "https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-12T20:35:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50082637",
-    "title": "The 8-mile hole in a Hawaii national park that no one can explain",
-    "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-14T05:08:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50109375",
-    "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-    "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-    "source": "hackernews",
-    "score": 108.0,
-    "published_at": "2026-10-15T19:55:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50108872",
-    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-    "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-    "source": "hackernews",
-    "score": 126.0,
-    "published_at": "2026-10-15T19:21:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50111112",
-    "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
-    "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-15T22:11:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50109715",
-    "title": "What I Self-Host",
-    "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-    "source": "hackernews",
-    "score": 117.0,
-    "published_at": "2026-10-15T20:23:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:umdbht",
-    "title": "My C23 Conventions",
-    "url": "https://abner.page/post/c23-conventions-1/",
-    "source": "lobsters",
-    "score": 21.0,
-    "published_at": "2026-10-15T10:32:15.830-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248947",
-    "title": "为什么 30 好几了，还是没有一个自己可以一直坚持下去的爱好嗯？",
-    "url": "https://www.v2ex.com/t/1248947",
-    "source": "v2ex",
-    "score": 170.0,
-    "published_at": "2026-10-15T02:52:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50078524",
-    "title": "Turn an old junk phone into a Talking Jack-O-Lantern",
-    "url": "https://jack-o.io/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-13T20:49:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50106676",
-    "title": "An Israeli firm is sending zero-click spyware through online ads",
-    "url": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
-    "source": "hackernews",
-    "score": 168.0,
-    "published_at": "2026-10-15T17:01:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50106738",
-    "title": "More on Anthropic's Scion ripping off Mononoke",
-    "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-    "source": "hackernews",
-    "score": 145.0,
-    "published_at": "2026-10-15T17:05:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50085171",
-    "title": "Game of Life – But Multiplayer, Hypermedia and Python",
-    "url": "https://stario.dev/apps/life",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-14T10:13:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50106054",
-    "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
-    "url": "https://sygal.app",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-10-15T16:26:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50105635",
-    "title": "Steam Client is now faster than Epic's new vibe coded launcher",
-    "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
-    "source": "hackernews",
-    "score": 177.0,
-    "published_at": "2026-10-15T16:03:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50103164",
-    "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
-    "url": "https://www.cppstories.com/2026/cpp26_contracts/",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-10-15T13:11:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50103630",
-    "title": "I know why the mathematicians weep",
-    "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-    "source": "hackernews",
-    "score": 276.0,
-    "published_at": "2026-10-15T13:44:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50105467",
-    "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
-    "url": "https://proa.so/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-10-15T15:52:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50105777",
-    "title": "The technical actions needed to ensure the continuity of UTC",
-    "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-10-15T16:11:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50108229",
-    "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
-    "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-15T18:38:16+00:00",
     "summary": "",
     "key_points": []
   }
