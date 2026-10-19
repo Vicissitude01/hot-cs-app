@@ -1,5 +1,315 @@
 [
   {
+    "id": "lobsters:mhy9id",
+    "title": "Efficient Extraction for Effectful E-graphs",
+    "url": "https://ztatlock.net/pubs/2026-oopsla-eggcc/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-18T23:15:33.215-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dc2efo",
+    "title": "Dynamic Packages",
+    "url": "https://www.getlazarus.org/dynamic/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-18T19:36:22.074-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nuepys",
+    "title": "What requirements don't you have?",
+    "url": "https://www.seangoedecke.com/what-requirements-dont-you-have/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-18T21:59:07.957-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jdjtqt",
+    "title": "A response to claims about flatpak being insecure",
+    "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-18T23:02:34.464-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bt7ehs",
+    "title": "Why is GitOps so good?",
+    "url": "https://thorsell.io/2026/10/16/gitops.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-18T23:19:27.400-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ogp1wf",
+    "title": "Inline rendering with document.currentScript",
+    "url": "https://leanrada.com/notes/inline-rendering-currentscript/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-18T20:02:55.682-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:w6xosj",
+    "title": "What the heck is /pkg?",
+    "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-18T22:26:51.597-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:h0eate",
+    "title": "Updates to site guidelines and AI/LLM tags",
+    "url": "https://lobste.rs/s/h0eate",
+    "source": "lobsters",
+    "score": 82.0,
+    "published_at": "2026-10-18T20:28:53.196-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249905",
+    "title": "大家的 giffgaff 还能用吗",
+    "url": "https://www.v2ex.com/t/1249905",
+    "source": "v2ex",
+    "score": 62.0,
+    "published_at": "2026-10-19T02:21:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249855",
+    "title": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
+    "url": "https://www.v2ex.com/t/1249855",
+    "source": "v2ex",
+    "score": 64.0,
+    "published_at": "2026-10-19T00:07:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249891",
+    "title": "[送激活码] 我做了一个跟随 Finder 窗口的路径工具 FinderNav，送 80 个激活码",
+    "url": "https://www.v2ex.com/t/1249891",
+    "source": "v2ex",
+    "score": 86.0,
+    "published_at": "2026-10-19T02:07:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249864",
+    "title": "突然发现逛小吃摊比想象中贵，所以我做了一个逛夜市模拟器，看看大家金钱的数字敏感度有多高",
+    "url": "https://www.v2ex.com/t/1249864",
+    "source": "v2ex",
+    "score": 94.0,
+    "published_at": "2026-10-19T00:57:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249850",
+    "title": "NSFW/姿势出图 skill",
+    "url": "https://www.v2ex.com/t/1249850",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-10-18T23:05:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249882",
+    "title": "发现大家对拖欠工资这件事接受度很高",
+    "url": "https://www.v2ex.com/t/1249882",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-10-19T01:54:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249874",
+    "title": "最近对女方家庭和重男轻女的观念有所变化，其实有女方有哥哥/弟弟挺好的",
+    "url": "https://www.v2ex.com/t/1249874",
+    "source": "v2ex",
+    "score": 160.0,
+    "published_at": "2026-10-19T01:32:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696908590871511075",
+    "title": "从零手搓 RAG 之文档解析技术",
+    "url": "https://juejin.cn/post/7696908590871511075",
+    "source": "juejin",
+    "score": 0.10132051,
+    "published_at": "2026-10-16T06:01:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697104677602803739",
+    "title": "Claude Code 桌面端魔改多 Agent：从日耗 6 美元到账单失控的实测复盘",
+    "url": "https://juejin.cn/post/7697104677602803739",
+    "source": "juejin",
+    "score": 0.10134112,
+    "published_at": "2026-10-16T08:53:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697474838380265482",
+    "title": "Vue3 动态表单支持弹框组件",
+    "url": "https://juejin.cn/post/7697474838380265482",
+    "source": "juejin",
+    "score": 0.21906985,
+    "published_at": "2026-10-18T05:36:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697056782357037099",
+    "title": "亲测有效！免费 Google AI Pro 用户用上 Gemini 4 Argon",
+    "url": "https://juejin.cn/post/7697056782357037099",
+    "source": "juejin",
+    "score": 0.10614945,
+    "published_at": "2026-10-16T09:34:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7696835478806331392",
+    "title": "27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议",
+    "url": "https://juejin.cn/post/7696835478806331392",
+    "source": "juejin",
+    "score": 0.09742797,
+    "published_at": "2026-10-16T07:47:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697418750073929762",
+    "title": "从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）",
+    "url": "https://juejin.cn/post/7697418750073929762",
+    "source": "juejin",
+    "score": 0.47558868,
+    "published_at": "2026-10-18T05:58:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50107843",
+    "title": "Lombok Is Still Relevant in the Age of Java Records",
+    "url": "https://swaranga.dev/posts/on-lombok/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-15T18:15:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50147455",
+    "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+    "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-10-19T01:55:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50146966",
+    "title": "Sanity's Edge – A voice BBS from 1994",
+    "url": "https://sanitys-edge.shouden.us",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-19T00:30:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50145507",
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-10-18T21:09:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50125551",
+    "title": "The DNS Museum",
+    "url": "https://dns.museum",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-16T22:21:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50111537",
+    "title": "Laptop Based on 6502 CPU",
+    "url": "https://www.maddox.pro/?p=448",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-10-15T22:56:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50146624",
+    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+    "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-10-18T23:37:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50148452",
+    "title": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-19T04:41:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50147492",
+    "title": "Superlite: A Faster Alternatie to Superpowers",
+    "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-19T02:01:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50148396",
+    "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
+    "url": "https://github.com/strot-ai/Project-STROT",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-19T04:32:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:1s3dve",
     "title": "Superoptimizing an FPU emulator",
     "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
@@ -4686,316 +4996,6 @@
     "source": "hackernews",
     "score": 41.0,
     "published_at": "2026-10-15T04:25:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50047576",
-    "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
-    "url": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-10-11T20:36:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50060547",
-    "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
-    "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-12T18:20:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50100791",
-    "title": "AI was great until it was not",
-    "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-10-15T08:18:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50079701",
-    "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
-    "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-13T22:17:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50064470",
-    "title": "Show HN: Indigene – Native plants for where you stand",
-    "url": "https://indigene.app/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-10-12T23:25:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50101149",
-    "title": "The cost of getting a job today",
-    "url": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-15T09:13:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50070625",
-    "title": "Wanted to download an ISO, ended up writing a kernel exploit",
-    "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-    "source": "hackernews",
-    "score": 92.0,
-    "published_at": "2026-10-13T12:30:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wcoes4",
-    "title": "We found a Chinese fleet",
-    "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-14T15:08:19.956-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9lqyul",
-    "title": "ito - build terminal ui in lua",
-    "url": "https://uji.sh/ito",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-14T17:27:10.044-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248758",
-    "title": "为什么不让已经退休的人继续缴纳社保？",
-    "url": "https://www.v2ex.com/t/1248758",
-    "source": "v2ex",
-    "score": 110.0,
-    "published_at": "2026-10-14T08:13:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248883",
-    "title": "有没有觉得现在经济复苏的很好",
-    "url": "https://www.v2ex.com/t/1248883",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-10-15T00:43:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248773",
-    "title": "今年 44，公司从 10 个人裁到现在，只剩我一个",
-    "url": "https://www.v2ex.com/t/1248773",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-10-14T08:55:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248931",
-    "title": "理发偶遇,感觉蛋糕分配差距太大了",
-    "url": "https://www.v2ex.com/t/1248931",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-10-15T02:18:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248789",
-    "title": "[补送码] Nas 音乐播放器的终极解决方案： Mu3ic",
-    "url": "https://www.v2ex.com/t/1248789",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-10-14T09:38:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248693",
-    "title": "替朋友请教人生的路该如何走",
-    "url": "https://www.v2ex.com/t/1248693",
-    "source": "v2ex",
-    "score": 132.0,
-    "published_at": "2026-10-14T05:02:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248902",
-    "title": "完了，股灾",
-    "url": "https://www.v2ex.com/t/1248902",
-    "source": "v2ex",
-    "score": 132.0,
-    "published_at": "2026-10-15T01:37:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248884",
-    "title": "比亚迪新车大汉上市，高速续航 566km，续航不及特斯拉与小米",
-    "url": "https://www.v2ex.com/t/1248884",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-10-15T00:48:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248818",
-    "title": "我让 Gemini 4 当高管、DeepSeek 当员工，开了一家软件公司",
-    "url": "https://www.v2ex.com/t/1248818",
-    "source": "v2ex",
-    "score": 192.0,
-    "published_at": "2026-10-14T12:24:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248876",
-    "title": "大家看有短剧的习惯吗? 每天刷多少分钟?",
-    "url": "https://www.v2ex.com/t/1248876",
-    "source": "v2ex",
-    "score": 212.0,
-    "published_at": "2026-10-15T00:04:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696118815168954419",
-    "title": "AI 时代，软件程序员未来 10—15 年的职业前景",
-    "url": "https://juejin.cn/post/7696118815168954419",
-    "source": "juejin",
-    "score": 0.84485712,
-    "published_at": "2026-10-14T07:42:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696048084749484082",
-    "title": "太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA",
-    "url": "https://juejin.cn/post/7696048084749484082",
-    "source": "juejin",
-    "score": 0.61520122,
-    "published_at": "2026-10-14T01:09:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696118815167807539",
-    "title": "老干妈靠AI闷赚54亿，你的AI还在写文案？",
-    "url": "https://juejin.cn/post/7696118815167807539",
-    "source": "juejin",
-    "score": 0.89638447,
-    "published_at": "2026-10-14T03:59:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50098454",
-    "title": "Show HN: My Terminal Themes Web App",
-    "url": "https://news.ycombinator.com/item?id=50098454",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-15T02:33:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50053384",
-    "title": "Catch a Bird – I made it for my own sanity",
-    "url": "https://catchabird.com",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-10-12T08:51:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50071546",
-    "title": "Your C is not standard C",
-    "url": "https://sebsite.pw/w/20261012-notstdc.html",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-10-13T13:36:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50098274",
-    "title": "The Double Headed Stack Allocator",
-    "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-15T02:06:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50077709",
-    "title": "Donaldson Futuro House in Idyllwild, California, USA",
-    "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-13T19:55:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50070661",
-    "title": "It took me nine years to hack my Xbox 360",
-    "url": "https://kennedn.com/blog/posts/glitching/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-13T12:33:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50098570",
-    "title": "One in ten people are older than 65. Three in four live under a leader who is",
-    "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-10-15T02:53:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50098702",
-    "title": "Future of Cancer Care Today (FCCT)",
-    "url": "https://sijbrandijfoundation.org/fcct",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-10-15T03:18:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5m8mle",
-    "title": "How the L0pht (probably) optimized attack against the LanMan hash",
-    "url": "https://modexp.wordpress.com/2019/02/02/3883/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-14T11:44:09.694-05:00",
     "summary": "",
     "key_points": []
   }
