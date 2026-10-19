@@ -1,5 +1,85 @@
 [
   {
+    "id": "lobsters:1s3dve",
+    "title": "Superoptimizing an FPU emulator",
+    "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-18T18:51:14.119-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ilul4v",
+    "title": "August in Servo: CSS Grid, text selection, and more",
+    "url": "https://servo.org/blog/2026/10/09/august-in-servo/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-18T18:05:13.839-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249814",
+    "title": "找个喜欢自己的还是自己喜欢的人",
+    "url": "https://www.v2ex.com/t/1249814",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-18T13:58:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50146286",
+    "title": "How RC2's π table was made",
+    "url": "https://khalidhamadeh.com/writing/rc2-pi-table",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-18T22:48:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50140383",
+    "title": "A new way to think about borrow checking (in reverse)",
+    "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-18T12:11:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50123123",
+    "title": "\"Traditional, but Puzzling\"",
+    "url": "https://unsung.aresluna.org/traditional-but-puzzling/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-16T19:17:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50145715",
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "url": "https://github.com/finereli/whatsapp-mcp",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-18T21:36:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50146625",
+    "title": "William Gibson and the Trademarking of Cyberspace",
+    "url": "https://colo.to/cyberspace.html",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-18T23:37:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:jp6tfb",
     "title": "Real-time Software On Linux: How Hard Can It Be?",
     "url": "https://www.youtube.com/watch?v=-0D0rFdU6HY",
@@ -4916,86 +4996,6 @@
     "source": "lobsters",
     "score": 6.0,
     "published_at": "2026-10-14T11:44:09.694-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248593",
-    "title": "公司领导闲出屁了，让我们每个人都用 AI 开发一个项目，最终来个大比拼",
-    "url": "https://www.v2ex.com/t/1248593",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-10-14T01:48:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mksglu/context-mode",
-    "title": "context-mode",
-    "url": "https://github.com/mksglu/context-mode",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50083028",
-    "title": "Why is every rationalist blog post way too long?",
-    "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-    "source": "hackernews",
-    "score": 174.0,
-    "published_at": "2026-10-14T06:02:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50070438",
-    "title": "Webster’s Dictionary: The pleasure of finding things out (2014)",
-    "url": "https://jsomers.net/blog/dictionary",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-13T12:13:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50090932",
-    "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-    "url": "https://clova.email/",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-10-14T17:00:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50093180",
-    "title": "Suicide rates highest ever among middle-aged men",
-    "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
-    "source": "hackernews",
-    "score": 224.0,
-    "published_at": "2026-10-14T19:03:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50067325",
-    "title": "Ask HN: CAD for wood working with LLM support?",
-    "url": "https://news.ycombinator.com/item?id=50067325",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-13T05:54:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50089921",
-    "title": "Americans' social activity has steeply declined in the past 30 years",
-    "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-    "source": "hackernews",
-    "score": 181.0,
-    "published_at": "2026-10-14T16:09:00+00:00",
     "summary": "",
     "key_points": []
   }
