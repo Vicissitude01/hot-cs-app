@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:c1zbmq",
+    "title": "A Bazel Bard",
+    "url": "https://sluongng.substack.com/p/a-bazel-bard",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-19T02:35:01.093-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8ejwsp",
+    "title": "Beginning of the Ende (a community Deno fork)",
+    "url": "https://blog.webb.page/WM-105",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-19T03:13:12.526-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4oz3sk",
+    "title": "The 7.3 kernel has been released",
+    "url": "https://lwn.net/Articles/1101143/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-19T03:13:14.245-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:s3w7hd",
+    "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
+    "url": "https://blog.torproject.org/tor-vpn-beta/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-19T03:27:55.648-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dtwbpu",
+    "title": "Programming Language Fundamentals in Agda",
+    "url": "https://plfa.github.io/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-19T01:12:44.221-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1249936",
+    "title": "房贷还有 14w 多，存款有差不多 19w，要不要提前还掉房贷",
+    "url": "https://www.v2ex.com/t/1249936",
+    "source": "v2ex",
+    "score": 216.0,
+    "published_at": "2026-10-19T03:17:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250023",
+    "title": "备孕 2 年，最后试管生下健康女儿，分享一下经历，顺带吐槽一下深圳市妇幼。",
+    "url": "https://www.v2ex.com/t/1250023",
+    "source": "v2ex",
+    "score": 242.0,
+    "published_at": "2026-10-19T07:04:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697474838380134410",
+    "title": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
+    "url": "https://juejin.cn/post/7697474838380134410",
+    "source": "juejin",
+    "score": 0.2766241,
+    "published_at": "2026-10-18T04:32:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697186144932904969",
+    "title": "老AI人面对MCP、Skills等新名词",
+    "url": "https://juejin.cn/post/7697186144932904969",
+    "source": "juejin",
+    "score": 0.0896848,
+    "published_at": "2026-10-17T08:00:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697873433354485770",
+    "title": "别再花钱调 OCR 接口了！这个国产开源工具，免费还能离线跑",
+    "url": "https://juejin.cn/post/7697873433354485770",
+    "source": "juejin",
+    "score": 1.16784166,
+    "published_at": "2026-10-19T01:33:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697622920013021219",
+    "title": "AI 流式传输工程指南：模型吐出半截 JSON，前端如何边收边渲染？",
+    "url": "https://juejin.cn/post/7697622920013021219",
+    "source": "juejin",
+    "score": 0.44809505,
+    "published_at": "2026-10-18T11:22:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697591781001691163",
+    "title": " AI 流式输出都用 SSE，什么时候必须换 WebSocket？",
+    "url": "https://juejin.cn/post/7697591781001691163",
+    "source": "juejin",
+    "score": 2.39456588,
+    "published_at": "2026-10-19T02:55:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697873433355304970",
+    "title": "AI 帮我写的小程序「厨菜记」上线满月了，挣了两百块！！！",
+    "url": "https://juejin.cn/post/7697873433355304970",
+    "source": "juejin",
+    "score": 2.489379,
+    "published_at": "2026-10-19T03:09:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698176323931979839",
+    "title": "玩了一天 REA，我号快没了",
+    "url": "https://juejin.cn/post/7698176323931979839",
+    "source": "juejin",
+    "score": 7.22644712,
+    "published_at": "2026-10-19T08:04:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:shiyu-coder/Kronos",
+    "title": "Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:withmarbleapp/os-taxonomy",
+    "title": "os-taxonomy",
+    "url": "https://github.com/withmarbleapp/os-taxonomy",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:headroomlabs-ai/headroom",
+    "title": "headroom",
+    "url": "https://github.com/headroomlabs-ai/headroom",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50108297",
+    "title": "How Postgres DELETE can actually scale",
+    "url": "https://www.dbos.dev/blog/scaling-deletions-in-postgres",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-15T18:42:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50109546",
+    "title": "Lant – The Forgotten Resource",
+    "url": "https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-15T20:09:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50112204",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-16T00:33:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50148855",
+    "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+    "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-19T05:55:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50131315",
+    "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+    "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+    "source": "hackernews",
+    "score": 93.0,
+    "published_at": "2026-10-17T14:07:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50104874",
+    "title": "How to Train Your Robot",
+    "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-10-15T15:13:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50149392",
+    "title": "Linux 7.3 Released",
+    "url": "https://lwn.net/Articles/1101143/",
+    "source": "hackernews",
+    "score": 240.0,
+    "published_at": "2026-10-19T07:23:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:mhy9id",
     "title": "Efficient Extraction for Effectful E-graphs",
     "url": "https://ztatlock.net/pubs/2026-oopsla-eggcc/",
@@ -4756,246 +4996,6 @@
     "source": "hackernews",
     "score": 71.0,
     "published_at": "2026-10-15T10:43:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50102247",
-    "title": "Show HN: Unfenced – Land for sale that borders public land",
-    "url": "https://unfenced.land/",
-    "source": "hackernews",
-    "score": 126.0,
-    "published_at": "2026-10-15T11:38:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50104654",
-    "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-    "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-15T14:58:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50104310",
-    "title": "Prompt injection in HTTP headers: what 217M web responses show",
-    "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-15T14:36:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50103338",
-    "title": "Wayland desktop for Linux with skeuomorphic design",
-    "url": "https://github.com/fyzugx/DEsk",
-    "source": "hackernews",
-    "score": 104.0,
-    "published_at": "2026-10-15T13:23:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50102923",
-    "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-    "url": "https://libreboot.org/news/libreboot2610.html",
-    "source": "hackernews",
-    "score": 127.0,
-    "published_at": "2026-10-15T12:52:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cyp6lv",
-    "title": "The Ferranti files: 40 years of Sinclair secrets unearthed",
-    "url": "https://youtu.be/jiW3P1rJRMc",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-14T22:46:07.545-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yista4",
-    "title": "An Emulator Writer's HOWTO for Static Binary Translation",
-    "url": "https://www.gtoal.com/sbt/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-15T00:28:48.255-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ixoasm",
-    "title": "Furifont: furigana built into the font",
-    "url": "https://furifont.antfu.me/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-15T00:00:23.277-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:o0ixth",
-    "title": "Haxy.net is live! — HAXY (git forge) devlog",
-    "url": "https://youtu.be/89yAiqYEwKg",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-15T02:47:41.027-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bcaopz",
-    "title": "Haxy on Haxy",
-    "url": "https://try.haxy.net/haxy:haxy",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-15T02:58:35.798-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1248887",
-    "title": "双 11 大家准备买点啥？说说你的双 11 购货计划",
-    "url": "https://www.v2ex.com/t/1248887",
-    "source": "v2ex",
-    "score": 172.0,
-    "published_at": "2026-10-15T00:54:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249080",
-    "title": "谈了三个月的女朋友才发现她和前任有较大经济纠纷",
-    "url": "https://www.v2ex.com/t/1249080",
-    "source": "v2ex",
-    "score": 224.0,
-    "published_at": "2026-10-15T08:08:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249011",
-    "title": "教老婆开车应该注意什么",
-    "url": "https://www.v2ex.com/t/1249011",
-    "source": "v2ex",
-    "score": 238.0,
-    "published_at": "2026-10-15T05:46:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695805098719199275",
-    "title": "iOS 26 适配",
-    "url": "https://juejin.cn/post/7695805098719199275",
-    "source": "juejin",
-    "score": 0.23333745,
-    "published_at": "2026-10-13T06:48:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695940923273478154",
-    "title": "Flutter你看看人家RN",
-    "url": "https://juejin.cn/post/7695940923273478154",
-    "source": "juejin",
-    "score": 0.26076109,
-    "published_at": "2026-10-13T09:24:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695985750949494818",
-    "title": "开源项目第235期：REA — 让 AI Agent 逆向任何东西，从网站/Electron 应用一路分析到二进制层",
-    "url": "https://juejin.cn/post/7695985750949494818",
-    "source": "juejin",
-    "score": 0.31545896,
-    "published_at": "2026-10-13T13:04:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696483064553701376",
-    "title": "把 AutoCAD 搬进浏览器，到底有多难？聊聊 CADCraft、OpenCAD Studio 和 MLightCAD",
-    "url": "https://juejin.cn/post/7696483064553701376",
-    "source": "juejin",
-    "score": 34.6912619,
-    "published_at": "2026-10-15T03:07:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696077282666889250",
-    "title": "REA：逆向工程任何事物",
-    "url": "https://juejin.cn/post/7696077282666889250",
-    "source": "juejin",
-    "score": 0.65961352,
-    "published_at": "2026-10-14T02:47:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:morluto/rea",
-    "title": "rea",
-    "url": "https://github.com/morluto/rea",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50096300",
-    "title": "Show HN: Ito – Build Terminal UIs in Lua",
-    "url": "https://uji.sh/ito/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-14T22:23:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50060923",
-    "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
-    "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-12T18:44:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50100387",
-    "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-    "url": "https://github.com/awslabs/aidlc-workflows",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-15T07:20:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50071902",
-    "title": "Bookofjoe's Favorite Thing: Best Pill Splitter",
-    "url": "https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-13T14:00:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50099136",
-    "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
-    "url": "https://github.com/andunieee/flipflop",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-10-15T04:25:28+00:00",
     "summary": "",
     "key_points": []
   }
