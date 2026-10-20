@@ -1,5 +1,95 @@
 [
   {
+    "id": "lobsters:72bkyt",
+    "title": "Declarative WASM GC Types",
+    "url": "https://blog.veritates.love/decl-wasm-types",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-20T13:17:42.666-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uplhpf",
+    "title": "leanin: A Tokio-inspired concurrency library for Lean 4, with machine-checked proofs",
+    "url": "https://github.com/scidonia/leanin/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-20T18:04:37.658-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ekxoyt",
+    "title": "Upcoming Critical PHP Security Release",
+    "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-10-20T17:23:54.452-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50152886",
+    "title": "Meta's GB{2,3}00 Cluster",
+    "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-10-19T14:23:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50169506",
+    "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+    "url": "https://research.poh.org/bot-benchmarking-2026/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-20T17:10:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50139728",
+    "title": "Making Solar Panels with a Microwave [video]",
+    "url": "https://www.youtube.com/watch?v=zcWkApGjyGM",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-18T10:25:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50173891",
+    "title": "The Other Epidemic: Trying to get off benzodiazepines",
+    "url": "https://www.thebeliever.net/the-other-epidemic/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-20T23:04:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50170917",
+    "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+    "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-10-20T18:51:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50173487",
+    "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+    "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-20T22:21:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nhiewb",
     "title": "EDG is open source",
     "url": "https://edgcpp.org/",
@@ -4906,96 +4996,6 @@
     "source": "lobsters",
     "score": 39.0,
     "published_at": "2026-09-08T01:37:38.684-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:biulze",
-    "title": "Sloc Cloc and Code - Did I just get Buster Scrugged?",
-    "url": "https://boyter.org/posts/did-i-just-get-buster-scrugged/",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-09-08T20:13:32.481-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249237",
-    "title": "claude 最近封了 3 个号，过来交流下经验啊都",
-    "url": "https://www.v2ex.com/t/1249237",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-10-16T01:44:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249287",
-    "title": "企微聊天就和裸聊差不多",
-    "url": "https://www.v2ex.com/t/1249287",
-    "source": "v2ex",
-    "score": 132.0,
-    "published_at": "2026-10-16T03:02:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249225",
-    "title": "[抽奖🧧] 双 11 开始了，推荐下自己的微信返利机器人",
-    "url": "https://www.v2ex.com/t/1249225",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-10-16T01:28:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696048084749746226",
-    "title": "Kotlin 2.5 的 Companion 改造，对 KMP 的重要升级",
-    "url": "https://juejin.cn/post/7696048084749746226",
-    "source": "juejin",
-    "score": 0.13621281,
-    "published_at": "2026-10-14T01:36:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50088748",
-    "title": "I built the RealWorld app in Lean 4",
-    "url": "https://leangineer.com/blog/realworld-in-lean/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-14T15:03:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50125545",
-    "title": "Nine-Inch Snails",
-    "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-16T22:21:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50126774",
-    "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-    "url": "https://www.flexport.com/company/careers/",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-10-17T01:01:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:61ujum",
-    "title": "Ubuntu 26.10 (Stonking Stingray) released",
-    "url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-16T13:01:39.664-05:00",
     "summary": "",
     "key_points": []
   }
