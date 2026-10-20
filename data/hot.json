@@ -1,5 +1,165 @@
 [
   {
+    "id": "lobsters:nhiewb",
+    "title": "EDG is open source",
+    "url": "https://edgcpp.org/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-20T15:33:19.926-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9u6gm0",
+    "title": "Why do we need ud2 when int 6 is right there?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-20T15:43:00.615-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:staj2z",
+    "title": "Genera for the Initiated: Inside Symbolics Lisp Machines",
+    "url": "https://www.youtube.com/watch?v=W2fGKjFoaOg",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-20T13:16:48.235-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0jsjaz",
+    "title": "Sign language to text",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-20T15:15:05.961-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nryxzd",
+    "title": "Do minor curl vulnerabilities in the open",
+    "url": "https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-20T14:47:54.578-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dlbufy",
+    "title": "Mastodon 5.0: A closer look",
+    "url": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-10-20T12:33:54.484-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9h14un",
+    "title": "How I got over 300 Tor exit nodes removed",
+    "url": "https://kaba.cx/posts/20261020_Tor/",
+    "source": "lobsters",
+    "score": 17.0,
+    "published_at": "2026-10-20T13:44:42.872-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50161144",
+    "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
+    "url": "https://rouler.io/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-20T03:51:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50128197",
+    "title": "Archive of Our Own",
+    "url": "https://archiveofourown.org/",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-10-17T05:23:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50165904",
+    "title": "Jepsen: Orkes Conductor 5.3.2",
+    "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-20T13:14:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50168357",
+    "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+    "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+    "source": "hackernews",
+    "score": 79.0,
+    "published_at": "2026-10-20T15:59:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50170021",
+    "title": "Claude designed protein binders against scorpion neurotoxins",
+    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-20T17:48:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50171771",
+    "title": "On AI writing",
+    "url": "https://www.bolkunov.com/p/on-ai-writing",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-20T19:55:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50169707",
+    "title": "What shall I teach my son?",
+    "url": "https://stevekrouse.com/ends",
+    "source": "hackernews",
+    "score": 98.0,
+    "published_at": "2026-10-20T17:25:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50108717",
+    "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-10-15T19:09:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50170593",
+    "title": "SimCity, but with Permits",
+    "url": "https://permit.petercai.com/",
+    "source": "hackernews",
+    "score": 260.0,
+    "published_at": "2026-10-20T18:29:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:d0bbhd",
     "title": "CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE",
     "url": "https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/",
@@ -4836,166 +4996,6 @@
     "source": "lobsters",
     "score": 5.0,
     "published_at": "2026-10-16T13:01:39.664-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wzgadv",
-    "title": "There's never been a better time to go into math",
-    "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-16T15:49:12.465-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ddtqtn",
-    "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-    "url": "https://words.filippo.io/seeds-solved/",
-    "source": "lobsters",
-    "score": 31.0,
-    "published_at": "2026-10-16T15:18:36.306-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50124642",
-    "title": "Why harnesses matter for energy (and token) efficiency",
-    "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-16T21:01:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50090453",
-    "title": "PGO or not PGO this is the dilemma. Step 2",
-    "url": "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-14T16:33:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50124251",
-    "title": "I never authorized an integration that scans my secrets",
-    "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-    "source": "hackernews",
-    "score": 122.0,
-    "published_at": "2026-10-16T20:33:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50122878",
-    "title": "You could have invented transformers from memory",
-    "url": "https://alexwang.ai/posts/associative-memory/",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-10-16T19:01:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50083673",
-    "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-    "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-10-14T07:21:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50123580",
-    "title": "FLUX 3 Image Klein",
-    "url": "https://bfl.ai/blog/flux-3-image-klein",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-10-16T19:47:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xwng6u",
-    "title": "Introducing GNOME OS Preview",
-    "url": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-16T13:25:15.354-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tty7hm",
-    "title": "Getting Canceled",
-    "url": "https://www.youtube.com/watch?v=5zIOfBLQ3U4",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-16T13:54:16.019-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cgs07z",
-    "title": "Thirty Years of KDE",
-    "url": "https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-16T11:49:07.695-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:e7rvsp",
-    "title": "We're sunsetting Codeberg Pages v2",
-    "url": "https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-16T13:03:21.252-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vjmn84",
-    "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-    "url": "https://maevyn.codes/decoherence",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-16T11:36:29.493-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50086838",
-    "title": "Making 1,750 programmable PCB badges for Canada's biggest hackathon",
-    "url": "https://va3ndf.com/blog/hacker-badges/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-14T12:44:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50122776",
-    "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
-    "url": "https://stoke.money",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-16T18:54:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50121601",
-    "title": "GifCities",
-    "url": "https://gifcities.org/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-16T17:35:07+00:00",
     "summary": "",
     "key_points": []
   }
