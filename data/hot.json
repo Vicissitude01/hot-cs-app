@@ -1,5 +1,255 @@
 [
   {
+    "id": "lobsters:9ww9by",
+    "title": "Rendering untrusted HTML email, safely(2021)",
+    "url": "https://making.close.com/posts/rendering-untrusted-html-email-safely/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-19T19:16:31.468-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dl4h2a",
+    "title": "A Very Fast IPv4 Parser, in Swift",
+    "url": "https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-19T23:04:43.855-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vze0kx",
+    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+    "url": "https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-19T22:10:23.194-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7qhwfi",
+    "title": "OpenBSD 8.0: released",
+    "url": "https://marc.info/?l=openbsd-announce&m=179245843570316&w=2",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-19T20:57:39.991-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sqdhu7",
+    "title": "OpenBSD 8.0",
+    "url": "https://www.openbsd.org/80.html",
+    "source": "lobsters",
+    "score": 22.0,
+    "published_at": "2026-10-19T20:46:00.374-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250167",
+    "title": "2026 年了，国内最优雅的 Apple TV 看有线电视姿势是什么",
+    "url": "https://www.v2ex.com/t/1250167",
+    "source": "v2ex",
+    "score": 98.0,
+    "published_at": "2026-10-20T00:11:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250197",
+    "title": "最近被同事消耗的太厉害",
+    "url": "https://www.v2ex.com/t/1250197",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-10-20T01:41:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250170",
+    "title": "能清理、卸载和系统维护的 Mole Windows 版终于来啦，聊聊我是怎么用 Mac 开发它的",
+    "url": "https://www.v2ex.com/t/1250170",
+    "source": "v2ex",
+    "score": 124.0,
+    "published_at": "2026-10-20T00:27:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250150",
+    "title": "老婆又要生孩子了",
+    "url": "https://www.v2ex.com/t/1250150",
+    "source": "v2ex",
+    "score": 124.0,
+    "published_at": "2026-10-19T16:15:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250173",
+    "title": "开个银河买纳指或者红利低波 ETF 比较稳健，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。",
+    "url": "https://www.v2ex.com/t/1250173",
+    "source": "v2ex",
+    "score": 132.0,
+    "published_at": "2026-10-20T00:46:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250179",
+    "title": "本地机器能跑 DeepSeek v4.1flash 或者 Qwen3.8 得多少钱？",
+    "url": "https://www.v2ex.com/t/1250179",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-10-20T01:05:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250033",
+    "title": "想买电车了求推荐",
+    "url": "https://www.v2ex.com/t/1250033",
+    "source": "v2ex",
+    "score": 148.0,
+    "published_at": "2026-10-19T07:16:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250081",
+    "title": "未来体制内的退休金会降低吗？",
+    "url": "https://www.v2ex.com/t/1250081",
+    "source": "v2ex",
+    "score": 164.0,
+    "published_at": "2026-10-19T09:32:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698268211587022874",
+    "title": "为什么我在团队里禁止使用 axios？",
+    "url": "https://juejin.cn/post/7698268211587022874",
+    "source": "juejin",
+    "score": 6.43118522,
+    "published_at": "2026-10-20T01:44:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50138000",
+    "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
+    "url": "http://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-18T04:48:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50160135",
+    "title": "Developing Taste",
+    "url": "https://emilkowal.ski/ui/developing-taste",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-10-20T01:12:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50135177",
+    "title": "Porting video games to VHS",
+    "url": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-10-17T21:12:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50134809",
+    "title": "How Do Fungi Keep the Planet Healthy?",
+    "url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-17T20:27:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50158942",
+    "title": "An ad-free Android TV",
+    "url": "https://cretezy.com/2026/ad-free-android-tv",
+    "source": "hackernews",
+    "score": 132.0,
+    "published_at": "2026-10-19T22:32:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50154244",
+    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+    "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+    "source": "hackernews",
+    "score": 138.0,
+    "published_at": "2026-10-19T16:16:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50160877",
+    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+    "url": "https://github.com/golang/go/issues/82345",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-10-20T03:05:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50161408",
+    "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+    "url": "https://deathplanswitch.com/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-20T04:37:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50159341",
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "source": "hackernews",
+    "score": 246.0,
+    "published_at": "2026-10-19T23:22:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50141581",
+    "title": "Nordwand Mono – A monospace font for coders and adventurers",
+    "url": "https://github.com/tywr/Nordwand-Mono",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-18T14:48:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50160494",
+    "title": "OpenBSD 8.0",
+    "url": "https://www.openbsd.org/80.html",
+    "source": "hackernews",
+    "score": 173.0,
+    "published_at": "2026-10-20T02:06:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:zfqg1b",
     "title": "It's still OK to enjoy programming",
     "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
@@ -4746,256 +4996,6 @@
     "source": "hackernews",
     "score": 41.0,
     "published_at": "2026-10-13T14:40:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50084790",
-    "title": "The Economic Complexity of the Western Roman Empire",
-    "url": "https://www.michelecoscia.com/?p=2613",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-10-14T09:32:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50077225",
-    "title": "Yet another way to invoke functions without parentheses",
-    "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-10-13T19:25:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:q0wobg",
-    "title": "My self-hosted infrastructure with Incus OS",
-    "url": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-15T22:25:49.491-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xiq59t",
-    "title": "Linus Torvalds on AI-assisted kernel contributions",
-    "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-10-15T21:50:33.788-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249230",
-    "title": "一个人可以内向，敏感，胆小到什么程度",
-    "url": "https://www.v2ex.com/t/1249230",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-10-16T01:33:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249215",
-    "title": "睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？",
-    "url": "https://www.v2ex.com/t/1249215",
-    "source": "v2ex",
-    "score": 136.0,
-    "published_at": "2026-10-16T01:09:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249270",
-    "title": "特斯拉有的我们都有😝",
-    "url": "https://www.v2ex.com/t/1249270",
-    "source": "v2ex",
-    "score": 138.0,
-    "published_at": "2026-10-16T02:34:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249170",
-    "title": "我买 Claude 账号被骗 1198 的经历",
-    "url": "https://www.v2ex.com/t/1249170",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-10-15T14:50:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249253",
-    "title": "Tesla Roadster 起飞了",
-    "url": "https://www.v2ex.com/t/1249253",
-    "source": "v2ex",
-    "score": 156.0,
-    "published_at": "2026-10-16T02:08:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249294",
-    "title": "Bref： iPhone 、 iPad 、Mac 与 Apple TV 多平台支持的媒体播放器，欢迎大家体验 [送码]",
-    "url": "https://www.v2ex.com/t/1249294",
-    "source": "v2ex",
-    "score": 212.0,
-    "published_at": "2026-10-16T03:14:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249233",
-    "title": "[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 第一个 Windows 版本发布，还支持 macOS",
-    "url": "https://www.v2ex.com/t/1249233",
-    "source": "v2ex",
-    "score": 266.0,
-    "published_at": "2026-10-16T01:35:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249207",
-    "title": "国庆回去被说肥头大耳，下定决心减肥了",
-    "url": "https://www.v2ex.com/t/1249207",
-    "source": "v2ex",
-    "score": 292.0,
-    "published_at": "2026-10-16T00:53:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696080841777020966",
-    "title": "聊聊Agent的记忆系统如何设计",
-    "url": "https://juejin.cn/post/7696080841777020966",
-    "source": "juejin",
-    "score": 0.23319282,
-    "published_at": "2026-10-14T07:11:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695999400864956451",
-    "title": "AI 时代，个人开发者到底能不能靠一个小程序赚到钱",
-    "url": "https://juejin.cn/post/7695999400864956451",
-    "source": "juejin",
-    "score": 0.24178716,
-    "published_at": "2026-10-14T02:21:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696542671834742822",
-    "title": "戒断Claude之后，被GLM5.3蠢哭了！",
-    "url": "https://juejin.cn/post/7696542671834742822",
-    "source": "juejin",
-    "score": 0.65736149,
-    "published_at": "2026-10-15T06:55:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7695976921429147686",
-    "title": "Codex 不只是写代码：OpenAI 想抢走 AI 工作流入口",
-    "url": "https://juejin.cn/post/7695976921429147686",
-    "source": "juejin",
-    "score": 0.21221007,
-    "published_at": "2026-10-13T13:36:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696710972372009010",
-    "title": "推荐一个好用 DeepSeek Harness 插件，直接把 Agent 上下文给可视化了！",
-    "url": "https://juejin.cn/post/7696710972372009010",
-    "source": "juejin",
-    "score": 0.90386626,
-    "published_at": "2026-10-15T10:04:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696414863695708200",
-    "title": "使用 cad-viewer 搭建「预渲染 + 静态托管」的云端看图方案",
-    "url": "https://juejin.cn/post/7696414863695708200",
-    "source": "juejin",
-    "score": 1.16352621,
-    "published_at": "2026-10-15T03:32:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:LibreSpark/LibreTV",
-    "title": "LibreTV",
-    "url": "https://github.com/LibreSpark/LibreTV",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50112331",
-    "title": "Thank You, Deno",
-    "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-10-16T00:52:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50071319",
-    "title": "4 Years of Ludicon",
-    "url": "https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-13T13:22:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50114077",
-    "title": "Tesla makes cars that fly? [video]",
-    "url": "https://www.youtube.com/watch?v=7p5LxFdc-Qg",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-10-16T04:27:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50059094",
-    "title": "Casio F-91W using Statecharts",
-    "url": "https://github.com/dundalek/casio-f91w-fsm",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-12T16:46:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50112887",
-    "title": "Comparing Chromium Development at Google and Igalia",
-    "url": "https://lwn.net/Articles/1094721/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-16T01:56:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50065859",
-    "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-    "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-10-13T02:32:53+00:00",
     "summary": "",
     "key_points": []
   }
