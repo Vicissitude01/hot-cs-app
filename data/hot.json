@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:cquwex",
+    "title": "Flow Typing, A New Lens on Linearity",
+    "url": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-21T13:54:02.529-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cq7wn7",
+    "title": "Don't throw it all away: Caching an immediate-mode UI",
+    "url": "https://blickeditor.com/blog/caching-an-immediate-mode-ui",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-21T12:16:47.888-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gu7bow",
+    "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
+    "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-21T10:53:37.372-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dldfel",
+    "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
+    "url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-21T12:40:17.687-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hty1qk",
+    "title": "zls 0.17.0",
+    "url": "https://zigtools.org/zls/releases/0.17.0/",
+    "source": "lobsters",
+    "score": 26.0,
+    "published_at": "2026-10-21T10:24:05.938-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:w9sxxq",
+    "title": "Firefox Local Mode",
+    "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+    "source": "lobsters",
+    "score": 30.0,
+    "published_at": "2026-10-21T10:47:59.191-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250656",
+    "title": "最近准备换车，旧车想送给妹妹开，怕老婆不同意，该怎么处理？",
+    "url": "https://www.v2ex.com/t/1250656",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-10-21T07:36:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7697873433355403274",
+    "title": "给 23 万字修仙小说造个阅读站：浏览器内打包 EPUB 分页阅读 + 三主题实战",
+    "url": "https://juejin.cn/post/7697873433355403274",
+    "source": "juejin",
+    "score": 0.14047068,
+    "published_at": "2026-10-19T03:15:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:akitaonrails/ai-memory",
+    "title": "ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:stablyai/orca",
+    "title": "orca",
+    "url": "https://github.com/stablyai/orca",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50182960",
+    "title": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
+    "url": "https://buford.bg/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-21T15:46:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50155099",
+    "title": "Show HN: ULDA – Client-side encryption with a simple JavaScript API",
+    "url": "https://demo.ulda.io/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-19T17:16:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50185403",
+    "title": "Corporate Linux",
+    "url": "https://lpar.ATH0.com/posts/2026/10/corporate-linux/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-21T18:27:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50142296",
+    "title": "Trials and Tribulations of Native Lua Compilation",
+    "url": "https://samyeyo.github.io/clx/blog.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-18T16:06:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50184820",
+    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-10-21T17:45:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50176908",
+    "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+    "url": "https://alterauth.com/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-21T06:42:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50183280",
+    "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
+    "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-21T16:05:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50185438",
+    "title": "Anthropic's Public Benefit Charter",
+    "url": "https://www.anthropic.com/public-benefit-charter",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-21T18:29:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50183344",
+    "title": "The bridge to agent-scale Git infrastructure",
+    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-21T16:09:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50180079",
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud/",
+    "source": "hackernews",
+    "score": 140.0,
+    "published_at": "2026-10-21T12:53:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50183512",
+    "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+    "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-21T16:20:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50182526",
+    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+    "source": "hackernews",
+    "score": 118.0,
+    "published_at": "2026-10-21T15:20:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50162044",
+    "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+    "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-10-20T06:20:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50184586",
+    "title": "EA is shutting down BioWare",
+    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "source": "hackernews",
+    "score": 196.0,
+    "published_at": "2026-10-21T17:29:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50185630",
+    "title": "Canary Tokens",
+    "url": "https://canarytokens.org/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-21T18:45:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50185045",
+    "title": "The compiler was supposed to end programming too",
+    "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-10-21T18:00:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50182987",
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "source": "hackernews",
+    "score": 338.0,
+    "published_at": "2026-10-21T15:48:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:bapw7h",
     "title": "php2shell by Calif Research",
     "url": "https://calif.io/php2shell.x",
@@ -4726,276 +4996,6 @@
     "source": "hackernews",
     "score": 44.0,
     "published_at": "2026-10-17T03:18:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50100366",
-    "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-    "url": "https://github.com/antirez/c64-hw-simulator",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-10-15T07:18:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50132950",
-    "title": "Development statistics for the 7.2 kernel",
-    "url": "https://lwn.net/Articles/1088776/",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-10-17T17:14:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50132870",
-    "title": "Gold is now the top U.S. export",
-    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-10-17T17:06:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50126253",
-    "title": "Bleached corals thrive within days when touching healthy neighbour",
-    "url": "https://www.nature.com/articles/d41586-026-03266-x",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-10-16T23:38:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cdb7fq",
-    "title": "Future of Programming",
-    "url": "https://www.youtube.com/watch?v=bISIgO4x49A",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-17T10:42:25.935-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:iyquo7",
-    "title": "Principles of Anchor Engineering",
-    "url": "https://nappingtoheavymetal.com/post/2026-09-15-principles-of-anchor-engineering/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-17T12:08:33.127-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wceg2u",
-    "title": "It took me nine years to hack my Xbox 360",
-    "url": "https://kennedn.com/blog/posts/glitching/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-17T11:13:32.076-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249646",
-    "title": "0 基础入行金融需要多久？",
-    "url": "https://www.v2ex.com/t/1249646",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-10-17T13:06:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:debpalash/VoiceStudio",
-    "title": "VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50129274",
-    "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
-    "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-10-17T09:08:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50100640",
-    "title": "What changes when your search index lives on S3?",
-    "url": "https://infino.ai/blog/search-index-on-s3/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-15T07:55:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50132502",
-    "title": "OpenAI discloses four more rogue incidents",
-    "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-17T16:31:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50131189",
-    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-    "url": "https://github.com/mikroverk/esp32sim",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-10-17T13:51:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50082358",
-    "title": "A Tudor Life in the Time of Plague",
-    "url": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-14T04:23:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50132278",
-    "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
-    "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-10-17T16:04:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50132839",
-    "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-    "url": "https://www.artie.com/careers",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-10-17T17:02:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50100994",
-    "title": "Furifont, a Japanese font that shows furigana",
-    "url": "https://furifont.antfu.me/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-15T08:48:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50131213",
-    "title": "Making Chicken Transparent Using Dorito Dust",
-    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-    "source": "hackernews",
-    "score": 125.0,
-    "published_at": "2026-10-17T13:55:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50132328",
-    "title": "GLP-1 may slow biological aging",
-    "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
-    "source": "hackernews",
-    "score": 86.0,
-    "published_at": "2026-10-17T16:10:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rtd5gq",
-    "title": "Ship Your Interpreter",
-    "url": "https://www.basis.ai/blog/ship-your-interpreters/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-17T09:16:33.586-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:srao9u",
-    "title": "Intuitive concurrent programming in any language",
-    "url": "https://www.lf-lang.org/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-17T07:17:20.307-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249581",
-    "title": "肉身在墙外，现在做物理机远程 Claude 的生意怎么样？",
-    "url": "https://www.v2ex.com/t/1249581",
-    "source": "v2ex",
-    "score": 56.0,
-    "published_at": "2026-10-17T06:55:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249603",
-    "title": "deepseek-v4.1-flash-1017 发布了",
-    "url": "https://www.v2ex.com/t/1249603",
-    "source": "v2ex",
-    "score": 60.0,
-    "published_at": "2026-10-17T08:34:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249583",
-    "title": "AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度",
-    "url": "https://www.v2ex.com/t/1249583",
-    "source": "v2ex",
-    "score": 60.0,
-    "published_at": "2026-10-17T07:06:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50115354",
-    "title": "Development of Norton Commander",
-    "url": "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-16T07:41:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50129947",
-    "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
-    "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-17T10:59:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50103588",
-    "title": "The cryptoint library (2025) [pdf]",
-    "url": "https://cr.yp.to/papers/cryptoint-20250424.pdf",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-15T13:41:08+00:00",
     "summary": "",
     "key_points": []
   }
