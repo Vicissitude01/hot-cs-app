@@ -1,5 +1,165 @@
 [
   {
+    "id": "lobsters:deqmg0",
+    "title": "Embedding EYG in Erlang programs",
+    "url": "https://eyg.run/guides/embedding-eyg-in-erlang-programs",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-21T16:27:36.439-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pnpcso",
+    "title": "GitLab Critical Patch Release",
+    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-21T15:48:24.398-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9jgl3x",
+    "title": "Google's Rust Style Guide",
+    "url": "https://google.github.io/styleguide/rustguide.html",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-10-21T14:12:02.416-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cdnepk",
+    "title": "Passkeys Attestation Trap",
+    "url": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-21T13:16:22.533-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50188443",
+    "title": "Oracle Security Alert Advisory – CVE-2026-91403 (eMudhra cert revocation)",
+    "url": "https://www.oracle.com/security-alerts/alert-cve-2026-91403.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-21T22:17:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50166706",
+    "title": "A Place Among the Fiddlers",
+    "url": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-20T14:08:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50187659",
+    "title": "CleanFrame: A quieter home screen for Samsung The Frame",
+    "url": "https://github.com/nthnclrk/CleanFrame",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-21T21:08:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50186455",
+    "title": "Claude Duet",
+    "url": "https://claude.com/resources/articles/claude-duet",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-21T19:40:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50186010",
+    "title": "Google's Rust Style Guide",
+    "url": "https://google.github.io/styleguide/rustguide.html",
+    "source": "hackernews",
+    "score": 126.0,
+    "published_at": "2026-10-21T19:11:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50152847",
+    "title": "The Rise and Fall of the Plasma Screen",
+    "url": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-19T14:20:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50187708",
+    "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+    "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-10-21T21:12:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50186037",
+    "title": "Claude Duet",
+    "url": "https://claude.com/product/claude-duet",
+    "source": "hackernews",
+    "score": 249.0,
+    "published_at": "2026-10-21T19:14:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50159726",
+    "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+    "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-10-20T00:14:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50185869",
+    "title": "GitLab Critical Patch Release",
+    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "source": "hackernews",
+    "score": 175.0,
+    "published_at": "2026-10-21T19:01:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50161346",
+    "title": "No More Icons in Every Menu by Default",
+    "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-10-20T04:27:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50188228",
+    "title": "Railway Security Disclosure",
+    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-10-21T21:58:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:cquwex",
     "title": "Flow Typing, A New Lens on Linearity",
     "url": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
@@ -4836,166 +4996,6 @@
     "source": "hackernews",
     "score": 34.0,
     "published_at": "2026-10-17T18:45:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:np84oh",
-    "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-    "url": "https://pwn.ai/blog/pwnescape",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-17T13:24:39.593-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1kesjm",
-    "title": "Abolish AI! Manifesto",
-    "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-17T13:25:58.714-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50130079",
-    "title": "The future of programming (1982)",
-    "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-17T11:20:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50126384",
-    "title": "Show HN: Things to Do API",
-    "url": "https://thingstodoapi.com/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-16T23:58:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50131006",
-    "title": "Show HN: High-quality duck audio synthesizer",
-    "url": "https://celphase.github.io/duck-pond/",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-17T13:28:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50122682",
-    "title": "Espresso machine can run Doom",
-    "url": "https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-16T18:49:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50127572",
-    "title": "A skeptic's first contact with Kubernetes (2024)",
-    "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-17T03:16:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50118098",
-    "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
-    "url": "https://github.com/Kapendev/parin",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-16T13:22:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50133713",
-    "title": "AI Can Write the Code. Who Verifies It?",
-    "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-17T18:31:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50133736",
-    "title": "Pattern Matching Beats Narrative Reasoning",
-    "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-17T18:34:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50094887",
-    "title": "Vintage Cassettes: 1963-2010",
-    "url": "http://vintagecassettes.com/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-14T20:41:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50133401",
-    "title": "OpenCode Hacked: User credentials leaked",
-    "url": "https://twitter.com/opencode/status/2111516673953935833",
-    "source": "hackernews",
-    "score": 213.0,
-    "published_at": "2026-10-17T18:01:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50132911",
-    "title": "tsc-ts: TypeScript written in TypeScript",
-    "url": "https://github.com/vercel-labs/tsc-ts",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-17T17:10:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50132193",
-    "title": "Pele – Mermaid diagrams as themeable SVG",
-    "url": "https://pele.run/",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-10-17T15:55:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50126312",
-    "title": "Dam removals are bringing fish back across the northeastern United States",
-    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-10-16T23:47:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50127586",
-    "title": "Source code of the Estonian online voting system",
-    "url": "https://github.com/valimised/ivxv",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-10-17T03:18:39+00:00",
     "summary": "",
     "key_points": []
   }
