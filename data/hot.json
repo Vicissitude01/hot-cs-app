@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:nmurnh",
+    "title": "What is your opinion on submission quality since the `vibecoding` tag was removed?",
+    "url": "https://lobste.rs/s/nmurnh",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-22T12:56:51.498-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:s0aktw",
+    "title": "Quad9 DNS Resolver to exit France",
+    "url": "https://quad9.net/news/blog/au-revoir-france/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-22T14:47:39.798-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xsz9sc",
+    "title": "Docker is weird",
+    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-22T15:09:22.732-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8rkyrl",
+    "title": "Objects, attributes, maps, oh my",
+    "url": "https://bernsteinbear.com/blog/object-shapes/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-22T12:35:52.914-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50199349",
+    "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+    "url": "https://3d.camilleworld.com/play/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-22T18:39:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50198936",
+    "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+    "url": "https://github.com/rbartoli/agent-usage-guard",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-22T18:02:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50199757",
+    "title": "A complete bypass of eMudhra’s 1FA OTP login system",
+    "url": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+    "source": "hackernews",
+    "score": 115.0,
+    "published_at": "2026-10-22T19:14:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50197450",
+    "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
+    "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-22T16:16:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50198940",
+    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+    "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-10-22T18:02:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50172660",
+    "title": "The phenomena that brighten dawn and dusk (2016)",
+    "url": "https://www.colorado.edu/asmagazine-archive/node/2039",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-20T21:05:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50172984",
+    "title": "Show HN: Turn regular JavaScript into a neural net",
+    "url": "https://chenglou.me/handwired/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-20T21:32:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50193416",
+    "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+    "url": "https://news.ycombinator.com/item?id=50193416",
+    "source": "hackernews",
+    "score": 213.0,
+    "published_at": "2026-10-22T10:11:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50199389",
+    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-10-22T18:44:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50199230",
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "url": "https://arxiv.org/abs/2610.27251",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-10-22T18:28:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50194833",
+    "title": "Woman faces six years in prison over Cash App account she never opened",
+    "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+    "source": "hackernews",
+    "score": 288.0,
+    "published_at": "2026-10-22T13:11:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50199290",
+    "title": "Show HN: UI micro interactions prompts for AI",
+    "url": "https://www.typeui.sh/micro-interactions",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-10-22T18:32:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50200947",
+    "title": "Arc is being sunset on December 22, 2026",
+    "url": "https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-22T20:59:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50198675",
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "source": "hackernews",
+    "score": 196.0,
+    "published_at": "2026-10-22T17:44:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:l2l50n",
     "title": "Header Accordions: QPACK amplification attacks against HTTP/3 servers",
     "url": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
@@ -4816,186 +4996,6 @@
     "source": "hackernews",
     "score": 57.0,
     "published_at": "2026-10-17T23:26:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50118165",
-    "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
-    "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-10-16T13:30:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50145337",
-    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "url": "https://arxiv.org/abs/2610.18861",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-10-18T20:48:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:brrnpm",
-    "title": "Outside the Scope of Our Support",
-    "url": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-18T13:52:01.341-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:izjf9o",
-    "title": "QML for C & Zig",
-    "url": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-18T14:10:04.091-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mp8qye",
-    "title": "Men in tech #YesAllMen",
-    "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-18T13:35:01.063-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nbxnh7",
-    "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
-    "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-18T12:59:21.837-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50143876",
-    "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
-    "url": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-18T18:26:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50119819",
-    "title": "CKKS – Addition and Multiplication",
-    "url": "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-16T15:43:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50129060",
-    "title": "Geographical Fun: Being Humourous Outlines of Various Countries (1868)",
-    "url": "https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-17T08:24:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50093020",
-    "title": "I Electrified My Push Scooter with a Power Drill",
-    "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-10-14T18:53:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50142866",
-    "title": "Namecheap just seized and disabled all my domains",
-    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-    "source": "hackernews",
-    "score": 126.0,
-    "published_at": "2026-10-18T16:56:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50143755",
-    "title": "Investing in the Public Benefit",
-    "url": "https://www.anthropic.com/news/public-benefit-fund",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-18T18:15:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50144066",
-    "title": "Free Pascal Compiler Now Supports Dynamic Packages",
-    "url": "https://www.getlazarus.org/dynamic/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-18T18:48:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50143132",
-    "title": "Mitos editor is a fork of Helix",
-    "url": "https://mitos.computer/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-18T17:19:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50143536",
-    "title": "PalmOS Lemmings by Aaron Ardiri",
-    "url": "https://github.com/ardiri/palmos-lemmings",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-18T17:56:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50144005",
-    "title": "HOA's are making the home crisis worse",
-    "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-10-18T18:40:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:koipdp",
-    "title": "The Problem with C++ Safety: Why “It Works” Isn’t Good Enough",
-    "url": "https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-18T11:10:47.504-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wtobpt",
-    "title": "My obituary for programming",
-    "url": "https://dumbmatter.com/2026/10/programming-obituary/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-18T11:44:36.773-05:00",
     "summary": "",
     "key_points": []
   }
