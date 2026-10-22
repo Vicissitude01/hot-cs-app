@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:was9lk",
+    "title": "Three configurable prettyprinters (2023)",
+    "url": "https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-22T05:28:49.122-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:twe9my",
+    "title": "Create a Canarytoken. Deploy it somewhere",
+    "url": "https://canarytokens.org/nest/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-22T06:17:02.985-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nbd1cs",
+    "title": "Garmin Revamps and Opens Up Connect Developer API Program",
+    "url": "https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-22T03:09:55.509-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zpcnmo",
+    "title": "There isn't an easy exploit for this PHP vulnerability",
+    "url": "https://eliastaylor.com/noexploit/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-10-22T06:32:42.309-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hplfis",
+    "title": "examining the macOS gcc binary",
+    "url": "https://zoey-on-github.github.io/blog/macgcc.html",
+    "source": "lobsters",
+    "score": 22.0,
+    "published_at": "2026-10-22T01:45:58.884-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250850",
+    "title": "SuperShot（爱截图）截图领域的缝合怪，欢迎评价体验",
+    "url": "https://www.v2ex.com/t/1250850",
+    "source": "v2ex",
+    "score": 120.0,
+    "published_at": "2026-10-22T02:41:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250784",
+    "title": "中文互联网最好笑的事情之一是和某个西方人不是朋友，非要用名字而不是姓称呼对方，比如把 Amodei 说成 Dario，把 Sutskever 说成 Ilya。而且几乎人人这样说，包括有海外经验的播客博主。也是服了",
+    "url": "https://www.v2ex.com/t/1250784",
+    "source": "v2ex",
+    "score": 124.0,
+    "published_at": "2026-10-21T22:48:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250940",
+    "title": "老哥们，你们焦虑吗？未来的某天就会被突然失业，这几乎是必然，但自己别的什么也不会",
+    "url": "https://www.v2ex.com/t/1250940",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-10-22T06:46:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250922",
+    "title": "根管治疗过的聊聊",
+    "url": "https://www.v2ex.com/t/1250922",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-10-22T06:19:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250808",
+    "title": "现在有多少人还在维护自建的博客的？",
+    "url": "https://www.v2ex.com/t/1250808",
+    "source": "v2ex",
+    "score": 162.0,
+    "published_at": "2026-10-22T01:18:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250819",
+    "title": "大 A 遥遥领先",
+    "url": "https://www.v2ex.com/t/1250819",
+    "source": "v2ex",
+    "score": 190.0,
+    "published_at": "2026-10-22T01:41:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698709811583959067",
+    "title": "微信和支付宝支付接入全流程：JSAPI支付、小程序支付与H5支付",
+    "url": "https://juejin.cn/post/7698709811583959067",
+    "source": "juejin",
+    "score": 0.30859213,
+    "published_at": "2026-10-21T02:09:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699094123467178034",
+    "title": "PHP漏洞危机，你的网站升级了吗?",
+    "url": "https://juejin.cn/post/7699094123467178034",
+    "source": "juejin",
+    "score": 2.04802085,
+    "published_at": "2026-10-22T06:20:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698620283800404002",
+    "title": "Java AI框架选型指南",
+    "url": "https://juejin.cn/post/7698620283800404002",
+    "source": "juejin",
+    "score": 0.35924676,
+    "published_at": "2026-10-21T01:56:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699215174621364267",
+    "title": "搞钱点子之生态鱼缸",
+    "url": "https://juejin.cn/post/7699215174621364267",
+    "source": "juejin",
+    "score": 3.77107852,
+    "published_at": "2026-10-22T06:31:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699243153364123690",
+    "title": "刷到 FDE 岗位那一刻，我还以为前端又活了",
+    "url": "https://juejin.cn/post/7699243153364123690",
+    "source": "juejin",
+    "score": 1.13329562,
+    "published_at": "2026-10-22T01:09:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698999578180075547",
+    "title": "潜伏 20 年没人能利用的 PHP 漏洞，AI 一周做成了武器",
+    "url": "https://juejin.cn/post/7698999578180075547",
+    "source": "juejin",
+    "score": 1.46173778,
+    "published_at": "2026-10-22T01:18:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Meloong-Git/PCL",
+    "title": "PCL",
+    "url": "https://github.com/Meloong-Git/PCL",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:luongnv89/claude-howto",
+    "title": "claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:fastapi/fastapi",
+    "title": "fastapi",
+    "url": "https://github.com/fastapi/fastapi",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:php/php-src",
+    "title": "php-src",
+    "url": "https://github.com/php/php-src",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50161283",
+    "title": "ThinkPad I9990303 Error Catch-22",
+    "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-20T04:16:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50194070",
+    "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+    "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-22T11:50:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50155616",
+    "title": "The Robot I Didn't Expect to Build",
+    "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-19T17:57:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50157456",
+    "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+    "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-10-19T20:12:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50194009",
+    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+    "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-22T11:42:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50193804",
+    "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+    "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-10-22T11:12:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50192536",
+    "title": "Jailbreaking the Switch 2",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "source": "hackernews",
+    "score": 122.0,
+    "published_at": "2026-10-22T08:01:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50193170",
+    "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-10-22T09:31:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50192900",
+    "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+    "source": "hackernews",
+    "score": 187.0,
+    "published_at": "2026-10-22T08:51:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qgbvku",
     "title": "Turning IPv6 tunnels into programmable delay lines for pulsing DoS",
     "url": "https://blog.apnic.net/2026/10/22/turning-ipv6-tunnels-into-programmable-delay-lines-for-pulsing-dos/",
@@ -4696,306 +4996,6 @@
     "source": "hackernews",
     "score": 189.0,
     "published_at": "2026-10-18T13:48:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kiq0si",
-    "title": "Algorithmic Sound Design with L-Systems and Granular Synthesis",
-    "url": "https://nathanho.me/posts/evograin/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-18T07:06:05.111-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mmvhup",
-    "title": "ARP! Tell your network to explain itself",
-    "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-18T07:48:02.112-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ggpwfi",
-    "title": "It's enough - vibecoding tag crossed from useless to harmful",
-    "url": "https://lobste.rs/s/ggpwfi",
-    "source": "lobsters",
-    "score": 86.0,
-    "published_at": "2026-10-18T05:35:11.525-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249708",
-    "title": "总是在兴奋和悲观之间反复横跳，这个屌炸天的 REA（逆向一切），原理仅仅只是给大模型提供了更多的上下文",
-    "url": "https://www.v2ex.com/t/1249708",
-    "source": "v2ex",
-    "score": 34.0,
-    "published_at": "2026-10-18T02:22:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249762",
-    "title": "Claude 过验证后丝滑升 5x",
-    "url": "https://www.v2ex.com/t/1249762",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-10-18T08:15:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249671",
-    "title": "DeepSeek-V4.1-Flash-1017 发布了，今晚我让它通宵写代码（Day 4）",
-    "url": "https://www.v2ex.com/t/1249671",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-10-17T16:25:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249712",
-    "title": "AI 发现了我的睡不好的原因",
-    "url": "https://www.v2ex.com/t/1249712",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-10-18T02:37:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696821865848733705",
-    "title": "AI Coding 时代最值钱的东西，软件工程（上）",
-    "url": "https://juejin.cn/post/7696821865848733705",
-    "source": "juejin",
-    "score": 0.13909608,
-    "published_at": "2026-10-16T00:41:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696817605547638794",
-    "title": "WorkBuddy 装完就吃灰？3 个动作让 AI 真帮你干活",
-    "url": "https://juejin.cn/post/7696817605547638794",
-    "source": "juejin",
-    "score": 0.13634353,
-    "published_at": "2026-10-16T04:19:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697431539588251675",
-    "title": "DeepSeek  新版还是难评！",
-    "url": "https://juejin.cn/post/7697431539588251675",
-    "source": "juejin",
-    "score": 0.47170771,
-    "published_at": "2026-10-17T15:44:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697500325122277376",
-    "title": "数据集成软件 KFS：多套业务库汇聚时，先把来源和口径理清",
-    "url": "https://juejin.cn/post/7697500325122277376",
-    "source": "juejin",
-    "score": 4.28614902,
-    "published_at": "2026-10-18T10:03:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Comfy-Org/ComfyUI",
-    "title": "ComfyUI",
-    "url": "https://github.com/Comfy-Org/ComfyUI",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Kruk2/jasna",
-    "title": "jasna",
-    "url": "https://github.com/Kruk2/jasna",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mlabonne/llm-course",
-    "title": "llm-course",
-    "url": "https://github.com/mlabonne/llm-course",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50140638",
-    "title": "Germany's 17M Immigrants: Where They Come From",
-    "url": "https://www.visualcapitalist.com/cp/where-germanys-immigrants-come-from/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-18T12:46:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50098485",
-    "title": "Lorenz and Little: How Much Does Your Tail Cost?",
-    "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-15T02:39:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50093081",
-    "title": "Hatching (Heraldry)",
-    "url": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-14T18:57:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50102480",
-    "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
-    "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-15T12:06:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50122671",
-    "title": "Regex visualized as 3D marble run",
-    "url": "https://www.regexmarblerun.com/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-16T18:48:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50139067",
-    "title": "Parser Combinators",
-    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-    "source": "hackernews",
-    "score": 83.0,
-    "published_at": "2026-10-18T08:19:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50140001",
-    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-    "url": "https://github.com/0x23/MicroManipulatorStepper",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-18T11:16:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50139692",
-    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-    "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-18T10:21:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gl8yly",
-    "title": "Un-hanging the HP Envy 17-DA0013dx for OpenBSD",
-    "url": "https://darwinsys.com/blog/20260925-hp-envy-17/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-18T02:42:41.212-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249772",
-    "title": "上海海昌海洋公园一日游(虎鲸等多图警告)",
-    "url": "https://www.v2ex.com/t/1249772",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-10-18T09:00:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249696",
-    "title": "最近这 codex 额度消耗快的离谱啊， 5x 套餐随便几个问题 10% 额度没了",
-    "url": "https://www.v2ex.com/t/1249696",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-10-18T01:15:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249668",
-    "title": "第二次失业后更焦虑了",
-    "url": "https://www.v2ex.com/t/1249668",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-10-17T16:06:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249724",
-    "title": "发明这个闲鱼暗语中枢的人真是个天才",
-    "url": "https://www.v2ex.com/t/1249724",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-10-18T03:41:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696894428132294665",
-    "title": "70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）",
-    "url": "https://juejin.cn/post/7696894428132294665",
-    "source": "juejin",
-    "score": 0.07175213,
-    "published_at": "2026-10-15T15:10:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696791074137030719",
-    "title": "软考高项考下来：每月多600，还被推进数据局当专家（一次800）",
-    "url": "https://juejin.cn/post/7696791074137030719",
-    "source": "juejin",
-    "score": 0.15677936,
-    "published_at": "2026-10-16T04:23:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697134861442039849",
-    "title": "2026年的前端：你引以为傲的框架，正在被浏览器原生能力“架空”",
-    "url": "https://juejin.cn/post/7697134861442039849",
-    "source": "juejin",
-    "score": 0.31016139,
-    "published_at": "2026-10-17T02:19:59+00:00",
     "summary": "",
     "key_points": []
   }
