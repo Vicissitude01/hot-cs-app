@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:qgbvku",
+    "title": "Turning IPv6 tunnels into programmable delay lines for pulsing DoS",
+    "url": "https://blog.apnic.net/2026/10/22/turning-ipv6-tunnels-into-programmable-delay-lines-for-pulsing-dos/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-21T21:18:33.036-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dcvs3u",
+    "title": "Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”",
+    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-22T01:15:07.575-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:os7brs",
+    "title": "Using a lookup-table to correct an approximation",
+    "url": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-21T23:18:37.037-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:2czsv4",
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-21T16:32:29.251-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250830",
+    "title": "我的一个朋友（真的是一个朋友）目前深陷于一段感情骗局中，请 V 友们支招",
+    "url": "https://www.v2ex.com/t/1250830",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-10-22T02:05:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250785",
+    "title": "结婚三年，现在跟我说不生小孩，我该怎么办？求建议",
+    "url": "https://www.v2ex.com/t/1250785",
+    "source": "v2ex",
+    "score": 256.0,
+    "published_at": "2026-10-21T22:50:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250834",
+    "title": "00 后结婚 10 个月，老婆回娘家了，我该怎么处理，求各位帮助",
+    "url": "https://www.v2ex.com/t/1250834",
+    "source": "v2ex",
+    "score": 680.0,
+    "published_at": "2026-10-22T02:11:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698268211586957338",
+    "title": "155个App把豆包关在门外，豆包反手掏出第二把钥匙",
+    "url": "https://juejin.cn/post/7698268211586957338",
+    "source": "juejin",
+    "score": 0.19929682,
+    "published_at": "2026-10-20T01:38:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698287001586876456",
+    "title": "玩了一天 1.2 万人收藏的开源音乐模型，真的惊艳到我了。。。",
+    "url": "https://juejin.cn/post/7698287001586876456",
+    "source": "juejin",
+    "score": 0.19430795,
+    "published_at": "2026-10-20T02:11:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698569506813526031",
+    "title": "研究数字孪生的这半年，做了个 Demo，也有了一些新想法",
+    "url": "https://juejin.cn/post/7698569506813526031",
+    "source": "juejin",
+    "score": 0.20933965,
+    "published_at": "2026-10-20T08:34:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698709811564068915",
+    "title": "Flutter 的文字为什么比 SwiftUI 更细？问题主要在 Skia 的 256 项查找表里",
+    "url": "https://juejin.cn/post/7698709811564068915",
+    "source": "juejin",
+    "score": 0.41850306,
+    "published_at": "2026-10-21T00:50:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698568843102617626",
+    "title": "调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%",
+    "url": "https://juejin.cn/post/7698568843102617626",
+    "source": "juejin",
+    "score": 0.20556399,
+    "published_at": "2026-10-20T08:27:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698646220872450082",
+    "title": "程序员 1v1 访谈系列第五期：裁掉正岗，招外包",
+    "url": "https://juejin.cn/post/7698646220872450082",
+    "source": "juejin",
+    "score": 0.50170016,
+    "published_at": "2026-10-21T01:13:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698947426489663528",
+    "title": "报表总在扫大表，列存储应该放在哪一层",
+    "url": "https://juejin.cn/post/7698947426489663528",
+    "source": "juejin",
+    "score": 1.31243076,
+    "published_at": "2026-10-21T12:53:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50160988",
+    "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
+    "url": "https://www.jhiblog.org/2026/10/19/clockwork-metaphors/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-20T03:25:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50188614",
+    "title": "Postgres recovery_prefetch can cause outages",
+    "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-21T22:33:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50158960",
+    "title": "PyTorch-native TPU back end for vLLM",
+    "url": "https://github.com/vllm-project/vllm-torchtpu",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-19T22:34:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50183892",
+    "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+    "url": "https://github.com/omnara-ai/omnara",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-10-21T16:44:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50166590",
+    "title": "Beyond the &",
+    "url": "https://lwn.net/Articles/1096028/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-20T13:59:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50160241",
+    "title": "What Is the Karakoram Anomaly?",
+    "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-20T01:26:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50176082",
+    "title": "Using LLM for confidence scoring is a bad idea",
+    "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-10-21T04:27:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50191507",
+    "title": "OpenAI CLI",
+    "url": "https://github.com/openai/openai-cli",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-22T05:23:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50190363",
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-10-22T02:18:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50190455",
+    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+    "source": "hackernews",
+    "score": 131.0,
+    "published_at": "2026-10-22T02:30:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:wno4h3",
     "title": "Understanding Nix flakes",
     "url": "https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/",
@@ -4756,246 +4996,6 @@
     "source": "juejin",
     "score": 0.31016139,
     "published_at": "2026-10-17T02:19:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696817605548245002",
-    "title": "别再死磕纯技术了：2026 年程序员的 7 条真实出路",
-    "url": "https://juejin.cn/post/7696817605548245002",
-    "source": "juejin",
-    "score": 0.13420196,
-    "published_at": "2026-10-16T06:55:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50126457",
-    "title": "Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]",
-    "url": "https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-17T00:11:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50138044",
-    "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
-    "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-    "source": "hackernews",
-    "score": 89.0,
-    "published_at": "2026-10-18T04:59:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50138087",
-    "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
-    "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
-    "source": "hackernews",
-    "score": 93.0,
-    "published_at": "2026-10-18T05:09:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50110081",
-    "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
-    "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-15T20:55:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50138002",
-    "title": "Notes on the Complex Roots of Unity",
-    "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-10-18T04:49:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50106792",
-    "title": "Fun Extending the C Preprocessor",
-    "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-15T17:08:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50121516",
-    "title": "Go Piss, Girl: The plight of the public potty",
-    "url": "https://thebaffler.com/latest/go-piss-girl-wagner",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-16T17:29:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50124730",
-    "title": "Teal – A statically-typed dialect of Lua",
-    "url": "https://teal-language.org/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-16T21:07:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50138531",
-    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "url": "https://api-docs.deepseek.com/guides/search/",
-    "source": "hackernews",
-    "score": 169.0,
-    "published_at": "2026-10-18T06:50:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:edli0x",
-    "title": "It's time to talk about TEEs",
-    "url": "https://alinush.github.io//tee",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-17T22:00:39.692-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6himy4",
-    "title": "Does moving a GPU server's request loop into the kernel save CPU?",
-    "url": "https://eunomia.dev/blog/2026/10/17/bpf-gpu-server/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-17T22:18:29.183-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:16tsvr",
-    "title": "Making Hybrid Images (2014)",
-    "url": "https://www.jeremykun.com/2014/09/29/hybrid-images/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-17T22:13:10.538-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:k5omum",
-    "title": "The Brain Sandwich",
-    "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-17T22:03:36.932-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249634",
-    "title": "剪切板 NexPaste 第二次送码了，可以多端（Mac、 iPhone ）同步的那种",
-    "url": "https://www.v2ex.com/t/1249634",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-10-17T11:47:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249621",
-    "title": "你做项目的话，你觉得是域名重要还是项目重要",
-    "url": "https://www.v2ex.com/t/1249621",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-10-17T10:20:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249681",
-    "title": "为什么还有人宣场读书无用论？",
-    "url": "https://www.v2ex.com/t/1249681",
-    "source": "v2ex",
-    "score": 62.0,
-    "published_at": "2026-10-17T17:44:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249607",
-    "title": "AI 写代码的速度已经超过你的阅读速度，你会放心把 Code Review 也交给 AI 吗？",
-    "url": "https://www.v2ex.com/t/1249607",
-    "source": "v2ex",
-    "score": 62.0,
-    "published_at": "2026-10-17T08:50:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7672696268489408575",
-    "title": "从Cursor到Codex，从Skills到Harness：AI编程正在经历第三次范式迁移",
-    "url": "https://juejin.cn/post/7672696268489408575",
-    "source": "juejin",
-    "score": 0.50762071,
-    "published_at": "2026-08-11T11:31:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696713457148706870",
-    "title": "我把 nvm、jenv、pyenv 全卸了：一个 Rust 单文件管完 40+ 开发工具",
-    "url": "https://juejin.cn/post/7696713457148706870",
-    "source": "juejin",
-    "score": 0.12165234,
-    "published_at": "2026-10-15T13:01:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696894428150300682",
-    "title": "我用 REA 逆向了付费颜色 APP，结果很意外！",
-    "url": "https://juejin.cn/post/7696894428150300682",
-    "source": "juejin",
-    "score": 0.76713346,
-    "published_at": "2026-10-16T03:56:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50130379",
-    "title": "Interactive Linear Programming in the Browser",
-    "url": "https://lpviz.net/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-17T12:06:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50117935",
-    "title": "Superoptimizing an FPU Emulator",
-    "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-16T13:08:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50097257",
-    "title": "Custom server to revive neato bots",
-    "url": "https://github.com/vacuula/vacuula",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-14T23:48:38+00:00",
     "summary": "",
     "key_points": []
   }
