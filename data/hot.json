@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:d1snfg",
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "url": "https://arxiv.org/abs/2610.14162",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-23T12:25:34.960-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hq3tu8",
+    "title": "Railway Preliminary Report: Oct 21st Security Incident",
+    "url": "https://blog.railway.com/p/preliminary-report-october-security-incident",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-23T13:35:24.152-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ctow98",
+    "title": "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
+    "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-23T12:00:36.459-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tq5cxv",
+    "title": "How to Make Things, and Why",
+    "url": "https://www.youtube.com/watch?v=7yeH1DqK984",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-23T10:36:59.016-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yusomz",
+    "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+    "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-23T12:12:35.281-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50202482",
+    "title": "We have traits at home",
+    "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-22T23:24:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50212292",
+    "title": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
+    "url": "https://drop7.dev",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-23T17:13:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50209907",
+    "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+    "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-10-23T14:43:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50212320",
+    "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+    "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-10-23T17:15:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50212124",
+    "title": "Animations for System Builders",
+    "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-23T17:02:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50199684",
+    "title": "LISP Comes of Age (1980)",
+    "url": "https://microship.com/lisp-comes-of-age/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-22T19:08:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50205320",
+    "title": "Show HN: Swurf – Swipe through the real web",
+    "url": "https://swurf.org/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-23T06:54:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50212281",
+    "title": "Time Nuts (2005)",
+    "url": "http://leapsecond.com/time-nuts.htm",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-23T17:12:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50211504",
+    "title": "Total Historian",
+    "url": "https://www.theideasletter.org/essay/total-historian/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-23T16:23:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50202746",
+    "title": "Show HN: Impossible Machines: declaratively program the physical world",
+    "url": "https://www.impossiblemachines.xyz",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-10-22T23:54:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50212507",
+    "title": "Air Purifiers as White Noise Machines",
+    "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-23T17:28:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50211084",
+    "title": "Reforming English Spelling",
+    "url": "https://blog.oup.com/2026/10/reforming-english-spelling/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-23T15:56:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50202114",
+    "title": "Canadians are running out of time to oppose Bill C-22",
+    "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+    "source": "hackernews",
+    "score": 149.0,
+    "published_at": "2026-10-22T22:43:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50211729",
+    "title": "The Missed Opportunities of Sonic 06",
+    "url": "https://isaacmarovitz.com/posts/sonic-06/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-23T16:38:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50211719",
+    "title": "How Is Music Possible",
+    "url": "https://www.henrikkarlsson.xyz/p/music",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-10-23T16:38:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50212668",
+    "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+    "url": "https://twitter.com/robbietilton/status/2111936458923851923",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-23T17:40:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50169499",
+    "title": "The Real Kevin Bacon",
+    "url": "https://pudding.cool/2026/10/kevin-bacon/",
+    "source": "hackernews",
+    "score": 117.0,
+    "published_at": "2026-10-20T17:10:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50211746",
+    "title": "UUIDv7 doesn't have the properties you think it does",
+    "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-10-23T16:39:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50213337",
+    "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+    "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-23T18:24:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50207910",
+    "title": "Apple Music 404 Not Found",
+    "url": "https://music.apple.com/this-url-doesnt-exist",
+    "source": "hackernews",
+    "score": 162.0,
+    "published_at": "2026-10-23T12:28:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50211474",
+    "title": "Today, we hacked what we'd set out to hack: the iPhone",
+    "url": "https://blog.calif.io/p/iphone",
+    "source": "hackernews",
+    "score": 489.0,
+    "published_at": "2026-10-23T16:21:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50212065",
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "source": "hackernews",
+    "score": 393.0,
+    "published_at": "2026-10-23T16:59:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9gak0g",
     "title": "Profiling Org->HTML formal grammar and optimizing it: orgwebalchemy",
     "url": "https://jointhefreeworld.org/blog/articles/lisps/orgwebalchemy-benchmarking-profiling-and-org-support/",
@@ -4726,276 +4996,6 @@
     "source": "hackernews",
     "score": 138.0,
     "published_at": "2026-10-19T18:42:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50150089",
-    "title": "I built a drone with only one motor [video]",
-    "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-    "source": "hackernews",
-    "score": 246.0,
-    "published_at": "2026-10-19T09:05:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50154540",
-    "title": "MiniMax M3.1 Flash",
-    "url": "https://www.minimax.io/blog/minimax-m31f",
-    "source": "hackernews",
-    "score": 306.0,
-    "published_at": "2026-10-19T16:39:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50158100",
-    "title": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account",
-    "url": "https://josie.lol/blog/linux-rtx-spark",
-    "source": "hackernews",
-    "score": 83.0,
-    "published_at": "2026-10-19T21:08:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7r9dcc",
-    "title": "Timestral: Mistral's time-series foundation models",
-    "url": "https://mistral.ai/news/timestral/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-19T06:47:04.290-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qo8flp",
-    "title": "Borrow Checking Zero-Cost Cyclic Mutability",
-    "url": "https://antelang.org/blog/safe_cyclic_mutability/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-19T08:18:26.803-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:a9f6z1",
-    "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
-    "url": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-19T11:42:07.757-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:p3pruv",
-    "title": "Making dns_erlang Fast: Binary Tricks for the BEAM",
-    "url": "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-19T08:26:58.823-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ygp18d",
-    "title": "Hanami, Why?: Model Citizens",
-    "url": "https://aaronmallen.me/writing/hanami-why-model-citizens",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-19T09:03:08.478-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mpytbn",
-    "title": "One Hash Bloom Filters",
-    "url": "https://www.calabro.io",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-19T10:47:03.949-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wtthju",
-    "title": "A5 v1.0",
-    "url": "https://a5geo.org/blog/2026/10/14/a5-v1",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-19T08:56:50.438-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vyfegx",
-    "title": "What are you doing this week?",
-    "url": "https://lobste.rs/s/vyfegx",
-    "source": "lobsters",
-    "score": 18.0,
-    "published_at": "2026-10-19T07:09:29.138-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gqepzd",
-    "title": "Wine ported to OpenBSD",
-    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-    "source": "lobsters",
-    "score": 29.0,
-    "published_at": "2026-10-19T09:44:02.928-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249955",
-    "title": "男孩子青春期问题（迷茫 没信心）怎么解决",
-    "url": "https://www.v2ex.com/t/1249955",
-    "source": "v2ex",
-    "score": 136.0,
-    "published_at": "2026-10-19T03:44:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249913",
-    "title": "利用学生优惠$8.99 开通 2 年半 Google AI Pro + YouTube Premium + 5TB 存储",
-    "url": "https://www.v2ex.com/t/1249913",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-10-19T02:32:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697615256114937898",
-    "title": "Chrome DevTools MCP 正式可用：AI 终于能自己开浏览器调试你的页面了",
-    "url": "https://juejin.cn/post/7697615256114937898",
-    "source": "juejin",
-    "score": 0.59375851,
-    "published_at": "2026-10-19T01:29:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697865664233947190",
-    "title": "刷短剧上头后，我用5090和ComfyUI部署MiniMax H3",
-    "url": "https://juejin.cn/post/7697865664233947190",
-    "source": "juejin",
-    "score": 0.64673922,
-    "published_at": "2026-10-19T07:01:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697452953989480474",
-    "title": " Android 协程实践：为什么不应将 `supervisorScope` 作为常规方案",
-    "url": "https://juejin.cn/post/7697452953989480474",
-    "source": "juejin",
-    "score": 0.29434053,
-    "published_at": "2026-10-18T11:29:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50154147",
-    "title": "Pentulive (Puppy Live) [video]",
-    "url": "https://yle.fi/t/18-332106/fi",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-19T16:09:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50114766",
-    "title": "Beyond the Glass",
-    "url": "https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-16T06:17:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50152970",
-    "title": "Maybe There Was an Egg Cartel After All",
-    "url": "https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411",
-    "source": "hackernews",
-    "score": 129.0,
-    "published_at": "2026-10-19T14:31:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50151928",
-    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-    "url": "https://100toolkit.com/blog/deslop-model/",
-    "source": "hackernews",
-    "score": 123.0,
-    "published_at": "2026-10-19T13:00:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50124811",
-    "title": "Gdynia and the Dream of a Maritime Poland",
-    "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
-    "source": "hackernews",
-    "score": 95.0,
-    "published_at": "2026-10-16T21:13:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50136126",
-    "title": "RuneScape Bench: MMOs for Agents [video]",
-    "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-17T23:24:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50150935",
-    "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
-    "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-10-19T11:12:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50152321",
-    "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
-    "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-19T13:36:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50131749",
-    "title": "A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-10-17T15:02:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50152541",
-    "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-    "url": "https://github.com/kividbio/kividb",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-10-19T13:53:52+00:00",
     "summary": "",
     "key_points": []
   }
