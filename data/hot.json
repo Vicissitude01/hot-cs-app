@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:ydmw6s",
+    "title": "The Hibernate Origin Story (Outsider Edition)",
+    "url": "https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-22T23:21:32.645-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nb7wkp",
+    "title": "The Many Many Missed Opportunities of Sonic 06",
+    "url": "https://isaacmarovitz.com/posts/sonic-06/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-22T23:30:10.674-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mucay8",
+    "title": "Please don't mess with links",
+    "url": "https://maurycyz.com/misc/real_links/",
+    "source": "lobsters",
+    "score": 17.0,
+    "published_at": "2026-10-22T19:37:10.703-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kcyzco",
+    "title": "UUIDv7 doesn't have the properties you think it does",
+    "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-22T20:22:17.339-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250949",
+    "title": "公司接不起官方 deepseek 转头跟腾讯合作， tps 直接腰斩简直谋财害命",
+    "url": "https://www.v2ex.com/t/1250949",
+    "source": "v2ex",
+    "score": 106.0,
+    "published_at": "2026-10-22T07:10:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251110",
+    "title": "1024 节日快乐",
+    "url": "https://www.v2ex.com/t/1251110",
+    "source": "v2ex",
+    "score": 110.0,
+    "published_at": "2026-10-23T00:46:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251200",
+    "title": "上午刚给自己项目开源，下午就收到 hr 裁员，卧槽了，我还没发育完呢",
+    "url": "https://www.v2ex.com/t/1251200",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-10-23T03:16:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250909",
+    "title": "逆向了小丑牌为网页游戏",
+    "url": "https://www.v2ex.com/t/1250909",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-10-22T05:29:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251139",
+    "title": "老实回答，你们硬要用 Claude 的人是不是有 M 倾向？",
+    "url": "https://www.v2ex.com/t/1251139",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-10-23T01:42:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251151",
+    "title": "如果，我是说如果，谈婚论嫁时，女方父母提出让男方婚后工资给女方管理，怎么破局。",
+    "url": "https://www.v2ex.com/t/1251151",
+    "source": "v2ex",
+    "score": 120.0,
+    "published_at": "2026-10-23T02:11:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251119",
+    "title": "大家会记得很久之前发生的事情吗？",
+    "url": "https://www.v2ex.com/t/1251119",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-10-23T01:14:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251126",
+    "title": "V 友们，胡姓，帮忙取一个好听的名字",
+    "url": "https://www.v2ex.com/t/1251126",
+    "source": "v2ex",
+    "score": 250.0,
+    "published_at": "2026-10-23T01:22:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699351034398621732",
+    "title": "红利窗口开着，程序员别在场边囤课",
+    "url": "https://juejin.cn/post/7699351034398621732",
+    "source": "juejin",
+    "score": 1.03506238,
+    "published_at": "2026-10-22T14:33:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698923838285316130",
+    "title": "我抽查了 6 万个 Skills：前排没几个真货",
+    "url": "https://juejin.cn/post/7698923838285316130",
+    "source": "juejin",
+    "score": 0.21035234,
+    "published_at": "2026-10-21T11:03:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699307186593300507",
+    "title": "双十一，我为什么想买一台编码显示器",
+    "url": "https://juejin.cn/post/7699307186593300507",
+    "source": "juejin",
+    "score": 0.65581673,
+    "published_at": "2026-10-22T08:15:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698345359642542131",
+    "title": "封装fetch替换axios",
+    "url": "https://juejin.cn/post/7698345359642542131",
+    "source": "juejin",
+    "score": 0.16281169,
+    "published_at": "2026-10-20T01:33:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699320318288494630",
+    "title": "微信运动每天晚上 10 点推送排行榜，技术上到底有多难？",
+    "url": "https://juejin.cn/post/7699320318288494630",
+    "source": "juejin",
+    "score": 0.89842621,
+    "published_at": "2026-10-22T08:42:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50203759",
+    "title": "This I Believe",
+    "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-23T02:19:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50203161",
+    "title": "The foolishness of \"natural language programming\" (1978)",
+    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+    "source": "hackernews",
+    "score": 79.0,
+    "published_at": "2026-10-23T00:52:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50202671",
+    "title": "AI compute is the new oil–and needs a new market",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-10-22T23:45:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50166272",
+    "title": "Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It",
+    "url": "https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-20T13:40:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50202762",
+    "title": "Jank – The native Clojure dialect with seamless C++ interop",
+    "url": "https://jank-lang.org/",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-10-22T23:56:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50204125",
+    "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
+    "url": "https://news.ycombinator.com/item?id=50204125",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-23T03:20:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50162431",
+    "title": "The Secret Life of Circuits is now in stock everywhere",
+    "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-10-20T07:15:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50173516",
+    "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-10-20T22:24:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50202681",
+    "title": "Docker is weird",
+    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "source": "hackernews",
+    "score": 267.0,
+    "published_at": "2026-10-22T23:45:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:05xrj8",
     "title": "We have Traits at Home",
     "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
@@ -4736,266 +4996,6 @@
     "source": "v2ex",
     "score": 94.0,
     "published_at": "2026-10-19T00:57:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249850",
-    "title": "NSFW/姿势出图 skill",
-    "url": "https://www.v2ex.com/t/1249850",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-10-18T23:05:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249882",
-    "title": "发现大家对拖欠工资这件事接受度很高",
-    "url": "https://www.v2ex.com/t/1249882",
-    "source": "v2ex",
-    "score": 136.0,
-    "published_at": "2026-10-19T01:54:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249874",
-    "title": "最近对女方家庭和重男轻女的观念有所变化，其实有女方有哥哥/弟弟挺好的",
-    "url": "https://www.v2ex.com/t/1249874",
-    "source": "v2ex",
-    "score": 160.0,
-    "published_at": "2026-10-19T01:32:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696908590871511075",
-    "title": "从零手搓 RAG 之文档解析技术",
-    "url": "https://juejin.cn/post/7696908590871511075",
-    "source": "juejin",
-    "score": 0.10132051,
-    "published_at": "2026-10-16T06:01:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697104677602803739",
-    "title": "Claude Code 桌面端魔改多 Agent：从日耗 6 美元到账单失控的实测复盘",
-    "url": "https://juejin.cn/post/7697104677602803739",
-    "source": "juejin",
-    "score": 0.10134112,
-    "published_at": "2026-10-16T08:53:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697474838380265482",
-    "title": "Vue3 动态表单支持弹框组件",
-    "url": "https://juejin.cn/post/7697474838380265482",
-    "source": "juejin",
-    "score": 0.21906985,
-    "published_at": "2026-10-18T05:36:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697056782357037099",
-    "title": "亲测有效！免费 Google AI Pro 用户用上 Gemini 4 Argon",
-    "url": "https://juejin.cn/post/7697056782357037099",
-    "source": "juejin",
-    "score": 0.10614945,
-    "published_at": "2026-10-16T09:34:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7696835478806331392",
-    "title": "27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议",
-    "url": "https://juejin.cn/post/7696835478806331392",
-    "source": "juejin",
-    "score": 0.09742797,
-    "published_at": "2026-10-16T07:47:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697418750073929762",
-    "title": "从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）",
-    "url": "https://juejin.cn/post/7697418750073929762",
-    "source": "juejin",
-    "score": 0.47558868,
-    "published_at": "2026-10-18T05:58:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50107843",
-    "title": "Lombok Is Still Relevant in the Age of Java Records",
-    "url": "https://swaranga.dev/posts/on-lombok/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-15T18:15:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50147455",
-    "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
-    "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-10-19T01:55:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50146966",
-    "title": "Sanity's Edge – A voice BBS from 1994",
-    "url": "https://sanitys-edge.shouden.us",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-19T00:30:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50145507",
-    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-    "source": "hackernews",
-    "score": 88.0,
-    "published_at": "2026-10-18T21:09:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50125551",
-    "title": "The DNS Museum",
-    "url": "https://dns.museum",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-16T22:21:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50111537",
-    "title": "Laptop Based on 6502 CPU",
-    "url": "https://www.maddox.pro/?p=448",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-10-15T22:56:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50146624",
-    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-    "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-10-18T23:37:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50148452",
-    "title": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
-    "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-19T04:41:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50147492",
-    "title": "Superlite: A Faster Alternatie to Superpowers",
-    "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-10-19T02:01:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50148396",
-    "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-    "url": "https://github.com/strot-ai/Project-STROT",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-19T04:32:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1s3dve",
-    "title": "Superoptimizing an FPU emulator",
-    "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-18T18:51:14.119-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ilul4v",
-    "title": "August in Servo: CSS Grid, text selection, and more",
-    "url": "https://servo.org/blog/2026/10/09/august-in-servo/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-18T18:05:13.839-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249814",
-    "title": "找个喜欢自己的还是自己喜欢的人",
-    "url": "https://www.v2ex.com/t/1249814",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-10-18T13:58:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50146286",
-    "title": "How RC2's π table was made",
-    "url": "https://khalidhamadeh.com/writing/rc2-pi-table",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-18T22:48:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50140383",
-    "title": "A new way to think about borrow checking (in reverse)",
-    "url": "https://verdagon.dev/blog/reverse-borrow-checking",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-18T12:11:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50123123",
-    "title": "\"Traditional, but Puzzling\"",
-    "url": "https://unsung.aresluna.org/traditional-but-puzzling/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-16T19:17:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50145715",
-    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "url": "https://github.com/finereli/whatsapp-mcp",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-18T21:36:10+00:00",
     "summary": "",
     "key_points": []
   }
