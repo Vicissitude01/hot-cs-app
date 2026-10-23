@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:y3xp76",
+    "title": "Color Names",
+    "url": "https://names.color.pizza/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-23T05:19:44.522-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:crqz1g",
+    "title": "What are you doing this weekend?",
+    "url": "https://lobste.rs/s/crqz1g",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-23T03:43:10.855-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gajtrm",
+    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
+    "url": "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-23T02:44:09.224-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251173",
+    "title": "远程收入 如何优雅的避税",
+    "url": "https://www.v2ex.com/t/1251173",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-10-23T02:32:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251190",
+    "title": "忍辱负重还是勇敢跳槽",
+    "url": "https://www.v2ex.com/t/1251190",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-10-23T03:03:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251142",
+    "title": "京东提供的 4 年只换不修你们会买吗",
+    "url": "https://www.v2ex.com/t/1251142",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-10-23T01:47:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251212",
+    "title": "求助，刚结婚一百多天，老婆生气不见我怎么办",
+    "url": "https://www.v2ex.com/t/1251212",
+    "source": "v2ex",
+    "score": 146.0,
+    "published_at": "2026-10-23T03:37:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251143",
+    "title": "国外的天空是否很清澈",
+    "url": "https://www.v2ex.com/t/1251143",
+    "source": "v2ex",
+    "score": 232.0,
+    "published_at": "2026-10-23T01:49:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699414277584797734",
+    "title": "Flutter 官方表示：AI 时代代码越来越容易写，为什么还要一套代码库？",
+    "url": "https://juejin.cn/post/7699414277584797734",
+    "source": "juejin",
+    "score": 2.05430411,
+    "published_at": "2026-10-23T00:40:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699487378045730852",
+    "title": "副业搞钱之代办永不过时",
+    "url": "https://juejin.cn/post/7699487378045730852",
+    "source": "juejin",
+    "score": 4.15020545,
+    "published_at": "2026-10-23T03:52:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50201842",
+    "title": "Rule 30: one black cell",
+    "url": "https://www.wolframcollatzmahler.com/rule30/index.html",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-22T22:16:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50168850",
+    "title": "Color Names",
+    "url": "https://names.color.pizza",
+    "source": "hackernews",
+    "score": 77.0,
+    "published_at": "2026-10-20T16:27:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50200997",
+    "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+    "url": "https://news.ycombinator.com/item?id=50200997",
+    "source": "hackernews",
+    "score": 168.0,
+    "published_at": "2026-10-22T21:03:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50167744",
+    "title": "Hand-bent after 3D printing, Oberdoerfer and Krebs' Bend chair",
+    "url": "https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-20T15:20:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50180799",
+    "title": "I reverse engineered a board game",
+    "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-21T13:40:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50204926",
+    "title": "I Did This Without Your Knowledge",
+    "url": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-23T05:51:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50192396",
+    "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
+    "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-10-22T07:41:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50202865",
+    "title": "Show HN: Making a smart TV dumb and then smart",
+    "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-23T00:10:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50195488",
+    "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+    "url": "https://github.com/dsmurrell/onkey",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-10-22T14:04:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50200164",
+    "title": "The HTML-in-Canvas API origin trial",
+    "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-10-22T19:54:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50195002",
+    "title": "The alien space of science: Coherent but cognitively unavailable directions",
+    "url": "https://arxiv.org/abs/2603.01092",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-10-22T13:25:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50206586",
+    "title": "France needs to read my paper",
+    "url": "https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-23T09:54:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50201445",
+    "title": "How does Fable 5.1 hide messages in images?",
+    "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+    "source": "hackernews",
+    "score": 93.0,
+    "published_at": "2026-10-22T21:41:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50202285",
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "url": "https://edjefferson.com/localwiki/",
+    "source": "hackernews",
+    "score": 412.0,
+    "published_at": "2026-10-22T23:01:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ydmw6s",
     "title": "The Hibernate Origin Story (Outsider Edition)",
     "url": "https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story",
@@ -4756,246 +4996,6 @@
     "source": "juejin",
     "score": 2.39456588,
     "published_at": "2026-10-19T02:55:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697873433355304970",
-    "title": "AI 帮我写的小程序「厨菜记」上线满月了，挣了两百块！！！",
-    "url": "https://juejin.cn/post/7697873433355304970",
-    "source": "juejin",
-    "score": 2.489379,
-    "published_at": "2026-10-19T03:09:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698176323931979839",
-    "title": "玩了一天 REA，我号快没了",
-    "url": "https://juejin.cn/post/7698176323931979839",
-    "source": "juejin",
-    "score": 7.22644712,
-    "published_at": "2026-10-19T08:04:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:shiyu-coder/Kronos",
-    "title": "Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:withmarbleapp/os-taxonomy",
-    "title": "os-taxonomy",
-    "url": "https://github.com/withmarbleapp/os-taxonomy",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:headroomlabs-ai/headroom",
-    "title": "headroom",
-    "url": "https://github.com/headroomlabs-ai/headroom",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50108297",
-    "title": "How Postgres DELETE can actually scale",
-    "url": "https://www.dbos.dev/blog/scaling-deletions-in-postgres",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-15T18:42:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50109546",
-    "title": "Lant – The Forgotten Resource",
-    "url": "https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-15T20:09:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50112204",
-    "title": "HOL Light Tutorial",
-    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-16T00:33:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50148855",
-    "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-    "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-19T05:55:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50131315",
-    "title": "Rabbits were a medieval royal luxury in England until the Black Death",
-    "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
-    "source": "hackernews",
-    "score": 93.0,
-    "published_at": "2026-10-17T14:07:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50104874",
-    "title": "How to Train Your Robot",
-    "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-10-15T15:13:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50149392",
-    "title": "Linux 7.3 Released",
-    "url": "https://lwn.net/Articles/1101143/",
-    "source": "hackernews",
-    "score": 240.0,
-    "published_at": "2026-10-19T07:23:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mhy9id",
-    "title": "Efficient Extraction for Effectful E-graphs",
-    "url": "https://ztatlock.net/pubs/2026-oopsla-eggcc/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-18T23:15:33.215-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dc2efo",
-    "title": "Dynamic Packages",
-    "url": "https://www.getlazarus.org/dynamic/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-18T19:36:22.074-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nuepys",
-    "title": "What requirements don't you have?",
-    "url": "https://www.seangoedecke.com/what-requirements-dont-you-have/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-18T21:59:07.957-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jdjtqt",
-    "title": "A response to claims about flatpak being insecure",
-    "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-18T23:02:34.464-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bt7ehs",
-    "title": "Why is GitOps so good?",
-    "url": "https://thorsell.io/2026/10/16/gitops.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-18T23:19:27.400-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ogp1wf",
-    "title": "Inline rendering with document.currentScript",
-    "url": "https://leanrada.com/notes/inline-rendering-currentscript/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-18T20:02:55.682-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:w6xosj",
-    "title": "What the heck is /pkg?",
-    "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-18T22:26:51.597-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:h0eate",
-    "title": "Updates to site guidelines and AI/LLM tags",
-    "url": "https://lobste.rs/s/h0eate",
-    "source": "lobsters",
-    "score": 82.0,
-    "published_at": "2026-10-18T20:28:53.196-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249905",
-    "title": "大家的 giffgaff 还能用吗",
-    "url": "https://www.v2ex.com/t/1249905",
-    "source": "v2ex",
-    "score": 62.0,
-    "published_at": "2026-10-19T02:21:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249855",
-    "title": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-    "url": "https://www.v2ex.com/t/1249855",
-    "source": "v2ex",
-    "score": 64.0,
-    "published_at": "2026-10-19T00:07:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249891",
-    "title": "[送激活码] 我做了一个跟随 Finder 窗口的路径工具 FinderNav，送 80 个激活码",
-    "url": "https://www.v2ex.com/t/1249891",
-    "source": "v2ex",
-    "score": 86.0,
-    "published_at": "2026-10-19T02:07:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249864",
-    "title": "突然发现逛小吃摊比想象中贵，所以我做了一个逛夜市模拟器，看看大家金钱的数字敏感度有多高",
-    "url": "https://www.v2ex.com/t/1249864",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-10-19T00:57:58+00:00",
     "summary": "",
     "key_points": []
   }
