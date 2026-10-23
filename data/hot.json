@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:pvfzhq",
+    "title": "Memory is slow, Disk is fast",
+    "url": "https://www.bitflux.ai/blog/memory-is-slow-part3/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-23T15:44:07.681-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qc1ahp",
+    "title": "Distributed data, centralized fixes",
+    "url": "https://miren.dev/blog/distributed-data-centralized-fixes",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-23T14:50:52.213-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5xzuff",
+    "title": "Attention people who think UB is fine",
+    "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-23T15:47:58.255-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6utrvz",
+    "title": "Incremental Computation Graphs",
+    "url": "https://dziban.net/posts/incremental-computation-graph/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-23T16:35:45.952-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50213791",
+    "title": "DNS: A Replacement for Finger",
+    "url": "https://altchan.org/sh/42",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-23T19:00:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50214447",
+    "title": "Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left",
+    "url": "https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-10-23T19:53:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50177554",
+    "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
+    "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-21T08:17:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50214983",
+    "title": "A whirlwind tour of systemd-nspawn containers",
+    "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-23T20:37:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50214416",
+    "title": "OpenAI: Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-10-23T19:50:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50214325",
+    "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+    "url": "https://rune.build/blog/rune-1-3-release",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-23T19:42:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50214994",
+    "title": "No Source Code? No Problem",
+    "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-23T20:38:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50214218",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "source": "hackernews",
+    "score": 149.0,
+    "published_at": "2026-10-23T19:34:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50214323",
+    "title": "We are all living inside of an obscure sci-fi film from 1970",
+    "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-10-23T19:41:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50215530",
+    "title": "CVE Tracker",
+    "url": "https://cve.0xosprey.com/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-23T21:21:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50213925",
+    "title": "Dessa: the most authentic full-duplex speech model ever built",
+    "url": "https://block.xyz/dessa",
+    "source": "hackernews",
+    "score": 136.0,
+    "published_at": "2026-10-23T19:09:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:d1snfg",
     "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
     "url": "https://arxiv.org/abs/2610.14162",
@@ -4846,156 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50151376",
-    "title": "The obscure trust looming over Anthropic's IPO",
-    "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
-    "source": "hackernews",
-    "score": 121.0,
-    "published_at": "2026-10-19T12:06:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50154518",
-    "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
-    "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
-    "source": "hackernews",
-    "score": 380.0,
-    "published_at": "2026-10-19T16:37:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50146417",
-    "title": "Integer to String Conversion (2014)",
-    "url": "https://tia.mat.br/posts/2014/06/23/integer_to_string_conversion.html",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-18T23:08:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50147760",
-    "title": "The Annotated VT100 Firmware (2022)",
-    "url": "https://vt100.net/dec/vt100/rom/",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-10-19T02:40:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50115703",
-    "title": "Coconuts in Medieval Britain (2015)",
-    "url": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-16T08:28:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50152976",
-    "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
-    "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-19T14:31:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50121834",
-    "title": "Credit where credit is due",
-    "url": "https://thefloatingcontinent.com/blog/credit-is-due/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-16T17:53:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50147462",
-    "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
-    "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
-    "source": "hackernews",
-    "score": 78.0,
-    "published_at": "2026-10-19T01:56:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50151036",
-    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-    "url": "https://news.ycombinator.com/item?id=50151036",
-    "source": "hackernews",
-    "score": 165.0,
-    "published_at": "2026-10-19T11:24:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50147233",
-    "title": "Starcraft: Ashfall",
-    "url": "https://starcraft-shooter-2026.pages.dev/",
-    "source": "hackernews",
-    "score": 217.0,
-    "published_at": "2026-10-19T01:18:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50158131",
-    "title": "Diablo 2 Survivors",
-    "url": "https://d2survivors.lol/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-19T21:10:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50134359",
-    "title": "The fire retardant in the seafood chain",
-    "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-10-17T19:37:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50154624",
-    "title": "Android apps running native on macOS",
-    "url": "https://github.com/kksimp/Mac.apk",
-    "source": "hackernews",
-    "score": 206.0,
-    "published_at": "2026-10-19T16:45:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50158138",
-    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-    "url": "https://bsd.network/@brynet/117407035545900963",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-10-19T21:11:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50156206",
-    "title": "The reverts will continue until morale improves",
-    "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-    "source": "hackernews",
-    "score": 138.0,
-    "published_at": "2026-10-19T18:42:32+00:00",
     "summary": "",
     "key_points": []
   }
