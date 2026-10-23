@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:05xrj8",
+    "title": "We have Traits at Home",
+    "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-22T16:52:10.094-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jgull9",
+    "title": "a hacky fucked up way to portably access errno from outside of c",
+    "url": "https://sebsite.pw/w/20260925-errno.html",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-22T16:42:04.534-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1250812",
+    "title": "说说现在你都有哪些 PTSD",
+    "url": "https://www.v2ex.com/t/1250812",
+    "source": "v2ex",
+    "score": 126.0,
+    "published_at": "2026-10-22T01:28:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50201860",
+    "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+    "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-22T22:18:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50194762",
+    "title": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
+    "url": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-22T13:03:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50150681",
+    "title": "Speeding up code review with `small-change`",
+    "url": "https://lethain.com/small-changes/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-19T10:35:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50166604",
+    "title": "How to Design Flowers",
+    "url": "https://www.asimov.press/p/flowers",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-20T14:00:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50201414",
+    "title": "Railpass",
+    "url": "https://train.samismith.com/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-22T21:38:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50201259",
+    "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+    "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+    "source": "hackernews",
+    "score": 221.0,
+    "published_at": "2026-10-22T21:24:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50202766",
+    "title": "Mapping the Northern Sky",
+    "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-22T23:56:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50202217",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-22T22:54:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nmurnh",
     "title": "What is your opinion on submission quality since the `vibecoding` tag was removed?",
     "url": "https://lobste.rs/s/nmurnh",
@@ -4886,116 +4996,6 @@
     "source": "hackernews",
     "score": 28.0,
     "published_at": "2026-10-18T21:36:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50146625",
-    "title": "William Gibson and the Trademarking of Cyberspace",
-    "url": "https://colo.to/cyberspace.html",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-18T23:37:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jp6tfb",
-    "title": "Real-time Software On Linux: How Hard Can It Be?",
-    "url": "https://www.youtube.com/watch?v=-0D0rFdU6HY",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-18T14:45:33.766-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zytoux",
-    "title": "How Discover-Tech turned targeted ads into a pipeline for zero-click spywares",
-    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-18T15:55:02.818-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50145295",
-    "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
-    "url": "https://github.com/Netflix/vmaf",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-18T20:43:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50141436",
-    "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
-    "url": "https://ranet3.com/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-18T14:31:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50131053",
-    "title": "Developing for Debugging (2025)",
-    "url": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-17T13:34:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50122058",
-    "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
-    "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-10-16T18:07:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50098148",
-    "title": "16-bit fully functional DIY magnetic core memory",
-    "url": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-15T01:51:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50136979",
-    "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-    "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-10-18T01:38:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50135762",
-    "title": "I built a programming language that LLMs can't use",
-    "url": "https://blog.picheta.me/post/killswitch-lang/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-10-17T22:26:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50136150",
-    "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-    "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-10-17T23:26:35+00:00",
     "summary": "",
     "key_points": []
   }
