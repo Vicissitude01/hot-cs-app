@@ -1,5 +1,285 @@
 [
   {
+    "id": "lobsters:hmtqfl",
+    "title": "An Incremental Approach to JIT Construction",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3830440.3832304",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-23T21:10:41.765-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zug8xv",
+    "title": "Indian government sites are serving revoked eMudhra certificates",
+    "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-23T23:06:06.412-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251357",
+    "title": "做了个 Vibe Coding 展示站，天天更新却没人投稿",
+    "url": "https://www.v2ex.com/t/1251357",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-10-23T13:06:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251315",
+    "title": "为了不被优化，现在应该学点啥",
+    "url": "https://www.v2ex.com/t/1251315",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-10-23T08:42:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251407",
+    "title": "来了一个到处搬运帖子起号的用户：@cjkcjkcjk",
+    "url": "https://www.v2ex.com/t/1251407",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-10-23T21:43:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251316",
+    "title": "大龄后端程序员出路讨论",
+    "url": "https://www.v2ex.com/t/1251316",
+    "source": "v2ex",
+    "score": 70.0,
+    "published_at": "2026-10-23T08:44:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251287",
+    "title": "大家在为下一次失业做准备吗",
+    "url": "https://www.v2ex.com/t/1251287",
+    "source": "v2ex",
+    "score": 74.0,
+    "published_at": "2026-10-23T07:37:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251410",
+    "title": "别说开发了, 这把运维真给干没了把",
+    "url": "https://www.v2ex.com/t/1251410",
+    "source": "v2ex",
+    "score": 76.0,
+    "published_at": "2026-10-24T01:27:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251263",
+    "title": "不是我说，成都这地方当码农简直是灾难级别，成都的程序员真能顶啊？",
+    "url": "https://www.v2ex.com/t/1251263",
+    "source": "v2ex",
+    "score": 78.0,
+    "published_at": "2026-10-23T06:49:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251402",
+    "title": "为什么很多人都把 DeepSeek 神化了，看不起国内豆包和其它 LLM？",
+    "url": "https://www.v2ex.com/t/1251402",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-10-23T18:57:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251299",
+    "title": "做了个 Mac 小工具，在屏幕边上看 Codex / Claude Code 还剩多少额度",
+    "url": "https://www.v2ex.com/t/1251299",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-10-23T08:02:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698920849558552602",
+    "title": "代码越来越便宜，为什么系统却越来越难升级？",
+    "url": "https://juejin.cn/post/7698920849558552602",
+    "source": "juejin",
+    "score": 0.14374969,
+    "published_at": "2026-10-21T06:53:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699079109012897792",
+    "title": "1024程序员节：AI时代，为什么我们依然需要程序员",
+    "url": "https://juejin.cn/post/7699079109012897792",
+    "source": "juejin",
+    "score": 0.20115658,
+    "published_at": "2026-10-22T05:43:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699372774716997642",
+    "title": "用 TRAE 把 Markdown文档 搬到微信公众号",
+    "url": "https://juejin.cn/post/7699372774716997642",
+    "source": "juejin",
+    "score": 0.31472182,
+    "published_at": "2026-10-23T01:48:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699017769225928744",
+    "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
+    "url": "https://juejin.cn/post/7699017769225928744",
+    "source": "juejin",
+    "score": 0.20520783,
+    "published_at": "2026-10-22T02:18:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698947426488959016",
+    "title": "牛一越界，大屏 3 秒飞到它身边：我用真实卫星数据 + Three.js 做了个 3D 智慧牧场",
+    "url": "https://juejin.cn/post/7698947426488959016",
+    "source": "juejin",
+    "score": 0.22164942,
+    "published_at": "2026-10-21T09:20:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50218141",
+    "title": "CowAgent – Open-Source Super AI Assistant",
+    "url": "https://cowagent.ai/en/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-24T03:32:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50217683",
+    "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-10-24T01:53:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50217946",
+    "title": "How Block Blast harvests its players for ad money",
+    "url": "https://ayoships.com/breakdowns/block-blast",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-24T02:43:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50182510",
+    "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+    "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-21T15:19:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50176544",
+    "title": "C vs. C#: racing VLC's Gaussian blur",
+    "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-10-21T05:48:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50218430",
+    "title": "OBS Studio 33",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-24T04:49:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50175732",
+    "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
+    "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-21T03:30:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50215828",
+    "title": "One Man's Pan Am 747 Replica [video]",
+    "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-23T21:46:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50193677",
+    "title": "The Quake Fan who built the map editor everybody uses",
+    "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-10-22T10:55:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50171379",
+    "title": "A practical guide to AI image generation, from diffusion to agents",
+    "url": "https://danielball.com/notes/ai_image_generation.html",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-20T19:22:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50218195",
+    "title": "How close can pure functional programming get to C?",
+    "url": "https://rtfeldman.com/fp-vs-c",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-10-24T03:43:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50217500",
+    "title": "Twelve years of distributed SQLite",
+    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+    "source": "hackernews",
+    "score": 122.0,
+    "published_at": "2026-10-24T01:16:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1251258",
     "title": "去了趟既熟悉又陌生的台湾",
     "url": "https://www.v2ex.com/t/1251258",
@@ -4716,286 +4996,6 @@
     "source": "v2ex",
     "score": 124.0,
     "published_at": "2026-10-20T00:27:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250150",
-    "title": "老婆又要生孩子了",
-    "url": "https://www.v2ex.com/t/1250150",
-    "source": "v2ex",
-    "score": 124.0,
-    "published_at": "2026-10-19T16:15:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250173",
-    "title": "开个银河买纳指或者红利低波 ETF 比较稳健，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。",
-    "url": "https://www.v2ex.com/t/1250173",
-    "source": "v2ex",
-    "score": 132.0,
-    "published_at": "2026-10-20T00:46:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250179",
-    "title": "本地机器能跑 DeepSeek v4.1flash 或者 Qwen3.8 得多少钱？",
-    "url": "https://www.v2ex.com/t/1250179",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-10-20T01:05:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250033",
-    "title": "想买电车了求推荐",
-    "url": "https://www.v2ex.com/t/1250033",
-    "source": "v2ex",
-    "score": 148.0,
-    "published_at": "2026-10-19T07:16:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250081",
-    "title": "未来体制内的退休金会降低吗？",
-    "url": "https://www.v2ex.com/t/1250081",
-    "source": "v2ex",
-    "score": 164.0,
-    "published_at": "2026-10-19T09:32:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698268211587022874",
-    "title": "为什么我在团队里禁止使用 axios？",
-    "url": "https://juejin.cn/post/7698268211587022874",
-    "source": "juejin",
-    "score": 6.43118522,
-    "published_at": "2026-10-20T01:44:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50138000",
-    "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
-    "url": "http://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-18T04:48:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50160135",
-    "title": "Developing Taste",
-    "url": "https://emilkowal.ski/ui/developing-taste",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-20T01:12:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50135177",
-    "title": "Porting video games to VHS",
-    "url": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-10-17T21:12:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50134809",
-    "title": "How Do Fungi Keep the Planet Healthy?",
-    "url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-17T20:27:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50158942",
-    "title": "An ad-free Android TV",
-    "url": "https://cretezy.com/2026/ad-free-android-tv",
-    "source": "hackernews",
-    "score": 132.0,
-    "published_at": "2026-10-19T22:32:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50154244",
-    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-    "source": "hackernews",
-    "score": 138.0,
-    "published_at": "2026-10-19T16:16:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50160877",
-    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-    "url": "https://github.com/golang/go/issues/82345",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-10-20T03:05:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50161408",
-    "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-    "url": "https://deathplanswitch.com/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-10-20T04:37:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50159341",
-    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-    "source": "hackernews",
-    "score": 246.0,
-    "published_at": "2026-10-19T23:22:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50141581",
-    "title": "Nordwand Mono – A monospace font for coders and adventurers",
-    "url": "https://github.com/tywr/Nordwand-Mono",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-18T14:48:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50160494",
-    "title": "OpenBSD 8.0",
-    "url": "https://www.openbsd.org/80.html",
-    "source": "hackernews",
-    "score": 173.0,
-    "published_at": "2026-10-20T02:06:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zfqg1b",
-    "title": "It's still OK to enjoy programming",
-    "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-19T12:19:45.742-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dpjkzz",
-    "title": "Do web components have a future if nobody is writing them?",
-    "url": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-19T19:41:18.925-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nne5uh",
-    "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
-    "url": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-19T15:10:46.398-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250044",
-    "title": "感觉自己的人生好失败",
-    "url": "https://www.v2ex.com/t/1250044",
-    "source": "v2ex",
-    "score": 114.0,
-    "published_at": "2026-10-19T07:43:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1249995",
-    "title": "也分享下我起起伏伏伏伏伏的 2026 年吧",
-    "url": "https://www.v2ex.com/t/1249995",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-10-19T05:47:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50158408",
-    "title": "Drupal is now light-years ahead of its reputation",
-    "url": "https://dri.es/state-of-drupal-presentation-september-2026",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-19T21:38:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50153225",
-    "title": "Agentic Monitoring",
-    "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-10-19T14:52:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50137754",
-    "title": "The ovary doesn't retire after menopause",
-    "url": "https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-18T03:48:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50156744",
-    "title": "The End of Rationing",
-    "url": "https://sanketsaurav.com/writing/end-of-rationing",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-19T19:19:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50159245",
-    "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
-    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-19T23:08:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50153664",
-    "title": "Ukraine claims first drone evacuation of wounded soldier",
-    "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-    "source": "hackernews",
-    "score": 96.0,
-    "published_at": "2026-10-19T15:31:34+00:00",
     "summary": "",
     "key_points": []
   }
