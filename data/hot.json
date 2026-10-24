@@ -1,5 +1,115 @@
 [
   {
+    "id": "lobsters:rlrfew",
+    "title": "Balloting has completed for C++26. Unfortunately it was Disapproved/",
+    "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-24T13:00:36.212-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251445",
+    "title": "现在新号订阅是不是必被 KYC",
+    "url": "https://www.v2ex.com/t/1251445",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-10-24T03:51:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50224074",
+    "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+    "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-10-24T19:03:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50223647",
+    "title": "Why is AI generated language so hard to understand?",
+    "url": "https://arxiv.org/abs/2610.29162",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-10-24T18:04:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50189981",
+    "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
+    "url": "https://sourceforge.net/projects/zac-os-9/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-22T01:28:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50223844",
+    "title": "Danish Government silently drops plan to dump MS Office",
+    "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+    "source": "hackernews",
+    "score": 111.0,
+    "published_at": "2026-10-24T18:31:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50223785",
+    "title": "Dream-1",
+    "url": "https://dreamlabs.ai/research/dream-1/",
+    "source": "hackernews",
+    "score": 93.0,
+    "published_at": "2026-10-24T18:23:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50224422",
+    "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+    "url": "https://missileer.watch",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-24T19:43:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50224100",
+    "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-10-24T19:06:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50224300",
+    "title": "The Goose Programming Language",
+    "url": "https://aardappel.github.io/goose/",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-10-24T19:27:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50224463",
+    "title": "No Signs of AI Payoff Outside the Tech Sector",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "source": "hackernews",
+    "score": 136.0,
+    "published_at": "2026-10-24T19:47:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ysah7i",
     "title": "2026 Ruby on Rails Community Survey Results",
     "url": "https://railsdeveloper.com/survey/2026",
@@ -4886,116 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-10-20T12:16:06.102-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mngelc",
-    "title": "Making a VGA Driver in SystemVerilog",
-    "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-20T10:58:18.278-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7d1swo",
-    "title": "NixOS is making me less afraid",
-    "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-    "source": "lobsters",
-    "score": 18.0,
-    "published_at": "2026-10-20T08:44:53.025-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:42zgmq",
-    "title": "Jepsen: Orkes Conductor 5.3.2",
-    "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-    "source": "lobsters",
-    "score": 21.0,
-    "published_at": "2026-10-20T08:14:54.849-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gqyvn5",
-    "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-    "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-    "source": "lobsters",
-    "score": 56.0,
-    "published_at": "2026-10-20T08:00:50.760-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250295",
-    "title": "我和老婆，因为女儿练字“吵”了一架",
-    "url": "https://www.v2ex.com/t/1250295",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-10-20T06:20:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698239626868310067",
-    "title": "Dart 3.15 新特性：this 终于支持类型提升了",
-    "url": "https://juejin.cn/post/7698239626868310067",
-    "source": "juejin",
-    "score": 0.75606561,
-    "published_at": "2026-10-20T00:42:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:MadsLorentzen/ai-job-search",
-    "title": "ai-job-search",
-    "url": "https://github.com/MadsLorentzen/ai-job-search",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50167560",
-    "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
-    "url": "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-20T15:07:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50153229",
-    "title": "One Manhattan power room took down FAA air traffic control in 1991",
-    "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-10-19T14:52:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50168190",
-    "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-    "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-10-20T15:48:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50139123",
-    "title": "UI-Te-Rangiora",
-    "url": "https://en.wikipedia.org/wiki/Ui-te-Rangiora",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-18T08:29:38+00:00",
     "summary": "",
     "key_points": []
   }
