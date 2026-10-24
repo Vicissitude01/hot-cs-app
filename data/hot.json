@@ -1,5 +1,135 @@
 [
   {
+    "id": "lobsters:ysah7i",
+    "title": "2026 Ruby on Rails Community Survey Results",
+    "url": "https://railsdeveloper.com/survey/2026",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-24T11:50:50.078-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gzpdsk",
+    "title": "The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages",
+    "url": "https://emptysqua.re/blog/polyglots-dilemma/",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-10-24T11:59:53.935-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dfieqa",
+    "title": "Bringing uv and ty together",
+    "url": "https://astral.sh/blog/uv-ty-integration",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-10-24T10:27:34.811-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251551",
+    "title": "特斯拉到底有什么魔力, 销量这么高的毛坯房",
+    "url": "https://www.v2ex.com/t/1251551",
+    "source": "v2ex",
+    "score": 72.0,
+    "published_at": "2026-10-24T13:10:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50222283",
+    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-24T15:35:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50180251",
+    "title": "Tiling Noise – Procedural GPU Patterns",
+    "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-10-21T13:04:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50195535",
+    "title": "Parsing EDIFACT in Python with syntax trees",
+    "url": "https://github.com/AmadeusITGroup/Edison",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-22T14:07:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50171936",
+    "title": "Symbolic Learning in Python and Julia",
+    "url": "https://github.com/astroautomata/PySR",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-20T20:07:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50179920",
+    "title": "Cecilia Berdichevsky, Clementina expert (1961)",
+    "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-21T12:40:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50222525",
+    "title": "Neural chip decodes interactions between brain regions",
+    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-24T15:57:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50222133",
+    "title": "FreeDNS",
+    "url": "https://freedns.afraid.org/",
+    "source": "hackernews",
+    "score": 147.0,
+    "published_at": "2026-10-24T15:20:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50222927",
+    "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+    "url": "https://de.numista.com/9866",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-24T16:41:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50222622",
+    "title": "Roku developer repositories moved from GitHub to GitLab",
+    "url": "https://blog.roku.com/developer/gitlab-move",
+    "source": "hackernews",
+    "score": 113.0,
+    "published_at": "2026-10-24T16:06:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:vh8l3t",
     "title": "What's wrong with AI?",
     "url": "https://homepage.farm/ai.html",
@@ -4866,136 +4996,6 @@
     "source": "hackernews",
     "score": 17.0,
     "published_at": "2026-10-18T08:29:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50167536",
-    "title": "Facebook Pages require paid subscription to post more than two links per month",
-    "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-    "source": "hackernews",
-    "score": 304.0,
-    "published_at": "2026-10-20T15:06:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50168096",
-    "title": "IKEA – 3D Guide",
-    "url": "https://sael.net/flatpack/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-20T15:42:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50167604",
-    "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-    "url": "https://github.com/AbdullahAlhariri/penmentor",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-20T15:10:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50169336",
-    "title": "Go Conventions That Clicked Too Late for an AI Engineer",
-    "url": "https://towardsdev.com/10-go-conventions-that-clicked-too-late-for-an-ai-engineer-78319f2d538f?sk=5858de12ec208931b984d8f55436a7a2",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-20T16:59:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50164991",
-    "title": "Hazel (YC W24) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-10-20T12:00:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50167028",
-    "title": "Ofcom Concedes Defeat in the 4chan Case",
-    "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-    "source": "hackernews",
-    "score": 117.0,
-    "published_at": "2026-10-20T14:30:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50167583",
-    "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-    "url": "https://news.ycombinator.com/item?id=50167583",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-20T15:09:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50167617",
-    "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-    "url": "https://jevcards.com",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-20T15:11:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50165953",
-    "title": "Tsrs: A Port of TypeScript to Rust",
-    "url": "https://blog.cloudflare.com/typescript-rust-port/",
-    "source": "hackernews",
-    "score": 164.0,
-    "published_at": "2026-10-20T13:18:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50138490",
-    "title": "JAXA is about to perform a Phobos sample return mission",
-    "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-18T06:40:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50166794",
-    "title": "My Friend Bob Cringely",
-    "url": "https://tyma.com/my-cringe-story/",
-    "source": "hackernews",
-    "score": 88.0,
-    "published_at": "2026-10-20T14:13:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50131997",
-    "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
-    "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-10-17T15:33:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50166502",
-    "title": "2026 is an exciting year for the Rust compiler (and me)",
-    "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-    "source": "hackernews",
-    "score": 79.0,
-    "published_at": "2026-10-20T13:53:48+00:00",
     "summary": "",
     "key_points": []
   }
