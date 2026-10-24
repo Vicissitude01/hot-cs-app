@@ -1,5 +1,95 @@
 [
   {
+    "id": "v2ex:1251258",
+    "title": "去了趟既熟悉又陌生的台湾",
+    "url": "https://www.v2ex.com/t/1251258",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-10-23T06:40:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251184",
+    "title": "DeepSeek 融资 1000 亿人民币",
+    "url": "https://www.v2ex.com/t/1251184",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-10-23T02:49:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699047775224725530",
+    "title": "多进程环境下使用 PM2 部署 Socket.IO：需要注意什么",
+    "url": "https://juejin.cn/post/7699047775224725530",
+    "source": "juejin",
+    "score": 0.16083078,
+    "published_at": "2026-10-21T10:45:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699375396186488851",
+    "title": "你的WorkBuddy不好用，大概率是这些设置没设好",
+    "url": "https://juejin.cn/post/7699375396186488851",
+    "source": "juejin",
+    "score": 0.57296588,
+    "published_at": "2026-10-23T00:11:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50216142",
+    "title": "German court calls Google aerial imagery 'spying'",
+    "url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-23T22:18:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50168075",
+    "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+    "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-20T15:41:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50172962",
+    "title": "Bringing uv and ty together",
+    "url": "https://astral.sh/blog/uv-ty-integration",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-20T21:30:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50214373",
+    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+    "url": "https://corgi.computer/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-23T19:46:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50216791",
+    "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+    "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-10-23T23:30:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:pvfzhq",
     "title": "Memory is slow, Disk is fast",
     "url": "https://www.bitflux.ai/blog/memory-is-slow-part3/",
@@ -4906,96 +4996,6 @@
     "source": "hackernews",
     "score": 96.0,
     "published_at": "2026-10-19T15:31:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50159464",
-    "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
-    "url": "https://openrouter.ai/rankings",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-19T23:40:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50140584",
-    "title": "Weball: Play Katamari on Websites",
-    "url": "https://www.funwithcomputervision.com/weball/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-10-18T12:39:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50157865",
-    "title": "One Hash Bloom Filters",
-    "url": "https://calabro.io/ohbf",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-10-19T20:50:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50159616",
-    "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
-    "url": "https://ipinfo.io/blog/france-fridges-hack",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-20T00:00:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mpdk1e",
-    "title": "Finding a home amidst the wreckage",
-    "url": "https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/",
-    "source": "lobsters",
-    "score": 15.0,
-    "published_at": "2026-10-19T11:30:36.531-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:c2ouz0",
-    "title": "2026 is an exciting year for the Rust compiler (and me)",
-    "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-19T12:52:41.834-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:b36ixw",
-    "title": "In Context",
-    "url": "https://www.youtube.com/watch?v=P5eO7BNyJao",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-19T13:25:48.327-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697615256115363882",
-    "title": "如何低成本部署网站？Vercel 和 Cloudflare 怎么选？",
-    "url": "https://juejin.cn/post/7697615256115363882",
-    "source": "juejin",
-    "score": 0.53826205,
-    "published_at": "2026-10-19T02:21:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ruvnet/ruflo",
-    "title": "ruflo",
-    "url": "https://github.com/ruvnet/ruflo",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
