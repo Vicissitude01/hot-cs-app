@@ -1,5 +1,145 @@
 [
   {
+    "id": "lobsters:vh8l3t",
+    "title": "What's wrong with AI?",
+    "url": "https://homepage.farm/ai.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-24T07:09:40.853-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qzfohf",
+    "title": "How to run a city builder on 16 MHz",
+    "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-24T09:18:48.714-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hs0vef",
+    "title": "Enabling Researchers is a Moral Imperative",
+    "url": "https://yorba.co/internet-less/enabling-researchers-is-a-moral-imperative",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-24T08:51:14.395-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251423",
+    "title": "有没有人知道这是什么面试套路",
+    "url": "https://www.v2ex.com/t/1251423",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-24T02:26:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251411",
+    "title": "智友社回馈 V 站新老客户，抽送第 11 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6",
+    "url": "https://www.v2ex.com/t/1251411",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-10-24T01:33:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699025957739397163",
+    "title": "前端转Agent开发 | JavaScript 从 0 到 1 完全指南",
+    "url": "https://juejin.cn/post/7699025957739397163",
+    "source": "juejin",
+    "score": 0.13936151,
+    "published_at": "2026-10-22T02:13:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699123334672089107",
+    "title": "我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一",
+    "url": "https://juejin.cn/post/7699123334672089107",
+    "source": "juejin",
+    "score": 0.15722795,
+    "published_at": "2026-10-22T05:06:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cloudflare/security-audit-skill",
+    "title": "security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50220042",
+    "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+    "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-24T10:51:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50220913",
+    "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+    "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+    "source": "hackernews",
+    "score": 245.0,
+    "published_at": "2026-10-24T13:09:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50219700",
+    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-24T09:58:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50181106",
+    "title": "Appreciating the beauty of all your body's scars and scratches",
+    "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-10-21T14:00:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50192975",
+    "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+    "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-22T09:01:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50221179",
+    "title": "One Must Fall 2097 Remastered",
+    "url": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-10-24T13:47:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:al3yyf",
     "title": "This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli",
     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
@@ -4856,146 +4996,6 @@
     "source": "hackernews",
     "score": 79.0,
     "published_at": "2026-10-20T13:53:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50169053",
-    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-    "url": "https://github.com/google-pytorch/torch_tpu",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-20T16:40:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50165801",
-    "title": "Publish fake stats, get cited in LLMs",
-    "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-    "source": "hackernews",
-    "score": 193.0,
-    "published_at": "2026-10-20T13:06:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50166257",
-    "title": "How I got over 300 Tor exit nodes removed",
-    "url": "https://kaba.cx/posts/20261020_Tor/",
-    "source": "hackernews",
-    "score": 161.0,
-    "published_at": "2026-10-20T13:39:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50165208",
-    "title": "Apple broke an essential presentation feature of iPads",
-    "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-    "source": "hackernews",
-    "score": 294.0,
-    "published_at": "2026-10-20T12:17:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50166579",
-    "title": "EMudhra Intermediate CA Compromise",
-    "url": "https://emudhra.we-have-a-problem.com/",
-    "source": "hackernews",
-    "score": 215.0,
-    "published_at": "2026-10-20T13:58:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50168396",
-    "title": "Voxtral 3",
-    "url": "https://mistral.ai/news/voxtral-3/",
-    "source": "hackernews",
-    "score": 123.0,
-    "published_at": "2026-10-20T16:02:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fonp7g",
-    "title": "Intermediary between public and private members",
-    "url": "https://lobste.rs/s/fonp7g",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-19T17:53:54.341-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mhwdcj",
-    "title": "Sumi.css -  classless-first CSS framework",
-    "url": "https://vladocar.github.io/Sumi.css/docs.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-20T05:45:47.366-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qflytl",
-    "title": "The Annotated VT100 Firmware (2022)",
-    "url": "https://vt100.net/dec/vt100/rom/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-20T04:12:23.208-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:d7m5j1",
-    "title": "Setting up SSH keys on macOS with Touch ID",
-    "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-20T05:23:58.813-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250306",
-    "title": "是去海外还是留国内",
-    "url": "https://www.v2ex.com/t/1250306",
-    "source": "v2ex",
-    "score": 126.0,
-    "published_at": "2026-10-20T06:37:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250171",
-    "title": "搓了一个看东南亚频道的站",
-    "url": "https://www.v2ex.com/t/1250171",
-    "source": "v2ex",
-    "score": 132.0,
-    "published_at": "2026-10-20T00:34:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250231",
-    "title": "卖房咨询，有卖房朋友经验的朋友来聊聊",
-    "url": "https://www.v2ex.com/t/1250231",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-10-20T02:45:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250316",
-    "title": "招行信用卡是真➗啊",
-    "url": "https://www.v2ex.com/t/1250316",
-    "source": "v2ex",
-    "score": 160.0,
-    "published_at": "2026-10-20T07:00:30+00:00",
     "summary": "",
     "key_points": []
   }
