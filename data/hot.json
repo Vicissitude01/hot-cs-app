@@ -1,5 +1,275 @@
 [
   {
+    "id": "lobsters:y26mhi",
+    "title": "Nim vs Rust: Language is a Matter of 'Coherence', Not 'Performance'",
+    "url": "https://wintrover.github.io/#/post/nim-vs-rust-language-is-a-matter-of-coherence-not-performance",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-25T00:00:38.575-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9h4q6u",
+    "title": "Decompiling Fast Food Tycoon 2",
+    "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-25T01:40:39.660-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:k3dymf",
+    "title": "Michal Wallace on Narrative Programming: Why Learn J when LLMs Code?",
+    "url": "https://alexalejandre.com/interviews/michal-wallace/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-25T00:04:57.770-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251479",
+    "title": "香港做地铁公交可以用支付宝微信吗",
+    "url": "https://www.v2ex.com/t/1251479",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-10-24T06:56:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251557",
+    "title": "claude 支持中国了？",
+    "url": "https://www.v2ex.com/t/1251557",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-24T13:50:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251598",
+    "title": "Bing 中国大陆搜索是否存在对部分国外网站的刻意降权或隐藏？",
+    "url": "https://www.v2ex.com/t/1251598",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-25T01:48:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251496",
+    "title": "一个中年离职程序员的碎碎念&求职一份 AI 相关的工作",
+    "url": "https://www.v2ex.com/t/1251496",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-10-24T08:45:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251519",
+    "title": "为什么突然出现那么多类 ARC 浏览器",
+    "url": "https://www.v2ex.com/t/1251519",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-10-24T09:57:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251530",
+    "title": "大家现在上班每天早餐消费多少钱？",
+    "url": "https://www.v2ex.com/t/1251530",
+    "source": "v2ex",
+    "score": 50.0,
+    "published_at": "2026-10-24T11:00:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251500",
+    "title": "之前加入等候名单的 MUSE，现在开通了",
+    "url": "https://www.v2ex.com/t/1251500",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-10-24T08:56:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699654593328840745",
+    "title": "Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案",
+    "url": "https://juejin.cn/post/7699654593328840745",
+    "source": "juejin",
+    "score": 0.17684481,
+    "published_at": "2026-10-23T11:53:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699681127507869750",
+    "title": "架构师最危险的能力：用正确的技术，做出错误的架构决策",
+    "url": "https://juejin.cn/post/7699681127507869750",
+    "source": "juejin",
+    "score": 0.08969688,
+    "published_at": "2026-10-23T07:54:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699738861139689526",
+    "title": "花了3个月，我们做了一款 AI 版的“飞书文档”",
+    "url": "https://juejin.cn/post/7699738861139689526",
+    "source": "juejin",
+    "score": 0.22370298,
+    "published_at": "2026-10-23T15:08:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699368463357788211",
+    "title": "CSS 复现 23 种设计风格：从拟物到液态玻璃的成本阶梯与兜底写法【实战】",
+    "url": "https://juejin.cn/post/7699368463357788211",
+    "source": "juejin",
+    "score": 0.10720325,
+    "published_at": "2026-10-22T12:59:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699399582179704847",
+    "title": "AI coding 时代最值钱的东西，软件工程（下）",
+    "url": "https://juejin.cn/post/7699399582179704847",
+    "source": "juejin",
+    "score": 0.17845118,
+    "published_at": "2026-10-23T03:38:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699445731564978191",
+    "title": "10000 个中国版 Codex 在路上：桌面 Agent 争夺执行入口，一篇理清",
+    "url": "https://juejin.cn/post/7699445731564978191",
+    "source": "juejin",
+    "score": 0.18055231,
+    "published_at": "2026-10-23T04:27:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699673660089729064",
+    "title": "AI说代码没漏洞？马上被 PHP 打脸了",
+    "url": "https://juejin.cn/post/7699673660089729064",
+    "source": "juejin",
+    "score": 0.19637781,
+    "published_at": "2026-10-23T12:58:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699307133640884267",
+    "title": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局",
+    "url": "https://juejin.cn/post/7699307133640884267",
+    "source": "juejin",
+    "score": 0.13390271,
+    "published_at": "2026-10-22T08:40:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7700059276316246067",
+    "title": " Kimi K3.1 Pro已测，国模终于来一个能打的 ！？",
+    "url": "https://juejin.cn/post/7700059276316246067",
+    "source": "juejin",
+    "score": 0.59260999,
+    "published_at": "2026-10-24T14:24:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50198954",
+    "title": "Monoidal computer I: Basic computability by string diagrams (2012)",
+    "url": "https://arxiv.org/abs/1208.5205",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-22T18:03:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50227639",
+    "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+    "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+    "source": "hackernews",
+    "score": 132.0,
+    "published_at": "2026-10-25T02:18:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50186289",
+    "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+    "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-21T19:30:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50176674",
+    "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+    "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-21T06:09:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50194935",
+    "title": "In Rainbows",
+    "url": "https://hitogata.neocities.org/Rainbows",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-22T13:20:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50193612",
+    "title": "Picasa Photo Viewer Rebuilt for Linux, Project Named Licasa",
+    "url": "https://github.com/sanxchep/licasa",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-22T10:44:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50227356",
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "source": "hackernews",
+    "score": 91.0,
+    "published_at": "2026-10-25T01:33:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50228167",
+    "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+    "url": "https://github.com/slee-persis/GVS5H",
+    "source": "hackernews",
+    "score": 129.0,
+    "published_at": "2026-10-25T03:56:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:whgofc",
     "title": "SIMD and Go",
     "url": "https://internals-for-interns.com/posts/go-simd/",
@@ -4726,276 +4996,6 @@
     "source": "hackernews",
     "score": 3.0,
     "published_at": "2026-10-21T09:08:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50149861",
-    "title": "The Decoherence Trap",
-    "url": "https://maevyn.codes/decoherence",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-19T08:35:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:h71ji8",
-    "title": "awesome-console-services: curated list of services reachable via HTTP",
-    "url": "https://github.com/chubin/awesome-console-services",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-20T22:20:34.766-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:x7codz",
-    "title": "Unauthorized Access to PingCAP Cloud Resources",
-    "url": "https://www.pingcap.com/trust-hub/security/security-update-october-2026/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-20T19:44:49.237-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:73ozwc",
-    "title": "Lobsters NYC Meetup on the 28th of October",
-    "url": "https://lobste.rs/s/73ozwc",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-20T20:01:13.638-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250533",
-    "title": "前端想学后端，但是看完这段代码就已经力竭了",
-    "url": "https://www.v2ex.com/t/1250533",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-10-21T02:40:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250482",
-    "title": "感叹 Codex 的过度设计。",
-    "url": "https://www.v2ex.com/t/1250482",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-10-21T00:29:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250396",
-    "title": "针对 Claude 封号，写了套软件 + 部署方法，想只卖给企业用户，不知道会不会有市场？",
-    "url": "https://www.v2ex.com/t/1250396",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-10-20T10:25:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250420",
-    "title": "想购买 iPad mini 8, 有人打醒我吗？",
-    "url": "https://www.v2ex.com/t/1250420",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-10-20T12:43:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250477",
-    "title": "[图一乐] 给大家看看我的 Claude 账号到底有多硬",
-    "url": "https://www.v2ex.com/t/1250477",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-10-21T00:16:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250524",
-    "title": "前端这个行业真要完了",
-    "url": "https://www.v2ex.com/t/1250524",
-    "source": "v2ex",
-    "score": 138.0,
-    "published_at": "2026-10-21T02:23:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250313",
-    "title": "[中转站] gpt0.16 倍率不降智进来领鸡蛋",
-    "url": "https://www.v2ex.com/t/1250313",
-    "source": "v2ex",
-    "score": 148.0,
-    "published_at": "2026-10-20T06:53:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697500325121998848",
-    "title": "一个 Java 后端的 AI Agent 落地全景：工具 · RAG · MCP · 评测 · 护栏 · 可观测（全可复现数字）",
-    "url": "https://juejin.cn/post/7697500325121998848",
-    "source": "juejin",
-    "score": 0.11416587,
-    "published_at": "2026-10-18T08:35:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:wshobson/agents",
-    "title": "agents",
-    "url": "https://github.com/wshobson/agents",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50143154",
-    "title": "What the heck is /pkg?",
-    "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-10-18T17:21:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50175057",
-    "title": "Learning to live with Waymos",
-    "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-10-21T01:44:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50174687",
-    "title": "Muse exposes users' personal and business secrets when they share conversations",
-    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-21T00:45:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50169955",
-    "title": "Advanced coding in low-resource programming languages",
-    "url": "https://openai.com/index/low-resource-programming-languages/",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-10-20T17:43:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50173716",
-    "title": "PingCap TiDB Leaks",
-    "url": "https://fulcrumsec.vg/pingcap/",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-10-20T22:45:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50147799",
-    "title": "ZX Spectrum Next Laptop",
-    "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-19T02:48:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50151771",
-    "title": "Borrow Checking Zero-Cost Cyclic Mutability",
-    "url": "https://antelang.org/blog/safe_cyclic_mutability/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-19T12:47:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50143360",
-    "title": "To Make, or to Buy: The Economics of Decision Models",
-    "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-18T17:40:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50172041",
-    "title": "Upcoming critical PHP security release",
-    "url": "https://news-web.php.net/php.announce/509",
-    "source": "hackernews",
-    "score": 218.0,
-    "published_at": "2026-10-20T20:15:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50175059",
-    "title": "Good type against all odds",
-    "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-21T01:45:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50175185",
-    "title": "In Hilbert space, all things are quantumly possible",
-    "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-21T02:04:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50175070",
-    "title": "The Future of CSS",
-    "url": "https://www.joshwcomeau.com/css/interop-2027/",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-10-21T01:47:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:72bkyt",
-    "title": "Declarative WASM GC Types",
-    "url": "https://blog.veritates.love/decl-wasm-types",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-20T13:17:42.666-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uplhpf",
-    "title": "leanin: A Tokio-inspired concurrency library for Lean 4, with machine-checked proofs",
-    "url": "https://github.com/scidonia/leanin/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-20T18:04:37.658-05:00",
     "summary": "",
     "key_points": []
   }
