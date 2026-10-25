@@ -1,5 +1,245 @@
 [
   {
+    "id": "v2ex:1251636",
+    "title": "有没有发现一个奇怪的现象？",
+    "url": "https://www.v2ex.com/t/1251636",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-25T06:57:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251621",
+    "title": "codex 最新的功能，居然和我之前做的小功能如此雷同",
+    "url": "https://www.v2ex.com/t/1251621",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-25T04:23:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251601",
+    "title": "搓了一个“V2EX 评论上下文”的 chrome 插件，方便 V 友阅读评论",
+    "url": "https://www.v2ex.com/t/1251601",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-10-25T01:59:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251609",
+    "title": "有什么工具可以测试鼠标的微动是否有问题",
+    "url": "https://www.v2ex.com/t/1251609",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-10-25T02:59:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251616",
+    "title": "[Day 20] - 10.25 - Tibo 又要重置了",
+    "url": "https://www.v2ex.com/t/1251616",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-10-25T03:44:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699351034399801380",
+    "title": "AI 对一位老开发的副作用总结",
+    "url": "https://juejin.cn/post/7699351034399801380",
+    "source": "juejin",
+    "score": 0.115783,
+    "published_at": "2026-10-23T01:58:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7700050834004426790",
+    "title": "GitHub 今日推荐｜gpu-unlock-ada：Ada 显卡张量算力翻倍解锁",
+    "url": "https://juejin.cn/post/7700050834004426790",
+    "source": "juejin",
+    "score": 0.89352959,
+    "published_at": "2026-10-25T02:06:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699321083548696616",
+    "title": "用AI做了一款微信小游戏，却发现上传不了",
+    "url": "https://juejin.cn/post/7699321083548696616",
+    "source": "juejin",
+    "score": 0.10918983,
+    "published_at": "2026-10-23T00:55:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699411361327415339",
+    "title": "微信小程序做 PDA 扫码出入库：库存并发控制与 4 个坑",
+    "url": "https://juejin.cn/post/7699411361327415339",
+    "source": "juejin",
+    "score": 0.11113589,
+    "published_at": "2026-10-23T01:22:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:AgriciDaniel/claude-seo",
+    "title": "claude-seo",
+    "url": "https://github.com/AgriciDaniel/claude-seo",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:coollabsio/coolify",
+    "title": "coolify",
+    "url": "https://github.com/coollabsio/coolify",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:JetBrains/thinkrail",
+    "title": "thinkrail",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:TauricResearch/TradingAgents",
+    "title": "TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:debpalash/VoiceStudio",
+    "title": "VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50229861",
+    "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+    "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+    "source": "hackernews",
+    "score": 91.0,
+    "published_at": "2026-10-25T09:56:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50229599",
+    "title": "Online censorship is crushing indie webcomics",
+    "url": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-10-25T09:04:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50197434",
+    "title": "Reverse engineer of PC-98 Touhou games retires",
+    "url": "https://rec98.nmlgc.net/blog/2026-10-05",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-22T16:16:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50169939",
+    "title": "XPS 16 Creator Edition Laptop",
+    "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps16dx16263",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-20T17:42:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50229827",
+    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+    "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-25T09:51:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50194645",
+    "title": "Rewriting a Commercial Engine in Jai",
+    "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-22T12:50:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50193936",
+    "title": "How Japanese Dried Bonito Is Made",
+    "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-10-22T11:31:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50230181",
+    "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+    "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-10-25T10:42:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50230384",
+    "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+    "url": "https://github.com/ihhub/fheroes2",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-25T11:09:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50229587",
+    "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+    "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+    "source": "hackernews",
+    "score": 282.0,
+    "published_at": "2026-10-25T09:00:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:y26mhi",
     "title": "Nim vs Rust: Language is a Matter of 'Coherence', Not 'Performance'",
     "url": "https://wintrover.github.io/#/post/nim-vs-rust-language-is-a-matter-of-coherence-not-performance",
@@ -4756,246 +4996,6 @@
     "source": "hackernews",
     "score": 69.0,
     "published_at": "2026-10-21T13:17:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50181136",
-    "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
-    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-10-21T14:01:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50180836",
-    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "url": "https://www.wiz.io/blog/php2shell-php-rce",
-    "source": "hackernews",
-    "score": 170.0,
-    "published_at": "2026-10-21T13:43:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50180873",
-    "title": "PHP 8.2.35",
-    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-    "source": "hackernews",
-    "score": 342.0,
-    "published_at": "2026-10-21T13:45:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ydbql4",
-    "title": "Announcing the GPU notification group and Linker Working Area",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/10/20/gpu-target-notification-group/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-21T02:27:17.103-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:50whrl",
-    "title": "ConcurrentML: Improving on Go's concurrency model",
-    "url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-21T02:38:00.105-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:othohc",
-    "title": "Firefox security patch tests are now private for at least a week",
-    "url": "https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-21T02:13:16.777-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tsfina",
-    "title": "Vector Graphics in Lil",
-    "url": "https://beyondloom.com/blog/vectorgraphics.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-21T02:33:04.463-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mfserj",
-    "title": "Unikernels in OCaml",
-    "url": "https://uniker.nl/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-21T02:51:20.811-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vidyh0",
-    "title": "The Future of CSS",
-    "url": "https://www.joshwcomeau.com/css/interop-2027/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-21T01:16:50.204-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250414",
-    "title": "重生之我做了个浏览器 Agent，以为能火，结果 github 只有 50 star",
-    "url": "https://www.v2ex.com/t/1250414",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-10-20T12:06:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250467",
-    "title": "我发现很多人都迷之自信的认为， AI 不会取代自己的能力。",
-    "url": "https://www.v2ex.com/t/1250467",
-    "source": "v2ex",
-    "score": 156.0,
-    "published_at": "2026-10-20T16:38:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250493",
-    "title": "给自建 Umami 写了原生 iOS / Android 客户端 SiteGlance：纯端侧直连、支持桌面小组件，单次买断（附兑换码）",
-    "url": "https://www.v2ex.com/t/1250493",
-    "source": "v2ex",
-    "score": 166.0,
-    "published_at": "2026-10-21T01:22:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250519",
-    "title": "有骑电瓶车通勤的吗，有啥必买的配件推荐一下呗。",
-    "url": "https://www.v2ex.com/t/1250519",
-    "source": "v2ex",
-    "score": 188.0,
-    "published_at": "2026-10-21T02:17:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698254253442793507",
-    "title": "我数了 647 条大厂前端 JD：AI 不再只是加分项",
-    "url": "https://juejin.cn/post/7698254253442793507",
-    "source": "juejin",
-    "score": 0.36647579,
-    "published_at": "2026-10-20T02:31:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698382188488048649",
-    "title": "手机到底有没有偷听我们？我抓包了 72 小时，抓到了真凶",
-    "url": "https://juejin.cn/post/7698382188488048649",
-    "source": "juejin",
-    "score": 0.68203871,
-    "published_at": "2026-10-20T03:00:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50176301",
-    "title": "Pillowfort Is Closing",
-    "url": "https://www.pillowfort.social/posts/8413273",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-10-21T05:05:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50176298",
-    "title": "Battlezone Online: BZFlag in the Browser",
-    "url": "https://github.com/timriker/bzo",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-21T05:05:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50175882",
-    "title": "Setting Up SSH Keys on macOS with Touch ID",
-    "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-10-21T03:51:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50151447",
-    "title": "Bonanza of new dates rewrites the history of the Inca",
-    "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-19T12:13:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50175510",
-    "title": "C# now beats Rust on WASM size",
-    "url": "https://github.com/zion-sati/NetWasm",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-10-21T02:53:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50165215",
-    "title": "Four Years with Decker",
-    "url": "https://beyondloom.com/blog/fouryearsdecker.html",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-10-20T12:18:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50148845",
-    "title": "Composite objects and C++26 the std:polymorphic type",
-    "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-10-19T05:54:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50175779",
-    "title": "Using Claude to reduce the attack surface of code",
-    "url": "https://www.anthropic.com/research/attack-surface-reduction",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-10-21T03:36:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50177916",
-    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-    "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-21T09:08:08+00:00",
     "summary": "",
     "key_points": []
   }
