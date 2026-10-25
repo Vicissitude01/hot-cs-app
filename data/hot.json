@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:1q1rc1",
+    "title": "Reverse-Engineering Instruction Encodings (2001)",
+    "url": "https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-25T16:58:42.634-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ekwolo",
+    "title": "Building Java ME Apps with Modern Tooling",
+    "url": "https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-25T16:33:19.325-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dkoryq",
+    "title": "The Goose Programming Language",
+    "url": "https://aardappel.github.io/goose/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-25T15:10:47.275-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50235639",
+    "title": "Focused Company Operating Principles",
+    "url": "https://focused.io/operating-principles",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-25T20:16:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50235217",
+    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+    "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+    "source": "hackernews",
+    "score": 110.0,
+    "published_at": "2026-10-25T19:29:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50236102",
+    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "url": "https://minimaxir.com/2026/10/cheap-llms/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-25T21:11:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50234879",
+    "title": "Where the Romans Fought (interactive map)",
+    "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-25T18:58:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50235780",
+    "title": "The State of Context Engineering",
+    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-25T20:32:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50196623",
+    "title": "The U.S. Power Grid",
+    "url": "https://nomagicpill.site/knowledge/powergrid.html",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-22T15:20:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50235316",
+    "title": "Eunice is almost here",
+    "url": "https://armincat.com/articles/eunice-is-almost-here",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-10-25T19:40:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50236081",
+    "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+    "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-10-25T21:08:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50197108",
+    "title": "Overgrown, when plants invade your abandoned tabs",
+    "url": "https://charliegerard.dev/blog/overgrown-extension/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-22T15:52:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50235010",
+    "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+    "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-25T19:10:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50235738",
+    "title": "What goes into making an animated film?",
+    "url": "https://www.disneyanimation.com/process/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-25T20:27:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50235017",
+    "title": "Why I Am a Programmer",
+    "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-10-25T19:11:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:mug4of",
     "title": "Every Clojure Talk Ever",
     "url": "https://www.youtube.com/watch?v=jlPaby7suOc",
@@ -4846,156 +4996,6 @@
     "source": "lobsters",
     "score": 8.0,
     "published_at": "2026-10-21T10:53:37.372-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dldfel",
-    "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
-    "url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-21T12:40:17.687-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hty1qk",
-    "title": "zls 0.17.0",
-    "url": "https://zigtools.org/zls/releases/0.17.0/",
-    "source": "lobsters",
-    "score": 26.0,
-    "published_at": "2026-10-21T10:24:05.938-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:w9sxxq",
-    "title": "Firefox Local Mode",
-    "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
-    "source": "lobsters",
-    "score": 30.0,
-    "published_at": "2026-10-21T10:47:59.191-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250656",
-    "title": "最近准备换车，旧车想送给妹妹开，怕老婆不同意，该怎么处理？",
-    "url": "https://www.v2ex.com/t/1250656",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-10-21T07:36:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697873433355403274",
-    "title": "给 23 万字修仙小说造个阅读站：浏览器内打包 EPUB 分页阅读 + 三主题实战",
-    "url": "https://juejin.cn/post/7697873433355403274",
-    "source": "juejin",
-    "score": 0.14047068,
-    "published_at": "2026-10-19T03:15:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:akitaonrails/ai-memory",
-    "title": "ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:stablyai/orca",
-    "title": "orca",
-    "url": "https://github.com/stablyai/orca",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50182960",
-    "title": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
-    "url": "https://buford.bg/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-21T15:46:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50155099",
-    "title": "Show HN: ULDA – Client-side encryption with a simple JavaScript API",
-    "url": "https://demo.ulda.io/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-19T17:16:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50185403",
-    "title": "Corporate Linux",
-    "url": "https://lpar.ATH0.com/posts/2026/10/corporate-linux/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-21T18:27:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50142296",
-    "title": "Trials and Tribulations of Native Lua Compilation",
-    "url": "https://samyeyo.github.io/clx/blog.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-18T16:06:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50184820",
-    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-10-21T17:45:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50176908",
-    "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-    "url": "https://alterauth.com/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-21T06:42:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50183280",
-    "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
-    "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-21T16:05:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50185438",
-    "title": "Anthropic's Public Benefit Charter",
-    "url": "https://www.anthropic.com/public-benefit-charter",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-21T18:29:54+00:00",
     "summary": "",
     "key_points": []
   }
