@@ -1,5 +1,145 @@
 [
   {
+    "id": "lobsters:whgofc",
+    "title": "SIMD and Go",
+    "url": "https://internals-for-interns.com/posts/go-simd/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-24T18:11:40.472-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jqjioq",
+    "title": "Scrawl: show an agent the problem",
+    "url": "https://scrawl.kitlangton.com/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-24T18:38:21.847-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7byfjv",
+    "title": "MacOS Extensions pack for the Apple Network Server v1.0",
+    "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-24T20:22:45.850-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8h9sey",
+    "title": "We should be more ambitious with the software we build",
+    "url": "https://danluu.com/ambitious/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-24T18:06:08.743-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251555",
+    "title": "微信会监控私聊记录吗？",
+    "url": "https://www.v2ex.com/t/1251555",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-10-24T13:26:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699025083108655138",
+    "title": "为什么越来越多人用Eino？",
+    "url": "https://juejin.cn/post/7699025083108655138",
+    "source": "juejin",
+    "score": 0.1251607,
+    "published_at": "2026-10-22T01:52:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7698949568277757994",
+    "title": "【Compose Multiplatform跨端声明式UI实用技术】第9课：跨平台 ViewModel 与状态架构",
+    "url": "https://juejin.cn/post/7698949568277757994",
+    "source": "juejin",
+    "score": 0.11159201,
+    "published_at": "2026-10-21T22:48:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50226646",
+    "title": "FindMyWeb: Apple Find My, reverse enginiered",
+    "url": "https://codeberg.org/Misom/FindMyWeb",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-24T23:42:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50226434",
+    "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
+    "url": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-10-24T23:14:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50169450",
+    "title": "Social dynamics of toxic metal industry in medieval Europe",
+    "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-20T17:06:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50188440",
+    "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+    "url": "https://xingjianbai.com/reactive-optimizers/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-21T22:17:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50172432",
+    "title": "I Built a Stereo Vision Board for Hardware Hackers",
+    "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-10-20T20:45:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50226577",
+    "title": "Why Gopher in 2026?",
+    "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-24T23:33:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50226419",
+    "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "source": "hackernews",
+    "score": 127.0,
+    "published_at": "2026-10-24T23:11:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9b14at",
     "title": "An animated explainer of the PHP2Shell vulnerability",
     "url": "https://www.youtube.com/watch?v=6Kz4bWKoXhU",
@@ -4856,146 +4996,6 @@
     "source": "lobsters",
     "score": 1.0,
     "published_at": "2026-10-20T18:04:37.658-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ekxoyt",
-    "title": "Upcoming Critical PHP Security Release",
-    "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-10-20T17:23:54.452-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50152886",
-    "title": "Meta's GB{2,3}00 Cluster",
-    "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-10-19T14:23:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50169506",
-    "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-    "url": "https://research.poh.org/bot-benchmarking-2026/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-20T17:10:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50139728",
-    "title": "Making Solar Panels with a Microwave [video]",
-    "url": "https://www.youtube.com/watch?v=zcWkApGjyGM",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-18T10:25:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50173891",
-    "title": "The Other Epidemic: Trying to get off benzodiazepines",
-    "url": "https://www.thebeliever.net/the-other-epidemic/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-20T23:04:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50170917",
-    "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-    "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-10-20T18:51:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50173487",
-    "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-    "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-10-20T22:21:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nhiewb",
-    "title": "EDG is open source",
-    "url": "https://edgcpp.org/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-20T15:33:19.926-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9u6gm0",
-    "title": "Why do we need ud2 when int 6 is right there?",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-20T15:43:00.615-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:staj2z",
-    "title": "Genera for the Initiated: Inside Symbolics Lisp Machines",
-    "url": "https://www.youtube.com/watch?v=W2fGKjFoaOg",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-20T13:16:48.235-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0jsjaz",
-    "title": "Sign language to text",
-    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-20T15:15:05.961-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nryxzd",
-    "title": "Do minor curl vulnerabilities in the open",
-    "url": "https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-20T14:47:54.578-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dlbufy",
-    "title": "Mastodon 5.0: A closer look",
-    "url": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-10-20T12:33:54.484-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9h14un",
-    "title": "How I got over 300 Tor exit nodes removed",
-    "url": "https://kaba.cx/posts/20261020_Tor/",
-    "source": "lobsters",
-    "score": 17.0,
-    "published_at": "2026-10-20T13:44:42.872-05:00",
     "summary": "",
     "key_points": []
   }
