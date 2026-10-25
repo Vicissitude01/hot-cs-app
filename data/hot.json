@@ -1,5 +1,215 @@
 [
   {
+    "id": "lobsters:qsmmke",
+    "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+    "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-25T09:57:20.484-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jdczl6",
+    "title": "A vision for a next-generation timeline",
+    "url": "https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-25T10:03:10.879-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5ullyu",
+    "title": "When a glibc update accidentally breaks Chromium's audio (2021)",
+    "url": "https://refi64.dev/posts/chromium-audio-break.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-25T10:34:21.618-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kiivg2",
+    "title": "Partial Order Precedence",
+    "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-25T09:18:21.661-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cxwpil",
+    "title": "Vim Classic",
+    "url": "https://vim-classic.org/",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-10-25T10:05:45.735-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tbbiqb",
+    "title": "POSIX wordexp(3) is dangerous",
+    "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-10-25T10:09:29.815-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zfoiw1",
+    "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
+    "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+    "source": "lobsters",
+    "score": 37.0,
+    "published_at": "2026-10-25T08:43:11.758-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251624",
+    "title": "微信是怎么屏蔽 codex 的",
+    "url": "https://www.v2ex.com/t/1251624",
+    "source": "v2ex",
+    "score": 32.0,
+    "published_at": "2026-10-25T04:55:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251592",
+    "title": "用 ai 实现书法作品自动生成",
+    "url": "https://www.v2ex.com/t/1251592",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-10-25T00:41:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251671",
+    "title": "有没有感觉 Codex 越来越比不上 Claude 了",
+    "url": "https://www.v2ex.com/t/1251671",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-10-25T10:40:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699398620680814643",
+    "title": "Codex、Claude Code、DSH 怎么用手机管？我试了试 Agents Anywhere",
+    "url": "https://juejin.cn/post/7699398620680814643",
+    "source": "juejin",
+    "score": 0.11280404,
+    "published_at": "2026-10-23T05:56:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699680016263905318",
+    "title": "JDK 21 规模化落地实践",
+    "url": "https://juejin.cn/post/7699680016263905318",
+    "source": "juejin",
+    "score": 0.12617794,
+    "published_at": "2026-10-23T08:43:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699786990749253642",
+    "title": "Flutter版本选择指南：3.44稳定了11周正式转正 | 2026年10月",
+    "url": "https://juejin.cn/post/7699786990749253642",
+    "source": "juejin",
+    "score": 0.13268139,
+    "published_at": "2026-10-24T09:20:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50230917",
+    "title": "Tool book of a Nuremberg knight from 1505",
+    "url": "https://loeffelholz-codex.org/en/",
+    "source": "hackernews",
+    "score": 129.0,
+    "published_at": "2026-10-25T12:37:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50233304",
+    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-25T16:28:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50195184",
+    "title": "Bring Back the Cool Save File Screens",
+    "url": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-22T13:40:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50231189",
+    "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
+    "url": "https://twitter.com/freddier/status/2114042326758867453",
+    "source": "hackernews",
+    "score": 101.0,
+    "published_at": "2026-10-25T13:11:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50167528",
+    "title": "Washing machines took decades to catch on",
+    "url": "https://daily.jstor.org/why-washing-machines-took-decades-to-catch-on/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-20T15:05:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50231349",
+    "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+    "url": "https://github.com/winnin/farol",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-10-25T13:28:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50232035",
+    "title": "A few thoughts on intensity",
+    "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-10-25T14:37:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50232312",
+    "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+    "url": "https://bigwhalehunting.com/workforce/",
+    "source": "hackernews",
+    "score": 84.0,
+    "published_at": "2026-10-25T15:05:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1251636",
     "title": "有没有发现一个奇怪的现象？",
     "url": "https://www.v2ex.com/t/1251636",
@@ -4786,216 +4996,6 @@
     "source": "juejin",
     "score": 0.33056154,
     "published_at": "2026-10-20T04:20:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698637850893139977",
-    "title": "为什么每个前端都应该拥有一个自己的独立博客？",
-    "url": "https://juejin.cn/post/7698637850893139977",
-    "source": "juejin",
-    "score": 1.05530598,
-    "published_at": "2026-10-21T01:41:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7697883708062367770",
-    "title": "用 Codex 连接 Blender，我做了一块可以走进楼宇的大屏",
-    "url": "https://juejin.cn/post/7697883708062367770",
-    "source": "juejin",
-    "score": 0.15861706,
-    "published_at": "2026-10-19T02:45:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698737595538440255",
-    "title": "国产Flash大乱斗！结果很意外",
-    "url": "https://juejin.cn/post/7698737595538440255",
-    "source": "juejin",
-    "score": 1.49329396,
-    "published_at": "2026-10-21T04:16:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:strelov1/freehire",
-    "title": "freehire",
-    "url": "https://github.com/strelov1/freehire",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:twentyhq/twenty",
-    "title": "twenty",
-    "url": "https://github.com/twentyhq/twenty",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:supabase/supabase",
-    "title": "supabase",
-    "url": "https://github.com/supabase/supabase",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50140768",
-    "title": "A page looks innocent: the algorithms behind a typeset page",
-    "url": "https://news.speedata.de/2026/10/18/anatomy-of-a-page/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-18T13:06:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50180039",
-    "title": "Show HN: Sumi.css – CSS Framework",
-    "url": "https://github.com/vladocar/Sumi.css",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-21T12:50:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50151175",
-    "title": "The Lucrative World of Literary Scams",
-    "url": "https://www.thedial.world/articles/news/ai-book-scams",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-10-19T11:43:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50180752",
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-21T13:37:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50179828",
-    "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-    "url": "https://www.ncsc.nl/actueel",
-    "source": "hackernews",
-    "score": 212.0,
-    "published_at": "2026-10-21T12:31:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50150214",
-    "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-    "url": "https://www.pagetable.com/303",
-    "source": "hackernews",
-    "score": 105.0,
-    "published_at": "2026-10-19T09:21:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50178455",
-    "title": "Whatever Happened to Fire Escapes",
-    "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-10-21T10:14:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50181114",
-    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-21T14:00:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50179455",
-    "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-    "url": "https://9mothers.com/careers",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-10-21T12:00:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50155751",
-    "title": "C++ futures part 1: The mental model",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-19T18:05:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50179857",
-    "title": "LayerFS: The filesystem for AI coding agents",
-    "url": "https://layerfs.ai/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-21T12:34:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50181137",
-    "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
-    "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
-    "source": "hackernews",
-    "score": 102.0,
-    "published_at": "2026-10-21T14:01:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50179706",
-    "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
-    "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
-    "source": "hackernews",
-    "score": 178.0,
-    "published_at": "2026-10-21T12:22:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50181175",
-    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-10-21T14:03:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50180444",
-    "title": "Most advice is right for the person giving it",
-    "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-10-21T13:17:33+00:00",
     "summary": "",
     "key_points": []
   }
