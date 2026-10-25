@@ -1,5 +1,175 @@
 [
   {
+    "id": "lobsters:mug4of",
+    "title": "Every Clojure Talk Ever",
+    "url": "https://www.youtube.com/watch?v=jlPaby7suOc",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-25T12:13:59.138-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50233828",
+    "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
+    "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-25T17:20:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50227527",
+    "title": "Show HN: ReVault – new secure archive format",
+    "url": "https://news.ycombinator.com/item?id=50227527",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-25T02:01:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50233438",
+    "title": "UTS #39: Unicode Security Mechanisms",
+    "url": "https://unicode.org/reports/tr39/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-25T16:40:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50233883",
+    "title": "Fuck Nuance (2015)",
+    "url": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-25T17:26:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50234329",
+    "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+    "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-25T18:11:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50233775",
+    "title": "Sabre Wulf Remastered",
+    "url": "https://gp-64.com/swr/",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-10-25T17:15:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50174816",
+    "title": "Dijkstra vs. A* vs. Contraction Hierarchies",
+    "url": "https://arcadedb.com/route-planning.html",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-21T01:04:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50227330",
+    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "url": "https://huggingface.co/destined/hurston-1",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-25T01:30:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50195769",
+    "title": "Recreate the Apollo Guidance Computer",
+    "url": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-22T14:21:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50233294",
+    "title": "JetBrains Thinkrail",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-25T16:27:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50231166",
+    "title": "Active incident at Dreamhost forcing password reset",
+    "url": "https://www.dreamhoststatus.com/",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-10-25T13:09:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50223435",
+    "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+    "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-24T17:42:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50234232",
+    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+    "source": "hackernews",
+    "score": 135.0,
+    "published_at": "2026-10-25T18:04:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50233779",
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "source": "hackernews",
+    "score": 187.0,
+    "published_at": "2026-10-25T17:15:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50233929",
+    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "url": "https://talkweb.eu/openweb/4558/",
+    "source": "hackernews",
+    "score": 194.0,
+    "published_at": "2026-10-25T17:30:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50234474",
+    "title": "Dolly Parton's Imagination Library",
+    "url": "https://imaginationlibrary.com/",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-10-25T18:23:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qsmmke",
     "title": "SIMD-accelerated computer vision on a $2 microcontroller",
     "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
@@ -4826,176 +4996,6 @@
     "source": "hackernews",
     "score": 16.0,
     "published_at": "2026-10-21T18:29:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50183344",
-    "title": "The bridge to agent-scale Git infrastructure",
-    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-21T16:09:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50180079",
-    "title": "OpenAI models are coming to Google Cloud",
-    "url": "https://openai.com/index/openai-models-google-cloud/",
-    "source": "hackernews",
-    "score": 140.0,
-    "published_at": "2026-10-21T12:53:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50183512",
-    "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-    "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-21T16:20:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50182526",
-    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-    "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-    "source": "hackernews",
-    "score": 118.0,
-    "published_at": "2026-10-21T15:20:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50162044",
-    "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-    "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-10-20T06:20:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50184586",
-    "title": "EA is shutting down BioWare",
-    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-    "source": "hackernews",
-    "score": 196.0,
-    "published_at": "2026-10-21T17:29:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50185630",
-    "title": "Canary Tokens",
-    "url": "https://canarytokens.org/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-21T18:45:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50185045",
-    "title": "The compiler was supposed to end programming too",
-    "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-10-21T18:00:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50182987",
-    "title": "Today's PHP security release, and how we're strengthening security",
-    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-    "source": "hackernews",
-    "score": 338.0,
-    "published_at": "2026-10-21T15:48:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bapw7h",
-    "title": "php2shell by Calif Research",
-    "url": "https://calif.io/php2shell.x",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-21T09:37:15.955-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0glhl6",
-    "title": "Improving accessibility with CSS media queries (2025)",
-    "url": "https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-21T05:14:43.815-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ebsqsp",
-    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-    "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-21T08:50:10.534-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250565",
-    "title": "做了款苹果四端播放器 Vanto，支持杜比视界、空间音频，送 200 份永久版",
-    "url": "https://www.v2ex.com/t/1250565",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-10-21T03:29:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250646",
-    "title": "PHP 最新零日漏洞怎么没人讨论",
-    "url": "https://www.v2ex.com/t/1250646",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-10-21T07:17:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250676",
-    "title": "为啥你们 Vibe 的网页 AI 味儿那么重?",
-    "url": "https://www.v2ex.com/t/1250676",
-    "source": "v2ex",
-    "score": 240.0,
-    "published_at": "2026-10-21T08:27:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698044277812772873",
-    "title": "一人公司的全栈选型指南：让 AI Agent 写得快，也让生意跑得稳",
-    "url": "https://juejin.cn/post/7698044277812772873",
-    "source": "juejin",
-    "score": 0.14106129,
-    "published_at": "2026-10-19T05:22:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698512689525538825",
-    "title": "预算 1000 美金的开源软件，DeepSeek 只花 1 美金就做完了（Day 6）",
-    "url": "https://juejin.cn/post/7698512689525538825",
-    "source": "juejin",
-    "score": 0.33056154,
-    "published_at": "2026-10-20T04:20:30+00:00",
     "summary": "",
     "key_points": []
   }
