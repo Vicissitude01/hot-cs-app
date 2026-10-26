@@ -1,5 +1,145 @@
 [
   {
+    "id": "lobsters:x1s5oq",
+    "title": "“AI Skills” are worthless in 2026",
+    "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-25T19:23:42.695-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kfaimp",
+    "title": "Two musings on the design of compiler warnings (2020)",
+    "url": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-25T17:23:32.565-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hzrmwz",
+    "title": "Simple NetBSD webserver",
+    "url": "https://bsandro.tech/posts/simple-netbsd-webserver/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-25T18:13:40.605-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251696",
+    "title": "有件事我搞不明白， V 站为何不升级一下交互和 UI？然后出一个官方的 APP？",
+    "url": "https://www.v2ex.com/t/1251696",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-10-25T14:02:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699886793819504640",
+    "title": "继PHP之后，Java也爆出了重大安全漏洞！",
+    "url": "https://juejin.cn/post/7699886793819504640",
+    "source": "juejin",
+    "score": 0.73862671,
+    "published_at": "2026-10-25T07:59:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50236356",
+    "title": "What Security Teams Need to Know About Agents Using Abliterated Models",
+    "url": "https://eve.security/blog/what-security-teams-need-to-know-about-agents-using-abliterated-models",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-25T21:45:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50237256",
+    "title": "Lula Wins a Record Fourth Term in Brazil in a Surprise Comeback",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-25/lula-wins-a-record-fourth-term-in-brazil-in-a-surprise-comeback",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-25T23:56:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50236748",
+    "title": "Proton Flock Camera Map",
+    "url": "https://proton.me/flock-camera-map",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-10-25T22:39:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50185534",
+    "title": "Amazon's \"digital pacifier\" for toddlers",
+    "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+    "source": "hackernews",
+    "score": 75.0,
+    "published_at": "2026-10-21T18:37:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50208628",
+    "title": "Reverse engineering a Beyblade launch tracker",
+    "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-23T13:25:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50199199",
+    "title": "Retired decorator's Pokémon cards sell for £1.5M",
+    "url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-22T18:25:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50213610",
+    "title": "Making the Buddha Head from Merv Whole Again",
+    "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-23T18:46:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50237426",
+    "title": "Lula Wins Brazilian Election",
+    "url": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-10-26T00:23:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50237078",
+    "title": "F-Zero X on Nintendo 3DS",
+    "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-25T23:27:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:1q1rc1",
     "title": "Reverse-Engineering Instruction Encodings (2001)",
     "url": "https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/",
@@ -4856,146 +4996,6 @@
     "source": "hackernews",
     "score": 14.0,
     "published_at": "2026-10-21T22:17:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50166706",
-    "title": "A Place Among the Fiddlers",
-    "url": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-20T14:08:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50187659",
-    "title": "CleanFrame: A quieter home screen for Samsung The Frame",
-    "url": "https://github.com/nthnclrk/CleanFrame",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-21T21:08:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50186455",
-    "title": "Claude Duet",
-    "url": "https://claude.com/resources/articles/claude-duet",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-21T19:40:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50186010",
-    "title": "Google's Rust Style Guide",
-    "url": "https://google.github.io/styleguide/rustguide.html",
-    "source": "hackernews",
-    "score": 126.0,
-    "published_at": "2026-10-21T19:11:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50152847",
-    "title": "The Rise and Fall of the Plasma Screen",
-    "url": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-19T14:20:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50187708",
-    "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-    "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-10-21T21:12:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50186037",
-    "title": "Claude Duet",
-    "url": "https://claude.com/product/claude-duet",
-    "source": "hackernews",
-    "score": 249.0,
-    "published_at": "2026-10-21T19:14:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50159726",
-    "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-    "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-    "source": "hackernews",
-    "score": 102.0,
-    "published_at": "2026-10-20T00:14:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50185869",
-    "title": "GitLab Critical Patch Release",
-    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-    "source": "hackernews",
-    "score": 175.0,
-    "published_at": "2026-10-21T19:01:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50161346",
-    "title": "No More Icons in Every Menu by Default",
-    "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-10-20T04:27:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50188228",
-    "title": "Railway Security Disclosure",
-    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-10-21T21:58:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cquwex",
-    "title": "Flow Typing, A New Lens on Linearity",
-    "url": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-21T13:54:02.529-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cq7wn7",
-    "title": "Don't throw it all away: Caching an immediate-mode UI",
-    "url": "https://blickeditor.com/blog/caching-an-immediate-mode-ui",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-21T12:16:47.888-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gu7bow",
-    "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
-    "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-21T10:53:37.372-05:00",
     "summary": "",
     "key_points": []
   }
