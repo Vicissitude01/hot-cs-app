@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:aszhzo",
+    "title": "The Limits of Fingerprint Blocklists: A Reproducible Java Certificate Bypass",
+    "url": "https://www.sonatype.com/blog/the-limits-of-fingerprint-blocklists-a-reproducible-java-certificate-bypass",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-26T15:33:16.888-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rwubks",
+    "title": "Oldest GUI application that still runs on Windows 11",
+    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "source": "lobsters",
+    "score": 22.0,
+    "published_at": "2026-10-26T14:49:43.492-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:o5to4p",
+    "title": "A faster way to compute signed 64-bit floor division by constants",
+    "url": "https://www.benjoffe.com/fast-floordiv",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-10-26T13:44:53.194-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50249738",
+    "title": "Magic state cultivation on a superconducting quantum processor",
+    "url": "https://arxiv.org/abs/2512.13908",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-26T19:37:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50212764",
+    "title": "Who killed the EV cert? A browser whodunit for Halloween",
+    "url": "https://qwac.com/blog/who-killed-the-ev-cert",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-23T17:46:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50252008",
+    "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+    "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-26T22:27:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50237019",
+    "title": "Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)",
+    "url": "https://dbohdan.github.io/glider/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-25T23:18:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50249275",
+    "title": "The EPA Is Quietly Killing Its Web Archive",
+    "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+    "source": "hackernews",
+    "score": 192.0,
+    "published_at": "2026-10-26T19:05:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50213502",
+    "title": "Native Prometheus Integration with Nginx",
+    "url": "https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-10-23T18:38:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50246238",
+    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "url": "https://github.com/FrigadeHQ/hob",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-10-26T16:12:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50204697",
+    "title": "A Printer Printing onto Paper",
+    "url": "https://twitter.com/macrofying/status/2112904628509528219",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-23T05:01:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50252159",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-26T22:41:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50251661",
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-10-26T21:59:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50251127",
+    "title": "CorridorKey 2.0",
+    "url": "https://corridorkey.com/",
+    "source": "hackernews",
+    "score": 120.0,
+    "published_at": "2026-10-26T21:18:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50251344",
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "source": "hackernews",
+    "score": 186.0,
+    "published_at": "2026-10-26T21:35:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nxfown",
     "title": "The result of the C++26 DIS ballot",
     "url": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
@@ -4846,156 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-10-20T14:00:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50201414",
-    "title": "Railpass",
-    "url": "https://train.samismith.com/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-10-22T21:38:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50201259",
-    "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
-    "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
-    "source": "hackernews",
-    "score": 221.0,
-    "published_at": "2026-10-22T21:24:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50202766",
-    "title": "Mapping the Northern Sky",
-    "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-22T23:56:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50202217",
-    "title": "LLMs are making formal software verification feasible at a much larger scale",
-    "url": "https://www.anthropic.com/research/formal-verification",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-22T22:54:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nmurnh",
-    "title": "What is your opinion on submission quality since the `vibecoding` tag was removed?",
-    "url": "https://lobste.rs/s/nmurnh",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-22T12:56:51.498-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:s0aktw",
-    "title": "Quad9 DNS Resolver to exit France",
-    "url": "https://quad9.net/news/blog/au-revoir-france/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-22T14:47:39.798-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xsz9sc",
-    "title": "Docker is weird",
-    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-22T15:09:22.732-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8rkyrl",
-    "title": "Objects, attributes, maps, oh my",
-    "url": "https://bernsteinbear.com/blog/object-shapes/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-10-22T12:35:52.914-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50199349",
-    "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
-    "url": "https://3d.camilleworld.com/play/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-22T18:39:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50198936",
-    "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
-    "url": "https://github.com/rbartoli/agent-usage-guard",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-22T18:02:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50199757",
-    "title": "A complete bypass of eMudhra’s 1FA OTP login system",
-    "url": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
-    "source": "hackernews",
-    "score": 115.0,
-    "published_at": "2026-10-22T19:14:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50197450",
-    "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
-    "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-10-22T16:16:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50198940",
-    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-    "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-10-22T18:02:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50172660",
-    "title": "The phenomena that brighten dawn and dusk (2016)",
-    "url": "https://www.colorado.edu/asmagazine-archive/node/2039",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-20T21:05:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50172984",
-    "title": "Show HN: Turn regular JavaScript into a neural net",
-    "url": "https://chenglou.me/handwired/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-20T21:32:23+00:00",
     "summary": "",
     "key_points": []
   }
