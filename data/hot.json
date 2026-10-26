@@ -1,5 +1,335 @@
 [
   {
+    "id": "lobsters:mu3xcd",
+    "title": "writing about pratt parsing so I remember it",
+    "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-25T22:06:36.927-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251751",
+    "title": "Mac mini M6 价格彻底崩了",
+    "url": "https://www.v2ex.com/t/1251751",
+    "source": "v2ex",
+    "score": 102.0,
+    "published_at": "2026-10-26T01:10:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251740",
+    "title": "双十一撸了一个微波炉，有什么好的食谱或者怎么用好它呢",
+    "url": "https://www.v2ex.com/t/1251740",
+    "source": "v2ex",
+    "score": 114.0,
+    "published_at": "2026-10-26T00:44:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251745",
+    "title": "国产《长虹》安卓电视机 不支持开通 ADB",
+    "url": "https://www.v2ex.com/t/1251745",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-10-26T00:56:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251787",
+    "title": "大家有没有好看的电视剧推荐，最近出的，经典的都行",
+    "url": "https://www.v2ex.com/t/1251787",
+    "source": "v2ex",
+    "score": 124.0,
+    "published_at": "2026-10-26T01:59:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251738",
+    "title": "股灾来了就开个银河买纳指或者红利低波 ETF 吧，“万 1 免 5”股票基金免 5 大笑脸开户",
+    "url": "https://www.v2ex.com/t/1251738",
+    "source": "v2ex",
+    "score": 134.0,
+    "published_at": "2026-10-26T00:34:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251768",
+    "title": "创业一年了，还活着",
+    "url": "https://www.v2ex.com/t/1251768",
+    "source": "v2ex",
+    "score": 188.0,
+    "published_at": "2026-10-26T01:32:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251749",
+    "title": "偶然和一个在药店工作的女生聊了聊，震惊于药店的黑心，写了个总结，和大家分享一下",
+    "url": "https://www.v2ex.com/t/1251749",
+    "source": "v2ex",
+    "score": 200.0,
+    "published_at": "2026-10-26T01:03:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699746328205787146",
+    "title": " Bun v1.4.4 实测：2,025 个文件，bun fmt 2.6 秒跑完",
+    "url": "https://juejin.cn/post/7699746328205787146",
+    "source": "juejin",
+    "score": 0.13613125,
+    "published_at": "2026-10-24T06:03:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699477642869227570",
+    "title": "【Jetpack 内核实战 05 】：Room 入门——实体 / DAO / 数据库搭建与增删改查",
+    "url": "https://juejin.cn/post/7699477642869227570",
+    "source": "juejin",
+    "score": 0.08059979,
+    "published_at": "2026-10-23T03:02:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699727325760749619",
+    "title": "DeepSeek-V4.1-Flash 新版本登陆火山方舟，效果无损“经济版”八折上线",
+    "url": "https://juejin.cn/post/7699727325760749619",
+    "source": "juejin",
+    "score": 0.09631683,
+    "published_at": "2026-10-23T12:27:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7699688375545610283",
+    "title": "外包和大厂的前端代码，差在凌晨三点",
+    "url": "https://juejin.cn/post/7699688375545610283",
+    "source": "juejin",
+    "score": 0.10985182,
+    "published_at": "2026-10-23T15:30:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7700090632083013682",
+    "title": "K3.1pro你这“机灵鬼”，3D建模无敌了！",
+    "url": "https://juejin.cn/post/7700090632083013682",
+    "source": "juejin",
+    "score": 0.52855061,
+    "published_at": "2026-10-25T10:30:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7700380674944204810",
+    "title": "Flutter 紧急发布 3.47.8 安全升级版本，建议都升级",
+    "url": "https://juejin.cn/post/7700380674944204810",
+    "source": "juejin",
+    "score": 3.3569733,
+    "published_at": "2026-10-26T00:57:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7700157486074478627",
+    "title": "介绍一个开源项目 —— 烂笔头",
+    "url": "https://juejin.cn/post/7700157486074478627",
+    "source": "juejin",
+    "score": 3.39800329,
+    "published_at": "2026-10-26T01:06:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50239027",
+    "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+    "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-26T04:11:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50239041",
+    "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+    "url": "https://proc-cli.com/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-26T04:14:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50237896",
+    "title": "iPhone Duo Teardown",
+    "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+    "source": "hackernews",
+    "score": 93.0,
+    "published_at": "2026-10-26T01:23:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50227041",
+    "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+    "url": "https://adrs.systems",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-25T00:43:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50237712",
+    "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+    "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+    "source": "hackernews",
+    "score": 91.0,
+    "published_at": "2026-10-26T01:03:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50237379",
+    "title": "Steal My Bitcoin CTF PoC",
+    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-10-26T00:15:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50200957",
+    "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+    "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-22T21:00:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50238620",
+    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-26T03:12:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50210696",
+    "title": "Who Cares Whether Academics Use AI to Write?",
+    "url": "https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-23T15:29:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50238088",
+    "title": "IBM CEO says open weight models are now good and cheap on-prem",
+    "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+    "source": "hackernews",
+    "score": 125.0,
+    "published_at": "2026-10-26T01:47:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50234028",
+    "title": "Learning to Be Me (1990) [pdf]",
+    "url": "https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-25T17:43:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50237485",
+    "title": "Lula wins election after final votes tallied",
+    "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+    "source": "hackernews",
+    "score": 284.0,
+    "published_at": "2026-10-26T00:31:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50237224",
+    "title": "Attention Is Not What You Need (2025)",
+    "url": "https://arxiv.org/abs/2512.19428",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-10-25T23:52:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50218693",
+    "title": "The Fall of Scientific American",
+    "url": "https://www.thenation.com/article/society/scientific-american-springer-nature-trump/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-10-24T06:03:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50228115",
+    "title": "Show HN: A Truly Modular Keyboard",
+    "url": "https://github.com/notaroomba/keybytes",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-10-25T03:47:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50238763",
+    "title": "Behind the scenes at the NeXT Computer office",
+    "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-10-26T03:31:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50238739",
+    "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+    "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-10-26T03:29:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50238708",
+    "title": "Show HN: TitleArt – Make text like it's 1997",
+    "url": "https://titleart.dvy.io/",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-10-26T03:23:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:x1s5oq",
     "title": "“AI Skills” are worthless in 2026",
     "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
@@ -4666,336 +4996,6 @@
     "source": "juejin",
     "score": 0.41850306,
     "published_at": "2026-10-21T00:50:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698568843102617626",
-    "title": "调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%",
-    "url": "https://juejin.cn/post/7698568843102617626",
-    "source": "juejin",
-    "score": 0.20556399,
-    "published_at": "2026-10-20T08:27:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698646220872450082",
-    "title": "程序员 1v1 访谈系列第五期：裁掉正岗，招外包",
-    "url": "https://juejin.cn/post/7698646220872450082",
-    "source": "juejin",
-    "score": 0.50170016,
-    "published_at": "2026-10-21T01:13:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698947426489663528",
-    "title": "报表总在扫大表，列存储应该放在哪一层",
-    "url": "https://juejin.cn/post/7698947426489663528",
-    "source": "juejin",
-    "score": 1.31243076,
-    "published_at": "2026-10-21T12:53:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50160988",
-    "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
-    "url": "https://www.jhiblog.org/2026/10/19/clockwork-metaphors/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-20T03:25:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50188614",
-    "title": "Postgres recovery_prefetch can cause outages",
-    "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-21T22:33:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50158960",
-    "title": "PyTorch-native TPU back end for vLLM",
-    "url": "https://github.com/vllm-project/vllm-torchtpu",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-19T22:34:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50183892",
-    "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-    "url": "https://github.com/omnara-ai/omnara",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-10-21T16:44:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50166590",
-    "title": "Beyond the &",
-    "url": "https://lwn.net/Articles/1096028/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-20T13:59:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50160241",
-    "title": "What Is the Karakoram Anomaly?",
-    "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-20T01:26:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50176082",
-    "title": "Using LLM for confidence scoring is a bad idea",
-    "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-10-21T04:27:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50191507",
-    "title": "OpenAI CLI",
-    "url": "https://github.com/openai/openai-cli",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-22T05:23:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50190363",
-    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-10-22T02:18:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50190455",
-    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-    "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-    "source": "hackernews",
-    "score": 131.0,
-    "published_at": "2026-10-22T02:30:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wno4h3",
-    "title": "Understanding Nix flakes",
-    "url": "https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-21T18:53:40.668-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wi4nnl",
-    "title": "Railway Security Disclosure: Wednesday October 21st",
-    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-21T17:31:11.965-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250659",
-    "title": "天塌了，公司就我一个技术，所有项目都跑在 php7 上，今晚我该咋办😨",
-    "url": "https://www.v2ex.com/t/1250659",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-10-21T07:46:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250641",
-    "title": "「MFlare」监控 Cloudflare 用量以及部署的 MacOS 菜单栏小工具（附兑换码）",
-    "url": "https://www.v2ex.com/t/1250641",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-10-21T07:01:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250649",
-    "title": "今天碰到的一个公共场合的小冲突，分享下",
-    "url": "https://www.v2ex.com/t/1250649",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-10-21T07:23:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698932135781138495",
-    "title": "【10.24 特别活动】AI 时代，程序员的新饭碗在哪里？",
-    "url": "https://juejin.cn/post/7698932135781138495",
-    "source": "juejin",
-    "score": 1.24130981,
-    "published_at": "2026-10-21T11:04:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50189175",
-    "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
-    "url": "https://bloffy.co/en",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-21T23:41:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50188612",
-    "title": "Qpack amplification attacks against HTTP/3 servers",
-    "url": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-21T22:32:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50189278",
-    "title": "When Do We Become the Person We Ought to Be?",
-    "url": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-21T23:57:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50189023",
-    "title": "Κ = 0.003 for integer multiplication crossed",
-    "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-21T23:22:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50153531",
-    "title": "Code is clay now",
-    "url": "https://www.albertodenia.com/writing/code-is-clay-now",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-10-19T15:19:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50154100",
-    "title": "Chain of Thought for Humans",
-    "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-19T16:06:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50189150",
-    "title": "Airbnb bans making guests do dishes and take out the trash",
-    "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-10-21T23:38:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50188948",
-    "title": "There isn't an easy exploit for this PHP vulnerability",
-    "url": "https://eliastaylor.com/noexploit/",
-    "source": "hackernews",
-    "score": 125.0,
-    "published_at": "2026-10-21T23:13:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50189232",
-    "title": "mitmproxy adds --emudhra option",
-    "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-    "source": "hackernews",
-    "score": 133.0,
-    "published_at": "2026-10-21T23:51:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:deqmg0",
-    "title": "Embedding EYG in Erlang programs",
-    "url": "https://eyg.run/guides/embedding-eyg-in-erlang-programs",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-21T16:27:36.439-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pnpcso",
-    "title": "GitLab Critical Patch Release",
-    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-21T15:48:24.398-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9jgl3x",
-    "title": "Google's Rust Style Guide",
-    "url": "https://google.github.io/styleguide/rustguide.html",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-10-21T14:12:02.416-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cdnepk",
-    "title": "Passkeys Attestation Trap",
-    "url": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-21T13:16:22.533-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50188443",
-    "title": "Oracle Security Alert Advisory – CVE-2026-91403 (eMudhra cert revocation)",
-    "url": "https://www.oracle.com/security-alerts/alert-cve-2026-91403.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-21T22:17:19+00:00",
     "summary": "",
     "key_points": []
   }
