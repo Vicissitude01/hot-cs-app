@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:cxdpiu",
+    "title": "Our Response To The eMudhra Key Disclosure Incident",
+    "url": "https://go.dev/blog/emudhra-incident",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-26T19:31:44.980-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pq6ju6",
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-26T19:39:50.510-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uhfzlv",
+    "title": "(VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers",
+    "url": "https://www.youtube.com/watch?v=mZfJ-sulqQs",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-26T19:36:47.912-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ihmfsc",
+    "title": "The passkey is worse",
+    "url": "https://www.kcoleman.me/2026/10/22/hacked.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-26T18:44:15.062-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cxxcik",
+    "title": "Shitty Screenshare",
+    "url": "http://shittyscreenshare.com",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-26T19:12:16.704-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252085",
+    "title": "请问一下 v 友们平常都是喝什么水的？",
+    "url": "https://www.v2ex.com/t/1252085",
+    "source": "v2ex",
+    "score": 102.0,
+    "published_at": "2026-10-27T00:24:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251810",
+    "title": "self-host 代码仓库，各位老哥公司里都是什么方案？",
+    "url": "https://www.v2ex.com/t/1251810",
+    "source": "v2ex",
+    "score": 106.0,
+    "published_at": "2026-10-26T02:39:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252109",
+    "title": "记一次反诈预警后派出所登记经历",
+    "url": "https://www.v2ex.com/t/1252109",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-10-27T01:23:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251815",
+    "title": "周一刚开工，就面谈通知被裁，心情复杂",
+    "url": "https://www.v2ex.com/t/1251815",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-10-26T02:58:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251976",
+    "title": "AI vibe coding 的进展，不知道程序员还能存活多久？",
+    "url": "https://www.v2ex.com/t/1251976",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-10-26T09:08:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251991",
+    "title": "坠机日，大妈和瓦工 3 台机器都阵亡了",
+    "url": "https://www.v2ex.com/t/1251991",
+    "source": "v2ex",
+    "score": 148.0,
+    "published_at": "2026-10-26T09:54:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251970",
+    "title": "你们是如何和岳父岳母相处的",
+    "url": "https://www.v2ex.com/t/1251970",
+    "source": "v2ex",
+    "score": 152.0,
+    "published_at": "2026-10-26T08:59:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252074",
+    "title": "深夜求助，物业只提前 1 小时通知停电，导致我家里电脑坏了",
+    "url": "https://www.v2ex.com/t/1252074",
+    "source": "v2ex",
+    "score": 156.0,
+    "published_at": "2026-10-26T18:34:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1251841",
+    "title": "佬们推荐个机场，花云太差了",
+    "url": "https://www.v2ex.com/t/1251841",
+    "source": "v2ex",
+    "score": 170.0,
+    "published_at": "2026-10-26T03:44:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7700803425820049434",
+    "title": "尤雨溪 : Vue 4 已经在规划中了！",
+    "url": "https://juejin.cn/post/7700803425820049434",
+    "source": "juejin",
+    "score": 1.8142245,
+    "published_at": "2026-10-26T13:17:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50213147",
+    "title": "In Context [video]",
+    "url": "https://www.youtube.com/watch?v=P5eO7BNyJao",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-23T18:12:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50211780",
+    "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
+    "url": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-10-23T16:41:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50226808",
+    "title": "Virtual and Real World Combine at LAN Party (1998)",
+    "url": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-25T00:07:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50243061",
+    "title": "New iPad mini",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+    "source": "hackernews",
+    "score": 137.0,
+    "published_at": "2026-10-26T13:13:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50231041",
+    "title": "LISPy things you can do in 64K bytes of core (2019)",
+    "url": "https://t3x.org/lisp64k/index.html",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-25T12:53:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50245385",
+    "title": "Solar power is becoming bigger than nuclear",
+    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+    "source": "hackernews",
+    "score": 149.0,
+    "published_at": "2026-10-26T15:26:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50253529",
+    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "url": "https://github.com/otya128/winevdm",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-27T01:15:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:aszhzo",
     "title": "The Limits of Fingerprint Blocklists: A Reproducible Java Certificate Bypass",
     "url": "https://www.sonatype.com/blog/the-limits-of-fingerprint-blocklists-a-reproducible-java-certificate-bypass",
@@ -4776,226 +4996,6 @@
     "source": "v2ex",
     "score": 128.0,
     "published_at": "2026-10-23T01:14:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251126",
-    "title": "V 友们，胡姓，帮忙取一个好听的名字",
-    "url": "https://www.v2ex.com/t/1251126",
-    "source": "v2ex",
-    "score": 250.0,
-    "published_at": "2026-10-23T01:22:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699351034398621732",
-    "title": "红利窗口开着，程序员别在场边囤课",
-    "url": "https://juejin.cn/post/7699351034398621732",
-    "source": "juejin",
-    "score": 1.03506238,
-    "published_at": "2026-10-22T14:33:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698923838285316130",
-    "title": "我抽查了 6 万个 Skills：前排没几个真货",
-    "url": "https://juejin.cn/post/7698923838285316130",
-    "source": "juejin",
-    "score": 0.21035234,
-    "published_at": "2026-10-21T11:03:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699307186593300507",
-    "title": "双十一，我为什么想买一台编码显示器",
-    "url": "https://juejin.cn/post/7699307186593300507",
-    "source": "juejin",
-    "score": 0.65581673,
-    "published_at": "2026-10-22T08:15:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698345359642542131",
-    "title": "封装fetch替换axios",
-    "url": "https://juejin.cn/post/7698345359642542131",
-    "source": "juejin",
-    "score": 0.16281169,
-    "published_at": "2026-10-20T01:33:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699320318288494630",
-    "title": "微信运动每天晚上 10 点推送排行榜，技术上到底有多难？",
-    "url": "https://juejin.cn/post/7699320318288494630",
-    "source": "juejin",
-    "score": 0.89842621,
-    "published_at": "2026-10-22T08:42:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50203759",
-    "title": "This I Believe",
-    "url": "https://www.awakin.org/v2/read/view.php?tid=468",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-23T02:19:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50203161",
-    "title": "The foolishness of \"natural language programming\" (1978)",
-    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-    "source": "hackernews",
-    "score": 79.0,
-    "published_at": "2026-10-23T00:52:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50202671",
-    "title": "AI compute is the new oil–and needs a new market",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-10-22T23:45:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50166272",
-    "title": "Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It",
-    "url": "https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-20T13:40:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50202762",
-    "title": "Jank – The native Clojure dialect with seamless C++ interop",
-    "url": "https://jank-lang.org/",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-10-22T23:56:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50204125",
-    "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
-    "url": "https://news.ycombinator.com/item?id=50204125",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-23T03:20:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50162431",
-    "title": "The Secret Life of Circuits is now in stock everywhere",
-    "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-10-20T07:15:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50173516",
-    "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
-    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-10-20T22:24:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50202681",
-    "title": "Docker is weird",
-    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-    "source": "hackernews",
-    "score": 267.0,
-    "published_at": "2026-10-22T23:45:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:05xrj8",
-    "title": "We have Traits at Home",
-    "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-22T16:52:10.094-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jgull9",
-    "title": "a hacky fucked up way to portably access errno from outside of c",
-    "url": "https://sebsite.pw/w/20260925-errno.html",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-22T16:42:04.534-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1250812",
-    "title": "说说现在你都有哪些 PTSD",
-    "url": "https://www.v2ex.com/t/1250812",
-    "source": "v2ex",
-    "score": 126.0,
-    "published_at": "2026-10-22T01:28:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50201860",
-    "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
-    "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-22T22:18:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50194762",
-    "title": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
-    "url": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-22T13:03:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50150681",
-    "title": "Speeding up code review with `small-change`",
-    "url": "https://lethain.com/small-changes/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-19T10:35:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50166604",
-    "title": "How to Design Flowers",
-    "url": "https://www.asimov.press/p/flowers",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-20T14:00:07+00:00",
     "summary": "",
     "key_points": []
   }
