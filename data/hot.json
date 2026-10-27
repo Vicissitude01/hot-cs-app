@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:o6vpqb",
+    "title": "Ghostty 1.4.0",
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-27T17:06:07.159-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:elayadesign/ai-design-skills",
+    "title": "ai-design-skills",
+    "url": "https://github.com/elayadesign/ai-design-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50265960",
+    "title": "One year of Dioxus fullstack in production: the good, the painful",
+    "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-27T21:19:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50243153",
+    "title": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
+    "url": "https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-26T13:20:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50242688",
+    "title": "81 Jokes for the ZX81",
+    "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-26T12:45:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50236073",
+    "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
+    "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-25T21:07:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50265413",
+    "title": "Hex Raises $100M",
+    "url": "https://hex.tech/blog/hex-new-era/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-10-27T20:36:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50262982",
+    "title": "Radio-tagged Monarch butterflies",
+    "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-27T17:48:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50265128",
+    "title": "Four Months of Zig",
+    "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-10-27T20:13:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50266780",
+    "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+    "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-27T22:31:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50239214",
+    "title": "SS United States to be sunk as largest artificial reef",
+    "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-10-26T04:41:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50265594",
+    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+    "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-10-27T20:48:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50265609",
+    "title": "Early progress on accelerating drug development with Claude",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-10-27T20:50:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50264853",
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "url": "https://www.brangus.io/survival-llm",
+    "source": "hackernews",
+    "score": 138.0,
+    "published_at": "2026-10-27T19:55:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50264857",
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "url": "https://tailscale.com/ssh-investigation-update",
+    "source": "hackernews",
+    "score": 157.0,
+    "published_at": "2026-10-27T19:55:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:kvije8",
     "title": "The Shift of Theseus — Toy Bit Provenance Abstract Domain",
     "url": "https://www.pypy.org/posts/2026/10/toy-bit-provenance.html",
@@ -4846,156 +4996,6 @@
     "source": "hackernews",
     "score": 16.0,
     "published_at": "2026-10-23T19:42:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50214994",
-    "title": "No Source Code? No Problem",
-    "url": "https://queue.acm.org/doi/10.1145/945131.945155",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-10-23T20:38:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50214218",
-    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-    "source": "hackernews",
-    "score": 149.0,
-    "published_at": "2026-10-23T19:34:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50214323",
-    "title": "We are all living inside of an obscure sci-fi film from 1970",
-    "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-10-23T19:41:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50215530",
-    "title": "CVE Tracker",
-    "url": "https://cve.0xosprey.com/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-23T21:21:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50213925",
-    "title": "Dessa: the most authentic full-duplex speech model ever built",
-    "url": "https://block.xyz/dessa",
-    "source": "hackernews",
-    "score": 136.0,
-    "published_at": "2026-10-23T19:09:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:d1snfg",
-    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
-    "url": "https://arxiv.org/abs/2610.14162",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-23T12:25:34.960-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hq3tu8",
-    "title": "Railway Preliminary Report: Oct 21st Security Incident",
-    "url": "https://blog.railway.com/p/preliminary-report-october-security-incident",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-23T13:35:24.152-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ctow98",
-    "title": "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
-    "url": "https://queue.acm.org/doi/10.1145/945131.945155",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-23T12:00:36.459-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tq5cxv",
-    "title": "How to Make Things, and Why",
-    "url": "https://www.youtube.com/watch?v=7yeH1DqK984",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-23T10:36:59.016-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yusomz",
-    "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-    "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-23T12:12:35.281-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50202482",
-    "title": "We have traits at home",
-    "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-22T23:24:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50212292",
-    "title": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
-    "url": "https://drop7.dev",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-23T17:13:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50209907",
-    "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
-    "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-10-23T14:43:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50212320",
-    "title": "Can we replace a $150k Looker with a bucket of HTML files?",
-    "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-10-23T17:15:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50212124",
-    "title": "Animations for System Builders",
-    "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-23T17:02:24+00:00",
     "summary": "",
     "key_points": []
   }
