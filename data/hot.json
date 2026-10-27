@@ -1,5 +1,325 @@
 [
   {
+    "id": "lobsters:kvije8",
+    "title": "The Shift of Theseus — Toy Bit Provenance Abstract Domain",
+    "url": "https://www.pypy.org/posts/2026/10/toy-bit-provenance.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-27T12:53:09.110-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:3mnrlw",
+    "title": "A select should tell you something",
+    "url": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-27T06:33:23.869-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7bbzjf",
+    "title": "An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)",
+    "url": "https://www.cheswick.com/ches/papers/berferd.pdf",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-27T13:48:45.415-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:opqtiv",
+    "title": "Finding panics with Call Graph Analyzer",
+    "url": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-27T11:45:26.466-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rswyzt",
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-27T14:08:23.211-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qd0hc9",
+    "title": "1,447 emoji? We'll do it live",
+    "url": "https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-27T13:28:06.115-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rs6ce2",
+    "title": "Filian, Fil-C binaries on Debian",
+    "url": "https://cr.yp.to/2025/fil-c.html",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-10-27T11:42:17.342-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qr59sa",
+    "title": "Four Months of Zig",
+    "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-27T13:46:09.491-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tp0zlk",
+    "title": "A stackless floodfill automation (2023)",
+    "url": "https://t3x.org/files/floodfill.pdf",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-10-27T09:56:00.214-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:q7arzy",
+    "title": "A fast and secure tar parser for the Rust ecosystem",
+    "url": "https://astral.sh/blog/tar-codec",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-10-27T11:59:30.534-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252133",
+    "title": "大家的程序坞放哪里？",
+    "url": "https://www.v2ex.com/t/1252133",
+    "source": "v2ex",
+    "score": 148.0,
+    "published_at": "2026-10-27T02:00:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7700592903408533546",
+    "title": "不想开会员，我写了一个记账 App",
+    "url": "https://juejin.cn/post/7700592903408533546",
+    "source": "juejin",
+    "score": 0.19250019,
+    "published_at": "2026-10-26T06:06:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50264228",
+    "title": "US President says he will ban the term 'artificial intelligence'",
+    "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-10-27T19:11:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50235661",
+    "title": "A Stackless Floodfill Automaton",
+    "url": "https://t3x.org/files/floodfill.pdf",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-10-25T20:18:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50260526",
+    "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
+    "url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
+    "source": "hackernews",
+    "score": 119.0,
+    "published_at": "2026-10-27T15:09:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50260571",
+    "title": "Show HN: Specification First Agentic Development Plugin and Prove",
+    "url": "https://spec-first.dev/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-27T15:12:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50261623",
+    "title": "Vicious Cycles: Theses on a philosophy of news",
+    "url": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-27T16:27:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50240041",
+    "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
+    "url": "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-26T06:54:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50261589",
+    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+    "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-10-27T16:25:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50232101",
+    "title": "OpenLDK: Bringing the Java World into Common Lisp",
+    "url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-10-25T14:45:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50224079",
+    "title": "An examination of lost firefly species of the US and Canada",
+    "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-24T19:04:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50261819",
+    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+    "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+    "source": "hackernews",
+    "score": 258.0,
+    "published_at": "2026-10-27T16:40:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50260814",
+    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+    "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+    "source": "hackernews",
+    "score": 266.0,
+    "published_at": "2026-10-27T15:28:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50263854",
+    "title": "Discord will soon let anyone find public server messages through Google",
+    "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-10-27T18:44:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50261583",
+    "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+    "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-27T16:25:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50262229",
+    "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+    "url": "https://www.liquid.ai/blog/lfm3",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-10-27T17:04:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50232604",
+    "title": "Microsoft and others tell crypto platform not to tokenize their stocks",
+    "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-10-25T15:28:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50263701",
+    "title": "Three TLS Bugs in GoAhead",
+    "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-10-27T18:33:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50261647",
+    "title": "Classification of Finite Simple Groups Formalized in Lean",
+    "url": "https://cfsg.axiommath.ai/",
+    "source": "hackernews",
+    "score": 97.0,
+    "published_at": "2026-10-27T16:29:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50261352",
+    "title": "New 14‑inch MacBook Pro with M6",
+    "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+    "source": "hackernews",
+    "score": 143.0,
+    "published_at": "2026-10-27T16:08:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50261998",
+    "title": "Ghostty 1.4.0",
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "source": "hackernews",
+    "score": 366.0,
+    "published_at": "2026-10-27T16:51:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50261319",
+    "title": "Genie 4",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "source": "hackernews",
+    "score": 460.0,
+    "published_at": "2026-10-27T16:06:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:y3v5zv",
     "title": "EnsoJS - native-first microframework for building declarative Web Components",
     "url": "https://ensojs.dev/",
@@ -4676,326 +4996,6 @@
     "source": "hackernews",
     "score": 11.0,
     "published_at": "2026-10-23T17:02:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50199684",
-    "title": "LISP Comes of Age (1980)",
-    "url": "https://microship.com/lisp-comes-of-age/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-22T19:08:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50205320",
-    "title": "Show HN: Swurf – Swipe through the real web",
-    "url": "https://swurf.org/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-23T06:54:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50212281",
-    "title": "Time Nuts (2005)",
-    "url": "http://leapsecond.com/time-nuts.htm",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-23T17:12:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50211504",
-    "title": "Total Historian",
-    "url": "https://www.theideasletter.org/essay/total-historian/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-23T16:23:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50202746",
-    "title": "Show HN: Impossible Machines: declaratively program the physical world",
-    "url": "https://www.impossiblemachines.xyz",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-22T23:54:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50212507",
-    "title": "Air Purifiers as White Noise Machines",
-    "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-23T17:28:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50211084",
-    "title": "Reforming English Spelling",
-    "url": "https://blog.oup.com/2026/10/reforming-english-spelling/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-23T15:56:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50202114",
-    "title": "Canadians are running out of time to oppose Bill C-22",
-    "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-    "source": "hackernews",
-    "score": 149.0,
-    "published_at": "2026-10-22T22:43:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50211729",
-    "title": "The Missed Opportunities of Sonic 06",
-    "url": "https://isaacmarovitz.com/posts/sonic-06/",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-23T16:38:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50211719",
-    "title": "How Is Music Possible",
-    "url": "https://www.henrikkarlsson.xyz/p/music",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-10-23T16:38:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50212668",
-    "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
-    "url": "https://twitter.com/robbietilton/status/2111936458923851923",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-23T17:40:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50169499",
-    "title": "The Real Kevin Bacon",
-    "url": "https://pudding.cool/2026/10/kevin-bacon/",
-    "source": "hackernews",
-    "score": 117.0,
-    "published_at": "2026-10-20T17:10:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50211746",
-    "title": "UUIDv7 doesn't have the properties you think it does",
-    "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-10-23T16:39:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50213337",
-    "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-    "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-23T18:24:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50207910",
-    "title": "Apple Music 404 Not Found",
-    "url": "https://music.apple.com/this-url-doesnt-exist",
-    "source": "hackernews",
-    "score": 162.0,
-    "published_at": "2026-10-23T12:28:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50211474",
-    "title": "Today, we hacked what we'd set out to hack: the iPhone",
-    "url": "https://blog.calif.io/p/iphone",
-    "source": "hackernews",
-    "score": 489.0,
-    "published_at": "2026-10-23T16:21:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50212065",
-    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-    "source": "hackernews",
-    "score": 393.0,
-    "published_at": "2026-10-23T16:59:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9gak0g",
-    "title": "Profiling Org->HTML formal grammar and optimizing it: orgwebalchemy",
-    "url": "https://jointhefreeworld.org/blog/articles/lisps/orgwebalchemy-benchmarking-profiling-and-org-support/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-23T09:04:10.962-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hygrxb",
-    "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
-    "url": "https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-23T10:17:36.830-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pcirxi",
-    "title": "Release OpenSSL 4.1.0 · openssl/openssl",
-    "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-23T10:18:42.246-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yccmjm",
-    "title": "Emacs finally folds to my liking: kirigami, tree-sitter, hide-show, Org, XML",
-    "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-23T09:38:13.508-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bhqvxq",
-    "title": "a neat trick i found for reusing physical memory",
-    "url": "https://sebsite.pw/w/20260728-cow.html",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-23T08:40:30.984-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5hoqzj",
-    "title": "The glorious @xkcdRandom Zig builtin",
-    "url": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-23T09:30:57.041-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hd72yt",
-    "title": "Software is slow because of bad design, not slow languages",
-    "url": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-23T07:58:10.897-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7me8wm",
-    "title": "How close can pure FP get to C?",
-    "url": "https://rtfeldman.com/fp-vs-c",
-    "source": "lobsters",
-    "score": 18.0,
-    "published_at": "2026-10-23T06:37:22.171-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698753872017899574",
-    "title": "2026 年，为什么一线团队开始从 MCP 撤回 CLI？",
-    "url": "https://juejin.cn/post/7698753872017899574",
-    "source": "juejin",
-    "score": 0.14376245,
-    "published_at": "2026-10-21T03:30:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699014849129726003",
-    "title": "PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级",
-    "url": "https://juejin.cn/post/7699014849129726003",
-    "source": "juejin",
-    "score": 0.2363883,
-    "published_at": "2026-10-21T14:41:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:nodejs/node",
-    "title": "node",
-    "url": "https://github.com/nodejs/node",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:OpenBMB/VoxCPM",
-    "title": "VoxCPM",
-    "url": "https://github.com/OpenBMB/VoxCPM",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:SnailSploit/Claude-Red",
-    "title": "Claude-Red",
-    "url": "https://github.com/SnailSploit/Claude-Red",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Renhuai123/ziwei-doushu",
-    "title": "ziwei-doushu",
-    "url": "https://github.com/Renhuai123/ziwei-doushu",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:NVIDIA/OpenShell",
-    "title": "OpenShell",
-    "url": "https://github.com/NVIDIA/OpenShell",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
