@@ -1,5 +1,175 @@
 [
   {
+    "id": "lobsters:sd75mw",
+    "title": "Foundational Cryptography in SPARK",
+    "url": "https://www.adacore.com/blog/foundational-cryptography-in-spark",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-28T08:22:52.039-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gvy5gz",
+    "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+    "url": "https://nullpt.rs/fingerprinting-bioweapons",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-28T13:55:15.090-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:makecindy/cindy",
+    "title": "cindy",
+    "url": "https://github.com/makecindy/cindy",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:pbakaus/impeccable",
+    "title": "impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Nutlope/hallmark",
+    "title": "hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50224482",
+    "title": "The Style Is Father of the Man",
+    "url": "https://harpers.org/archive/2026/11/benjamin-kunkel-reviews-cormac-mccarthy-legacy-revisted/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-24T19:48:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50278253",
+    "title": "Scaling Hierarchical Networks",
+    "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-28T18:07:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50280662",
+    "title": "Leak website releases data on DHS employees",
+    "url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-28T20:46:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50275887",
+    "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
+    "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+    "source": "hackernews",
+    "score": 167.0,
+    "published_at": "2026-10-28T16:01:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50238637",
+    "title": "Oseberg Tapestry Fragments",
+    "url": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-26T03:14:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50242358",
+    "title": "Rubber Duck I've Ever Had",
+    "url": "https://blog.blockingqueue.com/the-best-rubber-duck-i-ve-ever-had",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-26T12:12:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50277755",
+    "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+    "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-10-28T17:45:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50281044",
+    "title": "Formlabs Studio 1 $699 Resin Printer",
+    "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-10-28T21:19:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50247342",
+    "title": "The tragedy of losing your Wikipedia page",
+    "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-10-26T17:15:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50280824",
+    "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+    "url": "https://nango.dev/careers",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-10-28T21:00:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50280722",
+    "title": "The case of the 9 bit AES key",
+    "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-10-28T20:51:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50280864",
+    "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+    "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+    "source": "hackernews",
+    "score": 177.0,
+    "published_at": "2026-10-28T21:03:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:3jyfg9",
     "title": "Making SIMD Code Scale to Any Vector Width",
     "url": "https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/",
@@ -4826,176 +4996,6 @@
     "source": "hackernews",
     "score": 14.0,
     "published_at": "2026-10-22T14:07:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50171936",
-    "title": "Symbolic Learning in Python and Julia",
-    "url": "https://github.com/astroautomata/PySR",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-20T20:07:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50179920",
-    "title": "Cecilia Berdichevsky, Clementina expert (1961)",
-    "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-21T12:40:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50222525",
-    "title": "Neural chip decodes interactions between brain regions",
-    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-10-24T15:57:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50222133",
-    "title": "FreeDNS",
-    "url": "https://freedns.afraid.org/",
-    "source": "hackernews",
-    "score": 147.0,
-    "published_at": "2026-10-24T15:20:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50222927",
-    "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-    "url": "https://de.numista.com/9866",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-24T16:41:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50222622",
-    "title": "Roku developer repositories moved from GitHub to GitLab",
-    "url": "https://blog.roku.com/developer/gitlab-move",
-    "source": "hackernews",
-    "score": 113.0,
-    "published_at": "2026-10-24T16:06:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vh8l3t",
-    "title": "What's wrong with AI?",
-    "url": "https://homepage.farm/ai.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-24T07:09:40.853-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qzfohf",
-    "title": "How to run a city builder on 16 MHz",
-    "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-24T09:18:48.714-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hs0vef",
-    "title": "Enabling Researchers is a Moral Imperative",
-    "url": "https://yorba.co/internet-less/enabling-researchers-is-a-moral-imperative",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-24T08:51:14.395-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251423",
-    "title": "有没有人知道这是什么面试套路",
-    "url": "https://www.v2ex.com/t/1251423",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-10-24T02:26:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251411",
-    "title": "智友社回馈 V 站新老客户，抽送第 11 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6",
-    "url": "https://www.v2ex.com/t/1251411",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-10-24T01:33:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699025957739397163",
-    "title": "前端转Agent开发 | JavaScript 从 0 到 1 完全指南",
-    "url": "https://juejin.cn/post/7699025957739397163",
-    "source": "juejin",
-    "score": 0.13936151,
-    "published_at": "2026-10-22T02:13:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699123334672089107",
-    "title": "我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一",
-    "url": "https://juejin.cn/post/7699123334672089107",
-    "source": "juejin",
-    "score": 0.15722795,
-    "published_at": "2026-10-22T05:06:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cloudflare/security-audit-skill",
-    "title": "security-audit-skill",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50220042",
-    "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-    "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-24T10:51:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50220913",
-    "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-    "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-    "source": "hackernews",
-    "score": 245.0,
-    "published_at": "2026-10-24T13:09:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50219700",
-    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-    "url": "https://github.com/Zagitta/gpu-unlock",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-24T09:58:27+00:00",
     "summary": "",
     "key_points": []
   }
