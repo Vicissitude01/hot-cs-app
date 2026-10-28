@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:3jyfg9",
+    "title": "Making SIMD Code Scale to Any Vector Width",
+    "url": "https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-28T09:23:20.818-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mgy3tr",
+    "title": "Pair-coding Lobste.rs feat",
+    "url": "https://lobste.rs/s/mgy3tr",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-28T10:53:34.963-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hqcvyj",
+    "title": "Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?",
+    "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-28T08:39:42.162-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:m3gsln",
+    "title": "Hoot 0.10.0 released",
+    "url": "https://spritely.institute/news/hoot-0-10-0-released.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-28T11:47:10.029-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ansfvi",
+    "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+    "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-28T08:34:06.200-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:exwlmn",
+    "title": "GOTO Considered Totally Sick (for error handling in C)",
+    "url": "https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-10-28T11:07:18.151-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yxuvie",
+    "title": "AlpineBSD",
+    "url": "https://wiki.alpinebsd.org/",
+    "source": "lobsters",
+    "score": 52.0,
+    "published_at": "2026-10-28T05:34:55.669-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701541249069383706",
+    "title": "Deepseek v5 来了",
+    "url": "https://juejin.cn/post/7701541249069383706",
+    "source": "juejin",
+    "score": 2.97123899,
+    "published_at": "2026-10-28T08:46:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50275128",
+    "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-28T15:17:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50272145",
+    "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+    "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+    "source": "hackernews",
+    "score": 187.0,
+    "published_at": "2026-10-28T11:54:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50268478",
+    "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+    "url": "https://arxiv.org/abs/2610.36341",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-28T02:01:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50275373",
+    "title": "Archive.today links going forward",
+    "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+    "source": "hackernews",
+    "score": 96.0,
+    "published_at": "2026-10-28T15:31:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50276998",
+    "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+    "url": "https://nullpt.rs/fingerprinting-bioweapons",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-28T17:13:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50273396",
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "source": "hackernews",
+    "score": 287.0,
+    "published_at": "2026-10-28T13:41:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50231649",
+    "title": "Regent's Ground-Effect Vehicle Reimagines Coastal Travel",
+    "url": "https://spectrum.ieee.org/ground-effect-vehicle",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-25T13:56:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50223109",
+    "title": "From confession to conspiracy: How the Wedgewood fake polls story spread",
+    "url": "https://www.cip.uw.edu/2026/10/23/from-confession-to-conspiracy-how-the-wedgewood-fake-polls-story-spread/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-10-24T17:02:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50273731",
+    "title": "The Agent SDK",
+    "url": "https://cursor.com/blog/agent-sdk",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-10-28T14:02:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50273171",
+    "title": "Emacs Turns 50",
+    "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+    "source": "hackernews",
+    "score": 257.0,
+    "published_at": "2026-10-28T13:25:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50209269",
+    "title": "Gaussian Splats part 3: There's always a bigger scene",
+    "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-10-23T14:07:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50271640",
+    "title": "Apple's git still trusts the compromised eMudhra certificates",
+    "url": "https://emudhra.we-have-a-problem.com/apple.html",
+    "source": "hackernews",
+    "score": 836.0,
+    "published_at": "2026-10-28T11:03:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50234183",
+    "title": "Fine-tuned Qwen on my 16gb GPU to respond without the letter e",
+    "url": "https://kevin-wu.ca/blog/qwn/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-25T18:00:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50274251",
+    "title": "AlpineBSD",
+    "url": "https://wiki.alpinebsd.org",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-10-28T14:30:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50276883",
+    "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+    "url": "https://slidebyside.com/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-28T17:07:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50276779",
+    "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer",
+    "url": "https://www.runconverge.com/careers/founding-platform-engineer",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-10-28T17:00:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50243060",
+    "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+    "url": "https://www.circuithub.com/post/unveiling-the-grid",
+    "source": "hackernews",
+    "score": 277.0,
+    "published_at": "2026-10-26T13:13:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50277166",
+    "title": "Mac Studio M5 Ultra 512GB Officially Released",
+    "url": "https://www.apple.com/shop/buy-mac/mac-studio",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-10-28T17:21:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50275626",
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "url": "https://surgehq.ai/blog/dayjob-tax",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-10-28T15:46:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50276940",
+    "title": "MacBook Pro with PROLED XDR Display and Touch",
+    "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+    "source": "hackernews",
+    "score": 189.0,
+    "published_at": "2026-10-28T17:10:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50274409",
+    "title": "CNC Stone Carving",
+    "url": "https://carmelitegothic.com/cnc-stone-carving/",
+    "source": "hackernews",
+    "score": 234.0,
+    "published_at": "2026-10-28T14:38:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50276792",
+    "title": "Gemini 4 Carbon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "source": "hackernews",
+    "score": 321.0,
+    "published_at": "2026-10-28T17:01:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qmvxuh",
     "title": "Tailscale SSH: Investigation and remediation update",
     "url": "https://tailscale.com/ssh-investigation-update",
@@ -4696,306 +4996,6 @@
     "source": "hackernews",
     "score": 20.0,
     "published_at": "2026-10-24T09:58:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50181106",
-    "title": "Appreciating the beauty of all your body's scars and scratches",
-    "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-10-21T14:00:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50192975",
-    "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-    "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-22T09:01:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50221179",
-    "title": "One Must Fall 2097 Remastered",
-    "url": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-24T13:47:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:al3yyf",
-    "title": "This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli",
-    "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-24T06:01:27.896-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:g5k2pc",
-    "title": "Big Runtimes Make Efficient Programs",
-    "url": "https://www.youtube.com/watch?v=vhDwy1eCXbs",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-24T02:51:04.574-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rqefcw",
-    "title": "Twelve years of distributed SQLite",
-    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-24T01:41:52.308-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vulvk7",
-    "title": "Wild version 0.11.0 released",
-    "url": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-24T05:11:35.679-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rl0dz5",
-    "title": "Be Aware of What's in Your Logs",
-    "url": "https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-24T05:42:05.453-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yczems",
-    "title": "Emacs finally folds to my liking",
-    "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-24T03:45:01.682-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xgih2x",
-    "title": "I want my Wednesday back",
-    "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
-    "source": "lobsters",
-    "score": 24.0,
-    "published_at": "2026-10-24T05:09:28.059-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251413",
-    "title": "做匿名举报系统，难的不是表单，而是权限模型与动态隔离",
-    "url": "https://www.v2ex.com/t/1251413",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-10-24T01:57:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251454",
-    "title": "国行 iPhone Duo 如何在境内写入境外 eSIM？",
-    "url": "https://www.v2ex.com/t/1251454",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-10-24T04:21:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251425",
-    "title": "Kimi K3.1 Pro 发布, 比 K3 快、性能逼近 Opus，但额度 10 分钟就烧光了",
-    "url": "https://www.v2ex.com/t/1251425",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-10-24T02:32:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251415",
-    "title": "Personal Agent 大家平时都拿来干啥？都有啥定时任务？",
-    "url": "https://www.v2ex.com/t/1251415",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-10-24T02:03:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251417",
-    "title": "月入零到月入百刀，自已没变，外人一直在变。",
-    "url": "https://www.v2ex.com/t/1251417",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-10-24T02:04:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251432",
-    "title": "用单位电脑开代理，如何逃避后台监测？",
-    "url": "https://www.v2ex.com/t/1251432",
-    "source": "v2ex",
-    "score": 82.0,
-    "published_at": "2026-10-24T03:09:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699293310729584650",
-    "title": "国产Flash大乱斗【1】：DS和MiniMax挺起胸膛！",
-    "url": "https://juejin.cn/post/7699293310729584650",
-    "source": "juejin",
-    "score": 0.19165444,
-    "published_at": "2026-10-22T09:14:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699300052456701952",
-    "title": "从数字化到数智化：3D 可视化大屏的下一个五年",
-    "url": "https://juejin.cn/post/7699300052456701952",
-    "source": "juejin",
-    "score": 0.1426956,
-    "published_at": "2026-10-22T12:08:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699679577757335587",
-    "title": "AI 都这么强了，咱们程序员以后还能干点啥？",
-    "url": "https://juejin.cn/post/7699679577757335587",
-    "source": "juejin",
-    "score": 0.3152794,
-    "published_at": "2026-10-23T09:03:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698999578180747291",
-    "title": "为什么你的 Claude Code 还在转圈等，别人的已经干完三件事了？",
-    "url": "https://juejin.cn/post/7698999578180747291",
-    "source": "juejin",
-    "score": 0.18025264,
-    "published_at": "2026-10-22T02:36:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699300052456652800",
-    "title": "别照抄网上的 php2shell 复现脚本：PHP 内核这次到底碎在哪，4 个真相（2026）",
-    "url": "https://juejin.cn/post/7699300052456652800",
-    "source": "juejin",
-    "score": 0.26891555,
-    "published_at": "2026-10-22T12:00:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699372774716801034",
-    "title": "一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏",
-    "url": "https://juejin.cn/post/7699372774716801034",
-    "source": "juejin",
-    "score": 0.4614425,
-    "published_at": "2026-10-23T01:19:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699445731564027919",
-    "title": "程序员 1v1 访谈系列第六期：国企也降薪裁员",
-    "url": "https://juejin.cn/post/7699445731564027919",
-    "source": "juejin",
-    "score": 0.44343106,
-    "published_at": "2026-10-23T02:40:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:makecindy/cindy",
-    "title": "cindy",
-    "url": "https://github.com/makecindy/cindy",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:jbiaojerry/ebook-treasure-chest",
-    "title": "ebook-treasure-chest",
-    "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:google-gemini/gemini-cli",
-    "title": "gemini-cli",
-    "url": "https://github.com/google-gemini/gemini-cli",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:pollen-robotics/microduck",
-    "title": "microduck",
-    "url": "https://github.com/pollen-robotics/microduck",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:pbakaus/impeccable",
-    "title": "impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Nutlope/hallmark",
-    "title": "hallmark",
-    "url": "https://github.com/Nutlope/hallmark",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:aws/agent-toolkit-for-aws",
-    "title": "agent-toolkit-for-aws",
-    "url": "https://github.com/aws/agent-toolkit-for-aws",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
