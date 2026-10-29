@@ -1,5 +1,315 @@
 [
   {
+    "id": "lobsters:j4ntsz",
+    "title": "Will Open Firmware Become the Next Big Trend in Electronic Music Gear?",
+    "url": "https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-29T09:37:32.398-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uezack",
+    "title": "Coding Agents, Starter Kits and pgledger",
+    "url": "https://www.pgrs.net/2026/10/29/coding-agents-starter-kits-and-pgledger/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-29T11:00:03.375-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nexvnc",
+    "title": "An open format for writing agent-native software requirements",
+    "url": "https://slcr.dev/announcements#2026-10-29-slcr-launches",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-29T11:17:42.427-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:2matgw",
+    "title": "C2PA's eMudhra Moment",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-29T15:33:44.663-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ldvd3n",
+    "title": "Extremely brief history of PDP computers",
+    "url": "https://entropicthoughts.com/history-of-pdp-computers",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-29T09:48:09.298-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tw3rsp",
+    "title": "Phorge",
+    "url": "https://www.phorge.it/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-29T11:08:47.184-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:siebde",
+    "title": "My favourite PowerMac is a Nintendo Wii",
+    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+    "source": "lobsters",
+    "score": 20.0,
+    "published_at": "2026-10-29T11:32:18.607-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:JetBrains/thinkrail",
+    "title": "thinkrail",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50291945",
+    "title": "Google Search is now less than half of Alphabet’s revenue",
+    "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+    "source": "hackernews",
+    "score": 364.0,
+    "published_at": "2026-10-29T16:42:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50278645",
+    "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
+    "url": "https://github.com/theconsensuslabs/noalloc",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-10-28T18:29:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50286197",
+    "title": "What we know so far about Spain train crash",
+    "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+    "source": "hackernews",
+    "score": 110.0,
+    "published_at": "2026-10-29T08:55:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50287775",
+    "title": "If IPv4 were land",
+    "url": "https://iptrust.co/blog/if-ipv4-were-land",
+    "source": "hackernews",
+    "score": 195.0,
+    "published_at": "2026-10-29T12:19:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50292233",
+    "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
+    "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+    "source": "hackernews",
+    "score": 140.0,
+    "published_at": "2026-10-29T16:56:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50245199",
+    "title": "Scattered thoughts on how doing math feels these days",
+    "url": "https://dynomight.net/math/",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-26T15:15:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50293115",
+    "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+    "url": "https://github.com/lonthq/overtone-captions",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-29T17:48:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50291421",
+    "title": "16colo.rs – ANSI/ASCII art archive",
+    "url": "https://16colo.rs/",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-10-29T16:14:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50278678",
+    "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+    "url": "https://github.com/emmilco/us-tax-model",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-28T18:30:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50294486",
+    "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+    "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-29T19:25:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50291116",
+    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+    "url": "https://news.ycombinator.com/item?id=50291116",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-10-29T15:56:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50290912",
+    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+    "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+    "source": "hackernews",
+    "score": 104.0,
+    "published_at": "2026-10-29T15:45:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50260033",
+    "title": "One reviewer per layer: splitting code review by the way code is read",
+    "url": "https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-27T14:33:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50255161",
+    "title": "Edit an SQLite database in your browser",
+    "url": "https://editsqlite.com/",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-10-27T05:59:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50295450",
+    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+    "url": "https://github.com/SheepSeb/tinyworldformer",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-29T20:32:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50287919",
+    "title": "DoorDash to acquire Instacart",
+    "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+    "source": "hackernews",
+    "score": 343.0,
+    "published_at": "2026-10-29T12:33:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50292727",
+    "title": "Claude Duet is the future of chatbot interaction",
+    "url": "https://fig.blue/posts/duet-is-the-future/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-29T17:24:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50290177",
+    "title": "LLM Voice",
+    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "source": "hackernews",
+    "score": 254.0,
+    "published_at": "2026-10-29T14:57:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50293023",
+    "title": "After 28 years walking across the globe, he's almost home",
+    "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-10-29T17:42:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50291054",
+    "title": "H.264 Is Magic (2016)",
+    "url": "https://sidbala.com/h-264-is-magic/",
+    "source": "hackernews",
+    "score": 229.0,
+    "published_at": "2026-10-29T15:53:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50293047",
+    "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+    "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+    "source": "hackernews",
+    "score": 137.0,
+    "published_at": "2026-10-29T17:43:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50294507",
+    "title": "The importance of communities around software",
+    "url": "https://lumi.codeberg.page/blog/software-community.html",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-10-29T19:27:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50294702",
+    "title": "Patrick Stewart has died",
+    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "source": "hackernews",
+    "score": 1165.0,
+    "published_at": "2026-10-29T19:41:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:gttasf",
     "title": "Azure’s Weakest Link - Five Full Cross-Tenant Compromises",
     "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
@@ -4686,316 +4996,6 @@
     "source": "hackernews",
     "score": 16.0,
     "published_at": "2026-10-22T14:21:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50233294",
-    "title": "JetBrains Thinkrail",
-    "url": "https://github.com/JetBrains/thinkrail",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-25T16:27:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50231166",
-    "title": "Active incident at Dreamhost forcing password reset",
-    "url": "https://www.dreamhoststatus.com/",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-10-25T13:09:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50223435",
-    "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
-    "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-10-24T17:42:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50234232",
-    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-    "source": "hackernews",
-    "score": 135.0,
-    "published_at": "2026-10-25T18:04:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50233779",
-    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "url": "https://lynchlab.net/llm-skin-cancer",
-    "source": "hackernews",
-    "score": 187.0,
-    "published_at": "2026-10-25T17:15:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50233929",
-    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-    "url": "https://talkweb.eu/openweb/4558/",
-    "source": "hackernews",
-    "score": 194.0,
-    "published_at": "2026-10-25T17:30:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50234474",
-    "title": "Dolly Parton's Imagination Library",
-    "url": "https://imaginationlibrary.com/",
-    "source": "hackernews",
-    "score": 102.0,
-    "published_at": "2026-10-25T18:23:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qsmmke",
-    "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-    "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-25T09:57:20.484-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jdczl6",
-    "title": "A vision for a next-generation timeline",
-    "url": "https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-25T10:03:10.879-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5ullyu",
-    "title": "When a glibc update accidentally breaks Chromium's audio (2021)",
-    "url": "https://refi64.dev/posts/chromium-audio-break.html",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-25T10:34:21.618-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kiivg2",
-    "title": "Partial Order Precedence",
-    "url": "https://ziglang.org/devlog/2026/#2026-10-24",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-25T09:18:21.661-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cxwpil",
-    "title": "Vim Classic",
-    "url": "https://vim-classic.org/",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-10-25T10:05:45.735-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tbbiqb",
-    "title": "POSIX wordexp(3) is dangerous",
-    "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-10-25T10:09:29.815-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zfoiw1",
-    "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
-    "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
-    "source": "lobsters",
-    "score": 37.0,
-    "published_at": "2026-10-25T08:43:11.758-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251624",
-    "title": "微信是怎么屏蔽 codex 的",
-    "url": "https://www.v2ex.com/t/1251624",
-    "source": "v2ex",
-    "score": 32.0,
-    "published_at": "2026-10-25T04:55:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251592",
-    "title": "用 ai 实现书法作品自动生成",
-    "url": "https://www.v2ex.com/t/1251592",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-10-25T00:41:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251671",
-    "title": "有没有感觉 Codex 越来越比不上 Claude 了",
-    "url": "https://www.v2ex.com/t/1251671",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-10-25T10:40:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699398620680814643",
-    "title": "Codex、Claude Code、DSH 怎么用手机管？我试了试 Agents Anywhere",
-    "url": "https://juejin.cn/post/7699398620680814643",
-    "source": "juejin",
-    "score": 0.11280404,
-    "published_at": "2026-10-23T05:56:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699680016263905318",
-    "title": "JDK 21 规模化落地实践",
-    "url": "https://juejin.cn/post/7699680016263905318",
-    "source": "juejin",
-    "score": 0.12617794,
-    "published_at": "2026-10-23T08:43:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699786990749253642",
-    "title": "Flutter版本选择指南：3.44稳定了11周正式转正 | 2026年10月",
-    "url": "https://juejin.cn/post/7699786990749253642",
-    "source": "juejin",
-    "score": 0.13268139,
-    "published_at": "2026-10-24T09:20:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50230917",
-    "title": "Tool book of a Nuremberg knight from 1505",
-    "url": "https://loeffelholz-codex.org/en/",
-    "source": "hackernews",
-    "score": 129.0,
-    "published_at": "2026-10-25T12:37:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50233304",
-    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-25T16:28:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50195184",
-    "title": "Bring Back the Cool Save File Screens",
-    "url": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-22T13:40:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50231189",
-    "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
-    "url": "https://twitter.com/freddier/status/2114042326758867453",
-    "source": "hackernews",
-    "score": 101.0,
-    "published_at": "2026-10-25T13:11:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50167528",
-    "title": "Washing machines took decades to catch on",
-    "url": "https://daily.jstor.org/why-washing-machines-took-decades-to-catch-on/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-20T15:05:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50231349",
-    "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
-    "url": "https://github.com/winnin/farol",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-10-25T13:28:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50232035",
-    "title": "A few thoughts on intensity",
-    "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-10-25T14:37:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50232312",
-    "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-    "url": "https://bigwhalehunting.com/workforce/",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-10-25T15:05:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251636",
-    "title": "有没有发现一个奇怪的现象？",
-    "url": "https://www.v2ex.com/t/1251636",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-10-25T06:57:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251621",
-    "title": "codex 最新的功能，居然和我之前做的小功能如此雷同",
-    "url": "https://www.v2ex.com/t/1251621",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-10-25T04:23:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251601",
-    "title": "搓了一个“V2EX 评论上下文”的 chrome 插件，方便 V 友阅读评论",
-    "url": "https://www.v2ex.com/t/1251601",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-10-25T01:59:03+00:00",
     "summary": "",
     "key_points": []
   }
