@@ -1,5 +1,295 @@
 [
   {
+    "id": "lobsters:opmxlq",
+    "title": "My Terminal Setup in 2026: Ghostty, tmux, and Neovim",
+    "url": "https://nick-liu.com/posts/my-terminal-setup-2026/",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-10-29T02:39:00.793-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9h6lc4",
+    "title": "ACLs don’t (2009)",
+    "url": "https://shiftleft.com/mirrors/www.hpl.hp.com/techreports/2009/HPL-2009-20.pdf",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-28T23:13:20.465-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jmbjlu",
+    "title": "The Future Trait Has A Missing State",
+    "url": "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-28T23:24:28.224-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dqexzg",
+    "title": "The case of the 9 bit AES key",
+    "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+    "source": "lobsters",
+    "score": 17.0,
+    "published_at": "2026-10-28T21:13:24.028-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7qaac6",
+    "title": "What the fox say?",
+    "url": "https://entropicthoughts.com/what-the-fox-say",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-29T01:42:40.796-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252721",
+    "title": "感觉 Ternus 上台，没干一件漂亮事啊！",
+    "url": "https://www.v2ex.com/t/1252721",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-10-29T00:54:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252622",
+    "title": "复刻 JetBrains 的 Git 客户端做成 VS Code 插件发布到插件市场了",
+    "url": "https://www.v2ex.com/t/1252622",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-10-28T10:25:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252772",
+    "title": "OpenAI 有个小福利 去领一下",
+    "url": "https://www.v2ex.com/t/1252772",
+    "source": "v2ex",
+    "score": 138.0,
+    "published_at": "2026-10-29T02:42:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252733",
+    "title": "现在的 AI 是不是能达到或者超越一个标准本科生了？？",
+    "url": "https://www.v2ex.com/t/1252733",
+    "source": "v2ex",
+    "score": 146.0,
+    "published_at": "2026-10-29T01:27:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252775",
+    "title": "被裁了，今天最后一天。",
+    "url": "https://www.v2ex.com/t/1252775",
+    "source": "v2ex",
+    "score": 150.0,
+    "published_at": "2026-10-29T02:45:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252726",
+    "title": "[公益站] 迫于 token 太多，秉持不浪费的原则分享给大家使用而开站。",
+    "url": "https://www.v2ex.com/t/1252726",
+    "source": "v2ex",
+    "score": 152.0,
+    "published_at": "2026-10-29T01:07:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252752",
+    "title": "[送码] 做了个本地影音库 Inscura，支持电影剧集刮削和本地 Ai 画面检索（Mac/Windows）",
+    "url": "https://www.v2ex.com/t/1252752",
+    "source": "v2ex",
+    "score": 164.0,
+    "published_at": "2026-10-29T02:10:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252725",
+    "title": "新款 MacBook 的触摸屏真的有用吗？",
+    "url": "https://www.v2ex.com/t/1252725",
+    "source": "v2ex",
+    "score": 184.0,
+    "published_at": "2026-10-29T01:06:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252878",
+    "title": "亲戚来上海找工作想在我家打地铺，老婆不乐意，我妈说我不懂人情世故",
+    "url": "https://www.v2ex.com/t/1252878",
+    "source": "v2ex",
+    "score": 278.0,
+    "published_at": "2026-10-29T07:41:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701545991036862491",
+    "title": "现代 Android 架构指南：不要再主动设计 Callback 接口",
+    "url": "https://juejin.cn/post/7701545991036862491",
+    "source": "juejin",
+    "score": 0.65664902,
+    "published_at": "2026-10-28T12:37:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7700603865700663336",
+    "title": "doc2docx方案，开源！",
+    "url": "https://juejin.cn/post/7700603865700663336",
+    "source": "juejin",
+    "score": 0.14777073,
+    "published_at": "2026-10-26T09:35:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7673809190474629155",
+    "title": "我用 DeepSeek 做了 4 个零依赖的赚钱小工具，全部开源",
+    "url": "https://juejin.cn/post/7673809190474629155",
+    "source": "juejin",
+    "score": 0.4223561,
+    "published_at": "2026-08-14T14:10:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701637989948784659",
+    "title": "排名算法一变，国产模型全部滑铁卢了！",
+    "url": "https://juejin.cn/post/7701637989948784659",
+    "source": "juejin",
+    "score": 4.86271347,
+    "published_at": "2026-10-29T03:03:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50271756",
+    "title": "TLP Is Not a Suggestion",
+    "url": "https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-28T11:16:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50284342",
+    "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+    "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-29T03:48:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50242873",
+    "title": "Human-enhanced tsunami hazard in large lakes",
+    "url": "https://www.nature.com/articles/s41467-026-78272-8",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-26T13:00:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50241949",
+    "title": "Treap (Cartesian Tree)",
+    "url": "https://cp-algorithms.com/data_structures/treap.html",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-10-26T11:19:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50284255",
+    "title": "Claude Code regularly sends each background agent’s transcript to its model",
+    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "source": "hackernews",
+    "score": 333.0,
+    "published_at": "2026-10-29T03:33:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50285452",
+    "title": "Zero click, silent, remote Android DoS",
+    "url": "https://smsofdeath.com/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-29T07:08:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50256409",
+    "title": "A new faster algorithm to compute 64-bit signed floor division",
+    "url": "https://www.benjoffe.com/fast-floordiv",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-10-27T09:13:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50251200",
+    "title": "OpenAI's agents talked to each other through the CPU Cache",
+    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+    "source": "hackernews",
+    "score": 109.0,
+    "published_at": "2026-10-26T21:24:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50285319",
+    "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+    "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-10-29T06:47:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50243757",
+    "title": "Getting debug access on a Brother printer over Telnet",
+    "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-26T13:54:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50285714",
+    "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
+    "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-29T07:52:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:brdwr2",
     "title": "Redox Ring Buffers Project Summary",
     "url": "https://www.redox-os.org/news/nlnet-rb-summary/",
@@ -4706,296 +4996,6 @@
     "source": "juejin",
     "score": 0.19637781,
     "published_at": "2026-10-23T12:58:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699307133640884267",
-    "title": "从\"会聊天\"到\"能干活\"：AI 智能体的五级演进、核心概念解剖与产业格局",
-    "url": "https://juejin.cn/post/7699307133640884267",
-    "source": "juejin",
-    "score": 0.13390271,
-    "published_at": "2026-10-22T08:40:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700059276316246067",
-    "title": " Kimi K3.1 Pro已测，国模终于来一个能打的 ！？",
-    "url": "https://juejin.cn/post/7700059276316246067",
-    "source": "juejin",
-    "score": 0.59260999,
-    "published_at": "2026-10-24T14:24:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50198954",
-    "title": "Monoidal computer I: Basic computability by string diagrams (2012)",
-    "url": "https://arxiv.org/abs/1208.5205",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-22T18:03:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50227639",
-    "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-    "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-    "source": "hackernews",
-    "score": 132.0,
-    "published_at": "2026-10-25T02:18:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50186289",
-    "title": "A story of a Figma bug that wasn't a bug at all (2021)",
-    "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-21T19:30:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50176674",
-    "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-    "url": "https://pragtical.dev/blog/pragtical-v3140-release",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-21T06:09:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50194935",
-    "title": "In Rainbows",
-    "url": "https://hitogata.neocities.org/Rainbows",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-22T13:20:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50193612",
-    "title": "Picasa Photo Viewer Rebuilt for Linux, Project Named Licasa",
-    "url": "https://github.com/sanxchep/licasa",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-22T10:44:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50227356",
-    "title": "Cerebras Deploys Trillion-Parameter AI Models",
-    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "source": "hackernews",
-    "score": 91.0,
-    "published_at": "2026-10-25T01:33:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50228167",
-    "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-    "url": "https://github.com/slee-persis/GVS5H",
-    "source": "hackernews",
-    "score": 129.0,
-    "published_at": "2026-10-25T03:56:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:whgofc",
-    "title": "SIMD and Go",
-    "url": "https://internals-for-interns.com/posts/go-simd/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-24T18:11:40.472-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jqjioq",
-    "title": "Scrawl: show an agent the problem",
-    "url": "https://scrawl.kitlangton.com/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-24T18:38:21.847-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7byfjv",
-    "title": "MacOS Extensions pack for the Apple Network Server v1.0",
-    "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-24T20:22:45.850-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8h9sey",
-    "title": "We should be more ambitious with the software we build",
-    "url": "https://danluu.com/ambitious/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-24T18:06:08.743-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251555",
-    "title": "微信会监控私聊记录吗？",
-    "url": "https://www.v2ex.com/t/1251555",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-10-24T13:26:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699025083108655138",
-    "title": "为什么越来越多人用Eino？",
-    "url": "https://juejin.cn/post/7699025083108655138",
-    "source": "juejin",
-    "score": 0.1251607,
-    "published_at": "2026-10-22T01:52:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7698949568277757994",
-    "title": "【Compose Multiplatform跨端声明式UI实用技术】第9课：跨平台 ViewModel 与状态架构",
-    "url": "https://juejin.cn/post/7698949568277757994",
-    "source": "juejin",
-    "score": 0.11159201,
-    "published_at": "2026-10-21T22:48:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50226646",
-    "title": "FindMyWeb: Apple Find My, reverse enginiered",
-    "url": "https://codeberg.org/Misom/FindMyWeb",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-24T23:42:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50226434",
-    "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-    "url": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-10-24T23:14:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50169450",
-    "title": "Social dynamics of toxic metal industry in medieval Europe",
-    "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-20T17:06:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50188440",
-    "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-    "url": "https://xingjianbai.com/reactive-optimizers/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-21T22:17:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50172432",
-    "title": "I Built a Stereo Vision Board for Hardware Hackers",
-    "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-10-20T20:45:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50226577",
-    "title": "Why Gopher in 2026?",
-    "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-24T23:33:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50226419",
-    "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "source": "hackernews",
-    "score": 127.0,
-    "published_at": "2026-10-24T23:11:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9b14at",
-    "title": "An animated explainer of the PHP2Shell vulnerability",
-    "url": "https://www.youtube.com/watch?v=6Kz4bWKoXhU",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-24T17:48:29.024-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251553",
-    "title": "大龄单身青年晚上都干啥",
-    "url": "https://www.v2ex.com/t/1251553",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-10-24T13:14:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50223777",
-    "title": "Bbtree: Fastest Ordered Map",
-    "url": "https://bbtree.xiangpeng.systems/post/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-24T18:22:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50168376",
-    "title": "Making a VGA Driver in SystemVerilog",
-    "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-20T16:00:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50225663",
-    "title": "The Importance of Limitations for Creativity and Learning",
-    "url": "https://ratfactor.com/cards/limitations",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-24T21:42:47+00:00",
     "summary": "",
     "key_points": []
   }
