@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:brdwr2",
+    "title": "Redox Ring Buffers Project Summary",
+    "url": "https://www.redox-os.org/news/nlnet-rb-summary/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-28T21:04:00.893-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ssp7ug",
+    "title": "Introducing the Accessible Components Library",
+    "url": "https://tetralogical.com/blog/2026/10/14/accessible-components-library/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-28T19:30:45.274-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uimyck",
+    "title": "EMACS turns 50",
+    "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-10-28T18:57:12.852-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:2zsjwt",
+    "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
+    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-10-28T18:01:26.314-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252542",
+    "title": "拿到华为 od 口头 offer 了，值不值得去",
+    "url": "https://www.v2ex.com/t/1252542",
+    "source": "v2ex",
+    "score": 92.0,
+    "published_at": "2026-10-28T06:17:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252716",
+    "title": "兄弟们， MacBook Pro 经典 LOGO 发光的重新回归，有点小激动啊",
+    "url": "https://www.v2ex.com/t/1252716",
+    "source": "v2ex",
+    "score": 92.0,
+    "published_at": "2026-10-29T00:32:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252446",
+    "title": "小米智能门锁， 5 号电池总是很快用没电",
+    "url": "https://www.v2ex.com/t/1252446",
+    "source": "v2ex",
+    "score": 120.0,
+    "published_at": "2026-10-28T02:28:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252521",
+    "title": "[满血不降智] 一个真正一目了然的自建 Codex 中转站",
+    "url": "https://www.v2ex.com/t/1252521",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-10-28T05:36:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252487",
+    "title": "人在大陆，只有国内银行的 VISA 卡，如何搞定 Claude 会员支付？",
+    "url": "https://www.v2ex.com/t/1252487",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-10-28T03:31:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252584",
+    "title": "是我太感情淡漠吗？",
+    "url": "https://www.v2ex.com/t/1252584",
+    "source": "v2ex",
+    "score": 146.0,
+    "published_at": "2026-10-28T08:19:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7700627964493971498",
+    "title": "用 Codex 完成智慧高速 3D 可视化大屏，从 18 张行业设计稿到可交互的运行监测中心",
+    "url": "https://juejin.cn/post/7700627964493971498",
+    "source": "juejin",
+    "score": 0.16823454,
+    "published_at": "2026-10-26T10:10:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7700962023287128115",
+    "title": "又找到一个纯Java的OCR项目，识别的格式还挺多",
+    "url": "https://juejin.cn/post/7700962023287128115",
+    "source": "juejin",
+    "score": 0.23884422,
+    "published_at": "2026-10-27T05:52:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701352628311392297",
+    "title": "GPT-6.1 Terra上线：更便宜了，干活到底怎么样？",
+    "url": "https://juejin.cn/post/7701352628311392297",
+    "source": "juejin",
+    "score": 0.32986817,
+    "published_at": "2026-10-27T14:27:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701316033940865058",
+    "title": "我买的电视，我还不能研究它吗？",
+    "url": "https://juejin.cn/post/7701316033940865058",
+    "source": "juejin",
+    "score": 0.92444696,
+    "published_at": "2026-10-28T06:30:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50282454",
+    "title": "StackOverflow now gets fewer than 1000 questions a month",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+    "source": "hackernews",
+    "score": 105.0,
+    "published_at": "2026-10-28T23:35:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50282865",
+    "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+    "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-10-29T00:30:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50244929",
+    "title": "Nixpkgs for the Front End Impaired",
+    "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-26T15:00:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50250609",
+    "title": "Image generation has come a long way since August 2022",
+    "url": "https://www.hbrooks.com/writing/image-generation-has-come-a-long-way",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-26T20:40:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50220975",
+    "title": "Why Birds Can Fly over Mount Everest",
+    "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-10-24T13:17:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50233948",
+    "title": "How we made our MMDB files a 33% smaller",
+    "url": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-10-25T17:33:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50280974",
+    "title": "A Health Update",
+    "url": "https://furbo.org/2026/10/28/a-health-update/",
+    "source": "hackernews",
+    "score": 106.0,
+    "published_at": "2026-10-28T21:13:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50282538",
+    "title": "The first wired XR glasses powered by Android XR",
+    "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-10-28T23:45:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50282544",
+    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-10-28T23:45:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50282838",
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-10-29T00:25:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:sd75mw",
     "title": "Foundational Cryptography in SPARK",
     "url": "https://www.adacore.com/blog/foundational-cryptography-in-spark",
@@ -4756,246 +4996,6 @@
     "source": "hackernews",
     "score": 5.0,
     "published_at": "2026-10-24T21:42:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50194602",
-    "title": "Full Disk Encryption on Fedora with TPM2",
-    "url": "https://www.apalrd.net/posts/2026/ent_luks/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-22T12:46:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50225748",
-    "title": "Argus – a free, open-source agentic security operations platform – MIT",
-    "url": "https://thomasunise.com/argus",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-24T21:54:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50225674",
-    "title": "Small Programs and Languages",
-    "url": "https://ratfactor.com/cards/pl-small",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-24T21:44:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50224210",
-    "title": "SpeedCrunch 1.1",
-    "url": "https://www.speedcrunch.org/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-24T19:19:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50225695",
-    "title": "We should be more ambitious with the software we build",
-    "url": "https://danluu.com/ambitious/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-24T21:47:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50224916",
-    "title": "Show HN: Steal My Bitcoin",
-    "url": "https://stealmybitcoin.com/",
-    "source": "hackernews",
-    "score": 290.0,
-    "published_at": "2026-10-24T20:30:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rlrfew",
-    "title": "Balloting has completed for C++26. Unfortunately it was Disapproved/",
-    "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-24T13:00:36.212-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251445",
-    "title": "现在新号订阅是不是必被 KYC",
-    "url": "https://www.v2ex.com/t/1251445",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-10-24T03:51:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50224074",
-    "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-    "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-10-24T19:03:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50223647",
-    "title": "Why is AI generated language so hard to understand?",
-    "url": "https://arxiv.org/abs/2610.29162",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-10-24T18:04:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50189981",
-    "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
-    "url": "https://sourceforge.net/projects/zac-os-9/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-22T01:28:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50223844",
-    "title": "Danish Government silently drops plan to dump MS Office",
-    "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-    "source": "hackernews",
-    "score": 111.0,
-    "published_at": "2026-10-24T18:31:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50223785",
-    "title": "Dream-1",
-    "url": "https://dreamlabs.ai/research/dream-1/",
-    "source": "hackernews",
-    "score": 93.0,
-    "published_at": "2026-10-24T18:23:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50224422",
-    "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-    "url": "https://missileer.watch",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-24T19:43:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50224100",
-    "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
-    "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
-    "source": "hackernews",
-    "score": 68.0,
-    "published_at": "2026-10-24T19:06:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50224300",
-    "title": "The Goose Programming Language",
-    "url": "https://aardappel.github.io/goose/",
-    "source": "hackernews",
-    "score": 67.0,
-    "published_at": "2026-10-24T19:27:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50224463",
-    "title": "No Signs of AI Payoff Outside the Tech Sector",
-    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "source": "hackernews",
-    "score": 136.0,
-    "published_at": "2026-10-24T19:47:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ysah7i",
-    "title": "2026 Ruby on Rails Community Survey Results",
-    "url": "https://railsdeveloper.com/survey/2026",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-24T11:50:50.078-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gzpdsk",
-    "title": "The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages",
-    "url": "https://emptysqua.re/blog/polyglots-dilemma/",
-    "source": "lobsters",
-    "score": 0.0,
-    "published_at": "2026-10-24T11:59:53.935-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dfieqa",
-    "title": "Bringing uv and ty together",
-    "url": "https://astral.sh/blog/uv-ty-integration",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-24T10:27:34.811-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251551",
-    "title": "特斯拉到底有什么魔力, 销量这么高的毛坯房",
-    "url": "https://www.v2ex.com/t/1251551",
-    "source": "v2ex",
-    "score": 72.0,
-    "published_at": "2026-10-24T13:10:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50222283",
-    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-24T15:35:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50180251",
-    "title": "Tiling Noise – Procedural GPU Patterns",
-    "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-10-21T13:04:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50195535",
-    "title": "Parsing EDIFACT in Python with syntax trees",
-    "url": "https://github.com/AmadeusITGroup/Edison",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-22T14:07:48+00:00",
     "summary": "",
     "key_points": []
   }
