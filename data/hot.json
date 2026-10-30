@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:f4aqog",
+    "title": "How curl was accidentally Turing-complete for nine months",
+    "url": "https://seriot.ch/computation/curl.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-30T02:24:01.170-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qqelq1",
+    "title": "Design the interface for functionality not familiarity",
+    "url": "https://lapcatsoftware.com/articles/2026/10/10.html",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-29T20:04:38.454-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:6ole9g",
+    "title": "If you love a website, back it up",
+    "url": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-10-29T20:29:00.653-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qsvspv",
+    "title": "Pidgin 3.0 Alpha 4 2.98.0 has been released",
+    "url": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-29T22:58:19.553-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253068",
+    "title": "为啥这帮煞笔前端设计师，把 PC WEB 滚动条 搞 那么细？",
+    "url": "https://www.v2ex.com/t/1253068",
+    "source": "v2ex",
+    "score": 138.0,
+    "published_at": "2026-10-30T02:01:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253104",
+    "title": "第一次相亲的一点情况",
+    "url": "https://www.v2ex.com/t/1253104",
+    "source": "v2ex",
+    "score": 160.0,
+    "published_at": "2026-10-30T02:47:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253076",
+    "title": "我没有任何办法用 Claude 了吗？",
+    "url": "https://www.v2ex.com/t/1253076",
+    "source": "v2ex",
+    "score": 162.0,
+    "published_at": "2026-10-30T02:12:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253030",
+    "title": "这算是被阴阳了吗？",
+    "url": "https://www.v2ex.com/t/1253030",
+    "source": "v2ex",
+    "score": 176.0,
+    "published_at": "2026-10-30T00:39:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252881",
+    "title": "今天自己的自建梯子被封端口了，架构是 Vless+reality（自己的域名）+xhttp+443 端口，请问墙怎么查出来的？都这么隐秘了，所有的版本都是最新的",
+    "url": "https://www.v2ex.com/t/1252881",
+    "source": "v2ex",
+    "score": 182.0,
+    "published_at": "2026-10-29T07:43:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252936",
+    "title": "关于达泊西汀，我有句话想说，时间短的兄弟们建议看看",
+    "url": "https://www.v2ex.com/t/1252936",
+    "source": "v2ex",
+    "score": 190.0,
+    "published_at": "2026-10-29T09:51:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253091",
+    "title": "就是想买，有人劝醒我么？",
+    "url": "https://www.v2ex.com/t/1253091",
+    "source": "v2ex",
+    "score": 252.0,
+    "published_at": "2026-10-30T02:30:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702013601234370596",
+    "title": "冷知识：国模又慢又贵，洋模又快又便宜！",
+    "url": "https://juejin.cn/post/7702013601234370596",
+    "source": "juejin",
+    "score": 4.52606373,
+    "published_at": "2026-10-30T03:09:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701490621295935529",
+    "title": "DeepSeek Harness 和 Pi Agent 怎么选？先想想你愿意折腾什么",
+    "url": "https://juejin.cn/post/7701490621295935529",
+    "source": "juejin",
+    "score": 0.18514094,
+    "published_at": "2026-10-28T02:42:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701971738456752162",
+    "title": "Service Mesh 可观测性：分布式追踪、指标与日志的统一方案",
+    "url": "https://juejin.cn/post/7701971738456752162",
+    "source": "juejin",
+    "score": 15.27912574,
+    "published_at": "2026-10-30T01:10:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701250481567039528",
+    "title": "ValidX vs 正则表达式：可读性与维护性对比",
+    "url": "https://juejin.cn/post/7701250481567039528",
+    "source": "juejin",
+    "score": 1.18635898,
+    "published_at": "2026-10-28T02:22:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50298318",
+    "title": "Cormac McCarthy's Library",
+    "url": "https://cormacmccarthy.lib.utk.edu/",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-10-30T00:31:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50296920",
+    "title": "Should a medical diagnosis reshape the past? (2025)",
+    "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-29T22:12:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50269668",
+    "title": "Solving Postgres' Count Problem",
+    "url": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-10-28T05:34:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50266956",
+    "title": "An illustrated online book on Hewlett-Packard equipment",
+    "url": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-27T22:47:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50298964",
+    "title": "Pico CSS is no longer maintained",
+    "url": "https://github.com/picocss/pico/discussions/754",
+    "source": "hackernews",
+    "score": 108.0,
+    "published_at": "2026-10-30T01:58:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50255573",
+    "title": "Python on My Wrist",
+    "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-27T07:10:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50300643",
+    "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+    "url": "https://www.workatastartup.com/jobs/98722",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-10-30T07:00:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50273104",
+    "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+    "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-10-28T13:20:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50298436",
+    "title": "Herdr has released native app",
+    "url": "https://github.com/herdrdev/herdr-app",
+    "source": "hackernews",
+    "score": 148.0,
+    "published_at": "2026-10-30T00:42:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50270651",
+    "title": "Astroterm: A Planetarium for Your Terminal",
+    "url": "https://github.com/da-luce/astroterm",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-10-28T08:29:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50255343",
+    "title": "Cuis: The Modern Smalltalk-80",
+    "url": "https://cuis.st/",
+    "source": "hackernews",
+    "score": 79.0,
+    "published_at": "2026-10-27T06:33:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:1r7enm",
     "title": "XSS in yarr RSS reader",
     "url": "https://0x67673068.me/xss-in-yarr/",
@@ -4736,266 +4996,6 @@
     "source": "hackernews",
     "score": 65.0,
     "published_at": "2026-10-25T23:52:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50218693",
-    "title": "The Fall of Scientific American",
-    "url": "https://www.thenation.com/article/society/scientific-american-springer-nature-trump/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-10-24T06:03:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50228115",
-    "title": "Show HN: A Truly Modular Keyboard",
-    "url": "https://github.com/notaroomba/keybytes",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-10-25T03:47:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50238763",
-    "title": "Behind the scenes at the NeXT Computer office",
-    "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-10-26T03:31:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50238739",
-    "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-    "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-10-26T03:29:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50238708",
-    "title": "Show HN: TitleArt – Make text like it's 1997",
-    "url": "https://titleart.dvy.io/",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-10-26T03:23:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:x1s5oq",
-    "title": "“AI Skills” are worthless in 2026",
-    "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-25T19:23:42.695-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kfaimp",
-    "title": "Two musings on the design of compiler warnings (2020)",
-    "url": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-25T17:23:32.565-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hzrmwz",
-    "title": "Simple NetBSD webserver",
-    "url": "https://bsandro.tech/posts/simple-netbsd-webserver/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-25T18:13:40.605-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251696",
-    "title": "有件事我搞不明白， V 站为何不升级一下交互和 UI？然后出一个官方的 APP？",
-    "url": "https://www.v2ex.com/t/1251696",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-10-25T14:02:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699886793819504640",
-    "title": "继PHP之后，Java也爆出了重大安全漏洞！",
-    "url": "https://juejin.cn/post/7699886793819504640",
-    "source": "juejin",
-    "score": 0.73862671,
-    "published_at": "2026-10-25T07:59:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50236356",
-    "title": "What Security Teams Need to Know About Agents Using Abliterated Models",
-    "url": "https://eve.security/blog/what-security-teams-need-to-know-about-agents-using-abliterated-models",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-25T21:45:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50237256",
-    "title": "Lula Wins a Record Fourth Term in Brazil in a Surprise Comeback",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-25/lula-wins-a-record-fourth-term-in-brazil-in-a-surprise-comeback",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-25T23:56:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50236748",
-    "title": "Proton Flock Camera Map",
-    "url": "https://proton.me/flock-camera-map",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-10-25T22:39:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50185534",
-    "title": "Amazon's \"digital pacifier\" for toddlers",
-    "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-10-21T18:37:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50208628",
-    "title": "Reverse engineering a Beyblade launch tracker",
-    "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-23T13:25:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50199199",
-    "title": "Retired decorator's Pokémon cards sell for £1.5M",
-    "url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-22T18:25:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50213610",
-    "title": "Making the Buddha Head from Merv Whole Again",
-    "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-23T18:46:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50237426",
-    "title": "Lula Wins Brazilian Election",
-    "url": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-26T00:23:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50237078",
-    "title": "F-Zero X on Nintendo 3DS",
-    "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-25T23:27:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1q1rc1",
-    "title": "Reverse-Engineering Instruction Encodings (2001)",
-    "url": "https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-25T16:58:42.634-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ekwolo",
-    "title": "Building Java ME Apps with Modern Tooling",
-    "url": "https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-25T16:33:19.325-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dkoryq",
-    "title": "The Goose Programming Language",
-    "url": "https://aardappel.github.io/goose/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-25T15:10:47.275-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50235639",
-    "title": "Focused Company Operating Principles",
-    "url": "https://focused.io/operating-principles",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-25T20:16:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50235217",
-    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-    "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-    "source": "hackernews",
-    "score": 110.0,
-    "published_at": "2026-10-25T19:29:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50236102",
-    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "url": "https://minimaxir.com/2026/10/cheap-llms/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-10-25T21:11:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50234879",
-    "title": "Where the Romans Fought (interactive map)",
-    "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-25T18:58:14+00:00",
     "summary": "",
     "key_points": []
   }
