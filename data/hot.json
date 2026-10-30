@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:dtvr7y",
+    "title": "Defending the patch gap against automated attackers",
+    "url": "https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-10-30T16:06:04.238-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ncclwy",
+    "title": "Switch lowering in GCC",
+    "url": "https://xoranth.net/gcc-switch/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-30T15:00:34.085-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uyobll",
+    "title": "Getting Google Cast on my Soundbar",
+    "url": "https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-30T14:14:44.429-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1pmuy7",
+    "title": "How hard is it to check for whitespace?",
+    "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-30T17:25:49.818-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50310796",
+    "title": "France is getting download tax for content providers (€0.055/GB)",
+    "url": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-10-30T22:10:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50310258",
+    "title": "AO3 Down for Maintenance",
+    "url": "https://www.otwstatus.org",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-10-30T21:17:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50308986",
+    "title": "A Pickpocket's Guide to New York",
+    "url": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-10-30T19:26:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50293437",
+    "title": "Turning a solar power system into its own backup",
+    "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-10-29T18:10:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50310687",
+    "title": "Linode Security Incident",
+    "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+    "source": "hackernews",
+    "score": 106.0,
+    "published_at": "2026-10-30T21:57:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50309647",
+    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+    "source": "hackernews",
+    "score": 141.0,
+    "published_at": "2026-10-30T20:23:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50277379",
+    "title": "Cloudflare Turnstile solver library (no headless browser required)",
+    "url": "https://github.com/chris124567/cfsolve",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-28T17:29:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50309266",
+    "title": "The oldest ice disappears and the Stone Age emerges from it",
+    "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-10-30T19:51:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50309029",
+    "title": "Infinite Mac: BeOS",
+    "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-10-30T19:30:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50309314",
+    "title": "Jules Verne's Lost Novel",
+    "url": "https://blue-continuum.com/verne-paris",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-10-30T19:55:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50310398",
+    "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+    "url": "https://www.firezone.dev/blog/introducing-sanstun",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-30T21:30:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:spv7tb",
     "title": "Rationale for filtering LLM usage links as off-topic",
     "url": "https://lobste.rs/s/spv7tb",
@@ -4846,156 +4996,6 @@
     "source": "hackernews",
     "score": 124.0,
     "published_at": "2026-10-26T16:35:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50248665",
-    "title": "US designates helium as a critical material",
-    "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-10-26T18:31:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50222794",
-    "title": "An incremental approach to JIT construction",
-    "url": "https://dl.acm.org/doi/10.1145/3830440.3832304",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-24T16:27:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50247630",
-    "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-    "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-10-26T17:32:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50247928",
-    "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
-    "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-26T17:49:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50242870",
-    "title": "Fixing Tool-Call Accuracy in vLLM",
-    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-    "source": "hackernews",
-    "score": 127.0,
-    "published_at": "2026-10-26T12:59:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50241925",
-    "title": "Pharo 14",
-    "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-    "source": "hackernews",
-    "score": 182.0,
-    "published_at": "2026-10-26T11:15:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50209525",
-    "title": "Diamond Transistor",
-    "url": "https://www.df.com/diamond-transistor",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-10-23T14:20:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50236681",
-    "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-    "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-    "source": "hackernews",
-    "score": 107.0,
-    "published_at": "2026-10-25T22:29:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50248055",
-    "title": "Oldest GUI application that still runs on Windows 11",
-    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-10-26T17:56:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50242939",
-    "title": "Anthropic S-1",
-    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-    "source": "hackernews",
-    "score": 1194.0,
-    "published_at": "2026-10-26T13:04:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50247493",
-    "title": "Nietzschian Debugger",
-    "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-26T17:25:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50248124",
-    "title": "GPT-6.1 Terra",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "source": "hackernews",
-    "score": 159.0,
-    "published_at": "2026-10-26T18:01:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50245831",
-    "title": "CSS-Tricks has a new owner",
-    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-    "source": "hackernews",
-    "score": 219.0,
-    "published_at": "2026-10-26T15:51:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50248371",
-    "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
-    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-26T18:14:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50245138",
-    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "source": "hackernews",
-    "score": 334.0,
-    "published_at": "2026-10-26T15:11:59+00:00",
     "summary": "",
     "key_points": []
   }
