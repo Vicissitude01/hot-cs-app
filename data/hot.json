@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:1r7enm",
+    "title": "XSS in yarr RSS reader",
+    "url": "https://0x67673068.me/xss-in-yarr/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-10-29T18:55:54.997-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:dsrruj",
+    "title": "London meetup",
+    "url": "https://lobste.rs/s/dsrruj",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-10-29T15:56:43.483-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252841",
+    "title": "准备卸载红果了",
+    "url": "https://www.v2ex.com/t/1252841",
+    "source": "v2ex",
+    "score": 146.0,
+    "published_at": "2026-10-29T06:05:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1252867",
+    "title": "Android 全平台纯自研内核 IPTV 播放器，各种格式都可以快速起播",
+    "url": "https://www.v2ex.com/t/1252867",
+    "source": "v2ex",
+    "score": 154.0,
+    "published_at": "2026-10-29T07:12:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701604765431873545",
+    "title": "AI友好的可视化图形引擎自我革命：Meta2d.js 2.0 历时一年全新重写，性能与多人协作全面升级",
+    "url": "https://juejin.cn/post/7701604765431873545",
+    "source": "juejin",
+    "score": 0.32505136,
+    "published_at": "2026-10-28T11:05:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50233059",
+    "title": "If-then-else had to be invented (2020)",
+    "url": "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md",
+    "source": "hackernews",
+    "score": 165.0,
+    "published_at": "2026-10-25T16:05:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50264368",
+    "title": "Partitioning my digital life into security domains (2011)",
+    "url": "https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-10-27T19:21:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50267380",
+    "title": "Historical Scientific Instruments",
+    "url": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-27T23:32:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50249598",
+    "title": "Iterating Backwards in C",
+    "url": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-10-26T19:28:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50295821",
+    "title": "ElementaryUI – Swift, in the Browser",
+    "url": "https://elementary.codes",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-10-29T20:56:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50295868",
+    "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+    "url": "https://projects.freehackers.org/sylphide-os/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-29T20:59:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50294506",
+    "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+    "url": "https://github.com/johncassil/dontallow",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-10-29T19:27:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50297697",
+    "title": "Show HN: I Turned DOOM into a Transformer",
+    "url": "https://github.com/mottopanikeiku/doomformer",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-10-29T23:25:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50296947",
+    "title": "The Great American Rascal: Tom Sawyer at 150",
+    "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-10-29T22:14:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50297089",
+    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+    "url": "https://journal.animationstudies.org/article/id/66/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-10-29T22:26:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50296585",
+    "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
+    "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-10-29T21:48:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50296486",
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "source": "hackernews",
+    "score": 145.0,
+    "published_at": "2026-10-29T21:40:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50296470",
+    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "source": "hackernews",
+    "score": 667.0,
+    "published_at": "2026-10-29T21:38:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:j4ntsz",
     "title": "Will Open Firmware Become the Next Big Trend in Electronic Music Gear?",
     "url": "https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/",
@@ -4816,186 +4996,6 @@
     "source": "hackernews",
     "score": 18.0,
     "published_at": "2026-10-25T18:58:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50235780",
-    "title": "The State of Context Engineering",
-    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-25T20:32:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50196623",
-    "title": "The U.S. Power Grid",
-    "url": "https://nomagicpill.site/knowledge/powergrid.html",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-22T15:20:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50235316",
-    "title": "Eunice is almost here",
-    "url": "https://armincat.com/articles/eunice-is-almost-here",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-10-25T19:40:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50236081",
-    "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-    "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-10-25T21:08:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50197108",
-    "title": "Overgrown, when plants invade your abandoned tabs",
-    "url": "https://charliegerard.dev/blog/overgrown-extension/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-22T15:52:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50235010",
-    "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-    "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-25T19:10:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50235738",
-    "title": "What goes into making an animated film?",
-    "url": "https://www.disneyanimation.com/process/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-10-25T20:27:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50235017",
-    "title": "Why I Am a Programmer",
-    "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-10-25T19:11:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mug4of",
-    "title": "Every Clojure Talk Ever",
-    "url": "https://www.youtube.com/watch?v=jlPaby7suOc",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-25T12:13:59.138-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50233828",
-    "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
-    "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-10-25T17:20:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50227527",
-    "title": "Show HN: ReVault – new secure archive format",
-    "url": "https://news.ycombinator.com/item?id=50227527",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-25T02:01:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50233438",
-    "title": "UTS #39: Unicode Security Mechanisms",
-    "url": "https://unicode.org/reports/tr39/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-25T16:40:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50233883",
-    "title": "Fuck Nuance (2015)",
-    "url": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-25T17:26:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50234329",
-    "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
-    "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-25T18:11:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50233775",
-    "title": "Sabre Wulf Remastered",
-    "url": "https://gp-64.com/swr/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-10-25T17:15:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50174816",
-    "title": "Dijkstra vs. A* vs. Contraction Hierarchies",
-    "url": "https://arcadedb.com/route-planning.html",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-21T01:04:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50227330",
-    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-    "url": "https://huggingface.co/destined/hurston-1",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-25T01:30:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50195769",
-    "title": "Recreate the Apollo Guidance Computer",
-    "url": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-22T14:21:17+00:00",
     "summary": "",
     "key_points": []
   }
