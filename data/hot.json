@@ -1,5 +1,295 @@
 [
   {
+    "id": "lobsters:spv7tb",
+    "title": "Rationale for filtering LLM usage links as off-topic",
+    "url": "https://lobste.rs/s/spv7tb",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-10-30T11:49:53.919-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mp8yqt",
+    "title": "Protecting against CVE-2026-98432",
+    "url": "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-30T12:54:52.193-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mhmqky",
+    "title": "Go 1.28's HTTP/2 Parking: Measuring Memory Savings",
+    "url": "https://abdolirad.me/articles/go-1-28-http2-parking-memory/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-10-30T10:39:37.924-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:o1z9mm",
+    "title": "Shrinking NixOS Ram footprint and resource requirements to the bare minimum",
+    "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-10-30T10:04:44.431-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fskctn",
+    "title": "Infinite Mac: BeOS",
+    "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-10-30T11:06:56.125-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ukj8mm",
+    "title": "The federated code forge",
+    "url": "https://tangled.org/blog/forge/",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-10-30T12:57:54.165-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xudbqx",
+    "title": "No, npm, “estee” is not a typo of “testem”",
+    "url": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
+    "source": "lobsters",
+    "score": 17.0,
+    "published_at": "2026-10-30T10:01:56.550-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50305225",
+    "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
+    "url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-10-30T15:23:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50305320",
+    "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+    "url": "https://catcopter.com",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-10-30T15:29:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50305218",
+    "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+    "url": "https://sketch.wakeshift.ai/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-10-30T15:23:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50246538",
+    "title": "Compile-Time Dependent Types",
+    "url": "https://thenumb.at/Syl-Intro/",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-10-26T16:28:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50306815",
+    "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
+    "url": "https://github.com/spinfinc/spinf-serve",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-30T17:03:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50298721",
+    "title": "Tracks along the longest drive on another world",
+    "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-10-30T01:19:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50308697",
+    "title": "Bunny CDN Security Incident",
+    "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-30T19:05:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50301717",
+    "title": "How do you take a picture of a black hole?",
+    "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-10-30T09:49:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50305480",
+    "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+    "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+    "source": "hackernews",
+    "score": 140.0,
+    "published_at": "2026-10-30T15:39:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50258496",
+    "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
+    "url": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-27T13:00:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50272479",
+    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "source": "hackernews",
+    "score": 89.0,
+    "published_at": "2026-10-28T12:24:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50305693",
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "source": "hackernews",
+    "score": 356.0,
+    "published_at": "2026-10-30T15:52:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50307723",
+    "title": "GitHub Incident with Actions, Pages, and Webhooks",
+    "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+    "source": "hackernews",
+    "score": 105.0,
+    "published_at": "2026-10-30T17:57:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50296730",
+    "title": "Building an AI-native engineering org",
+    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-29T21:58:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50307219",
+    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+    "source": "hackernews",
+    "score": 130.0,
+    "published_at": "2026-10-30T17:27:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50305573",
+    "title": "The federated code forge",
+    "url": "https://tangled.org/blog/forge/",
+    "source": "hackernews",
+    "score": 138.0,
+    "published_at": "2026-10-30T15:44:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50305637",
+    "title": "Florilegium: Procedural Flowers in LaTeX",
+    "url": "https://github.com/kevinraymond/florilegium",
+    "source": "hackernews",
+    "score": 120.0,
+    "published_at": "2026-10-30T15:48:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50308471",
+    "title": "What happened to 145 Nasdaq companies after the $1 warning letter",
+    "url": "https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-30T18:50:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50263837",
+    "title": "Breaking the open web won't stop the bad bots",
+    "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-10-27T18:42:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50306442",
+    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+    "url": "https://github.com/dbreunig/nesformer",
+    "source": "hackernews",
+    "score": 113.0,
+    "published_at": "2026-10-30T16:40:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50305025",
+    "title": "Northflank Breached",
+    "url": "https://status.northflank.com",
+    "source": "hackernews",
+    "score": 237.0,
+    "published_at": "2026-10-30T15:10:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50307190",
+    "title": "My favourite PowerMac is a Nintendo Wii",
+    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-10-30T17:25:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ruq2us",
     "title": "arm64e pointer authentication: PAC keys, PACIASP, A12",
     "url": "https://sigreturn.com/blog/pointer-authentication-arm64e/",
@@ -4706,296 +4996,6 @@
     "source": "hackernews",
     "score": 334.0,
     "published_at": "2026-10-26T15:11:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ysyqnt",
-    "title": "The Small Web is Huge",
-    "url": "https://dn711504.ca.archive.org/0/items/small_web/11787-48384.mp4",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-26T06:34:43.215-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:twdnpy",
-    "title": "Akku.scm 1.2.0 released",
-    "url": "https://weinholt.se/articles/akku-scm-1-2-0/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-26T06:09:16.758-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vgq0mf",
-    "title": "Wails v3.0.0 Released",
-    "url": "https://v3.wails.io/blog/wails-v3-released/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-26T06:30:37.582-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xxdda9",
-    "title": "What are you doing this week?",
-    "url": "https://lobste.rs/s/xxdda9",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-26T06:35:18.042-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:p9obkt",
-    "title": "Gram 3.4.0 released",
-    "url": "https://gram-editor.com/posts/release-3.4.0/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-26T06:47:25.669-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cf8mdy",
-    "title": "OpenLDK: Bringing the Java World into Common Lisp",
-    "url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-10-26T01:15:19.854-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:olnqh2",
-    "title": "Websites Should Be Printable",
-    "url": "https://brennenputh.me/blog/printable-websites/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-26T07:02:58.798-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xzp4m0",
-    "title": "About the compromised eMudhra intermediate CAs",
-    "url": "https://support.apple.com/en-us/149555",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-10-26T04:58:55.217-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251781",
-    "title": "反思了下，原来我是个黄毛",
-    "url": "https://www.v2ex.com/t/1251781",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-10-26T01:49:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251765",
-    "title": "来聊聊大家第一次被 AI 真正震撼到的瞬间吧",
-    "url": "https://www.v2ex.com/t/1251765",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-10-26T01:32:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700090207211356201",
-    "title": "三个晚上，我和 WorkBuddy 做了个生图网站",
-    "url": "https://juejin.cn/post/7700090207211356201",
-    "source": "juejin",
-    "score": 0.2850757,
-    "published_at": "2026-10-25T06:00:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700627964493365290",
-    "title": "掀桌子了！Kimi K3.1 Pro 这效果也太离谱了。",
-    "url": "https://juejin.cn/post/7700627964493365290",
-    "source": "juejin",
-    "score": 3.68403663,
-    "published_at": "2026-10-26T08:42:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7699725807237677082",
-    "title": "纯Rust重写Photoshop，一个月7.2万Star",
-    "url": "https://juejin.cn/post/7699725807237677082",
-    "source": "juejin",
-    "score": 0.08707858,
-    "published_at": "2026-10-24T02:49:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700152107849007113",
-    "title": " Kotlin 协程，重点就在「协」这个字上",
-    "url": "https://juejin.cn/post/7700152107849007113",
-    "source": "juejin",
-    "score": 0.34096444,
-    "published_at": "2026-10-25T09:15:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700215375997075497",
-    "title": "栗子前端技术周刊第 151 期 - ViteConf 2026、React Router 8.5、React Native 0.88...",
-    "url": "https://juejin.cn/post/7700215375997075497",
-    "source": "juejin",
-    "score": 1.05019638,
-    "published_at": "2026-10-26T00:49:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700157486074904611",
-    "title": "程序员 1v1 访谈系列第七期：失业半年所想到的",
-    "url": "https://juejin.cn/post/7700157486074904611",
-    "source": "juejin",
-    "score": 1.490396,
-    "published_at": "2026-10-26T02:29:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700267917769916466",
-    "title": "🔥说一说在线文档的 Block 架构是如何实现的",
-    "url": "https://juejin.cn/post/7700267917769916466",
-    "source": "juejin",
-    "score": 0.79165741,
-    "published_at": "2026-10-26T01:36:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700522130220023862",
-    "title": "天涯神贴《2027年以后，你要活成这个样子》有感，希望 2027 年可以活成自己想要的样子",
-    "url": "https://juejin.cn/post/7700522130220023862",
-    "source": "juejin",
-    "score": 2.18682595,
-    "published_at": "2026-10-26T02:55:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700531646282809407",
-    "title": "终于 Token 自由了，AI 开支下降 10 倍",
-    "url": "https://juejin.cn/post/7700531646282809407",
-    "source": "juejin",
-    "score": 4.36824491,
-    "published_at": "2026-10-26T06:34:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700157486075035683",
-    "title": "一个人 + AI 做的小程序，今天，正式回本了",
-    "url": "https://juejin.cn/post/7700157486075035683",
-    "source": "juejin",
-    "score": 2.89166862,
-    "published_at": "2026-10-26T02:37:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:multica-ai/andrej-karpathy-skills",
-    "title": "andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:alchaincyf/huashu-design",
-    "title": "huashu-design",
-    "url": "https://github.com/alchaincyf/huashu-design",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:gitroomhq/postiz-app",
-    "title": "postiz-app",
-    "url": "https://github.com/gitroomhq/postiz-app",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Panniantong/Agent-Reach",
-    "title": "Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:nightly-labs/openbot",
-    "title": "openbot",
-    "url": "https://github.com/nightly-labs/openbot",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:NVIDIA/SkillSpector",
-    "title": "SkillSpector",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:affaan-m/ECC",
-    "title": "ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50213990",
-    "title": "Two Million Hornets",
-    "url": "https://dark-mountain.net/two-million-hornets/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-23T19:15:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50200152",
-    "title": "One of the Greatest Inventions in the History of Human Transport",
-    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-10-22T19:52:50+00:00",
     "summary": "",
     "key_points": []
   }
