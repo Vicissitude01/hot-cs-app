@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:mzqjdm",
+    "title": "The Secret of Fast Programming: Stop Thinking »",
+    "url": "https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-31T05:20:48.000-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hgx46o",
+    "title": "Marelleo, a story box I built for my kids",
+    "url": "https://zebra.rodeo/en/blog/marelleo/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-31T05:36:46.634-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wd4ye5",
+    "title": "Clojure/Conj 2026",
+    "url": "http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-10-31T01:25:34.478-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253370",
+    "title": "LockSticky 喜提大陆 App Store 下架",
+    "url": "https://www.v2ex.com/t/1253370",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-10-31T03:25:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253347",
+    "title": "claude 似乎 今天对 pro 和 free 用户执行 ID verification 了",
+    "url": "https://www.v2ex.com/t/1253347",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-10-31T01:36:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253335",
+    "title": "大家目前被封禁了几个 Claude 账户？",
+    "url": "https://www.v2ex.com/t/1253335",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-10-30T23:47:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253348",
+    "title": "台湾 Claude 号生意有搞头吗",
+    "url": "https://www.v2ex.com/t/1253348",
+    "source": "v2ex",
+    "score": 62.0,
+    "published_at": "2026-10-31T01:38:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253357",
+    "title": "现在教育真的太卷了，一年级上学期期中测验趣事",
+    "url": "https://www.v2ex.com/t/1253357",
+    "source": "v2ex",
+    "score": 72.0,
+    "published_at": "2026-10-31T02:00:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253343",
+    "title": "AI 时代少有人类阅读，我开始建自己的独立站，但真的是 49 年入国军吗",
+    "url": "https://www.v2ex.com/t/1253343",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-10-31T01:06:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253376",
+    "title": "求助： 10GB 音乐文件如何高速分享给好友？网盘限速、微信限大小， NAS 也受运营商上行限制",
+    "url": "https://www.v2ex.com/t/1253376",
+    "source": "v2ex",
+    "score": 132.0,
+    "published_at": "2026-10-31T03:53:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702012705843937322",
+    "title": "985 在职研究生到底怎么样？是不是水硕？是不是.....？",
+    "url": "https://juejin.cn/post/7702012705843937322",
+    "source": "juejin",
+    "score": 0.29471491,
+    "published_at": "2026-10-30T03:46:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701614603223203881",
+    "title": "Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术",
+    "url": "https://juejin.cn/post/7701614603223203881",
+    "source": "juejin",
+    "score": 0.14293123,
+    "published_at": "2026-10-29T02:40:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701929263046000703",
+    "title": "一个人+AI做情侣食谱小程序，0 费用的服务器",
+    "url": "https://juejin.cn/post/7701929263046000703",
+    "source": "juejin",
+    "score": 0.16632773,
+    "published_at": "2026-10-29T11:11:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701604765432135689",
+    "title": "我把热榜那篇\"禁用 axios\"逐条实测了一遍：结论大体对，坑在它没讲的地方",
+    "url": "https://juejin.cn/post/7701604765432135689",
+    "source": "juejin",
+    "score": 0.1016029,
+    "published_at": "2026-10-28T12:30:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701625236325154826",
+    "title": "AI 时代一群人在卷笔记软件，我想先把 Markdown 编辑器的底层做好",
+    "url": "https://juejin.cn/post/7701625236325154826",
+    "source": "juejin",
+    "score": 0.17937257,
+    "published_at": "2026-10-29T04:03:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701979838148722724",
+    "title": "删掉 1.1 万行 C 代码，Rust 正式接手 Android Binder",
+    "url": "https://juejin.cn/post/7701979838148722724",
+    "source": "juejin",
+    "score": 0.30850874,
+    "published_at": "2026-10-30T00:59:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701637989949751315",
+    "title": "Epic 摊牌了：Claude 和 Codex 在写 UE6 的代码，十年没修掉的 bug 被 AI 扫光",
+    "url": "https://juejin.cn/post/7701637989949751315",
+    "source": "juejin",
+    "score": 0.13482153,
+    "published_at": "2026-10-29T06:15:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702012705843232810",
+    "title": "别学 subagent 了，很可能要凉了。",
+    "url": "https://juejin.cn/post/7702012705843232810",
+    "source": "juejin",
+    "score": 0.40648405,
+    "published_at": "2026-10-30T02:36:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50314243",
+    "title": "How long do you need to hold down the power button to turn off a PC?",
+    "url": "https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-31T08:43:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50289081",
+    "title": "Brief History of PDP Computers",
+    "url": "https://entropicthoughts.com/history-of-pdp-computers",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-29T13:53:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50269045",
+    "title": "Sneezecount (2018)",
+    "url": "https://sneezecount.joyfeed.com",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-28T03:31:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50290652",
+    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-29T15:29:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50260753",
+    "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+    "url": "https://zebra.rodeo/en/blog/marelleo/",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-10-27T15:24:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50313661",
+    "title": "Digital Minimalism",
+    "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-10-31T06:16:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50314085",
+    "title": "Switch Lowering in GCC",
+    "url": "https://xoranth.net/gcc-switch/",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-10-31T08:02:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50314654",
+    "title": "Serbia just elected the world's brainiest parliament",
+    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+    "source": "hackernews",
+    "score": 98.0,
+    "published_at": "2026-10-31T10:21:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:mk87la",
     "title": "The top ten reasons embedded projects get into trouble (2002)",
     "url": "https://www.ganssle.com/articles/jackstoptenlist.htm",
@@ -4736,266 +4996,6 @@
     "source": "v2ex",
     "score": 116.0,
     "published_at": "2026-10-27T01:23:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251815",
-    "title": "周一刚开工，就面谈通知被裁，心情复杂",
-    "url": "https://www.v2ex.com/t/1251815",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-10-26T02:58:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251976",
-    "title": "AI vibe coding 的进展，不知道程序员还能存活多久？",
-    "url": "https://www.v2ex.com/t/1251976",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-10-26T09:08:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251991",
-    "title": "坠机日，大妈和瓦工 3 台机器都阵亡了",
-    "url": "https://www.v2ex.com/t/1251991",
-    "source": "v2ex",
-    "score": 148.0,
-    "published_at": "2026-10-26T09:54:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251970",
-    "title": "你们是如何和岳父岳母相处的",
-    "url": "https://www.v2ex.com/t/1251970",
-    "source": "v2ex",
-    "score": 152.0,
-    "published_at": "2026-10-26T08:59:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252074",
-    "title": "深夜求助，物业只提前 1 小时通知停电，导致我家里电脑坏了",
-    "url": "https://www.v2ex.com/t/1252074",
-    "source": "v2ex",
-    "score": 156.0,
-    "published_at": "2026-10-26T18:34:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251841",
-    "title": "佬们推荐个机场，花云太差了",
-    "url": "https://www.v2ex.com/t/1251841",
-    "source": "v2ex",
-    "score": 170.0,
-    "published_at": "2026-10-26T03:44:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700803425820049434",
-    "title": "尤雨溪 : Vue 4 已经在规划中了！",
-    "url": "https://juejin.cn/post/7700803425820049434",
-    "source": "juejin",
-    "score": 1.8142245,
-    "published_at": "2026-10-26T13:17:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50213147",
-    "title": "In Context [video]",
-    "url": "https://www.youtube.com/watch?v=P5eO7BNyJao",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-23T18:12:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50211780",
-    "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
-    "url": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-10-23T16:41:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50226808",
-    "title": "Virtual and Real World Combine at LAN Party (1998)",
-    "url": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-10-25T00:07:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50243061",
-    "title": "New iPad mini",
-    "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-    "source": "hackernews",
-    "score": 137.0,
-    "published_at": "2026-10-26T13:13:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50231041",
-    "title": "LISPy things you can do in 64K bytes of core (2019)",
-    "url": "https://t3x.org/lisp64k/index.html",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-25T12:53:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50245385",
-    "title": "Solar power is becoming bigger than nuclear",
-    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-    "source": "hackernews",
-    "score": 149.0,
-    "published_at": "2026-10-26T15:26:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50253529",
-    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-    "url": "https://github.com/otya128/winevdm",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-27T01:15:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:aszhzo",
-    "title": "The Limits of Fingerprint Blocklists: A Reproducible Java Certificate Bypass",
-    "url": "https://www.sonatype.com/blog/the-limits-of-fingerprint-blocklists-a-reproducible-java-certificate-bypass",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-26T15:33:16.888-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rwubks",
-    "title": "Oldest GUI application that still runs on Windows 11",
-    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-    "source": "lobsters",
-    "score": 22.0,
-    "published_at": "2026-10-26T14:49:43.492-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:o5to4p",
-    "title": "A faster way to compute signed 64-bit floor division by constants",
-    "url": "https://www.benjoffe.com/fast-floordiv",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-10-26T13:44:53.194-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50249738",
-    "title": "Magic state cultivation on a superconducting quantum processor",
-    "url": "https://arxiv.org/abs/2512.13908",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-26T19:37:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50212764",
-    "title": "Who killed the EV cert? A browser whodunit for Halloween",
-    "url": "https://qwac.com/blog/who-killed-the-ev-cert",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-23T17:46:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50252008",
-    "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-    "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-26T22:27:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50237019",
-    "title": "Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)",
-    "url": "https://dbohdan.github.io/glider/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-25T23:18:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50249275",
-    "title": "The EPA Is Quietly Killing Its Web Archive",
-    "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-    "source": "hackernews",
-    "score": 192.0,
-    "published_at": "2026-10-26T19:05:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50213502",
-    "title": "Native Prometheus Integration with Nginx",
-    "url": "https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-23T18:38:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50246238",
-    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "url": "https://github.com/FrigadeHQ/hob",
-    "source": "hackernews",
-    "score": 82.0,
-    "published_at": "2026-10-26T16:12:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50204697",
-    "title": "A Printer Printing onto Paper",
-    "url": "https://twitter.com/macrofying/status/2112904628509528219",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-23T05:01:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50252159",
-    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-26T22:41:48+00:00",
     "summary": "",
     "key_points": []
   }
