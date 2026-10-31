@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:qoznnh",
+    "title": "An LC-3 Disassembler in Haskell",
+    "url": "https://abhinavsarkar.net/posts/lc3-disassembler/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-31T11:08:42.898-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bmmj1e",
+    "title": "Let’s Build a Brain",
+    "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-31T10:09:27.573-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:y81ppi",
+    "title": "Digital minimalism",
+    "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-31T06:10:19.278-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rpiu3w",
+    "title": "The Kluever Maneuver",
+    "url": "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-10-31T10:05:04.540-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:drwd4j",
+    "title": "Jepsen: ParticleDB 1.1.4",
+    "url": "https://jepsen.io/analyses/particledb-1.1.4",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-10-31T08:39:52.161-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253453",
+    "title": "[送码两天] Emby/Plex/NAS 视频播放器 Vidzer v1.2.0 发布，首次支持安卓，还支持 macOS 和 Windows",
+    "url": "https://www.v2ex.com/t/1253453",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-10-31T13:47:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253421",
+    "title": "大家用 obsidian 么，用什么路线同步的。",
+    "url": "https://www.v2ex.com/t/1253421",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-10-31T09:17:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702250559663292431",
+    "title": "程序员 1v1 访谈系列第九期：要不要晋升管理层？",
+    "url": "https://juejin.cn/post/7702250559663292431",
+    "source": "juejin",
+    "score": 0.25533632,
+    "published_at": "2026-10-30T01:50:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702434781235101738",
+    "title": "我有个朋友，工作八年，公司从 300 人减到 80 人",
+    "url": "https://juejin.cn/post/7702434781235101738",
+    "source": "juejin",
+    "score": 0.91627583,
+    "published_at": "2026-10-31T03:36:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701566014480597030",
+    "title": "GitHub 日榜趋势速报 | 2026-10-29",
+    "url": "https://juejin.cn/post/7701566014480597030",
+    "source": "juejin",
+    "score": 0.0697845,
+    "published_at": "2026-10-28T23:33:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:vorssaint/vorssaint-utils",
+    "title": "vorssaint-utils",
+    "url": "https://github.com/vorssaint/vorssaint-utils",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:bregman-arie/devops-exercises",
+    "title": "devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:THU-MAIC/OpenMAIC",
+    "title": "OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Orkas-AI/Orkas",
+    "title": "Orkas",
+    "url": "https://github.com/Orkas-AI/Orkas",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50300151",
+    "title": "Keeping the Bonfires Lit",
+    "url": "https://www.historytoday.com/archive/out-margins/keeping-bonfires-lit",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-30T05:24:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50296700",
+    "title": "Hunting 'Zombie Accounts' in Active Directory",
+    "url": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-29T21:56:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50271052",
+    "title": "Reading and writing are less symmetric than you (probably) think",
+    "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-28T09:38:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50316760",
+    "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
+    "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-10-31T14:57:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50315226",
+    "title": "Prospero: A new coding harness for a more civilized age",
+    "url": "https://nullprogram.com/blog/2026/10/31/",
+    "source": "hackernews",
+    "score": 111.0,
+    "published_at": "2026-10-31T11:54:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50261253",
+    "title": "Simple circuits can create complex behaviors",
+    "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-10-27T16:01:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50314666",
+    "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+    "url": "https://piefed.world/post/1503394",
+    "source": "hackernews",
+    "score": 171.0,
+    "published_at": "2026-10-31T10:23:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50314699",
+    "title": "We Took over ChatGPT Accounts",
+    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "source": "hackernews",
+    "score": 180.0,
+    "published_at": "2026-10-31T10:30:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50316531",
+    "title": "Malware uses LLMs to rank victims by how much they're worth",
+    "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-10-31T14:29:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:mzqjdm",
     "title": "The Secret of Fast Programming: Stop Thinking »",
     "url": "https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/",
@@ -4766,236 +4996,6 @@
     "source": "hackernews",
     "score": 64.0,
     "published_at": "2026-10-27T13:52:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cajuq6",
-    "title": "Python's experimental JIT to be removed",
-    "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-27T01:20:38.106-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252184",
-    "title": "《关于我和一个教师恋爱一年的经历》后续",
-    "url": "https://www.v2ex.com/t/1252184",
-    "source": "v2ex",
-    "score": 168.0,
-    "published_at": "2026-10-27T03:46:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252164",
-    "title": "[送码] Mu3ic 重磅更新！支持车机播放和电台，完美横屏播放， Navidrome 最佳播放器， Nas 音乐玩家的优选",
-    "url": "https://www.v2ex.com/t/1252164",
-    "source": "v2ex",
-    "score": 172.0,
-    "published_at": "2026-10-27T03:12:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252088",
-    "title": "iPhone Duo 有感",
-    "url": "https://www.v2ex.com/t/1252088",
-    "source": "v2ex",
-    "score": 218.0,
-    "published_at": "2026-10-27T00:31:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700627964494168106",
-    "title": "AI 越强，失业越严重",
-    "url": "https://juejin.cn/post/7700627964494168106",
-    "source": "juejin",
-    "score": 0.68210755,
-    "published_at": "2026-10-26T11:19:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700887980139036682",
-    "title": "出事了，AI 提效后，老板让我裁员20%",
-    "url": "https://juejin.cn/post/7700887980139036682",
-    "source": "juejin",
-    "score": 2.62768435,
-    "published_at": "2026-10-27T00:53:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50240465",
-    "title": "How to grow a cacao tree at home (2024)",
-    "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-10-26T07:50:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50212625",
-    "title": "Txoko: Basques' traditional feast a gastronomic peek into a culture (2024)",
-    "url": "https://johnhendersontravel.com/txoko/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-23T17:37:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50234707",
-    "title": "APC says let there be light, with standards to speed up photonics manufacturing",
-    "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-10-25T18:43:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50196839",
-    "title": "Chemists, Chemical Engineers, and Plant Managers",
-    "url": "https://www.seeingthesystem.com/p/chemists-chemical-engineers-and-plant",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-22T15:32:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50255406",
-    "title": "A simplified proof of ETH is False [pdf]",
-    "url": "https://shivakintali.github.io/papers/ETH.pdf",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-27T06:45:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50255177",
-    "title": "Writing about pratt parsing so I remember it",
-    "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-27T06:02:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50253939",
-    "title": "I still teach OpenGL ES 3.0",
-    "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-10-27T02:15:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50196212",
-    "title": "New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients",
-    "url": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
-    "source": "hackernews",
-    "score": 23.0,
-    "published_at": "2026-10-22T14:50:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50255298",
-    "title": "The Mythical Man-Month in the Age of AI",
-    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-10-27T06:25:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cxdpiu",
-    "title": "Our Response To The eMudhra Key Disclosure Incident",
-    "url": "https://go.dev/blog/emudhra-incident",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-26T19:31:44.980-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pq6ju6",
-    "title": "The Exponential Time Hypothesis Is False [pdf]",
-    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-26T19:39:50.510-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uhfzlv",
-    "title": "(VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers",
-    "url": "https://www.youtube.com/watch?v=mZfJ-sulqQs",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-26T19:36:47.912-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ihmfsc",
-    "title": "The passkey is worse",
-    "url": "https://www.kcoleman.me/2026/10/22/hacked.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-26T18:44:15.062-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cxxcik",
-    "title": "Shitty Screenshare",
-    "url": "http://shittyscreenshare.com",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-10-26T19:12:16.704-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252085",
-    "title": "请问一下 v 友们平常都是喝什么水的？",
-    "url": "https://www.v2ex.com/t/1252085",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-10-27T00:24:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1251810",
-    "title": "self-host 代码仓库，各位老哥公司里都是什么方案？",
-    "url": "https://www.v2ex.com/t/1251810",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-10-26T02:39:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252109",
-    "title": "记一次反诈预警后派出所登记经历",
-    "url": "https://www.v2ex.com/t/1252109",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-10-27T01:23:46+00:00",
     "summary": "",
     "key_points": []
   }
