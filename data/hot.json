@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:ukcfap",
+    "title": "Effective Type: Part 1",
+    "url": "https://uecker.codeberg.page/2026-10-31.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-31T16:59:52.333-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:54xwm8",
+    "title": "Novellas with groff",
+    "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-10-31T15:31:13.297-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701603205310332963",
+    "title": "文字为什么总是不居中！记录一个bug",
+    "url": "https://juejin.cn/post/7701603205310332963",
+    "source": "juejin",
+    "score": 0.10704162,
+    "published_at": "2026-10-29T00:57:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:HKUDS/DeepTutor",
+    "title": "DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:obra/superpowers",
+    "title": "superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50320599",
+    "title": "AI text watermarking and quality loss",
+    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-31T21:50:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50301178",
+    "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+    "url": "https://oqtadrive.org/10.other/5-years/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-10-30T08:30:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50301723",
+    "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+    "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-30T09:49:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50299578",
+    "title": "Rhind Mathematical Papyrus",
+    "url": "https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-10-30T03:33:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50320137",
+    "title": "Distributed Proofreaders",
+    "url": "https://www.pgdp.net/c/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-31T20:56:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50319358",
+    "title": "Anthropic blocks users for anything touching training larger models",
+    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+    "source": "hackernews",
+    "score": 140.0,
+    "published_at": "2026-10-31T19:39:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50320995",
+    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-31T22:46:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50319563",
+    "title": "Surviving \"The Graduate\"",
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-10-31T20:02:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50313051",
+    "title": "First response from the Project Suncatcher prototype satellite",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-10-31T03:54:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50321130",
+    "title": "When Electric Cars Were for Women",
+    "url": "https://spectrum.ieee.org/early-electric-vehicles",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-10-31T23:08:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50320028",
+    "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+    "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-10-31T20:46:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50320963",
+    "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them",
+    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-10-31T22:41:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50319510",
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "source": "hackernews",
+    "score": 492.0,
+    "published_at": "2026-10-31T19:56:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qwou15",
     "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
     "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
@@ -4816,186 +4996,6 @@
     "source": "hackernews",
     "score": 80.0,
     "published_at": "2026-10-27T16:25:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50232101",
-    "title": "OpenLDK: Bringing the Java World into Common Lisp",
-    "url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-10-25T14:45:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50224079",
-    "title": "An examination of lost firefly species of the US and Canada",
-    "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-24T19:04:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50261819",
-    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-    "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-    "source": "hackernews",
-    "score": 258.0,
-    "published_at": "2026-10-27T16:40:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50260814",
-    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-    "source": "hackernews",
-    "score": 266.0,
-    "published_at": "2026-10-27T15:28:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50263854",
-    "title": "Discord will soon let anyone find public server messages through Google",
-    "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-10-27T18:44:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50261583",
-    "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-    "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-27T16:25:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50262229",
-    "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-    "url": "https://www.liquid.ai/blog/lfm3",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-10-27T17:04:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50232604",
-    "title": "Microsoft and others tell crypto platform not to tokenize their stocks",
-    "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-10-25T15:28:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50263701",
-    "title": "Three TLS Bugs in GoAhead",
-    "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-27T18:33:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50261647",
-    "title": "Classification of Finite Simple Groups Formalized in Lean",
-    "url": "https://cfsg.axiommath.ai/",
-    "source": "hackernews",
-    "score": 97.0,
-    "published_at": "2026-10-27T16:29:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50261352",
-    "title": "New 14‑inch MacBook Pro with M6",
-    "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-    "source": "hackernews",
-    "score": 143.0,
-    "published_at": "2026-10-27T16:08:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50261998",
-    "title": "Ghostty 1.4.0",
-    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-    "source": "hackernews",
-    "score": 366.0,
-    "published_at": "2026-10-27T16:51:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50261319",
-    "title": "Genie 4",
-    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "source": "hackernews",
-    "score": 460.0,
-    "published_at": "2026-10-27T16:06:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:y3v5zv",
-    "title": "EnsoJS - native-first microframework for building declarative Web Components",
-    "url": "https://ensojs.dev/",
-    "source": "lobsters",
-    "score": 0.0,
-    "published_at": "2026-10-27T07:50:14.969-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bgpsuu",
-    "title": "Gforth 1.0",
-    "url": "https://gforth.org/manual/1.0/NEWS.html",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-26T16:24:44.071-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:d09iy3",
-    "title": "Compile-Time Dependent Types",
-    "url": "https://thenumb.at/Syl-Intro/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-27T09:40:12.552-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:en7rby",
-    "title": "slughorn — GPU Vector Graphics",
-    "url": "https://slughorn.io/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-27T08:11:26.039-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:n92yur",
-    "title": "Keyless Entry: Hacking SwitchBot Smart Locks",
-    "url": "https://neodyme.io/en/blog/switchbot",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-27T03:10:01.912-05:00",
     "summary": "",
     "key_points": []
   }
