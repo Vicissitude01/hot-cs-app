@@ -1,5 +1,285 @@
 [
   {
+    "id": "lobsters:vo4337",
+    "title": "The Duty of a Scholar",
+    "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-31T19:46:07.263-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:h6dt6e",
+    "title": "A brief history of just-in-time (2003)",
+    "url": "https://dl.acm.org/doi/10.1145/857076.857077",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-10-31T23:46:09.991-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lt44rt",
+    "title": "Introducing Kwi, a new KDE terminal emulator",
+    "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-10-31T21:56:29.237-05:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253477",
+    "title": "Reddit 只发评论，被禁 6 个账户😡，有什么使用规则吗？",
+    "url": "https://www.v2ex.com/t/1253477",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-11-01T00:08:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253451",
+    "title": "看到最近群晖被黑，想给 NAS 里的数据做个备份，大家用的什么方案？",
+    "url": "https://www.v2ex.com/t/1253451",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-10-31T13:27:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253435",
+    "title": "把 Surge 换成 FlClash 了，实在用不起了～ 老铁们你们都用哪个客户端？",
+    "url": "https://www.v2ex.com/t/1253435",
+    "source": "v2ex",
+    "score": 40.0,
+    "published_at": "2026-10-31T11:35:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253398",
+    "title": "我常用的几个工具软件都让 AI 替代了",
+    "url": "https://www.v2ex.com/t/1253398",
+    "source": "v2ex",
+    "score": 46.0,
+    "published_at": "2026-10-31T06:59:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253446",
+    "title": "claude 跳 kyc 了，有啥渠道可以联系歪果仁帮忙 kyc 啊？",
+    "url": "https://www.v2ex.com/t/1253446",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-10-31T13:05:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253483",
+    "title": "我去，原来 Loon 的加密插件能明文直接看用户密码，怎么办啊 换哪个好",
+    "url": "https://www.v2ex.com/t/1253483",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-11-01T01:19:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253420",
+    "title": "给大家分享一下四款 ios 梯子软件的使用体验，我主要看哪个更省电",
+    "url": "https://www.v2ex.com/t/1253420",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-10-31T09:07:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253484",
+    "title": "[macOS] AbcTab：让 ⌘Tab 快得能跟上你的手 [送激活码]",
+    "url": "https://www.v2ex.com/t/1253484",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-11-01T01:29:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702402013539336242",
+    "title": "双 Token 与前端使用 Crypto 公私钥鉴权换 Token，哪种方案更好？",
+    "url": "https://juejin.cn/post/7702402013539336242",
+    "source": "juejin",
+    "score": 0.16990629,
+    "published_at": "2026-10-30T11:33:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701975023934996489",
+    "title": "GitHub 日榜趋势速报 | 2026-10-30",
+    "url": "https://juejin.cn/post/7701975023934996489",
+    "source": "juejin",
+    "score": 0.13548396,
+    "published_at": "2026-10-29T23:33:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702145042350243883",
+    "title": "AI 时代吃香的三种人：有想法的懒人、替别人着想的人、不被 AI 带偏的人",
+    "url": "https://juejin.cn/post/7702145042350243883",
+    "source": "juejin",
+    "score": 0.17421005,
+    "published_at": "2026-10-30T08:02:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702438435248160804",
+    "title": "一人公司，单月收入近10万，我做了这三门生意（OPC系列-3）",
+    "url": "https://juejin.cn/post/7702438435248160804",
+    "source": "juejin",
+    "score": 0.5884865,
+    "published_at": "2026-10-31T09:33:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50321522",
+    "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+    "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-11-01T00:10:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50321436",
+    "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+    "url": "https://emarzion.github.io/KSRT/",
+    "source": "hackernews",
+    "score": 15.0,
+    "published_at": "2026-10-31T23:55:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50302686",
+    "title": "Decode kernel panic from QR Code photo",
+    "url": "https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-10-30T11:50:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50319110",
+    "title": "Electrification Could Cut Global Energy Use in Half",
+    "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-10-31T19:13:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50309279",
+    "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+    "url": "http://thales.mit.edu/bush/index.php/4801-2/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-10-30T19:52:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50320588",
+    "title": "ChatGPT and Codex usage limits merging",
+    "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-10-31T21:49:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50284789",
+    "title": "Edgar Allan Poe, Quintessential American Writer",
+    "url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-10-29T05:10:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50289711",
+    "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+    "url": "https://dl.acm.org/doi/10.1145/857076.857077",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-10-29T14:30:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50304718",
+    "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+    "url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-10-30T14:46:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50311045",
+    "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+    "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-10-30T22:41:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50321048",
+    "title": "Altoids Project",
+    "url": "https://uvdn7.github.io/altoids-project/",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-10-31T22:54:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50322022",
+    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+    "url": "https://arxiv.org/abs/2409.02292",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-11-01T01:46:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50322173",
+    "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+    "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-01T02:19:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ukcfap",
     "title": "Effective Type: Part 1",
     "url": "https://uecker.codeberg.page/2026-10-31.html",
@@ -4716,286 +4996,6 @@
     "source": "hackernews",
     "score": 31.0,
     "published_at": "2026-10-25T21:07:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50265413",
-    "title": "Hex Raises $100M",
-    "url": "https://hex.tech/blog/hex-new-era/",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-27T20:36:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50262982",
-    "title": "Radio-tagged Monarch butterflies",
-    "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-27T17:48:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50265128",
-    "title": "Four Months of Zig",
-    "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-10-27T20:13:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50266780",
-    "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-    "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-27T22:31:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50239214",
-    "title": "SS United States to be sunk as largest artificial reef",
-    "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-10-26T04:41:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50265594",
-    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-    "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-10-27T20:48:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50265609",
-    "title": "Early progress on accelerating drug development with Claude",
-    "url": "https://www.anthropic.com/research/early-progress-drug-development",
-    "source": "hackernews",
-    "score": 80.0,
-    "published_at": "2026-10-27T20:50:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50264853",
-    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "url": "https://www.brangus.io/survival-llm",
-    "source": "hackernews",
-    "score": 138.0,
-    "published_at": "2026-10-27T19:55:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50264857",
-    "title": "Tailscale SSH: Investigation and remediation update",
-    "url": "https://tailscale.com/ssh-investigation-update",
-    "source": "hackernews",
-    "score": 157.0,
-    "published_at": "2026-10-27T19:55:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kvije8",
-    "title": "The Shift of Theseus — Toy Bit Provenance Abstract Domain",
-    "url": "https://www.pypy.org/posts/2026/10/toy-bit-provenance.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-27T12:53:09.110-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3mnrlw",
-    "title": "A select should tell you something",
-    "url": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-27T06:33:23.869-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7bbzjf",
-    "title": "An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)",
-    "url": "https://www.cheswick.com/ches/papers/berferd.pdf",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-27T13:48:45.415-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:opqtiv",
-    "title": "Finding panics with Call Graph Analyzer",
-    "url": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-27T11:45:26.466-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rswyzt",
-    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-27T14:08:23.211-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qd0hc9",
-    "title": "1,447 emoji? We'll do it live",
-    "url": "https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-27T13:28:06.115-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rs6ce2",
-    "title": "Filian, Fil-C binaries on Debian",
-    "url": "https://cr.yp.to/2025/fil-c.html",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-10-27T11:42:17.342-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qr59sa",
-    "title": "Four Months of Zig",
-    "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-27T13:46:09.491-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tp0zlk",
-    "title": "A stackless floodfill automation (2023)",
-    "url": "https://t3x.org/files/floodfill.pdf",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-10-27T09:56:00.214-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:q7arzy",
-    "title": "A fast and secure tar parser for the Rust ecosystem",
-    "url": "https://astral.sh/blog/tar-codec",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-10-27T11:59:30.534-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252133",
-    "title": "大家的程序坞放哪里？",
-    "url": "https://www.v2ex.com/t/1252133",
-    "source": "v2ex",
-    "score": 148.0,
-    "published_at": "2026-10-27T02:00:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700592903408533546",
-    "title": "不想开会员，我写了一个记账 App",
-    "url": "https://juejin.cn/post/7700592903408533546",
-    "source": "juejin",
-    "score": 0.19250019,
-    "published_at": "2026-10-26T06:06:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50264228",
-    "title": "US President says he will ban the term 'artificial intelligence'",
-    "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-10-27T19:11:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50235661",
-    "title": "A Stackless Floodfill Automaton",
-    "url": "https://t3x.org/files/floodfill.pdf",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-25T20:18:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50260526",
-    "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
-    "url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
-    "source": "hackernews",
-    "score": 119.0,
-    "published_at": "2026-10-27T15:09:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50260571",
-    "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-    "url": "https://spec-first.dev/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-27T15:12:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50261623",
-    "title": "Vicious Cycles: Theses on a philosophy of news",
-    "url": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-27T16:27:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50240041",
-    "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
-    "url": "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-26T06:54:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50261589",
-    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-    "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-    "source": "hackernews",
-    "score": 80.0,
-    "published_at": "2026-10-27T16:25:30+00:00",
     "summary": "",
     "key_points": []
   }
