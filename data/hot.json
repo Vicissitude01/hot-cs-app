@@ -1,5 +1,385 @@
 [
   {
+    "id": "lobsters:daouvo",
+    "title": "No AI, 52 min. Build all Linux Files utils in C by Hand",
+    "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-11-01T05:06:14.856-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pswl6z",
+    "title": "Non-Determinism and Overcount on Modern Hardware Performance Counter Implementations",
+    "url": "https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-01T01:55:47.284-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ep5vsq",
+    "title": "Beating the compiler at signed 32-bit division",
+    "url": "https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-01T06:26:07.426-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vdiow8",
+    "title": "Release 0.6.0 · buzz-language/buzz",
+    "url": "https://buzz-lang.dev/0.6.0",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-01T06:14:21.459-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mni8ri",
+    "title": "XKCD and Fourier",
+    "url": "https://leancrew.com/all-this/2026/10/xkcd-and-fourier/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-01T04:50:56.504-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253499",
+    "title": "注册 claude 就弹 kyc",
+    "url": "https://www.v2ex.com/t/1253499",
+    "source": "v2ex",
+    "score": 54.0,
+    "published_at": "2026-11-01T02:50:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253501",
+    "title": "也也也失业了，写点接下来的路",
+    "url": "https://www.v2ex.com/t/1253501",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-11-01T03:12:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253511",
+    "title": "恶心了， ChatGPT 要跟 Codex 共用额度了",
+    "url": "https://www.v2ex.com/t/1253511",
+    "source": "v2ex",
+    "score": 62.0,
+    "published_at": "2026-11-01T04:14:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253481",
+    "title": "apple 官网（美区）购买礼品卡可以用招行银行的 visa 卡支付吗？",
+    "url": "https://www.v2ex.com/t/1253481",
+    "source": "v2ex",
+    "score": 64.0,
+    "published_at": "2026-11-01T00:58:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253504",
+    "title": "大家坐飞机的时候，怎么打发时间？",
+    "url": "https://www.v2ex.com/t/1253504",
+    "source": "v2ex",
+    "score": 98.0,
+    "published_at": "2026-11-01T03:42:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7701991107366502409",
+    "title": "给你的编辑器加上思维导图、流程图、白板：一套开源组件，多种文档通用",
+    "url": "https://juejin.cn/post/7701991107366502409",
+    "source": "juejin",
+    "score": 0.12038429,
+    "published_at": "2026-10-30T00:14:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702247558392070171",
+    "title": "用 WorkBuddy+DeepSeek 跑了30天自动矩阵，事情没那么简单",
+    "url": "https://juejin.cn/post/7702247558392070171",
+    "source": "juejin",
+    "score": 0.14199711,
+    "published_at": "2026-10-30T09:02:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702284306036572160",
+    "title": "Android 双开环境底层剖析与风控检测落地",
+    "url": "https://juejin.cn/post/7702284306036572160",
+    "source": "juejin",
+    "score": 0.13538644,
+    "published_at": "2026-10-30T09:32:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702000935430242344",
+    "title": "用了两周，我给 DeepSeek Harness 写了 5 个插件",
+    "url": "https://juejin.cn/post/7702000935430242344",
+    "source": "juejin",
+    "score": 0.13008355,
+    "published_at": "2026-10-30T00:24:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702064982632824866",
+    "title": "我给自己造了一个桌面效率助手：剪贴板、截图提单、全盘文件搜索，全都塞进快捷键里",
+    "url": "https://juejin.cn/post/7702064982632824866",
+    "source": "juejin",
+    "score": 0.11732077,
+    "published_at": "2026-10-30T05:48:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702015192474419227",
+    "title": "QQ「大肥鱼」AI 机器人",
+    "url": "https://juejin.cn/post/7702015192474419227",
+    "source": "juejin",
+    "score": 0.1422984,
+    "published_at": "2026-10-30T02:50:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702238052609081385",
+    "title": "能工智人，40 大寿，尚能班否？",
+    "url": "https://juejin.cn/post/7702238052609081385",
+    "source": "juejin",
+    "score": 0.16571147,
+    "published_at": "2026-10-30T00:39:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:hyprwm/Hyprland",
+    "title": "Hyprland",
+    "url": "https://github.com/hyprwm/Hyprland",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:FlashML-org/FreeToken",
+    "title": "FreeToken",
+    "url": "https://github.com/FlashML-org/FreeToken",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:patchy631/ai-engineering-hub",
+    "title": "ai-engineering-hub",
+    "url": "https://github.com/patchy631/ai-engineering-hub",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:togg53192-cmd/jailbreaks",
+    "title": "jailbreaks",
+    "url": "https://github.com/togg53192-cmd/jailbreaks",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anomalyco/hex",
+    "title": "hex",
+    "url": "https://github.com/anomalyco/hex",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:beenuar/AiSOC",
+    "title": "AiSOC",
+    "url": "https://github.com/beenuar/AiSOC",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:kornia/kornia",
+    "title": "kornia",
+    "url": "https://github.com/kornia/kornia",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cjpais/Handy",
+    "title": "Handy",
+    "url": "https://github.com/cjpais/Handy",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:public-apis/public-apis",
+    "title": "public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:shiyu-coder/Kronos",
+    "title": "Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50324533",
+    "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
+    "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-11-01T11:17:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50310038",
+    "title": "Understanding Email Encryption",
+    "url": "https://www.fastmail.com/blog/email-encryption/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-10-30T20:55:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50280131",
+    "title": "Radiation Map of the World",
+    "url": "https://radiaverse.com/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-10-28T20:06:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50290480",
+    "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+    "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-10-29T15:20:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50316117",
+    "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+    "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-10-31T13:41:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50290533",
+    "title": "Show HN: Point your camera at a landscape to learn about its geology",
+    "url": "https://outcrop.rocks/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-10-29T15:22:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50323088",
+    "title": "The AI cost of JavaScript frameworks",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "source": "hackernews",
+    "score": 130.0,
+    "published_at": "2026-11-01T06:06:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50303984",
+    "title": "Running a bootstrapped SaaS for 20 years with my brother",
+    "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+    "source": "hackernews",
+    "score": 138.0,
+    "published_at": "2026-10-30T13:58:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50324371",
+    "title": "Domain hacks with unusual Unicode characters (2018)",
+    "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-01T10:44:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50324118",
+    "title": "A tiny Pacific country rolls out universal basic income",
+    "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-11-01T10:05:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50324388",
+    "title": "Norway makes shithouses great again",
+    "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+    "source": "hackernews",
+    "score": 274.0,
+    "published_at": "2026-11-01T10:47:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:vo4337",
     "title": "The Duty of a Scholar",
     "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
@@ -4616,386 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:expo/skills",
-    "title": "skills",
-    "url": "https://github.com/expo/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:hmjz100/LinkSwift",
-    "title": "LinkSwift",
-    "url": "https://github.com/hmjz100/LinkSwift",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:macro-inc/macro",
-    "title": "macro",
-    "url": "https://github.com/macro-inc/macro",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50271088",
-    "title": "Billion-query-per-second lookup tables in C++",
-    "url": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-10-28T09:43:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50239122",
-    "title": "Closing the Sea: Lessons from Ancient Mediterranean Blockades",
-    "url": "https://maritime-executive.com/editorials/closing-the-sea-lessons-from-ancient-mediterranean-blockades",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-26T04:28:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50271457",
-    "title": "Barcelona unrest: how to fabricate a protest in the age of TikTok",
-    "url": "https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-10-28T10:41:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50223739",
-    "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
-    "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-10-24T18:17:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50227400",
-    "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
-    "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-10-25T01:39:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50270764",
-    "title": "Wealth Inequality in America drawn to scale",
-    "url": "https://dreamagainusa.org/",
-    "source": "hackernews",
-    "score": 189.0,
-    "published_at": "2026-10-28T08:48:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50208960",
-    "title": "Start Doing Graph Theory",
-    "url": "https://vertex.degree/",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-10-23T13:49:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hafqkn",
-    "title": "Git for the US Code",
-    "url": "https://lexifina.com/blog/git-for-the-us-code",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-27T23:29:06.731-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:87iesc",
-    "title": "Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's",
-    "url": "https://lobste.rs/s/87iesc",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-27T20:27:50.204-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cpaibp",
-    "title": "This is not sustainable",
-    "url": "https://www.netmeister.org/blog/defense-ddos.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-27T22:56:49.155-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252411",
-    "title": "“你吃的烤肠可能是鸡脖子做的”....",
-    "url": "https://www.v2ex.com/t/1252411",
-    "source": "v2ex",
-    "score": 90.0,
-    "published_at": "2026-10-28T01:34:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252404",
-    "title": "那么多经典电视剧怎么不进行官方高清修复呢",
-    "url": "https://www.v2ex.com/t/1252404",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-10-28T01:09:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252401",
-    "title": "MacBook Pro M6 14 寸来袭，值不值？",
-    "url": "https://www.v2ex.com/t/1252401",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-10-28T01:03:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252479",
-    "title": "面对重大医疗决策， AI 和医生意见不同，我该信谁？",
-    "url": "https://www.v2ex.com/t/1252479",
-    "source": "v2ex",
-    "score": 112.0,
-    "published_at": "2026-10-28T03:16:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252431",
-    "title": "免费帮你设计一块电路板，你最想做什么？",
-    "url": "https://www.v2ex.com/t/1252431",
-    "source": "v2ex",
-    "score": 114.0,
-    "published_at": "2026-10-28T02:10:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252288",
-    "title": "第一次去健身房需要注意什么",
-    "url": "https://www.v2ex.com/t/1252288",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-10-27T08:47:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252451",
-    "title": "男人为啥非要结婚？给你再选一次的机会",
-    "url": "https://www.v2ex.com/t/1252451",
-    "source": "v2ex",
-    "score": 126.0,
-    "published_at": "2026-10-28T02:34:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252393",
-    "title": "Jetbrains 在经历 Fleet 和 Air 的失败之后再次发布一款的轻量级编辑器 Thinkrail",
-    "url": "https://www.v2ex.com/t/1252393",
-    "source": "v2ex",
-    "score": 156.0,
-    "published_at": "2026-10-28T00:15:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252239",
-    "title": "人生到底应该未雨绸缪，还是车到山前必有路？",
-    "url": "https://www.v2ex.com/t/1252239",
-    "source": "v2ex",
-    "score": 162.0,
-    "published_at": "2026-10-27T07:06:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7700901949990895659",
-    "title": "副业搞钱点子之赛事与活动",
-    "url": "https://juejin.cn/post/7700901949990895659",
-    "source": "juejin",
-    "score": 0.51906976,
-    "published_at": "2026-10-27T04:25:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50266701",
-    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-27T22:23:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50217978",
-    "title": "Tabletop Whale is an original science illustration blog",
-    "url": "https://tabletopwhale.com",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-10-24T02:51:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50249883",
-    "title": "What Happened to the Neanderthals?",
-    "url": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-26T19:47:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50267569",
-    "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
-    "url": "https://github.com/maharmstone/moxnox",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-27T23:53:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50265393",
-    "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-    "source": "hackernews",
-    "score": 68.0,
-    "published_at": "2026-10-27T20:35:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50230896",
-    "title": "Assembly Nights",
-    "url": "https://ratfactor.com/assembly-nights",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-25T12:35:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50219275",
-    "title": "A Love Letter to the Super Dimension Fortress",
-    "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-10-24T08:30:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50234796",
-    "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-    "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-    "source": "hackernews",
-    "score": 137.0,
-    "published_at": "2026-10-25T18:49:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50268380",
-    "title": "Git for US Legislation",
-    "url": "https://lexifina.com/blog/git-for-the-us-code",
-    "source": "hackernews",
-    "score": 132.0,
-    "published_at": "2026-10-28T01:47:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:o6vpqb",
-    "title": "Ghostty 1.4.0",
-    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-27T17:06:07.159-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:elayadesign/ai-design-skills",
-    "title": "ai-design-skills",
-    "url": "https://github.com/elayadesign/ai-design-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50265960",
-    "title": "One year of Dioxus fullstack in production: the good, the painful",
-    "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-27T21:19:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50243153",
-    "title": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
-    "url": "https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-10-26T13:20:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50242688",
-    "title": "81 Jokes for the ZX81",
-    "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-26T12:45:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50236073",
-    "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
-    "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-25T21:07:38+00:00",
     "summary": "",
     "key_points": []
   }
