@@ -1,5 +1,125 @@
 [
   {
+    "id": "lobsters:rlmrfy",
+    "title": "An easy way to try local AI with braindead-local-intelligence",
+    "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-01T14:26:47.146-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ikfsgt",
+    "title": "so i guess everyone uses llms to think now",
+    "url": "https://eva.ac/blog/llms",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-11-01T15:13:55.607-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zjjvbo",
+    "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
+    "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-11-01T14:13:29.256-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cqzwwg",
+    "title": "London Meetup - Nov 2026",
+    "url": "https://lobste.rs/s/cqzwwg",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-11-01T12:47:10.632-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702064982632677410",
+    "title": "Weex开发踩坑记录",
+    "url": "https://juejin.cn/post/7702064982632677410",
+    "source": "juejin",
+    "score": 0.06866482,
+    "published_at": "2026-10-30T04:48:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50329707",
+    "title": "John Leeson (the voice of K9) has died",
+    "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-11-01T20:48:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50313227",
+    "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+    "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-10-31T04:31:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50328896",
+    "title": "Ask HN: Which TV do you recommend for privacy?",
+    "url": "https://news.ycombinator.com/item?id=50328896",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-11-01T19:35:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50299427",
+    "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-10-30T03:06:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50271106",
+    "title": "Tips for more effective fuzz testing with AFL++",
+    "url": "https://nullprogram.com/blog/2025/02/05/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-10-28T09:46:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50328251",
+    "title": "Mathematics has changed. Let's act like it",
+    "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+    "source": "hackernews",
+    "score": 152.0,
+    "published_at": "2026-11-01T18:28:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50299811",
+    "title": "Nibnib: Image compression with extreme decompression speed",
+    "url": "https://github.com/raphlinus/nibnib",
+    "source": "hackernews",
+    "score": 46.0,
+    "published_at": "2026-10-30T04:17:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:oqj2zo",
     "title": "Introduction to Programming in ATS",
     "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
@@ -4876,126 +4996,6 @@
     "source": "hackernews",
     "score": 96.0,
     "published_at": "2026-10-28T15:31:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50276998",
-    "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-    "url": "https://nullpt.rs/fingerprinting-bioweapons",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-28T17:13:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50273396",
-    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-    "source": "hackernews",
-    "score": 287.0,
-    "published_at": "2026-10-28T13:41:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50231649",
-    "title": "Regent's Ground-Effect Vehicle Reimagines Coastal Travel",
-    "url": "https://spectrum.ieee.org/ground-effect-vehicle",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-10-25T13:56:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50223109",
-    "title": "From confession to conspiracy: How the Wedgewood fake polls story spread",
-    "url": "https://www.cip.uw.edu/2026/10/23/from-confession-to-conspiracy-how-the-wedgewood-fake-polls-story-spread/",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-10-24T17:02:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50273731",
-    "title": "The Agent SDK",
-    "url": "https://cursor.com/blog/agent-sdk",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-10-28T14:02:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50273171",
-    "title": "Emacs Turns 50",
-    "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-    "source": "hackernews",
-    "score": 257.0,
-    "published_at": "2026-10-28T13:25:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50209269",
-    "title": "Gaussian Splats part 3: There's always a bigger scene",
-    "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-10-23T14:07:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50271640",
-    "title": "Apple's git still trusts the compromised eMudhra certificates",
-    "url": "https://emudhra.we-have-a-problem.com/apple.html",
-    "source": "hackernews",
-    "score": 836.0,
-    "published_at": "2026-10-28T11:03:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50234183",
-    "title": "Fine-tuned Qwen on my 16gb GPU to respond without the letter e",
-    "url": "https://kevin-wu.ca/blog/qwn/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-10-25T18:00:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50274251",
-    "title": "AlpineBSD",
-    "url": "https://wiki.alpinebsd.org",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-10-28T14:30:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50276883",
-    "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-    "url": "https://slidebyside.com/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-28T17:07:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50276779",
-    "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer",
-    "url": "https://www.runconverge.com/careers/founding-platform-engineer",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-10-28T17:00:24+00:00",
     "summary": "",
     "key_points": []
   }
