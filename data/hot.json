@@ -1,5 +1,325 @@
 [
   {
+    "id": "lobsters:cwxne0",
+    "title": "Designing a planned switchover for minimum disruption",
+    "url": "https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-03T02:20:13.016-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wpahfd",
+    "title": "Why we're moving our warehouse off DuckDB",
+    "url": "https://posthog.com/blog/moving-off-duckdb",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-03T01:33:25.774-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:trqbi2",
+    "title": "Firefox Security & Privacy Newsletter 2026 Q3",
+    "url": "https://attackanddefense.dev/2026/11/02/firefox-security-and-privacy-newsletter-q3.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-03T02:03:58.461-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:u7wdqj",
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "source": "lobsters",
+    "score": 21.0,
+    "published_at": "2026-11-02T13:24:33.645-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7fcuxz",
+    "title": "Why did you choose the nix you nix?",
+    "url": "https://lobste.rs/s/7fcuxz",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-11-02T21:58:06.895-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253902",
+    "title": "我是不是没用对 Apple TV？",
+    "url": "https://www.v2ex.com/t/1253902",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-11-02T10:24:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254054",
+    "title": "「请指教，如何在家复刻川渝火锅」",
+    "url": "https://www.v2ex.com/t/1254054",
+    "source": "v2ex",
+    "score": 138.0,
+    "published_at": "2026-11-03T03:05:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254023",
+    "title": "如何找借口拒绝医生开的中药",
+    "url": "https://www.v2ex.com/t/1254023",
+    "source": "v2ex",
+    "score": 164.0,
+    "published_at": "2026-11-03T01:46:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254096",
+    "title": "北京警察上门查无人 进屋搜索 检查手机",
+    "url": "https://www.v2ex.com/t/1254096",
+    "source": "v2ex",
+    "score": 180.0,
+    "published_at": "2026-11-03T04:52:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253995",
+    "title": "熊市持续中就开个银河买纳指或者红利低波 ETF 吧，“万一免五”股票基金免 5 大笑脸开户",
+    "url": "https://www.v2ex.com/t/1253995",
+    "source": "v2ex",
+    "score": 196.0,
+    "published_at": "2026-11-03T00:35:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1253990",
+    "title": "Claude 不到 10 分钟搓了个这个，码农真的要玩完了",
+    "url": "https://www.v2ex.com/t/1253990",
+    "source": "v2ex",
+    "score": 238.0,
+    "published_at": "2026-11-02T23:58:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254053",
+    "title": "被 AI 狠狠辱骂了 🤡",
+    "url": "https://www.v2ex.com/t/1254053",
+    "source": "v2ex",
+    "score": 254.0,
+    "published_at": "2026-11-03T03:04:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254092",
+    "title": "娶了一个这样的媳妇 我该如何自救？",
+    "url": "https://www.v2ex.com/t/1254092",
+    "source": "v2ex",
+    "score": 272.0,
+    "published_at": "2026-11-03T04:37:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7703474285394657318",
+    "title": "Flutter Android 性能修复：8 个大核的手机，Raster 居然只跑在 2 个核上？",
+    "url": "https://juejin.cn/post/7703474285394657318",
+    "source": "juejin",
+    "score": 1.79076112,
+    "published_at": "2026-11-03T00:53:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7703337405387292699",
+    "title": "从天地图切换到高德地图：一次真实的底图迁移实战",
+    "url": "https://juejin.cn/post/7703337405387292699",
+    "source": "juejin",
+    "score": 0.49777429,
+    "published_at": "2026-11-02T09:34:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7703408069258264614",
+    "title": "用 AI + threejs 写了个浏览器里的 3D 动作游戏《武来》：砍怪、放技能、开 SU7",
+    "url": "https://juejin.cn/post/7703408069258264614",
+    "source": "juejin",
+    "score": 0.50265977,
+    "published_at": "2026-11-02T10:10:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7703431570200739875",
+    "title": "真绝了，国产模型 Token 自由了！",
+    "url": "https://juejin.cn/post/7703431570200739875",
+    "source": "juejin",
+    "score": 2.71425866,
+    "published_at": "2026-11-03T02:03:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50344912",
+    "title": "V100 SXM2 pinout and NVLink reference",
+    "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-11-02T22:30:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50348260",
+    "title": "Cloudflare experiencing multiple active incidents",
+    "url": "https://www.cloudflarestatus.com/",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-11-03T04:57:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50347552",
+    "title": "Show HN: I built a little browser game to practice Vim commands",
+    "url": "https://hjkl.duy.run",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-11-03T03:10:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50331988",
+    "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
+    "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-11-02T01:34:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50326246",
+    "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+    "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-11-01T14:52:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50349155",
+    "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+    "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-11-03T07:36:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50347464",
+    "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+    "url": "https://arxiv.org/abs/2608.25820",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-11-03T02:58:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50345924",
+    "title": "Scaling Git at OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai/",
+    "source": "hackernews",
+    "score": 223.0,
+    "published_at": "2026-11-02T23:47:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50331800",
+    "title": "Vathographs: Photographic depth maps as creative expression",
+    "url": "https://vathography.com/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-11-02T01:11:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50320904",
+    "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+    "url": "https://www.argmin.net/p/galactus-the-devourer",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-10-31T22:31:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50323123",
+    "title": "Resisting Cognitive Surrender",
+    "url": "https://knlb.dev/essays/surrender",
+    "source": "hackernews",
+    "score": 170.0,
+    "published_at": "2026-11-01T06:13:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50334523",
+    "title": "European RISC-V Industrial Computing Initiative",
+    "url": "https://erici.eu",
+    "source": "hackernews",
+    "score": 109.0,
+    "published_at": "2026-11-02T08:58:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50321605",
+    "title": "Toit v2.0.0",
+    "url": "https://toit.io/blog/toit-v2-0-0/",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-11-01T00:25:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50346981",
+    "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+    "url": "https://hackertimes.ca/",
+    "source": "hackernews",
+    "score": 262.0,
+    "published_at": "2026-11-03T01:53:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50348962",
+    "title": "Nvidia – open-source auto-ontology",
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "source": "hackernews",
+    "score": 58.0,
+    "published_at": "2026-11-03T07:04:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:0ec9yk",
     "title": "An Introduction to Bε-trees and Write-Optimization",
     "url": "https://www.usenix.org/publications/login/oct15/bender",
@@ -4676,326 +4996,6 @@
     "source": "lobsters",
     "score": 16.0,
     "published_at": "2026-10-29T15:56:43.483-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252841",
-    "title": "准备卸载红果了",
-    "url": "https://www.v2ex.com/t/1252841",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-10-29T06:05:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1252867",
-    "title": "Android 全平台纯自研内核 IPTV 播放器，各种格式都可以快速起播",
-    "url": "https://www.v2ex.com/t/1252867",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-10-29T07:12:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7701604765431873545",
-    "title": "AI友好的可视化图形引擎自我革命：Meta2d.js 2.0 历时一年全新重写，性能与多人协作全面升级",
-    "url": "https://juejin.cn/post/7701604765431873545",
-    "source": "juejin",
-    "score": 0.32505136,
-    "published_at": "2026-10-28T11:05:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50233059",
-    "title": "If-then-else had to be invented (2020)",
-    "url": "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md",
-    "source": "hackernews",
-    "score": 165.0,
-    "published_at": "2026-10-25T16:05:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50264368",
-    "title": "Partitioning my digital life into security domains (2011)",
-    "url": "https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-10-27T19:21:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50267380",
-    "title": "Historical Scientific Instruments",
-    "url": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-27T23:32:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50249598",
-    "title": "Iterating Backwards in C",
-    "url": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-26T19:28:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50295821",
-    "title": "ElementaryUI – Swift, in the Browser",
-    "url": "https://elementary.codes",
-    "source": "hackernews",
-    "score": 53.0,
-    "published_at": "2026-10-29T20:56:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50295868",
-    "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-    "url": "https://projects.freehackers.org/sylphide-os/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-10-29T20:59:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50294506",
-    "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-    "url": "https://github.com/johncassil/dontallow",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-10-29T19:27:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50297697",
-    "title": "Show HN: I Turned DOOM into a Transformer",
-    "url": "https://github.com/mottopanikeiku/doomformer",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-10-29T23:25:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50296947",
-    "title": "The Great American Rascal: Tom Sawyer at 150",
-    "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-10-29T22:14:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50297089",
-    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-    "url": "https://journal.animationstudies.org/article/id/66/",
-    "source": "hackernews",
-    "score": 40.0,
-    "published_at": "2026-10-29T22:26:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50296585",
-    "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
-    "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-10-29T21:48:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50296486",
-    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-    "url": "https://labs.ycombinator.com/projects/games/index.html",
-    "source": "hackernews",
-    "score": 145.0,
-    "published_at": "2026-10-29T21:40:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50296470",
-    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-    "source": "hackernews",
-    "score": 667.0,
-    "published_at": "2026-10-29T21:38:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:j4ntsz",
-    "title": "Will Open Firmware Become the Next Big Trend in Electronic Music Gear?",
-    "url": "https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-10-29T09:37:32.398-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uezack",
-    "title": "Coding Agents, Starter Kits and pgledger",
-    "url": "https://www.pgrs.net/2026/10/29/coding-agents-starter-kits-and-pgledger/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-29T11:00:03.375-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nexvnc",
-    "title": "An open format for writing agent-native software requirements",
-    "url": "https://slcr.dev/announcements#2026-10-29-slcr-launches",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-29T11:17:42.427-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:2matgw",
-    "title": "C2PA's eMudhra Moment",
-    "url": "https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-29T15:33:44.663-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ldvd3n",
-    "title": "Extremely brief history of PDP computers",
-    "url": "https://entropicthoughts.com/history-of-pdp-computers",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-10-29T09:48:09.298-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tw3rsp",
-    "title": "Phorge",
-    "url": "https://www.phorge.it/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-10-29T11:08:47.184-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:siebde",
-    "title": "My favourite PowerMac is a Nintendo Wii",
-    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-    "source": "lobsters",
-    "score": 20.0,
-    "published_at": "2026-10-29T11:32:18.607-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:JetBrains/thinkrail",
-    "title": "thinkrail",
-    "url": "https://github.com/JetBrains/thinkrail",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50291945",
-    "title": "Google Search is now less than half of Alphabet’s revenue",
-    "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
-    "source": "hackernews",
-    "score": 364.0,
-    "published_at": "2026-10-29T16:42:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50278645",
-    "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
-    "url": "https://github.com/theconsensuslabs/noalloc",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-10-28T18:29:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50286197",
-    "title": "What we know so far about Spain train crash",
-    "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-    "source": "hackernews",
-    "score": 110.0,
-    "published_at": "2026-10-29T08:55:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50287775",
-    "title": "If IPv4 were land",
-    "url": "https://iptrust.co/blog/if-ipv4-were-land",
-    "source": "hackernews",
-    "score": 195.0,
-    "published_at": "2026-10-29T12:19:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50292233",
-    "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
-    "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
-    "source": "hackernews",
-    "score": 140.0,
-    "published_at": "2026-10-29T16:56:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50245199",
-    "title": "Scattered thoughts on how doing math feels these days",
-    "url": "https://dynomight.net/math/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-10-26T15:15:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50293115",
-    "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
-    "url": "https://github.com/lonthq/overtone-captions",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-10-29T17:48:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50291421",
-    "title": "16colo.rs – ANSI/ASCII art archive",
-    "url": "https://16colo.rs/",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-10-29T16:14:28+00:00",
     "summary": "",
     "key_points": []
   }
