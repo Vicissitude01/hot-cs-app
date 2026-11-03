@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:qynpzl",
+    "title": "openSUSE Leap 16.1",
+    "url": "https://en.opensuse.org/Release_announcement_16.1",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-03T07:22:48.304-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uutnr5",
+    "title": "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
+    "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-03T16:44:48.698-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:erkjnx",
+    "title": "Gist of Go: Concurrency",
+    "url": "https://antonz.org/go-concurrency/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-03T17:05:03.142-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:znbrpn",
+    "title": "mine",
+    "url": "https://coalton-lang.github.io/mine/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-03T15:01:04.378-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:qvpzfa",
+    "title": "Common Beliefs About DNSSEC Put to the Test: An Invitation to Fact-Check Your Assumptions",
+    "url": "https://circleid.com/posts/common-beliefs-about-dnssec-put-to-the-test-an-invitation-to-fact-check-your-assumptions",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-03T13:45:28.824-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:siqsg7",
+    "title": "Announcing NetBSD 11.1",
+    "url": "https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-03T16:00:17.275-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xbmjlj",
+    "title": "Would you believe it's jank?",
+    "url": "https://www.youtube.com/watch?v=tHgApFhevrQ",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-03T14:03:16.449-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:r3gton",
+    "title": "Your terminal manipulation/navigation setups",
+    "url": "https://lobste.rs/s/r3gton",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-03T12:54:55.545-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gwyv50",
+    "title": "kitty 0.50.0",
+    "url": "https://sw.kovidgoyal.net/kitty/changelog/#id1",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-11-03T11:43:09.945-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50355767",
+    "title": "How I use AI (Oct 2026)",
+    "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-11-03T18:11:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50342931",
+    "title": "Union Types and Option Types",
+    "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-11-02T20:08:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50358422",
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-11-03T21:26:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50357457",
+    "title": "Pratt parsing is a black box",
+    "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-11-03T20:07:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50338334",
+    "title": "Curiosity Traps",
+    "url": "https://www.autodidacts.io/curiosity-traps/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-11-02T15:40:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50356994",
+    "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+    "url": "https://flipper.net/pages/flipper-one",
+    "source": "hackernews",
+    "score": 148.0,
+    "published_at": "2026-11-03T19:32:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50356913",
+    "title": "Introduction to Programming in ATS",
+    "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-11-03T19:25:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50322603",
+    "title": "We're Training a Figma-Fluent Editing Model",
+    "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-11-01T04:05:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50358314",
+    "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+    "url": "https://github.com/finic-ai/kairos",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-11-03T21:16:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50333131",
+    "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+    "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-11-02T04:31:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50355251",
+    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "source": "hackernews",
+    "score": 423.0,
+    "published_at": "2026-11-03T17:40:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50356944",
+    "title": "macOS 27 does not support CoreStorage volumes",
+    "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-11-03T19:27:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50346755",
+    "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+    "url": "https://hackertv.org",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-11-03T01:18:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50354358",
+    "title": "Stringman, an $800 open-source room scale gripper robot",
+    "url": "https://neufangled.com/",
+    "source": "hackernews",
+    "score": 284.0,
+    "published_at": "2026-11-03T16:47:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50358702",
+    "title": "The Internals of PostgreSQL",
+    "url": "https://www.interdb.jp/pg/index.html",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-11-03T21:51:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50358562",
+    "title": "Safari introduces Adaptive Dark Mode in 27.3",
+    "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+    "source": "hackernews",
+    "score": 159.0,
+    "published_at": "2026-11-03T21:39:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50358582",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "source": "hackernews",
+    "score": 101.0,
+    "published_at": "2026-11-03T21:40:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:ihvhfk",
     "title": "A Second Futamura Projection",
     "url": "https://blog.veitheller.de/A_Second_Futamura_Projection.html",
@@ -4736,266 +4996,6 @@
     "source": "hackernews",
     "score": 120.0,
     "published_at": "2026-10-30T15:48:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50308471",
-    "title": "What happened to 145 Nasdaq companies after the $1 warning letter",
-    "url": "https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-30T18:50:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50263837",
-    "title": "Breaking the open web won't stop the bad bots",
-    "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-    "source": "hackernews",
-    "score": 83.0,
-    "published_at": "2026-10-27T18:42:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50306442",
-    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-    "url": "https://github.com/dbreunig/nesformer",
-    "source": "hackernews",
-    "score": 113.0,
-    "published_at": "2026-10-30T16:40:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50305025",
-    "title": "Northflank Breached",
-    "url": "https://status.northflank.com",
-    "source": "hackernews",
-    "score": 237.0,
-    "published_at": "2026-10-30T15:10:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50307190",
-    "title": "My favourite PowerMac is a Nintendo Wii",
-    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-    "source": "hackernews",
-    "score": 112.0,
-    "published_at": "2026-10-30T17:25:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ruq2us",
-    "title": "arm64e pointer authentication: PAC keys, PACIASP, A12",
-    "url": "https://sigreturn.com/blog/pointer-authentication-arm64e/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-30T02:39:04.507-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yu5k5y",
-    "title": "Update on AO3 Downtime, October 30, 2026 | Organization for Transformative Works",
-    "url": "https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-10-30T08:54:17.523-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:paqtgw",
-    "title": "Smart audio for the smart home (2021)",
-    "url": "https://computer.rip/2021-11-06-smart-audio-for-the-smart-home.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-10-30T08:04:57.636-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:u7dsbx",
-    "title": "What are you doing this weekend?",
-    "url": "https://lobste.rs/s/u7dsbx",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-30T04:55:20.859-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:htgcuc",
-    "title": "Do At-Proto Users Know This Is Public?",
-    "url": "https://melaniekat.com/blog/public-on-pds/",
-    "source": "lobsters",
-    "score": 32.0,
-    "published_at": "2026-10-30T06:22:43.498-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ttp7aq",
-    "title": "Backdoors in Claude Code for VS, Cursor official extensions",
-    "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-    "source": "lobsters",
-    "score": 76.0,
-    "published_at": "2026-10-30T06:04:55.168-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253095",
-    "title": "推荐一款日常打字聊天就可以顺便学习英语的工具",
-    "url": "https://www.v2ex.com/t/1253095",
-    "source": "v2ex",
-    "score": 142.0,
-    "published_at": "2026-10-30T02:42:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253058",
-    "title": "同居一年，男友却要每周出去一天",
-    "url": "https://www.v2ex.com/t/1253058",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-10-30T01:47:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253038",
-    "title": "失业 2 个月, 看了红果一个半月, 今天卸载红果 2 天了",
-    "url": "https://www.v2ex.com/t/1253038",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-10-30T01:13:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253134",
-    "title": "有女朋友但是看到胸大屁股大的女生内心还是蠢蠢欲动",
-    "url": "https://www.v2ex.com/t/1253134",
-    "source": "v2ex",
-    "score": 204.0,
-    "published_at": "2026-10-30T03:45:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7701525643872321571",
-    "title": "uView Pro X 1.0.0 发布：全面支持 uni-app x 蒸汽模式，80+ 组件",
-    "url": "https://juejin.cn/post/7701525643872321571",
-    "source": "juejin",
-    "score": 0.16308268,
-    "published_at": "2026-10-28T08:42:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7701991107366731785",
-    "title": "最近 Android 有什么更新：Android Dev Summit 2026 技术解读",
-    "url": "https://juejin.cn/post/7701991107366731785",
-    "source": "juejin",
-    "score": 1.31669151,
-    "published_at": "2026-10-30T01:07:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7701703182474248211",
-    "title": "Go-Gui:一套 无限接近 现代化UI的 GPU绘制界面组件框架",
-    "url": "https://juejin.cn/post/7701703182474248211",
-    "source": "juejin",
-    "score": 0.45681586,
-    "published_at": "2026-10-29T05:37:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:lightpanda-io/browser",
-    "title": "browser",
-    "url": "https://github.com/lightpanda-io/browser",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anthropics/skills",
-    "title": "skills",
-    "url": "https://github.com/anthropics/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:pingdotgg/t3code",
-    "title": "t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mattpocock/skills",
-    "title": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Renhuai123/ziwei-doushu",
-    "title": "ziwei-doushu",
-    "url": "https://github.com/Renhuai123/ziwei-doushu",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50304419",
-    "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-10-30T14:27:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50304122",
-    "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
-    "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-10-30T14:08:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50303571",
-    "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
-    "url": "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-10-30T13:26:43+00:00",
     "summary": "",
     "key_points": []
   }
