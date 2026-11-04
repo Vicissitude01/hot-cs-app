@@ -1,5 +1,155 @@
 [
   {
+    "id": "lobsters:1zetje",
+    "title": "macOS 27 Golden Gate does not actually support CoreStorage volumes",
+    "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-03T15:37:11.701-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:in86vn",
+    "title": "The valley of webhooks",
+    "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-03T20:10:26.147-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fgucra",
+    "title": "Observations from Running stealmybitcoin.com",
+    "url": "https://pavursec.com/blog/stealmybitcoin/",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-11-03T17:45:21.591-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254125",
+    "title": "退休后还打算回农村老家养老吗",
+    "url": "https://www.v2ex.com/t/1254125",
+    "source": "v2ex",
+    "score": 104.0,
+    "published_at": "2026-11-03T06:26:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254063",
+    "title": "有多少 Plus 用户想要退订 gpt 了？有什么替代方案么？",
+    "url": "https://www.v2ex.com/t/1254063",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-11-03T03:18:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254298",
+    "title": "小孩子看稍微暴力血腥一点的电影真的影响很大么",
+    "url": "https://www.v2ex.com/t/1254298",
+    "source": "v2ex",
+    "score": 152.0,
+    "published_at": "2026-11-04T00:47:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254229",
+    "title": "我的 APP 创作出的壁纸在小红书有 100w 浏览量了！送终身码",
+    "url": "https://www.v2ex.com/t/1254229",
+    "source": "v2ex",
+    "score": 158.0,
+    "published_at": "2026-11-03T11:06:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254304",
+    "title": "各位每年的话费宽带费一共多少钱？",
+    "url": "https://www.v2ex.com/t/1254304",
+    "source": "v2ex",
+    "score": 164.0,
+    "published_at": "2026-11-04T01:07:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254205",
+    "title": "亲戚聚餐，被当众问工资，怎么回答",
+    "url": "https://www.v2ex.com/t/1254205",
+    "source": "v2ex",
+    "score": 170.0,
+    "published_at": "2026-11-03T09:35:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7702984654098284553",
+    "title": "周末花两天手撸了一个车牌识别，CCPD 上 99%，换张手机照片就翻车了 🚗",
+    "url": "https://juejin.cn/post/7702984654098284553",
+    "source": "juejin",
+    "score": 0.18023869,
+    "published_at": "2026-11-02T02:14:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mattpocock/skills",
+    "title": "skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50351298",
+    "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
+    "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-11-03T12:40:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50352641",
+    "title": "There is no posttraining data commons",
+    "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-11-03T14:45:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50360164",
+    "title": "C++26 Disapproved",
+    "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-11-04T00:33:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50360573",
+    "title": "Giant Canyon on Mars Is Still Tectonically Active Today",
+    "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-11-04T01:40:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:qynpzl",
     "title": "openSUSE Leap 16.1",
     "url": "https://en.opensuse.org/Release_announcement_16.1",
@@ -4846,156 +4996,6 @@
     "source": "hackernews",
     "score": 62.0,
     "published_at": "2026-10-30T15:29:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50305218",
-    "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-    "url": "https://sketch.wakeshift.ai/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-10-30T15:23:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50246538",
-    "title": "Compile-Time Dependent Types",
-    "url": "https://thenumb.at/Syl-Intro/",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-10-26T16:28:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50306815",
-    "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
-    "url": "https://github.com/spinfinc/spinf-serve",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-10-30T17:03:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50298721",
-    "title": "Tracks along the longest drive on another world",
-    "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-10-30T01:19:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50308697",
-    "title": "Bunny CDN Security Incident",
-    "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-30T19:05:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50301717",
-    "title": "How do you take a picture of a black hole?",
-    "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-10-30T09:49:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50305480",
-    "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-    "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-    "source": "hackernews",
-    "score": 140.0,
-    "published_at": "2026-10-30T15:39:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50258496",
-    "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
-    "url": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-10-27T13:00:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50272479",
-    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-    "source": "hackernews",
-    "score": 89.0,
-    "published_at": "2026-10-28T12:24:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50305693",
-    "title": "AI isn't replacing SREs, it's deskilling them",
-    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-    "source": "hackernews",
-    "score": 356.0,
-    "published_at": "2026-10-30T15:52:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50307723",
-    "title": "GitHub Incident with Actions, Pages, and Webhooks",
-    "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
-    "source": "hackernews",
-    "score": 105.0,
-    "published_at": "2026-10-30T17:57:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50296730",
-    "title": "Building an AI-native engineering org",
-    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-10-29T21:58:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50307219",
-    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-    "source": "hackernews",
-    "score": 130.0,
-    "published_at": "2026-10-30T17:27:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50305573",
-    "title": "The federated code forge",
-    "url": "https://tangled.org/blog/forge/",
-    "source": "hackernews",
-    "score": 138.0,
-    "published_at": "2026-10-30T15:44:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50305637",
-    "title": "Florilegium: Procedural Flowers in LaTeX",
-    "url": "https://github.com/kevinraymond/florilegium",
-    "source": "hackernews",
-    "score": 120.0,
-    "published_at": "2026-10-30T15:48:12+00:00",
     "summary": "",
     "key_points": []
   }
