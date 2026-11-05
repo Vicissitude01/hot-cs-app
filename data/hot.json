@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:wfw32o",
+    "title": "How Flink's Kafka connector commits offsets to Kafka",
+    "url": "https://dalelane.co.uk/blog/?p=6161",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-05T10:31:51.666-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cpwy05",
+    "title": "Can 23,000 quantum qubits break RSA-2048?",
+    "url": "https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-05T11:22:48.104-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yomksa",
+    "title": "Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC",
+    "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-05T11:32:18.197-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:x2hcss",
+    "title": "SourceHut disabled registration bypass | CVE-2026-121728",
+    "url": "https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-11-05T12:34:41.907-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yoywed",
+    "title": "Software Line Specialist",
+    "url": "https://lovro-bikic.github.io/software-line-specialist/",
+    "source": "lobsters",
+    "score": 24.0,
+    "published_at": "2026-11-05T10:32:29.997-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50384133",
+    "title": "California Gov Newsom commutes death sentences for all 548 people on death row",
+    "url": "https://www.bbc.com/news/articles/cqrkyyd2j8mvo",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-11-05T20:34:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50380704",
+    "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+    "url": "https://github.com/AGGIB/Stroq",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-05T15:54:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50383163",
+    "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+    "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-11-05T19:16:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50380268",
+    "title": "We can do better than line-buffered output",
+    "url": "https://nullprogram.com/blog/2026/11/05/",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-11-05T15:25:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50383294",
+    "title": "Introducing Pangram Image 1.0",
+    "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-11-05T19:27:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50380979",
+    "title": "The Stacks Project, Formalized in Lean",
+    "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-11-05T16:16:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50349667",
+    "title": "The Lisp curse, now coming to your ecosystem",
+    "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+    "source": "hackernews",
+    "score": 177.0,
+    "published_at": "2026-11-03T08:59:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50368208",
+    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+    "url": "https://www.linum.ai/field-notes/pjit-21k",
+    "source": "hackernews",
+    "score": 106.0,
+    "published_at": "2026-11-04T16:45:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50381512",
+    "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+    "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-11-05T17:01:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50381687",
+    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+    "url": "https://github.com/rivet-dev/rivet",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-11-05T17:17:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50381033",
+    "title": "My psychophysics as a bilateral cochlear implant user",
+    "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+    "source": "hackernews",
+    "score": 142.0,
+    "published_at": "2026-11-05T16:21:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50383877",
+    "title": "The Cost of Blogging",
+    "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-11-05T20:14:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50380810",
+    "title": "Motorola Signature 27 with GrapheneOS support",
+    "url": "https://motorolanews.com/motorola-signature-27-2/",
+    "source": "hackernews",
+    "score": 326.0,
+    "published_at": "2026-11-05T16:01:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50383739",
+    "title": "Goodbye from Salon",
+    "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+    "source": "hackernews",
+    "score": 225.0,
+    "published_at": "2026-11-05T20:03:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50381383",
+    "title": "Window Sweaters",
+    "url": "https://github.com/saragordic/window-sweaters",
+    "source": "hackernews",
+    "score": 171.0,
+    "published_at": "2026-11-05T16:50:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50383963",
+    "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+    "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-11-05T20:21:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50383057",
+    "title": "The Hackintosh Reborn",
+    "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-11-05T19:08:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50384233",
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-11-05T20:43:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50383740",
+    "title": "Kagi Search for Everyone",
+    "url": "https://kagi.com/changelog",
+    "source": "hackernews",
+    "score": 148.0,
+    "published_at": "2026-11-05T20:03:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:cm9b92",
     "title": "The ULC Audio Codec is a Perfect Fit for the N64",
     "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
@@ -4756,246 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:patchy631/ai-engineering-hub",
-    "title": "ai-engineering-hub",
-    "url": "https://github.com/patchy631/ai-engineering-hub",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:togg53192-cmd/jailbreaks",
-    "title": "jailbreaks",
-    "url": "https://github.com/togg53192-cmd/jailbreaks",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:anomalyco/hex",
-    "title": "hex",
-    "url": "https://github.com/anomalyco/hex",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:beenuar/AiSOC",
-    "title": "AiSOC",
-    "url": "https://github.com/beenuar/AiSOC",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:kornia/kornia",
-    "title": "kornia",
-    "url": "https://github.com/kornia/kornia",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cjpais/Handy",
-    "title": "Handy",
-    "url": "https://github.com/cjpais/Handy",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:public-apis/public-apis",
-    "title": "public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:shiyu-coder/Kronos",
-    "title": "Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50324533",
-    "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
-    "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-11-01T11:17:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50310038",
-    "title": "Understanding Email Encryption",
-    "url": "https://www.fastmail.com/blog/email-encryption/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-10-30T20:55:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50280131",
-    "title": "Radiation Map of the World",
-    "url": "https://radiaverse.com/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-28T20:06:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50290480",
-    "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-    "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-10-29T15:20:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50316117",
-    "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
-    "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-10-31T13:41:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50290533",
-    "title": "Show HN: Point your camera at a landscape to learn about its geology",
-    "url": "https://outcrop.rocks/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-10-29T15:22:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50323088",
-    "title": "The AI cost of JavaScript frameworks",
-    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-    "source": "hackernews",
-    "score": 130.0,
-    "published_at": "2026-11-01T06:06:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50303984",
-    "title": "Running a bootstrapped SaaS for 20 years with my brother",
-    "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-    "source": "hackernews",
-    "score": 138.0,
-    "published_at": "2026-10-30T13:58:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50324371",
-    "title": "Domain hacks with unusual Unicode characters (2018)",
-    "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-11-01T10:44:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50324118",
-    "title": "A tiny Pacific country rolls out universal basic income",
-    "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-11-01T10:05:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50324388",
-    "title": "Norway makes shithouses great again",
-    "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-    "source": "hackernews",
-    "score": 274.0,
-    "published_at": "2026-11-01T10:47:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vo4337",
-    "title": "The Duty of a Scholar",
-    "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-31T19:46:07.263-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:h6dt6e",
-    "title": "A brief history of just-in-time (2003)",
-    "url": "https://dl.acm.org/doi/10.1145/857076.857077",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-10-31T23:46:09.991-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lt44rt",
-    "title": "Introducing Kwi, a new KDE terminal emulator",
-    "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-10-31T21:56:29.237-05:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253477",
-    "title": "Reddit 只发评论，被禁 6 个账户😡，有什么使用规则吗？",
-    "url": "https://www.v2ex.com/t/1253477",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-11-01T00:08:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253451",
-    "title": "看到最近群晖被黑，想给 NAS 里的数据做个备份，大家用的什么方案？",
-    "url": "https://www.v2ex.com/t/1253451",
-    "source": "v2ex",
-    "score": 36.0,
-    "published_at": "2026-10-31T13:27:29+00:00",
     "summary": "",
     "key_points": []
   }
