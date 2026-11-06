@@ -1,5 +1,285 @@
 [
   {
+    "id": "lobsters:8qalfk",
+    "title": "Bug Finding Considered Harmful?",
+    "url": "https://alperenkeles.com/posts/bug-finding-considered-harmful/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-06T11:39:08.968-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:id3f9d",
+    "title": "Kevin Boone: Firststeps in bare-metal programming using UEFI – series index",
+    "url": "https://kevinboone.me/efitest_index.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-06T12:51:53.819-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lzuqfr",
+    "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+    "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-06T11:48:51.545-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xhrab6",
+    "title": "Hacking the meta ray-ban smartglasses",
+    "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-06T14:50:24.488-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gzdimd",
+    "title": "How we continuously validate formal specifications in production",
+    "url": "https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-06T12:00:07.309-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4lgvnf",
+    "title": "Nondeterminism in Futhark",
+    "url": "https://futhark-lang.org/blog/2026-11-04-nondeterminism.html",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-06T13:16:01.378-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:y3hvme",
+    "title": "Inside GitHub's new Git storage architecture",
+    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-11-06T11:50:09.323-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50394569",
+    "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+    "url": "https://github.com/anomalyco/rune",
+    "source": "hackernews",
+    "score": 124.0,
+    "published_at": "2026-11-06T16:31:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50396064",
+    "title": "We know 15k websites are infected. how do we tell them?",
+    "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+    "source": "hackernews",
+    "score": 121.0,
+    "published_at": "2026-11-06T18:13:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50397325",
+    "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+    "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-11-06T19:41:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50394906",
+    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "source": "hackernews",
+    "score": 154.0,
+    "published_at": "2026-11-06T16:54:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50394977",
+    "title": "PyLings: Solve Exercises and Learn Python",
+    "url": "https://github.com/thesayfulla/pylings",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-11-06T16:59:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50396108",
+    "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
+    "url": "https://halfnarp.events.ccc.de",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-11-06T18:16:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50397264",
+    "title": "As the Japanese countryside empties out, wildlife is disappearing",
+    "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-11-06T19:36:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50392348",
+    "title": "How octopuses squeeze through too small gaps",
+    "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-11-06T13:57:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50354308",
+    "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-11-03T16:43:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50397176",
+    "title": "My first and last telegram was from Rebecca West",
+    "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-11-06T19:30:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50395869",
+    "title": "Size-It-Up (Game)",
+    "url": "https://magnitudle.com/size-it-up",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-11-06T17:59:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50379221",
+    "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
+    "url": "https://github.com/piercefreeman/waymark",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-11-05T14:06:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50395450",
+    "title": "Devvm.dev: One VM for every project",
+    "url": "https://devvm.dev/",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-11-06T17:30:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50396834",
+    "title": "Replit rebuilt its sandbox engine with microVMs",
+    "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-11-06T19:06:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50395919",
+    "title": "Memorilla: Latent Semantic Memory for LLMs",
+    "url": "https://arxiv.org/abs/2610.21375",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-11-06T18:03:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50397017",
+    "title": "Restaurant Delivery Payment-Skimming Campaign",
+    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-11-06T19:19:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50391456",
+    "title": "Tesla to wind down Cybertruck production",
+    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "source": "hackernews",
+    "score": 715.0,
+    "published_at": "2026-11-06T12:13:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50388001",
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "source": "hackernews",
+    "score": 229.0,
+    "published_at": "2026-11-06T04:00:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50397219",
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "source": "hackernews",
+    "score": 106.0,
+    "published_at": "2026-11-06T19:33:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50397994",
+    "title": "AI is dramatically accelerating AI research",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-11-06T20:27:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50397429",
+    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "source": "hackernews",
+    "score": 187.0,
+    "published_at": "2026-11-06T19:48:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:5cwnpu",
     "title": "Pushing the Limits with getaddrinfo",
     "url": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
@@ -4716,286 +4996,6 @@
     "source": "hackernews",
     "score": 278.0,
     "published_at": "2026-11-02T17:16:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50341174",
-    "title": "Astra can read and write weights to improve Qwen",
-    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-    "source": "hackernews",
-    "score": 468.0,
-    "published_at": "2026-11-02T18:21:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:x7emxb",
-    "title": "Optimizing CPU-side Rendering Code",
-    "url": "https://godotengine.org/article/rendering-cpu-optimizations/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-02T00:21:08.496-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ihqhia",
-    "title": "the lost malloc()",
-    "url": "https://napcakes.nekoweb.org/posts/malloc/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-02T02:46:48.752-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wq34n7",
-    "title": "The Problem with C++ Safety: Modern C++ Is a Mindset, Not a Standard",
-    "url": "https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-2/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-01T20:26:44.703-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3nasb5",
-    "title": "The Beginning of BSD Unix",
-    "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-11-01T21:05:24.929-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:reerrq",
-    "title": "A400000 Winners",
-    "url": "https://oeis.org/wiki/A400K_Winners",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-11-01T21:25:15.689-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xmu28l",
-    "title": "JPEG XS - Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/JPEG_XS",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-02T01:53:19.474-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:caksp0",
-    "title": "Tyrtulia, a headless forum with no passwords, made for the terminal",
-    "url": "https://en.andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-02T02:33:36.037-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0yxkvs",
-    "title": "Postgres 19 is late, and it's AI's fault",
-    "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-11-01T20:19:02.905-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253635",
-    "title": "ESP Mosaico 这种概念的出现，让 AI 彻底攻破了嵌入式应用开发的护城河",
-    "url": "https://www.v2ex.com/t/1253635",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-11-02T00:38:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253677",
-    "title": "[HyperAPI 中转站]的新老用户来领鸡蛋了，评论留 ID，送$10 体验额度",
-    "url": "https://www.v2ex.com/t/1253677",
-    "source": "v2ex",
-    "score": 150.0,
-    "published_at": "2026-11-02T02:01:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253836",
-    "title": "前公司老板找我回去救场，情况比较特殊，想听听各位的建议",
-    "url": "https://www.v2ex.com/t/1253836",
-    "source": "v2ex",
-    "score": 154.0,
-    "published_at": "2026-11-02T07:27:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253782",
-    "title": "朋友一家定期献血，我看着矿泉水瓶陷入了沉思",
-    "url": "https://www.v2ex.com/t/1253782",
-    "source": "v2ex",
-    "score": 166.0,
-    "published_at": "2026-11-02T05:56:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253652",
-    "title": "现在的行情真的很冷",
-    "url": "https://www.v2ex.com/t/1253652",
-    "source": "v2ex",
-    "score": 176.0,
-    "published_at": "2026-11-02T01:19:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253699",
-    "title": "agent 的代码到底审不审核",
-    "url": "https://www.v2ex.com/t/1253699",
-    "source": "v2ex",
-    "score": 196.0,
-    "published_at": "2026-11-02T02:33:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253707",
-    "title": "兄弟们这辈子买过的最贵的东西是什么？",
-    "url": "https://www.v2ex.com/t/1253707",
-    "source": "v2ex",
-    "score": 214.0,
-    "published_at": "2026-11-02T02:47:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253673",
-    "title": "大家现在每天早餐消费多少钱？",
-    "url": "https://www.v2ex.com/t/1253673",
-    "source": "v2ex",
-    "score": 218.0,
-    "published_at": "2026-11-02T01:57:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253690",
-    "title": "你们除了上班 娱乐方式有哪些",
-    "url": "https://www.v2ex.com/t/1253690",
-    "source": "v2ex",
-    "score": 278.0,
-    "published_at": "2026-11-02T02:15:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7702284306036998144",
-    "title": "从短剧App的bug看响应式编程在AI时代的优势",
-    "url": "https://juejin.cn/post/7702284306036998144",
-    "source": "juejin",
-    "score": 0.09524548,
-    "published_at": "2026-10-30T10:20:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7702438435236446227",
-    "title": "Skill、MCP、Workflow、Rules、Memory 有什么区别？拿几次真实开发任务讲清楚",
-    "url": "https://juejin.cn/post/7702438435236446227",
-    "source": "juejin",
-    "score": 0.14224414,
-    "published_at": "2026-10-31T03:49:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703379063838310434",
-    "title": "程序员 1v1 访谈系列第十期：纯前端坚持不了多久了",
-    "url": "https://juejin.cn/post/7703379063838310434",
-    "source": "juejin",
-    "score": 10.58563445,
-    "published_at": "2026-11-02T07:47:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7702866392132337718",
-    "title": "我用workBuddy开发了自己的第一个小程序并成功上线了",
-    "url": "https://juejin.cn/post/7702866392132337718",
-    "source": "juejin",
-    "score": 1.27296313,
-    "published_at": "2026-11-01T23:42:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7702408998457344026",
-    "title": "我把 0.6B 大模型塞进安卓手机：596 秒到 10 秒",
-    "url": "https://juejin.cn/post/7702408998457344026",
-    "source": "juejin",
-    "score": 0.11099249,
-    "published_at": "2026-10-31T07:24:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703046191176990771",
-    "title": "为什么几乎所有的知名开源项目都是外国人写的？",
-    "url": "https://juejin.cn/post/7703046191176990771",
-    "source": "juejin",
-    "score": 0.42933547,
-    "published_at": "2026-11-01T06:10:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703289640062713907",
-    "title": "感人，Flutter 居然有了一个超实用提案，期待落地",
-    "url": "https://juejin.cn/post/7703289640062713907",
-    "source": "juejin",
-    "score": 2.37956192,
-    "published_at": "2026-11-02T01:17:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703370591587762203",
-    "title": "Python 中使用 SSE 实现大模型流式输出",
-    "url": "https://juejin.cn/post/7703370591587762203",
-    "source": "juejin",
-    "score": 10.40352319,
-    "published_at": "2026-11-02T07:28:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7702808313616760859",
-    "title": "一个网吧网管，做了个网页，卖了 5000 万",
-    "url": "https://juejin.cn/post/7702808313616760859",
-    "source": "juejin",
-    "score": 5.04919004,
-    "published_at": "2026-11-01T23:25:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703011669408661538",
-    "title": "解构赋值与展开运算符：现代 JS 提效技巧",
-    "url": "https://juejin.cn/post/7703011669408661538",
-    "source": "juejin",
-    "score": 11.75728059,
-    "published_at": "2026-11-02T01:15:57+00:00",
     "summary": "",
     "key_points": []
   }
