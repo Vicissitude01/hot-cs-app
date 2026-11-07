@@ -1,5 +1,285 @@
 [
   {
+    "id": "lobsters:immpvk",
+    "title": "Inform is a programming language for creating interactive fiction",
+    "url": "https://ganelson.github.io/inform-website/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-06T20:05:38.231-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:miazwz",
+    "title": "UploadYourRam.org",
+    "url": "https://uploadyourram.org/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-06T18:00:06.210-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lssm6h",
+    "title": "How hard could implementing DTLS 1.3 possibly be?",
+    "url": "https://joturk.net/posts/dtls",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-06T18:54:14.490-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:osqswf",
+    "title": "The Port That Does Not Exist",
+    "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-11-06T17:03:12.299-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0ouxwf",
+    "title": "Libghostty 1.0",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "source": "lobsters",
+    "score": 23.0,
+    "published_at": "2026-11-06T17:48:03.089-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255048",
+    "title": "今天离职谈话领导说他心寒了",
+    "url": "https://www.v2ex.com/t/1255048",
+    "source": "v2ex",
+    "score": 78.0,
+    "published_at": "2026-11-06T09:01:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254942",
+    "title": "没用过 BOSS 直聘， HR 已读不回需要再追问么？",
+    "url": "https://www.v2ex.com/t/1254942",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-11-06T03:25:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254966",
+    "title": "居委会是如何精准知道家里住了哪些人的",
+    "url": "https://www.v2ex.com/t/1254966",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-11-06T05:05:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254951",
+    "title": "上个月在这里求内测的取餐号收集册「杯号」，上架 App Store 了（送 30 个永久 Pro 码）",
+    "url": "https://www.v2ex.com/t/1254951",
+    "source": "v2ex",
+    "score": 90.0,
+    "published_at": "2026-11-06T03:45:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254940",
+    "title": "V2EX Polish 2.5.6 版本导致谷歌浏览器卡死",
+    "url": "https://www.v2ex.com/t/1254940",
+    "source": "v2ex",
+    "score": 94.0,
+    "published_at": "2026-11-06T03:23:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1254969",
+    "title": "大佬们今年双 11 准备买点啥？",
+    "url": "https://www.v2ex.com/t/1254969",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-11-06T05:22:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704189949114335286",
+    "title": "我现在最怕的不是 AI 写不出代码，是它写得太快，快到我不好意思说“等一下”",
+    "url": "https://juejin.cn/post/7704189949114335286",
+    "source": "juejin",
+    "score": 0.19682485,
+    "published_at": "2026-11-05T01:19:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704902910831853587",
+    "title": "神级 Skill，让 AI 用 HTML 代替 Markdown 回复",
+    "url": "https://juejin.cn/post/7704902910831853587",
+    "source": "juejin",
+    "score": 0.563699,
+    "published_at": "2026-11-06T04:19:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704499167134335018",
+    "title": "Claude Code 同需求写两版对比：装不装 frontend-design 差多远？",
+    "url": "https://juejin.cn/post/7704499167134335018",
+    "source": "juejin",
+    "score": 0.18321535,
+    "published_at": "2026-11-05T08:38:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704455397478334499",
+    "title": "为什么这么多 Agent Harness 都选择 TypeScript",
+    "url": "https://juejin.cn/post/7704455397478334499",
+    "source": "juejin",
+    "score": 0.24617636,
+    "published_at": "2026-11-05T01:38:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704455397477875747",
+    "title": "Flutter 开始支持 Jetpack Compose Platform View",
+    "url": "https://juejin.cn/post/7704455397477875747",
+    "source": "juejin",
+    "score": 0.28633291,
+    "published_at": "2026-11-05T00:50:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50397099",
+    "title": "GitHub's new Git storage architecture",
+    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-11-06T19:24:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50398625",
+    "title": "88x31 GIF Stickers for 2026",
+    "url": "https://a90.com/experiments/88x31/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-11-06T21:13:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50399569",
+    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+    "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-11-06T22:50:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50397711",
+    "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-11-06T20:09:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50356722",
+    "title": "Panthera: Ampere's CPU Performance Model",
+    "url": "https://github.com/AmpereComputing/panthera",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-11-03T19:12:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50399657",
+    "title": "Sodium-ion batteries approach cost parity with LFP",
+    "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+    "source": "hackernews",
+    "score": 127.0,
+    "published_at": "2026-11-06T23:00:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50399991",
+    "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+    "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-11-06T23:37:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50399695",
+    "title": "Outbound SIP calling is now available to all organizations",
+    "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-11-06T23:03:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50354097",
+    "title": "Can GROUP BY still be optimized after all these years?",
+    "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-11-03T16:30:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50360810",
+    "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+    "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-11-04T02:19:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50400597",
+    "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+    "url": "https://josef.cn/blog/unitree",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-07T01:05:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50399933",
+    "title": "Libghostty 1.0",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "source": "hackernews",
+    "score": 204.0,
+    "published_at": "2026-11-06T23:30:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:8qalfk",
     "title": "Bug Finding Considered Harmful?",
     "url": "https://alperenkeles.com/posts/bug-finding-considered-harmful/",
@@ -4716,286 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50342284",
-    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-11-02T19:27:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50340362",
-    "title": "I Read the Clankers' Code",
-    "url": "https://fev.al/posts/i-read-the-code/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-11-02T17:32:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50340601",
-    "title": "Byesky: Wipe your Bluesky account clean",
-    "url": "https://byesky.pirhoo.com",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-11-02T17:46:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50335615",
-    "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-    "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-    "source": "hackernews",
-    "score": 279.0,
-    "published_at": "2026-11-02T11:50:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50334704",
-    "title": "Show HN: I've updated my Linux System Call website and API",
-    "url": "https://syscall.sh/",
-    "source": "hackernews",
-    "score": 174.0,
-    "published_at": "2026-11-02T09:29:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50337503",
-    "title": "GPT-Rosalind-6 System Card Addendum",
-    "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-11-02T14:44:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50336840",
-    "title": "The U.S. Census Bureau and \"Super Intelligence\"",
-    "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-11-02T13:55:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50337661",
-    "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-    "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-11-02T14:56:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50338747",
-    "title": "Moving our warehouse off DuckDB",
-    "url": "https://posthog.com/blog/moving-off-duckdb",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-11-02T16:02:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50340629",
-    "title": "Making Peace with the Projective Plane",
-    "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-11-02T17:47:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50340992",
-    "title": "Skill to Create Product Videos",
-    "url": "https://github.com/aaitor/skill-video-studio",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-11-02T18:10:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50339815",
-    "title": "My Favourite Laptop",
-    "url": "https://blog.jsbarretto.com/post/laptop",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-11-02T16:59:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50337716",
-    "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
-    "url": "https://longcat.ai/blog/longcat-2.5/",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-11-02T15:00:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50341028",
-    "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-11-02T18:12:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50337558",
-    "title": "We halved DNS build delay and cut memory use by 85%",
-    "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-11-02T14:47:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50339494",
-    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-    "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-    "source": "hackernews",
-    "score": 177.0,
-    "published_at": "2026-11-02T16:40:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50337608",
-    "title": "WTF Ubuntu?",
-    "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-    "source": "hackernews",
-    "score": 957.0,
-    "published_at": "2026-11-02T14:52:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50341502",
-    "title": "SOML – A Config Format for Humans",
-    "url": "https://github.com/soml-lang/soml",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-11-02T18:42:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50339827",
-    "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
-    "url": "https://bitmovin.com/careers/8660599002/",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-11-02T17:00:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50336518",
-    "title": "If you love a website, back it up",
-    "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-    "source": "hackernews",
-    "score": 217.0,
-    "published_at": "2026-11-02T13:25:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50338728",
-    "title": "Ask HN: Who is hiring? (November 2026)",
-    "url": "https://news.ycombinator.com/item?id=50338728",
-    "source": "hackernews",
-    "score": 114.0,
-    "published_at": "2026-11-02T16:01:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50339221",
-    "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
-    "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-    "source": "hackernews",
-    "score": 119.0,
-    "published_at": "2026-11-02T16:25:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50341736",
-    "title": "Egoless Mathematics in the AI Era",
-    "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-11-02T18:54:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50340369",
-    "title": "Let Me Ch...",
-    "url": "https://blog.alxgsv.com/let-me-check/",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-11-02T17:33:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50339397",
-    "title": "US boy names that became girl names and vice versa",
-    "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-    "source": "hackernews",
-    "score": 134.0,
-    "published_at": "2026-11-02T16:34:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50341334",
-    "title": "Agentic Backdoors via Pretraining Poisoning",
-    "url": "https://arxiv.org/abs/2610.37741",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-11-02T18:30:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50339913",
-    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-    "url": "https://momentic.ai/",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-11-02T17:05:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50340088",
-    "title": "Show HN: Subvocal – Talk to your computer without making noise",
-    "url": "https://subvocal.company/",
-    "source": "hackernews",
-    "score": 278.0,
-    "published_at": "2026-11-02T17:16:17+00:00",
     "summary": "",
     "key_points": []
   }
