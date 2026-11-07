@@ -1,5 +1,295 @@
 [
   {
+    "id": "lobsters:7dbarm",
+    "title": "Alpine Linux : openssh-server password authentication bypass",
+    "url": "https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-11-07T08:51:26.859-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:y8i714",
+    "title": "Just how far can the FOR UPDATE SKIP LOCKED Postgres queue go?",
+    "url": "https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-07T09:20:23.952-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:j63dme",
+    "title": "Meridian — an experimental web browser built on Servo and GPUI",
+    "url": "https://op.tngl.io/meridian/",
+    "source": "lobsters",
+    "score": 22.0,
+    "published_at": "2026-11-07T03:21:55.256-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ipplhe",
+    "title": "How are you dealing with all the negative side effects of AI on the web?",
+    "url": "https://lobste.rs/s/ipplhe",
+    "source": "lobsters",
+    "score": 28.0,
+    "published_at": "2026-11-07T03:47:24.713-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255251",
+    "title": "请问大佬们买 Macbook 各种系列 24GB 以上的都是什么需求",
+    "url": "https://www.v2ex.com/t/1255251",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-11-07T12:29:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255146",
+    "title": "智友社回馈 V 站新老客户，抽送第 13 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 3",
+    "url": "https://www.v2ex.com/t/1255146",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-11-07T02:56:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704589926880411684",
+    "title": "一个人就是一支工程队：AI 时代超级个体的 90 天变现 SOP",
+    "url": "https://juejin.cn/post/7704589926880411684",
+    "source": "juejin",
+    "score": 0.12376641,
+    "published_at": "2026-11-05T16:48:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704864028610773027",
+    "title": "LobeHub 是真的夯，简直 Super-Agent 最佳实现。",
+    "url": "https://juejin.cn/post/7704864028610773027",
+    "source": "juejin",
+    "score": 0.36653404,
+    "published_at": "2026-11-06T09:01:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704280022040248371",
+    "title": "下载量超 30 万的开源智能体 Prime Agent：它把自己从 TypeScript 重写成了 Rust",
+    "url": "https://juejin.cn/post/7704280022040248371",
+    "source": "juejin",
+    "score": 0.15891326,
+    "published_at": "2026-11-05T02:11:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704993320619950120",
+    "title": "HarmonyOS ArkUI List 的侧滑删除 用 ListItem 的 swipeAction + endIcon 的做法",
+    "url": "https://juejin.cn/post/7704993320619950120",
+    "source": "juejin",
+    "score": 10.78752316,
+    "published_at": "2026-11-07T10:08:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:dsx-ai-factory/nvke",
+    "title": "nvke",
+    "url": "https://github.com/dsx-ai-factory/nvke",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ranxianglei/billion-context",
+    "title": "billion-context",
+    "url": "https://github.com/ranxianglei/billion-context",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mbillow/localthings",
+    "title": "localthings",
+    "url": "https://github.com/mbillow/localthings",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:tailwindlabs/tailwindcss",
+    "title": "tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:milind-soni/OpenMausBot",
+    "title": "OpenMausBot",
+    "url": "https://github.com/milind-soni/OpenMausBot",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:sherlock-project/sherlock",
+    "title": "sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:meta/astryx",
+    "title": "astryx",
+    "url": "https://github.com/meta/astryx",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/skills",
+    "title": "skills",
+    "url": "https://github.com/anthropics/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50403214",
+    "title": "Upload Your RAM",
+    "url": "https://uploadyourram.org",
+    "source": "hackernews",
+    "score": 225.0,
+    "published_at": "2026-11-07T10:15:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50403063",
+    "title": "Port 0: The Port That Does Not Exist",
+    "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-11-07T09:38:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50358094",
+    "title": "Tasfer: a text editor drawn on a 2D canvas",
+    "url": "https://www.hamza.se/blog/tasfer",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-11-03T20:58:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50361417",
+    "title": "Building the NBC News Big Board",
+    "url": "https://ejfox.com/projects/nbc-big-board",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-11-04T04:09:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50356037",
+    "title": "ToothPaste",
+    "url": "https://brisk4t.github.io/blog/toothpaste/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-03T18:27:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50377613",
+    "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+    "url": "https://github.com/hyphatech/spindle",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-11-05T10:45:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50403097",
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "source": "hackernews",
+    "score": 333.0,
+    "published_at": "2026-11-07T09:46:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50352791",
+    "title": "British Library Legal deposit and web archiving",
+    "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-11-03T14:56:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50403066",
+    "title": "Running a law firm on Free software",
+    "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-11-07T09:39:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50403052",
+    "title": "Need for Speed Underground 2 online in the browser",
+    "url": "https://nfsu2.xyz/",
+    "source": "hackernews",
+    "score": 383.0,
+    "published_at": "2026-11-07T09:36:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50404599",
+    "title": "The $8 Linux Computer (2022)",
+    "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-07T14:00:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:49o9f3",
     "title": "Two Dimensional Version Control",
     "url": "https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/",
@@ -4706,296 +4996,6 @@
     "source": "hackernews",
     "score": 170.0,
     "published_at": "2026-11-01T06:13:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50334523",
-    "title": "European RISC-V Industrial Computing Initiative",
-    "url": "https://erici.eu",
-    "source": "hackernews",
-    "score": 109.0,
-    "published_at": "2026-11-02T08:58:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50321605",
-    "title": "Toit v2.0.0",
-    "url": "https://toit.io/blog/toit-v2-0-0/",
-    "source": "hackernews",
-    "score": 68.0,
-    "published_at": "2026-11-01T00:25:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50346981",
-    "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-    "url": "https://hackertimes.ca/",
-    "source": "hackernews",
-    "score": 262.0,
-    "published_at": "2026-11-03T01:53:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50348962",
-    "title": "Nvidia – open-source auto-ontology",
-    "url": "https://github.com/NVIDIA/auto-ontology",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-11-03T07:04:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0ec9yk",
-    "title": "An Introduction to Bε-trees and Write-Optimization",
-    "url": "https://www.usenix.org/publications/login/oct15/bender",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-02T14:26:38.846-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:s1btqo",
-    "title": "This background sound leaks your exact location",
-    "url": "https://youtu.be/UytYrhYLOKI",
-    "source": "lobsters",
-    "score": 15.0,
-    "published_at": "2026-11-02T13:42:32.458-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ezg5mx",
-    "title": "My favourite laptop",
-    "url": "https://blog.jsbarretto.com/post/laptop",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-11-02T13:48:40.520-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qa0owz",
-    "title": "Stop Hardcoding Your Timeouts",
-    "url": "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html",
-    "source": "lobsters",
-    "score": 22.0,
-    "published_at": "2026-11-02T13:22:32.608-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wgoato",
-    "title": "A Decade of Kill Bugs",
-    "url": "https://alangrow.com/blog/a-decade-of-kill-bugs",
-    "source": "lobsters",
-    "score": 22.0,
-    "published_at": "2026-11-02T15:23:24.764-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253686",
-    "title": "周末刷到抖音，都是 35 岁失业送外卖。只有程序员这么惨么？",
-    "url": "https://www.v2ex.com/t/1253686",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-11-02T02:10:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253746",
-    "title": "大龄程序员，备考研究生学 AI",
-    "url": "https://www.v2ex.com/t/1253746",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-11-02T03:52:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253999",
-    "title": "[中转站推广] 双 11 活动新用户注册送 10 元",
-    "url": "https://www.v2ex.com/t/1253999",
-    "source": "v2ex",
-    "score": 124.0,
-    "published_at": "2026-11-03T00:55:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253711",
-    "title": "挂着日本节点，网站一眼就看出我是中国人。所以我写了个工具， 看谁卖了我",
-    "url": "https://www.v2ex.com/t/1253711",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-11-02T02:53:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703026774678356009",
-    "title": "栗子前端技术周刊第 152 期 - Rspack 2.3、TypeScript 7.1 Beta、Bun 1.4.4...",
-    "url": "https://juejin.cn/post/7703026774678356009",
-    "source": "juejin",
-    "score": 0.4126001,
-    "published_at": "2026-11-02T00:48:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703086266371964938",
-    "title": "为什么越来越多人用Arthas 4 ？",
-    "url": "https://juejin.cn/post/7703086266371964938",
-    "source": "juejin",
-    "score": 0.99779237,
-    "published_at": "2026-11-02T02:19:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703136318080253995",
-    "title": "我，13年Java老兵，建了个免费网站，公开叫板“Java已死”：没有广告，没有付费墙，151个页面全是踩坑干货",
-    "url": "https://juejin.cn/post/7703136318080253995",
-    "source": "juejin",
-    "score": 0.3938308,
-    "published_at": "2026-11-02T01:59:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Donchitos/Claude-Code-Game-Studios",
-    "title": "Claude-Code-Game-Studios",
-    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:thedotmack/claude-mem",
-    "title": "claude-mem",
-    "url": "https://github.com/thedotmack/claude-mem",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50344958",
-    "title": "Anthropic's growth just flattened",
-    "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-    "source": "hackernews",
-    "score": 164.0,
-    "published_at": "2026-11-02T22:33:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50318615",
-    "title": "A Conversation with Paul Masurel, Creator of Tantivy",
-    "url": "https://www.paradedb.com/blog/tantivy-interview",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-10-31T18:26:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50345735",
-    "title": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
-    "url": "https://www.c64-wiki.com/wiki/GUI64",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-11-02T23:32:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50340159",
-    "title": "Polyend releases the Tracker firmware source code",
-    "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-11-02T17:20:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50345712",
-    "title": "WorkOS reports security breach",
-    "url": "https://news.ycombinator.com/item?id=50345712",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-11-02T23:30:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50318874",
-    "title": "Trademarks and Symbols, Volume 2: Symbolical Designs (1973)",
-    "url": "https://www.symbools.com/kuwayama-trademarks-symbols-vol-2/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-10-31T18:50:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50346164",
-    "title": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
-    "url": "https://news.ycombinator.com/item?id=50346164",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-11-03T00:09:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50344224",
-    "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
-    "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-11-02T21:42:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50341462",
-    "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-    "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-    "source": "hackernews",
-    "score": 340.0,
-    "published_at": "2026-11-02T18:39:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50340619",
-    "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-    "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-    "source": "hackernews",
-    "score": 103.0,
-    "published_at": "2026-11-02T17:47:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50344919",
-    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-    "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-    "source": "hackernews",
-    "score": 203.0,
-    "published_at": "2026-11-02T22:30:47+00:00",
     "summary": "",
     "key_points": []
   }
