@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:49o9f3",
+    "title": "Two Dimensional Version Control",
+    "url": "https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-07T02:21:50.861-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wzz4u3",
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-07T02:44:02.325-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:m5kism",
+    "title": "Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header",
+    "url": "https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-07T00:18:48.419-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:5mnquy",
+    "title": "A Maintainer's Advice on Contributing to Open Source in 2026",
+    "url": "https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-06T21:43:48.716-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ydzlvp",
+    "title": "Exploring Janet and the httpf web framework",
+    "url": "https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-06T22:28:11.062-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4qiair",
+    "title": "Progress Report: Linux 7.3 - Asahi Linux",
+    "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-07T00:02:38.914-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jsvlfm",
+    "title": "Scriptable GeoDNS: leaving AWS for Bunny",
+    "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-07T01:46:35.449-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255078",
+    "title": "tibo 还不会重置，都 6 天了，等一个重置",
+    "url": "https://www.v2ex.com/t/1255078",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-11-06T11:33:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255169",
+    "title": "有点纠结选西屋的 K16 还是格米莱 G3006J 的咖啡机",
+    "url": "https://www.v2ex.com/t/1255169",
+    "source": "v2ex",
+    "score": 34.0,
+    "published_at": "2026-11-07T04:27:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255088",
+    "title": "兄弟们每个月在 Ai 上花多少钱？",
+    "url": "https://www.v2ex.com/t/1255088",
+    "source": "v2ex",
+    "score": 36.0,
+    "published_at": "2026-11-06T13:50:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255053",
+    "title": "giffgaff 退款了兄弟们，被封了大半年试着去投诉，没解封但是退款了",
+    "url": "https://www.v2ex.com/t/1255053",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-11-06T09:21:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255172",
+    "title": "ChatGpt 大面积封号？",
+    "url": "https://www.v2ex.com/t/1255172",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-11-07T04:41:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255141",
+    "title": "目前最强的 AI 能否实现这种排查问题的能力？",
+    "url": "https://www.v2ex.com/t/1255141",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-11-07T02:47:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255134",
+    "title": "原来达里奥切除过睾丸，很少有人知道",
+    "url": "https://www.v2ex.com/t/1255134",
+    "source": "v2ex",
+    "score": 52.0,
+    "published_at": "2026-11-07T01:34:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255069",
+    "title": "关于 gemini 用不了之后的戒断反应",
+    "url": "https://www.v2ex.com/t/1255069",
+    "source": "v2ex",
+    "score": 64.0,
+    "published_at": "2026-11-06T10:22:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255105",
+    "title": "请问大家，如果自建 Git 服务器，有什么要注意的、踩坑的",
+    "url": "https://www.v2ex.com/t/1255105",
+    "source": "v2ex",
+    "score": 80.0,
+    "published_at": "2026-11-06T15:07:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255153",
+    "title": "这可能是除了肉身之外的终极 Claude 防封方法，应该没有之一吧",
+    "url": "https://www.v2ex.com/t/1255153",
+    "source": "v2ex",
+    "score": 88.0,
+    "published_at": "2026-11-07T03:20:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704557568358170624",
+    "title": "程序员 1v1 访谈系列第十二期：普通人没有核心竞争力",
+    "url": "https://juejin.cn/post/7704557568358170624",
+    "source": "juejin",
+    "score": 0.3804475,
+    "published_at": "2026-11-06T00:57:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704626540621971471",
+    "title": "她是世界上第一位程序员，写下了人类第一行代码，但却因偏执的信任数学计算而早逝",
+    "url": "https://juejin.cn/post/7704626540621971471",
+    "source": "juejin",
+    "score": 0.46376807,
+    "published_at": "2026-11-06T06:28:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704502089117368320",
+    "title": "AI 还原 Figma 效果总达不到预期？先别急着让它写代码",
+    "url": "https://juejin.cn/post/7704502089117368320",
+    "source": "juejin",
+    "score": 0.17457952,
+    "published_at": "2026-11-05T08:22:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50355009",
+    "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+    "url": "https://github.com/andrewboldi/tmux-restore",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-11-03T17:25:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50369283",
+    "title": "8088 Domination Post-Mortem",
+    "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-11-04T18:06:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50373513",
+    "title": "The great butter and cheese fire of 1991",
+    "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-11-05T00:44:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50402535",
+    "title": "Bong: DuckDuckGo bang alternative, open-source and self-hosted",
+    "url": "https://bong.glendalab.com",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-11-07T07:48:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50395183",
+    "title": "Notes on San Marino",
+    "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-11-06T17:12:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50352701",
+    "title": "The Flash C Compiler",
+    "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-03T14:49:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50361765",
+    "title": "PostgreSQL Internals [pdf]",
+    "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-11-04T05:22:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50402212",
+    "title": "The Components of Agent Memory",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-11-07T06:39:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50401867",
+    "title": "Asahi Linux Progress Linux 7.3",
+    "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+    "source": "hackernews",
+    "score": 155.0,
+    "published_at": "2026-11-07T05:20:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50401740",
+    "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+    "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+    "source": "hackernews",
+    "score": 81.0,
+    "published_at": "2026-11-07T04:54:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:immpvk",
     "title": "Inform is a programming language for creating interactive fiction",
     "url": "https://ganelson.github.io/inform-website/",
@@ -4696,306 +4996,6 @@
     "source": "hackernews",
     "score": 203.0,
     "published_at": "2026-11-02T22:30:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50346153",
-    "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-    "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-11-03T00:08:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50346849",
-    "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-    "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-11-03T01:33:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:drdxcw",
-    "title": "There’s a microchip in my toothbrush. But WHY?",
-    "url": "https://youtu.be/aq0aTRG8YTE",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-02T11:57:36.731-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ifznly",
-    "title": "New Release: Tor Browser 16.0",
-    "url": "https://blog.torproject.org/new-release-tor-browser-160/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-02T10:28:17.226-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0mdf8w",
-    "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
-    "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-02T09:06:38.656-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xrqppo",
-    "title": "gohawk | Resource-focused static analysis for Go",
-    "url": "https://gohawk.dev",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-11-02T07:56:37.409-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:c8ayyw",
-    "title": "Virtual Art Museum built with Three js",
-    "url": "https://dostoynikov.bearblog.dev/virtual-museum-for-my-wifes-artworks/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-02T09:51:17.980-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yreydk",
-    "title": "Building a gemini server in python",
-    "url": "https://www.willmunn.xyz/gemini/python/2026/10/16/we-have-lift-off.html",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-11-02T05:25:16.399-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ldwalv",
-    "title": "The advantages of mobile Linux over AOSP",
-    "url": "https://amosbbatto.wordpress.com/2026/10/19/the-advantages-of-mobile-linux-over-aosp/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-02T08:29:18.834-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yv7udx",
-    "title": "Program",
-    "url": "https://schmud.de/posts/2026-11-02-program.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-11-02T05:18:07.110-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:mwqrct",
-    "title": "Union Types and Option Types",
-    "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-11-02T06:01:17.292-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8gsafe",
-    "title": "Recognizing Keystrokes Using WiFi Devices",
-    "url": "https://ieeexplore.ieee.org/document/7875144",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-02T08:43:13.576-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jo8vaj",
-    "title": "SuperVote: 15 year retrospective on an app for sharing political endorsements",
-    "url": "https://callejas.com/a/supervote/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-02T08:38:42.742-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gu6yyl",
-    "title": "Polyend releases the Tracker firmware source code",
-    "url": "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-11-02T09:22:16.630-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:saskzi",
-    "title": "My reflex of assuming our servers need ever-growing amounts of RAM",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-11-02T04:33:02.386-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:maqsgl",
-    "title": "What are you doing this week?",
-    "url": "https://lobste.rs/s/maqsgl",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-11-02T07:53:32.064-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qvdatp",
-    "title": "Jailbreaking my car's navigation system just so I can change the time",
-    "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-    "source": "lobsters",
-    "score": 29.0,
-    "published_at": "2026-11-02T10:30:58.517-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253744",
-    "title": "AI 普及之后，应该把所有 Electron 重写为 native",
-    "url": "https://www.v2ex.com/t/1253744",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-11-02T03:45:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703026774679306281",
-    "title": "同一个端口能不能被两个程序同时监听？",
-    "url": "https://juejin.cn/post/7703026774679306281",
-    "source": "juejin",
-    "score": 0.32485768,
-    "published_at": "2026-11-02T02:36:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7702754383985917961",
-    "title": "啵啵音乐迎来全新升级！",
-    "url": "https://juejin.cn/post/7702754383985917961",
-    "source": "juejin",
-    "score": 0.15527911,
-    "published_at": "2026-10-31T12:32:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7702402688113819667",
-    "title": "币安 63 亿美元被盗：被攻破的不是私钥，是那台负责签名的机器",
-    "url": "https://juejin.cn/post/7702402688113819667",
-    "source": "juejin",
-    "score": 0.10024217,
-    "published_at": "2026-10-30T12:10:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7702984654097367049",
-    "title": "Android Studio Rabbit 2 发布：除了Gemini，40+ AI Agent 正式入驻！",
-    "url": "https://juejin.cn/post/7702984654097367049",
-    "source": "juejin",
-    "score": 0.56297795,
-    "published_at": "2026-11-01T23:56:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703387329880408114",
-    "title": "通了个宵，终于把 Super-Agent 架构玩明白了",
-    "url": "https://juejin.cn/post/7703387329880408114",
-    "source": "juejin",
-    "score": 1.35386955,
-    "published_at": "2026-11-02T08:36:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:p-e-w/heretic",
-    "title": "heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:karpathy/nanochat",
-    "title": "nanochat",
-    "url": "https://github.com/karpathy/nanochat",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:paperclipai/paperclip",
-    "title": "paperclip",
-    "url": "https://github.com/paperclipai/paperclip",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:max-sixty/worktrunk",
-    "title": "worktrunk",
-    "url": "https://github.com/max-sixty/worktrunk",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:JustVugg/colibri",
-    "title": "colibri",
-    "url": "https://github.com/JustVugg/colibri",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:D4Vinci/Scrapling",
-    "title": "Scrapling",
-    "url": "https://github.com/D4Vinci/Scrapling",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:vercel-labs/agent-desktop",
-    "title": "agent-desktop",
-    "url": "https://github.com/vercel-labs/agent-desktop",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
