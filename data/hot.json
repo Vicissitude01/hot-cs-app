@@ -1,5 +1,235 @@
 [
   {
+    "id": "lobsters:soxqxp",
+    "title": "Amutable Foundations: A Technical Overview",
+    "url": "https://amutable.com/blog/amutable-foundations-technical-overview",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-07T05:07:33.714-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hreu0b",
+    "title": "Catching prompt injections hidden in PDFs",
+    "url": "https://tomclancy.info/joshua-judges-ruth.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-07T13:34:01.032-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:c99mdx",
+    "title": "GhostMap: The Android flaw that crashes your phone before you open the app",
+    "url": "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-07T12:12:57.505-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tfywf1",
+    "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
+    "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-07T12:41:33.184-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50405250",
+    "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+    "url": "https://news.ycombinator.com/item?id=50405250",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-11-07T15:14:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50404747",
+    "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
+    "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-11-07T14:18:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50357763",
+    "title": "Optimising the Rail Cube",
+    "url": "https://owenlacey.dev/railcube-optimisation/post",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-11-03T20:31:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50384263",
+    "title": "What do the next 4000 emoji look like?",
+    "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-11-05T20:46:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50380246",
+    "title": "Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",
+    "url": "https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-11-05T15:22:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50405674",
+    "title": "Terry Pratchett's Study",
+    "url": "https://www.sussi.dk/terry-pratchetts-study",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-11-07T16:05:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50403507",
+    "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+    "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-11-07T11:11:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50405678",
+    "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+    "url": "https://kevinboone.me/tpwin.html",
+    "source": "hackernews",
+    "score": 132.0,
+    "published_at": "2026-11-07T16:06:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50405263",
+    "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+    "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-11-07T15:16:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50361657",
+    "title": "Text.js: Build full-stack React apps that render inside console.log",
+    "url": "https://textjs.org/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-11-04T04:59:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50405782",
+    "title": "Every processor die anyone has photographed and given away",
+    "url": "https://sheets.works/data-viz/cpu-dies",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-11-07T16:21:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50370787",
+    "title": "The Typo Generation Is Damaging Literature",
+    "url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-11-04T20:05:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50405789",
+    "title": "How Long Can Life Wait?",
+    "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+    "source": "hackernews",
+    "score": 78.0,
+    "published_at": "2026-11-07T16:22:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50406319",
+    "title": "Five memorable books about programming (2008)",
+    "url": "https://prog21.dadgum.com/19.html",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-11-07T17:30:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50406222",
+    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-11-07T17:19:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50406292",
+    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+    "url": "https://github.com/hedgerow-dev/coldframe",
+    "source": "hackernews",
+    "score": 105.0,
+    "published_at": "2026-11-07T17:27:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50406111",
+    "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+    "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+    "source": "hackernews",
+    "score": 126.0,
+    "published_at": "2026-11-07T17:06:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50406670",
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "url": "https://blog.bosscher.ch/posts/openstick/",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-11-07T18:12:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50406563",
+    "title": "The end of Microsoft Research's AI Frontiers group",
+    "url": "https://hunch.net/?p=13764006",
+    "source": "hackernews",
+    "score": 151.0,
+    "published_at": "2026-11-07T18:02:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:7dbarm",
     "title": "Alpine Linux : openssh-server password authentication bypass",
     "url": "https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
@@ -4766,236 +4996,6 @@
     "source": "lobsters",
     "score": 14.0,
     "published_at": "2026-11-02T21:58:06.895-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253902",
-    "title": "我是不是没用对 Apple TV？",
-    "url": "https://www.v2ex.com/t/1253902",
-    "source": "v2ex",
-    "score": 136.0,
-    "published_at": "2026-11-02T10:24:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254054",
-    "title": "「请指教，如何在家复刻川渝火锅」",
-    "url": "https://www.v2ex.com/t/1254054",
-    "source": "v2ex",
-    "score": 138.0,
-    "published_at": "2026-11-03T03:05:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254023",
-    "title": "如何找借口拒绝医生开的中药",
-    "url": "https://www.v2ex.com/t/1254023",
-    "source": "v2ex",
-    "score": 164.0,
-    "published_at": "2026-11-03T01:46:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254096",
-    "title": "北京警察上门查无人 进屋搜索 检查手机",
-    "url": "https://www.v2ex.com/t/1254096",
-    "source": "v2ex",
-    "score": 180.0,
-    "published_at": "2026-11-03T04:52:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253995",
-    "title": "熊市持续中就开个银河买纳指或者红利低波 ETF 吧，“万一免五”股票基金免 5 大笑脸开户",
-    "url": "https://www.v2ex.com/t/1253995",
-    "source": "v2ex",
-    "score": 196.0,
-    "published_at": "2026-11-03T00:35:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1253990",
-    "title": "Claude 不到 10 分钟搓了个这个，码农真的要玩完了",
-    "url": "https://www.v2ex.com/t/1253990",
-    "source": "v2ex",
-    "score": 238.0,
-    "published_at": "2026-11-02T23:58:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254053",
-    "title": "被 AI 狠狠辱骂了 🤡",
-    "url": "https://www.v2ex.com/t/1254053",
-    "source": "v2ex",
-    "score": 254.0,
-    "published_at": "2026-11-03T03:04:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254092",
-    "title": "娶了一个这样的媳妇 我该如何自救？",
-    "url": "https://www.v2ex.com/t/1254092",
-    "source": "v2ex",
-    "score": 272.0,
-    "published_at": "2026-11-03T04:37:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703474285394657318",
-    "title": "Flutter Android 性能修复：8 个大核的手机，Raster 居然只跑在 2 个核上？",
-    "url": "https://juejin.cn/post/7703474285394657318",
-    "source": "juejin",
-    "score": 1.79076112,
-    "published_at": "2026-11-03T00:53:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703337405387292699",
-    "title": "从天地图切换到高德地图：一次真实的底图迁移实战",
-    "url": "https://juejin.cn/post/7703337405387292699",
-    "source": "juejin",
-    "score": 0.49777429,
-    "published_at": "2026-11-02T09:34:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703408069258264614",
-    "title": "用 AI + threejs 写了个浏览器里的 3D 动作游戏《武来》：砍怪、放技能、开 SU7",
-    "url": "https://juejin.cn/post/7703408069258264614",
-    "source": "juejin",
-    "score": 0.50265977,
-    "published_at": "2026-11-02T10:10:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703431570200739875",
-    "title": "真绝了，国产模型 Token 自由了！",
-    "url": "https://juejin.cn/post/7703431570200739875",
-    "source": "juejin",
-    "score": 2.71425866,
-    "published_at": "2026-11-03T02:03:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50344912",
-    "title": "V100 SXM2 pinout and NVLink reference",
-    "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-11-02T22:30:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50348260",
-    "title": "Cloudflare experiencing multiple active incidents",
-    "url": "https://www.cloudflarestatus.com/",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-11-03T04:57:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50347552",
-    "title": "Show HN: I built a little browser game to practice Vim commands",
-    "url": "https://hjkl.duy.run",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-11-03T03:10:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50331988",
-    "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
-    "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-11-02T01:34:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50326246",
-    "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
-    "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-11-01T14:52:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50349155",
-    "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
-    "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-11-03T07:36:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50347464",
-    "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
-    "url": "https://arxiv.org/abs/2608.25820",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-11-03T02:58:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50345924",
-    "title": "Scaling Git at OpenAI",
-    "url": "https://openai.com/index/scaling-git-at-openai/",
-    "source": "hackernews",
-    "score": 223.0,
-    "published_at": "2026-11-02T23:47:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50331800",
-    "title": "Vathographs: Photographic depth maps as creative expression",
-    "url": "https://vathography.com/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-11-02T01:11:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50320904",
-    "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
-    "url": "https://www.argmin.net/p/galactus-the-devourer",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-10-31T22:31:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50323123",
-    "title": "Resisting Cognitive Surrender",
-    "url": "https://knlb.dev/essays/surrender",
-    "source": "hackernews",
-    "score": 170.0,
-    "published_at": "2026-11-01T06:13:30+00:00",
     "summary": "",
     "key_points": []
   }
