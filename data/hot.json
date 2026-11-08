@@ -1,5 +1,215 @@
 [
   {
+    "id": "lobsters:dr5zrz",
+    "title": "How to prove equations using diagrams, part 3",
+    "url": "https://www.epatters.org/post/e-graphs-3/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-08T12:23:35.426-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:smx0fn",
+    "title": "SFLC.in Statement Regarding the Takedown Requests Against Its X Account and Posts",
+    "url": "https://sflc.in/sflc-in-statement-regarding-the-takedown-requests-against-its-x-account-and-posts/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-08T10:30:47.059-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:b6ebju",
+    "title": "Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension",
+    "url": "https://link.springer.com/article/10.1007/s10664-026-10988-z",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-08T07:21:22.648-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:urg4yu",
+    "title": "Unattended reboots with encrypted disks",
+    "url": "https://jmmv.dev/2026/11/zkeys-intro.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-08T10:58:03.605-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:cwmxea",
+    "title": "Playing with the STM32MP2",
+    "url": "https://serd.es///2026/11/08/playing-with-stm32mp2.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-08T11:12:00.379-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:umsitb",
+    "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+    "url": "https://lobste.rs/s/umsitb",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-08T11:07:51.827-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jbdtim",
+    "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+    "url": "https://lobste.rs/s/jbdtim",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-11-08T10:36:17.777-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255301",
+    "title": "IG 还是输给了 GEN",
+    "url": "https://www.v2ex.com/t/1255301",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-11-08T02:16:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255324",
+    "title": "哪位大神的 claude 没有被封过，分享下方法哇，拜托，人麻了",
+    "url": "https://www.v2ex.com/t/1255324",
+    "source": "v2ex",
+    "score": 62.0,
+    "published_at": "2026-11-08T05:06:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7705134065616207882",
+    "title": "从 Coze 居然要下线了说起",
+    "url": "https://juejin.cn/post/7705134065616207882",
+    "source": "juejin",
+    "score": 0.30024142,
+    "published_at": "2026-11-07T15:00:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:google-deepmind/mujoco",
+    "title": "mujoco",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:anthropics/claude-quickstarts",
+    "title": "claude-quickstarts",
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50415281",
+    "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+    "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-08T17:32:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50413822",
+    "title": "OpenAI raises $11B at a $1.25T valuation",
+    "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+    "source": "hackernews",
+    "score": 154.0,
+    "published_at": "2026-11-08T14:49:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50370793",
+    "title": "Nyquist Limit:The frequency of changes in tech is invalidating our understanding",
+    "url": "https://www.ryanprior.com/posts/nyquist-limit-frequency-of-changes-in-tech-invalidates-understanding/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-04T20:07:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50412830",
+    "title": "How to prove equations using diagrams, part 1",
+    "url": "https://www.epatters.org/post/e-graphs-1/",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-11-08T12:51:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50362963",
+    "title": "Show HN: Vegetable Gardening for Engineers",
+    "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-04T08:54:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50413769",
+    "title": "I'm not a fan of Deno's security model (2024)",
+    "url": "https://goldstein.lol/posts/deno-security/",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-11-08T14:42:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50412067",
+    "title": "Writing as a thinking tool",
+    "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "source": "hackernews",
+    "score": 141.0,
+    "published_at": "2026-11-08T10:41:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50389923",
+    "title": "The Reconstruction of Torn Documents",
+    "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-06T09:05:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50415078",
+    "title": "A field guide to CAPTCHA types and how they break",
+    "url": "https://github.com/vsmutok/FuckCaptcha",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-11-08T17:09:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:d8dgav",
     "title": "PHP2Shell — Deep Dive",
     "url": "https://djad04.github.io/php2shell-deep-dive/",
@@ -4786,216 +4996,6 @@
     "source": "hackernews",
     "score": 74.0,
     "published_at": "2026-11-04T10:00:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50358352",
-    "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-    "url": "https://uncracked.city",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-11-03T21:20:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50363461",
-    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-    "url": "https://news.ycombinator.com/item?id=50363461",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-11-04T10:10:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50362466",
-    "title": "The lost malloc()",
-    "url": "https://napcakes.nekoweb.org/posts/malloc/",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-11-04T07:37:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50361268",
-    "title": "Jelly Sheet",
-    "url": "https://mrdoob.github.io/codevember-2026/01/",
-    "source": "hackernews",
-    "score": 270.0,
-    "published_at": "2026-11-04T03:40:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50362993",
-    "title": "Milkman – The Better Alternative to Postman",
-    "url": "https://milkman.dev/",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-11-04T08:58:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50363019",
-    "title": "Verification Is Not Knowledge: Science needs more than answers",
-    "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-11-04T09:01:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50363861",
-    "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
-    "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-11-04T11:02:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50362905",
-    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-    "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-11-04T08:46:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50362980",
-    "title": "Kitty 0.50",
-    "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
-    "source": "hackernews",
-    "score": 157.0,
-    "published_at": "2026-11-04T08:57:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1zetje",
-    "title": "macOS 27 Golden Gate does not actually support CoreStorage volumes",
-    "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-03T15:37:11.701-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:in86vn",
-    "title": "The valley of webhooks",
-    "url": "https://weli.dev/blog/the-valley-of-webhooks/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-03T20:10:26.147-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fgucra",
-    "title": "Observations from Running stealmybitcoin.com",
-    "url": "https://pavursec.com/blog/stealmybitcoin/",
-    "source": "lobsters",
-    "score": 16.0,
-    "published_at": "2026-11-03T17:45:21.591-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254125",
-    "title": "退休后还打算回农村老家养老吗",
-    "url": "https://www.v2ex.com/t/1254125",
-    "source": "v2ex",
-    "score": 104.0,
-    "published_at": "2026-11-03T06:26:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254063",
-    "title": "有多少 Plus 用户想要退订 gpt 了？有什么替代方案么？",
-    "url": "https://www.v2ex.com/t/1254063",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-11-03T03:18:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254298",
-    "title": "小孩子看稍微暴力血腥一点的电影真的影响很大么",
-    "url": "https://www.v2ex.com/t/1254298",
-    "source": "v2ex",
-    "score": 152.0,
-    "published_at": "2026-11-04T00:47:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254229",
-    "title": "我的 APP 创作出的壁纸在小红书有 100w 浏览量了！送终身码",
-    "url": "https://www.v2ex.com/t/1254229",
-    "source": "v2ex",
-    "score": 158.0,
-    "published_at": "2026-11-03T11:06:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254304",
-    "title": "各位每年的话费宽带费一共多少钱？",
-    "url": "https://www.v2ex.com/t/1254304",
-    "source": "v2ex",
-    "score": 164.0,
-    "published_at": "2026-11-04T01:07:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254205",
-    "title": "亲戚聚餐，被当众问工资，怎么回答",
-    "url": "https://www.v2ex.com/t/1254205",
-    "source": "v2ex",
-    "score": 170.0,
-    "published_at": "2026-11-03T09:35:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7702984654098284553",
-    "title": "周末花两天手撸了一个车牌识别，CCPD 上 99%，换张手机照片就翻车了 🚗",
-    "url": "https://juejin.cn/post/7702984654098284553",
-    "source": "juejin",
-    "score": 0.18023869,
-    "published_at": "2026-11-02T02:14:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mattpocock/skills",
-    "title": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50351298",
-    "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
-    "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-11-03T12:40:06+00:00",
     "summary": "",
     "key_points": []
   }
