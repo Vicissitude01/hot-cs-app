@@ -1,5 +1,185 @@
 [
   {
+    "id": "lobsters:deutqp",
+    "title": "Message Queues",
+    "url": "https://blog.alexewerlof.com/p/message-queues",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-08T15:52:21.141-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vlagyq",
+    "title": "When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward",
+    "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-08T15:59:26.172-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ic1ora",
+    "title": "Optimizing reference deletions in Git",
+    "url": "https://nayak.im/posts/optimizing-reference-deletion/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-08T15:37:53.908-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zozcwa",
+    "title": "Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond",
+    "url": "https://www.redox-os.org/news/virtualized-redox/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-08T15:06:06.921-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50416471",
+    "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+    "url": "https://www.spacex.com/launches/starship-flight-15",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-08T19:49:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50353814",
+    "title": "The History of Djgpp",
+    "url": "https://www.delorie.com/djgpp/history.html",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-11-03T16:10:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50415750",
+    "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+    "url": "https://kevinboone.me/cpmzork.html",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-11-08T18:33:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50416801",
+    "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+    "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+    "source": "hackernews",
+    "score": 247.0,
+    "published_at": "2026-11-08T20:26:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50416014",
+    "title": "Playing with the STM32MP2",
+    "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-11-08T19:04:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50415135",
+    "title": "A Little Snitch for Windows",
+    "url": "https://packethound.app/",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-11-08T17:16:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50372838",
+    "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+    "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-11-04T23:23:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50416363",
+    "title": "How I Fight AI Brain Fry",
+    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "source": "hackernews",
+    "score": 104.0,
+    "published_at": "2026-11-08T19:37:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50416456",
+    "title": "The Web Is More Than Enough, by Paul Ford",
+    "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-11-08T19:48:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50416158",
+    "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+    "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "source": "hackernews",
+    "score": 139.0,
+    "published_at": "2026-11-08T19:20:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50415628",
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "source": "hackernews",
+    "score": 478.0,
+    "published_at": "2026-11-08T18:16:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50368481",
+    "title": "Declarative Dragging",
+    "url": "https://declarative-dragging.github.io/",
+    "source": "hackernews",
+    "score": 206.0,
+    "published_at": "2026-11-04T17:05:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50417407",
+    "title": "Ask HN: What are you working on? (November 2026)",
+    "url": "https://news.ycombinator.com/item?id=50417407",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-11-08T21:20:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50416053",
+    "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+    "url": "https://duxlabs.dev/",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-11-08T19:08:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:dr5zrz",
     "title": "How to prove equations using diagrams, part 3",
     "url": "https://www.epatters.org/post/e-graphs-3/",
@@ -4816,186 +4996,6 @@
     "source": "lobsters",
     "score": 2.0,
     "published_at": "2026-11-04T01:39:20.951-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:j1twhe",
-    "title": "Mac at any scale",
-    "url": "https://namespace.so/blog/mac-at-any-scale",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-03T21:08:11.213-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pa1411",
-    "title": "Zig 0.17.1 Released",
-    "url": "https://ziglang.org/news/0.17.1-released/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-04T04:57:35.661-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yba0yg",
-    "title": "Introducing Adaptive Dark Mode",
-    "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-04T05:04:40.736-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:fcfoqq",
-    "title": "Fraction comparison trick revisited",
-    "url": "https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-04T03:02:48.666-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xvtufg",
-    "title": "C++26 Disapproved",
-    "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-04T02:56:24.356-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254296",
-    "title": "🍎 [抽奖] 2026 烟台栖霞红富士自家果园现摘现发🍎 霜降后口味更佳！",
-    "url": "https://www.v2ex.com/t/1254296",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-11-04T00:31:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254288",
-    "title": "国行 AI 真的来了",
-    "url": "https://www.v2ex.com/t/1254288",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-11-03T19:41:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254330",
-    "title": "大佬们，你们觉得有必要上回音壁吗",
-    "url": "https://www.v2ex.com/t/1254330",
-    "source": "v2ex",
-    "score": 132.0,
-    "published_at": "2026-11-04T02:01:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254348",
-    "title": "第一次相亲结束了，果然和网上说的一模一样啊。",
-    "url": "https://www.v2ex.com/t/1254348",
-    "source": "v2ex",
-    "score": 190.0,
-    "published_at": "2026-11-04T02:46:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254315",
-    "title": "2026 年底了，忽然想转 iPhone ，属于是？",
-    "url": "https://www.v2ex.com/t/1254315",
-    "source": "v2ex",
-    "score": 194.0,
-    "published_at": "2026-11-04T01:34:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254349",
-    "title": "我就想知道我顶着限速跑在最左侧道路到底有没有问题？",
-    "url": "https://www.v2ex.com/t/1254349",
-    "source": "v2ex",
-    "score": 472.0,
-    "published_at": "2026-11-04T02:47:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703844942363918370",
-    "title": "ValidX 正则表达式预编译优化：Pattern 复用策略",
-    "url": "https://juejin.cn/post/7703844942363918370",
-    "source": "juejin",
-    "score": 11.92341585,
-    "published_at": "2026-11-04T02:14:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703861537010925603",
-    "title": "OpenTelemetry 生产实践：Skyscanner 24 集群管理经验与 Mastodon 小团队方案",
-    "url": "https://juejin.cn/post/7703861537010925603",
-    "source": "juejin",
-    "score": 12.09313071,
-    "published_at": "2026-11-04T02:12:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50363717",
-    "title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
-    "url": "https://github.com/openai/codex/issues/59060",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-11-04T10:43:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50363554",
-    "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-11-04T10:23:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50361107",
-    "title": "Arrows to arrows, categories to queries (2025)",
-    "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-11-04T03:11:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50361154",
-    "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-    "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-    "source": "hackernews",
-    "score": 75.0,
-    "published_at": "2026-11-04T03:20:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50363378",
-    "title": "Incident with Pull Requests, Git Operations and Issues",
-    "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-11-04T10:00:06+00:00",
     "summary": "",
     "key_points": []
   }
