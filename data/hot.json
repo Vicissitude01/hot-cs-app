@@ -1,5 +1,265 @@
 [
   {
+    "id": "lobsters:zdapj7",
+    "title": "Container Windows in CoW",
+    "url": "https://m.youtube.com/watch?v=UsYaSRhf6dw",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-07T18:46:33.326-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jvicvb",
+    "title": "How to prove equations using diagrams, part 1",
+    "url": "https://www.epatters.org/post/e-graphs-1/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-07T19:48:58.962-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255202",
+    "title": "外面阴雨绵绵，我的 claude 被 ban",
+    "url": "https://www.v2ex.com/t/1255202",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-11-07T07:14:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255285",
+    "title": "这大环境看来是很差了",
+    "url": "https://www.v2ex.com/t/1255285",
+    "source": "v2ex",
+    "score": 44.0,
+    "published_at": "2026-11-07T18:19:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255305",
+    "title": "现在还有必要花大量时间学习编程吗？",
+    "url": "https://www.v2ex.com/t/1255305",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-11-08T02:56:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255253",
+    "title": "在 agent 时代，深度还是广度更重要？",
+    "url": "https://www.v2ex.com/t/1255253",
+    "source": "v2ex",
+    "score": 56.0,
+    "published_at": "2026-11-07T12:30:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255299",
+    "title": "[趁周末人少，回复就送永久激活码]Mac 专属应用 TouchX，自定义触控板动作",
+    "url": "https://www.v2ex.com/t/1255299",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-11-08T02:05:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7705291560008531977",
+    "title": "Codex中必装的11个Skills",
+    "url": "https://juejin.cn/post/7705291560008531977",
+    "source": "juejin",
+    "score": 0.52699107,
+    "published_at": "2026-11-07T08:51:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704562619550941226",
+    "title": "TanStarter，从搭建到支付，一步到位开始赚美元",
+    "url": "https://juejin.cn/post/7704562619550941226",
+    "source": "juejin",
+    "score": 0.15472595,
+    "published_at": "2026-11-06T01:09:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704923158558621750",
+    "title": "实测 agent-desktop：AI 控制桌面不截图、不占鼠标键盘，连点 55 次计算器 0 失误",
+    "url": "https://juejin.cn/post/7704923158558621750",
+    "source": "juejin",
+    "score": 0.21019057,
+    "published_at": "2026-11-06T11:26:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704562619551072298",
+    "title": "公交App上“还有2站，约5分钟”怎么实现？90%的人答错这道大厂面试题：GPS漂移、ETA不准、10万QPS热点读全拆透（附完整代码）",
+    "url": "https://juejin.cn/post/7704562619551072298",
+    "source": "juejin",
+    "score": 0.13454088,
+    "published_at": "2026-11-06T01:16:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704594117820596260",
+    "title": "没有写一行代码：我用 Codex 制作 了一个 3D 智慧展厅可视化大屏",
+    "url": "https://juejin.cn/post/7704594117820596260",
+    "source": "juejin",
+    "score": 0.10669926,
+    "published_at": "2026-11-06T00:38:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704594117821693988",
+    "title": "Flutter 双端热更新新方案：基于 Dart 官方动态模块的 flutter_patcher 1.0.0",
+    "url": "https://juejin.cn/post/7704594117821693988",
+    "source": "juejin",
+    "score": 0.20041666,
+    "published_at": "2026-11-06T02:18:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704580987242872847",
+    "title": "Flutter Impeller Vulkan 内存持续上涨，问题没想到是文字阴影",
+    "url": "https://juejin.cn/post/7704580987242872847",
+    "source": "juejin",
+    "score": 0.19383932,
+    "published_at": "2026-11-06T00:43:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704345935706652713",
+    "title": " 后端转 AI 应用开发，我先把这 12 个名词理清了：一张图看懂架构、RAG、Tool Calling 与 MCP",
+    "url": "https://juejin.cn/post/7704345935706652713",
+    "source": "juejin",
+    "score": 0.10290953,
+    "published_at": "2026-11-05T03:44:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50408082",
+    "title": "Show HN: Where Were We",
+    "url": "https://wherewerewe.app/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-11-07T21:08:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50373980",
+    "title": "Here Be Monsters",
+    "url": "https://www.nybooks.com/online/2026/10/30/here-be-monsters/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-11-05T01:40:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50361212",
+    "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
+    "url": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-04T03:30:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50410253",
+    "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+    "url": "https://github.com/AmSach/maple",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-11-08T03:48:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50408961",
+    "title": "Commodore PET – The Worlds First Personal Computer",
+    "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-11-07T23:15:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50409856",
+    "title": "Consumer brain wave headsets threaten privacy",
+    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-11-08T02:02:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50351954",
+    "title": "Amsterdam School",
+    "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-11-03T13:50:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50410279",
+    "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
+    "url": "https://github.com/waywardgeek/ensemble",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-11-08T03:51:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50409855",
+    "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+    "url": "https://github.com/crmne/zapfast",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-11-08T02:02:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50410359",
+    "title": "Kirlian Photography: Building Your Own Equipment",
+    "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-11-08T04:14:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50410107",
+    "title": "Goodbye Claude, Hello Pi",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-11-08T03:11:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:lhovnm",
     "title": "Dear Open Source Developers: It's OK not to embargo",
     "url": "https://opensourcesecurity.io/2026/10-embargo/",
@@ -4736,266 +4996,6 @@
     "source": "lobsters",
     "score": 5.0,
     "published_at": "2026-11-03T09:44:27.749-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rwlg3h",
-    "title": "Planning with open variable lists in Gecode",
-    "url": "https://zayenz.se/blog/post/open-cp-in-gecode/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-03T10:33:43.582-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:e201eb",
-    "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
-    "source": "lobsters",
-    "score": 18.0,
-    "published_at": "2026-11-03T09:23:21.757-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:chypzr",
-    "title": "Death comes for XSLT",
-    "url": "https://dbushell.com/2026/11/03/xslt-rip/",
-    "source": "lobsters",
-    "score": 28.0,
-    "published_at": "2026-11-03T09:19:50.214-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254112",
-    "title": "uu 远程未来要付费了",
-    "url": "https://www.v2ex.com/t/1254112",
-    "source": "v2ex",
-    "score": 150.0,
-    "published_at": "2026-11-03T05:49:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703158752099221519",
-    "title": "前端的技术判断力是怎么练出来的？",
-    "url": "https://juejin.cn/post/7703158752099221519",
-    "source": "juejin",
-    "score": 0.3149892,
-    "published_at": "2026-11-02T03:04:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703390672704077867",
-    "title": "🚀 2026 年 10 月 GitHub 十大热门项目排行榜 🔥",
-    "url": "https://juejin.cn/post/7703390672704077867",
-    "source": "juejin",
-    "score": 0.40825841,
-    "published_at": "2026-11-02T10:48:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703563555132571648",
-    "title": "都问程序员双十一买什么，我的答案一定是这块专业编程显示器",
-    "url": "https://juejin.cn/post/7703563555132571648",
-    "source": "juejin",
-    "score": 1.19614206,
-    "published_at": "2026-11-03T04:35:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Usagi-org/ai-goofish-monitor",
-    "title": "ai-goofish-monitor",
-    "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:floci-io/floci",
-    "title": "floci",
-    "url": "https://github.com/floci-io/floci",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:spotify/portal-ai-plugins",
-    "title": "portal-ai-plugins",
-    "url": "https://github.com/spotify/portal-ai-plugins",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50337980",
-    "title": "Killing what can't be handled – putting a spaghetti demon to eternal rest",
-    "url": "https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-11-02T15:18:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50352577",
-    "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
-    "url": "https://jivx.com/yt",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-11-03T14:41:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50353475",
-    "title": "Quili AI",
-    "url": "https://www.quili.ai/",
-    "source": "hackernews",
-    "score": 83.0,
-    "published_at": "2026-11-03T15:49:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50352767",
-    "title": "Handles are the better pointers (2018)",
-    "url": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-11-03T14:54:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50333332",
-    "title": "Why Don't We Live in an Art Nouveau World?",
-    "url": "https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-11-02T05:05:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50326545",
-    "title": "Embedding boolean circuits in a neural network",
-    "url": "https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-11-01T15:27:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50353468",
-    "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
-    "url": "https://concepts.laxmena.com/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-11-03T15:48:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50353383",
-    "title": "Bear turns 10, and it still feels like day one",
-    "url": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-11-03T15:41:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50353386",
-    "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
-    "url": "https://hissingkitty.com/hacker-churn",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-11-03T15:41:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50332342",
-    "title": "Katamari Damacy but it's The Met collection",
-    "url": "https://katamari.vaguespac.es/",
-    "source": "hackernews",
-    "score": 119.0,
-    "published_at": "2026-11-02T02:21:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50353335",
-    "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
-    "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-11-03T15:38:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50351319",
-    "title": "Charles Tandy, the mastermind behind Radio Shack",
-    "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-11-03T12:42:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50334363",
-    "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables",
-    "url": "https://www.mattkeeter.com/projects/antimony/3/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-11-02T08:29:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50349276",
-    "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-    "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-    "source": "hackernews",
-    "score": 282.0,
-    "published_at": "2026-11-03T07:56:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50354336",
-    "title": "Gitbook Breached",
-    "url": "https://news.ycombinator.com/item?id=50354336",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-11-03T16:45:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50353229",
-    "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-    "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-    "source": "hackernews",
-    "score": 111.0,
-    "published_at": "2026-11-03T15:29:15+00:00",
     "summary": "",
     "key_points": []
   }
