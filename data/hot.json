@@ -1,5 +1,175 @@
 [
   {
+    "id": "lobsters:za1r6h",
+    "title": "I Dislike Pull Requests (2020)",
+    "url": "https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-08T17:10:34.336-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255430",
+    "title": "希望 BLG 抗韩成功",
+    "url": "https://www.v2ex.com/t/1255430",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-11-09T00:57:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255417",
+    "title": "各位还记得自己第一台手机什么品牌型号吗",
+    "url": "https://www.v2ex.com/t/1255417",
+    "source": "v2ex",
+    "score": 120.0,
+    "published_at": "2026-11-08T23:30:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704864028611706915",
+    "title": "40亿个QQ号，限制1G内存，如何去重？",
+    "url": "https://juejin.cn/post/7704864028611706915",
+    "source": "juejin",
+    "score": 0.11092887,
+    "published_at": "2026-11-06T13:59:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704589926881853476",
+    "title": "那些“每个决定都正确”的项目，最后是怎么烂掉的",
+    "url": "https://juejin.cn/post/7704589926881853476",
+    "source": "juejin",
+    "score": 0.08880281,
+    "published_at": "2026-11-06T02:18:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704590570724261938",
+    "title": "极简智库（MiniDocs）：docsify、VitePress、Notion 等知识库搭建服务的完美替代",
+    "url": "https://juejin.cn/post/7704590570724261938",
+    "source": "juejin",
+    "score": 0.09268577,
+    "published_at": "2026-11-06T02:28:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7704935347230408755",
+    "title": "一天一个开源项目（第255篇）：Mika —— 装在安卓手机里的 AI 代理，在后台虚拟屏上替你操作 App 和网页",
+    "url": "https://juejin.cn/post/7704935347230408755",
+    "source": "juejin",
+    "score": 0.11449724,
+    "published_at": "2026-11-06T12:48:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7705316753005674511",
+    "title": "C++26 草案被否，二十八年来头一回",
+    "url": "https://juejin.cn/post/7705316753005674511",
+    "source": "juejin",
+    "score": 1.06260471,
+    "published_at": "2026-11-08T14:09:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7705724831249432591",
+    "title": "AI 写页面像说明书，修 Bug 像贴膏药？把这两句话写进 AGENTS.md",
+    "url": "https://juejin.cn/post/7705724831249432591",
+    "source": "juejin",
+    "score": 1.03163908,
+    "published_at": "2026-11-08T10:06:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50384664",
+    "title": "The Kekulé Problem – Cormac McCarthy",
+    "url": "https://nautil.us/the-kekul-problem-236574",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-11-05T21:25:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50418016",
+    "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+    "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+    "source": "hackernews",
+    "score": 346.0,
+    "published_at": "2026-11-08T22:20:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50418975",
+    "title": "I'm Not Convinced the AI Bubble Exists",
+    "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-11-08T23:44:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50405043",
+    "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+    "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-07T14:51:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50418182",
+    "title": "Chimera Vocal Synth",
+    "url": "https://chimera-vocal-synth.vercel.app/",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-11-08T22:36:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50418818",
+    "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+    "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-11-08T23:28:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50419215",
+    "title": "Unlocking any car from X brand in most of the world",
+    "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-11-09T00:10:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50418176",
+    "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+    "url": "https://ketchup3d.github.io/app/",
+    "source": "hackernews",
+    "score": 195.0,
+    "published_at": "2026-11-08T22:35:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:deutqp",
     "title": "Message Queues",
     "url": "https://blog.alexewerlof.com/p/message-queues",
@@ -4826,176 +4996,6 @@
     "source": "hackernews",
     "score": 24.0,
     "published_at": "2026-11-04T13:51:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50366575",
-    "title": "Debian apt security update (man-in-the-middle)",
-    "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
-    "source": "hackernews",
-    "score": 98.0,
-    "published_at": "2026-11-04T15:04:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50366860",
-    "title": "Adding Window Functions to a Spreadsheet",
-    "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-11-04T15:21:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50367004",
-    "title": "Letting users trust their own MCP clients, without opening a phishing hole",
-    "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-11-04T15:30:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50369194",
-    "title": "This Month in Ladybird – October 2026",
-    "url": "https://ladybird.org/newsletter/2026-10-31/",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-11-04T17:59:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50365780",
-    "title": "Tencent Hy4",
-    "url": "https://hy.tencent.ai/research/hy4",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-11-04T14:11:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50366999",
-    "title": "Kimi K3.1 Pro model weights are out",
-    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "source": "hackernews",
-    "score": 184.0,
-    "published_at": "2026-11-04T15:30:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50366929",
-    "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
-    "url": "https://pcdealcheck.com/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-11-04T15:25:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50369146",
-    "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-11-04T17:55:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50365755",
-    "title": "North Korean fake job interview led to $6.3B Binance heist",
-    "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-    "source": "hackernews",
-    "score": 395.0,
-    "published_at": "2026-11-04T14:09:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50367125",
-    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-    "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-    "source": "hackernews",
-    "score": 242.0,
-    "published_at": "2026-11-04T15:38:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50368804",
-    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-    "url": "https://news.ycombinator.com/item?id=50368804",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-11-04T17:31:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50369106",
-    "title": "A New Go API for JSON",
-    "url": "https://go.dev/blog/jsonv2",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-11-04T17:52:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50366522",
-    "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-    "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-    "source": "hackernews",
-    "score": 168.0,
-    "published_at": "2026-11-04T15:01:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50368626",
-    "title": "Progress on provable inference for large language models",
-    "url": "https://www.anthropic.com/research/provable-inference",
-    "source": "hackernews",
-    "score": 79.0,
-    "published_at": "2026-11-04T17:17:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50364336",
-    "title": "AI is forcing us to pay off 40 years of technical debt",
-    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-    "source": "hackernews",
-    "score": 753.0,
-    "published_at": "2026-11-04T11:52:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:icwy9p",
-    "title": "Incident with Pull Requests, Git Operations and Issues",
-    "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-04T05:23:54.461-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sfzkeb",
-    "title": "Pulling the right strings for RCE on a Puppet",
-    "url": "https://neodyme.io/en/blog/puppet_rce",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-04T01:39:20.951-06:00",
     "summary": "",
     "key_points": []
   }
