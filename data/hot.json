@@ -1,5 +1,375 @@
 [
   {
+    "id": "lobsters:kymztn",
+    "title": "Beyond the compiler: Making IBM i run modified native code - Program Validation Value",
+    "url": "https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-10T08:48:26.696-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:y4djcr",
+    "title": "Thoughts on AI Coding",
+    "url": "https://danielbmarkham.com/blog/thoughts-on-ai-coding",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-10T12:27:33.347-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kqjcnb",
+    "title": "Weird licenses and the new open source",
+    "url": "https://dustri.org/b/weird-licenses-and-the-new-open-source.html",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-10T10:49:51.594-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:alijyg",
+    "title": "A faster Easter date function",
+    "url": "https://www.benjoffe.com/fast-easter",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-11-10T08:36:45.331-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nuoce5",
+    "title": "Next-Level Benchmarking Overfitting",
+    "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-11-10T06:20:55.477-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fdnic2",
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-11-10T10:57:25.851-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zingk1",
+    "title": "Announcing .NET 11",
+    "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-11-10T10:03:21.955-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gj5obq",
+    "title": "Open Graph images with Astro and Typst",
+    "url": "https://eaj.no/posts/open-graph-images-with-typst/",
+    "source": "lobsters",
+    "score": 28.0,
+    "published_at": "2026-11-10T05:42:48.435-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:t7qkjb",
+    "title": "The hardest tarball",
+    "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+    "source": "lobsters",
+    "score": 34.0,
+    "published_at": "2026-11-10T07:47:03.168-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vkkbwo",
+    "title": ".name grandfathered",
+    "url": "https://neil.fraser.name/news/2026/11/10/",
+    "source": "lobsters",
+    "score": 66.0,
+    "published_at": "2026-11-10T10:52:12.273-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255748",
+    "title": "国行 iPhone 18 系列要起飞了",
+    "url": "https://www.v2ex.com/t/1255748",
+    "source": "v2ex",
+    "score": 124.0,
+    "published_at": "2026-11-10T01:35:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7705988547135717386",
+    "title": "Hy4正式发布一手实测，腾讯这波起飞了。",
+    "url": "https://juejin.cn/post/7705988547135717386",
+    "source": "juejin",
+    "score": 0.30737679,
+    "published_at": "2026-11-09T07:59:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50442691",
+    "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+    "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+    "source": "hackernews",
+    "score": 105.0,
+    "published_at": "2026-11-10T16:34:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50443838",
+    "title": "Work at the Frontier: AI's effect on freelance work",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-10T18:02:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50441074",
+    "title": "The death knell of digital search",
+    "url": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-11-10T14:41:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50423664",
+    "title": "Variable-width Bézier curves (2025)",
+    "url": "https://luthert.web.illinois.edu/blog/posts/775.html",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-11-09T10:23:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50437242",
+    "title": "M John Harrison becomes first science fiction author to win the Booker",
+    "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+    "source": "hackernews",
+    "score": 79.0,
+    "published_at": "2026-11-10T07:40:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50426294",
+    "title": "Taking another shot at the cheap IP camera, part 2",
+    "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
+    "source": "hackernews",
+    "score": 95.0,
+    "published_at": "2026-11-09T14:40:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50443714",
+    "title": "An Open Field Guide to Inference Engineering",
+    "url": "https://docs.modelplane.ai/guides/inference-guide",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-11-10T17:55:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50412554",
+    "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+    "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+    "source": "hackernews",
+    "score": 104.0,
+    "published_at": "2026-11-08T12:07:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50404079",
+    "title": "Twelve things you could build on a live index of internet radio",
+    "url": "https://tuneping.com/notes/twelve-things-to-build-on-a-live-radio-index/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-11-07T12:44:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50439284",
+    "title": "What's new in the .NET 11 runtime",
+    "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+    "source": "hackernews",
+    "score": 165.0,
+    "published_at": "2026-11-10T12:20:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50443716",
+    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-11-10T17:55:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50441338",
+    "title": "The Hardest Tarball?",
+    "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+    "source": "hackernews",
+    "score": 126.0,
+    "published_at": "2026-11-10T15:00:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50441518",
+    "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+    "url": "https://tinyvalencia.com/",
+    "source": "hackernews",
+    "score": 97.0,
+    "published_at": "2026-11-10T15:12:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50382401",
+    "title": "I deleted all my SSH keys",
+    "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+    "source": "hackernews",
+    "score": 113.0,
+    "published_at": "2026-11-05T18:17:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50433216",
+    "title": "Process Explorer for macOS",
+    "url": "https://github.com/microsoft/Procexp-Mac",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-09T22:30:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50439695",
+    "title": "Ableton Live 13",
+    "url": "https://www.ableton.com/en/live/",
+    "source": "hackernews",
+    "score": 195.0,
+    "published_at": "2026-11-10T12:58:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50442426",
+    "title": "Blender 5.3 released with Gaussian Splat support",
+    "url": "https://www.blender.org/download/releases/5-3/",
+    "source": "hackernews",
+    "score": 295.0,
+    "published_at": "2026-11-10T16:15:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50443090",
+    "title": "AMD's Zen 6 Family: Feeding the Beast",
+    "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-11-10T17:02:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50443812",
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-11-10T18:01:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50439193",
+    "title": "AlphaProof Code",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "source": "hackernews",
+    "score": 494.0,
+    "published_at": "2026-11-10T12:11:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50443427",
+    "title": "Val Town is winding down",
+    "url": "https://blog.val.town/winding-down",
+    "source": "hackernews",
+    "score": 129.0,
+    "published_at": "2026-11-10T17:31:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50443824",
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "source": "hackernews",
+    "score": 86.0,
+    "published_at": "2026-11-10T18:02:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50441707",
+    "title": "Smart home devices should work without the internet",
+    "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+    "source": "hackernews",
+    "score": 307.0,
+    "published_at": "2026-11-10T15:25:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50444129",
+    "title": "Starlink Mini 2",
+    "url": "https://starlink.com/mini-2",
+    "source": "hackernews",
+    "score": 72.0,
+    "published_at": "2026-11-10T18:22:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50442736",
+    "title": ".name Grandfathered",
+    "url": "https://neil.fraser.name/news/2026/11/10/",
+    "source": "hackernews",
+    "score": 378.0,
+    "published_at": "2026-11-10T16:37:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:n8reli",
     "title": "Building a networking switch ASIC chip",
     "url": "https://essenceia.github.io/projects/expresso/",
@@ -4626,376 +4996,6 @@
     "source": "v2ex",
     "score": 130.0,
     "published_at": "2026-11-06T00:31:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254880",
-    "title": "今天要不要逃命，美股大跌、",
-    "url": "https://www.v2ex.com/t/1254880",
-    "source": "v2ex",
-    "score": 136.0,
-    "published_at": "2026-11-06T01:26:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254811",
-    "title": "40+还能遇到爱情吗",
-    "url": "https://www.v2ex.com/t/1254811",
-    "source": "v2ex",
-    "score": 144.0,
-    "published_at": "2026-11-05T12:54:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254933",
-    "title": "为了充实虚无的人生，开始第三次尝试学吉他。。。",
-    "url": "https://www.v2ex.com/t/1254933",
-    "source": "v2ex",
-    "score": 168.0,
-    "published_at": "2026-11-06T03:07:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254971",
-    "title": "如果不上班了，你还能靠什么继续谋生！",
-    "url": "https://www.v2ex.com/t/1254971",
-    "source": "v2ex",
-    "score": 176.0,
-    "published_at": "2026-11-06T05:27:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254937",
-    "title": "一人一本书",
-    "url": "https://www.v2ex.com/t/1254937",
-    "source": "v2ex",
-    "score": 212.0,
-    "published_at": "2026-11-06T03:21:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254864",
-    "title": "微信输入法敏感词提取器",
-    "url": "https://www.v2ex.com/t/1254864",
-    "source": "v2ex",
-    "score": 266.0,
-    "published_at": "2026-11-06T00:26:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704561755531690011",
-    "title": "Workbuddy+HY4 略超预期！",
-    "url": "https://juejin.cn/post/7704561755531690011",
-    "source": "juejin",
-    "score": 0.67284819,
-    "published_at": "2026-11-05T12:09:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704235293701914678",
-    "title": "国家数据集团校招、社招都开了：总部雄安，这些技术岗值得认真看看",
-    "url": "https://juejin.cn/post/7704235293701914678",
-    "source": "juejin",
-    "score": 0.39765607,
-    "published_at": "2026-11-05T01:36:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7703844942363525154",
-    "title": "程序员 1v1 访谈系列第十一期：应届生别做开发",
-    "url": "https://juejin.cn/post/7703844942363525154",
-    "source": "juejin",
-    "score": 0.2499447,
-    "published_at": "2026-11-04T01:33:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704619107316219919",
-    "title": "ArkTS 做 5 态数据流 —— 咖啡电量的代谢状态机怎么驱动 UI",
-    "url": "https://juejin.cn/post/7704619107316219919",
-    "source": "juejin",
-    "score": 14.87051418,
-    "published_at": "2026-11-06T01:34:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704241004282609698",
-    "title": "Python 类型注解与 mypy：提升代码可维护性",
-    "url": "https://juejin.cn/post/7704241004282609698",
-    "source": "juejin",
-    "score": 2.68655787,
-    "published_at": "2026-11-05T01:15:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50389446",
-    "title": "Does the Neuroslop Enrichment Real?",
-    "url": "https://github.com/notlibrary/USSR",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-11-06T07:59:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50389498",
-    "title": "Living Maps: Bay Area tech since 1960s",
-    "url": "https://tomorrowasusual.com/living-maps/bay-area-tech/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-11-06T08:08:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50389222",
-    "title": "Britain to make salary disclosure in job ads mandatory",
-    "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-    "source": "hackernews",
-    "score": 153.0,
-    "published_at": "2026-11-06T07:22:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50389260",
-    "title": "Hardcoded credentials and other issues in Tata Motors App",
-    "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-11-06T07:28:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50388122",
-    "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-    "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-11-06T04:17:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50387738",
-    "title": "Nvidia Kubernetes Engine (NVKE)",
-    "url": "https://github.com/dsx-ai-factory/nvke",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-11-06T03:16:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50387796",
-    "title": "Pwn.college",
-    "url": "https://pwn.college/",
-    "source": "hackernews",
-    "score": 146.0,
-    "published_at": "2026-11-06T03:27:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50389420",
-    "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
-    "url": "https://worldstrike.fun/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-11-06T07:55:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50389448",
-    "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-    "url": "https://obelisk.club/research/app-store-2026",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-11-06T07:59:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50389370",
-    "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-    "url": "https://apps.metaebene.me/en/kugelblitz",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-11-06T07:47:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50389333",
-    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-    "url": "https://github.com/ppmpreetham/BUI",
-    "source": "hackernews",
-    "score": 118.0,
-    "published_at": "2026-11-06T07:40:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vwkurz",
-    "title": "I Go to Olympics of 4KB Coding",
-    "url": "https://inv.nadeko.net/watch?v=PeZNLvD4mds",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-05T17:33:07.558-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:q0ld7f",
-    "title": "X-87 - DOS 256 bytes",
-    "url": "https://www.onirom.fr/wiki/codegolf/x-87/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-05T18:16:07.380-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:o0e2wj",
-    "title": "A Quick Guide to Go's Assembler",
-    "url": "https://go.dev/doc/asm",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-05T16:07:32.833-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254782",
-    "title": "做了一款 iOS 阅读器「随阅」，目前限免，欢迎试试",
-    "url": "https://www.v2ex.com/t/1254782",
-    "source": "v2ex",
-    "score": 102.0,
-    "published_at": "2026-11-05T09:56:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254657",
-    "title": "大模型“涌现”出能力，到底什么是“涌现”",
-    "url": "https://www.v2ex.com/t/1254657",
-    "source": "v2ex",
-    "score": 106.0,
-    "published_at": "2026-11-05T03:14:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254642",
-    "title": "谁 TM 在站里推荐黄果 TV 的？害我最近经常看，还把癫剧情分享给我老婆一起看",
-    "url": "https://www.v2ex.com/t/1254642",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-11-05T02:35:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254630",
-    "title": "47 岁就退休的人生",
-    "url": "https://www.v2ex.com/t/1254630",
-    "source": "v2ex",
-    "score": 118.0,
-    "published_at": "2026-11-05T02:13:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254631",
-    "title": "好久没去隔壁 linuxdo，没想到已经有官方 app 了。",
-    "url": "https://www.v2ex.com/t/1254631",
-    "source": "v2ex",
-    "score": 134.0,
-    "published_at": "2026-11-05T02:17:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254663",
-    "title": "彩云天气是不是快倒闭了？",
-    "url": "https://www.v2ex.com/t/1254663",
-    "source": "v2ex",
-    "score": 152.0,
-    "published_at": "2026-11-05T03:24:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704528431254437930",
-    "title": "1024·新饭碗计划活动 | 获奖名单公示",
-    "url": "https://juejin.cn/post/7704528431254437930",
-    "source": "juejin",
-    "score": 1.18993729,
-    "published_at": "2026-11-05T10:49:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704165786369409075",
-    "title": "Android 架构七条铁律：架构师真正设计的不是代码，而是秩序",
-    "url": "https://juejin.cn/post/7704165786369409075",
-    "source": "juejin",
-    "score": 0.35483211,
-    "published_at": "2026-11-04T12:14:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50386909",
-    "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
-    "url": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-11-06T01:11:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50386789",
-    "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
-    "url": "https://github.com/matthewmrichter/mooftcp",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-11-06T00:54:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50386597",
-    "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
-    "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-11-06T00:31:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50385870",
-    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-    "source": "hackernews",
-    "score": 98.0,
-    "published_at": "2026-11-05T23:09:57+00:00",
     "summary": "",
     "key_points": []
   }
