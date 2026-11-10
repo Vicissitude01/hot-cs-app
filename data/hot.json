@@ -1,5 +1,335 @@
 [
   {
+    "id": "lobsters:n8reli",
+    "title": "Building a networking switch ASIC chip",
+    "url": "https://essenceia.github.io/projects/expresso/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-10T01:39:39.567-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gnx80m",
+    "title": "Debugging Rust in 2026",
+    "url": "https://blog.jetbrains.com/rust/2026/11/10/debugging-rust/",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-11-10T05:10:32.813-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:4yqgpu",
+    "title": "You should try Gleam",
+    "url": "https://nchagnet.eu/blog/you-should-try-gleam",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-11-09T21:33:27.517-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255839",
+    "title": "[补送码] 我制作了 Mac 的活动追踪器「日影」",
+    "url": "https://www.v2ex.com/t/1255839",
+    "source": "v2ex",
+    "score": 134.0,
+    "published_at": "2026-11-10T04:22:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255737",
+    "title": "我是不是真的老年痴呆了？还是说被骗了？",
+    "url": "https://www.v2ex.com/t/1255737",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-11-10T01:20:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255699",
+    "title": "转眼， 33 了",
+    "url": "https://www.v2ex.com/t/1255699",
+    "source": "v2ex",
+    "score": 146.0,
+    "published_at": "2026-11-09T16:16:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255797",
+    "title": "外企外包也许是大龄失业人员的最好归宿",
+    "url": "https://www.v2ex.com/t/1255797",
+    "source": "v2ex",
+    "score": 152.0,
+    "published_at": "2026-11-10T02:51:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255755",
+    "title": "[HyperAPI 中转站]新老用户们来领鸡蛋了，评论留 ID，送$10 体验额度",
+    "url": "https://www.v2ex.com/t/1255755",
+    "source": "v2ex",
+    "score": 164.0,
+    "published_at": "2026-11-10T01:51:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255768",
+    "title": "有没有三个月瘦 30 斤的办法",
+    "url": "https://www.v2ex.com/t/1255768",
+    "source": "v2ex",
+    "score": 214.0,
+    "published_at": "2026-11-10T02:13:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255766",
+    "title": "北漂四年的河北小夫妻，想去南方城市看看，想听听大家的意见",
+    "url": "https://www.v2ex.com/t/1255766",
+    "source": "v2ex",
+    "score": 258.0,
+    "published_at": "2026-11-10T02:10:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7705651336889696310",
+    "title": "Event Loop 这篇你看完就不用再看别的了！",
+    "url": "https://juejin.cn/post/7705651336889696310",
+    "source": "juejin",
+    "score": 0.33038793,
+    "published_at": "2026-11-09T01:44:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7705716341147631631",
+    "title": "AI 日报（2026年11月9日）",
+    "url": "https://juejin.cn/post/7705716341147631631",
+    "source": "juejin",
+    "score": 0.26810995,
+    "published_at": "2026-11-09T03:03:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7705995320547278888",
+    "title": "鸿蒙 ArkTS 独立开发者的项目结构 model / dao / viewmodel / page / common 的分层",
+    "url": "https://juejin.cn/post/7705995320547278888",
+    "source": "juejin",
+    "score": 44.19783227,
+    "published_at": "2026-11-09T11:11:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:mattpocock/skills",
+    "title": "skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:tokio-rs/topcoat",
+    "title": "topcoat",
+    "url": "https://github.com/tokio-rs/topcoat",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:vercel-labs/agent-browser",
+    "title": "agent-browser",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:we-promise/sure",
+    "title": "sure",
+    "url": "https://github.com/we-promise/sure",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:addyosmani/agent-skills",
+    "title": "agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50406348",
+    "title": "Time for AVIF everywhere?",
+    "url": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+    "source": "hackernews",
+    "score": 87.0,
+    "published_at": "2026-11-07T17:34:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50405682",
+    "title": "Echoloc: A minimalist echolocation horror videogame",
+    "url": "https://level102.itch.io/echoloc",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-11-07T16:07:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50435660",
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "source": "hackernews",
+    "score": 166.0,
+    "published_at": "2026-11-10T03:20:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50435105",
+    "title": "Formalizing CPython",
+    "url": "https://broyojo.com/python-formalization/",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-11-10T01:56:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50438480",
+    "title": "What Constant Surveillance Is Doing to Children",
+    "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-11-10T10:47:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50436706",
+    "title": "ClickHouse Acquires Xata",
+    "url": "https://xata.io/blog/xata-is-joining-clickhouse",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-11-10T06:14:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50435898",
+    "title": "Ultorg: The User Interface for Relational Databases",
+    "url": "https://www.ultorg.com/",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-11-10T03:59:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50408336",
+    "title": "Billion Watts in the Speaker [video]",
+    "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-07T21:45:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50392733",
+    "title": "How hard is it to check for whitespace?",
+    "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-11-06T14:31:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50437752",
+    "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+    "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-11-10T08:59:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50437106",
+    "title": "Fireworks AI security breach impacts Notion and their customers",
+    "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-11-10T07:19:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50436410",
+    "title": "Your TV can see through walls",
+    "url": "https://maurycyz.com/projects/fading/",
+    "source": "hackernews",
+    "score": 142.0,
+    "published_at": "2026-11-10T05:24:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50437790",
+    "title": "Queens Public library under ransomware attack e-borrowing suspended",
+    "url": "https://connect.queenslibrary.org/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-10T09:04:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50438318",
+    "title": "AI usage generates a fragile codebase",
+    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-11-10T10:25:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50436640",
+    "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+    "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+    "source": "hackernews",
+    "score": 342.0,
+    "published_at": "2026-11-10T06:01:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:mmchy9",
     "title": "Tabernetes: Kubernetes in your browser tab",
     "url": "https://jkroepke.de/tabernetes/",
@@ -4666,336 +4996,6 @@
     "source": "hackernews",
     "score": 98.0,
     "published_at": "2026-11-05T23:09:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50386104",
-    "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
-    "url": "https://www.fgc.org.br/comunicado",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-11-05T23:32:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50378643",
-    "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-    "url": "https://firenook.dev/",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-11-05T13:07:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50386338",
-    "title": "Inkling 2 Small",
-    "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-11-06T00:00:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50385272",
-    "title": "Claude Code sends your email address to websites",
-    "url": "https://github.com/anthropics/claude-code/issues/107757",
-    "source": "hackernews",
-    "score": 528.0,
-    "published_at": "2026-11-05T22:17:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wfw32o",
-    "title": "How Flink's Kafka connector commits offsets to Kafka",
-    "url": "https://dalelane.co.uk/blog/?p=6161",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-05T10:31:51.666-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cpwy05",
-    "title": "Can 23,000 quantum qubits break RSA-2048?",
-    "url": "https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-05T11:22:48.104-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yomksa",
-    "title": "Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC",
-    "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-05T11:32:18.197-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:x2hcss",
-    "title": "SourceHut disabled registration bypass | CVE-2026-121728",
-    "url": "https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-11-05T12:34:41.907-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yoywed",
-    "title": "Software Line Specialist",
-    "url": "https://lovro-bikic.github.io/software-line-specialist/",
-    "source": "lobsters",
-    "score": 24.0,
-    "published_at": "2026-11-05T10:32:29.997-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50384133",
-    "title": "California Gov Newsom commutes death sentences for all 548 people on death row",
-    "url": "https://www.bbc.com/news/articles/cqrkyyd2j8mvo",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-11-05T20:34:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50380704",
-    "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-    "url": "https://github.com/AGGIB/Stroq",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-11-05T15:54:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50383163",
-    "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-    "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-11-05T19:16:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50380268",
-    "title": "We can do better than line-buffered output",
-    "url": "https://nullprogram.com/blog/2026/11/05/",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-11-05T15:25:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50383294",
-    "title": "Introducing Pangram Image 1.0",
-    "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-11-05T19:27:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50380979",
-    "title": "The Stacks Project, Formalized in Lean",
-    "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-11-05T16:16:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50349667",
-    "title": "The Lisp curse, now coming to your ecosystem",
-    "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
-    "source": "hackernews",
-    "score": 177.0,
-    "published_at": "2026-11-03T08:59:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50368208",
-    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-    "url": "https://www.linum.ai/field-notes/pjit-21k",
-    "source": "hackernews",
-    "score": 106.0,
-    "published_at": "2026-11-04T16:45:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50381512",
-    "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-    "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-11-05T17:01:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50381687",
-    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-    "url": "https://github.com/rivet-dev/rivet",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-11-05T17:17:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50381033",
-    "title": "My psychophysics as a bilateral cochlear implant user",
-    "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-    "source": "hackernews",
-    "score": 142.0,
-    "published_at": "2026-11-05T16:21:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50383877",
-    "title": "The Cost of Blogging",
-    "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-11-05T20:14:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50380810",
-    "title": "Motorola Signature 27 with GrapheneOS support",
-    "url": "https://motorolanews.com/motorola-signature-27-2/",
-    "source": "hackernews",
-    "score": 326.0,
-    "published_at": "2026-11-05T16:01:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50383739",
-    "title": "Goodbye from Salon",
-    "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-    "source": "hackernews",
-    "score": 225.0,
-    "published_at": "2026-11-05T20:03:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50381383",
-    "title": "Window Sweaters",
-    "url": "https://github.com/saragordic/window-sweaters",
-    "source": "hackernews",
-    "score": 171.0,
-    "published_at": "2026-11-05T16:50:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50383963",
-    "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-    "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-11-05T20:21:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50383057",
-    "title": "The Hackintosh Reborn",
-    "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-    "source": "hackernews",
-    "score": 116.0,
-    "published_at": "2026-11-05T19:08:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50384233",
-    "title": "MS Paint Remote Code Execution Vulnerability",
-    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-11-05T20:43:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50383740",
-    "title": "Kagi Search for Everyone",
-    "url": "https://kagi.com/changelog",
-    "source": "hackernews",
-    "score": 148.0,
-    "published_at": "2026-11-05T20:03:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:cm9b92",
-    "title": "The ULC Audio Codec is a Perfect Fit for the N64",
-    "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-05T03:25:36.067-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ehtpx8",
-    "title": "The State of Python Profiling in 2026",
-    "url": "https://p403n1x87.github.io/the-state-of-python-profiling-in-2026.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-05T03:56:49.222-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:oqc2sn",
-    "title": "86open",
-    "url": "https://en.wikipedia.org/wiki/Executable_and_Linkable_Format#86open",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-05T03:16:01.307-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lerlry",
-    "title": "Full-stack verification is the new trend",
-    "url": "https://wiki.alcidesfonseca.com/blog/full-stack-verification-is-the-new-trend/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-05T06:24:36.067-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pqzdyt",
-    "title": "GNU Mes and the 0.28 release",
-    "url": "https://ekaitz.elenq.tech/fasterMes10.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-11-05T07:30:50.220-06:00",
     "summary": "",
     "key_points": []
   }
