@@ -1,5 +1,205 @@
 [
   {
+    "id": "lobsters:zu8tdw",
+    "title": "Large-Scale Measurement and Real-World Mitigation of Web Browser Fingerprinting in the Wild",
+    "url": "https://fingerprinting.study/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-10T13:14:08.763-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:idktfu",
+    "title": "Go Turns 17",
+    "url": "https://go.dev/blog/17years",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-10T16:47:26.672-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zi6dg1",
+    "title": "Rendering in batches with glimmer and Datastar",
+    "url": "https://yogthos.net/posts/2026-11-10-glimmer-datastar.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-10T16:54:17.223-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:plreds",
+    "title": "Memory Safety Bugs in Rust Standard Library",
+    "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-10T13:44:50.546-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:x4kaac",
+    "title": "30 years of Internet transfers with curl",
+    "url": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-10T17:42:39.023-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:odnnzh",
+    "title": "Searching for pedagogical materials on memory models",
+    "url": "https://lobste.rs/s/odnnzh",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-11-10T13:51:19.139-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sdtcvv",
+    "title": "I deleted all my SSH keys",
+    "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-11-10T14:49:23.641-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50404969",
+    "title": "The planet Vulcan: a cautionary tale",
+    "url": "https://kevinboone.me/vulcan.html",
+    "source": "hackernews",
+    "score": 41.0,
+    "published_at": "2026-11-07T14:42:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50446520",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "source": "hackernews",
+    "score": 92.0,
+    "published_at": "2026-11-10T21:25:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50446714",
+    "title": "rVPN – stealth VPN with end-to-end encryption",
+    "url": "https://rvpn.org/",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-11-10T21:42:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50412209",
+    "title": "Stable URLs for 42,000 Huts and Peaks",
+    "url": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-11-08T11:04:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50444684",
+    "title": "A comprehensive study of how fingerprintable users are",
+    "url": "https://fingerprinting.study/",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-11-10T19:03:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50406224",
+    "title": "Hacking the meta ray-ban smartglasses",
+    "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-11-07T17:19:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50447900",
+    "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+    "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-11-10T23:41:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50446219",
+    "title": "Sherman Anti-Trust Act (1890)",
+    "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-11-10T20:56:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50445013",
+    "title": "What objective is reasoning solving?",
+    "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+    "source": "hackernews",
+    "score": 89.0,
+    "published_at": "2026-11-10T19:25:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50410587",
+    "title": "Pinot Noir: inside the criminal gangs making fake wine",
+    "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-11-08T05:13:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50446246",
+    "title": "Six Math Essentials by Terence Tao",
+    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+    "source": "hackernews",
+    "score": 100.0,
+    "published_at": "2026-11-10T20:58:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50447074",
+    "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "source": "hackernews",
+    "score": 125.0,
+    "published_at": "2026-11-10T22:17:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50445401",
+    "title": "Scion is back and is going to sell a kei truck in America",
+    "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+    "source": "hackernews",
+    "score": 289.0,
+    "published_at": "2026-11-10T19:50:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:kymztn",
     "title": "Beyond the compiler: Making IBM i run modified native code - Program Validation Value",
     "url": "https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/",
@@ -4796,206 +4996,6 @@
     "source": "hackernews",
     "score": 84.0,
     "published_at": "2026-11-06T14:13:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50393235",
-    "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-    "url": "https://github.com/zalando-incubator/agentic-identity-broker",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-11-06T15:07:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50391145",
-    "title": "We've built an open-source feature flag server for 11 years",
-    "url": "https://github.com/Unleash/unleash",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-11-06T11:40:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50394292",
-    "title": "Scriptable GeoDNS: Leaving AWS for Bunny",
-    "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-11-06T16:15:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50392787",
-    "title": "MTG-I2 First Images",
-    "url": "https://www.eumetsat.int/mtg-i2-first-images",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-11-06T14:35:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50390525",
-    "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-    "url": "https://jhr.pensoft.net/articles.php?id=9096",
-    "source": "hackernews",
-    "score": 122.0,
-    "published_at": "2026-11-06T10:21:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50393089",
-    "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
-    "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-11-06T14:57:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50382958",
-    "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
-    "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-11-05T18:59:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50394855",
-    "title": "First steps in bare-metal programming using UEFI",
-    "url": "https://kevinboone.me/efitest_index.html",
-    "source": "hackernews",
-    "score": 10.0,
-    "published_at": "2026-11-06T16:50:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50393154",
-    "title": "RIP Cybertruck",
-    "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
-    "source": "hackernews",
-    "score": 240.0,
-    "published_at": "2026-11-06T15:01:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50395043",
-    "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-    "url": "https://up.codes/careers?utm_source=HN",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-11-06T17:03:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50392118",
-    "title": "Gemini Omni 1.2 Flash",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "source": "hackernews",
-    "score": 196.0,
-    "published_at": "2026-11-06T13:35:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50393183",
-    "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
-    "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
-    "source": "hackernews",
-    "score": 72.0,
-    "published_at": "2026-11-06T15:03:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50390124",
-    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-    "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-    "source": "hackernews",
-    "score": 527.0,
-    "published_at": "2026-11-06T09:27:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50393758",
-    "title": "Deus Ex",
-    "url": "https://www.filfre.net/2026/11/deus-ex/",
-    "source": "hackernews",
-    "score": 157.0,
-    "published_at": "2026-11-06T15:44:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ml83td",
-    "title": "How Windows Bootloader Starts the Kernel",
-    "url": "https://www.youtube.com/watch?v=mxj7z6WqK14",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-05T21:01:39.333-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:l6gu7r",
-    "title": "Practical guide on out of tree mitigations on Linux",
-    "url": "https://clehaxze.tw/gemlog/2026/11-04-practical-guide-on-out-of-tree-mitigations-on-linux.gmi",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-06T02:53:27.739-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jmdchp",
-    "title": "What are you doing this weekend?",
-    "url": "https://lobste.rs/s/jmdchp",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-06T03:15:23.253-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:dxno99",
-    "title": "Clojure Distilled",
-    "url": "https://yogthos.net/ClojureDistilled.html",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-11-05T22:20:58.464-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254892",
-    "title": "二狗匹配对象突然删好友加拉黑",
-    "url": "https://www.v2ex.com/t/1254892",
-    "source": "v2ex",
-    "score": 126.0,
-    "published_at": "2026-11-06T01:50:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254865",
-    "title": "无人在意的角落， idea 2026.3 发布了",
-    "url": "https://www.v2ex.com/t/1254865",
-    "source": "v2ex",
-    "score": 130.0,
-    "published_at": "2026-11-06T00:31:38+00:00",
     "summary": "",
     "key_points": []
   }
