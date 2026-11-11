@@ -1,5 +1,385 @@
 [
   {
+    "id": "lobsters:quicny",
+    "title": "Monads in Lean",
+    "url": "https://eli.thegreenplace.net/2026/monads-in-lean/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-11T04:13:14.135-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:uz2j2h",
+    "title": "Google Summer of Code 2026 results",
+    "url": "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-11T09:03:06.079-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vzpcnd",
+    "title": "Performance evolution of route lookup on Linux",
+    "url": "https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-11T02:25:31.231-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:miyll7",
+    "title": "London meetup - update",
+    "url": "https://lobste.rs/s/miyll7",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-11T06:31:59.338-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:romf5e",
+    "title": "In Memoriam: Tim Peters 1952–2026",
+    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-11-11T08:20:17.454-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zy4p7f",
+    "title": "Using voltage glitching to unleash the A100 in my mining card",
+    "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-11-11T06:36:57.129-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:nld6x3",
+    "title": "What are some \"No AI\" apps/companies/resources you know of?",
+    "url": "https://lobste.rs/s/nld6x3",
+    "source": "lobsters",
+    "score": 25.0,
+    "published_at": "2026-11-11T07:13:51.549-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:m43bas",
+    "title": "How do you actually self-host securely?",
+    "url": "https://lobste.rs/s/m43bas",
+    "source": "lobsters",
+    "score": 36.0,
+    "published_at": "2026-11-11T06:01:19.024-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256096",
+    "title": "最近发现自己有个挺明显的问题：买自己喜欢的东西，只要价格超过 1000 元，就会犹犹豫豫考虑很久。",
+    "url": "https://www.v2ex.com/t/1256096",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-11-11T03:13:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256209",
+    "title": "家人们，我失恋了",
+    "url": "https://www.v2ex.com/t/1256209",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-11-11T08:37:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256107",
+    "title": "[求关注]建立了一个 TG 频道 A 股资讯自动发布，回复这个帖子前 100 名送铜币",
+    "url": "https://www.v2ex.com/t/1256107",
+    "source": "v2ex",
+    "score": 226.0,
+    "published_at": "2026-11-11T03:37:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7705683246910734363",
+    "title": "Vue 3 + 高德地图封装实战：点位、区域、Loca 流光与 Vue 信息窗体",
+    "url": "https://juejin.cn/post/7705683246910734363",
+    "source": "juejin",
+    "score": 0.16247818,
+    "published_at": "2026-11-09T02:58:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706418656682803200",
+    "title": "再见了 Typora",
+    "url": "https://juejin.cn/post/7706418656682803200",
+    "source": "juejin",
+    "score": 1.62467818,
+    "published_at": "2026-11-11T01:47:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:TheAlgorithms/Java",
+    "title": "Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:openai/codex-security",
+    "title": "codex-security",
+    "url": "https://github.com/openai/codex-security",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:shadcn/improve",
+    "title": "improve",
+    "url": "https://github.com/shadcn/improve",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:GoogleChrome/modern-web-guidance-src",
+    "title": "modern-web-guidance-src",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50393070",
+    "title": "Why Amstrad chose the 3\" drives",
+    "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-11-06T14:56:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50449891",
+    "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+    "url": "https://github.com/adrbn/bo2-mac",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-11-11T04:56:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50435962",
+    "title": "Make this forward pass as fast as possible",
+    "url": "https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-11-10T04:10:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50438213",
+    "title": "The Afterlife of the Berlin Wall",
+    "url": "https://www.historytoday.com/miscellanies/afterlife-berlin-wall",
+    "source": "hackernews",
+    "score": 5.0,
+    "published_at": "2026-11-10T10:12:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50453080",
+    "title": "EventSourcingDB 1.3.0 Is Available",
+    "url": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-11-11T13:19:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50452224",
+    "title": "Physically Controllable Relighting of Photographs",
+    "url": "https://yaksoy.github.io/PhysicalRelighting/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-11-11T11:38:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50452742",
+    "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+    "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-11-11T12:44:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50452407",
+    "title": "In Defense of Giving a Shit",
+    "url": "https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-11-11T12:00:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50453288",
+    "title": "Hyper-Realistic Sand with WebGL2",
+    "url": "https://av.github.io/safe-sand/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-11-11T13:39:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50452404",
+    "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+    "url": "https://news.ycombinator.com/item?id=50452404",
+    "source": "hackernews",
+    "score": 1.0,
+    "published_at": "2026-11-11T12:00:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50416640",
+    "title": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
+    "url": "https://github.com/lukks/like-webrtc",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-08T20:10:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50452652",
+    "title": "We need more goat sacrifices",
+    "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-11-11T12:29:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50453555",
+    "title": "Apple is killing its Support Community forum next week",
+    "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-11-11T14:02:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50452496",
+    "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+    "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-11-11T12:09:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50453229",
+    "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+    "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-11-11T13:34:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50453474",
+    "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+    "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+    "source": "hackernews",
+    "score": 97.0,
+    "published_at": "2026-11-11T13:56:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50451903",
+    "title": "Using voltage glitching to unleash the A100 in my mining card",
+    "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "source": "hackernews",
+    "score": 118.0,
+    "published_at": "2026-11-11T10:48:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50453637",
+    "title": "Atuin Threads: All your agent sessions on every machine",
+    "url": "https://blog.atuin.sh/threads-agent-sessions/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-11-11T14:10:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50452655",
+    "title": "Can a Linear Program Do Weight-Space Programming?",
+    "url": "https://nathan.rs/posts/weight-space-lp/",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-11-11T12:30:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50453763",
+    "title": "Pharo in the Browser with WebAssembly",
+    "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-11-11T14:21:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50452455",
+    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "url": "https://pietromiotti.com/latest/maya-site/?maya",
+    "source": "hackernews",
+    "score": 490.0,
+    "published_at": "2026-11-11T12:05:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:5wrucm",
     "title": "Modding Linux to use SIGKILL on every process",
     "url": "https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/",
@@ -4616,386 +4996,6 @@
     "source": "juejin",
     "score": 0.18321535,
     "published_at": "2026-11-05T08:38:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704455397478334499",
-    "title": "为什么这么多 Agent Harness 都选择 TypeScript",
-    "url": "https://juejin.cn/post/7704455397478334499",
-    "source": "juejin",
-    "score": 0.24617636,
-    "published_at": "2026-11-05T01:38:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704455397477875747",
-    "title": "Flutter 开始支持 Jetpack Compose Platform View",
-    "url": "https://juejin.cn/post/7704455397477875747",
-    "source": "juejin",
-    "score": 0.28633291,
-    "published_at": "2026-11-05T00:50:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50397099",
-    "title": "GitHub's new Git storage architecture",
-    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-11-06T19:24:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50398625",
-    "title": "88x31 GIF Stickers for 2026",
-    "url": "https://a90.com/experiments/88x31/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-11-06T21:13:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50399569",
-    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-    "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-    "source": "hackernews",
-    "score": 73.0,
-    "published_at": "2026-11-06T22:50:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50397711",
-    "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-11-06T20:09:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50356722",
-    "title": "Panthera: Ampere's CPU Performance Model",
-    "url": "https://github.com/AmpereComputing/panthera",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-11-03T19:12:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50399657",
-    "title": "Sodium-ion batteries approach cost parity with LFP",
-    "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-    "source": "hackernews",
-    "score": 127.0,
-    "published_at": "2026-11-06T23:00:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50399991",
-    "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-    "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-11-06T23:37:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50399695",
-    "title": "Outbound SIP calling is now available to all organizations",
-    "url": "https://developers.openai.com/api/docs/guides/voice-sip",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-11-06T23:03:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50354097",
-    "title": "Can GROUP BY still be optimized after all these years?",
-    "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
-    "source": "hackernews",
-    "score": 41.0,
-    "published_at": "2026-11-03T16:30:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50360810",
-    "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-    "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-11-04T02:19:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50400597",
-    "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-    "url": "https://josef.cn/blog/unitree",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-11-07T01:05:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50399933",
-    "title": "Libghostty 1.0",
-    "url": "https://mitchellh.com/writing/libghostty-1-0",
-    "source": "hackernews",
-    "score": 204.0,
-    "published_at": "2026-11-06T23:30:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8qalfk",
-    "title": "Bug Finding Considered Harmful?",
-    "url": "https://alperenkeles.com/posts/bug-finding-considered-harmful/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-06T11:39:08.968-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:id3f9d",
-    "title": "Kevin Boone: Firststeps in bare-metal programming using UEFI – series index",
-    "url": "https://kevinboone.me/efitest_index.html",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-06T12:51:53.819-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lzuqfr",
-    "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-    "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-06T11:48:51.545-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:xhrab6",
-    "title": "Hacking the meta ray-ban smartglasses",
-    "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-06T14:50:24.488-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gzdimd",
-    "title": "How we continuously validate formal specifications in production",
-    "url": "https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-11-06T12:00:07.309-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4lgvnf",
-    "title": "Nondeterminism in Futhark",
-    "url": "https://futhark-lang.org/blog/2026-11-04-nondeterminism.html",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-11-06T13:16:01.378-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:y3hvme",
-    "title": "Inside GitHub's new Git storage architecture",
-    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-    "source": "lobsters",
-    "score": 13.0,
-    "published_at": "2026-11-06T11:50:09.323-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50394569",
-    "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-    "url": "https://github.com/anomalyco/rune",
-    "source": "hackernews",
-    "score": 124.0,
-    "published_at": "2026-11-06T16:31:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50396064",
-    "title": "We know 15k websites are infected. how do we tell them?",
-    "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
-    "source": "hackernews",
-    "score": 121.0,
-    "published_at": "2026-11-06T18:13:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50397325",
-    "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-    "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-11-06T19:41:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50394906",
-    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-    "source": "hackernews",
-    "score": 154.0,
-    "published_at": "2026-11-06T16:54:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50394977",
-    "title": "PyLings: Solve Exercises and Learn Python",
-    "url": "https://github.com/thesayfulla/pylings",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-11-06T16:59:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50396108",
-    "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
-    "url": "https://halfnarp.events.ccc.de",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-11-06T18:16:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50397264",
-    "title": "As the Japanese countryside empties out, wildlife is disappearing",
-    "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-11-06T19:36:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50392348",
-    "title": "How octopuses squeeze through too small gaps",
-    "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-11-06T13:57:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50354308",
-    "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-11-03T16:43:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50397176",
-    "title": "My first and last telegram was from Rebecca West",
-    "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-11-06T19:30:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50395869",
-    "title": "Size-It-Up (Game)",
-    "url": "https://magnitudle.com/size-it-up",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-11-06T17:59:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50379221",
-    "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-    "url": "https://github.com/piercefreeman/waymark",
-    "source": "hackernews",
-    "score": 16.0,
-    "published_at": "2026-11-05T14:06:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50395450",
-    "title": "Devvm.dev: One VM for every project",
-    "url": "https://devvm.dev/",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-11-06T17:30:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50396834",
-    "title": "Replit rebuilt its sandbox engine with microVMs",
-    "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-11-06T19:06:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50395919",
-    "title": "Memorilla: Latent Semantic Memory for LLMs",
-    "url": "https://arxiv.org/abs/2610.21375",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-11-06T18:03:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50397017",
-    "title": "Restaurant Delivery Payment-Skimming Campaign",
-    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-11-06T19:19:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50391456",
-    "title": "Tesla to wind down Cybertruck production",
-    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-    "source": "hackernews",
-    "score": 715.0,
-    "published_at": "2026-11-06T12:13:51+00:00",
     "summary": "",
     "key_points": []
   }
