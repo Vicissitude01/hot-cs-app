@@ -1,5 +1,345 @@
 [
   {
+    "id": "lobsters:3rydtk",
+    "title": "No Effect Before Its Cause: From Einstein to Lamport",
+    "url": "https://www.itworkslocally.dev/posts/no-effect-before-its-cause",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-11T12:05:08.811-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ifecer",
+    "title": "The Web Is More Than Enough, by Paul Ford",
+    "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-11T14:21:19.159-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:793ecg",
+    "title": "Writing a SIGGRAPH paper from scratch",
+    "url": "https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-11T10:34:08.420-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pfscsm",
+    "title": "eMudhra Statement on Recent Certificate Security Incident",
+    "url": "https://emudhra.com/en/post/certificate-security-incident",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-11T13:19:58.174-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pdzud6",
+    "title": "Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration",
+    "url": "https://andrew-helmer.github.io/permute/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-11T14:08:45.593-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wfr0b4",
+    "title": "About the downtime and security incident",
+    "url": "https://danbooru.donmai.us/forum_topics/38685.html",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-11T10:58:45.890-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:v3uidx",
+    "title": "Lock your GitHub Actions",
+    "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "source": "lobsters",
+    "score": 11.0,
+    "published_at": "2026-11-11T12:16:01.014-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:lrpb0m",
+    "title": "For the first time, a C++ standard failed to pass the national bodies",
+    "url": "https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-11T12:49:35.129-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ii1gzp",
+    "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "source": "lobsters",
+    "score": 35.0,
+    "published_at": "2026-11-11T10:27:51.943-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256189",
+    "title": "最近秋招陆陆续续面了一堆应届生，说点感受",
+    "url": "https://www.v2ex.com/t/1256189",
+    "source": "v2ex",
+    "score": 148.0,
+    "published_at": "2026-11-11T07:28:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7705955493567021090",
+    "title": "我用 NestJS + Vue3 写了一套完整的研发管理系统（58 表 / 229 API / 130 项断言，全开源",
+    "url": "https://juejin.cn/post/7705955493567021090",
+    "source": "juejin",
+    "score": 0.14878056,
+    "published_at": "2026-11-09T01:52:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50438435",
+    "title": "The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico",
+    "url": "https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-11-10T10:41:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50458434",
+    "title": "Tools for exploring the souls of large language models",
+    "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-11-11T20:45:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50449440",
+    "title": "The Apple Support Community will permanently close on November 20, 2026",
+    "url": "https://discussions.apple.com/welcome",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-11-11T03:26:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50454995",
+    "title": "The hardest notes to find on the guitar",
+    "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-11-11T16:05:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50454625",
+    "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "source": "hackernews",
+    "score": 136.0,
+    "published_at": "2026-11-11T15:33:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50458532",
+    "title": "GitHub Incident with Webhooks, Actions, etc.",
+    "url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-11-11T20:54:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50455811",
+    "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+    "url": "https://news.ycombinator.com/item?id=50455811",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-11-11T17:11:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50459321",
+    "title": "Jensen Huang Said to Have Had Relationship with Nvidia Executive",
+    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-11-11T22:03:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50457669",
+    "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
+    "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-11-11T19:47:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50416365",
+    "title": "Optimizing Reference Deletions in Git",
+    "url": "https://nayak.im/posts/optimizing-reference-deletion/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-11-08T19:37:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50433042",
+    "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
+    "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-11-09T22:15:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50457618",
+    "title": "The Utah Teapot",
+    "url": "https://graphics.cs.utah.edu/teapot/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-11-11T19:45:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50455633",
+    "title": "Faster Retrieval for Better, More Efficient RAG",
+    "url": "https://machinelearning.apple.com/research/faster-retrieval",
+    "source": "hackernews",
+    "score": 121.0,
+    "published_at": "2026-11-11T16:57:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50458166",
+    "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+    "url": "https://github.com/huawei-csl/MACaQ",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-11-11T20:23:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50458710",
+    "title": "Play GTA5 on Browser",
+    "url": "https://playgta5.com/",
+    "source": "hackernews",
+    "score": 44.0,
+    "published_at": "2026-11-11T21:10:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50459485",
+    "title": "Lock Your GitHub Actions",
+    "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "source": "hackernews",
+    "score": 12.0,
+    "published_at": "2026-11-11T22:16:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50458208",
+    "title": "Emacs in the Age of Magic",
+    "url": "https://commandlinesystems.com/magic.txt",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-11-11T20:26:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50457230",
+    "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+    "url": "https://termsheetplease.com/",
+    "source": "hackernews",
+    "score": 130.0,
+    "published_at": "2026-11-11T19:12:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50456791",
+    "title": "Gemini Decisions API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "source": "hackernews",
+    "score": 169.0,
+    "published_at": "2026-11-11T18:32:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50455394",
+    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "source": "hackernews",
+    "score": 353.0,
+    "published_at": "2026-11-11T16:38:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50450488",
+    "title": "Tim Peters has died",
+    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "source": "hackernews",
+    "score": 688.0,
+    "published_at": "2026-11-11T07:03:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50456631",
+    "title": "AWS emulator",
+    "url": "https://github.com/aws/aws-emulator",
+    "source": "hackernews",
+    "score": 518.0,
+    "published_at": "2026-11-11T18:21:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50458900",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "source": "hackernews",
+    "score": 141.0,
+    "published_at": "2026-11-11T21:24:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:quicny",
     "title": "Monads in Lean",
     "url": "https://eli.thegreenplace.net/2026/monads-in-lean/",
@@ -4656,346 +4996,6 @@
     "source": "v2ex",
     "score": 36.0,
     "published_at": "2026-11-06T13:50:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255053",
-    "title": "giffgaff 退款了兄弟们，被封了大半年试着去投诉，没解封但是退款了",
-    "url": "https://www.v2ex.com/t/1255053",
-    "source": "v2ex",
-    "score": 38.0,
-    "published_at": "2026-11-06T09:21:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255172",
-    "title": "ChatGpt 大面积封号？",
-    "url": "https://www.v2ex.com/t/1255172",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-11-07T04:41:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255141",
-    "title": "目前最强的 AI 能否实现这种排查问题的能力？",
-    "url": "https://www.v2ex.com/t/1255141",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-11-07T02:47:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255134",
-    "title": "原来达里奥切除过睾丸，很少有人知道",
-    "url": "https://www.v2ex.com/t/1255134",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-11-07T01:34:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255069",
-    "title": "关于 gemini 用不了之后的戒断反应",
-    "url": "https://www.v2ex.com/t/1255069",
-    "source": "v2ex",
-    "score": 64.0,
-    "published_at": "2026-11-06T10:22:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255105",
-    "title": "请问大家，如果自建 Git 服务器，有什么要注意的、踩坑的",
-    "url": "https://www.v2ex.com/t/1255105",
-    "source": "v2ex",
-    "score": 80.0,
-    "published_at": "2026-11-06T15:07:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255153",
-    "title": "这可能是除了肉身之外的终极 Claude 防封方法，应该没有之一吧",
-    "url": "https://www.v2ex.com/t/1255153",
-    "source": "v2ex",
-    "score": 88.0,
-    "published_at": "2026-11-07T03:20:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704557568358170624",
-    "title": "程序员 1v1 访谈系列第十二期：普通人没有核心竞争力",
-    "url": "https://juejin.cn/post/7704557568358170624",
-    "source": "juejin",
-    "score": 0.3804475,
-    "published_at": "2026-11-06T00:57:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704626540621971471",
-    "title": "她是世界上第一位程序员，写下了人类第一行代码，但却因偏执的信任数学计算而早逝",
-    "url": "https://juejin.cn/post/7704626540621971471",
-    "source": "juejin",
-    "score": 0.46376807,
-    "published_at": "2026-11-06T06:28:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704502089117368320",
-    "title": "AI 还原 Figma 效果总达不到预期？先别急着让它写代码",
-    "url": "https://juejin.cn/post/7704502089117368320",
-    "source": "juejin",
-    "score": 0.17457952,
-    "published_at": "2026-11-05T08:22:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50355009",
-    "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
-    "url": "https://github.com/andrewboldi/tmux-restore",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-11-03T17:25:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50369283",
-    "title": "8088 Domination Post-Mortem",
-    "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-11-04T18:06:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50373513",
-    "title": "The great butter and cheese fire of 1991",
-    "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-11-05T00:44:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50402535",
-    "title": "Bong: DuckDuckGo bang alternative, open-source and self-hosted",
-    "url": "https://bong.glendalab.com",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-11-07T07:48:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50395183",
-    "title": "Notes on San Marino",
-    "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-11-06T17:12:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50352701",
-    "title": "The Flash C Compiler",
-    "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-11-03T14:49:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50361765",
-    "title": "PostgreSQL Internals [pdf]",
-    "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-11-04T05:22:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50402212",
-    "title": "The Components of Agent Memory",
-    "url": "https://www.anthropic.com/research/components-of-agent-memory",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-11-07T06:39:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50401867",
-    "title": "Asahi Linux Progress Linux 7.3",
-    "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-    "source": "hackernews",
-    "score": 155.0,
-    "published_at": "2026-11-07T05:20:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50401740",
-    "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-    "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-11-07T04:54:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:immpvk",
-    "title": "Inform is a programming language for creating interactive fiction",
-    "url": "https://ganelson.github.io/inform-website/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-06T20:05:38.231-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:miazwz",
-    "title": "UploadYourRam.org",
-    "url": "https://uploadyourram.org/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-06T18:00:06.210-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lssm6h",
-    "title": "How hard could implementing DTLS 1.3 possibly be?",
-    "url": "https://joturk.net/posts/dtls",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-06T18:54:14.490-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:osqswf",
-    "title": "The Port That Does Not Exist",
-    "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-11-06T17:03:12.299-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0ouxwf",
-    "title": "Libghostty 1.0",
-    "url": "https://mitchellh.com/writing/libghostty-1-0",
-    "source": "lobsters",
-    "score": 23.0,
-    "published_at": "2026-11-06T17:48:03.089-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255048",
-    "title": "今天离职谈话领导说他心寒了",
-    "url": "https://www.v2ex.com/t/1255048",
-    "source": "v2ex",
-    "score": 78.0,
-    "published_at": "2026-11-06T09:01:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254942",
-    "title": "没用过 BOSS 直聘， HR 已读不回需要再追问么？",
-    "url": "https://www.v2ex.com/t/1254942",
-    "source": "v2ex",
-    "score": 82.0,
-    "published_at": "2026-11-06T03:25:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254966",
-    "title": "居委会是如何精准知道家里住了哪些人的",
-    "url": "https://www.v2ex.com/t/1254966",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-11-06T05:05:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254951",
-    "title": "上个月在这里求内测的取餐号收集册「杯号」，上架 App Store 了（送 30 个永久 Pro 码）",
-    "url": "https://www.v2ex.com/t/1254951",
-    "source": "v2ex",
-    "score": 90.0,
-    "published_at": "2026-11-06T03:45:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254940",
-    "title": "V2EX Polish 2.5.6 版本导致谷歌浏览器卡死",
-    "url": "https://www.v2ex.com/t/1254940",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-11-06T03:23:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254969",
-    "title": "大佬们今年双 11 准备买点啥？",
-    "url": "https://www.v2ex.com/t/1254969",
-    "source": "v2ex",
-    "score": 108.0,
-    "published_at": "2026-11-06T05:22:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704189949114335286",
-    "title": "我现在最怕的不是 AI 写不出代码，是它写得太快，快到我不好意思说“等一下”",
-    "url": "https://juejin.cn/post/7704189949114335286",
-    "source": "juejin",
-    "score": 0.19682485,
-    "published_at": "2026-11-05T01:19:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704902910831853587",
-    "title": "神级 Skill，让 AI 用 HTML 代替 Markdown 回复",
-    "url": "https://juejin.cn/post/7704902910831853587",
-    "source": "juejin",
-    "score": 0.563699,
-    "published_at": "2026-11-06T04:19:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704499167134335018",
-    "title": "Claude Code 同需求写两版对比：装不装 frontend-design 差多远？",
-    "url": "https://juejin.cn/post/7704499167134335018",
-    "source": "juejin",
-    "score": 0.18321535,
-    "published_at": "2026-11-05T08:38:57+00:00",
     "summary": "",
     "key_points": []
   }
