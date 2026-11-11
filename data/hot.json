@@ -1,5 +1,285 @@
 [
   {
+    "id": "lobsters:5wrucm",
+    "title": "Modding Linux to use SIGKILL on every process",
+    "url": "https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-11T00:14:34.735-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9ccmys",
+    "title": "Programming Was Never Just Code",
+    "url": "https://www.youtube.com/watch?v=jZeI0tM_HfI",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-11T00:29:48.113-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:k5oycn",
+    "title": "What is Functional Programming?",
+    "url": "https://www.youtube.com/watch?v=bQlH49krwbk",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-10T17:20:23.604-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rfacq5",
+    "title": "Finding a vulnerability in Star Wars Episode I: Racer",
+    "url": "https://synacktiv.com/en/publications/star-wars-episode-i-racer",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-10T15:58:18.818-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256038",
+    "title": "想买 switch 了 是买 1 还是 2？",
+    "url": "https://www.v2ex.com/t/1256038",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-11-11T01:20:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256021",
+    "title": "SSHYard 已正式发布 V1.0.0 - 高颜值纯原生 SSH 客户端，功能齐全且体积非常小，随楼抽 50 位评论者每位赠送 50 个$v2ex",
+    "url": "https://www.v2ex.com/t/1256021",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-11-11T00:16:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256042",
+    "title": "工作和未来困境，大龄码农该何去何从",
+    "url": "https://www.v2ex.com/t/1256042",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-11-11T01:34:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256051",
+    "title": "32 岁后端程序员，准备拿 N+1 离职了",
+    "url": "https://www.v2ex.com/t/1256051",
+    "source": "v2ex",
+    "score": 164.0,
+    "published_at": "2026-11-11T01:48:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1255953",
+    "title": "你对 AI 说的最多的一句话是什么？",
+    "url": "https://www.v2ex.com/t/1255953",
+    "source": "v2ex",
+    "score": 164.0,
+    "published_at": "2026-11-10T11:48:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256030",
+    "title": "双十一名存实亡",
+    "url": "https://www.v2ex.com/t/1256030",
+    "source": "v2ex",
+    "score": 172.0,
+    "published_at": "2026-11-11T01:07:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256081",
+    "title": "大模型千千万，为什么非要用 Claude？",
+    "url": "https://www.v2ex.com/t/1256081",
+    "source": "v2ex",
+    "score": 232.0,
+    "published_at": "2026-11-11T02:41:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256055",
+    "title": "马上结婚了，但是吵架了！",
+    "url": "https://www.v2ex.com/t/1256055",
+    "source": "v2ex",
+    "score": 446.0,
+    "published_at": "2026-11-11T01:51:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706354193473011775",
+    "title": "MCP 协议会成为前端 AI 工程的标准接口吗？",
+    "url": "https://juejin.cn/post/7706354193473011775",
+    "source": "juejin",
+    "score": 0.65049462,
+    "published_at": "2026-11-10T08:09:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706534471420461098",
+    "title": "你们公司有 35 岁以上的前端吗？",
+    "url": "https://juejin.cn/post/7706534471420461098",
+    "source": "juejin",
+    "score": 8.87857297,
+    "published_at": "2026-11-11T03:47:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706346256684023846",
+    "title": "为什么越来越多人用 AI Gateway？",
+    "url": "https://juejin.cn/post/7706346256684023846",
+    "source": "juejin",
+    "score": 0.98255093,
+    "published_at": "2026-11-10T09:17:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706345830358695971",
+    "title": "HarmonyOS ArkTS 把组件截图保存成 PNG 再调系统分享面板的做法",
+    "url": "https://juejin.cn/post/7706345830358695971",
+    "source": "juejin",
+    "score": 27.11488497,
+    "published_at": "2026-11-11T01:02:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50420579",
+    "title": "Unremarkable things we made in 2026",
+    "url": "https://www.neilchen.co/blog/things2026",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-11-09T03:12:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50448340",
+    "title": "LLMs Play Zachtronics' TIS-100",
+    "url": "https://tis-100.wincon.dev/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-11-11T00:37:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50449080",
+    "title": "Hooked on Tuna",
+    "url": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-11-11T02:23:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50448174",
+    "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+    "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-11-11T00:15:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50447036",
+    "title": "$30M Raised to Redo the CPU",
+    "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+    "source": "hackernews",
+    "score": 77.0,
+    "published_at": "2026-11-10T22:14:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50442225",
+    "title": "Announcing .NET 11",
+    "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "source": "hackernews",
+    "score": 150.0,
+    "published_at": "2026-11-10T16:01:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50427107",
+    "title": "Why I wrote the BEAM book (2025)",
+    "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-11-09T15:41:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50414657",
+    "title": "A Compendium of Abandoned Greenhouses",
+    "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-11-08T16:30:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50449275",
+    "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+    "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-11-11T02:57:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50448921",
+    "title": "A great old-timey game-programming hack (2013)",
+    "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+    "source": "hackernews",
+    "score": 109.0,
+    "published_at": "2026-11-11T01:56:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50450007",
+    "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+    "url": "https://github.com/gmkurtzer/ginux",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-11-11T05:25:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50449748",
+    "title": "Protecting SSH Keys with macOS Secure Enclave",
+    "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+    "source": "hackernews",
+    "score": 93.0,
+    "published_at": "2026-11-11T04:28:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:zu8tdw",
     "title": "Large-Scale Measurement and Real-World Mitigation of Web Browser Fingerprinting in the Wild",
     "url": "https://fingerprinting.study/",
@@ -4716,286 +4996,6 @@
     "source": "hackernews",
     "score": 715.0,
     "published_at": "2026-11-06T12:13:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50388001",
-    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-    "source": "hackernews",
-    "score": 229.0,
-    "published_at": "2026-11-06T04:00:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50397219",
-    "title": "Firecracker VM Escape: PwnEscape Part 2",
-    "url": "https://pwn.ai/blog/firecracker-escape",
-    "source": "hackernews",
-    "score": 106.0,
-    "published_at": "2026-11-06T19:33:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50397994",
-    "title": "AI is dramatically accelerating AI research",
-    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-    "source": "hackernews",
-    "score": 94.0,
-    "published_at": "2026-11-06T20:27:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50397429",
-    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-    "source": "hackernews",
-    "score": 187.0,
-    "published_at": "2026-11-06T19:48:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5cwnpu",
-    "title": "Pushing the Limits with getaddrinfo",
-    "url": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-06T08:47:48.625-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0agusd",
-    "title": "Upgrading NetBSD from 11.0 to 11.1",
-    "url": "https://www.dwarmstrong.org/netbsd-upgrade/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-06T09:22:55.631-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:i96uyr",
-    "title": "The MustCreate Pattern for Go Tests",
-    "url": "https://mtlynch.io/notes/go-must-create-pattern/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-06T09:37:00.157-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hvxjbb",
-    "title": "Making musl and proprietary NVIDIA drivers work together",
-    "url": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
-    "source": "lobsters",
-    "score": 27.0,
-    "published_at": "2026-11-06T07:23:14.985-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1254870",
-    "title": "jetbrains 好像已经亏损了。ai 冲击好大啊",
-    "url": "https://www.v2ex.com/t/1254870",
-    "source": "v2ex",
-    "score": 126.0,
-    "published_at": "2026-11-06T00:54:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:astral-sh/ruff",
-    "title": "ruff",
-    "url": "https://github.com/astral-sh/ruff",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cloudflare/security-audit-skill",
-    "title": "security-audit-skill",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:openssl/openssl",
-    "title": "openssl",
-    "url": "https://github.com/openssl/openssl",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:etcd-io/etcd",
-    "title": "etcd",
-    "url": "https://github.com/etcd-io/etcd",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:nushell/nushell",
-    "title": "nushell",
-    "url": "https://github.com/nushell/nushell",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:microsoft/vscode",
-    "title": "vscode",
-    "url": "https://github.com/microsoft/vscode",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:prometheus/prometheus",
-    "title": "prometheus",
-    "url": "https://github.com/prometheus/prometheus",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:symfony/symfony",
-    "title": "symfony",
-    "url": "https://github.com/symfony/symfony",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:angular/angular",
-    "title": "angular",
-    "url": "https://github.com/angular/angular",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:react/react",
-    "title": "react",
-    "url": "https://github.com/react/react",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:rust-lang/rust",
-    "title": "rust",
-    "url": "https://github.com/rust-lang/rust",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mpv-player/mpv",
-    "title": "mpv",
-    "url": "https://github.com/mpv-player/mpv",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:rails/rails",
-    "title": "rails",
-    "url": "https://github.com/rails/rails",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:zed-industries/zed",
-    "title": "zed",
-    "url": "https://github.com/zed-industries/zed",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50389570",
-    "title": "Chomsky and the Two Cultures of Statistical Learning (2011)",
-    "url": "https://www.norvig.com/chomsky.html",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-11-06T08:18:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50393105",
-    "title": "Ask HN: What in the world is taking Ubuntu so long?",
-    "url": "https://news.ycombinator.com/item?id=50393105",
-    "source": "hackernews",
-    "score": 93.0,
-    "published_at": "2026-11-06T14:58:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50393165",
-    "title": "Where Each U.S. State Gets Its Tax Revenue From",
-    "url": "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-11-06T15:02:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50389990",
-    "title": "AI for scientific discovery: How researchers use Claude",
-    "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-11-06T09:13:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50392499",
-    "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-    "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-11-06T14:13:09+00:00",
     "summary": "",
     "key_points": []
   }
