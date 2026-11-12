@@ -1,5 +1,355 @@
 [
   {
+    "id": "lobsters:3gw2f4",
+    "title": "Hello Baochip",
+    "url": "https://ratfactor.com/cards/hello-baochip",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-12T04:09:16.380-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:itpaba",
+    "title": "Creating Diagrams and Graphs Using Modern CSS",
+    "url": "https://blog.master.dev/creating-diagrams-and-graphs-using-modern-css/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-12T06:20:27.406-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:vwta8g",
+    "title": "Global coordination requirements for 2038-class rollover events",
+    "url": "https://www.itu.int/pub/T-TUT-ICTS-2026-6",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-12T02:19:41.011-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:2drgwh",
+    "title": "Hijacking Samsung TV Smart Hub Ads",
+    "url": "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-12T05:08:45.506-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256427",
+    "title": "佬们，工资太低想跳槽，该准备什么？",
+    "url": "https://www.v2ex.com/t/1256427",
+    "source": "v2ex",
+    "score": 124.0,
+    "published_at": "2026-11-12T03:54:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256363",
+    "title": "不知道的迷信，它生效吗？",
+    "url": "https://www.v2ex.com/t/1256363",
+    "source": "v2ex",
+    "score": 138.0,
+    "published_at": "2026-11-12T02:07:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256525",
+    "title": "被领导叫去涨薪了",
+    "url": "https://www.v2ex.com/t/1256525",
+    "source": "v2ex",
+    "score": 174.0,
+    "published_at": "2026-11-12T08:50:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256423",
+    "title": "资金垫子铺完了！",
+    "url": "https://www.v2ex.com/t/1256423",
+    "source": "v2ex",
+    "score": 224.0,
+    "published_at": "2026-11-12T03:40:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706788877558939663",
+    "title": "每天认识一个组件：Redis",
+    "url": "https://juejin.cn/post/7706788877558939663",
+    "source": "juejin",
+    "score": 0.51060576,
+    "published_at": "2026-11-11T13:56:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706394247621443599",
+    "title": "别再连线了：Coze、n8n、Dify 退潮，AI 正式终结工作流时代",
+    "url": "https://juejin.cn/post/7706394247621443599",
+    "source": "juejin",
+    "score": 0.31151561,
+    "published_at": "2026-11-11T00:29:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706468226762326016",
+    "title": "程序员 1v1 访谈系列第十三期：大龄已育空窗一年如何破局",
+    "url": "https://juejin.cn/post/7706468226762326016",
+    "source": "juejin",
+    "score": 0.37177529,
+    "published_at": "2026-11-11T01:09:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706384412187164710",
+    "title": "Fable5.2 画手柄很牛，小测3个例子！",
+    "url": "https://juejin.cn/post/7706384412187164710",
+    "source": "juejin",
+    "score": 0.26933562,
+    "published_at": "2026-11-10T12:56:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706583027481018408",
+    "title": "技术面试已死？AI 时代，真正拉开程序员差距的是什么？",
+    "url": "https://juejin.cn/post/7706583027481018408",
+    "source": "juejin",
+    "score": 0.68587688,
+    "published_at": "2026-11-11T08:27:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706740008510963722",
+    "title": "Flutter 3.50 & Dart 3.14  发布，快来看看有什么更新吧",
+    "url": "https://juejin.cn/post/7706740008510963722",
+    "source": "juejin",
+    "score": 1.66396235,
+    "published_at": "2026-11-11T22:50:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706826190912880680",
+    "title": "Qwen4 被嘲笑了！国模被啥锁死了？",
+    "url": "https://juejin.cn/post/7706826190912880680",
+    "source": "juejin",
+    "score": 3.53381135,
+    "published_at": "2026-11-12T04:08:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ggml-org/llama.cpp",
+    "title": "llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:Alishahryar1/free-claude-code",
+    "title": "free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:CopilotKit/OpenBot",
+    "title": "OpenBot",
+    "url": "https://github.com/CopilotKit/OpenBot",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:meta/astryx",
+    "title": "astryx",
+    "url": "https://github.com/meta/astryx",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:nodejs/node",
+    "title": "node",
+    "url": "https://github.com/nodejs/node",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:ashhart/TensorFold",
+    "title": "TensorFold",
+    "url": "https://github.com/ashhart/TensorFold",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:QwenLM/qwen-code",
+    "title": "qwen-code",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:pookjw/HermesEnabler",
+    "title": "HermesEnabler",
+    "url": "https://github.com/pookjw/HermesEnabler",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:nvm-sh/nvm",
+    "title": "nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50463103",
+    "title": "Darling Development Update – Q4 2026",
+    "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-11-12T04:32:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50465395",
+    "title": "Code Smells of Desperation (2023)",
+    "url": "https://www.os2museum.com/wp/this-code-smells-of-desperation/",
+    "source": "hackernews",
+    "score": 3.0,
+    "published_at": "2026-11-12T10:37:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50438958",
+    "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+    "url": "https://blog.benjamin.ie/legocam",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-11-10T11:46:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50415162",
+    "title": "I gave an agent a lakehouse and control of my garden",
+    "url": "https://jatorre.github.io/garden/",
+    "source": "hackernews",
+    "score": 111.0,
+    "published_at": "2026-11-08T17:19:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50416606",
+    "title": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
+    "url": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-11-08T20:04:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50463540",
+    "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+    "url": "https://www.getlazarus.org/forums/topic/17/",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-11-12T05:49:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50431971",
+    "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+    "url": "http://blog.nozomi.space/posts/sw2_dock/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-11-09T20:54:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50425017",
+    "title": "A live tree of systemd jobs on the boot console",
+    "url": "https://codeberg.org/wvhulle/bootvine",
+    "source": "hackernews",
+    "score": 141.0,
+    "published_at": "2026-11-09T13:02:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50465829",
+    "title": "Anthropic IPO",
+    "url": "https://ipo.anthropic.com/us/",
+    "source": "hackernews",
+    "score": 76.0,
+    "published_at": "2026-11-12T11:46:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50438261",
+    "title": "Jane Street: Socratic Tutor",
+    "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+    "source": "hackernews",
+    "score": 319.0,
+    "published_at": "2026-11-10T10:18:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50465352",
+    "title": "Why Writing Correct Software Is Hard",
+    "url": "https://pron.github.io/posts/correctness-and-complexity",
+    "source": "hackernews",
+    "score": 60.0,
+    "published_at": "2026-11-12T10:28:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:sc7qkv",
     "title": "The Myth of Neutral Code",
     "url": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
@@ -4646,356 +4996,6 @@
     "source": "hackernews",
     "score": 9.0,
     "published_at": "2026-11-07T23:09:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50408713",
-    "title": "Making any integer with four 2s (2025)",
-    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-11-07T22:38:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50407882",
-    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-11-07T20:45:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:soxqxp",
-    "title": "Amutable Foundations: A Technical Overview",
-    "url": "https://amutable.com/blog/amutable-foundations-technical-overview",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-07T05:07:33.714-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hreu0b",
-    "title": "Catching prompt injections hidden in PDFs",
-    "url": "https://tomclancy.info/joshua-judges-ruth.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-07T13:34:01.032-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:c99mdx",
-    "title": "GhostMap: The Android flaw that crashes your phone before you open the app",
-    "url": "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-07T12:12:57.505-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tfywf1",
-    "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
-    "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-11-07T12:41:33.184-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50405250",
-    "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
-    "url": "https://news.ycombinator.com/item?id=50405250",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-11-07T15:14:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50404747",
-    "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
-    "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-11-07T14:18:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50357763",
-    "title": "Optimising the Rail Cube",
-    "url": "https://owenlacey.dev/railcube-optimisation/post",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-11-03T20:31:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50384263",
-    "title": "What do the next 4000 emoji look like?",
-    "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
-    "source": "hackernews",
-    "score": 70.0,
-    "published_at": "2026-11-05T20:46:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50380246",
-    "title": "Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",
-    "url": "https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-11-05T15:22:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50405674",
-    "title": "Terry Pratchett's Study",
-    "url": "https://www.sussi.dk/terry-pratchetts-study",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-11-07T16:05:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50403507",
-    "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-    "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-    "source": "hackernews",
-    "score": 95.0,
-    "published_at": "2026-11-07T11:11:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50405678",
-    "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
-    "url": "https://kevinboone.me/tpwin.html",
-    "source": "hackernews",
-    "score": 132.0,
-    "published_at": "2026-11-07T16:06:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50405263",
-    "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-    "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-11-07T15:16:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50361657",
-    "title": "Text.js: Build full-stack React apps that render inside console.log",
-    "url": "https://textjs.org/",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-11-04T04:59:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50405782",
-    "title": "Every processor die anyone has photographed and given away",
-    "url": "https://sheets.works/data-viz/cpu-dies",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-11-07T16:21:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50370787",
-    "title": "The Typo Generation Is Damaging Literature",
-    "url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-11-04T20:05:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50405789",
-    "title": "How Long Can Life Wait?",
-    "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-    "source": "hackernews",
-    "score": 78.0,
-    "published_at": "2026-11-07T16:22:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50406319",
-    "title": "Five memorable books about programming (2008)",
-    "url": "https://prog21.dadgum.com/19.html",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-11-07T17:30:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50406222",
-    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-    "source": "hackernews",
-    "score": 85.0,
-    "published_at": "2026-11-07T17:19:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50406292",
-    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "url": "https://github.com/hedgerow-dev/coldframe",
-    "source": "hackernews",
-    "score": 105.0,
-    "published_at": "2026-11-07T17:27:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50406111",
-    "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-    "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-    "source": "hackernews",
-    "score": 126.0,
-    "published_at": "2026-11-07T17:06:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50406670",
-    "title": "What I run on my $10 USD OpenStick homelab",
-    "url": "https://blog.bosscher.ch/posts/openstick/",
-    "source": "hackernews",
-    "score": 95.0,
-    "published_at": "2026-11-07T18:12:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50406563",
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "url": "https://hunch.net/?p=13764006",
-    "source": "hackernews",
-    "score": 151.0,
-    "published_at": "2026-11-07T18:02:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7dbarm",
-    "title": "Alpine Linux : openssh-server password authentication bypass",
-    "url": "https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-    "source": "lobsters",
-    "score": 0.0,
-    "published_at": "2026-11-07T08:51:26.859-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:y8i714",
-    "title": "Just how far can the FOR UPDATE SKIP LOCKED Postgres queue go?",
-    "url": "https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-07T09:20:23.952-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:j63dme",
-    "title": "Meridian — an experimental web browser built on Servo and GPUI",
-    "url": "https://op.tngl.io/meridian/",
-    "source": "lobsters",
-    "score": 22.0,
-    "published_at": "2026-11-07T03:21:55.256-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ipplhe",
-    "title": "How are you dealing with all the negative side effects of AI on the web?",
-    "url": "https://lobste.rs/s/ipplhe",
-    "source": "lobsters",
-    "score": 28.0,
-    "published_at": "2026-11-07T03:47:24.713-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255251",
-    "title": "请问大佬们买 Macbook 各种系列 24GB 以上的都是什么需求",
-    "url": "https://www.v2ex.com/t/1255251",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-11-07T12:29:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255146",
-    "title": "智友社回馈 V 站新老客户，抽送第 13 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 3",
-    "url": "https://www.v2ex.com/t/1255146",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-11-07T02:56:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704589926880411684",
-    "title": "一个人就是一支工程队：AI 时代超级个体的 90 天变现 SOP",
-    "url": "https://juejin.cn/post/7704589926880411684",
-    "source": "juejin",
-    "score": 0.12376641,
-    "published_at": "2026-11-05T16:48:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704864028610773027",
-    "title": "LobeHub 是真的夯，简直 Super-Agent 最佳实现。",
-    "url": "https://juejin.cn/post/7704864028610773027",
-    "source": "juejin",
-    "score": 0.36653404,
-    "published_at": "2026-11-06T09:01:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704280022040248371",
-    "title": "下载量超 30 万的开源智能体 Prime Agent：它把自己从 TypeScript 重写成了 Rust",
-    "url": "https://juejin.cn/post/7704280022040248371",
-    "source": "juejin",
-    "score": 0.15891326,
-    "published_at": "2026-11-05T02:11:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704993320619950120",
-    "title": "HarmonyOS ArkUI List 的侧滑删除 用 ListItem 的 swipeAction + endIcon 的做法",
-    "url": "https://juejin.cn/post/7704993320619950120",
-    "source": "juejin",
-    "score": 10.78752316,
-    "published_at": "2026-11-07T10:08:17+00:00",
     "summary": "",
     "key_points": []
   }
