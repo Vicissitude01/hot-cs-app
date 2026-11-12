@@ -1,5 +1,375 @@
 [
   {
+    "id": "lobsters:pbc1ke",
+    "title": "Dyalog Version 21.0",
+    "url": "https://dyalog.com/dyalog/dyalog-versions/210.htm",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-12T13:13:49.174-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ubbxhd",
+    "title": "The Secret of Monkey Island: all 13 versions side by side",
+    "url": "https://monkeyisland.pages.dev/",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-11-12T08:37:35.465-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gejy85",
+    "title": "Adapting CPython for yk",
+    "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-11-12T06:29:56.716-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:yrpo2q",
+    "title": "Paths in pieces",
+    "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-11-12T08:49:26.033-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pty8pn",
+    "title": "The anti-marketing aspect of the Gemini network",
+    "url": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-11-12T10:17:25.103-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:7c4iar",
+    "title": "libreagi - save OS models",
+    "url": "https://libreagi.com/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-12T09:35:46.353-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:81hnjw",
+    "title": "Announcing Rust 1.100.0",
+    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "source": "lobsters",
+    "score": 21.0,
+    "published_at": "2026-11-12T12:43:41.418-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ooshl8",
+    "title": "The entirety of \"Let Over Lambda\" is now freely available online",
+    "url": "https://letoverlambda.com/",
+    "source": "lobsters",
+    "score": 37.0,
+    "published_at": "2026-11-12T06:44:34.403-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8kmjot",
+    "title": "Humble Bundle just completely killed most of their security through vibecoding",
+    "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+    "source": "lobsters",
+    "score": 47.0,
+    "published_at": "2026-11-12T09:13:35.291-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256509",
+    "title": "济南初级程序员几个月没招不到人，不是说行情不好，都不好找工作吗？",
+    "url": "https://www.v2ex.com/t/1256509",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-11-12T08:02:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706740769264566322",
+    "title": "如何看待 Fable 5.2 用纯代码生成 1.4MB 视觉作品：光追、水面、倒影、火光的程序化生成原理",
+    "url": "https://juejin.cn/post/7706740769264566322",
+    "source": "juejin",
+    "score": 0.39647868,
+    "published_at": "2026-11-11T09:45:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50467305",
+    "title": "Electric ship batteries promise compact, cooler power",
+    "url": "https://spectrum.ieee.org/electric-ship-batteries",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-11-12T14:06:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50468720",
+    "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+    "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+    "source": "hackernews",
+    "score": 62.0,
+    "published_at": "2026-11-12T15:14:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50471621",
+    "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+    "source": "hackernews",
+    "score": 71.0,
+    "published_at": "2026-11-12T18:14:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50473190",
+    "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+    "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-11-12T19:51:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50467297",
+    "title": "Our software engineering interviews are changing a little",
+    "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+    "source": "hackernews",
+    "score": 120.0,
+    "published_at": "2026-11-12T14:05:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50470445",
+    "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+    "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-11-12T16:59:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50467439",
+    "title": "Libreagi – Save OSS Models",
+    "url": "https://libreagi.com/",
+    "source": "hackernews",
+    "score": 92.0,
+    "published_at": "2026-11-12T14:11:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50469994",
+    "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+    "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+    "source": "hackernews",
+    "score": 181.0,
+    "published_at": "2026-11-12T16:29:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50473231",
+    "title": "Data centers need power – lower income, rural residents pay the price",
+    "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-11-12T19:53:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50468944",
+    "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+    "url": "https://github.com/chocoford/ExcalidrawZ",
+    "source": "hackernews",
+    "score": 78.0,
+    "published_at": "2026-11-12T15:25:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50471650",
+    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-11-12T18:15:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50459508",
+    "title": "Words of warning about radiocarbon dating medieval human bones",
+    "url": "https://www.nature.com/articles/s40494-026-02958-x",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-11T22:18:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50458849",
+    "title": "Relax: JIT compiler for Rust to reduce build times",
+    "url": "https://makepad.github.io/relax/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-11-11T21:20:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50471281",
+    "title": "Show HN: Kapso – Iterative learning from enterprise data",
+    "url": "https://news.ycombinator.com/item?id=50471281",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-11-12T17:51:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50467460",
+    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "source": "hackernews",
+    "score": 145.0,
+    "published_at": "2026-11-12T14:12:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50471668",
+    "title": "Ask HN: Microsoft/Azure Outage?",
+    "url": "https://news.ycombinator.com/item?id=50471668",
+    "source": "hackernews",
+    "score": 265.0,
+    "published_at": "2026-11-12T18:17:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50471761",
+    "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+    "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-11-12T18:22:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50468888",
+    "title": "I'm making LLMs work on small and old devices",
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "source": "hackernews",
+    "score": 176.0,
+    "published_at": "2026-11-12T15:23:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50471431",
+    "title": "Gemini 4 Hydrogen",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "source": "hackernews",
+    "score": 311.0,
+    "published_at": "2026-11-12T18:01:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50467618",
+    "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+    "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+    "source": "hackernews",
+    "score": 198.0,
+    "published_at": "2026-11-12T14:18:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50471731",
+    "title": "Outlook is down, and so is Microsoft's status page",
+    "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+    "source": "hackernews",
+    "score": 213.0,
+    "published_at": "2026-11-12T18:20:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50470488",
+    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "url": "https://github.com/simpsoka/zigzag",
+    "source": "hackernews",
+    "score": 107.0,
+    "published_at": "2026-11-12T17:02:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50472260",
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-11-12T18:52:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50472490",
+    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "source": "hackernews",
+    "score": 56.0,
+    "published_at": "2026-11-12T19:05:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50471793",
+    "title": "Rust 1.100.0",
+    "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+    "source": "hackernews",
+    "score": 292.0,
+    "published_at": "2026-11-12T18:24:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50467087",
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "source": "hackernews",
+    "score": 2186.0,
+    "published_at": "2026-11-12T13:52:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:3gw2f4",
     "title": "Hello Baochip",
     "url": "https://ratfactor.com/cards/hello-baochip",
@@ -4626,376 +4996,6 @@
     "source": "v2ex",
     "score": 42.0,
     "published_at": "2026-11-07T07:14:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255285",
-    "title": "这大环境看来是很差了",
-    "url": "https://www.v2ex.com/t/1255285",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-11-07T18:19:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255305",
-    "title": "现在还有必要花大量时间学习编程吗？",
-    "url": "https://www.v2ex.com/t/1255305",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-11-08T02:56:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255253",
-    "title": "在 agent 时代，深度还是广度更重要？",
-    "url": "https://www.v2ex.com/t/1255253",
-    "source": "v2ex",
-    "score": 56.0,
-    "published_at": "2026-11-07T12:30:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255299",
-    "title": "[趁周末人少，回复就送永久激活码]Mac 专属应用 TouchX，自定义触控板动作",
-    "url": "https://www.v2ex.com/t/1255299",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-11-08T02:05:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7705291560008531977",
-    "title": "Codex中必装的11个Skills",
-    "url": "https://juejin.cn/post/7705291560008531977",
-    "source": "juejin",
-    "score": 0.52699107,
-    "published_at": "2026-11-07T08:51:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704562619550941226",
-    "title": "TanStarter，从搭建到支付，一步到位开始赚美元",
-    "url": "https://juejin.cn/post/7704562619550941226",
-    "source": "juejin",
-    "score": 0.15472595,
-    "published_at": "2026-11-06T01:09:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704923158558621750",
-    "title": "实测 agent-desktop：AI 控制桌面不截图、不占鼠标键盘，连点 55 次计算器 0 失误",
-    "url": "https://juejin.cn/post/7704923158558621750",
-    "source": "juejin",
-    "score": 0.21019057,
-    "published_at": "2026-11-06T11:26:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704562619551072298",
-    "title": "公交App上“还有2站，约5分钟”怎么实现？90%的人答错这道大厂面试题：GPS漂移、ETA不准、10万QPS热点读全拆透（附完整代码）",
-    "url": "https://juejin.cn/post/7704562619551072298",
-    "source": "juejin",
-    "score": 0.13454088,
-    "published_at": "2026-11-06T01:16:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704594117820596260",
-    "title": "没有写一行代码：我用 Codex 制作 了一个 3D 智慧展厅可视化大屏",
-    "url": "https://juejin.cn/post/7704594117820596260",
-    "source": "juejin",
-    "score": 0.10669926,
-    "published_at": "2026-11-06T00:38:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704594117821693988",
-    "title": "Flutter 双端热更新新方案：基于 Dart 官方动态模块的 flutter_patcher 1.0.0",
-    "url": "https://juejin.cn/post/7704594117821693988",
-    "source": "juejin",
-    "score": 0.20041666,
-    "published_at": "2026-11-06T02:18:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704580987242872847",
-    "title": "Flutter Impeller Vulkan 内存持续上涨，问题没想到是文字阴影",
-    "url": "https://juejin.cn/post/7704580987242872847",
-    "source": "juejin",
-    "score": 0.19383932,
-    "published_at": "2026-11-06T00:43:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704345935706652713",
-    "title": " 后端转 AI 应用开发，我先把这 12 个名词理清了：一张图看懂架构、RAG、Tool Calling 与 MCP",
-    "url": "https://juejin.cn/post/7704345935706652713",
-    "source": "juejin",
-    "score": 0.10290953,
-    "published_at": "2026-11-05T03:44:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50408082",
-    "title": "Show HN: Where Were We",
-    "url": "https://wherewerewe.app/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-11-07T21:08:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50373980",
-    "title": "Here Be Monsters",
-    "url": "https://www.nybooks.com/online/2026/10/30/here-be-monsters/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-11-05T01:40:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50361212",
-    "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
-    "url": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-11-04T03:30:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50410253",
-    "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
-    "url": "https://github.com/AmSach/maple",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-11-08T03:48:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50408961",
-    "title": "Commodore PET – The Worlds First Personal Computer",
-    "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-11-07T23:15:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50409856",
-    "title": "Consumer brain wave headsets threaten privacy",
-    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-11-08T02:02:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50351954",
-    "title": "Amsterdam School",
-    "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-11-03T13:50:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50410279",
-    "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
-    "url": "https://github.com/waywardgeek/ensemble",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-11-08T03:51:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50409855",
-    "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-    "url": "https://github.com/crmne/zapfast",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-11-08T02:02:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50410359",
-    "title": "Kirlian Photography: Building Your Own Equipment",
-    "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-11-08T04:14:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50410107",
-    "title": "Goodbye Claude, Hello Pi",
-    "url": "https://caleb.software/posts/claude-to-pi.html",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-11-08T03:11:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lhovnm",
-    "title": "Dear Open Source Developers: It's OK not to embargo",
-    "url": "https://opensourcesecurity.io/2026/10-embargo/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-07T17:31:05.716-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ngkqj1",
-    "title": "CHIMERA simulates organic sound with acoustic tubes",
-    "url": "https://chimera-vocal-synth.vercel.app/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-07T14:49:41.566-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nft1s2",
-    "title": "Workflow dependency lockfiles",
-    "url": "https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-07T14:27:05.147-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:sh62d1",
-    "title": "I’m not a fan of Deno’s security model (2024)",
-    "url": "https://goldstein.lol/posts/deno-security/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-07T17:19:53.437-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:owsnms",
-    "title": "*sshole, or when are we finally going to get rid of C?",
-    "url": "https://sunshowers.io/posts/sshole/",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-11-07T15:05:35.812-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50408129",
-    "title": "MeccanicOS",
-    "url": "https://meccanicos.com/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-11-07T21:13:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50408350",
-    "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-    "url": "https://eyesrhythm.com/",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-11-07T21:47:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50408104",
-    "title": "Shadow of the Sun (2021)",
-    "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-11-07T21:11:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50406502",
-    "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-    "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-11-07T17:54:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50408750",
-    "title": "IRA Velinsky – Commodore's Industrial Designer",
-    "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-11-07T22:45:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50358337",
-    "title": "Turning Every Radio into a Radar",
-    "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-11-03T21:18:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50405172",
-    "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-    "url": "https://www.retrosongbird.com/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-11-07T15:06:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50377661",
-    "title": "Uranium cubes reveal why the German nuclear project failed",
-    "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-11-05T10:52:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50408931",
-    "title": "GitHub New pull request overview page in public preview",
-    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-11-07T23:09:40+00:00",
     "summary": "",
     "key_points": []
   }
