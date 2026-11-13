@@ -1,5 +1,255 @@
 [
   {
+    "id": "lobsters:rnmylu",
+    "title": "e-means: 10x faster k-means at equal loss",
+    "url": "https://e-means.github.io/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-13T02:37:31.574-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:x5uq91",
+    "title": "SSA from bytecode: imperative pearl",
+    "url": "https://bernsteinbear.com/blog/ssa-bytecode/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-13T00:20:05.560-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9qf0xv",
+    "title": "Steadfast Update I - The Baseline",
+    "url": "https://noteflakes.com/articles/2026-11-13-steadfast-update-1",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-11-13T01:31:32.276-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:f6u0cg",
+    "title": "Contra \"Glue work considered harmful\"",
+    "url": "https://sunshowers.io/posts/glue-work/",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-11-12T20:36:05.139-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256701",
+    "title": "微软是不是裁到大动脉了， Outlook 故障好几个小时了，美国客户会议都开不起来了",
+    "url": "https://www.v2ex.com/t/1256701",
+    "source": "v2ex",
+    "score": 118.0,
+    "published_at": "2026-11-13T02:05:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256725",
+    "title": "同事老婆昨天被诈骗了 2W+，分享下骗局",
+    "url": "https://www.v2ex.com/t/1256725",
+    "source": "v2ex",
+    "score": 148.0,
+    "published_at": "2026-11-13T02:55:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256663",
+    "title": "速薅！ Muse 免费 TG 机器人领取 30 亿 token～",
+    "url": "https://www.v2ex.com/t/1256663",
+    "source": "v2ex",
+    "score": 152.0,
+    "published_at": "2026-11-13T00:25:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256673",
+    "title": "得罪了老婆，做了个小程序",
+    "url": "https://www.v2ex.com/t/1256673",
+    "source": "v2ex",
+    "score": 176.0,
+    "published_at": "2026-11-13T01:00:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256551",
+    "title": "本月起正式停止续费 codex 了",
+    "url": "https://www.v2ex.com/t/1256551",
+    "source": "v2ex",
+    "score": 178.0,
+    "published_at": "2026-11-12T10:09:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256717",
+    "title": "九宫格输入法，感觉在一步步衰落。。",
+    "url": "https://www.v2ex.com/t/1256717",
+    "source": "v2ex",
+    "score": 184.0,
+    "published_at": "2026-11-13T02:31:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256699",
+    "title": "周五了，大家周末有什么安排",
+    "url": "https://www.v2ex.com/t/1256699",
+    "source": "v2ex",
+    "score": 236.0,
+    "published_at": "2026-11-13T01:59:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256671",
+    "title": "能否探讨一下皮衣黄离职，对英伟达的影响和对 AI 行业的影响？",
+    "url": "https://www.v2ex.com/t/1256671",
+    "source": "v2ex",
+    "score": 356.0,
+    "published_at": "2026-11-13T00:54:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707194766860025907",
+    "title": "黄仁勋辞去英伟达 CEO，结束 33 年掌舵生涯",
+    "url": "https://juejin.cn/post/7707194766860025907",
+    "source": "juejin",
+    "score": 1.87987102,
+    "published_at": "2026-11-12T16:29:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706833656825004058",
+    "title": "4 个 3D 游戏，总体积 3.82MB：拆解 Claude 的 one-shot 工程链路",
+    "url": "https://juejin.cn/post/7706833656825004058",
+    "source": "juejin",
+    "score": 0.45375636,
+    "published_at": "2026-11-12T01:43:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707100499275546666",
+    "title": "前端真有意思，JS还能独立做项目？",
+    "url": "https://juejin.cn/post/7707100499275546666",
+    "source": "juejin",
+    "score": 0.69416447,
+    "published_at": "2026-11-12T08:56:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707101130299539496",
+    "title": "别再抬杠，前端岗已经没了！无论前后端，我们最终都要成“全干”工程师",
+    "url": "https://juejin.cn/post/7707101130299539496",
+    "source": "juejin",
+    "score": 0.98422462,
+    "published_at": "2026-11-12T09:10:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50478635",
+    "title": "Scientists claim the universe is twice as old as believed",
+    "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-11-13T05:13:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50474586",
+    "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+    "url": "https://github.com/KoljaB/RealtimeVAD",
+    "source": "hackernews",
+    "score": 22.0,
+    "published_at": "2026-11-12T21:30:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50460263",
+    "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+    "url": "https://github.com/jjba23/sift",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-11-11T23:09:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50479098",
+    "title": "Global Microsoft Outage",
+    "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-11-13T06:18:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50477231",
+    "title": "Nvidia employees petition to bring back Jensen Huang",
+    "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+    "source": "hackernews",
+    "score": 535.0,
+    "published_at": "2026-11-13T02:16:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50478609",
+    "title": "Microsoft Outlook/365 still down after 12 hours",
+    "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+    "source": "hackernews",
+    "score": 120.0,
+    "published_at": "2026-11-13T05:08:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50477714",
+    "title": "Switcher (2004)",
+    "url": "https://folklore.org/Switcher.html",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-11-13T03:14:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50477649",
+    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+    "url": "https://brave.com/blog/search-api-agentic-payments/",
+    "source": "hackernews",
+    "score": 80.0,
+    "published_at": "2026-11-13T03:08:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50478515",
+    "title": "IceWM",
+    "url": "https://ice-wm.org/",
+    "source": "hackernews",
+    "score": 131.0,
+    "published_at": "2026-11-13T04:54:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:a3elxr",
     "title": "JIT bitmap text rendering for microcontrollers",
     "url": "https://linebender.org/blog/jit-bitmap-text/",
@@ -4746,256 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50415281",
-    "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-    "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-11-08T17:32:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50413822",
-    "title": "OpenAI raises $11B at a $1.25T valuation",
-    "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-    "source": "hackernews",
-    "score": 154.0,
-    "published_at": "2026-11-08T14:49:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50370793",
-    "title": "Nyquist Limit:The frequency of changes in tech is invalidating our understanding",
-    "url": "https://www.ryanprior.com/posts/nyquist-limit-frequency-of-changes-in-tech-invalidates-understanding/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-11-04T20:07:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50412830",
-    "title": "How to prove equations using diagrams, part 1",
-    "url": "https://www.epatters.org/post/e-graphs-1/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-11-08T12:51:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50362963",
-    "title": "Show HN: Vegetable Gardening for Engineers",
-    "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-11-04T08:54:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50413769",
-    "title": "I'm not a fan of Deno's security model (2024)",
-    "url": "https://goldstein.lol/posts/deno-security/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-11-08T14:42:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50412067",
-    "title": "Writing as a thinking tool",
-    "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-    "source": "hackernews",
-    "score": 141.0,
-    "published_at": "2026-11-08T10:41:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50389923",
-    "title": "The Reconstruction of Torn Documents",
-    "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-11-06T09:05:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50415078",
-    "title": "A field guide to CAPTCHA types and how they break",
-    "url": "https://github.com/vsmutok/FuckCaptcha",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-11-08T17:09:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:d8dgav",
-    "title": "PHP2Shell — Deep Dive",
-    "url": "https://djad04.github.io/php2shell-deep-dive/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-07T23:51:54.004-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:62loik",
-    "title": "systemd loves Rust",
-    "url": "https://amutable.com/blog/systemd-loves-rust",
-    "source": "lobsters",
-    "score": 0.0,
-    "published_at": "2026-11-08T06:55:05.530-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:f1nsnm",
-    "title": "Hacking the T-Mobile Sidekick, 20 Years Too Late",
-    "url": "https://x86.cx/blog/redanger",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-08T02:10:08.714-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jnz4v5",
-    "title": "A bit about email",
-    "url": "https://maurycyz.com/misc/email/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-08T06:53:34.868-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rv1icj",
-    "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-    "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-08T06:07:39.271-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:5cavvx",
-    "title": "Introducing Project Steadfast",
-    "url": "https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-08T03:09:24.240-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lh0qbr",
-    "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
-    "url": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-11-08T02:41:38.183-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255296",
-    "title": "FinalShell 开源了？类 FinalShell 的 SSH 客户端 —— FinallyShell",
-    "url": "https://www.v2ex.com/t/1255296",
-    "source": "v2ex",
-    "score": 42.0,
-    "published_at": "2026-11-08T01:52:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255350",
-    "title": "突然想起来, 微软居然没拿出一个能用得模型?",
-    "url": "https://www.v2ex.com/t/1255350",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-11-08T07:45:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255317",
-    "title": "写了个开源工具：手机照片视频无损搬到电脑，局域网直传， PC 不装任何客户端",
-    "url": "https://www.v2ex.com/t/1255317",
-    "source": "v2ex",
-    "score": 46.0,
-    "published_at": "2026-11-08T03:53:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255314",
-    "title": "40 岁老登，最近看一部 AI 漫剧上头",
-    "url": "https://www.v2ex.com/t/1255314",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-11-08T03:44:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255269",
-    "title": "现在农村还有住草房窝棚的吗？",
-    "url": "https://www.v2ex.com/t/1255269",
-    "source": "v2ex",
-    "score": 52.0,
-    "published_at": "2026-11-07T14:35:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255303",
-    "title": "倒霉呀，买官翻扫地机器人翻车了",
-    "url": "https://www.v2ex.com/t/1255303",
-    "source": "v2ex",
-    "score": 58.0,
-    "published_at": "2026-11-08T02:36:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255327",
-    "title": "卖软件这个事情在未来可能是伪命题了",
-    "url": "https://www.v2ex.com/t/1255327",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-11-08T05:19:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704947965462315035",
-    "title": "12 种高级 UI 交互效果及对应 AI 提示词：从按压回弹到底部抽屉的物理感教学",
-    "url": "https://juejin.cn/post/7704947965462315035",
-    "source": "juejin",
-    "score": 0.13060041,
-    "published_at": "2026-11-06T13:18:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7704948592171991091",
-    "title": "Rolldown 把插件改动回传提速 26 倍",
-    "url": "https://juejin.cn/post/7704948592171991091",
-    "source": "juejin",
-    "score": 0.20834466,
-    "published_at": "2026-11-06T22:14:56+00:00",
     "summary": "",
     "key_points": []
   }
