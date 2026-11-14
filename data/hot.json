@@ -1,5 +1,315 @@
 [
   {
+    "id": "lobsters:kh9fri",
+    "title": "Writing a DSL for high performance parallel programming in OxCaml",
+    "url": "https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-13T20:57:49.133-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rpd05t",
+    "title": "Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A",
+    "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-13T14:26:34.891-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:u2h9as",
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-13T22:49:47.565-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:j4sj0c",
+    "title": "When is a class a “commodity” and when does it depend on the instructor?",
+    "url": "https://statmodeling.stat.columbia.edu/2026/11/13/when-is-a-class-a-commodity-and-when-does-it-depend-on-the-instructor/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-14T03:57:57.014-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ebahfz",
+    "title": "goliath32.com - Creating a self booting ZIP archive",
+    "url": "https://goliath32.com/blog/ziphead.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-14T04:01:58.119-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:0aungk",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-13T22:51:14.032-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pgmw6b",
+    "title": "What happened to 3com?",
+    "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-13T23:46:40.915-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256941",
+    "title": "转战 Gemini 了， antigravity 里面还是可以用 opus5.5 的",
+    "url": "https://www.v2ex.com/t/1256941",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-11-13T13:19:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257002",
+    "title": "换了个新 macbook air m5 有没有推荐的软件安装",
+    "url": "https://www.v2ex.com/t/1257002",
+    "source": "v2ex",
+    "score": 38.0,
+    "published_at": "2026-11-14T02:07:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256942",
+    "title": "目睹被威胁离职...",
+    "url": "https://www.v2ex.com/t/1256942",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-11-13T13:22:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257008",
+    "title": "睡前安排了一整晚的 agent 全自动任务，一觉醒来被 Windows 自动更新重启杀了",
+    "url": "https://www.v2ex.com/t/1257008",
+    "source": "v2ex",
+    "score": 42.0,
+    "published_at": "2026-11-14T03:02:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257001",
+    "title": "国模真的还可以的",
+    "url": "https://www.v2ex.com/t/1257001",
+    "source": "v2ex",
+    "score": 48.0,
+    "published_at": "2026-11-14T02:05:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256998",
+    "title": "GPT 官 Key 免费用。蹬完即止",
+    "url": "https://www.v2ex.com/t/1256998",
+    "source": "v2ex",
+    "score": 58.0,
+    "published_at": "2026-11-14T01:54:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256916",
+    "title": "有面过阿里外包的吗，因为我没有提前下载钉钉，面试官觉得我态度不行，所以面试被取消了？",
+    "url": "https://www.v2ex.com/t/1256916",
+    "source": "v2ex",
+    "score": 64.0,
+    "published_at": "2026-11-13T10:23:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1256985",
+    "title": "有小孩了,想每年给小孩存一点钱,大家推荐什么",
+    "url": "https://www.v2ex.com/t/1256985",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-11-14T00:04:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706806274098528296",
+    "title": "Claude Fable 5.2 发布后，开发者该关注什么",
+    "url": "https://juejin.cn/post/7706806274098528296",
+    "source": "juejin",
+    "score": 0.16242079,
+    "published_at": "2026-11-12T02:07:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707235507143491624",
+    "title": "太牛了！这AI做出来的游戏，居然还能变现！",
+    "url": "https://juejin.cn/post/7707235507143491624",
+    "source": "juejin",
+    "score": 0.40743051,
+    "published_at": "2026-11-13T07:25:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706396464942972954",
+    "title": "掘金用量重要更新来了!全新本地 AI 网关正式上线：一站式掌控你的模型、用量与工具!TRAE用量支持",
+    "url": "https://juejin.cn/post/7706396464942972954",
+    "source": "juejin",
+    "score": 0.40450713,
+    "published_at": "2026-11-12T07:39:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706833656825184282",
+    "title": "AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程",
+    "url": "https://juejin.cn/post/7706833656825184282",
+    "source": "juejin",
+    "score": 0.11978203,
+    "published_at": "2026-11-12T01:56:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7706865424746758198",
+    "title": "不会后期的我，发现了一个开源胶片神器😍😍😍",
+    "url": "https://juejin.cn/post/7706865424746758198",
+    "source": "juejin",
+    "score": 0.21382132,
+    "published_at": "2026-11-12T03:33:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707204560720642089",
+    "title": "AI 热点日报（2026-11-13）：黄仁勋辞任英伟达CEO，百度发智能组织，SpaceX斥740亿建算力",
+    "url": "https://juejin.cn/post/7707204560720642089",
+    "source": "juejin",
+    "score": 0.26758664,
+    "published_at": "2026-11-13T01:12:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707205288390803466",
+    "title": "被1.4 MB的射击游戏震撼后，我认真拆了一遍Fable的实现",
+    "url": "https://juejin.cn/post/7707205288390803466",
+    "source": "juejin",
+    "score": 0.46656425,
+    "published_at": "2026-11-13T00:46:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50492950",
+    "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+    "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+    "source": "hackernews",
+    "score": 101.0,
+    "published_at": "2026-11-14T02:15:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50494696",
+    "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+    "url": "https://news.ycombinator.com/item?id=50494696",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-14T06:56:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50462975",
+    "title": "The Other Nefertiti (2015)",
+    "url": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
+    "source": "hackernews",
+    "score": 19.0,
+    "published_at": "2026-11-12T04:08:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50444761",
+    "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+    "url": "https://github.com/0xdeadf1sh/T1DMAI",
+    "source": "hackernews",
+    "score": 34.0,
+    "published_at": "2026-11-10T19:07:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50448432",
+    "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+    "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-11-11T00:48:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50493251",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "source": "hackernews",
+    "score": 568.0,
+    "published_at": "2026-11-14T02:52:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50493904",
+    "title": "Monkey Island: all 13 versions side by side",
+    "url": "https://monkeyisland.pages.dev/",
+    "source": "hackernews",
+    "score": 105.0,
+    "published_at": "2026-11-14T04:23:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50493062",
+    "title": "Ggml v1.0.0",
+    "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+    "source": "hackernews",
+    "score": 263.0,
+    "published_at": "2026-11-14T02:28:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50440709",
+    "title": "Why get an expensive Pi when I have an old phone?",
+    "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-11-10T14:16:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "v2ex:1256737",
     "title": "突然梦到初中同桌，想起了很多年前的事",
     "url": "https://www.v2ex.com/t/1256737",
@@ -4686,316 +4996,6 @@
     "source": "lobsters",
     "score": 13.0,
     "published_at": "2026-11-09T05:48:55.327-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vghqe8",
-    "title": "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
-    "url": "https://terminal2shell.com/",
-    "source": "lobsters",
-    "score": 38.0,
-    "published_at": "2026-11-09T09:41:50.359-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qi2lni",
-    "title": "A C++ Quicksort Faster Than std::sort",
-    "url": "https://tiki.li/blog/about_blqsort",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-11-09T06:55:38.018-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:jxigk6",
-    "title": "Let’s Talk About Why all This OT Stuff is Connected",
-    "url": "https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/",
-    "source": "lobsters",
-    "score": 19.0,
-    "published_at": "2026-11-09T06:22:39.664-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:txkq8s",
-    "title": "Horrible public key tricks",
-    "url": "https://maurycyz.com/projects/badcert/",
-    "source": "lobsters",
-    "score": 55.0,
-    "published_at": "2026-11-09T06:55:11.209-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255534",
-    "title": "初级古法前端说：前端比后端难多了。我这个后端老登沉默了",
-    "url": "https://www.v2ex.com/t/1255534",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-11-09T04:36:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1255556",
-    "title": "[送会员] 为了学好 英语 和 日语，我做了这个...",
-    "url": "https://www.v2ex.com/t/1255556",
-    "source": "v2ex",
-    "score": 146.0,
-    "published_at": "2026-11-09T06:08:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7705911807923322943",
-    "title": "workbuddy接管我的浏览器，帮我干活了",
-    "url": "https://juejin.cn/post/7705911807923322943",
-    "source": "juejin",
-    "score": 0.31284537,
-    "published_at": "2026-11-09T00:01:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7705419801828573234",
-    "title": "被杀掉之后：我把 Android 的「唤起 + 常驻」重做了一遍",
-    "url": "https://juejin.cn/post/7705419801828573234",
-    "source": "juejin",
-    "score": 0.1273514,
-    "published_at": "2026-11-07T13:26:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7705442274540290111",
-    "title": "换个思路理解：非阻塞挂起",
-    "url": "https://juejin.cn/post/7705442274540290111",
-    "source": "juejin",
-    "score": 0.15287436,
-    "published_at": "2026-11-08T07:56:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7705724434535661609",
-    "title": "栗子前端技术周刊第 153 期 - Vitest 5.1、Remix v3.2、Node.js 27 Alpha...",
-    "url": "https://juejin.cn/post/7705724434535661609",
-    "source": "juejin",
-    "score": 0.32995786,
-    "published_at": "2026-11-09T00:45:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7706036898079473683",
-    "title": "AI 到底能不能独立做个产品？我拿一个小程序验证了",
-    "url": "https://juejin.cn/post/7706036898079473683",
-    "source": "juejin",
-    "score": 0.49712723,
-    "published_at": "2026-11-09T06:02:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7705071459534438454",
-    "title": "把五个网页版 AI 拉进同一个群聊：不用 API key 的多 Agent 编排",
-    "url": "https://juejin.cn/post/7705071459534438454",
-    "source": "juejin",
-    "score": 0.14177526,
-    "published_at": "2026-11-07T06:36:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7705330413946093583",
-    "title": "Lomo Agent：面向创作型、持续协作 Agent 的架构设计与工程实践",
-    "url": "https://juejin.cn/post/7705330413946093583",
-    "source": "juejin",
-    "score": 0.32857872,
-    "published_at": "2026-11-08T05:46:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7705976844432457766",
-    "title": "由 key 引发的思考",
-    "url": "https://juejin.cn/post/7705976844432457766",
-    "source": "juejin",
-    "score": 0.80307447,
-    "published_at": "2026-11-09T06:29:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:homeassistant-ai/ha-mcp",
-    "title": "ha-mcp",
-    "url": "https://github.com/homeassistant-ai/ha-mcp",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ZhuLinsen/daily_stock_analysis",
-    "title": "daily_stock_analysis",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ruvnet/RuView",
-    "title": "RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:garrytan/gbrain",
-    "title": "gbrain",
-    "url": "https://github.com/garrytan/gbrain",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50424366",
-    "title": "Try Gleam",
-    "url": "https://nchagnet.eu/blog/you-should-try-gleam",
-    "source": "hackernews",
-    "score": 96.0,
-    "published_at": "2026-11-09T11:55:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50429426",
-    "title": "Google Gemini routes personal Drive files and emails to human annotators",
-    "url": "https://github.com/thisisme6598/gemini_files/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-11-09T18:24:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50426899",
-    "title": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"",
-    "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
-    "source": "hackernews",
-    "score": 141.0,
-    "published_at": "2026-11-09T15:23:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50428724",
-    "title": "Going back two years on Hacker News is like entering another, better universe",
-    "url": "https://news.ycombinator.com/front?day=2024-11-08",
-    "source": "hackernews",
-    "score": 220.0,
-    "published_at": "2026-11-09T17:36:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50426207",
-    "title": "Zebkit – Chromium as an embeddable library",
-    "url": "https://github.com/ikey4u/zebkit",
-    "source": "hackernews",
-    "score": 100.0,
-    "published_at": "2026-11-09T14:34:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50426831",
-    "title": "Pigshell: Unix the Web",
-    "url": "http://pigshell.com/v/0.6.4/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-11-09T15:18:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50430585",
-    "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
-    "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
-    "source": "hackernews",
-    "score": 32.0,
-    "published_at": "2026-11-09T19:33:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50413970",
-    "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
-    "url": "https://github.com/sshah03/recalc",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-11-08T15:12:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50431144",
-    "title": "November 2026 Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-11-09T20:04:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50429475",
-    "title": "Too many men suffering in silence, national health report finds (Canada)",
-    "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
-    "source": "hackernews",
-    "score": 274.0,
-    "published_at": "2026-11-09T18:27:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50428801",
-    "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-    "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-    "source": "hackernews",
-    "score": 193.0,
-    "published_at": "2026-11-09T17:42:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50424157",
-    "title": "What is malloc doing, anyway?",
-    "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-    "source": "hackernews",
-    "score": 180.0,
-    "published_at": "2026-11-09T11:31:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50427934",
-    "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
-    "url": "https://news.ycombinator.com/item?id=50427934",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-11-09T16:36:38+00:00",
     "summary": "",
     "key_points": []
   }
