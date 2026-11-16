@@ -1,5 +1,355 @@
 [
   {
+    "id": "lobsters:7kt4yi",
+    "title": "Nix: Using the eval-profiler",
+    "url": "https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-15T19:28:22.349-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:x0ykkw",
+    "title": "Universal XSS in uBlock Origin from website-driven element picker",
+    "url": "https://iter.ca/post/ubo-uxss/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-15T23:12:27.923-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ydzo2o",
+    "title": "Announcing Hegel-clj",
+    "url": "https://aphyr.com/posts/428-announcing-hegel-clj",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-15T22:12:25.212-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rhoopo",
+    "title": "Migrating from GitHub to Codeberg",
+    "url": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-15T23:10:34.395-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:thiekk",
+    "title": "Paint in the memory of other programs",
+    "url": "https://citrons.xyz/journal/2026-04-13",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-11-15T21:37:36.159-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257359",
+    "title": "让你见识下 8 年 IOS 的实力",
+    "url": "https://www.v2ex.com/t/1257359",
+    "source": "v2ex",
+    "score": 94.0,
+    "published_at": "2026-11-16T03:07:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257291",
+    "title": "微软悄悄上线了一款新的中文输入法",
+    "url": "https://www.v2ex.com/t/1257291",
+    "source": "v2ex",
+    "score": 100.0,
+    "published_at": "2026-11-16T01:09:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257274",
+    "title": "我觉得 AI 的发展已经到头了",
+    "url": "https://www.v2ex.com/t/1257274",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-11-15T18:57:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257304",
+    "title": "路上天天都能遇到焊颈帝",
+    "url": "https://www.v2ex.com/t/1257304",
+    "source": "v2ex",
+    "score": 126.0,
+    "published_at": "2026-11-16T01:39:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257321",
+    "title": "唉，QQ 音乐年会员又涨价了",
+    "url": "https://www.v2ex.com/t/1257321",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-11-16T02:06:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257339",
+    "title": "其实我个人也是比较偏向于使用国模的，但问题是",
+    "url": "https://www.v2ex.com/t/1257339",
+    "source": "v2ex",
+    "score": 242.0,
+    "published_at": "2026-11-16T02:37:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257325",
+    "title": "世态炎凉，瑟瑟发抖",
+    "url": "https://www.v2ex.com/t/1257325",
+    "source": "v2ex",
+    "score": 278.0,
+    "published_at": "2026-11-16T02:15:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707227810214101026",
+    "title": "iOS 上架 App 流程",
+    "url": "https://juejin.cn/post/7707227810214101026",
+    "source": "juejin",
+    "score": 0.08176926,
+    "published_at": "2026-11-13T08:41:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707957158462357546",
+    "title": "代码越来越便宜，判断力越来越贵：AI 时代的 Android 架构与协程避坑指南",
+    "url": "https://juejin.cn/post/7707957158462357546",
+    "source": "juejin",
+    "score": 0.4639078,
+    "published_at": "2026-11-15T10:52:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707533858106884115",
+    "title": "一天一个开源项目（第259篇）：Modern Web Guidance —— Chrome 团队给 AI 编码 Agent 的「现代 Web 最佳实践」外挂",
+    "url": "https://juejin.cn/post/7707533858106884115",
+    "source": "juejin",
+    "score": 0.10298538,
+    "published_at": "2026-11-13T15:24:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707882030666629163",
+    "title": "格局！刚刚 DeepSeek 正式开放全家桶 API，咱都能复刻 DeepSeek App 了？",
+    "url": "https://juejin.cn/post/7707882030666629163",
+    "source": "juejin",
+    "score": 0.19038533,
+    "published_at": "2026-11-14T04:49:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707495140638834742",
+    "title": "打造自己的 Personal Agent，从抄大肥鱼作业开始",
+    "url": "https://juejin.cn/post/7707495140638834742",
+    "source": "juejin",
+    "score": 0.10385703,
+    "published_at": "2026-11-13T13:52:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707227810214346786",
+    "title": "AI 能把页面写出来，为什么改个需求就开始崩？",
+    "url": "https://juejin.cn/post/7707227810214346786",
+    "source": "juejin",
+    "score": 0.11094172,
+    "published_at": "2026-11-13T10:11:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707857904876306472",
+    "title": "12000 名工程师的高盛，只用四个月就收回了交易员的 AI 编程权限",
+    "url": "https://juejin.cn/post/7707857904876306472",
+    "source": "juejin",
+    "score": 0.7171426,
+    "published_at": "2026-11-15T20:39:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7708434831432744970",
+    "title": "用了这 Skill，我觉得前端兄弟可以毕业了",
+    "url": "https://juejin.cn/post/7708434831432744970",
+    "source": "juejin",
+    "score": 8.08857234,
+    "published_at": "2026-11-16T04:12:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7708236158949425167",
+    "title": "ArkTS 没有 AbortController 怎么取消 setTimeout 链用自增 token 的做法",
+    "url": "https://juejin.cn/post/7708236158949425167",
+    "source": "juejin",
+    "score": 88.60008456,
+    "published_at": "2026-11-16T01:46:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707938781526065167",
+    "title": "HarmonyOS ArkTS 做动画 FPS 自适应降级的滞后窗口做法",
+    "url": "https://juejin.cn/post/7707938781526065167",
+    "source": "juejin",
+    "score": 29.9461796,
+    "published_at": "2026-11-15T11:50:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50512824",
+    "title": "Coles hit by a cybersecurity incident",
+    "url": "https://www.colesgroup.com.au/updates/",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-11-16T01:14:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50512296",
+    "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+    "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-11-16T00:03:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50485275",
+    "title": "Artificial Intelligence for the Z80",
+    "url": "https://www.dfsantos.com/en/libro-ia-z80",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-11-13T15:50:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50467599",
+    "title": "Simple 8085 Computer",
+    "url": "https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-11-12T14:18:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50514180",
+    "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+    "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-11-16T04:53:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50462816",
+    "title": "The Lasting Influence of John Berger",
+    "url": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-11-12T03:44:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50479405",
+    "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+    "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-11-13T06:58:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50484998",
+    "title": "Do we still have to denormalize? Have your schema and search it too",
+    "url": "https://www.paradedb.com/blog/joins",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-11-13T15:31:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50514093",
+    "title": "Stop Filming in Log",
+    "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+    "source": "hackernews",
+    "score": 36.0,
+    "published_at": "2026-11-16T04:37:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50512441",
+    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "source": "hackernews",
+    "score": 126.0,
+    "published_at": "2026-11-16T00:21:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50513215",
+    "title": "Qwen4-Max",
+    "url": "https://qwen.ai/blog?id=qwen4-max",
+    "source": "hackernews",
+    "score": 402.0,
+    "published_at": "2026-11-16T02:14:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50513160",
+    "title": "Universal XSS in uBlock Origin from website-driven element picker",
+    "url": "https://iter.ca/post/ubo-uxss/",
+    "source": "hackernews",
+    "score": 291.0,
+    "published_at": "2026-11-16T02:04:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50514470",
+    "title": "How to make almost anything",
+    "url": "https://pub.cba.mit.edu/863.26/site/",
+    "source": "hackernews",
+    "score": 127.0,
+    "published_at": "2026-11-16T05:50:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:yervw7",
     "title": "This Month in Redox - October 2026",
     "url": "https://www.redox-os.org/news/this-month-261031/",
@@ -4646,356 +4996,6 @@
     "source": "hackernews",
     "score": 136.0,
     "published_at": "2026-11-11T15:33:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50458532",
-    "title": "GitHub Incident with Webhooks, Actions, etc.",
-    "url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-11-11T20:54:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50455811",
-    "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-    "url": "https://news.ycombinator.com/item?id=50455811",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-11-11T17:11:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50459321",
-    "title": "Jensen Huang Said to Have Had Relationship with Nvidia Executive",
-    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-11-11T22:03:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50457669",
-    "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-    "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-    "source": "hackernews",
-    "score": 38.0,
-    "published_at": "2026-11-11T19:47:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50416365",
-    "title": "Optimizing Reference Deletions in Git",
-    "url": "https://nayak.im/posts/optimizing-reference-deletion/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-11-08T19:37:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50433042",
-    "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-    "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-11-09T22:15:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50457618",
-    "title": "The Utah Teapot",
-    "url": "https://graphics.cs.utah.edu/teapot/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-11-11T19:45:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50455633",
-    "title": "Faster Retrieval for Better, More Efficient RAG",
-    "url": "https://machinelearning.apple.com/research/faster-retrieval",
-    "source": "hackernews",
-    "score": 121.0,
-    "published_at": "2026-11-11T16:57:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50458166",
-    "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-    "url": "https://github.com/huawei-csl/MACaQ",
-    "source": "hackernews",
-    "score": 35.0,
-    "published_at": "2026-11-11T20:23:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50458710",
-    "title": "Play GTA5 on Browser",
-    "url": "https://playgta5.com/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-11-11T21:10:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50459485",
-    "title": "Lock Your GitHub Actions",
-    "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-11-11T22:16:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50458208",
-    "title": "Emacs in the Age of Magic",
-    "url": "https://commandlinesystems.com/magic.txt",
-    "source": "hackernews",
-    "score": 80.0,
-    "published_at": "2026-11-11T20:26:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50457230",
-    "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-    "url": "https://termsheetplease.com/",
-    "source": "hackernews",
-    "score": 130.0,
-    "published_at": "2026-11-11T19:12:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50456791",
-    "title": "Gemini Decisions API",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "source": "hackernews",
-    "score": 169.0,
-    "published_at": "2026-11-11T18:32:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50455394",
-    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-    "source": "hackernews",
-    "score": 353.0,
-    "published_at": "2026-11-11T16:38:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50450488",
-    "title": "Tim Peters has died",
-    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-    "source": "hackernews",
-    "score": 688.0,
-    "published_at": "2026-11-11T07:03:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50456631",
-    "title": "AWS emulator",
-    "url": "https://github.com/aws/aws-emulator",
-    "source": "hackernews",
-    "score": 518.0,
-    "published_at": "2026-11-11T18:21:38+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50458900",
-    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "source": "hackernews",
-    "score": 141.0,
-    "published_at": "2026-11-11T21:24:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:quicny",
-    "title": "Monads in Lean",
-    "url": "https://eli.thegreenplace.net/2026/monads-in-lean/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-11T04:13:14.135-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:uz2j2h",
-    "title": "Google Summer of Code 2026 results",
-    "url": "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-11T09:03:06.079-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vzpcnd",
-    "title": "Performance evolution of route lookup on Linux",
-    "url": "https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-11T02:25:31.231-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:miyll7",
-    "title": "London meetup - update",
-    "url": "https://lobste.rs/s/miyll7",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-11-11T06:31:59.338-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:romf5e",
-    "title": "In Memoriam: Tim Peters 1952–2026",
-    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-11-11T08:20:17.454-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zy4p7f",
-    "title": "Using voltage glitching to unleash the A100 in my mining card",
-    "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-11-11T06:36:57.129-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nld6x3",
-    "title": "What are some \"No AI\" apps/companies/resources you know of?",
-    "url": "https://lobste.rs/s/nld6x3",
-    "source": "lobsters",
-    "score": 25.0,
-    "published_at": "2026-11-11T07:13:51.549-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:m43bas",
-    "title": "How do you actually self-host securely?",
-    "url": "https://lobste.rs/s/m43bas",
-    "source": "lobsters",
-    "score": 36.0,
-    "published_at": "2026-11-11T06:01:19.024-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1256096",
-    "title": "最近发现自己有个挺明显的问题：买自己喜欢的东西，只要价格超过 1000 元，就会犹犹豫豫考虑很久。",
-    "url": "https://www.v2ex.com/t/1256096",
-    "source": "v2ex",
-    "score": 122.0,
-    "published_at": "2026-11-11T03:13:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1256209",
-    "title": "家人们，我失恋了",
-    "url": "https://www.v2ex.com/t/1256209",
-    "source": "v2ex",
-    "score": 140.0,
-    "published_at": "2026-11-11T08:37:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1256107",
-    "title": "[求关注]建立了一个 TG 频道 A 股资讯自动发布，回复这个帖子前 100 名送铜币",
-    "url": "https://www.v2ex.com/t/1256107",
-    "source": "v2ex",
-    "score": 226.0,
-    "published_at": "2026-11-11T03:37:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7705683246910734363",
-    "title": "Vue 3 + 高德地图封装实战：点位、区域、Loca 流光与 Vue 信息窗体",
-    "url": "https://juejin.cn/post/7705683246910734363",
-    "source": "juejin",
-    "score": 0.16247818,
-    "published_at": "2026-11-09T02:58:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7706418656682803200",
-    "title": "再见了 Typora",
-    "url": "https://juejin.cn/post/7706418656682803200",
-    "source": "juejin",
-    "score": 1.62467818,
-    "published_at": "2026-11-11T01:47:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:TheAlgorithms/Java",
-    "title": "Java",
-    "url": "https://github.com/TheAlgorithms/Java",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:openai/codex-security",
-    "title": "codex-security",
-    "url": "https://github.com/openai/codex-security",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:shadcn/improve",
-    "title": "improve",
-    "url": "https://github.com/shadcn/improve",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:GoogleChrome/modern-web-guidance-src",
-    "title": "modern-web-guidance-src",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
