@@ -1,5 +1,355 @@
 [
   {
+    "id": "lobsters:hnklz9",
+    "title": "[SPLASH'26] Mojo: Towards One Systems Language for All Hardware",
+    "url": "https://www.youtube.com/watch?v=9-97SB5XJh4",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-16T17:27:11.723-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:jwtvrw",
+    "title": "Safe Systems-programming with Mutable Value Semantics | Dave Abrahams",
+    "url": "https://www.youtube.com/watch?v=op51SyyPJmw",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-16T16:13:03.094-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ki1l5r",
+    "title": "\"Proof of use\" as a requirement for open source contributions?",
+    "url": "https://lobste.rs/s/ki1l5r",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-16T16:25:45.396-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:sz6o8w",
+    "title": "Improving the Wii U's Wii Mode",
+    "url": "https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-11-16T16:39:54.319-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:s7mejx",
+    "title": "How Rust Changed Me As A Developer",
+    "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-11-16T12:17:29.216-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257419",
+    "title": "北美大豆包是真的不行啊！",
+    "url": "https://www.v2ex.com/t/1257419",
+    "source": "v2ex",
+    "score": 100.0,
+    "published_at": "2026-11-16T07:02:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257371",
+    "title": "我们拼命努力了半辈子，可能只是为了过上曾经已经拥有的生活",
+    "url": "https://www.v2ex.com/t/1257371",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-11-16T03:39:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257456",
+    "title": "跟异性聊天总是没话题，有没有军师指点",
+    "url": "https://www.v2ex.com/t/1257456",
+    "source": "v2ex",
+    "score": 126.0,
+    "published_at": "2026-11-16T08:40:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257459",
+    "title": "干半天才发现：人家没读书，却比我混得好",
+    "url": "https://www.v2ex.com/t/1257459",
+    "source": "v2ex",
+    "score": 160.0,
+    "published_at": "2026-11-16T08:45:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707927071724896265",
+    "title": "用仓颉语言 cj-tauri 框架，五分钟给娃做了个鸿蒙形近字游戏",
+    "url": "https://juejin.cn/post/7707927071724896265",
+    "source": "juejin",
+    "score": 0.10988584,
+    "published_at": "2026-11-14T17:39:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7707644445542907913",
+    "title": "前端包管理工具：npm、Yarn、pnpm 快速入门",
+    "url": "https://juejin.cn/post/7707644445542907913",
+    "source": "juejin",
+    "score": 0.10504726,
+    "published_at": "2026-11-14T14:17:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7708565080221040683",
+    "title": "连AI自己也不愿意维护自己的屎山代码",
+    "url": "https://juejin.cn/post/7708565080221040683",
+    "source": "juejin",
+    "score": 0.52105435,
+    "published_at": "2026-11-16T09:08:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50520804",
+    "title": "Strengthening the fight against online child sexual abuse",
+    "url": "https://openai.com/index/strengthening-online-child-safety/",
+    "source": "hackernews",
+    "score": 106.0,
+    "published_at": "2026-11-16T18:12:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50525658",
+    "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+    "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-11-17T00:23:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50521870",
+    "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+    "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-11-16T19:29:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50523291",
+    "title": "My Quest to push native Three.js quality match AAA Game Engines",
+    "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+    "source": "hackernews",
+    "score": 92.0,
+    "published_at": "2026-11-16T21:07:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50517321",
+    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+    "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+    "source": "hackernews",
+    "score": 222.0,
+    "published_at": "2026-11-16T13:18:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50524165",
+    "title": "United Airlines experiencing a widespread system outage, airline says",
+    "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+    "source": "hackernews",
+    "score": 172.0,
+    "published_at": "2026-11-16T22:14:38+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50522776",
+    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+    "url": "https://news.ycombinator.com/item?id=50522776",
+    "source": "hackernews",
+    "score": 25.0,
+    "published_at": "2026-11-16T20:29:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50515151",
+    "title": "Squircles",
+    "url": "https://linebender.org/wiki/curves/squircle/",
+    "source": "hackernews",
+    "score": 132.0,
+    "published_at": "2026-11-16T07:55:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50522563",
+    "title": "Rust changed me as a developer",
+    "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+    "source": "hackernews",
+    "score": 188.0,
+    "published_at": "2026-11-16T20:16:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50507870",
+    "title": "New open source C4 Diagram tool",
+    "url": "https://www.youtube.com/watch?v=ZCAHP50Zly8",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-11-15T15:55:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50521045",
+    "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+    "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "source": "hackernews",
+    "score": 715.0,
+    "published_at": "2026-11-16T18:31:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50525052",
+    "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+    "url": "https://github.com/0nelight/sutra-os",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-11-16T23:25:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50526152",
+    "title": "Running coding agents without handing them my credentials",
+    "url": "https://blog.antonio.cx/running-agents-with-lend",
+    "source": "hackernews",
+    "score": 10.0,
+    "published_at": "2026-11-17T01:18:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50516689",
+    "title": "Do Repeat Yourself",
+    "url": "https://arcentry.com/blog/do-repeat-yourself/",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-11-16T12:06:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50519354",
+    "title": "Frame – 31.5\" color ePaper display",
+    "url": "https://trmnl.com/blog/introducing-frame",
+    "source": "hackernews",
+    "score": 297.0,
+    "published_at": "2026-11-16T16:23:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50497621",
+    "title": "Formal Verification Is Not Verifiable",
+    "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-11-14T15:07:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50522643",
+    "title": "Chemistry is Actually Geometry",
+    "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+    "source": "hackernews",
+    "score": 108.0,
+    "published_at": "2026-11-16T20:22:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50524225",
+    "title": "How to Break into Security, Ptacek Edition (2012)",
+    "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+    "source": "hackernews",
+    "score": 73.0,
+    "published_at": "2026-11-16T22:19:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50523459",
+    "title": "OpenCode Browse",
+    "url": "https://opencode.ai/product/browse",
+    "source": "hackernews",
+    "score": 121.0,
+    "published_at": "2026-11-16T21:20:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50524767",
+    "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+    "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "source": "hackernews",
+    "score": 108.0,
+    "published_at": "2026-11-16T23:00:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50523601",
+    "title": "BugMeNot has closed",
+    "url": "https://www.bugmenot.com/",
+    "source": "hackernews",
+    "score": 323.0,
+    "published_at": "2026-11-16T21:32:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50524736",
+    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "source": "hackernews",
+    "score": 237.0,
+    "published_at": "2026-11-16T22:58:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50522980",
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "url": "https://www.cs.cmu.edu/learn/",
+    "source": "hackernews",
+    "score": 734.0,
+    "published_at": "2026-11-16T20:43:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:lpqxqi",
     "title": "funkycache: a Python library to cache functions in SQLite",
     "url": "https://alexwlchan.net/2026/funkycache/",
@@ -4646,356 +4996,6 @@
     "source": "hackernews",
     "score": 43.0,
     "published_at": "2026-11-11T21:20:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50471281",
-    "title": "Show HN: Kapso – Iterative learning from enterprise data",
-    "url": "https://news.ycombinator.com/item?id=50471281",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-11-12T17:51:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50467460",
-    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-    "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-    "source": "hackernews",
-    "score": 145.0,
-    "published_at": "2026-11-12T14:12:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50471668",
-    "title": "Ask HN: Microsoft/Azure Outage?",
-    "url": "https://news.ycombinator.com/item?id=50471668",
-    "source": "hackernews",
-    "score": 265.0,
-    "published_at": "2026-11-12T18:17:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50471761",
-    "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
-    "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-11-12T18:22:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50468888",
-    "title": "I'm making LLMs work on small and old devices",
-    "url": "https://github.com/hyperionaidev/smolmaxxing/",
-    "source": "hackernews",
-    "score": 176.0,
-    "published_at": "2026-11-12T15:23:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50471431",
-    "title": "Gemini 4 Hydrogen",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-    "source": "hackernews",
-    "score": 311.0,
-    "published_at": "2026-11-12T18:01:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50467618",
-    "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-    "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-    "source": "hackernews",
-    "score": 198.0,
-    "published_at": "2026-11-12T14:18:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50471731",
-    "title": "Outlook is down, and so is Microsoft's status page",
-    "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
-    "source": "hackernews",
-    "score": 213.0,
-    "published_at": "2026-11-12T18:20:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50470488",
-    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-    "url": "https://github.com/simpsoka/zigzag",
-    "source": "hackernews",
-    "score": 107.0,
-    "published_at": "2026-11-12T17:02:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50472260",
-    "title": "Gemini 4 Hydrogen and Orchestrator",
-    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-    "source": "hackernews",
-    "score": 68.0,
-    "published_at": "2026-11-12T18:52:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50472490",
-    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-11-12T19:05:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50471793",
-    "title": "Rust 1.100.0",
-    "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
-    "source": "hackernews",
-    "score": 292.0,
-    "published_at": "2026-11-12T18:24:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50467087",
-    "title": "Jensen Huang resigns",
-    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-    "source": "hackernews",
-    "score": 2186.0,
-    "published_at": "2026-11-12T13:52:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:3gw2f4",
-    "title": "Hello Baochip",
-    "url": "https://ratfactor.com/cards/hello-baochip",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-12T04:09:16.380-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:itpaba",
-    "title": "Creating Diagrams and Graphs Using Modern CSS",
-    "url": "https://blog.master.dev/creating-diagrams-and-graphs-using-modern-css/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-12T06:20:27.406-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:vwta8g",
-    "title": "Global coordination requirements for 2038-class rollover events",
-    "url": "https://www.itu.int/pub/T-TUT-ICTS-2026-6",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-12T02:19:41.011-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:2drgwh",
-    "title": "Hijacking Samsung TV Smart Hub Ads",
-    "url": "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-12T05:08:45.506-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1256427",
-    "title": "佬们，工资太低想跳槽，该准备什么？",
-    "url": "https://www.v2ex.com/t/1256427",
-    "source": "v2ex",
-    "score": 124.0,
-    "published_at": "2026-11-12T03:54:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1256363",
-    "title": "不知道的迷信，它生效吗？",
-    "url": "https://www.v2ex.com/t/1256363",
-    "source": "v2ex",
-    "score": 138.0,
-    "published_at": "2026-11-12T02:07:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1256525",
-    "title": "被领导叫去涨薪了",
-    "url": "https://www.v2ex.com/t/1256525",
-    "source": "v2ex",
-    "score": 174.0,
-    "published_at": "2026-11-12T08:50:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1256423",
-    "title": "资金垫子铺完了！",
-    "url": "https://www.v2ex.com/t/1256423",
-    "source": "v2ex",
-    "score": 224.0,
-    "published_at": "2026-11-12T03:40:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7706788877558939663",
-    "title": "每天认识一个组件：Redis",
-    "url": "https://juejin.cn/post/7706788877558939663",
-    "source": "juejin",
-    "score": 0.51060576,
-    "published_at": "2026-11-11T13:56:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7706394247621443599",
-    "title": "别再连线了：Coze、n8n、Dify 退潮，AI 正式终结工作流时代",
-    "url": "https://juejin.cn/post/7706394247621443599",
-    "source": "juejin",
-    "score": 0.31151561,
-    "published_at": "2026-11-11T00:29:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7706468226762326016",
-    "title": "程序员 1v1 访谈系列第十三期：大龄已育空窗一年如何破局",
-    "url": "https://juejin.cn/post/7706468226762326016",
-    "source": "juejin",
-    "score": 0.37177529,
-    "published_at": "2026-11-11T01:09:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7706384412187164710",
-    "title": "Fable5.2 画手柄很牛，小测3个例子！",
-    "url": "https://juejin.cn/post/7706384412187164710",
-    "source": "juejin",
-    "score": 0.26933562,
-    "published_at": "2026-11-10T12:56:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7706583027481018408",
-    "title": "技术面试已死？AI 时代，真正拉开程序员差距的是什么？",
-    "url": "https://juejin.cn/post/7706583027481018408",
-    "source": "juejin",
-    "score": 0.68587688,
-    "published_at": "2026-11-11T08:27:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7706740008510963722",
-    "title": "Flutter 3.50 & Dart 3.14  发布，快来看看有什么更新吧",
-    "url": "https://juejin.cn/post/7706740008510963722",
-    "source": "juejin",
-    "score": 1.66396235,
-    "published_at": "2026-11-11T22:50:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7706826190912880680",
-    "title": "Qwen4 被嘲笑了！国模被啥锁死了？",
-    "url": "https://juejin.cn/post/7706826190912880680",
-    "source": "juejin",
-    "score": 3.53381135,
-    "published_at": "2026-11-12T04:08:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ggml-org/llama.cpp",
-    "title": "llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:Alishahryar1/free-claude-code",
-    "title": "free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:CopilotKit/OpenBot",
-    "title": "OpenBot",
-    "url": "https://github.com/CopilotKit/OpenBot",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:meta/astryx",
-    "title": "astryx",
-    "url": "https://github.com/meta/astryx",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:nodejs/node",
-    "title": "node",
-    "url": "https://github.com/nodejs/node",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ashhart/TensorFold",
-    "title": "TensorFold",
-    "url": "https://github.com/ashhart/TensorFold",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:QwenLM/qwen-code",
-    "title": "qwen-code",
-    "url": "https://github.com/QwenLM/qwen-code",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
     "summary": "",
     "key_points": []
   }
