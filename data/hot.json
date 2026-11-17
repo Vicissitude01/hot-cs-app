@@ -1,5 +1,335 @@
 [
   {
+    "id": "lobsters:79tvnr",
+    "title": "Test/verification technique effectiveness with Astra",
+    "url": "https://danluu.com/astra-testing/",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-11-17T03:37:15.071-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:aboglj",
+    "title": "The Patterns We Don't Name",
+    "url": "https://www.youtube.com/watch?v=OkKmP9oATjk",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-17T03:40:53.902-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:n5jtzr",
+    "title": "Where did the ACK go?",
+    "url": "https://yashgarg.dev/posts/where-did-the-ack-go/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-16T13:19:20.113-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wifhdc",
+    "title": "Software is breaking down at a systemic level",
+    "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-11-16T17:37:19.764-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kseyz1",
+    "title": "Github Redesign (2019)",
+    "url": "https://tonsky.me/blog/github-redesign/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-17T03:28:18.950-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:z4rhlt",
+    "title": "Redict is deprecated",
+    "url": "https://redict.io/posts/2026-11-17-redict-deprecated/",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-11-17T02:20:30.125-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257603",
+    "title": "相亲趣事",
+    "url": "https://www.v2ex.com/t/1257603",
+    "source": "v2ex",
+    "score": 116.0,
+    "published_at": "2026-11-17T02:00:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257578",
+    "title": "入了掌阅 Ocean6 Pro 替换用了 11 年的 Kindle",
+    "url": "https://www.v2ex.com/t/1257578",
+    "source": "v2ex",
+    "score": 120.0,
+    "published_at": "2026-11-17T01:10:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257520",
+    "title": "Codex 大家会开 Full access 么",
+    "url": "https://www.v2ex.com/t/1257520",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-11-16T12:26:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257571",
+    "title": "个人感觉，对对联可能是给 LLM AI 压力最大的活之一。",
+    "url": "https://www.v2ex.com/t/1257571",
+    "source": "v2ex",
+    "score": 158.0,
+    "published_at": "2026-11-17T00:32:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257573",
+    "title": "熊市中就开个银河免 5 定投纳指或者红利低波 ETF 吧，股票也有免 5 的。",
+    "url": "https://www.v2ex.com/t/1257573",
+    "source": "v2ex",
+    "score": 198.0,
+    "published_at": "2026-11-17T00:45:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257548",
+    "title": "有通勤一个半小时的老哥嘛",
+    "url": "https://www.v2ex.com/t/1257548",
+    "source": "v2ex",
+    "score": 204.0,
+    "published_at": "2026-11-16T15:23:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257733",
+    "title": "看到老黄因为出轨被撸，我也说个自己最近的经历",
+    "url": "https://www.v2ex.com/t/1257733",
+    "source": "v2ex",
+    "score": 220.0,
+    "published_at": "2026-11-17T07:50:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257575",
+    "title": "玩了发现恋物癖越来越严重了咋办",
+    "url": "https://www.v2ex.com/t/1257575",
+    "source": "v2ex",
+    "score": 228.0,
+    "published_at": "2026-11-17T00:59:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257569",
+    "title": "[台灣站長不跑路] 不擔心封號，高穩定 Claude 中轉，評論送 5 刀（也有 Grok、GPT）",
+    "url": "https://www.v2ex.com/t/1257569",
+    "source": "v2ex",
+    "score": 366.0,
+    "published_at": "2026-11-17T00:26:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257707",
+    "title": "今天是我的生日",
+    "url": "https://www.v2ex.com/t/1257707",
+    "source": "v2ex",
+    "score": 592.0,
+    "published_at": "2026-11-17T07:00:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7708572722204393507",
+    "title": "京东云推出全新JoyCode智能编码工具，让AI Coding从代码生成走向成果交付",
+    "url": "https://juejin.cn/post/7708572722204393507",
+    "source": "juejin",
+    "score": 0.44333835,
+    "published_at": "2026-11-16T05:35:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7708687035030601779",
+    "title": "看懂了历史，为什么你反而更怕 AI",
+    "url": "https://juejin.cn/post/7708687035030601779",
+    "source": "juejin",
+    "score": 0.51097642,
+    "published_at": "2026-11-16T14:05:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7708728039933624363",
+    "title": "Flutter Native Interop 稳定了，Platform Channel 要退场了",
+    "url": "https://juejin.cn/post/7708728039933624363",
+    "source": "juejin",
+    "score": 1.90251774,
+    "published_at": "2026-11-17T00:58:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7708954185542172710",
+    "title": "真狠啊，DeepSeek 开放全家桶 API。",
+    "url": "https://juejin.cn/post/7708954185542172710",
+    "source": "juejin",
+    "score": 2.21170803,
+    "published_at": "2026-11-17T02:05:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7708682938188578854",
+    "title": "用了这 Skill，前端兄弟都觉得好",
+    "url": "https://juejin.cn/post/7708682938188578854",
+    "source": "juejin",
+    "score": 2.86288972,
+    "published_at": "2026-11-17T01:08:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50526537",
+    "title": "Mem Is Shutting Down",
+    "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-11-17T02:13:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50523784",
+    "title": "Spamhaus new email sender requirements in November",
+    "url": "https://www.spamhaus.org/sender-guidelines/",
+    "source": "hackernews",
+    "score": 111.0,
+    "published_at": "2026-11-16T21:47:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50510969",
+    "title": "Why did modems have speakers? (2019)",
+    "url": "https://retrocomputing.stackexchange.com/questions/11765",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-11-15T21:27:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50523025",
+    "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+    "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+    "source": "hackernews",
+    "score": 148.0,
+    "published_at": "2026-11-16T20:48:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50515035",
+    "title": "Test/verification technique effectiveness with Astra",
+    "url": "https://danluu.com/astra-testing/",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-11-16T07:33:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50511874",
+    "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+    "url": "https://visualbasic.world/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-11-15T23:08:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50512576",
+    "title": "The Fossils That Haunted Lovecraft",
+    "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+    "source": "hackernews",
+    "score": 39.0,
+    "published_at": "2026-11-16T00:38:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50525575",
+    "title": "Why 3dfx 1 cards had such a washed out color output?",
+    "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+    "source": "hackernews",
+    "score": 142.0,
+    "published_at": "2026-11-17T00:16:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50496787",
+    "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+    "url": "https://github.com/ZigaoWang/zigzag",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-11-14T13:17:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50526560",
+    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+    "url": "https://support.apple.com/en-us/149699",
+    "source": "hackernews",
+    "score": 131.0,
+    "published_at": "2026-11-17T02:17:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50512779",
+    "title": "Nimony: A New Compiler for Nim",
+    "url": "https://nimony.org/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-11-16T01:05:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50508845",
+    "title": "Japan's Hometown Tax (2018)",
+    "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-11-15T17:34:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:hnklz9",
     "title": "[SPLASH'26] Mojo: Towards One Systems Language for All Hardware",
     "url": "https://www.youtube.com/watch?v=9-97SB5XJh4",
@@ -4666,336 +4996,6 @@
     "source": "hackernews",
     "score": 35.0,
     "published_at": "2026-11-12T19:06:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50437175",
-    "title": "Fortune Telling and Speculative Design",
-    "url": "https://maggieappleton.com/fortune-telling",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-11-10T07:28:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50439283",
-    "title": "Safety in Algae Home Experiments",
-    "url": "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-11-10T12:20:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50474883",
-    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "url": "https://unemploymentlabs.com/checkpoint-forensics",
-    "source": "hackernews",
-    "score": 152.0,
-    "published_at": "2026-11-12T21:56:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50473888",
-    "title": "Announcement: Conductor Is Back",
-    "url": "https://twitter.com/charlieholtz/status/2120973052024598620",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-11-12T20:37:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50454700",
-    "title": "Before Pixels: Speed-Minder",
-    "url": "https://unsung.aresluna.org/before-pixels-speed-minder/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-11-11T15:40:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50474311",
-    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-    "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-11-12T21:09:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50475713",
-    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-11-12T23:06:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50474361",
-    "title": "Foundation Models framework",
-    "url": "https://developer.apple.com/foundation-models-framework/",
-    "source": "hackernews",
-    "score": 120.0,
-    "published_at": "2026-11-12T21:13:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50472038",
-    "title": "Rust 1.100",
-    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-    "source": "hackernews",
-    "score": 406.0,
-    "published_at": "2026-11-12T18:39:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pbc1ke",
-    "title": "Dyalog Version 21.0",
-    "url": "https://dyalog.com/dyalog/dyalog-versions/210.htm",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-12T13:13:49.174-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ubbxhd",
-    "title": "The Secret of Monkey Island: all 13 versions side by side",
-    "url": "https://monkeyisland.pages.dev/",
-    "source": "lobsters",
-    "score": 13.0,
-    "published_at": "2026-11-12T08:37:35.465-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:gejy85",
-    "title": "Adapting CPython for yk",
-    "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
-    "source": "lobsters",
-    "score": 12.0,
-    "published_at": "2026-11-12T06:29:56.716-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yrpo2q",
-    "title": "Paths in pieces",
-    "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
-    "source": "lobsters",
-    "score": 14.0,
-    "published_at": "2026-11-12T08:49:26.033-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pty8pn",
-    "title": "The anti-marketing aspect of the Gemini network",
-    "url": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
-    "source": "lobsters",
-    "score": 13.0,
-    "published_at": "2026-11-12T10:17:25.103-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7c4iar",
-    "title": "libreagi - save OS models",
-    "url": "https://libreagi.com/",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-12T09:35:46.353-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:81hnjw",
-    "title": "Announcing Rust 1.100.0",
-    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-    "source": "lobsters",
-    "score": 21.0,
-    "published_at": "2026-11-12T12:43:41.418-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ooshl8",
-    "title": "The entirety of \"Let Over Lambda\" is now freely available online",
-    "url": "https://letoverlambda.com/",
-    "source": "lobsters",
-    "score": 37.0,
-    "published_at": "2026-11-12T06:44:34.403-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:8kmjot",
-    "title": "Humble Bundle just completely killed most of their security through vibecoding",
-    "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-    "source": "lobsters",
-    "score": 47.0,
-    "published_at": "2026-11-12T09:13:35.291-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1256509",
-    "title": "济南初级程序员几个月没招不到人，不是说行情不好，都不好找工作吗？",
-    "url": "https://www.v2ex.com/t/1256509",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-11-12T08:02:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7706740769264566322",
-    "title": "如何看待 Fable 5.2 用纯代码生成 1.4MB 视觉作品：光追、水面、倒影、火光的程序化生成原理",
-    "url": "https://juejin.cn/post/7706740769264566322",
-    "source": "juejin",
-    "score": 0.39647868,
-    "published_at": "2026-11-11T09:45:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50467305",
-    "title": "Electric ship batteries promise compact, cooler power",
-    "url": "https://spectrum.ieee.org/electric-ship-batteries",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-11-12T14:06:03+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50468720",
-    "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-    "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
-    "source": "hackernews",
-    "score": 62.0,
-    "published_at": "2026-11-12T15:14:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50471621",
-    "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
-    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-    "source": "hackernews",
-    "score": 71.0,
-    "published_at": "2026-11-12T18:14:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50473190",
-    "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-    "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-11-12T19:51:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50467297",
-    "title": "Our software engineering interviews are changing a little",
-    "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
-    "source": "hackernews",
-    "score": 120.0,
-    "published_at": "2026-11-12T14:05:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50470445",
-    "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-    "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-11-12T16:59:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50467439",
-    "title": "Libreagi – Save OSS Models",
-    "url": "https://libreagi.com/",
-    "source": "hackernews",
-    "score": 92.0,
-    "published_at": "2026-11-12T14:11:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50469994",
-    "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-    "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-    "source": "hackernews",
-    "score": 181.0,
-    "published_at": "2026-11-12T16:29:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50473231",
-    "title": "Data centers need power – lower income, rural residents pay the price",
-    "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-11-12T19:53:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50468944",
-    "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
-    "url": "https://github.com/chocoford/ExcalidrawZ",
-    "source": "hackernews",
-    "score": 78.0,
-    "published_at": "2026-11-12T15:25:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50471650",
-    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-    "source": "hackernews",
-    "score": 39.0,
-    "published_at": "2026-11-12T18:15:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50459508",
-    "title": "Words of warning about radiocarbon dating medieval human bones",
-    "url": "https://www.nature.com/articles/s40494-026-02958-x",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-11-11T22:18:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50458849",
-    "title": "Relax: JIT compiler for Rust to reduce build times",
-    "url": "https://makepad.github.io/relax/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-11-11T21:20:01+00:00",
     "summary": "",
     "key_points": []
   }
