@@ -1,5 +1,255 @@
 [
   {
+    "id": "lobsters:4heeke",
+    "title": "Maak v1.0.0 :: infinitely extensible command runner, build sys in Lisp",
+    "url": "https://lobste.rs/s/4heeke",
+    "source": "lobsters",
+    "score": 0.0,
+    "published_at": "2026-11-18T17:46:59.226-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:l70xc9",
+    "title": "sysdeck: Raycast for Linux & BSD",
+    "url": "https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-18T17:26:59.595-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:1tcjtd",
+    "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+    "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-18T15:15:49.528-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kfpoos",
+    "title": "Stricter checks for uploaded distributions on PyPI",
+    "url": "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-18T14:00:42.222-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:w78jvi",
+    "title": "markdownWeb",
+    "url": "https://demo.bonbonweb.org/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-18T11:35:19.967-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:zr0hkw",
+    "title": "Upcoming Critical PHP Security Release (18 Nov 2026)",
+    "url": "https://www.php.net/index.php#2026-11-18-1",
+    "source": "lobsters",
+    "score": 18.0,
+    "published_at": "2026-11-18T13:44:06.571-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1258013",
+    "title": "一次涨薪谈话，感受到了行业寒意",
+    "url": "https://www.v2ex.com/t/1258013",
+    "source": "v2ex",
+    "score": 88.0,
+    "published_at": "2026-11-18T07:41:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1257898",
+    "title": "跟风追《持械入宋》，看到的 AI 短剧读音问题的疑惑",
+    "url": "https://www.v2ex.com/t/1257898",
+    "source": "v2ex",
+    "score": 90.0,
+    "published_at": "2026-11-18T02:02:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1258022",
+    "title": "用完 gpt-6.2 当场退订转 gemini",
+    "url": "https://www.v2ex.com/t/1258022",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-11-18T08:02:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7708586194204147739",
+    "title": "别再抄 Flutter 了：2026 年 Android / iOS / 小程序跨端架构选型的四本成本账",
+    "url": "https://juejin.cn/post/7708586194204147739",
+    "source": "juejin",
+    "score": 0.18485162,
+    "published_at": "2026-11-16T08:38:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50554009",
+    "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+    "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-11-18T23:49:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50553192",
+    "title": "GTA6-like as a 942Kb UEFI bootable image",
+    "url": "https://github.com/eklavya-raj/gta6-uefi",
+    "source": "hackernews",
+    "score": 38.0,
+    "published_at": "2026-11-18T22:26:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50524227",
+    "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+    "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-11-16T22:19:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50523377",
+    "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+    "url": "https://github.com/aryamandarda/tamserve",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-11-16T21:14:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50554010",
+    "title": "Software companies are trying to kill home computing?",
+    "url": "https://lateblt.livejournal.com/526188.html",
+    "source": "hackernews",
+    "score": 94.0,
+    "published_at": "2026-11-18T23:49:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50510385",
+    "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+    "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-11-15T20:30:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50525260",
+    "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+    "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-11-16T23:47:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50554045",
+    "title": "We need smart people who give a shit",
+    "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+    "source": "hackernews",
+    "score": 186.0,
+    "published_at": "2026-11-18T23:53:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50554269",
+    "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+    "url": "https://claudia.gallery/fable/",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-19T00:18:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50553843",
+    "title": "Anthropic prices initial public offering",
+    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-11-18T23:30:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50551046",
+    "title": "DaisyRose-27B",
+    "url": "https://www.radixark.com/blog/daisyrose-27b",
+    "source": "hackernews",
+    "score": 135.0,
+    "published_at": "2026-11-18T19:39:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50553225",
+    "title": "LLM assisted reverse engineering",
+    "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-11-18T22:29:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50554374",
+    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-11-19T00:29:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50554038",
+    "title": "Multiple vulnerabilities in Regexp and String case conversion",
+    "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+    "source": "hackernews",
+    "score": 50.0,
+    "published_at": "2026-11-18T23:52:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50552424",
+    "title": "Gemini 4 Neon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "source": "hackernews",
+    "score": 420.0,
+    "published_at": "2026-11-18T21:34:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:lgdtzb",
     "title": "Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces",
     "url": "https://contextgeneric.dev/blog/v0.8.0-release",
@@ -4746,256 +4996,6 @@
     "source": "github-trending",
     "score": 50.0,
     "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:JuliusBrussee/caveman",
-    "title": "caveman",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ag-ui-protocol/ag-ui",
-    "title": "ag-ui",
-    "url": "https://github.com/ag-ui-protocol/ag-ui",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:dream-num/univer",
-    "title": "univer",
-    "url": "https://github.com/dream-num/univer",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50496885",
-    "title": "A visual explanation of reinforcement learning",
-    "url": "https://aatishb.com/myriad/how-brains-learn/",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-11-14T13:31:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50465926",
-    "title": "Bilingualism and Denaskuleco",
-    "url": "https://pgadey.ca/notes/bilingualism-and-denaskuleco/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-11-12T12:00:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50497900",
-    "title": "Formalizing US Tax Code (Using Lean)",
-    "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-11-14T15:41:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50478632",
-    "title": "Let's Write a PostScript Interpreter",
-    "url": "https://beyondloom.com/blog/postscript.html",
-    "source": "hackernews",
-    "score": 58.0,
-    "published_at": "2026-11-13T05:12:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50467987",
-    "title": "C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",
-    "url": "https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-11-12T14:36:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50497155",
-    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-    "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-11-14T14:09:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50497009",
-    "title": "Italy fines Meta $887M over Android users' data access",
-    "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-    "source": "hackernews",
-    "score": 111.0,
-    "published_at": "2026-11-14T13:48:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50496602",
-    "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-    "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-    "source": "hackernews",
-    "score": 199.0,
-    "published_at": "2026-11-14T12:45:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50467278",
-    "title": "Testing a Trash Can Faraday Cage",
-    "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-11-12T14:04:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50497137",
-    "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-    "url": "https://github.com/FURSOY/fursoy-cpu",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-11-14T14:06:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50497147",
-    "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-    "url": "https://github.com/paul-nameless/agweb",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-11-14T14:08:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50441444",
-    "title": "Generative AI uses more energy on non-English text",
-    "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-11-10T15:07:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50497132",
-    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-    "url": "https://gitlab.com/snipedbywifi/terminactory",
-    "source": "hackernews",
-    "score": 60.0,
-    "published_at": "2026-11-14T14:05:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50496811",
-    "title": "Advancing science and engineering with Antigravity's /teamwork",
-    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-    "source": "hackernews",
-    "score": 45.0,
-    "published_at": "2026-11-14T13:20:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50496976",
-    "title": "KDE: The Documentary on Free Software [video]",
-    "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-    "source": "hackernews",
-    "score": 97.0,
-    "published_at": "2026-11-14T13:43:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50497892",
-    "title": "PyPI's redesigned project pages with clearer security signals are now live",
-    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-11-14T15:40:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kh9fri",
-    "title": "Writing a DSL for high performance parallel programming in OxCaml",
-    "url": "https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-13T20:57:49.133-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rpd05t",
-    "title": "Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A",
-    "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-13T14:26:34.891-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:u2h9as",
-    "title": "You could have invented transformers from memory",
-    "url": "https://alexwang.ai/posts/associative-memory/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-13T22:49:47.565-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:j4sj0c",
-    "title": "When is a class a “commodity” and when does it depend on the instructor?",
-    "url": "https://statmodeling.stat.columbia.edu/2026/11/13/when-is-a-class-a-commodity-and-when-does-it-depend-on-the-instructor/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-14T03:57:57.014-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ebahfz",
-    "title": "goliath32.com - Creating a self booting ZIP archive",
-    "url": "https://goliath32.com/blog/ziphead.html",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-14T04:01:58.119-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:0aungk",
-    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-    "url": "https://arxiv.org/abs/2605.29713",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-13T22:51:14.032-06:00",
     "summary": "",
     "key_points": []
   }
