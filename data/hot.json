@@ -1,5 +1,225 @@
 [
   {
+    "id": "lobsters:nes79l",
+    "title": "The New Era of Wikimedia Traffic: Thinking Beyond Pageviews",
+    "url": "https://diff.wikimedia.org/2026/11/19/the-new-era-of-wikimedia-traffic-thinking-beyond-pageviews/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-19T13:57:08.335-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:t9wxzg",
+    "title": "OpenRun v1.0 - declarative deployments for internal tools on Docker or Kubernetes",
+    "url": "https://openrun.dev/blog/openrun-1.0/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-19T12:46:21.046-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:naiy6x",
+    "title": "Supporting FOSS projects to transition to memory safe tech",
+    "url": "https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-19T12:39:29.454-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:bkvpzd",
+    "title": "Mercurius — A Zero-Trust Network‑Native Window System",
+    "url": "https://mercurius.tebibyte.org/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-19T12:37:35.055-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gn5qb1",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-19T13:50:25.512-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:gftix3",
+    "title": "Visualizing a Ledger with pgledger-ui",
+    "url": "https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-19T13:55:10.812-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pnfs5p",
+    "title": "Hiring a Systems Programmer for Boxem",
+    "url": "https://lobste.rs/s/pnfs5p",
+    "source": "lobsters",
+    "score": 15.0,
+    "published_at": "2026-11-19T10:45:34.347-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1258259",
+    "title": "升降办公桌好用么？这里有人用过么？",
+    "url": "https://www.v2ex.com/t/1258259",
+    "source": "v2ex",
+    "score": 112.0,
+    "published_at": "2026-11-19T05:57:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1258315",
+    "title": "统计了 V2EX 近 15 年提到「裁员」或「失业」的帖子",
+    "url": "https://www.v2ex.com/t/1258315",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-11-19T08:35:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7709679151841722409",
+    "title": "为了快 30 倍，我把构建工具换成了 Rust，结果团队差点连班都加不了",
+    "url": "https://juejin.cn/post/7709679151841722409",
+    "source": "juejin",
+    "score": 0.88448839,
+    "published_at": "2026-11-19T06:11:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50537832",
+    "title": "Computer Graphics from Scratch (2021)",
+    "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-11-17T20:37:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50517657",
+    "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+    "url": "https://www.tisonkun.io/posts/ai-repair-program/",
+    "source": "hackernews",
+    "score": 32.0,
+    "published_at": "2026-11-16T13:58:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50566261",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+    "source": "hackernews",
+    "score": 53.0,
+    "published_at": "2026-11-19T20:57:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50530132",
+    "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+    "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-11-17T11:41:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50564366",
+    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+    "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-11-19T18:47:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50568082",
+    "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+    "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-11-19T23:32:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50567374",
+    "title": "RegExr: Temporarily Offline",
+    "url": "https://regexr.com/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-11-19T22:27:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50564159",
+    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+    "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+    "source": "hackernews",
+    "score": 190.0,
+    "published_at": "2026-11-19T18:35:17+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50528119",
+    "title": "How to CAD Almost Anything",
+    "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+    "source": "hackernews",
+    "score": 107.0,
+    "published_at": "2026-11-17T06:29:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50567209",
+    "title": "Synology Security Advisory",
+    "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+    "source": "hackernews",
+    "score": 91.0,
+    "published_at": "2026-11-19T22:13:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50568130",
+    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+    "url": "https://git-aarvin.github.io/mei/",
+    "source": "hackernews",
+    "score": 55.0,
+    "published_at": "2026-11-19T23:35:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50563066",
+    "title": "Pancreatic cancer halted by virus injection in three patients",
+    "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+    "source": "hackernews",
+    "score": 543.0,
+    "published_at": "2026-11-19T17:25:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:03qosm",
     "title": "Postel Awardee Dave Täht Made Every Millisecond Count",
     "url": "https://www.internetsociety.org/blog/2026/11/postel-awardee-dave-taht-made-every-millisecond-count/",
@@ -4776,226 +4996,6 @@
     "source": "juejin",
     "score": 0.10484229,
     "published_at": "2026-11-13T01:32:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7707467926227632162",
-    "title": "Flutter 3.50更新，开发者应该关注什么？",
-    "url": "https://juejin.cn/post/7707467926227632162",
-    "source": "juejin",
-    "score": 0.12908903,
-    "published_at": "2026-11-13T09:24:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7707904657305665546",
-    "title": "卸载cc-switch，强烈推荐Magpie",
-    "url": "https://juejin.cn/post/7707904657305665546",
-    "source": "juejin",
-    "score": 1.41634984,
-    "published_at": "2026-11-15T03:31:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:NVIDIA/SkillEvaluator",
-    "title": "SkillEvaluator",
-    "url": "https://github.com/NVIDIA/SkillEvaluator",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:elementalsouls/Claude-BugHunter",
-    "title": "Claude-BugHunter",
-    "url": "https://github.com/elementalsouls/Claude-BugHunter",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:ggml-org/ggml",
-    "title": "ggml",
-    "url": "https://github.com/ggml-org/ggml",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:google-labs-code/stitch-skills",
-    "title": "stitch-skills",
-    "url": "https://github.com/google-labs-code/stitch-skills",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50507517",
-    "title": "A Human Reads the Anthropic IPO Filing",
-    "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-11-15T15:18:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50504718",
-    "title": "Book list for streetfighting computer scientists",
-    "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
-    "source": "hackernews",
-    "score": 92.0,
-    "published_at": "2026-11-15T07:08:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50484234",
-    "title": "Semicircle Packing",
-    "url": "https://rorz.io/writing/semicircle-packing",
-    "source": "hackernews",
-    "score": 68.0,
-    "published_at": "2026-11-13T14:42:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50481056",
-    "title": "Strictly monotonic timestamps and gapless sequences in Rust",
-    "url": "https://tsoracle.rs/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-11-13T10:04:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50474529",
-    "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-    "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-11-12T21:27:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50482279",
-    "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-    "url": "https://www.niklasroy.com/carton-clock/",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-11-13T12:00:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50506180",
-    "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-    "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-    "source": "hackernews",
-    "score": 149.0,
-    "published_at": "2026-11-15T11:40:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50457979",
-    "title": "How to read codes from (many) IR remote controls with as little code as possible",
-    "url": "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-11-11T20:09:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50463399",
-    "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-    "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-11-12T05:29:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50475759",
-    "title": "Chasing an audio artifact on power loss",
-    "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-11-12T23:11:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50501887",
-    "title": "The Telephone Changed the World",
-    "url": "https://lithub.com/how-the-telephone-changed-the-world/",
-    "source": "hackernews",
-    "score": 15.0,
-    "published_at": "2026-11-14T22:56:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50481321",
-    "title": "What thousands of conversations look like inside a language model",
-    "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-    "source": "hackernews",
-    "score": 50.0,
-    "published_at": "2026-11-13T10:26:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50505271",
-    "title": "Why did some Apollo missions carry a grenade launcher?",
-    "url": "https://space.stackexchange.com/questions/37775",
-    "source": "hackernews",
-    "score": 130.0,
-    "published_at": "2026-11-15T09:06:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50506588",
-    "title": "A NES emulator written in Odin",
-    "url": "https://lucypero.com/lucynes.html",
-    "source": "hackernews",
-    "score": 42.0,
-    "published_at": "2026-11-15T12:51:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50506376",
-    "title": "Understanding Positional Embeddings in Modern LLMs",
-    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-11-15T12:14:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50507206",
-    "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-    "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-11-15T14:31:52+00:00",
     "summary": "",
     "key_points": []
   }
