@@ -1,5 +1,245 @@
 [
   {
+    "id": "lobsters:4qcr3k",
+    "title": "Verifying formal models of Raft implementations",
+    "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-20T15:54:45.756-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:o5coeq",
+    "title": "Internet Archive Staffers Are Unionizing",
+    "url": "https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
+    "source": "lobsters",
+    "score": 26.0,
+    "published_at": "2026-11-20T12:39:29.070-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7709425536502087720",
+    "title": "我是如何设计品牌站组件库的？",
+    "url": "https://juejin.cn/post/7709425536502087720",
+    "source": "juejin",
+    "score": 0.20882881,
+    "published_at": "2026-11-18T15:38:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50583445",
+    "title": "AI may have solved the most important problem in mathematics",
+    "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-11-20T22:46:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50550430",
+    "title": "Microsoft announces Windows Server 2028 with hardened security",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-11-18T18:50:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50537626",
+    "title": "Show HN: Professor Euler – Offline math desk, 300-function CAS, workbooks",
+    "url": "https://euler.dawei7.com",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-11-17T20:21:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50583254",
+    "title": "Nasdaq erases all 2026 gains",
+    "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+    "source": "hackernews",
+    "score": 59.0,
+    "published_at": "2026-11-20T22:29:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50583117",
+    "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+    "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-11-20T22:18:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50581438",
+    "title": "Nvidia accounting under SEC investigation, sources say",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+    "source": "hackernews",
+    "score": 195.0,
+    "published_at": "2026-11-20T20:22:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50581403",
+    "title": "Show HN: OpenComputer – an open source alternative to Devin",
+    "url": "https://github.com/diggerhq/opencomputer",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-11-20T20:19:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50535504",
+    "title": "Replacing implicit optionals with a None type in TypeDB",
+    "url": "https://typedb.com/blog/replacing-implicit-optionals-with-a-none-type-in-typedb",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-11-17T18:03:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50580536",
+    "title": "Winedroid – run Android apps without Android (WASM demo)",
+    "url": "https://winedroid.soham.sh/demo/",
+    "source": "hackernews",
+    "score": 83.0,
+    "published_at": "2026-11-20T19:30:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50583768",
+    "title": "Sir Brian May adds new dimension to Hera asteroid",
+    "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-11-20T23:19:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50581084",
+    "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+    "url": "https://scottaaronson.blog/?p=10344",
+    "source": "hackernews",
+    "score": 185.0,
+    "published_at": "2026-11-20T20:03:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50579297",
+    "title": "Vibecoding an inference chip",
+    "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+    "source": "hackernews",
+    "score": 99.0,
+    "published_at": "2026-11-20T18:15:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50581177",
+    "title": "And Yet, It Moves",
+    "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-11-20T20:07:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50581110",
+    "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+    "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+    "source": "hackernews",
+    "score": 67.0,
+    "published_at": "2026-11-20T20:03:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50582629",
+    "title": "A few hours ago Google DeepMind created a math horizon repo",
+    "url": "https://github.com/google-deepmind/math-horizon",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-11-20T21:42:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50583911",
+    "title": "GitHub nuked me with no reason, and (so far) no ability to contact a human",
+    "url": "https://nate.mecca1.net/posts/2026-11-20_help/",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-11-20T23:35:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50578358",
+    "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+    "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+    "source": "hackernews",
+    "score": 298.0,
+    "published_at": "2026-11-20T17:21:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50579331",
+    "title": "We promoted developers into architects without informing them",
+    "url": "https://manidoraisamy.com/developer-to-architect.html",
+    "source": "hackernews",
+    "score": 252.0,
+    "published_at": "2026-11-20T18:17:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50583274",
+    "title": "NINLIVE: The Nine Inch Nails live archive",
+    "url": "https://ninlive.com/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-11-20T22:30:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50581260",
+    "title": "Inkling 2 Mini",
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "source": "hackernews",
+    "score": 551.0,
+    "published_at": "2026-11-20T20:12:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50579568",
+    "title": "Hurried Announcement: Alessandro Masullo GRH",
+    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+    "source": "hackernews",
+    "score": 1371.0,
+    "published_at": "2026-11-20T18:33:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:9bvpac",
     "title": "Persistent incrementality in Rust",
     "url": "https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/",
@@ -4756,246 +4996,6 @@
     "source": "hackernews",
     "score": 229.0,
     "published_at": "2026-11-16T07:38:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50520506",
-    "title": "Show HN: Claimseed, synthetic Medicare docs with planted errors and answer keys",
-    "url": "https://github.com/claimseed/claimseed",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-11-16T17:51:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50520518",
-    "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
-    "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-11-16T17:52:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50517488",
-    "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
-    "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-    "source": "hackernews",
-    "score": 534.0,
-    "published_at": "2026-11-16T13:39:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50516473",
-    "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-    "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-    "source": "hackernews",
-    "score": 232.0,
-    "published_at": "2026-11-16T11:39:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50519744",
-    "title": "Jiff 1.0: A datetime library for Rust",
-    "url": "https://burntsushi.net/jiff/",
-    "source": "hackernews",
-    "score": 66.0,
-    "published_at": "2026-11-16T16:53:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50520182",
-    "title": "Grazing sheep in fields with solar arrays",
-    "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-11-16T17:27:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7kt4yi",
-    "title": "Nix: Using the eval-profiler",
-    "url": "https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-15T19:28:22.349-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:x0ykkw",
-    "title": "Universal XSS in uBlock Origin from website-driven element picker",
-    "url": "https://iter.ca/post/ubo-uxss/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-11-15T23:12:27.923-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ydzo2o",
-    "title": "Announcing Hegel-clj",
-    "url": "https://aphyr.com/posts/428-announcing-hegel-clj",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-11-15T22:12:25.212-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:rhoopo",
-    "title": "Migrating from GitHub to Codeberg",
-    "url": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-11-15T23:10:34.395-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:thiekk",
-    "title": "Paint in the memory of other programs",
-    "url": "https://citrons.xyz/journal/2026-04-13",
-    "source": "lobsters",
-    "score": 13.0,
-    "published_at": "2026-11-15T21:37:36.159-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257359",
-    "title": "让你见识下 8 年 IOS 的实力",
-    "url": "https://www.v2ex.com/t/1257359",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-11-16T03:07:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257291",
-    "title": "微软悄悄上线了一款新的中文输入法",
-    "url": "https://www.v2ex.com/t/1257291",
-    "source": "v2ex",
-    "score": 100.0,
-    "published_at": "2026-11-16T01:09:31+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257274",
-    "title": "我觉得 AI 的发展已经到头了",
-    "url": "https://www.v2ex.com/t/1257274",
-    "source": "v2ex",
-    "score": 116.0,
-    "published_at": "2026-11-15T18:57:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257304",
-    "title": "路上天天都能遇到焊颈帝",
-    "url": "https://www.v2ex.com/t/1257304",
-    "source": "v2ex",
-    "score": 126.0,
-    "published_at": "2026-11-16T01:39:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257321",
-    "title": "唉，QQ 音乐年会员又涨价了",
-    "url": "https://www.v2ex.com/t/1257321",
-    "source": "v2ex",
-    "score": 128.0,
-    "published_at": "2026-11-16T02:06:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257339",
-    "title": "其实我个人也是比较偏向于使用国模的，但问题是",
-    "url": "https://www.v2ex.com/t/1257339",
-    "source": "v2ex",
-    "score": 242.0,
-    "published_at": "2026-11-16T02:37:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257325",
-    "title": "世态炎凉，瑟瑟发抖",
-    "url": "https://www.v2ex.com/t/1257325",
-    "source": "v2ex",
-    "score": 278.0,
-    "published_at": "2026-11-16T02:15:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7707227810214101026",
-    "title": "iOS 上架 App 流程",
-    "url": "https://juejin.cn/post/7707227810214101026",
-    "source": "juejin",
-    "score": 0.08176926,
-    "published_at": "2026-11-13T08:41:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7707957158462357546",
-    "title": "代码越来越便宜，判断力越来越贵：AI 时代的 Android 架构与协程避坑指南",
-    "url": "https://juejin.cn/post/7707957158462357546",
-    "source": "juejin",
-    "score": 0.4639078,
-    "published_at": "2026-11-15T10:52:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7707533858106884115",
-    "title": "一天一个开源项目（第259篇）：Modern Web Guidance —— Chrome 团队给 AI 编码 Agent 的「现代 Web 最佳实践」外挂",
-    "url": "https://juejin.cn/post/7707533858106884115",
-    "source": "juejin",
-    "score": 0.10298538,
-    "published_at": "2026-11-13T15:24:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7707882030666629163",
-    "title": "格局！刚刚 DeepSeek 正式开放全家桶 API，咱都能复刻 DeepSeek App 了？",
-    "url": "https://juejin.cn/post/7707882030666629163",
-    "source": "juejin",
-    "score": 0.19038533,
-    "published_at": "2026-11-14T04:49:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7707495140638834742",
-    "title": "打造自己的 Personal Agent，从抄大肥鱼作业开始",
-    "url": "https://juejin.cn/post/7707495140638834742",
-    "source": "juejin",
-    "score": 0.10385703,
-    "published_at": "2026-11-13T13:52:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7707227810214346786",
-    "title": "AI 能把页面写出来，为什么改个需求就开始崩？",
-    "url": "https://juejin.cn/post/7707227810214346786",
-    "source": "juejin",
-    "score": 0.11094172,
-    "published_at": "2026-11-13T10:11:16+00:00",
     "summary": "",
     "key_points": []
   }
