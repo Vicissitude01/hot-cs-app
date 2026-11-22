@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:g5msf2",
+    "title": "Testing Terraform with AWS Emulator",
+    "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-22T15:44:04.839-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:oeamed",
+    "title": "scriptura: a cozy corner for your scripts",
+    "url": "https://alanpearce.eu/post/scriptura/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-22T13:13:26.842-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:e89tey",
+    "title": "Calculate radio link placement and node amount for your city's mesh network",
+    "url": "https://meshcoveragecalculator.lalala.ing/",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-22T12:17:44.770-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wc8fla",
+    "title": "Gliver completes the Guix desktop",
+    "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-11-22T14:10:15.360-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:leqwqu",
+    "title": "GitHub Actions accepts invalid YAML",
+    "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-11-22T15:49:18.929-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7710123265189412904",
+    "title": "2026 GitHub 最火的 10 个视频制作与剪辑开源项目：AI 出片、代码生视频、无损剪辑怎么选（附实测截图）",
+    "url": "https://juejin.cn/post/7710123265189412904",
+    "source": "juejin",
+    "score": 0.16147466,
+    "published_at": "2026-11-21T01:48:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:cursor/plugins",
+    "title": "plugins",
+    "url": "https://github.com/cursor/plugins",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:jingyaogong/minimind",
+    "title": "minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "github-trending:obra/superpowers",
+    "title": "superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github-trending",
+    "score": 50.0,
+    "published_at": "",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50603143",
+    "title": "Assume People Are Not Interested in Your Blog Post",
+    "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-11-22T19:41:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50603730",
+    "title": "AWS got hit by an outage too. You didn't hear about it",
+    "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-11-22T20:50:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50599309",
+    "title": "Testing Terraform with AWS Emulator",
+    "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-11-22T13:00:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50602153",
+    "title": "Harvard CS 2881R AI Safety",
+    "url": "https://boazbk.github.io/mltheoryseminar/",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-11-22T18:01:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50559441",
+    "title": "The Transvoxel Algorithm",
+    "url": "https://transvoxel.org/",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-11-19T12:50:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50600838",
+    "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+    "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-11-22T15:59:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50562207",
+    "title": "Inside PyPy: First Contact with RPython",
+    "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+    "source": "hackernews",
+    "score": 49.0,
+    "published_at": "2026-11-19T16:26:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50556249",
+    "title": "Agentics: Mushy Software",
+    "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-11-19T05:02:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50603232",
+    "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+    "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-11-22T19:51:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50604314",
+    "title": "Agent swarm trying to solve P vs. NP",
+    "url": "https://pequalnp.com/",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-11-22T21:53:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50603962",
+    "title": "Will the first approved psychedelic become a blockbuster?",
+    "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-11-22T21:13:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50603674",
+    "title": "I did a meditation and it sort of changed my personality?!",
+    "url": "https://www.benkuhn.net/meditation/",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-11-22T20:41:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50546124",
+    "title": "Advice for Young Researchers",
+    "url": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
+    "source": "hackernews",
+    "score": 20.0,
+    "published_at": "2026-11-18T13:33:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50547698",
+    "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+    "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-11-18T15:43:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50604472",
+    "title": "The Usefulness of Useless Knowledge [pdf]",
+    "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+    "source": "hackernews",
+    "score": 6.0,
+    "published_at": "2026-11-22T22:10:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50602947",
+    "title": "What Happened to Silicon Valley?",
+    "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+    "source": "hackernews",
+    "score": 273.0,
+    "published_at": "2026-11-22T19:20:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50601525",
+    "title": "Perplexity and Intelligence",
+    "url": "https://openai.com/index/perplexity-and-intelligence/",
+    "source": "hackernews",
+    "score": 417.0,
+    "published_at": "2026-11-22T17:06:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50603589",
+    "title": "A miniature San Francisco with live buses, planes and boats",
+    "url": "https://smallsf.com/",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-11-22T20:33:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50603465",
+    "title": "Nyx, the Oldest Internet Service Provider",
+    "url": "https://nyx.net/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-11-22T20:15:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50603845",
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-11-22T21:01:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50602843",
+    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+    "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "source": "hackernews",
+    "score": 237.0,
+    "published_at": "2026-11-22T19:10:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:bjoete",
     "title": "Falsehoods Programmers Believe About ATProto",
     "url": "https://reiver.link/atproto/falsehoods-programmers-believe/",
@@ -4696,306 +4996,6 @@
     "source": "lobsters",
     "score": 6.0,
     "published_at": "2026-11-17T15:56:09.955-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:g0bf9i",
-    "title": "Java4Shell: Write once, RCE everywhere",
-    "url": "https://calif.io/java4shell/",
-    "source": "lobsters",
-    "score": 25.0,
-    "published_at": "2026-11-17T15:16:11.291-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257817",
-    "title": "如何合法合规的使用海外模型？",
-    "url": "https://www.v2ex.com/t/1257817",
-    "source": "v2ex",
-    "score": 78.0,
-    "published_at": "2026-11-17T13:52:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257636",
-    "title": "卖房 -> 租房",
-    "url": "https://www.v2ex.com/t/1257636",
-    "source": "v2ex",
-    "score": 82.0,
-    "published_at": "2026-11-17T03:13:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257631",
-    "title": "AI 切碎了我的注意力",
-    "url": "https://www.v2ex.com/t/1257631",
-    "source": "v2ex",
-    "score": 84.0,
-    "published_at": "2026-11-17T03:08:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257824",
-    "title": "Gemini Ultra 免费一个月？有 V 友领到了吗，想核对下条件",
-    "url": "https://www.v2ex.com/t/1257824",
-    "source": "v2ex",
-    "score": 98.0,
-    "published_at": "2026-11-17T14:55:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257674",
-    "title": "黑苹果 x86 最后的容光了",
-    "url": "https://www.v2ex.com/t/1257674",
-    "source": "v2ex",
-    "score": 114.0,
-    "published_at": "2026-11-17T05:27:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1257671",
-    "title": "19 号，后天你们会请假吗？",
-    "url": "https://www.v2ex.com/t/1257671",
-    "source": "v2ex",
-    "score": 120.0,
-    "published_at": "2026-11-17T05:13:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7708583883344838706",
-    "title": "最近爆火的 Chrome 新 skill 装进 WorkBuddy，AI 写代码起飞了",
-    "url": "https://juejin.cn/post/7708583883344838706",
-    "source": "juejin",
-    "score": 0.21396307,
-    "published_at": "2026-11-16T07:13:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50537120",
-    "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
-    "url": "https://arxiv.org/abs/2611.09827",
-    "source": "hackernews",
-    "score": 77.0,
-    "published_at": "2026-11-17T19:46:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50535740",
-    "title": "Not Everything Needs an LLM",
-    "url": "https://newsletter.posthog.com/p/decision-models",
-    "source": "hackernews",
-    "score": 102.0,
-    "published_at": "2026-11-17T18:16:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50538184",
-    "title": "Tencent Hy4 Flash",
-    "url": "https://hy.tencent.ai/research/hy4-flash",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-11-17T21:06:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50539039",
-    "title": "Latent Lattice Language Models",
-    "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
-    "source": "hackernews",
-    "score": 25.0,
-    "published_at": "2026-11-17T22:17:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50537290",
-    "title": "Web Browser Engineering (2021)",
-    "url": "https://browser.engineering/",
-    "source": "hackernews",
-    "score": 124.0,
-    "published_at": "2026-11-17T20:01:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50540472",
-    "title": "Cerebras Disaggregated Inference",
-    "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-11-18T00:56:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50538303",
-    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-    "source": "hackernews",
-    "score": 55.0,
-    "published_at": "2026-11-17T21:16:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50503492",
-    "title": "Fun with Constrained Programming",
-    "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-11-15T02:45:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50532849",
-    "title": "Highly classified US national security communications network goes down",
-    "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-    "source": "hackernews",
-    "score": 477.0,
-    "published_at": "2026-11-17T15:38:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50537156",
-    "title": "jQuery 4.1.0",
-    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-    "source": "hackernews",
-    "score": 254.0,
-    "published_at": "2026-11-17T19:50:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50539610",
-    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-    "url": "https://github.com/microsoft/onnxruntime",
-    "source": "hackernews",
-    "score": 133.0,
-    "published_at": "2026-11-17T23:18:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50539747",
-    "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-11-17T23:32:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50538994",
-    "title": "Quad9's withdrawal from France: A canary in the coal mine",
-    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-    "source": "hackernews",
-    "score": 308.0,
-    "published_at": "2026-11-17T22:13:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50540178",
-    "title": "Google's AI answers reducing search traffic by 40%",
-    "url": "https://revscope.co/blog/search-seo-geo-2026/",
-    "source": "hackernews",
-    "score": 81.0,
-    "published_at": "2026-11-18T00:17:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50540437",
-    "title": "ID.me terms required for IRS sign-in",
-    "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-    "source": "hackernews",
-    "score": 89.0,
-    "published_at": "2026-11-18T00:51:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50538240",
-    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-    "url": "https://calif.io/java4shell/",
-    "source": "hackernews",
-    "score": 543.0,
-    "published_at": "2026-11-17T21:11:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hode45",
-    "title": "Automatic Checking of Compiler Correctness with E-Graphs",
-    "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-17T12:18:12.198-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:de02yg",
-    "title": "Sarasa Gothic Mono",
-    "url": "https://picaq.github.io/sarasa",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-17T12:47:39.099-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:zoarxd",
-    "title": "Making Games in Go: Entity Component System (ECS)",
-    "url": "https://threedots.tech/post/making-games-in-go-ecs/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-17T11:18:53.833-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qmofba",
-    "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-    "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-11-17T08:38:24.970-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:kktn5b",
-    "title": "C’s designated initializers give us named arguments",
-    "url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-17T09:58:44.322-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qkalae",
-    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-    "url": "https://arxiv.org/abs/2607.02512",
-    "source": "lobsters",
-    "score": 6.0,
-    "published_at": "2026-11-17T06:55:46.415-06:00",
     "summary": "",
     "key_points": []
   }
