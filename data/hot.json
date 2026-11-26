@@ -1,5 +1,505 @@
 [
   {
+    "id": "lobsters:bl8gp8",
+    "title": "Meaningful Human-in-the-Loop Checking of  GenAI Synthesis for Restricted Languages",
+    "url": "https://www.siddharthaprasad.com/papers/pafk-pick.pdf",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-26T00:35:12.183-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:2kwjb4",
+    "title": "Qualcomm’s Oryon 3 Reaches the Top",
+    "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-26T02:02:18.480-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:2thnmt",
+    "title": "I Booted From My Tape Backup From 2002",
+    "url": "https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-25T21:56:07.099-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:w4kxiz",
+    "title": "How WinHelp files work",
+    "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-26T00:39:00.543-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hge0sd",
+    "title": "Browser tabs as a container runtime",
+    "url": "https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-25T22:57:04.708-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pbfhis",
+    "title": "UI style guides",
+    "url": "https://aresluna.org/ui-style-guides/",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-11-25T18:54:10.835-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:faqxns",
+    "title": "The beauty of CSS mixins",
+    "url": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-11-25T19:02:17.726-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:9imhob",
+    "title": "Make the Plan a Value",
+    "url": "https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value",
+    "source": "lobsters",
+    "score": 8.0,
+    "published_at": "2026-11-25T18:12:06.360-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259868",
+    "title": "Claude 桌面端可接入 DeepSeek，有意义吗？",
+    "url": "https://www.v2ex.com/t/1259868",
+    "source": "v2ex",
+    "score": 96.0,
+    "published_at": "2026-11-26T01:03:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259906",
+    "title": "广州有没有治疗 睡眠少的医院",
+    "url": "https://www.v2ex.com/t/1259906",
+    "source": "v2ex",
+    "score": 106.0,
+    "published_at": "2026-11-26T02:11:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259968",
+    "title": "我开始受 AI 毒害了。。。",
+    "url": "https://www.v2ex.com/t/1259968",
+    "source": "v2ex",
+    "score": 122.0,
+    "published_at": "2026-11-26T04:10:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259943",
+    "title": "最近买冬装，淘宝首页已经被各种“杂牌”占领了",
+    "url": "https://www.v2ex.com/t/1259943",
+    "source": "v2ex",
+    "score": 130.0,
+    "published_at": "2026-11-26T03:09:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259773",
+    "title": "回帖 + 加群送 $18 额度，Claude Code / Codex 改个地址就能用，GPT 低至官方 1.35 折 | 林易 API",
+    "url": "https://www.v2ex.com/t/1259773",
+    "source": "v2ex",
+    "score": 136.0,
+    "published_at": "2026-11-25T09:12:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259875",
+    "title": "彩票预测分析",
+    "url": "https://www.v2ex.com/t/1259875",
+    "source": "v2ex",
+    "score": 140.0,
+    "published_at": "2026-11-26T01:23:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259893",
+    "title": "想换一台 MacBook，纠结 14 寸和 16 寸，求有实际使用经验的朋友聊聊",
+    "url": "https://www.v2ex.com/t/1259893",
+    "source": "v2ex",
+    "score": 142.0,
+    "published_at": "2026-11-26T01:50:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259889",
+    "title": "个人知识库怎么搞比较好？",
+    "url": "https://www.v2ex.com/t/1259889",
+    "source": "v2ex",
+    "score": 198.0,
+    "published_at": "2026-11-26T01:45:55+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259982",
+    "title": "美股同学看过来，需要老雷交易笔记的可以留下联系方式，私信",
+    "url": "https://www.v2ex.com/t/1259982",
+    "source": "v2ex",
+    "score": 206.0,
+    "published_at": "2026-11-26T05:24:32+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259867",
+    "title": "认真问，现在是不是可以抄底了？",
+    "url": "https://www.v2ex.com/t/1259867",
+    "source": "v2ex",
+    "score": 306.0,
+    "published_at": "2026-11-26T00:48:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711308296166588450",
+    "title": "GLM-5.4 深度拆解：750B 参数如何「循环」出 2-3T 级智能？",
+    "url": "https://juejin.cn/post/7711308296166588450",
+    "source": "juejin",
+    "score": 0.15478524,
+    "published_at": "2026-11-24T02:45:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711743882738352163",
+    "title": "我把 7 个 UI 库的下拉框用键盘敲了一遍，3 家出了岔子",
+    "url": "https://juejin.cn/post/7711743882738352163",
+    "source": "juejin",
+    "score": 0.34893871,
+    "published_at": "2026-11-25T03:36:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711983826453217306",
+    "title": "25 天做了个独立开发者作品橱窗，收录 340+ 件作品，代码全开源",
+    "url": "https://juejin.cn/post/7711983826453217306",
+    "source": "juejin",
+    "score": 0.34590939,
+    "published_at": "2026-11-25T11:05:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711527711516950564",
+    "title": "15 个可以直接安装的 AI Agent Skills：按场景挑",
+    "url": "https://juejin.cn/post/7711527711516950564",
+    "source": "juejin",
+    "score": 0.19978188,
+    "published_at": "2026-11-24T07:31:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711645731820011535",
+    "title": "AI 帮我写了大半年的代码，我却越来越不会写代码了",
+    "url": "https://juejin.cn/post/7711645731820011535",
+    "source": "juejin",
+    "score": 0.19558827,
+    "published_at": "2026-11-24T08:11:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711915889649647659",
+    "title": "线上突发大面积白屏，排查一天后，我发现是 `JSON.parse` 背了锅",
+    "url": "https://juejin.cn/post/7711915889649647659",
+    "source": "juejin",
+    "score": 0.47604389,
+    "published_at": "2026-11-25T08:44:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711955915188240384",
+    "title": "为什么成熟 Android 项目几乎看不到 IdleHandler？",
+    "url": "https://juejin.cn/post/7711955915188240384",
+    "source": "juejin",
+    "score": 0.60693819,
+    "published_at": "2026-11-25T11:58:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711260888724291620",
+    "title": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录",
+    "url": "https://juejin.cn/post/7711260888724291620",
+    "source": "juejin",
+    "score": 0.17452767,
+    "published_at": "2026-11-24T01:21:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711305356505399350",
+    "title": "Android Keep Rules 解读，直接影响 Google Play 上架和曝光",
+    "url": "https://juejin.cn/post/7711305356505399350",
+    "source": "juejin",
+    "score": 0.23343026,
+    "published_at": "2026-11-24T03:38:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711658681012174883",
+    "title": "写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！",
+    "url": "https://juejin.cn/post/7711658681012174883",
+    "source": "juejin",
+    "score": 0.42739111,
+    "published_at": "2026-11-25T00:58:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711283330075377698",
+    "title": "阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年",
+    "url": "https://juejin.cn/post/7711283330075377698",
+    "source": "juejin",
+    "score": 0.22567814,
+    "published_at": "2026-11-24T01:05:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711319812090560566",
+    "title": "用了三年微前端，我们终于把它拆成了单体应用",
+    "url": "https://juejin.cn/post/7711319812090560566",
+    "source": "juejin",
+    "score": 0.27680834,
+    "published_at": "2026-11-24T07:19:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711950881198358562",
+    "title": "Docker 部署：从镜像构建到容器上线",
+    "url": "https://juejin.cn/post/7711950881198358562",
+    "source": "juejin",
+    "score": 3.80980652,
+    "published_at": "2026-11-26T01:32:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7712008429045317666",
+    "title": "华为园区，为啥碰到的高颜值妹子总是外包牌，华为工牌的基本都是资深大姐...",
+    "url": "https://juejin.cn/post/7712008429045317666",
+    "source": "juejin",
+    "score": 8.26423198,
+    "published_at": "2026-11-26T00:55:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50620991",
+    "title": "Hkust 3D Prints a Titanium Alloy That Keeps Hardening",
+    "url": "https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-11-23T23:25:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50608175",
+    "title": "Can a TV be too large? An investigation",
+    "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+    "source": "hackernews",
+    "score": 57.0,
+    "published_at": "2026-11-23T06:27:47+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50644814",
+    "title": "Deriving Black-Scholes",
+    "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+    "source": "hackernews",
+    "score": 70.0,
+    "published_at": "2026-11-25T17:18:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50651627",
+    "title": "Unconditional Integer Factorization in Subexponential Time",
+    "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-11-26T04:59:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50627532",
+    "title": "XKCD and Fourier",
+    "url": "https://leancrew.com/all-this/2026/10/xkcd-and-fourier/",
+    "source": "hackernews",
+    "score": 47.0,
+    "published_at": "2026-11-24T13:00:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50629555",
+    "title": "'Castles' Review",
+    "url": "https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink",
+    "source": "hackernews",
+    "score": 16.0,
+    "published_at": "2026-11-24T15:24:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50634381",
+    "title": "The history of civilization is the history of wheat",
+    "url": "https://asteriskmag.com/issues/16/marginal-grains",
+    "source": "hackernews",
+    "score": 21.0,
+    "published_at": "2026-11-24T20:40:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50637448",
+    "title": "How did pinwheel calculators work?",
+    "url": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-11-25T02:00:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50651158",
+    "title": "Qualcomm's Oryon 3 Reaches the Top",
+    "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-11-26T03:43:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50651117",
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+    "source": "hackernews",
+    "score": 205.0,
+    "published_at": "2026-11-26T03:36:58+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50626466",
+    "title": "What VP ≠ VNP Means (In 3 Minutes)",
+    "url": "https://www.friedgil.com/vpvnp",
+    "source": "hackernews",
+    "score": 121.0,
+    "published_at": "2026-11-24T10:56:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50598636",
+    "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+    "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+    "source": "hackernews",
+    "score": 82.0,
+    "published_at": "2026-11-22T11:29:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50623232",
+    "title": "Show HN: Synth Patch Hero",
+    "url": "https://swarkentin.github.io/synth-patch-hero/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-11-24T03:24:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50649864",
+    "title": "Tell HN: Lots of Ask HNs again",
+    "url": "https://news.ycombinator.com/item?id=50649864",
+    "source": "hackernews",
+    "score": 249.0,
+    "published_at": "2026-11-26T00:43:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50649834",
+    "title": "Collection of preserved UI style guides",
+    "url": "https://aresluna.org/ui-style-guides/",
+    "source": "hackernews",
+    "score": 150.0,
+    "published_at": "2026-11-26T00:40:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50650892",
+    "title": "Minipg: PostgreSQL as a Single Executable",
+    "url": "https://progrium.github.io/minipg/",
+    "source": "hackernews",
+    "score": 110.0,
+    "published_at": "2026-11-26T03:00:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50652184",
+    "title": "Moat: Your OpenRouter Replacement",
+    "url": "https://commandcode.ai/moat",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-11-26T06:32:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50651719",
+    "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+    "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+    "source": "hackernews",
+    "score": 74.0,
+    "published_at": "2026-11-26T05:12:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:mzffbj",
     "title": "Designing for a Sense of Mystery and Wonder (2021)",
     "url": "https://blog.runevision.com/2021/02/designing-for-sense-of-mystery-and.html",
@@ -4496,506 +4996,6 @@
     "source": "v2ex",
     "score": 74.0,
     "published_at": "2026-11-21T02:15:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258717",
-    "title": "推荐个梯子吧，自己买了好几个，一到晚上连油管都打不开 太拉了，打算预算可以加一点",
-    "url": "https://www.v2ex.com/t/1258717",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-11-21T03:48:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709537202951585818",
-    "title": "给Deepseek Harness装上插件市场，从此插件无忧",
-    "url": "https://juejin.cn/post/7709537202951585818",
-    "source": "juejin",
-    "score": 0.13504322,
-    "published_at": "2026-11-19T05:19:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709697282351120426",
-    "title": "用 unslop 拯救 AI 生成网页的塑料感，7 分钟重构落地实测",
-    "url": "https://juejin.cn/post/7709697282351120426",
-    "source": "juejin",
-    "score": 0.17196306,
-    "published_at": "2026-11-19T11:20:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709680714968580159",
-    "title": "AI 带来的新生意｜稀土掘金 X-Lab 年度大会招募开启",
-    "url": "https://juejin.cn/post/7709680714968580159",
-    "source": "juejin",
-    "score": 0.15548742,
-    "published_at": "2026-11-19T06:59:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709711092017086464",
-    "title": "我又用 AI 做了个小程序：24 天，记录我这辈子认识的人",
-    "url": "https://juejin.cn/post/7709711092017086464",
-    "source": "juejin",
-    "score": 0.20423291,
-    "published_at": "2026-11-20T02:16:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709495049776709670",
-    "title": "我扒了 GitHub Trending 前 20，8 个在做同一件事：给 Coding Agent 造基础设施",
-    "url": "https://juejin.cn/post/7709495049776709670",
-    "source": "juejin",
-    "score": 0.16668324,
-    "published_at": "2026-11-19T02:50:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:mvanhorn/last30days-skill",
-    "title": "last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50588436",
-    "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
-    "source": "hackernews",
-    "score": 76.0,
-    "published_at": "2026-11-21T12:15:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50541047",
-    "title": "Show HN: An ASCII cell aquarium for your terminal",
-    "url": "https://github.com/kborer/cells/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-11-18T02:18:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50546873",
-    "title": "Defcon 5's California Caravan Program/Zine",
-    "url": "https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-11-18T14:40:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50587859",
-    "title": "FBI reportedly investigating apparent hack of its criminal database",
-    "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-    "source": "hackernews",
-    "score": 97.0,
-    "published_at": "2026-11-21T10:33:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50586648",
-    "title": "Surprisingly Adorable Insect Portraits",
-    "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-    "source": "hackernews",
-    "score": 98.0,
-    "published_at": "2026-11-21T06:44:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50589618",
-    "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
-    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-11-21T14:36:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50546587",
-    "title": "LLMs can read and write executables byte by byte from a hex dump",
-    "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-11-18T14:15:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50587208",
-    "title": "RCE in Gnupg",
-    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-    "source": "hackernews",
-    "score": 125.0,
-    "published_at": "2026-11-21T08:32:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50588916",
-    "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
-    "url": "https://simple-bench.com/",
-    "source": "hackernews",
-    "score": 44.0,
-    "published_at": "2026-11-21T13:16:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50587875",
-    "title": "My Monitor Was Cutting My Download Speed by 75%",
-    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-    "source": "hackernews",
-    "score": 152.0,
-    "published_at": "2026-11-21T10:36:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50532613",
-    "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-    "source": "hackernews",
-    "score": 303.0,
-    "published_at": "2026-11-17T15:22:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50588982",
-    "title": "Derek Lowe: Detonating a Pile of Lead Azide",
-    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-    "source": "hackernews",
-    "score": 118.0,
-    "published_at": "2026-11-21T13:23:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1qkbmq",
-    "title": "DNS Stamps Specification",
-    "url": "https://dnscrypt.info/stamps-specifications/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-20T18:16:57.556-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ixhrac",
-    "title": "From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient",
-    "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-20T22:31:29.960-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:1n8fzn",
-    "title": "Slopstrap: Make your site look hastily vibecoded",
-    "url": "https://slopstrap.mikelacher.com/l",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-11-20T18:46:40.624-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:79x708",
-    "title": "Scaling Git horizontally: how we moved beyond Multi-Raft",
-    "url": "https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-20T22:14:02.531-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258558",
-    "title": "求助下上海宽带",
-    "url": "https://www.v2ex.com/t/1258558",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-11-20T07:03:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258592",
-    "title": "逆向了 macOS 屏幕共享的高性能模式，做了个免费的 iPhone / iPad 连 Mac 远程桌面",
-    "url": "https://www.v2ex.com/t/1258592",
-    "source": "v2ex",
-    "score": 58.0,
-    "published_at": "2026-11-20T08:10:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258629",
-    "title": "许愿式编程会取代程序员吗？",
-    "url": "https://www.v2ex.com/t/1258629",
-    "source": "v2ex",
-    "score": 62.0,
-    "published_at": "2026-11-20T10:39:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258688",
-    "title": "黎曼猜想证明意味着…….",
-    "url": "https://www.v2ex.com/t/1258688",
-    "source": "v2ex",
-    "score": 66.0,
-    "published_at": "2026-11-20T23:03:17+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258661",
-    "title": "想偷偷出钱，做个让爸妈锻炼打卡就能提现的 App，怎么实现？",
-    "url": "https://www.v2ex.com/t/1258661",
-    "source": "v2ex",
-    "score": 74.0,
-    "published_at": "2026-11-20T14:27:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258620",
-    "title": "[更新] iPhone 上远程使用 ClaudeCode 等 Coding Agent 的 UULink 重磅更新，这回征集 Windows 测试用户，另外还是长期送兑换码给真正需要的朋友",
-    "url": "https://www.v2ex.com/t/1258620",
-    "source": "v2ex",
-    "score": 90.0,
-    "published_at": "2026-11-20T09:35:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258665",
-    "title": "黎曼猜想被证明了？",
-    "url": "https://www.v2ex.com/t/1258665",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-11-20T14:53:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258559",
-    "title": "[送码] 波波小红书获客助手：养号、AI 自动评论、自动发现线索（自己天天在用的小工具）",
-    "url": "https://www.v2ex.com/t/1258559",
-    "source": "v2ex",
-    "score": 94.0,
-    "published_at": "2026-11-20T07:04:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258591",
-    "title": "在清华读了一年非全后的感受",
-    "url": "https://www.v2ex.com/t/1258591",
-    "source": "v2ex",
-    "score": 96.0,
-    "published_at": "2026-11-20T08:08:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709344829042507811",
-    "title": "Flutter最佳实践：用 flutter_html 渲染富文本",
-    "url": "https://juejin.cn/post/7709344829042507811",
-    "source": "juejin",
-    "score": 0.12832231,
-    "published_at": "2026-11-18T13:56:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709817287637516322",
-    "title": "思考，行动，复盘｜2026",
-    "url": "https://juejin.cn/post/7709817287637516322",
-    "source": "juejin",
-    "score": 0.39114011,
-    "published_at": "2026-11-20T02:39:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709755322558431242",
-    "title": "手搓 Agent（五）：学会翻书——RAG，先查资料再回答",
-    "url": "https://juejin.cn/post/7709755322558431242",
-    "source": "juejin",
-    "score": 0.2198279,
-    "published_at": "2026-11-19T10:44:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709380677695324203",
-    "title": "GPT-6.2更强更便宜了，为什么还有人骂？",
-    "url": "https://juejin.cn/post/7709380677695324203",
-    "source": "juejin",
-    "score": 0.12736446,
-    "published_at": "2026-11-18T12:37:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709771529751199780",
-    "title": "这 3 年 AI Agent 到底进化了啥？万字大白话，一次讲透！",
-    "url": "https://juejin.cn/post/7709771529751199780",
-    "source": "juejin",
-    "score": 0.58355561,
-    "published_at": "2026-11-19T11:16:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709778061000441910",
-    "title": "Jetpack Compose 1.13 发布，憋了这么久终有交代了",
-    "url": "https://juejin.cn/post/7709778061000441910",
-    "source": "juejin",
-    "score": 0.54408363,
-    "published_at": "2026-11-20T01:03:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710060982518186020",
-    "title": "HarmonyOS 保存组件截图到相册 componentSnapshot 到 photoAccessHelper 完整链",
-    "url": "https://juejin.cn/post/7710060982518186020",
-    "source": "juejin",
-    "score": 10.33937979,
-    "published_at": "2026-11-20T15:01:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710058428483780623",
-    "title": "空值、日期、字符串：业务 SQL 里的函数先跑一遍",
-    "url": "https://juejin.cn/post/7710058428483780623",
-    "source": "juejin",
-    "score": 23.91943204,
-    "published_at": "2026-11-21T00:49:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50584429",
-    "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
-    "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-11-21T00:33:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50576012",
-    "title": "Slopstrap – Make your site look hastily vibecoded",
-    "url": "https://slopstrap.mikelacher.com/",
-    "source": "hackernews",
-    "score": 179.0,
-    "published_at": "2026-11-20T15:24:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50521550",
-    "title": "I can’t believe it’s 1",
-    "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
-    "source": "hackernews",
-    "score": 56.0,
-    "published_at": "2026-11-16T19:07:13+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50495392",
-    "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-    "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-    "source": "hackernews",
-    "score": 107.0,
-    "published_at": "2026-11-14T09:13:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50583856",
-    "title": "Serious cyberattack thought backed by wealthy operators",
-    "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-11-20T23:29:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50574383",
-    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "source": "hackernews",
-    "score": 239.0,
-    "published_at": "2026-11-20T13:29:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50556482",
-    "title": "Fewer slides, more dragons",
-    "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-11-19T05:46:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50583761",
-    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-    "url": "https://news.ycombinator.com/item?id=50583761",
-    "source": "hackernews",
-    "score": 84.0,
-    "published_at": "2026-11-20T23:18:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50585593",
-    "title": "BlackBlaze now explicitly states selling your data for advertisement",
-    "url": "https://www.backblaze.com/company/policy/privacy",
-    "source": "hackernews",
-    "score": 148.0,
-    "published_at": "2026-11-21T03:23:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50585376",
-    "title": "Clojure will affect the way you think about programming (2017)",
-    "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-11-21T02:40:39+00:00",
     "summary": "",
     "key_points": []
   }
