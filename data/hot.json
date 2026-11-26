@@ -1,5 +1,355 @@
 [
   {
+    "id": "lobsters:mzffbj",
+    "title": "Designing for a Sense of Mystery and Wonder (2021)",
+    "url": "https://blog.runevision.com/2021/02/designing-for-sense-of-mystery-and.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-25T17:28:57.752-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:pceggz",
+    "title": "mockitdown examples - user-interface mockup language like SwiftUI",
+    "url": "https://bbogovich.github.io/mockitdown/demos/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-25T14:46:55.955-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tlwot6",
+    "title": "Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)",
+    "url": "https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-25T16:26:56.449-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:rtde6f",
+    "title": "SSH is a GUI framework",
+    "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-25T16:55:47.525-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:l6g7j1",
+    "title": "Typed indexes in Zig",
+    "url": "https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-25T16:48:44.713-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ilit8q",
+    "title": "Scott Aaronson on recent complexity theory AI achievements",
+    "url": "https://scottaaronson.blog/?p=10379",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-11-25T15:52:52.967-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:8rgqmw",
+    "title": "Entering the Geminispace",
+    "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+    "source": "lobsters",
+    "score": 5.0,
+    "published_at": "2026-11-25T16:43:05.044-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:aulbi2",
+    "title": "Update on a security incident involving 1Password’s backend systems",
+    "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "source": "lobsters",
+    "score": 32.0,
+    "published_at": "2026-11-25T11:43:13.558-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wzlzlh",
+    "title": "Slow Ubuntu security response times",
+    "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+    "source": "lobsters",
+    "score": 42.0,
+    "published_at": "2026-11-25T14:10:24.526-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259736",
+    "title": "避雷帖：Claude KYC 找人认证慎重",
+    "url": "https://www.v2ex.com/t/1259736",
+    "source": "v2ex",
+    "score": 106.0,
+    "published_at": "2026-11-25T07:14:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711259760092315657",
+    "title": "又一款数据库同步神器，2.3K Star的dbswitch",
+    "url": "https://juejin.cn/post/7711259760092315657",
+    "source": "juejin",
+    "score": 0.22027954,
+    "published_at": "2026-11-24T01:57:57+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50648822",
+    "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+    "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-11-25T22:57:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50639698",
+    "title": "Smart people who give a shit use tools",
+    "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+    "source": "hackernews",
+    "score": 261.0,
+    "published_at": "2026-11-25T07:46:43+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50616937",
+    "title": "Why \"all different\" Sets take 5x longer to find",
+    "url": "https://setdaily.app/blog/spotting-sets",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-11-23T18:48:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50623028",
+    "title": "A fast CAS with a focus on resolution of singularities",
+    "url": "https://github.com/pportilla/atlas",
+    "source": "hackernews",
+    "score": 11.0,
+    "published_at": "2026-11-24T02:57:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50624684",
+    "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+    "url": "https://www.rchive.computer/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-11-24T07:03:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50619073",
+    "title": "The undocumented 249-file limit for Googlebot rendering",
+    "url": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
+    "source": "hackernews",
+    "score": 27.0,
+    "published_at": "2026-11-23T20:50:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50635783",
+    "title": "Predicting LoRA size for any dataset",
+    "url": "https://engram.com/blog/lora-size",
+    "source": "hackernews",
+    "score": 105.0,
+    "published_at": "2026-11-24T22:34:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50611593",
+    "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+    "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+    "source": "hackernews",
+    "score": 64.0,
+    "published_at": "2026-11-23T14:02:15+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50642939",
+    "title": "I checked Clojure's core with Lean and found unreported bugs",
+    "url": "https://s.conao3.com/blog/2026/e4f733",
+    "source": "hackernews",
+    "score": 172.0,
+    "published_at": "2026-11-25T14:56:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50645074",
+    "title": "Britain's ghost stations",
+    "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-11-25T17:43:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50648323",
+    "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+    "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-11-25T22:12:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50644980",
+    "title": "The polynomial Hirsch conjecture is false [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+    "source": "hackernews",
+    "score": 114.0,
+    "published_at": "2026-11-25T17:34:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50648035",
+    "title": "Defang Security Incident",
+    "url": "https://defang.io/blog/post/security-incident-november-2026/",
+    "source": "hackernews",
+    "score": 45.0,
+    "published_at": "2026-11-25T21:47:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50648365",
+    "title": "Bare Metal Qwen",
+    "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-11-25T22:15:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50646108",
+    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+    "url": "https://scottaaronson.blog/?p=10379",
+    "source": "hackernews",
+    "score": 791.0,
+    "published_at": "2026-11-25T19:11:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50589784",
+    "title": "SSH is a GUI framework",
+    "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+    "source": "hackernews",
+    "score": 119.0,
+    "published_at": "2026-11-21T14:52:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50647161",
+    "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+    "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-11-25T20:35:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50647181",
+    "title": "Slow Ubuntu security response times",
+    "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+    "source": "hackernews",
+    "score": 100.0,
+    "published_at": "2026-11-25T20:38:00+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50647158",
+    "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+    "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+    "source": "hackernews",
+    "score": 113.0,
+    "published_at": "2026-11-25T20:35:39+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50601280",
+    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+    "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+    "source": "hackernews",
+    "score": 200.0,
+    "published_at": "2026-11-22T16:44:48+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50647673",
+    "title": "The New York Times tells photographers not to use the latest Photoshop",
+    "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+    "source": "hackernews",
+    "score": 140.0,
+    "published_at": "2026-11-25T21:18:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50648050",
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
+    "url": "https://github.com/lsernau/grh-lean",
+    "source": "hackernews",
+    "score": 203.0,
+    "published_at": "2026-11-25T21:48:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50644817",
+    "title": "1Password Security Incident",
+    "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "source": "hackernews",
+    "score": 1051.0,
+    "published_at": "2026-11-25T17:18:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50648823",
+    "title": "Jev is (probably) Qwen3.5-35B-A3B",
+    "url": "https://modaic.dev/blog/latency-doesnt-lie",
+    "source": "hackernews",
+    "score": 132.0,
+    "published_at": "2026-11-25T22:57:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:fxfl8u",
     "title": "Writing a Turn Based Game Websocket Server in Haskell",
     "url": "https://blog.gordo.life/2026/04/12/haskell-websockets.html",
@@ -4646,356 +4996,6 @@
     "source": "hackernews",
     "score": 43.0,
     "published_at": "2026-11-21T02:40:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50534387",
-    "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-    "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-    "source": "hackernews",
-    "score": 103.0,
-    "published_at": "2026-11-17T16:58:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50586292",
-    "title": "ClawDOS – An AI coding agent for DOS",
-    "url": "http://ricapar.net/ClawDOS/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-11-21T05:38:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:4qcr3k",
-    "title": "Verifying formal models of Raft implementations",
-    "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-20T15:54:45.756-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:o5coeq",
-    "title": "Internet Archive Staffers Are Unionizing",
-    "url": "https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
-    "source": "lobsters",
-    "score": 26.0,
-    "published_at": "2026-11-20T12:39:29.070-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709425536502087720",
-    "title": "我是如何设计品牌站组件库的？",
-    "url": "https://juejin.cn/post/7709425536502087720",
-    "source": "juejin",
-    "score": 0.20882881,
-    "published_at": "2026-11-18T15:38:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50583445",
-    "title": "AI may have solved the most important problem in mathematics",
-    "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-11-20T22:46:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50550430",
-    "title": "Microsoft announces Windows Server 2028 with hardened security",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-    "source": "hackernews",
-    "score": 63.0,
-    "published_at": "2026-11-18T18:50:35+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50537626",
-    "title": "Show HN: Professor Euler – Offline math desk, 300-function CAS, workbooks",
-    "url": "https://euler.dawei7.com",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-11-17T20:21:52+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50583254",
-    "title": "Nasdaq erases all 2026 gains",
-    "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-    "source": "hackernews",
-    "score": 59.0,
-    "published_at": "2026-11-20T22:29:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50583117",
-    "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-    "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-11-20T22:18:20+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50581438",
-    "title": "Nvidia accounting under SEC investigation, sources say",
-    "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
-    "source": "hackernews",
-    "score": 195.0,
-    "published_at": "2026-11-20T20:22:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50581403",
-    "title": "Show HN: OpenComputer – an open source alternative to Devin",
-    "url": "https://github.com/diggerhq/opencomputer",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-11-20T20:19:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50535504",
-    "title": "Replacing implicit optionals with a None type in TypeDB",
-    "url": "https://typedb.com/blog/replacing-implicit-optionals-with-a-none-type-in-typedb",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-11-17T18:03:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50580536",
-    "title": "Winedroid – run Android apps without Android (WASM demo)",
-    "url": "https://winedroid.soham.sh/demo/",
-    "source": "hackernews",
-    "score": 83.0,
-    "published_at": "2026-11-20T19:30:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50583768",
-    "title": "Sir Brian May adds new dimension to Hera asteroid",
-    "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-11-20T23:19:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50581084",
-    "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-    "url": "https://scottaaronson.blog/?p=10344",
-    "source": "hackernews",
-    "score": 185.0,
-    "published_at": "2026-11-20T20:03:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50579297",
-    "title": "Vibecoding an inference chip",
-    "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-    "source": "hackernews",
-    "score": 99.0,
-    "published_at": "2026-11-20T18:15:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50581177",
-    "title": "And Yet, It Moves",
-    "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-11-20T20:07:55+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50581110",
-    "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-    "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-    "source": "hackernews",
-    "score": 67.0,
-    "published_at": "2026-11-20T20:03:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50582629",
-    "title": "A few hours ago Google DeepMind created a math horizon repo",
-    "url": "https://github.com/google-deepmind/math-horizon",
-    "source": "hackernews",
-    "score": 43.0,
-    "published_at": "2026-11-20T21:42:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50583911",
-    "title": "GitHub nuked me with no reason, and (so far) no ability to contact a human",
-    "url": "https://nate.mecca1.net/posts/2026-11-20_help/",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-11-20T23:35:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50578358",
-    "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-    "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-    "source": "hackernews",
-    "score": 298.0,
-    "published_at": "2026-11-20T17:21:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50579331",
-    "title": "We promoted developers into architects without informing them",
-    "url": "https://manidoraisamy.com/developer-to-architect.html",
-    "source": "hackernews",
-    "score": 252.0,
-    "published_at": "2026-11-20T18:17:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50583274",
-    "title": "NINLIVE: The Nine Inch Nails live archive",
-    "url": "https://ninlive.com/",
-    "source": "hackernews",
-    "score": 52.0,
-    "published_at": "2026-11-20T22:30:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50581260",
-    "title": "Inkling 2 Mini",
-    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-    "source": "hackernews",
-    "score": 551.0,
-    "published_at": "2026-11-20T20:12:19+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50579568",
-    "title": "Hurried Announcement: Alessandro Masullo GRH",
-    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-    "source": "hackernews",
-    "score": 1371.0,
-    "published_at": "2026-11-20T18:33:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:9bvpac",
-    "title": "Persistent incrementality in Rust",
-    "url": "https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-11-19T22:16:34.286-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:lq9xuw",
-    "title": "Farcall, a terminal-ready Rust PC+DOS emulator",
-    "url": "https://www.dialup.net/farcall/",
-    "source": "lobsters",
-    "score": 13.0,
-    "published_at": "2026-11-19T20:12:07.853-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:irqtic",
-    "title": "Lisp Game Jam devlog: Polydraw",
-    "url": "https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-11-20T05:18:47.299-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:18c0lq",
-    "title": "Alice v0.6.0",
-    "url": "https://www.alicecaml.org/blog/alice-v0-6-0/",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-20T10:44:09.585-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:ocdhli",
-    "title": "DreamCoder: coding harness and IDE from the author of Mastering Emacs",
-    "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-    "source": "lobsters",
-    "score": 11.0,
-    "published_at": "2026-11-20T05:14:06.928-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:tr5ghf",
-    "title": "Garage Door Spam",
-    "url": "https://blog.harrison.page/garage-door-spam/",
-    "source": "lobsters",
-    "score": 22.0,
-    "published_at": "2026-11-19T20:41:39.230-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hneb5m",
-    "title": "What are you doing this weekend?",
-    "url": "https://lobste.rs/s/hneb5m",
-    "source": "lobsters",
-    "score": 9.0,
-    "published_at": "2026-11-20T04:05:29.792-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:i6dn7g",
-    "title": "Jujutsu Primer",
-    "url": "https://ethanlowman.com/posts/jj-primer/",
-    "source": "lobsters",
-    "score": 29.0,
-    "published_at": "2026-11-19T21:34:36.153-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:hcahbx",
-    "title": "Visited links are purple",
-    "url": "https://dbushell.com/2026/11/16/visited-links/",
-    "source": "lobsters",
-    "score": 19.0,
-    "published_at": "2026-11-20T03:58:05.152-06:00",
     "summary": "",
     "key_points": []
   }
