@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:lmxpfo",
+    "title": "Curb impacts of AI on programming to maintain EU sovereignty",
+    "url": "https://www.draketo.de/software/curb-ai-impact",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-27T01:00:03.110-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:fin7at",
+    "title": "Company Culture = Slack Emoji ÷ sqrt(Headcount)",
+    "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+    "source": "lobsters",
+    "score": 13.0,
+    "published_at": "2026-11-27T01:35:52.312-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kaj037",
+    "title": "Pimalaya goes stable",
+    "url": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-27T02:01:31.196-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:mbm7xw",
+    "title": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+    "url": "https://roboticoverlords.org/tinyhat",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-11-27T03:11:13.547-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260114",
+    "title": "感觉网易 uu 也可以下课了...",
+    "url": "https://www.v2ex.com/t/1260114",
+    "source": "v2ex",
+    "score": 132.0,
+    "published_at": "2026-11-26T12:12:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260214",
+    "title": "元旦准备飞到香港看 MyGO 演唱会，有点纠结要不要告诉父母",
+    "url": "https://www.v2ex.com/t/1260214",
+    "source": "v2ex",
+    "score": 134.0,
+    "published_at": "2026-11-27T01:55:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260187",
+    "title": "最近 Antigravity 重置太频繁了，于是我上线了一个 Agy Reset 重置信号监测站，让你不错过每一次重置，且本贴随楼抽 50 位评论者每位赠送 50$V2EX",
+    "url": "https://www.v2ex.com/t/1260187",
+    "source": "v2ex",
+    "score": 134.0,
+    "published_at": "2026-11-27T00:44:21+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260223",
+    "title": "有没有年付 1000-1500 左右的机场，要稳",
+    "url": "https://www.v2ex.com/t/1260223",
+    "source": "v2ex",
+    "score": 138.0,
+    "published_at": "2026-11-27T02:26:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260288",
+    "title": "为何新出的手机完全不支持 tf 卡了？",
+    "url": "https://www.v2ex.com/t/1260288",
+    "source": "v2ex",
+    "score": 150.0,
+    "published_at": "2026-11-27T04:52:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260241",
+    "title": "有人从 codex 弃坑转到 Antigravity 的没",
+    "url": "https://www.v2ex.com/t/1260241",
+    "source": "v2ex",
+    "score": 164.0,
+    "published_at": "2026-11-27T03:02:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260279",
+    "title": "求推荐: 怎么解决家庭超轻量的看电影/动画片需求",
+    "url": "https://www.v2ex.com/t/1260279",
+    "source": "v2ex",
+    "score": 174.0,
+    "published_at": "2026-11-27T04:07:35+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260233",
+    "title": "其他模型真的好用，我又何必折腾 Claude 呢",
+    "url": "https://www.v2ex.com/t/1260233",
+    "source": "v2ex",
+    "score": 176.0,
+    "published_at": "2026-11-27T02:50:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260212",
+    "title": "周五好，大家周末打算干啥",
+    "url": "https://www.v2ex.com/t/1260212",
+    "source": "v2ex",
+    "score": 310.0,
+    "published_at": "2026-11-27T01:48:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711989201411817498",
+    "title": "YouTube 是如何保存巨量视频文件的？",
+    "url": "https://juejin.cn/post/7711989201411817498",
+    "source": "juejin",
+    "score": 0.19996839,
+    "published_at": "2026-11-25T14:05:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7712008429045547042",
+    "title": "🔥🔥Agent Prompt 越写越多：怎么改，才不伤旧功能？",
+    "url": "https://juejin.cn/post/7712008429045547042",
+    "source": "juejin",
+    "score": 0.32362054,
+    "published_at": "2026-11-26T01:30:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711755205218926634",
+    "title": "一个 FDE 怎么干过一个项目组",
+    "url": "https://juejin.cn/post/7711755205218926634",
+    "source": "juejin",
+    "score": 0.15381007,
+    "published_at": "2026-11-25T02:46:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711753972730789922",
+    "title": "Gemini 4 很顺手，但 agy CLI 看不见上下文和额度，我做了个开源状态栏",
+    "url": "https://juejin.cn/post/7711753972730789922",
+    "source": "juejin",
+    "score": 0.14432019,
+    "published_at": "2026-11-25T05:55:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7712561672912896027",
+    "title": "🧠2026主流知识库技术对比：RAG、MD+grep、LLM Wiki优劣与落地场景",
+    "url": "https://juejin.cn/post/7712561672912896027",
+    "source": "juejin",
+    "score": 1.50464078,
+    "published_at": "2026-11-27T00:38:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711983801211895844",
+    "title": " GLM5.4和GPT6.1赛马，搞定超级玛丽32关！",
+    "url": "https://juejin.cn/post/7711983801211895844",
+    "source": "juejin",
+    "score": 0.25409739,
+    "published_at": "2026-11-25T13:10:36+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7712084377979093033",
+    "title": "Spring AI 还是 LangChain4j？2026 年 Java 接入大模型，我把这笔「架构赌注」的账算清楚了",
+    "url": "https://juejin.cn/post/7712084377979093033",
+    "source": "juejin",
+    "score": 0.42017491,
+    "published_at": "2026-11-26T03:37:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50664325",
+    "title": "Claude sabotaging SOTA ML research tasks",
+    "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "source": "hackernews",
+    "score": 116.0,
+    "published_at": "2026-11-27T08:28:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50661705",
+    "title": "The Cutthroat Business of Shipwrecks",
+    "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+    "source": "hackernews",
+    "score": 31.0,
+    "published_at": "2026-11-27T01:21:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50664104",
+    "title": "Indie web browser Ladybird enters alpha testing",
+    "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+    "source": "hackernews",
+    "score": 24.0,
+    "published_at": "2026-11-27T07:58:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50665488",
+    "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+    "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-11-27T11:09:04+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50664885",
+    "title": "'Cyber incident' forces UK Gov to take some services offline",
+    "url": "https://www.bbc.co.uk/news/live/c6rrg94lgjrjt",
+    "source": "hackernews",
+    "score": 23.0,
+    "published_at": "2026-11-27T09:44:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50663261",
+    "title": "Buy Nothing Day – Friday November 27th 2026",
+    "url": "https://www.buynothingday.co.uk/",
+    "source": "hackernews",
+    "score": 111.0,
+    "published_at": "2026-11-27T05:52:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50664191",
+    "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+    "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+    "source": "hackernews",
+    "score": 51.0,
+    "published_at": "2026-11-27T08:11:46+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50663089",
+    "title": "The need for a formally verifiable mainstream programming language",
+    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "source": "hackernews",
+    "score": 167.0,
+    "published_at": "2026-11-27T05:22:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50661646",
+    "title": "Hard Drive pricing has gotten bad",
+    "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "source": "hackernews",
+    "score": 373.0,
+    "published_at": "2026-11-27T01:13:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50663595",
+    "title": "The group chat where your AI talks behind your back",
+    "url": "https://construct22.com/",
+    "source": "hackernews",
+    "score": 291.0,
+    "published_at": "2026-11-27T06:44:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nfce9x",
     "title": "Hints and hazards: pg_plan_advice in PG19",
     "url": "https://clickhouse.com/blog/pg-plan-advice-postgresql-19",
@@ -4696,306 +4996,6 @@
     "source": "hackernews",
     "score": 3.0,
     "published_at": "2026-11-22T15:35:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50551397",
-    "title": "The Where's Waldo of the 1500s",
-    "url": "https://blog.alexbeals.com/posts/il-civetta",
-    "source": "hackernews",
-    "score": 19.0,
-    "published_at": "2026-11-18T20:04:28+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50597959",
-    "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-    "url": "https://simonwillison.net/2026/Nov/21/muru/",
-    "source": "hackernews",
-    "score": 46.0,
-    "published_at": "2026-11-22T09:57:01+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50566886",
-    "title": "What Makes UltraSMR Different?",
-    "url": "https://blog.westerndigital.com/what-is-ultrasmr-technology/",
-    "source": "hackernews",
-    "score": 8.0,
-    "published_at": "2026-11-19T21:44:50+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50555002",
-    "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-    "url": "https://news.ycombinator.com/item?id=50555002",
-    "source": "hackernews",
-    "score": 29.0,
-    "published_at": "2026-11-19T01:37:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50566495",
-    "title": "Self-hosted library branch over public web OPDS",
-    "url": "https://joinmayberry.com/",
-    "source": "hackernews",
-    "score": 83.0,
-    "published_at": "2026-11-19T21:15:47+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50600677",
-    "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-    "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-    "source": "hackernews",
-    "score": 47.0,
-    "published_at": "2026-11-22T15:42:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50594182",
-    "title": "A Better Vocabulary for Testing",
-    "url": "https://alperenkeles.com/posts/vocab-for-testing/",
-    "source": "hackernews",
-    "score": 31.0,
-    "published_at": "2026-11-21T22:15:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50599762",
-    "title": "Show HN: I built a game where you are an LLM's subagent",
-    "url": "https://github.com/gulivan/worker755",
-    "source": "hackernews",
-    "score": 109.0,
-    "published_at": "2026-11-22T13:56:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50600511",
-    "title": "Open Social Web Alliance",
-    "url": "https://osw-alliance.net/en/",
-    "source": "hackernews",
-    "score": 74.0,
-    "published_at": "2026-11-22T15:24:32+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:32rhzb",
-    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
-    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-    "source": "lobsters",
-    "score": 20.0,
-    "published_at": "2026-11-21T20:03:46.531-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258877",
-    "title": "重度使用 neon 后，我宣布中国人可以不用考虑开 claude 订阅了",
-    "url": "https://www.v2ex.com/t/1258877",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-11-22T05:15:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258864",
-    "title": "过了 30，配好了电脑，感觉电子阳痿了",
-    "url": "https://www.v2ex.com/t/1258864",
-    "source": "v2ex",
-    "score": 40.0,
-    "published_at": "2026-11-22T03:52:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258799",
-    "title": "Gemini 4 neon high ，实测高强度使用量消耗，Cli 模式 [时间: 2026.11.21]",
-    "url": "https://www.v2ex.com/t/1258799",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-11-21T12:48:49+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258773",
-    "title": "哈基米额度重置了 开蹬！",
-    "url": "https://www.v2ex.com/t/1258773",
-    "source": "v2ex",
-    "score": 44.0,
-    "published_at": "2026-11-21T09:09:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258855",
-    "title": "Apple Watch：戴了 8 年，我的使用测评",
-    "url": "https://www.v2ex.com/t/1258855",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-11-22T02:31:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258863",
-    "title": "分享一下我订阅 gemini 黑五优惠的流程",
-    "url": "https://www.v2ex.com/t/1258863",
-    "source": "v2ex",
-    "score": 60.0,
-    "published_at": "2026-11-22T03:49:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258845",
-    "title": "为什么没有 AI 攻克医学难题的消息？是因为跨学科吗？",
-    "url": "https://www.v2ex.com/t/1258845",
-    "source": "v2ex",
-    "score": 92.0,
-    "published_at": "2026-11-22T00:43:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258850",
-    "title": "Google 黑五 1 年 100 刀的活动，和现在 APP 上 15 刀 3 个月的活动能叠加吗？",
-    "url": "https://www.v2ex.com/t/1258850",
-    "source": "v2ex",
-    "score": 110.0,
-    "published_at": "2026-11-22T01:49:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709702143692161075",
-    "title": "我造了一个 Java 能力包：让 AI 直接调用你的业务代码",
-    "url": "https://juejin.cn/post/7709702143692161075",
-    "source": "juejin",
-    "score": 0.08760655,
-    "published_at": "2026-11-19T10:25:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709719643250884659",
-    "title": "Google 重返第一梯队",
-    "url": "https://juejin.cn/post/7709719643250884659",
-    "source": "juejin",
-    "score": 0.11391058,
-    "published_at": "2026-11-19T11:09:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709765280441139243",
-    "title": "腾讯这波上大分，Hy4-flash值得你猛蹬。",
-    "url": "https://juejin.cn/post/7709765280441139243",
-    "source": "juejin",
-    "score": 0.14817619,
-    "published_at": "2026-11-20T01:38:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709883238592659465",
-    "title": "MySQL兼容性实践：从SQL语法适配到业务系统平滑迁移",
-    "url": "https://juejin.cn/post/7709883238592659465",
-    "source": "juejin",
-    "score": 0.12730382,
-    "published_at": "2026-11-20T03:48:24+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710170786309226511",
-    "title": "不得了，Google 造反了，Opus 5.5 又被干了",
-    "url": "https://juejin.cn/post/7710170786309226511",
-    "source": "juejin",
-    "score": 0.46989329,
-    "published_at": "2026-11-21T10:07:21+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709802672979804198",
-    "title": "JavaScript 作用域、闭包与对象",
-    "url": "https://juejin.cn/post/7709802672979804198",
-    "source": "juejin",
-    "score": 0.09597852,
-    "published_at": "2026-11-19T15:35:39+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710090550490415114",
-    "title": " 理解 JavaScript 作用域链、return 与闭包",
-    "url": "https://juejin.cn/post/7710090550490415114",
-    "source": "juejin",
-    "score": 0.15191388,
-    "published_at": "2026-11-20T09:21:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709797595107147827",
-    "title": "别再搜「LangChain 教程」了——你学的 Chain 已经被判了死刑",
-    "url": "https://juejin.cn/post/7709797595107147827",
-    "source": "juejin",
-    "score": 0.13753646,
-    "published_at": "2026-11-19T15:37:40+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709758398561435684",
-    "title": "太强了！三周冲到8.6k+ Star，免Root 免电脑，Mika 在后台替你操作所有App",
-    "url": "https://juejin.cn/post/7709758398561435684",
-    "source": "juejin",
-    "score": 0.14574304,
-    "published_at": "2026-11-20T00:46:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50487155",
-    "title": "Show HN: Compile the same source for GPUs and CPUs",
-    "url": "https://github.com/ThrudTheBarbarian/xc",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-11-13T17:53:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50553496",
-    "title": "Pion Interceptor: WebRTC for Hackers",
-    "url": "https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-11-18T22:51:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50544428",
-    "title": "Reaktiv Workbook – A spreadsheet where every cell is Python",
-    "url": "https://workbook.bui.app/",
-    "source": "hackernews",
-    "score": 12.0,
-    "published_at": "2026-11-18T10:24:42+00:00",
     "summary": "",
     "key_points": []
   }
