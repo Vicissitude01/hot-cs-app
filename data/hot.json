@@ -1,5 +1,325 @@
 [
   {
+    "id": "lobsters:amjski",
+    "title": "Why optimistic updates are corrosive",
+    "url": "https://datastar-instant-intent.ndyg.cross.stream/corrosive/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-27T14:01:50.431-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:twxtcq",
+    "title": "An Overview of Go's Tooling: Version 2",
+    "url": "https://www.alexedwards.net/blog/an-overview-of-go-tooling-v2",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-27T06:22:52.836-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:tgihkm",
+    "title": "Exception Best Practices",
+    "url": "https://www.well-typed.com/blog/2026/11/exception-best-practices/",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-27T07:05:30.318-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:c2zrmq",
+    "title": "Build your own Paint",
+    "url": "https://www.buildyourownpaint.com/en",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-27T10:22:36.766-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:hizg2w",
+    "title": "Pop!_OS 26.04 LTS Has Landed",
+    "url": "https://system76.com/blog/post/pop_os-26-04-lts-has-landed",
+    "source": "lobsters",
+    "score": 9.0,
+    "published_at": "2026-11-27T10:42:50.585-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:d0phlt",
+    "title": "Objections to .php application being published on ICANN site",
+    "url": "https://pub.roddie.digital/3n3aavxi6hc2g",
+    "source": "lobsters",
+    "score": 10.0,
+    "published_at": "2026-11-27T12:16:09.126-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:u746hs",
+    "title": "The State of Allocators in 2026 - Finally Stabilised",
+    "url": "https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/",
+    "source": "lobsters",
+    "score": 17.0,
+    "published_at": "2026-11-27T10:09:11.598-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:locqp9",
+    "title": "What are you doing this weekend?",
+    "url": "https://lobste.rs/s/locqp9",
+    "source": "lobsters",
+    "score": 12.0,
+    "published_at": "2026-11-27T07:23:08.841-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:96gu7o",
+    "title": "Hard Drive pricing has gotten bad",
+    "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "source": "lobsters",
+    "score": 14.0,
+    "published_at": "2026-11-27T10:15:23.956-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260208",
+    "title": "2-3k 可以买到比较可以的相机吗",
+    "url": "https://www.v2ex.com/t/1260208",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-11-27T01:38:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7712366780576038962",
+    "title": "Antigravity 保姆级实战教程，从 0 到 1 万字干货！",
+    "url": "https://juejin.cn/post/7712366780576038962",
+    "source": "juejin",
+    "score": 0.82967762,
+    "published_at": "2026-11-26T12:58:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50666436",
+    "title": "Mental Health Resources and Political Engagement",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+    "source": "hackernews",
+    "score": 112.0,
+    "published_at": "2026-11-27T13:01:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50666279",
+    "title": "New York and California age gating rules go into effect in the new year",
+    "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+    "source": "hackernews",
+    "score": 168.0,
+    "published_at": "2026-11-27T12:43:40+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50670088",
+    "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+    "source": "hackernews",
+    "score": 7.0,
+    "published_at": "2026-11-27T18:28:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50662933",
+    "title": "\"What's Claude's fursona?\" and other questions",
+    "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+    "source": "hackernews",
+    "score": 153.0,
+    "published_at": "2026-11-27T04:56:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50670855",
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-11-27T19:42:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50667452",
+    "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+    "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+    "source": "hackernews",
+    "score": 40.0,
+    "published_at": "2026-11-27T14:37:02+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50633531",
+    "title": "Show HN: Analysis of Hacker News predictions since 2008",
+    "url": "https://hnpredictions.com/",
+    "source": "hackernews",
+    "score": 17.0,
+    "published_at": "2026-11-24T19:46:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50665968",
+    "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+    "url": "https://eprint.iacr.org/2026/3020.pdf",
+    "source": "hackernews",
+    "score": 190.0,
+    "published_at": "2026-11-27T12:08:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50666375",
+    "title": "US Air Force's cloud computing platform hacked",
+    "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+    "source": "hackernews",
+    "score": 267.0,
+    "published_at": "2026-11-27T12:54:11+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50667062",
+    "title": "Making a 3D fantasy map like a 16th-Century atlas",
+    "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-11-27T14:02:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50670841",
+    "title": "The AT&T Unix PC (3B1) VM",
+    "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+    "source": "hackernews",
+    "score": 4.0,
+    "published_at": "2026-11-27T19:40:33+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50667371",
+    "title": "Rayshader 1.0: Exit the Matrix",
+    "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-11-27T14:30:20+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50669673",
+    "title": "Show HN: DragDropMath – Learn math by feel",
+    "url": "https://dragdropmath.com/",
+    "source": "hackernews",
+    "score": 14.0,
+    "published_at": "2026-11-27T17:56:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50662313",
+    "title": "Citroën Hydraulic System",
+    "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+    "source": "hackernews",
+    "score": 13.0,
+    "published_at": "2026-11-27T03:10:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50667989",
+    "title": "False computer-checked proofs",
+    "url": "https://cr.yp.to/proofs/falseccp.html",
+    "source": "hackernews",
+    "score": 119.0,
+    "published_at": "2026-11-27T15:26:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50657392",
+    "title": "First images of the impact of DART asteroid deflection experiment",
+    "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+    "source": "hackernews",
+    "score": 144.0,
+    "published_at": "2026-11-26T17:24:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50670757",
+    "title": "Michael Nielsen took down his book on neural nets",
+    "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+    "source": "hackernews",
+    "score": 66.0,
+    "published_at": "2026-11-27T19:31:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50667726",
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "url": "https://bouncemarket.minhanhday.com/",
+    "source": "hackernews",
+    "score": 272.0,
+    "published_at": "2026-11-27T15:01:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50643158",
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "source": "hackernews",
+    "score": 18.0,
+    "published_at": "2026-11-25T15:16:53+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50669765",
+    "title": "Convex skills send the user's app idea to a remote server without telling them",
+    "url": "https://github.com/convex/convex-backend-skill/issues/64",
+    "source": "hackernews",
+    "score": 84.0,
+    "published_at": "2026-11-27T18:02:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50668145",
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "source": "hackernews",
+    "score": 243.0,
+    "published_at": "2026-11-27T15:40:31+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:lmxpfo",
     "title": "Curb impacts of AI on programming to maintain EU sovereignty",
     "url": "https://www.draketo.de/software/curb-ai-impact",
@@ -4676,326 +4996,6 @@
     "source": "hackernews",
     "score": 30.0,
     "published_at": "2026-11-19T05:02:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50603232",
-    "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
-    "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-    "source": "hackernews",
-    "score": 65.0,
-    "published_at": "2026-11-22T19:51:46+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50604314",
-    "title": "Agent swarm trying to solve P vs. NP",
-    "url": "https://pequalnp.com/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-11-22T21:53:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50603962",
-    "title": "Will the first approved psychedelic become a blockbuster?",
-    "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-11-22T21:13:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50603674",
-    "title": "I did a meditation and it sort of changed my personality?!",
-    "url": "https://www.benkuhn.net/meditation/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-11-22T20:41:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50546124",
-    "title": "Advice for Young Researchers",
-    "url": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
-    "source": "hackernews",
-    "score": 20.0,
-    "published_at": "2026-11-18T13:33:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50547698",
-    "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-    "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-11-18T15:43:29+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50604472",
-    "title": "The Usefulness of Useless Knowledge [pdf]",
-    "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-    "source": "hackernews",
-    "score": 6.0,
-    "published_at": "2026-11-22T22:10:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50602947",
-    "title": "What Happened to Silicon Valley?",
-    "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-    "source": "hackernews",
-    "score": 273.0,
-    "published_at": "2026-11-22T19:20:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50601525",
-    "title": "Perplexity and Intelligence",
-    "url": "https://openai.com/index/perplexity-and-intelligence/",
-    "source": "hackernews",
-    "score": 417.0,
-    "published_at": "2026-11-22T17:06:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50603589",
-    "title": "A miniature San Francisco with live buses, planes and boats",
-    "url": "https://smallsf.com/",
-    "source": "hackernews",
-    "score": 68.0,
-    "published_at": "2026-11-22T20:33:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50603465",
-    "title": "Nyx, the Oldest Internet Service Provider",
-    "url": "https://nyx.net/",
-    "source": "hackernews",
-    "score": 57.0,
-    "published_at": "2026-11-22T20:15:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50603845",
-    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-    "source": "hackernews",
-    "score": 69.0,
-    "published_at": "2026-11-22T21:01:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50602843",
-    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-    "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-    "source": "hackernews",
-    "score": 237.0,
-    "published_at": "2026-11-22T19:10:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:bjoete",
-    "title": "Falsehoods Programmers Believe About ATProto",
-    "url": "https://reiver.link/atproto/falsehoods-programmers-believe/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-22T10:37:12.288-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:7hzqwh",
-    "title": "We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
-    "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-22T10:37:37.600-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:nbtm5j",
-    "title": "Fixing Google’s Feedburner problem, and caching that half works",
-    "url": "https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-11-22T06:30:56.181-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:yhl0jk",
-    "title": "What If Netscape Did SSL the HTTP Way?",
-    "url": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-22T08:48:20.739-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258894",
-    "title": "关于 Agy 无法将远程 Mac 作为开发宿主机，大家目前有优雅的解决方案吗？",
-    "url": "https://www.v2ex.com/t/1258894",
-    "source": "v2ex",
-    "score": 48.0,
-    "published_at": "2026-11-22T07:18:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258895",
-    "title": "有没有网上方便采购的预制菜，方便做+好吃营养+省钱的推荐？懒人不想花太多时间折腾吃了。",
-    "url": "https://www.v2ex.com/t/1258895",
-    "source": "v2ex",
-    "score": 62.0,
-    "published_at": "2026-11-22T07:33:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258887",
-    "title": "google 账号改地区总是被驳回",
-    "url": "https://www.v2ex.com/t/1258887",
-    "source": "v2ex",
-    "score": 76.0,
-    "published_at": "2026-11-22T06:14:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258889",
-    "title": "创建了几个 muse 账户，有谁想玩吗",
-    "url": "https://www.v2ex.com/t/1258889",
-    "source": "v2ex",
-    "score": 114.0,
-    "published_at": "2026-11-22T06:37:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710139371357519899",
-    "title": "带您看懂字节码指令（四）：一条指令里有什么",
-    "url": "https://juejin.cn/post/7710139371357519899",
-    "source": "juejin",
-    "score": 0.12329145,
-    "published_at": "2026-11-20T14:08:44+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710060982517432356",
-    "title": "AI Agent 如何进入实时交易系统：货拉拉的三个实践与一套工程方法论",
-    "url": "https://juejin.cn/post/7710060982517432356",
-    "source": "juejin",
-    "score": 0.13790077,
-    "published_at": "2026-11-20T09:28:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710069393502683178",
-    "title": "豆包工作，3 个月，800 万，20 亿",
-    "url": "https://juejin.cn/post/7710069393502683178",
-    "source": "juejin",
-    "score": 0.07517642,
-    "published_at": "2026-11-20T09:56:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710090550490710026",
-    "title": " 理解 JavaScript 对象、原型与包装类",
-    "url": "https://juejin.cn/post/7710090550490710026",
-    "source": "juejin",
-    "score": 0.11009596,
-    "published_at": "2026-11-20T09:48:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709859987845218331",
-    "title": "深度拆解 Design Agent：LangChain 出品，AI 设计从「好看」走向「可用」",
-    "url": "https://juejin.cn/post/7709859987845218331",
-    "source": "juejin",
-    "score": 0.13717528,
-    "published_at": "2026-11-20T01:56:26+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710140388783603750",
-    "title": "彻底搞懂 JS 对象：从字面量、构造函数到原型链与包装类",
-    "url": "https://juejin.cn/post/7710140388783603750",
-    "source": "juejin",
-    "score": 0.19673757,
-    "published_at": "2026-11-20T14:49:16+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50549457",
-    "title": "String Art Font (2017)",
-    "url": "https://erikdemaine.org/fonts/stringart/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-11-18T17:42:57+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50573870",
-    "title": "Field Mice on Drugs",
-    "url": "https://ambrook.com/offrange/livestock/field-mice-on-drugs",
-    "source": "hackernews",
-    "score": 21.0,
-    "published_at": "2026-11-20T12:40:06+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50600435",
-    "title": "Backblaze customers worried of personal data sale/sharing after policy update",
-    "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
-    "source": "hackernews",
-    "score": 27.0,
-    "published_at": "2026-11-22T15:16:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50597612",
-    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-    "source": "hackernews",
-    "score": 476.0,
-    "published_at": "2026-11-22T08:57:34+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50600622",
-    "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-    "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-11-22T15:35:24+00:00",
     "summary": "",
     "key_points": []
   }
