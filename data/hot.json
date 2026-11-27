@@ -1,5 +1,305 @@
 [
   {
+    "id": "lobsters:nfce9x",
+    "title": "Hints and hazards: pg_plan_advice in PG19",
+    "url": "https://clickhouse.com/blog/pg-plan-advice-postgresql-19",
+    "source": "lobsters",
+    "score": 4.0,
+    "published_at": "2026-11-26T07:20:26.832-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:xsjwvi",
+    "title": "AI made self-hosting fun again",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-26T19:50:42.910-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wfkkh4",
+    "title": "Ambiguous Errors Are the Mind Killer",
+    "url": "https://amit.prasad.me/blog/ambiguous-errors",
+    "source": "lobsters",
+    "score": 2.0,
+    "published_at": "2026-11-26T15:23:06.690-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:byfdgn",
+    "title": "The need for a formally verifiable mainstream programming language",
+    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "source": "lobsters",
+    "score": 7.0,
+    "published_at": "2026-11-26T14:06:50.248-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:afxeri",
+    "title": "Taking Email Back",
+    "url": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
+    "source": "lobsters",
+    "score": 16.0,
+    "published_at": "2026-11-26T13:51:21.378-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259915",
+    "title": "网易云音乐的操作越来越恶心 不开会员广告轰炸骚扰",
+    "url": "https://www.v2ex.com/t/1259915",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-11-26T02:22:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259987",
+    "title": "​银杏树下的汉服少女",
+    "url": "https://www.v2ex.com/t/1259987",
+    "source": "v2ex",
+    "score": 84.0,
+    "published_at": "2026-11-26T06:00:03+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260025",
+    "title": "就在刚刚 Antigravity 的额度被重置了，是什么情况",
+    "url": "https://www.v2ex.com/t/1260025",
+    "source": "v2ex",
+    "score": 92.0,
+    "published_at": "2026-11-26T07:17:01+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1259970",
+    "title": "楼上最近每天都干柴烈火的，求支招",
+    "url": "https://www.v2ex.com/t/1259970",
+    "source": "v2ex",
+    "score": 128.0,
+    "published_at": "2026-11-26T04:21:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711658371657416744",
+    "title": " NVIDIA 全产品谱系与演进 ",
+    "url": "https://juejin.cn/post/7711658371657416744",
+    "source": "juejin",
+    "score": 0.14429253,
+    "published_at": "2026-11-24T13:47:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7711918719953895459",
+    "title": "又又又用 AI 写了个小程序：我站起来猛蹬 AI，使劲薅羊毛",
+    "url": "https://juejin.cn/post/7711918719953895459",
+    "source": "juejin",
+    "score": 0.23984439,
+    "published_at": "2026-11-25T07:20:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7712021656399462415",
+    "title": "实测 10 个前端 UI 生成开源 Skill｜AI 输出直达上线标准",
+    "url": "https://juejin.cn/post/7712021656399462415",
+    "source": "juejin",
+    "score": 0.55213427,
+    "published_at": "2026-11-26T02:28:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7712021656399675407",
+    "title": "大模型蒸馏到底在蒸什么？一篇文章搞懂知识蒸馏概念",
+    "url": "https://juejin.cn/post/7712021656399675407",
+    "source": "juejin",
+    "score": 0.52994469,
+    "published_at": "2026-11-26T02:53:42+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50658498",
+    "title": "An introduction to uncertainty in machine learning",
+    "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-11-26T19:04:50+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50651430",
+    "title": "NormalScript: A perfectly normal scripting language",
+    "url": "https://psychoscript.com/",
+    "source": "hackernews",
+    "score": 77.0,
+    "published_at": "2026-11-26T04:32:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50650860",
+    "title": "The Naturalist's Library",
+    "url": "https://www.c82.net/naturalists-library/",
+    "source": "hackernews",
+    "score": 8.0,
+    "published_at": "2026-11-26T02:55:41+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50652527",
+    "title": "OpenAI may be in cost control mode",
+    "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+    "source": "hackernews",
+    "score": 277.0,
+    "published_at": "2026-11-26T07:33:12+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50651863",
+    "title": "An algebraic quantization of gravity from the null cone",
+    "url": "https://arxiv.org/abs/2611.34924",
+    "source": "hackernews",
+    "score": 214.0,
+    "published_at": "2026-11-26T05:37:51+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50649040",
+    "title": "The USAID Files",
+    "url": "https://reclaimthenet.org/usaid-files",
+    "source": "hackernews",
+    "score": 139.0,
+    "published_at": "2026-11-25T23:15:52+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50655868",
+    "title": "Show HN: I wrote an entire Vim manual over 4 years",
+    "url": "http://themouseless.dev/vim/",
+    "source": "hackernews",
+    "score": 63.0,
+    "published_at": "2026-11-26T14:44:22+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50661218",
+    "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+    "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+    "source": "hackernews",
+    "score": 28.0,
+    "published_at": "2026-11-27T00:03:18+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50653477",
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "source": "hackernews",
+    "score": 244.0,
+    "published_at": "2026-11-26T09:44:23+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50657936",
+    "title": "George Whitesides, 1939-2026",
+    "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+    "source": "hackernews",
+    "score": 65.0,
+    "published_at": "2026-11-26T18:13:07+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50651099",
+    "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+    "url": "https://olumino.app",
+    "source": "hackernews",
+    "score": 77.0,
+    "published_at": "2026-11-26T03:33:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50658193",
+    "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+    "url": "https://bui.preetham.top/charts/",
+    "source": "hackernews",
+    "score": 61.0,
+    "published_at": "2026-11-26T18:37:24+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50659640",
+    "title": "Company Culture = Slack Emoji ÷ √Headcount",
+    "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+    "source": "hackernews",
+    "score": 102.0,
+    "published_at": "2026-11-26T20:49:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50658632",
+    "title": "Rvoip: VoIP stack in Rust",
+    "url": "https://github.com/eisenzopf/rvoip",
+    "source": "hackernews",
+    "score": 88.0,
+    "published_at": "2026-11-26T19:18:09+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50660273",
+    "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+    "url": "https://kendell.dev/blog/arkwrapper/",
+    "source": "hackernews",
+    "score": 42.0,
+    "published_at": "2026-11-26T21:59:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50659841",
+    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+    "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+    "source": "hackernews",
+    "score": 243.0,
+    "published_at": "2026-11-26T21:08:05+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50660180",
+    "title": "AI made self-hosting fun again",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "source": "hackernews",
+    "score": 317.0,
+    "published_at": "2026-11-26T21:47:45+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:nkmtqk",
     "title": "Understanding \"You are not expected to understand this.\"",
     "url": "https://www.taniwha.com/~paul/not.html",
@@ -4696,306 +4996,6 @@
     "source": "hackernews",
     "score": 12.0,
     "published_at": "2026-11-18T10:24:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50596155",
-    "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-    "url": "https://github.com/EL4CTEO/fast-anything",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-11-22T04:10:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50554572",
-    "title": "Reversing the Next-Page Prefetcher in Skylake-X",
-    "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
-    "source": "hackernews",
-    "score": 4.0,
-    "published_at": "2026-11-19T00:50:05+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50560314",
-    "title": "Split Radiance Cascades",
-    "url": "https://www.jacktollenaar.top/articles/split-rc.html",
-    "source": "hackernews",
-    "score": 24.0,
-    "published_at": "2026-11-19T14:08:33+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50595537",
-    "title": "The Mythology of Conscious AI",
-    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-    "source": "hackernews",
-    "score": 54.0,
-    "published_at": "2026-11-22T02:10:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50569846",
-    "title": "If tiny 'primordial' black holes exist",
-    "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
-    "source": "hackernews",
-    "score": 22.0,
-    "published_at": "2026-11-20T03:37:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50595554",
-    "title": "Data Processing Incidents on Inference Providers",
-    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-    "source": "hackernews",
-    "score": 128.0,
-    "published_at": "2026-11-22T02:14:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50596960",
-    "title": "Notes on the discrete Fourier transform (DFT)",
-    "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-    "source": "hackernews",
-    "score": 17.0,
-    "published_at": "2026-11-22T06:52:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50596664",
-    "title": "Show HN: The Riemann Proof Handbook",
-    "url": "https://github.com/tamnd/riemann-handbook",
-    "source": "hackernews",
-    "score": 34.0,
-    "published_at": "2026-11-22T05:46:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50597014",
-    "title": "The Engineering Manager's role is under attack (again)",
-    "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
-    "source": "hackernews",
-    "score": 36.0,
-    "published_at": "2026-11-22T07:01:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50596133",
-    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-    "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-    "source": "hackernews",
-    "score": 392.0,
-    "published_at": "2026-11-22T04:04:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:et5q0q",
-    "title": "port scanning for mojang",
-    "url": "https://sipacid.com/blog/port-scanning-for-mojang/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-21T17:40:51.912-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:n5i1ds",
-    "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
-    "url": "https://pwn.ai/upload2shell/research.html",
-    "source": "lobsters",
-    "score": 2.0,
-    "published_at": "2026-11-21T18:52:23.423-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:6jloca",
-    "title": "NixOS bring-up on an Alibaba RISC-V board",
-    "url": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-21T18:30:07.226-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:inhlo2",
-    "title": "Advice for the next 100 Rust GUIs",
-    "url": "https://linebender.org/blog/next-100-guis/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-11-21T17:10:07.020-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "v2ex:1258707",
-    "title": "观人工智能解决黎曼猜想有感",
-    "url": "https://www.v2ex.com/t/1258707",
-    "source": "v2ex",
-    "score": 50.0,
-    "published_at": "2026-11-21T03:13:02+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7709755274685055003",
-    "title": "Cloudflare 开源的这套神级安全审计 Skill 太好用了！ ",
-    "url": "https://juejin.cn/post/7709755274685055003",
-    "source": "juejin",
-    "score": 0.14815893,
-    "published_at": "2026-11-19T12:27:42+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710140388782424102",
-    "title": "2026 Vue 生态分析：底层重写了一遍，升级却几乎零成本",
-    "url": "https://juejin.cn/post/7710140388782424102",
-    "source": "juejin",
-    "score": 0.15132219,
-    "published_at": "2026-11-20T10:38:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50594911",
-    "title": "Sandwich Simulator",
-    "url": "https://stulle.app/",
-    "source": "hackernews",
-    "score": 9.0,
-    "published_at": "2026-11-22T00:07:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50553223",
-    "title": "Shaping the Loops, Closing the Loops",
-    "url": "https://revyl.com/blog/pattern-engineering/",
-    "source": "hackernews",
-    "score": 3.0,
-    "published_at": "2026-11-18T22:29:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50546495",
-    "title": "Exponential Behavior in Magic: The Gathering",
-    "url": "https://levineuwirth.org/essays/exponential-magic/",
-    "source": "hackernews",
-    "score": 90.0,
-    "published_at": "2026-11-18T14:07:09+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50560203",
-    "title": "Windows has two settings that bring work back after restart, both off by default",
-    "url": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
-    "source": "hackernews",
-    "score": 37.0,
-    "published_at": "2026-11-19T14:00:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50593679",
-    "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-    "url": "https://tasklet.ai/careers",
-    "source": "hackernews",
-    "score": 1.0,
-    "published_at": "2026-11-21T21:11:08+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50593637",
-    "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-    "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-11-21T21:06:14+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50595256",
-    "title": "Supposed Fired Rockstar Engineer Says GTAVI Makes Psychological Profiles",
-    "url": "https://www.gadgetreview.com/man-claiming-to-be-fired-rockstar-engineer-says-gta-6-is-secretly-tracking-player-behavior-and-reporting-it-to-take-two",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-11-22T01:12:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50593481",
-    "title": "Pandex – Official European Law for AI Agents, over MCP",
-    "url": "https://www.pandex.io",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-11-21T20:47:41+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50593737",
-    "title": "Advice for the next 100 Rust GUIs",
-    "url": "https://linebender.org/blog/next-100-guis/",
-    "source": "hackernews",
-    "score": 82.0,
-    "published_at": "2026-11-21T21:17:53+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50594132",
-    "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-11-21T22:09:58+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:emymet",
-    "title": "How 2 Security Research (MLG)",
-    "url": "https://www.youtube.com/watch?v=dXQ_9WN6KLQ",
-    "source": "lobsters",
-    "score": 3.0,
-    "published_at": "2026-11-21T10:57:15.685-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:pvylnk",
-    "title": "How I Got Postgres into a Single Binary",
-    "url": "https://progrium.xyz/articles/2026/single-binary-postgres",
-    "source": "lobsters",
-    "score": 4.0,
-    "published_at": "2026-11-21T13:32:22.642-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:qxzs4y",
-    "title": "TODOs JJ Style",
-    "url": "https://bwc9876.dev/blog/jj_todo/",
-    "source": "lobsters",
-    "score": 27.0,
-    "published_at": "2026-11-21T09:17:18.956-06:00",
     "summary": "",
     "key_points": []
   }
