@@ -1,5 +1,315 @@
 [
   {
+    "id": "lobsters:cz9ecz",
+    "title": "My Approach to Alt Text (2024)",
+    "url": "http://adrianroselli.com/2024/05/my-approach-to-alt-text.html",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-27T16:00:18.913-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:wkljma",
+    "title": "A Best-in-Class iOS App: The Book Series",
+    "url": "https://www.bestinclassiosapp.com/",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-27T18:12:41.264-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ohmjfv",
+    "title": "Proof automation in a language",
+    "url": "https://www.imperialviolet.org/2026/11/15/proofauto2.html",
+    "source": "lobsters",
+    "score": 3.0,
+    "published_at": "2026-11-27T14:42:02.268-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:ulfg29",
+    "title": "FastLanes: Next-gen File Format",
+    "url": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
+    "source": "lobsters",
+    "score": 1.0,
+    "published_at": "2026-11-27T18:12:53.791-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "lobsters:kikmfz",
+    "title": "x86 is an octal machine",
+    "url": "https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da",
+    "source": "lobsters",
+    "score": 6.0,
+    "published_at": "2026-11-27T14:24:04.111-06:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260255",
+    "title": "GOOGLE 的 AI PRO，哪些卡可以啊",
+    "url": "https://www.v2ex.com/t/1260255",
+    "source": "v2ex",
+    "score": 74.0,
+    "published_at": "2026-11-27T03:19:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260318",
+    "title": "做了一个食品条码查询小程序，却发现产品推广比开发更难",
+    "url": "https://www.v2ex.com/t/1260318",
+    "source": "v2ex",
+    "score": 76.0,
+    "published_at": "2026-11-27T06:23:59+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260372",
+    "title": "建议大家理性上车年付的 AI 订阅",
+    "url": "https://www.v2ex.com/t/1260372",
+    "source": "v2ex",
+    "score": 80.0,
+    "published_at": "2026-11-27T08:38:13+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260294",
+    "title": "有没有已经“退休”的哥们，讲讲你们每天都干些什么？",
+    "url": "https://www.v2ex.com/t/1260294",
+    "source": "v2ex",
+    "score": 82.0,
+    "published_at": "2026-11-27T05:13:10+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260303",
+    "title": "卧槽了，真的是一阳改三观？",
+    "url": "https://www.v2ex.com/t/1260303",
+    "source": "v2ex",
+    "score": 88.0,
+    "published_at": "2026-11-27T05:42:06+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260356",
+    "title": "公司每个月只交 299 元公积金，剩下的都是我自己补的，一审法院却说这事不归法院管？",
+    "url": "https://www.v2ex.com/t/1260356",
+    "source": "v2ex",
+    "score": 100.0,
+    "published_at": "2026-11-27T08:07:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "v2ex:1260358",
+    "title": "新用户黑五 Google AI Pro 优惠",
+    "url": "https://www.v2ex.com/t/1260358",
+    "source": "v2ex",
+    "score": 108.0,
+    "published_at": "2026-11-27T08:13:54+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7712564916964065299",
+    "title": "前端和后端，转 AI 全栈怎么转",
+    "url": "https://juejin.cn/post/7712564916964065299",
+    "source": "juejin",
+    "score": 0.33071875,
+    "published_at": "2026-11-27T03:29:19+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "juejin:7712321591590436898",
+    "title": "从 Java 21 升到 25、Spring Boot 3 升 4：一次可复现的迁移踩坑实录",
+    "url": "https://juejin.cn/post/7712321591590436898",
+    "source": "juejin",
+    "score": 0.28691791,
+    "published_at": "2026-11-26T13:11:08+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50647400",
+    "title": "Atlantic 1866: information and shipping in the age of the telegraph",
+    "url": "https://atlantic-1866.com/",
+    "source": "hackernews",
+    "score": 30.0,
+    "published_at": "2026-11-25T20:55:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50671275",
+    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+    "url": "https://github.com/skeeto/prospero",
+    "source": "hackernews",
+    "score": 37.0,
+    "published_at": "2026-11-27T20:23:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50638593",
+    "title": "Lydian Chromatic Concept of Tonal Organization",
+    "url": "https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-11-25T04:46:49+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50670340",
+    "title": "Scrapheap America",
+    "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+    "source": "hackernews",
+    "score": 69.0,
+    "published_at": "2026-11-27T18:50:26+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50671651",
+    "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+    "url": "https://sessiongraph.ai/",
+    "source": "hackernews",
+    "score": 33.0,
+    "published_at": "2026-11-27T21:07:34+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50673444",
+    "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
+    "url": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
+    "source": "hackernews",
+    "score": 35.0,
+    "published_at": "2026-11-28T01:20:16+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50673521",
+    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+    "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+    "source": "hackernews",
+    "score": 54.0,
+    "published_at": "2026-11-28T01:32:56+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50672521",
+    "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+    "url": "https://tabernet.es/",
+    "source": "hackernews",
+    "score": 43.0,
+    "published_at": "2026-11-27T23:00:30+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50672142",
+    "title": "Source Control from Hell",
+    "url": "https://frantic.im/git/",
+    "source": "hackernews",
+    "score": 68.0,
+    "published_at": "2026-11-27T22:06:44+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50631823",
+    "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+    "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+    "source": "hackernews",
+    "score": 48.0,
+    "published_at": "2026-11-24T17:55:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50654773",
+    "title": "How WinHelp Files Work",
+    "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+    "source": "hackernews",
+    "score": 9.0,
+    "published_at": "2026-11-26T12:51:37+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50672008",
+    "title": "9/UX: a Macintosh-inspired desktop for 9front",
+    "url": "https://progrium.github.io/9ux/",
+    "source": "hackernews",
+    "score": 85.0,
+    "published_at": "2026-11-27T21:48:14+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50672835",
+    "title": "Passkey blues",
+    "url": "https://ssg.dev/passkey-blues/",
+    "source": "hackernews",
+    "score": 52.0,
+    "published_at": "2026-11-27T23:51:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50644213",
+    "title": "Cyberpunk Television Shows",
+    "url": "https://shellzine.net/cyberpunk-television/",
+    "source": "hackernews",
+    "score": 29.0,
+    "published_at": "2026-11-25T16:32:28+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50657346",
+    "title": "The Balatro Timeline",
+    "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+    "source": "hackernews",
+    "score": 97.0,
+    "published_at": "2026-11-26T17:20:27+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50672565",
+    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "source": "hackernews",
+    "score": 148.0,
+    "published_at": "2026-11-27T23:06:29+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
+    "id": "hackernews:50673688",
+    "title": "Atari Homebrew Awards Cancelled",
+    "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+    "source": "hackernews",
+    "score": 26.0,
+    "published_at": "2026-11-28T02:03:25+00:00",
+    "summary": "",
+    "key_points": []
+  },
+  {
     "id": "lobsters:amjski",
     "title": "Why optimistic updates are corrosive",
     "url": "https://datastar-instant-intent.ndyg.cross.stream/corrosive/",
@@ -4686,316 +4996,6 @@
     "source": "juejin",
     "score": 0.09906656,
     "published_at": "2026-11-20T08:54:43+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710577867138367551",
-    "title": "自从吸上了 T3 Code ，爽感堪比 GTA-6",
-    "url": "https://juejin.cn/post/7710577867138367551",
-    "source": "juejin",
-    "score": 0.80423401,
-    "published_at": "2026-11-22T08:56:04+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50605479",
-    "title": "Nespresso's project to reduce grams of coffee per capsule",
-    "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
-    "source": "hackernews",
-    "score": 123.0,
-    "published_at": "2026-11-22T23:57:45+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50606704",
-    "title": "Advanced Character Physics (2001) [pdf]",
-    "url": "https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-11-23T02:17:27+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50605445",
-    "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-    "url": "https://0rwx.com/",
-    "source": "hackernews",
-    "score": 26.0,
-    "published_at": "2026-11-22T23:53:00+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50575007",
-    "title": "How the World Draws the World",
-    "url": "https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html",
-    "source": "hackernews",
-    "score": 14.0,
-    "published_at": "2026-11-20T14:20:15+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50577353",
-    "title": "Verifying formal models of Raft implementations",
-    "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
-    "source": "hackernews",
-    "score": 5.0,
-    "published_at": "2026-11-20T16:33:22+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50604540",
-    "title": "Localcode, open source agentic coding on your Mac with one command",
-    "url": "https://github.com/mjwsolo/localcode",
-    "source": "hackernews",
-    "score": 33.0,
-    "published_at": "2026-11-22T22:18:48+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50606072",
-    "title": "What we learned operating auth for 1k APIs",
-    "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
-    "source": "hackernews",
-    "score": 11.0,
-    "published_at": "2026-11-23T01:01:11+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50605045",
-    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-    "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-    "source": "hackernews",
-    "score": 173.0,
-    "published_at": "2026-11-22T23:12:10+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50604123",
-    "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-    "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-    "source": "hackernews",
-    "score": 64.0,
-    "published_at": "2026-11-22T21:33:12+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50560563",
-    "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
-    "url": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
-    "source": "hackernews",
-    "score": 13.0,
-    "published_at": "2026-11-19T14:27:07+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50604988",
-    "title": "GL.iNet Security Notice 2026-11-20",
-    "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-    "source": "hackernews",
-    "score": 120.0,
-    "published_at": "2026-11-22T23:06:37+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50598441",
-    "title": "Masullo on the Riemann Hypothesis",
-    "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-    "source": "hackernews",
-    "score": 83.0,
-    "published_at": "2026-11-22T10:59:56+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50606192",
-    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-    "url": "https://spelunkr.tv",
-    "source": "hackernews",
-    "score": 169.0,
-    "published_at": "2026-11-23T01:13:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:g5msf2",
-    "title": "Testing Terraform with AWS Emulator",
-    "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
-    "source": "lobsters",
-    "score": 1.0,
-    "published_at": "2026-11-22T15:44:04.839-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:oeamed",
-    "title": "scriptura: a cozy corner for your scripts",
-    "url": "https://alanpearce.eu/post/scriptura/",
-    "source": "lobsters",
-    "score": 7.0,
-    "published_at": "2026-11-22T13:13:26.842-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:e89tey",
-    "title": "Calculate radio link placement and node amount for your city's mesh network",
-    "url": "https://meshcoveragecalculator.lalala.ing/",
-    "source": "lobsters",
-    "score": 5.0,
-    "published_at": "2026-11-22T12:17:44.770-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:wc8fla",
-    "title": "Gliver completes the Guix desktop",
-    "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
-    "source": "lobsters",
-    "score": 10.0,
-    "published_at": "2026-11-22T14:10:15.360-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "lobsters:leqwqu",
-    "title": "GitHub Actions accepts invalid YAML",
-    "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
-    "source": "lobsters",
-    "score": 8.0,
-    "published_at": "2026-11-22T15:49:18.929-06:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "juejin:7710123265189412904",
-    "title": "2026 GitHub 最火的 10 个视频制作与剪辑开源项目：AI 出片、代码生视频、无损剪辑怎么选（附实测截图）",
-    "url": "https://juejin.cn/post/7710123265189412904",
-    "source": "juejin",
-    "score": 0.16147466,
-    "published_at": "2026-11-21T01:48:23+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:cursor/plugins",
-    "title": "plugins",
-    "url": "https://github.com/cursor/plugins",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:jingyaogong/minimind",
-    "title": "minimind",
-    "url": "https://github.com/jingyaogong/minimind",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "github-trending:obra/superpowers",
-    "title": "superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "source": "github-trending",
-    "score": 50.0,
-    "published_at": "",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50603143",
-    "title": "Assume People Are Not Interested in Your Blog Post",
-    "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-    "source": "hackernews",
-    "score": 7.0,
-    "published_at": "2026-11-22T19:41:30+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50603730",
-    "title": "AWS got hit by an outage too. You didn't hear about it",
-    "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-    "source": "hackernews",
-    "score": 28.0,
-    "published_at": "2026-11-22T20:50:18+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50599309",
-    "title": "Testing Terraform with AWS Emulator",
-    "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
-    "source": "hackernews",
-    "score": 61.0,
-    "published_at": "2026-11-22T13:00:36+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50602153",
-    "title": "Harvard CS 2881R AI Safety",
-    "url": "https://boazbk.github.io/mltheoryseminar/",
-    "source": "hackernews",
-    "score": 18.0,
-    "published_at": "2026-11-22T18:01:54+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50559441",
-    "title": "The Transvoxel Algorithm",
-    "url": "https://transvoxel.org/",
-    "source": "hackernews",
-    "score": 51.0,
-    "published_at": "2026-11-19T12:50:25+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50600838",
-    "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
-    "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-    "source": "hackernews",
-    "score": 48.0,
-    "published_at": "2026-11-22T15:59:59+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50562207",
-    "title": "Inside PyPy: First Contact with RPython",
-    "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
-    "source": "hackernews",
-    "score": 49.0,
-    "published_at": "2026-11-19T16:26:51+00:00",
-    "summary": "",
-    "key_points": []
-  },
-  {
-    "id": "hackernews:50556249",
-    "title": "Agentics: Mushy Software",
-    "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
-    "source": "hackernews",
-    "score": 30.0,
-    "published_at": "2026-11-19T05:02:09+00:00",
     "summary": "",
     "key_points": []
   }
